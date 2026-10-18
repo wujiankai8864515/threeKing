@@ -1,0 +1,147 @@
+{
+  "hero": "甘宁",
+  "faction": "吴",
+  "status": "new candidates awaiting user review",
+  "art_native_cards": [
+    1024,
+    1536
+  ],
+  "art_native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "no_4k_claim": true,
+  "ui": {
+    "anchors": [
+      961,
+      1045,
+      1129
+    ],
+    "troop_icon": "水军",
+    "passive_counts": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "values": "草案",
+    "illustration": "native 1:1 at 84,145; no resizing for frame"
+  },
+  "assets": [
+    {
+      "id": "card01",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-01-黑铁-锦帆旧客.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/card01.png",
+      "sha256": "a6a76fe87d3db6d812e2783c980f397a9bccd6593d2bb5b2121885bdce29ffc9",
+      "size": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "id": "card02",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-02-青铜-江夏追影.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/card02.png",
+      "sha256": "bef964c80e598a7b01a6130d2d85061e723e24595f22d9fecd6232e97d413a80",
+      "size": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "id": "card03",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-03-白银-铁练攀城.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/card03.png",
+      "sha256": "842922ef4d7abb02a8e76cc5937c9281280c04937bf780de35f9fe5553e455e7",
+      "size": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "id": "card04",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-04-黄金-百翎入夜.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/card04.png",
+      "sha256": "7b0bc7fafd7fc0a31e1c37f2c2c97dbb55b4f43a89cfd7fc4f1910683a0d2218",
+      "size": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "id": "story02",
+      "target_card": "card02",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记01-立功不忘旧恩.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/story02.png",
+      "sha256": "a9e7113e5cc932cfd1c71248403eec3d015aa182a0ab2b7acaf4b3e7e0cb8856",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "story03",
+      "target_card": "card03",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记02-鼓下争先.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/story03.png",
+      "sha256": "b5588c768f027c0ca0c1aa3fde4322b0af0492a9f65676c091d225b8e10fba74",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "id": "story04",
+      "target_card": "card04",
+      "file": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记03-一百根白翎.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/raw/story04.png",
+      "sha256": "16756acf2cb98d5fdadff59093ad8f401331ed49c40852d2fd02dfc14609885a",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "library": {
+    "status": "uploaded_not_sent",
+    "files": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-01-黑铁-锦帆旧客.png",
+        "library_file_id": "libfile_bb3cc2f672508191a1efdca6e32339d7"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-02-青铜-江夏追影.png",
+        "library_file_id": "libfile_9eb9b7b94e5c8191ad62c4a40e9066c7"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-03-白银-铁练攀城.png",
+        "library_file_id": "libfile_b94bb5ef95e08191bc07da7b5e7dc33e"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-04-黄金-百翎入夜.png",
+        "library_file_id": "libfile_54fc4a098d0c819189d3367448fefcb2"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记01-立功不忘旧恩.png",
+        "library_file_id": "libfile_b763289a207c81919f796c0e636a5c77"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记02-鼓下争先.png",
+        "library_file_id": "libfile_a9ccf0cb71a88191999759fc29d780d7"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-传记03-一百根白翎.png",
+        "library_file_id": "libfile_44d763aaa0b08191ace4c79637d18e34"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/full-remake_20261019_014611_UTC+08/candidates/甘宁-完整七图总览.png",
+        "library_file_id": "libfile_44328b4b265081918232e37039565d25"
+      }
+    ]
+  },
+  "completion": "7 images + overview uploaded, no chat delivery by worker"
+}

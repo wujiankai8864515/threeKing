@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "128f2ece16aecad4aa65d858fa8d4daff3ce9286",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 8331,
+  "sequential_copy_sha256_checked": true,
+  "hero": "luxun"
+}
