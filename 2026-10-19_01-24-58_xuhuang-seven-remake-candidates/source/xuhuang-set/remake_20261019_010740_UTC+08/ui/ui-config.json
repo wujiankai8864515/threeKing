@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "徐晃",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "重斧",
+        "level": "+1"
+      }
+    ],
+    "status": "徐晃技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "徐晃",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "重斧",
+        "level": "+1"
+      }
+    ],
+    "status": "徐晃技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "徐晃",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "重斧",
+        "level": "+2"
+      },
+      {
+        "name": "截脉",
+        "level": "+2"
+      }
+    ],
+    "status": "徐晃技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "徐晃",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "重斧",
+        "level": "+3"
+      },
+      {
+        "name": "截脉",
+        "level": "+3"
+      },
+      {
+        "name": "断援",
+        "level": "+3"
+      }
+    ],
+    "status": "徐晃技能草案，单关键效果，候选待审"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-01-黑铁-箕关护行.png",
+        "file_id": "file_0000000060508230a6e24dd2e9353c04",
+        "library_file_id": "libfile_9b886a6f4a3c81918b8ae2f6bf43231b",
+        "file_name": "徐晃-01-黑铁-箕关护行.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3408168
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-02-青铜-夜别旧营.png",
+        "file_id": "file_00000000b2f081fd89dacb9cf910500a",
+        "library_file_id": "libfile_b95c8ba800448191bda7b872f616cb4e",
+        "file_name": "徐晃-02-青铜-夜别旧营.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3247641
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-03-白银-截断粮道.png",
+        "file_id": "file_00000000220481f89a45e1e060c680a5",
+        "library_file_id": "libfile_4904d5e3a6408191bcb2a8e2919ee942",
+        "file_name": "徐晃-03-白银-截断粮道.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3473896
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-04-黄金-沔水拆垒.png",
+        "file_id": "file_0000000091b881fdb6d420206594cf68",
+        "library_file_id": "libfile_11d3cdf3c7b48191860733ed6f0ee5d0",
+        "file_name": "徐晃-04-黄金-沔水拆垒.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3841220
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-05-传记-不以弑主换新途.png",
+        "file_id": "file_000000008f6881f5bbbc34b55e3c0075",
+        "library_file_id": "libfile_d98491a2fac48191be08b5b178ee6b1f",
+        "file_name": "徐晃-05-传记-不以弑主换新途.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2311724
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-06-传记-细作与粮车.png",
+        "file_id": "file_000000008d5881fd855d240cd8193d98",
+        "library_file_id": "libfile_1ec03c77ee648191a58fdb4c96aba98c",
+        "file_name": "徐晃-06-传记-细作与粮车.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2431028
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-07-传记-借旗绕沔水.png",
+        "file_id": "file_00000000eef481f8be7888a17c81776f",
+        "library_file_id": "libfile_5a1846c57bac8191a1a7470fb1f05448",
+        "file_name": "徐晃-07-传记-借旗绕沔水.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2952670
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/徐晃-四阶三传记-新候选总览.png",
+        "file_id": "file_00000000f21c81fdbe46fa852bd13826",
+        "library_file_id": "libfile_aa4b519a07648191a489d8640bcd1bb4",
+        "file_name": "徐晃-四阶三传记-新候选总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2724963
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

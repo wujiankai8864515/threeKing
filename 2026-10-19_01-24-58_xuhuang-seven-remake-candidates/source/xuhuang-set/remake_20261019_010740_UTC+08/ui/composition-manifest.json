@@ -1,0 +1,559 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "徐晃独立字段；四阶收藏阵营魏，黑铁场景为杨奉麾下护驾；等级为UI示例；一至四为阶级圆章",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "replacement_source_status": {
+    "bronze": "previous source",
+    "silver": "previous source",
+    "gold": "previous source"
+  },
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/remake_20261019_010740_UTC+08/raw/card01.png",
+      "source_sha256": "b7f8f933fd02c5a46c1ea2e7918bea5c35ba45f6cdc5d6dc1b37d466c2aad7d3",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "一",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+1"
+          }
+        ],
+        "status": "徐晃技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "重斧",
+            "ink_bbox": [
+              911,
+              1292,
+              996,
+              1333
+            ],
+            "ink_center": [
+              953.5,
+              1312.5
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1008,
+              1298,
+              1050,
+              1328
+            ],
+            "ink_center": [
+              1029.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "一",
+        "ink_bbox": [
+          138,
+          1603,
+          224,
+          1617
+        ],
+        "ink_center": [
+          181.0,
+          1610.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all four illustrations are new native generations",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/remake_20261019_010740_UTC+08/raw/card02.png",
+      "source_sha256": "df70ddba8447f7efd5f687113d881b01d380815350a44423000503d260a5cc60",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "二",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+1"
+          }
+        ],
+        "status": "徐晃技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "重斧",
+            "ink_bbox": [
+              911,
+              1292,
+              996,
+              1333
+            ],
+            "ink_center": [
+              953.5,
+              1312.5
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1008,
+              1298,
+              1050,
+              1328
+            ],
+            "ink_center": [
+              1029.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "二",
+        "ink_bbox": [
+          138,
+          1577,
+          223,
+          1641
+        ],
+        "ink_center": [
+          180.5,
+          1609.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all four illustrations are new native generations",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/remake_20261019_010740_UTC+08/raw/card03.png",
+      "source_sha256": "fc0afef5d656cd1935f62a60f5037ce9f4aed50cbde783117d91a41d412033b9",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "三",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+2"
+          },
+          {
+            "name": "截脉",
+            "level": "+2"
+          }
+        ],
+        "status": "徐晃技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "重斧",
+            "ink_bbox": [
+              911,
+              1195,
+              996,
+              1236
+            ],
+            "ink_center": [
+              953.5,
+              1215.5
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "截脉",
+            "ink_bbox": [
+              910,
+              1292,
+              997,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1009,
+              1297,
+              1052,
+              1328
+            ],
+            "ink_center": [
+              1030.5,
+              1312.5
+            ],
+            "target_center": [
+              1030.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.25651041666674246
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "三",
+        "ink_bbox": [
+          137,
+          1572,
+          223,
+          1647
+        ],
+        "ink_center": [
+          180.0,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.341796875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all four illustrations are new native generations",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/remake_20261019_010740_UTC+08/raw/card04.png",
+      "source_sha256": "67f0ea9ca4b709588bdbbc2fc5170542c1af17650db5c368d8ce331d8096af11",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "四",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+3"
+          },
+          {
+            "name": "截脉",
+            "level": "+3"
+          },
+          {
+            "name": "断援",
+            "level": "+3"
+          }
+        ],
+        "status": "徐晃技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "重斧",
+            "ink_bbox": [
+              911,
+              1097,
+              996,
+              1138
+            ],
+            "ink_center": [
+              953.5,
+              1117.5
+            ],
+            "target_center": [
+              953.8203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1008,
+              1101,
+              1050,
+              1133
+            ],
+            "ink_center": [
+              1029.0,
+              1117.0
+            ],
+            "target_center": [
+              1029.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "截脉",
+            "ink_bbox": [
+              910,
+              1194,
+              997,
+              1236
+            ],
+            "ink_center": [
+              953.5,
+              1215.0
+            ],
+            "target_center": [
+              953.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1009,
+              1199,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1030.0,
+              1215.0
+            ],
+            "target_center": [
+              1030.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "断援",
+            "ink_bbox": [
+              912,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1008,
+              1297,
+              1050,
+              1329
+            ],
+            "ink_center": [
+              1029.0,
+              1313.0
+            ],
+            "target_center": [
+              1028.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "四",
+        "ink_bbox": [
+          141,
+          1568,
+          219,
+          1650
+        ],
+        "ink_center": [
+          180.0,
+          1609.0
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all four illustrations are new native generations",
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}
