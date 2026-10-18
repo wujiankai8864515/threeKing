@@ -1,0 +1,24 @@
+{
+  "hero": "甘宁",
+  "status": "identity_candidate_pending_root_independent_QA",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+    "role": "STYLE ONLY clean broad-plane matte cloth, new independent face/body/scene",
+    "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b"
+  },
+  "method": "builtin_imagegen_new_identity",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/ganning-set/blackiron-first_2026-10-18_21-54-20_UTC+08/甘宁-黑铁-锦帆旧客-身份候选1.png",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "sha256": "d1bd1518976dbde9555af5bb2ba8cdeb122ce95f85926ad660c2be796ab33ee5"
+  },
+  "self_QA_notes": [
+    "短髭额巾编辫腰铜铃锦袍，粗豪比郭显著",
+    "左手生成扶桅杆而非橹，身份场景仍江船；实框待核",
+    "一级墨鳍不明显，不冒称已满足神兽层级",
+    "旧锦纹为有序图案非随机金粉，海水亮点有水面依据"
+  ]
+}

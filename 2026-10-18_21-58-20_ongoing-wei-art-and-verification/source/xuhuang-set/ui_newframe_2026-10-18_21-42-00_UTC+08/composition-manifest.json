@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+      "source_status": "technical_candidate_pending_frameQA",
+      "source_sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png",
+      "source_status": "technical_candidate_pending_frameQA",
+      "source_sha256": "8c469eca3b9b60ba9cc81b6a6d985d43315721b9884f6069e8d1134214784210",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银-截断粮道-候选1.png",
+      "source_status": "technical_candidate_pending_frameQA",
+      "source_sha256": "72d44b48f1c39217137128a628bec2213a220d27cddae9ada83f066a95428d33",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+2"
+          },
+          {
+            "name": "截脉",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金-单直斧轴重建-局修1.png",
+      "source_status": "technical_candidate_pending_frameQA",
+      "source_sha256": "060b2380a5d24f21015a8edde2c19a89fd665ce6ff2eecfcbf98c6e917b19560",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "徐晃",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "重斧",
+            "level": "+2"
+          },
+          {
+            "name": "截脉",
+            "level": "+2"
+          },
+          {
+            "name": "稳进",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜-十胜开局-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银-下邳观流-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金-易州遗筹-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-黑铜传记-袁书到时-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-铜银传记-两河可用-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-银金传记-封书托后事-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

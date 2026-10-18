@@ -1,0 +1,30 @@
+{
+  "hero": "sunce",
+  "slot": "blackiron",
+  "method": "builtin_image_gen",
+  "source": "sunce-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙策-黑铁-持弓手入窗-局修1.png",
+  "sha256": "d26be74015dca6deff615fd83e9b7bc02793f87c69edd6a04a76d28b6ae35e2f",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "actual_reference_files": [
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean matte painting only, new independent identity"
+    }
+  ],
+  "prompt": "prompt.txt",
+  "status": "technical_identity_candidate_pass",
+  "user_final": false,
+  "superseded": {
+    "path": "sunce-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙策-黑铁-父阵初锋-身份候选1.png",
+    "sha256": "f5c6240289770bda5e38f5f4aa465e32a5622724820223c51032c235b0dd0aa7",
+    "reason": "Bow gripping hand clipped by source left edge; accidental tiny top-right marks."
+  },
+  "local_edit_prompt": "prompt-hand-safe-local1.txt",
+  "actual_edit_reference": "sunce-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙策-黑铁-父阵初锋-身份候选1.png",
+  "age_note": "Project depicts adult 20+ identity; novel adjacent chapter gives seventeen, not claimed novel adult age.",
+  "independent_qa_at": "2026-10-18T21:57:28+08:00"
+}

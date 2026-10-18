@@ -1,0 +1,61 @@
+{
+  "hero_id": "xuhuang",
+  "tier": "silver",
+  "created_at": "2026-10-18T21:41:59.517463+08:00",
+  "calls": 2,
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银-截断粮道-候选1.png",
+      "sha256": "72d44b48f1c39217137128a628bec2213a220d27cddae9ada83f066a95428d33",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "kind": "card",
+      "status": "independent_QA_pass_candidate",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-67d50c1a-13f2-4769-8d0d-ba2689a37ae6.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/card-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+          "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+          "role": "Xu Huang identity/body/material language/axe class; source pose excluded",
+          "actually_viewed": true
+        }
+      ],
+      "native_crops_no_resampling": true
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-铜银传记-细作与粮车-候选1.png",
+      "sha256": "0b3c58e778a86dc1fc94b6d0f499112afc2d634a7ea03bf1b59a4d2cdc3f55aa",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "kind": "story",
+      "status": "superseded_symbol_two_horns",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4f944357-aaa3-412c-8768-b2ac78b7831a.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/story-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+          "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+          "role": "Xu Huang identity/body/material language/axe class; source pose excluded",
+          "actually_viewed": true
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+          "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+          "role": "Cao foreground identity only; original actual input contained Dong Zhuo. Later rule prohibits future reuse of whole image, not historical record.",
+          "actually_viewed": true
+        }
+      ],
+      "native_crops_no_resampling": true
+    }
+  ],
+  "actual_inputs_record": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/actual-inputs.json",
+  "canonical_source": "https://zh.wikisource.org/zh/三國演義/第030回",
+  "not_claimed": "Not pixel-frozen; no upscaling; no final approval inferred from candidate QA"
+}

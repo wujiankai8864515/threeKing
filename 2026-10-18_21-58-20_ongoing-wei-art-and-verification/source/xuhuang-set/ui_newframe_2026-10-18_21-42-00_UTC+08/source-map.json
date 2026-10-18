@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+    "status": "technical_candidate_pending_frameQA"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png",
+    "status": "technical_candidate_pending_frameQA"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银-截断粮道-候选1.png",
+    "status": "technical_candidate_pending_frameQA"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金-单直斧轴重建-局修1.png",
+    "status": "technical_candidate_pending_frameQA"
+  }
+}

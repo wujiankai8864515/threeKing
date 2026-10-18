@@ -1,0 +1,67 @@
+{
+  "chapter": 53,
+  "assets": [
+    {
+      "asset_id": "zhangliao_card_3_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银-v1-合肥定乱候选.png",
+      "sha256": "e8af6a7c6e5b4b2499526026f31b541de229f9dd4a02df4c5b7011eaf2f0969a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "superseded_small_midshaft_bow",
+      "actual_reference_files": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    },
+    {
+      "asset_id": "zhangliao_card_3_v2",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/张辽-白银-v2-长杆直轴局修候选.png",
+      "sha256": "85416db32c150e4cedf3b906c70a2670f0f3623591c84afa3903adc396caa22d",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "independent_qa_passed_pending_root_freeze",
+      "actual_reference_files": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银-v1-合肥定乱候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    },
+    {
+      "asset_id": "zhangliao_bio_2_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银传记-v1-胜夜不卸甲候选.png",
+      "sha256": "3540b176b234e597b6e712ce1d3c59ea384c110f48b8ab1deb9246ae79e134d1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "independent_qa_passed_pending_root_freeze",
+      "actual_reference_files": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    }
+  ],
+  "current_card": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/张辽-白银-v2-长杆直轴局修候选.png",
+  "current_biography": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银传记-v1-胜夜不卸甲候选.png",
+  "qa_evidence": [
+    "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/qa-100pct",
+    "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/qa-100pct"
+  ],
+  "notes": [
+    "Card source v1 had subtle middle shaft bow; single localized edit v2 straightens long shaft and tail.",
+    "Actual silver frame confirms hero face, both hands, falcon eye/beak all visible; falcon head left of requested center coordinates, accepted by self only on actual frame coverage pending audit/root.",
+    "Story has softly focused very near bottom wooden rail; main face/palm/captive/supporting officer and main path clear.",
+    "No card/art resize, no upload."
+  ],
+  "independent_qa_at": "2026-10-18T21:53:33+08:00",
+  "independent_qa_note": "Full shaft v2 continuous near-straight one axis through grip to ground; no fork; face/stop palm intact. Actual frame hero hands/falcon eye/beak clear. Biography Li Dian both hands and single captive ownership clear; lowest blurred rail noncritical edge."
+}

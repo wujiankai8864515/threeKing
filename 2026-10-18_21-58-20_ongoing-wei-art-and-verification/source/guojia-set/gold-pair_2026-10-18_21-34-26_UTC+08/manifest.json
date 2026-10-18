@@ -1,0 +1,80 @@
+[
+  {
+    "asset_type": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金-易州遗筹-候选1.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "8e0df52d0f30b4edeb86aa902620e34a100e46d7ca8b78bf4e898877b3b5fbda",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-da4e15dc-6127-4099-89ed-9afb281390f1.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+        "role": "root-approved Guo Jia face/body and clean matte robe only; same young clean-shaven identity with late-stage fatigue",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass_root_selection_pending",
+    "method": "builtin_image_gen",
+    "rescale_retouch": "none; native copy",
+    "user_final": false,
+    "creator_native_review": "Full image, thumbnail and native main face/hands/letter/raven/body support/cloth/foreground personally inspected",
+    "observations": [
+      "Same young clean-shaven face, tired lowered gaze is subtle, not severe illness or ghost coloration.",
+      "Two hands support one tied packet, knot readable, sleeve-wrist paths coherent. Back cushion and blanket support sitting.",
+      "Giant raven head/body/talons connected outside window, cooler feather rims physically localized. Head now central upper region; actual frame still to verify.",
+      "Shawl/blanket has matte textile grain without cross-material glitter; normal edge softness remains."
+    ],
+    "independent_QA": {
+      "result": "pass",
+      "received_at": "2026-10-18T21:53+08:00",
+      "notes": "原生封绳双手/递函四手通过，实际21:43金UI鸦眼喙和两手无挡。最近边桌器柔非关键可保。"
+    }
+  },
+  {
+    "asset_type": "bio",
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-银金传记-封书托后事-候选1.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "a8123cc1c0e7de5bc7fbed6026a334a69e8475a87e6a92a8a1b9b2f7da58f513",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a4090ebe-eeb8-4446-9f1e-04fd0f802e14.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+        "role": "root-approved Guo Jia face/body and clean matte robe only; same young clean-shaven identity with late-stage fatigue",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass_root_selection_pending",
+    "method": "builtin_image_gen",
+    "rescale_retouch": "none; native copy",
+    "user_final": false,
+    "creator_native_review": "Full image, thumbnail and native main face/hands/letter/raven/body support/cloth/foreground personally inspected",
+    "observations": [
+      "Two people/four visible hands/one sealed packet, Guo supporting near corners and attendant receiving far edge, wrist paths distinguishable.",
+      "Attendant face and hands clear; near torso has lower-contrast softer textile planes, no blurred anonymous front person.",
+      "Giant raven outside window secondary to handover, no resurrection/coffin. Main bed/cushion/blanket supports Guo.",
+      "Very near lower-edge desk/medicine bowls blurred as noncritical edge props; retain for independent review."
+    ],
+    "independent_QA": {
+      "result": "pass",
+      "received_at": "2026-10-18T21:53+08:00",
+      "notes": "原生封绳双手/递函四手通过，实际21:43金UI鸦眼喙和两手无挡。最近边桌器柔非关键可保。"
+    }
+  }
+]

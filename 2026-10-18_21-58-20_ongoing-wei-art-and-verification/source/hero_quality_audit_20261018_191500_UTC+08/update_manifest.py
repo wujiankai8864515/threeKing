@@ -1,0 +1,99 @@
+from pathlib import Path
+from PIL import Image
+import json,hashlib,datetime
+root=Path('.'); out=Path('hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json');d=json.loads(out.read_text());current={(v['hero'],v['asset']):v for v in d['candidates']}
+rows='''xunyu|bronze|xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-青铜*.png
+xunyu|story_bronze|xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-黑铜传记*.png
+xunyu|silver|xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-白银*.png
+xunyu|story_silver|xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-铜银传记*.png
+xunyu|gold|xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-黄金*.png
+xunyu|story_gold|xunyu-set/gold-story-nightfix_2026-10-18_21-40-35_UTC+08/荀彧-银金传记*.png
+xuhuang|story_bronze|xuhuang-set/bronze-story-horn-local_2026-10-18_21-31-28_UTC+08/徐晃-黑铜传记*.png
+xuhuang|silver|xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银*.png
+xuhuang|story_silver|xuhuang-set/silver-story-horn-local_2026-10-18_21-35-15_UTC+08/徐晃-铜银传记*.png
+xuhuang|gold|xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金*.png
+xuhuang|story_gold|xuhuang-set/gold-pair_2026-10-18_21-27-35_UTC+08/徐晃-银金传记*.png
+guojia|silver|guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银*.png
+guojia|story_silver|guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-铜银传记*.png
+guojia|gold|guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金*.png
+guojia|story_gold|guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-银金传记*.png
+zhangliao|bronze|zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/张辽-青铜-v2*.png
+zhangliao|silver|zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/张辽-白银-v2*.png
+zhangliao|story_silver|zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银传记*.png
+zhangliao|gold|zhangliao-set/gold_pair_2026-10-18_21-45-11_UTC+08/张辽-黄金-v1*.png
+zhangliao|story_gold|zhangliao-set/gold_pair_2026-10-18_21-45-11_UTC+08/张辽-黄金传记*.png
+lejin|bronze|lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-青铜*.png
+yujin|bronze|yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-青铜*.png
+yujin|story_bronze|yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-传记1*.png
+dianwei|silver|dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2*.png
+zhanghe|blackiron|zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁*.png
+xuhuang|bronze|xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜*.png
+guojia|story_bronze|guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-黑铜传记*.png
+zhangliao|story_bronze|zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜传记*.png
+caocao|silver|caocao-set/silver_mythsafe_2026-10-18_21-07-39_UTC+08/曹操-白银-v2*.png
+caocao|story_silver|caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银传记*.png
+xuhuang|blackiron|xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁*.png
+lejin|blackiron|lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁*.png
+yujin|blackiron|yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁*.png
+guojia|blackiron|guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png
+guojia|bronze|guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜*.png
+dianwei|bronze|dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜*.png
+dianwei|story_bronze|dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-黑铜传记*.png
+dianwei|gold|dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金*.png
+dianwei|story_gold|dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-银金传记*.png
+dianwei|story_silver|dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银传记*.png
+xunyu|blackiron|xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁*.png
+xuchu|blackiron|xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁*.png
+zhaoyun|bronze|zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜*.png
+machao|blackiron|machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁*.png
+caocao|blackiron|caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁*.png
+caocao|bronze|caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜*.png
+caocao|story_bronze|caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-铜传记*.png
+caocao|gold|caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-黄金*.png
+caocao|story_gold|caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-银金传记*.png
+dianwei|blackiron|dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁*.png
+zhangliao|blackiron|zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁*.png
+liubei|gold|liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金*.png
+zhaoyun|silver|zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1*.png
+zhaoyun|gold|zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金*.png
+zhaoyun|story_bronze|zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记*.png
+zhaoyun|story_silver|zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记*.png
+zhaoyun|story_gold|zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记*.png
+machao|bronze|machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜*.png
+machao|silver|machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银*.png
+machao|gold|machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金*.png
+machao|story_bronze|machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记*.png
+machao|story_silver|machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记*.png
+machao|story_gold|machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记*.png
+huangzhong|blackiron|huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3*.png
+huangzhong|bronze|huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1*.png
+huangzhong|silver|huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1*.png
+huangzhong|gold|huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金*.png
+huangzhong|story_bronze|huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2*.png
+huangzhong|story_silver|huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2*.png
+huangzhong|story_gold|huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记*.png
+zhugeliang|blackiron|zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁*.png
+zhugeliang|bronze|zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜*.png
+zhugeliang|silver|zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银*.png
+zhugeliang|gold|zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png
+zhugeliang|story_bronze|zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记*.png
+zhugeliang|story_silver|zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记*.png
+zhugeliang|story_gold|zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-传记*.png
+pangtong|blackiron|pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁*.png
+pangtong|bronze|pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜*.png
+pangtong|silver|pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银*.png
+pangtong|gold|pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金*.png
+pangtong|story_bronze|pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-传记*.png
+pangtong|story_silver|pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记*.png
+pangtong|story_gold|pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-传记*.png'''
+for row in rows.splitlines():
+ h,a,g=row.split('|');matches=list(root.glob(g));assert len(matches)==1,(g,matches);p=matches[0];w,he=Image.open(p).size
+ v={'hero':h,'asset':a,'path':str(p),'width':w,'height':he,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'qa_status':'candidate_passed','residual_or_scope':'Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.'}
+ old=current.get((h,a))
+ if old and old['path']!=str(p):
+  old=old.copy();old['superseded_by']=str(p);d['superseded_candidates'].append(old)
+ current[(h,a)]=v
+order=['blackiron','bronze','silver','gold','story_bronze','story_silver','story_gold']
+d['candidates']=sorted(current.values(),key=lambda x:(x['hero'],order.index(x['asset'])))
+d['updated_utc']=datetime.datetime.now(datetime.timezone.utc).isoformat();d['scope']='Independent artwork and native-crop QA only. Candidate status is not user final approval, final-frame approval, or a claim of new higher-resolution detail.'
+out.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n');print('current:',len(d['candidates']),'superseded:',len(d['superseded_candidates']))

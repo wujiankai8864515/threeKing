@@ -1,0 +1,17 @@
+{
+  "actual_reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png",
+      "role": "latest approved Zhang identity/body/costume/spear only; personally viewed. No inherited mounted scene or smooth unstressed pose.",
+      "sha256": "f3c9349c19f2279564ef09bd1198c40df0b31b89436dad2282705d5d7256e81b",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "tool": "builtin image_gen",
+  "candidate_count_per_asset": 1,
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第070回",
+  "source_verified": "Personally read paragraph126: abandoned horse, mountain escape, ten-odd survivors; helping soldier is original staging."
+}

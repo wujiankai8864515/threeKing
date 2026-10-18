@@ -1,0 +1,156 @@
+[
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-face-native100.png",
+    "box": [
+      240,
+      340,
+      500,
+      580
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-left-rock-hand-native100.png",
+    "box": [
+      0,
+      580,
+      190,
+      795
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-right-rock-hand-native100.png",
+    "box": [
+      330,
+      1020,
+      570,
+      1240
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-boot-contact-native100.png",
+    "box": [
+      500,
+      1220,
+      770,
+      1480
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-crane-native100.png",
+    "box": [
+      495,
+      0,
+      850,
+      340
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-follower-spear-native100.png",
+    "box": [
+      610,
+      430,
+      800,
+      1120
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-白银-瓦口寻径-候选1.png",
+    "crop": "card-cloth-rock-native100.png",
+    "box": [
+      170,
+      680,
+      600,
+      1080
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-face-native100.png",
+    "box": [
+      550,
+      110,
+      760,
+      320
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-helping-hands-native100.png",
+    "box": [
+      325,
+      380,
+      475,
+      590
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-guide-hand-native100.png",
+    "box": [
+      745,
+      480,
+      930,
+      625
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-soldier-face-native100.png",
+    "box": [
+      160,
+      400,
+      340,
+      570
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-boot-steps-native100.png",
+    "box": [
+      270,
+      650,
+      640,
+      1024
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-follower-spear-native100.png",
+    "box": [
+      770,
+      180,
+      910,
+      650
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-铜银传记-从败阵走出-候选1.png",
+    "crop": "bio-cloth-stone-native100.png",
+    "box": [
+      360,
+      570,
+      820,
+      840
+    ],
+    "scale": 1
+  }
+]

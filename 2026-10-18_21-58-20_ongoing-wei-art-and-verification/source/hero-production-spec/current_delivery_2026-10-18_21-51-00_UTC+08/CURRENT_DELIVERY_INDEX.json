@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-10-18T21:51:00+08:00",
+  "complete_heroes": 12,
+  "complete_primary_images": 84,
+  "complete_UI_cards": 48,
+  "overviews": 12,
+  "user_final": false,
+  "status": "technical_candidates_saved_pending_user_acceptance",
+  "exact_indices": [
+    "/workspace/scratch/3f82ff2b3f81/hero-production-spec/shu8_delivery_2026-10-18_21-05-20_UTC+08/CURRENT_SHU_CANDIDATE_INDEX.json",
+    "/workspace/scratch/3f82ff2b3f81/caocao-set/library-complete_2026-10-18_21-17-50_UTC+08/曹操-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/dianwei-set/library-complete_2026-10-18_21-24-45_UTC+08/典韦-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/library-complete_2026-10-18_21-43-15_UTC+08/徐晃-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/xunyu-set/library-complete_2026-10-18_21-45-35_UTC+08/荀彧-全套素材-Library索引.json"
+  ],
+  "in_progress": [
+    "郭嘉金待独审后保存",
+    "张辽银金独审/装版",
+    "许褚六图进行中",
+    "张郃六图进行中",
+    "乐进于禁六图进行中",
+    "周瑜首样待审",
+    "孙权孙策首样root负责"
+  ]
+}

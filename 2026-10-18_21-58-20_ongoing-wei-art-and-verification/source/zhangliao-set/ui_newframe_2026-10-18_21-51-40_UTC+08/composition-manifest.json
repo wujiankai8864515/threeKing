@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "3f5e3a0a886a05bdd123d049191657ed732339ce79986245af6bead7f91aba27",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "张辽",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "潜锋",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/张辽-青铜-v2-后位曹操身份局修候选.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "4068336bc29991728c3a0f6484e5cfa37127faa5ae6fce64c85e95cc770ee7a9",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "张辽",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "潜锋",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/张辽-白银-v2-长杆直轴局修候选.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "85416db32c150e4cedf3b906c70a2670f0f3623591c84afa3903adc396caa22d",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "张辽",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "潜锋",
+            "level": "+2"
+          },
+          {
+            "name": "疾行",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/gold_pair_2026-10-18_21-45-11_UTC+08/张辽-黄金-v1-逍遥夺势候选.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "317b13d598b7dd57095e3bd0673693137991c41afb9564eb2f1d8750b0e609ac",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "张辽",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "潜锋",
+            "level": "+2"
+          },
+          {
+            "name": "疾行",
+            "level": "+2"
+          },
+          {
+            "name": "锐击",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

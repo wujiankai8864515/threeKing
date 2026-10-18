@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "张辽",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "潜锋",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "张辽",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "潜锋",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "张辽",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "潜锋",
+        "level": "+2"
+      },
+      {
+        "name": "疾行",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "张辽",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "潜锋",
+        "level": "+2"
+      },
+      {
+        "name": "疾行",
+        "level": "+2"
+      },
+      {
+        "name": "锐击",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

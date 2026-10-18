@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜-十胜开局-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银-下邳观流-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金-易州遗筹-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  }
+}

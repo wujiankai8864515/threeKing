@@ -1,0 +1,24 @@
+{
+  "created_at": "2026-10-18T21:47:41+08:00",
+  "actual_reference_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png"
+  ],
+  "reference_roles": [
+    "Approved latest Zhang He face/body, costume lineage and spear type only. New scene/pose; no inherited horse/background. Personally re-viewed full before generation."
+  ],
+  "scene_source": "https://zh.wikisource.org/zh/三國演義/第030回",
+  "source_verification": "Read original lines156-164: false accusation, Gao Lan killed messenger (not depicted), both defect, appointed then request vanguard.",
+  "candidate_count_per_asset": 1,
+  "tool": "builtin image_gen",
+  "user_final_approval": false,
+  "reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png",
+      "sha256": "f3c9349c19f2279564ef09bd1198c40df0b31b89436dad2282705d5d7256e81b",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}

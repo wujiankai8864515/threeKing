@@ -1,0 +1,30 @@
+{
+  "hero_id": "xuhuang",
+  "created_at": "2026-10-18T21:41:59.517463+08:00",
+  "builtin_calls": 1,
+  "authorized_scope": "Reconstruct axe head attachment on the one existing straight dual-grip diagonal shaft; delete old horizontal branch",
+  "file": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金-单直斧轴重建-局修1.png",
+    "sha256": "060b2380a5d24f21015a8edde2c19a89fd665ce6ff2eecfcbf98c6e917b19560",
+    "actual_pixels": [
+      1024,
+      1536
+    ],
+    "library_uploaded": false,
+    "status": "independent_QA_pass_candidate",
+    "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-33d2c5ee-88d6-4732-8f3a-e8d28bfc08c0.png"
+  },
+  "actual_reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-pair_2026-10-18_21-27-35_UTC+08/徐晃-黄金-沔水拆垒-候选1.png",
+      "sha256": "55b4f96464ed026b4793d0379b996b42d849a9220f4d7b06c412c4a7c8e1693a",
+      "role": "target",
+      "actually_viewed": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/prompt.txt",
+  "maker_QA": "Full image and complete native axe/dual grips/tail segment inspected; previous Y branch gone. Head mounted to same rigid shaft through both hands, hand anatomy readable. Native face and real unchanged gold-frame beast crop inspected: horn/eyes/nose complete. Splash marks/metal wear remain stylistic rather than claimed fully smooth.",
+  "native_QA_directory": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/QA",
+  "native_crops_no_resampling": true,
+  "not_claimed": "No exact pixel freeze, no super-resolution, no final root approval"
+}

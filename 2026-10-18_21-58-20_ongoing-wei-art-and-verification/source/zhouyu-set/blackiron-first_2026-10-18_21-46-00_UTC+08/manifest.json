@@ -1,0 +1,24 @@
+{
+  "hero": "周瑜",
+  "status": "identity_candidate_pending_root_independent_QA",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+    "role": "STYLE ONLY clean matte broad-plane cloth; independent new hero face/scene",
+    "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b"
+  },
+  "method": "builtin_imagegen_new_identity",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/blackiron-first_2026-10-18_21-46-00_UTC+08/周瑜-黑铁-历阳知交-身份候选1.png",
+    "pixels": [
+      1024,
+      1536
+    ],
+    "sha256": "922151edfb7e45793d36366bd4f884c2528ca49a06d9d2b85f37dbfbe5c122bb"
+  },
+  "self_QA_notes": [
+    "脸俊秀无须、白黑暗赤衣与郭区别",
+    "缰与入鞘剑手清楚，双脚落地",
+    "马较青骢设定更深棕，一级暗赤羽影不明显，设计残项待根裁",
+    "实际套框需看马脸局部边界"
+  ]
+}

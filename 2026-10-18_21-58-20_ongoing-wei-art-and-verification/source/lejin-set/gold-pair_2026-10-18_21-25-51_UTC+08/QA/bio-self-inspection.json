@@ -1,0 +1,14 @@
+{
+  "reviewed_full_image": true,
+  "reviewed_native_crops": [
+    "face",
+    "both hands",
+    "spear axis or baton or handoff",
+    "cloth"
+  ],
+  "identity": "Same recognizable facial identities and separate Lejin compact / Yujin upright character designs",
+  "hands_weapons": "Lejin spear visible shaft sections and blade are collinear, wrist load credible, separate reins. Yujin baton/reins distinct; story handoff has one shared rolled order, main receiving hand and messenger hand separate, baton stowed at saddle. No obvious extra digits.",
+  "cloth": "Substantially broad matte planes. Fine low-contrast traces remain but no dense crackle pattern comparable to bronze. No cross-material glitter field.",
+  "frame_risk": "Lejin badger face low and Yujin rhino face lower-right need actual gold-frame check; Yujin baton close left edge but grip remains inboard.",
+  "status": "candidate_pending_independent_review"
+}

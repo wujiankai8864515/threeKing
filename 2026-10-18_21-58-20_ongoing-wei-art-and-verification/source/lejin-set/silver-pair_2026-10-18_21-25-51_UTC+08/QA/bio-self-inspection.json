@@ -1,0 +1,15 @@
+{
+  "reviewed_full_image": true,
+  "reviewed_native_crops": [
+    "face",
+    "both hands",
+    "weapon mechanics",
+    "cloth"
+  ],
+  "identity": "Face-crop identity reference preserves recognizable face; body proportions specified in prompt",
+  "hands_weapons": "No obvious native digit/wrist failure. Lejin card nock/arrow/string junction coherent, but bowstring passes across left temple; grip on far right needs frame audit. Other grips/reins and batons separated.",
+  "cloth": "Broad color planes substantially cleaner than bronze with no dense crackle; sparse scuffs remain and Yujin card lower hem has scene-consistent mud. Not absolutely textureless.",
+  "frame_risk": "Lejin card bow grip x~890,y330 close to reserved right stars, badger face low; need actual-frame judgment. Yujin card face/hands/rhino central and clear.",
+  "narrative_risk": "Lejin card arrow aims right while visible gate is background left; distant retreat path may require reviewer judgment.",
+  "status": "candidate_pending_independent_review"
+}

@@ -1,0 +1,15 @@
+{
+  "card": [
+    "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png"
+  ],
+  "story": [
+    "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png"
+  ],
+  "all_actually_viewed": true,
+  "source": "https://zh.wikisource.org/zh/三國演義/第012回",
+  "status": "two_builtin_calls_completed",
+  "card_status": "not_pass_forked_weapon_needs_one_SOP_local_rebuild",
+  "story_status": "awaiting_native_and_independent_QA"
+}

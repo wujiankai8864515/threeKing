@@ -1,0 +1,59 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银-截断粮道-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金-单直斧轴重建-局修1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-story-horn-local_2026-10-18_21-31-28_UTC+08/徐晃-黑铜传记-单角玄獬影-局修1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-story-horn-local_2026-10-18_21-35-15_UTC+08/徐晃-铜银传记-单角玄獬影-局修1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-pair_2026-10-18_21-27-35_UTC+08/徐晃-银金传记-借旗绕沔水-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

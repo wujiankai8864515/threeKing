@@ -1,0 +1,90 @@
+[
+  {
+    "asset_type": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银-下邳观流-候选1.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "89cbe0c1a07b9a2851354cd4e16a2545b2fecb8a00f601bacf5ce05adfd57fcc",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1f8e3802-ad89-4f59-a9c6-4d3d3389acbf.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+        "role": "approved Guo Jia main identity and clean matte material",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass",
+    "method": "builtin_image_gen",
+    "rescale_retouch": "none; native copy",
+    "user_final": false,
+    "creator_native_review": "Full and native main/support faces, all hands, scroll, cloth, raven, map/rivers and foreground personally inspected",
+    "observations": [
+      "Guo face/closed-scroll grip and two-finger low direction gesture readable. Raven head high y60–100; actual frame check requested, not claiming coordinate box compliance.",
+      "River courses remain grounded and flow down to low city plain; no magic water/celebration.",
+      "Clean matte robes retained, physical river sunlight and near rock daylight highlights; nearest edge rock softness is card DOF."
+    ],
+    "independent_review": "Full/native three identities and all hands/map pass, no cross-material glitter. Actual frozen silver frame: complete raven head/eye/beak and main face/hands visible. Edge messenger/near props softness retained, no edit needed."
+  },
+  {
+    "asset_type": "bio",
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-铜银传记-两河可用-候选1.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "5fadbfd0bd3c04d5907b098bf1cff8844674962aeb36a6c974a37a2cd358c23b",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5b1756a4-7be7-4f6d-84d0-3395d446826c.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+        "role": "approved Guo Jia main identity and clean matte material",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+        "personally_viewed": true
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+        "role": "approved Cao Cao foreground identity only; exclude background Dong Zhuo",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+        "personally_viewed": true
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+        "role": "root approved Xun Yu supporting identity only",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass",
+    "method": "builtin_image_gen",
+    "rescale_retouch": "none; native copy",
+    "user_final": false,
+    "creator_native_review": "Full and native main/support faces, all hands, scroll, cloth, raven, map/rivers and foreground personally inspected",
+    "observations": [
+      "Three identities differentiated by face/beard/attire; Guo scroll/resting hand, Xun pointing/resting hands, Cao order/belt hands all readable. Xun chin beard slightly longer than reference, record.",
+      "Map is a detailed painted terrain illustration, not literal accurate historical geography or floating UI.",
+      "Far-right messenger shoulder softened but only noncritical edge observer; three primary people and central map foreground clear."
+    ],
+    "independent_review": "Full/native three identities and all hands/map pass, no cross-material glitter. Actual frozen silver frame: complete raven head/eye/beak and main face/hands visible. Edge messenger/near props softness retained, no edit needed."
+  }
+]

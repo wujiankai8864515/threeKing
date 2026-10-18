@@ -1,0 +1,145 @@
+[
+  {
+    "image": "张郃-青铜-转旗受命-候选1.png",
+    "crop": "card-face-native100.png",
+    "box": [
+      430,
+      200,
+      720,
+      445
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-青铜-转旗受命-候选1.png",
+    "crop": "card-receive-hands-native100.png",
+    "box": [
+      160,
+      670,
+      450,
+      850
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-青铜-转旗受命-候选1.png",
+    "crop": "card-spear-grip-native100.png",
+    "box": [
+      775,
+      590,
+      955,
+      810
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-青铜-转旗受命-候选1.png",
+    "crop": "card-spear-whole-native100.png",
+    "box": [
+      705,
+      0,
+      1024,
+      1536
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-青铜-转旗受命-候选1.png",
+    "crop": "card-cloth-armor-native100.png",
+    "box": [
+      270,
+      450,
+      650,
+      1050
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-zhang-face-native100.png",
+    "box": [
+      370,
+      115,
+      640,
+      345
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-zhang-document-native100.png",
+    "box": [
+      450,
+      430,
+      660,
+      650
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-zhang-spear-hand-native100.png",
+    "box": [
+      90,
+      670,
+      310,
+      940
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-spear-whole-native100.png",
+    "box": [
+      0,
+      220,
+      310,
+      1024
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-gaolan-face-native100.png",
+    "box": [
+      1175,
+      230,
+      1415,
+      475
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-gaolan-open-hand-native100.png",
+    "box": [
+      1040,
+      460,
+      1210,
+      625
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-gaolan-sheath-hand-native100.png",
+    "box": [
+      1260,
+      670,
+      1510,
+      910
+    ],
+    "scale": 1
+  },
+  {
+    "image": "张郃-黑铜传记-谗言断归路-候选1.png",
+    "crop": "bio-cloth-earth-native100.png",
+    "box": [
+      630,
+      680,
+      1110,
+      1024
+    ],
+    "scale": 1
+  }
+]

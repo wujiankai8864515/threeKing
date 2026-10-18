@@ -1,0 +1,222 @@
+{
+  "hero": "徐晃",
+  "status": "all12persisted_candidate_not_user_final",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c42881f6b39e5fe2f77c1f34",
+      "library_file_id": "libfile_4bc026d81578819196ae9416544bef5a",
+      "file_name": "徐晃-黑铁-箕关护行-身份候选1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-黑铁-箕关护行-身份候选1.png",
+      "current_version_number": 0,
+      "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000497c81f7a46d08e42dc49023",
+      "library_file_id": "libfile_078c1629a140819187b94afe387a397f",
+      "file_name": "徐晃-青铜-夜别旧营-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-青铜-夜别旧营-候选1.png",
+      "current_version_number": 0,
+      "sha256": "8c469eca3b9b60ba9cc81b6a6d985d43315721b9884f6069e8d1134214784210",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-pair_2026-10-18_21-23-25_UTC+08/徐晃-白银-截断粮道-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000964081f7bf0f3559a3f135e4",
+      "library_file_id": "libfile_0d9e50d2c934819181468932ed8c25ac",
+      "file_name": "徐晃-白银-截断粮道-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-白银-截断粮道-候选1.png",
+      "current_version_number": 0,
+      "sha256": "72d44b48f1c39217137128a628bec2213a220d27cddae9ada83f066a95428d33",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-axis-local_2026-10-18_21-32-10_UTC+08/徐晃-黄金-单直斧轴重建-局修1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005d1081f7bdc401ddaaf0fa2a",
+      "library_file_id": "libfile_1e3067c6e7208191b8c9de1e525df99c",
+      "file_name": "徐晃-黄金-单直斧轴重建-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-黄金-单直斧轴重建-局修1.png",
+      "current_version_number": 0,
+      "sha256": "060b2380a5d24f21015a8edde2c19a89fd665ce6ff2eecfcbf98c6e917b19560",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-story-horn-local_2026-10-18_21-31-28_UTC+08/徐晃-黑铜传记-单角玄獬影-局修1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d89081f79bf4f0c894406deb",
+      "library_file_id": "libfile_6c4b84baeb208191948b2e3edfc24c53",
+      "file_name": "徐晃-黑铜传记-单角玄獬影-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-黑铜传记-单角玄獬影-局修1.png",
+      "current_version_number": 0,
+      "sha256": "31642d4e59137a77a2ad985edcd969f4459a35ee0b4e09453b8cbce3d12ffc6a",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/silver-story-horn-local_2026-10-18_21-35-15_UTC+08/徐晃-铜银传记-单角玄獬影-局修1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000fb5881f7a0911c0584265c8e",
+      "library_file_id": "libfile_0d581d1923a48191bf04050eb0c93ce2",
+      "file_name": "徐晃-铜银传记-单角玄獬影-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-铜银传记-单角玄獬影-局修1.png",
+      "current_version_number": 0,
+      "sha256": "b2120aae00e080858c936638290c273ff5a87f2a2feb938b8ee07d837dda2b96",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/gold-pair_2026-10-18_21-27-35_UTC+08/徐晃-银金传记-借旗绕沔水-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000854481f7bd657b908cddfbad",
+      "library_file_id": "libfile_c54372b98e248191a49cbbd64c379c7f",
+      "file_name": "徐晃-银金传记-借旗绕沔水-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/徐晃-银金传记-借旗绕沔水-候选1.png",
+      "current_version_number": 0,
+      "sha256": "8cb8df377581ff493619fdbda1d719c3b64490f37c25f8dd11bd62a738b3498e",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c5c881f79eb67f0784c3aa70",
+      "library_file_id": "libfile_d143658359cc8191a04de49a2d7b1ab9",
+      "file_name": "01-黑铁-新框完整UI候选1190(10).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(10).png",
+      "current_version_number": 0,
+      "sha256": "2cb6f9b9fb9be4f94dc6f2d802bb959e42419e8be4be3acbeefb6489beabf732",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005c2c81f7b63fc14a7949295f",
+      "library_file_id": "libfile_79fc1072d93881918d36c07fbfa20892",
+      "file_name": "02-青铜-新框完整UI候选1190(9).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(9).png",
+      "current_version_number": 0,
+      "sha256": "5d1f9b1fc813f50f9d459cd685590bb4ac07e7b2b33e6769c9b8994cdd76f55c",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000b96081f786b99a4493cf99c3",
+      "library_file_id": "libfile_013745e001848191b51072177852eb71",
+      "file_name": "03-白银-新框完整UI候选1190(10).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(10).png",
+      "current_version_number": 0,
+      "sha256": "a12d8ea993b7188c95b9708f1843ca464c69a97f621fc2d15e32b6893aed935e",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c5f081f780cf8c4455e687d2",
+      "library_file_id": "libfile_ba272f55db8c8191afe071b6a1aae153",
+      "file_name": "04-黄金-新框完整UI候选1190(10).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(10).png",
+      "current_version_number": 0,
+      "sha256": "ddede0bb5d0ded69ac16783cd9bcac940a3ad979a449562d7a1b31620d7526dd",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/ui_newframe_2026-10-18_21-42-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003d4081f7993a40c1cc9497af",
+      "library_file_id": "libfile_663a70c233d481918a4547452c02765e",
+      "file_name": "四阶新框完整UI-候选总览(10).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(10).png",
+      "current_version_number": 0,
+      "sha256": "218e116e2b5658d3e4a3e67f6781b026c3029da1da6299138e5b675c42a12d14",
+      "pixels": [
+        1920,
+        775
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    }
+  ]
+}

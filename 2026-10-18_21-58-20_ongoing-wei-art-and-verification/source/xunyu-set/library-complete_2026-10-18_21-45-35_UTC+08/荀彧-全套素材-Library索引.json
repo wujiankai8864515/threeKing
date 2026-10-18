@@ -1,0 +1,222 @@
+{
+  "hero": "荀彧",
+  "status": "all12persisted_candidate_not_user_final",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000761c8230a11377862fda6b12",
+      "library_file_id": "libfile_679b0310eb18819183888f6bb91a2bb6",
+      "file_name": "荀彧-黑铁-颍川入幕-身份候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-黑铁-颍川入幕-身份候选1.png",
+      "current_version_number": 0,
+      "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-青铜-三城固本-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000006dd081f5a53d11924c8ea98e",
+      "library_file_id": "libfile_6f2f5688d3888191bb20b57d9bf9e307",
+      "file_name": "荀彧-青铜-三城固本-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-青铜-三城固本-候选1.png",
+      "current_version_number": 0,
+      "sha256": "6a63a0b037f858bda4d01b777c14acfd2e1dfcaba97776d64cfd928c809decd0",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-白银-奉汉立制-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000cf5c822f9eff3203849667a5",
+      "library_file_id": "libfile_63421b37b0848191a5543316640cd222",
+      "file_name": "荀彧-白银-奉汉立制-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-白银-奉汉立制-候选1.png",
+      "current_version_number": 0,
+      "sha256": "d91b0cac68f78fa84d0090f20a5ff89a19ad48405de34f0e6555ac4666e7700f",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-黄金-官渡后援-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d5a881f9b88426cb503ea654",
+      "library_file_id": "libfile_4f4f3b14ca5c8191994fef5c955d60bf",
+      "file_name": "荀彧-黄金-官渡后援-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-黄金-官渡后援-候选1.png",
+      "current_version_number": 0,
+      "sha256": "442108ae1b994bed94437b790605943d58b25797ddcdf236a7760c4b71ebd973",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-黑铜传记-只留三城不失-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005640822fa736692cdbd5c2a0",
+      "library_file_id": "libfile_1ce580ca423c8191b8be5798a6be0b60",
+      "file_name": "荀彧-黑铜传记-只留三城不失-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-黑铜传记-只留三城不失-候选1.png",
+      "current_version_number": 0,
+      "sha256": "094126927ee7e60493cba24654c96fe6ff3028701683c0a1ba294d153be42fb0",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-铜银传记-奉迎之议-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d13c81f58f64755b7828b7ed",
+      "library_file_id": "libfile_748c4121f0c881919aa76c30b659822f",
+      "file_name": "荀彧-铜银传记-奉迎之议-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-铜银传记-奉迎之议-候选1.png",
+      "current_version_number": 0,
+      "sha256": "c4b431194b176d539d542d2c024c7fe90d3336565ddd7358be1f792068105d3b",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-story-nightfix_2026-10-18_21-40-35_UTC+08/荀彧-银金传记-许都夜色局修1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000034d881f5beb1059bb54c801a",
+      "library_file_id": "libfile_a6c43e87eadc819187463b639c1751ff",
+      "file_name": "荀彧-银金传记-许都夜色局修1.png",
+      "local_metadata_applied": true,
+      "path": "/荀彧-银金传记-许都夜色局修1.png",
+      "current_version_number": 0,
+      "sha256": "95516d3be18bd5d6a78afcf9b14f46a7e9463230b7a3fbd2e7beca202bb2a446",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d02081f5bc69188f90752d9e",
+      "library_file_id": "libfile_13e1d036c8d881918ac1ccb037d900f3",
+      "file_name": "01-黑铁-新框完整UI候选1190(20261018-134555).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(20261018-134555).png",
+      "current_version_number": 0,
+      "sha256": "dae93021c0830fcbe49e02856104d403f7cb7c4d13117da666be2cf9aeacc37b",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000456481f58468ea97c704c02e",
+      "library_file_id": "libfile_5b2afce6295881919fa1655bb73a5c6b",
+      "file_name": "02-青铜-新框完整UI候选1190(10).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(10).png",
+      "current_version_number": 0,
+      "sha256": "89052fef1421c93a130a16a82bf1a1bb98884899f47b560cef7c9825c948185f",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000000b0081f5ad801ad38b4f013a",
+      "library_file_id": "libfile_e6dc3e43f9d08191b671dea2a2d5c1e6",
+      "file_name": "03-白银-新框完整UI候选1190(20261018-134555).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(20261018-134555).png",
+      "current_version_number": 0,
+      "sha256": "91961711d1fd1b4771676a20adb22ab29d9a0857965d0f88c76a68cf4d5f3da2",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000009464822f940b73ebcd7dc316",
+      "library_file_id": "libfile_6e7fa3e7b18481918aebd8e881c3c21c",
+      "file_name": "04-黄金-新框完整UI候选1190(20261018-134555).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(20261018-134555).png",
+      "current_version_number": 0,
+      "sha256": "2329a97b5a846a365eda829e0a84c28738b1ec0889e6914ec0f99fe20bc11b0a",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000bc2081f5837b1d6b4464c765",
+      "library_file_id": "libfile_7a3f34f7d0848191b7df76fe0687b0be",
+      "file_name": "四阶新框完整UI-候选总览(20261018-134555).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(20261018-134555).png",
+      "current_version_number": 0,
+      "sha256": "aef79d0bd47c39970c7897d79c1a2514602f3f4ca94c2bc56d85bd4579850dd7",
+      "pixels": [
+        1920,
+        775
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    }
+  ]
+}

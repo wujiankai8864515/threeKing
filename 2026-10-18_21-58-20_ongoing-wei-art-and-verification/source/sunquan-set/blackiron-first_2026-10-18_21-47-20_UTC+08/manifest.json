@@ -1,0 +1,26 @@
+{
+  "hero": "sunquan",
+  "slot": "blackiron",
+  "method": "builtin_image_gen",
+  "source": "sunquan-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙权-黑铁-印绶初承-身份候选1.png",
+  "sha256": "365fd518fbe003baac1e92a48541ee7a2104a8078a165bd351fc4c9b6e047162",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "actual_reference_files": [
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean matte painting only, new independent identity"
+    }
+  ],
+  "prompt": "prompt.txt",
+  "status": "technical_identity_candidate_pass",
+  "user_final": false,
+  "notes": [
+    "Natural dark green irises, short dark beard with purple undertone subtle; no glowing eye.",
+    "Ordinary mourning hall, no emperor; closed seal box supported by both hands."
+  ],
+  "independent_qa_at": "2026-10-18T21:57:28+08:00"
+}

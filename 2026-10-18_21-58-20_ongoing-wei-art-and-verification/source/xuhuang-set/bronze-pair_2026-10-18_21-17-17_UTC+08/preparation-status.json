@@ -1,0 +1,9 @@
+{
+  "status": "completed_two_initial_builtin_calls",
+  "actual_prompts": [
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/card-prompt.txt",
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/story-prompt.txt"
+  ],
+  "legacy_prompt_filenames": "PREPARED-NOT-CALLED names were from preparation; actual same text was invoked and is copied to correctly named files",
+  "updated_at": "2026-10-18T21:41:59.517463+08:00"
+}

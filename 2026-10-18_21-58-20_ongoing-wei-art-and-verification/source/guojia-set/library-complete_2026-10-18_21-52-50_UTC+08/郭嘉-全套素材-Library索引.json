@@ -1,0 +1,222 @@
+{
+  "hero": "郭嘉",
+  "status": "all12persisted_candidate_not_user_final",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000142881f689ebdcfd0fac2df0",
+      "library_file_id": "libfile_069a173121588191b46d023ac1f30a38",
+      "file_name": "郭嘉-黑铁-净衣去错配角-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "current_version_number": 0,
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜-十胜开局-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008a6881f5bc4402fd31d5c2bf",
+      "library_file_id": "libfile_9bffac6031388191972bc31caa85ba35",
+      "file_name": "郭嘉-青铜-十胜开局-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-青铜-十胜开局-候选1.png",
+      "current_version_number": 0,
+      "sha256": "4f1ad20df5be588df4f44334f21d28cfb7d53d07f6a3802140bece30d5849a3f",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银-下邳观流-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000009dbc81f5989d46c23d486e17",
+      "library_file_id": "libfile_7d3a8337eb288191bddc24417cf2e4a6",
+      "file_name": "郭嘉-白银-下邳观流-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-白银-下邳观流-候选1.png",
+      "current_version_number": 0,
+      "sha256": "89cbe0c1a07b9a2851354cd4e16a2545b2fecb8a00f601bacf5ce05adfd57fcc",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金-易州遗筹-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004d7481f5985587616fee704f",
+      "library_file_id": "libfile_531a1fdcb1a48191bae844f830ee4e43",
+      "file_name": "郭嘉-黄金-易州遗筹-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-黄金-易州遗筹-候选1.png",
+      "current_version_number": 0,
+      "sha256": "8e0df52d0f30b4edeb86aa902620e34a100e46d7ca8b78bf4e898877b3b5fbda",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-黑铜传记-袁书到时-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005a0c81f58320d20eabd594de",
+      "library_file_id": "libfile_a474d260f1f8819192e3f7c2b3b383d5",
+      "file_name": "郭嘉-黑铜传记-袁书到时-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-黑铜传记-袁书到时-候选1.png",
+      "current_version_number": 0,
+      "sha256": "1cb4764b9724b2ac73a672add4b53fb33502f4aaeea17f47a41729d0bded1709",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-铜银传记-两河可用-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000009b4881f58320b5c742431514",
+      "library_file_id": "libfile_0211c3ad99e88191a841fd976164ab44",
+      "file_name": "郭嘉-铜银传记-两河可用-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-铜银传记-两河可用-候选1.png",
+      "current_version_number": 0,
+      "sha256": "5fadbfd0bd3c04d5907b098bf1cff8844674962aeb36a6c974a37a2cd358c23b",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-银金传记-封书托后事-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000048e481f5877521ef71c7ff98",
+      "library_file_id": "libfile_ca72b98ecbcc8191a56245912fc0604c",
+      "file_name": "郭嘉-银金传记-封书托后事-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/郭嘉-银金传记-封书托后事-候选1.png",
+      "current_version_number": 0,
+      "sha256": "a8123cc1c0e7de5bc7fbed6026a334a69e8475a87e6a92a8a1b9b2f7da58f513",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000dae481f5882ad9b2f29b0ea8",
+      "library_file_id": "libfile_be2ff94540608191a2fe1515678e9b0b",
+      "file_name": "01-黑铁-新框完整UI候选1190(20261018-135310).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(20261018-135310).png",
+      "current_version_number": 0,
+      "sha256": "d5b82b796d41f1d504bfc656760f9970986cbe91030b42966285279f0187a688",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000433081f59fc82a92e0e59a53",
+      "library_file_id": "libfile_651c67f30890819181dcd9618d9f5e13",
+      "file_name": "02-青铜-新框完整UI候选1190(20261018-135310).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(20261018-135310).png",
+      "current_version_number": 0,
+      "sha256": "77c7b741d721e0ebf30b4abec51db0d4b05cd17b4c721f071f8f57342e49b6cf",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e15881f58c73540450448d5f",
+      "library_file_id": "libfile_a1d27497aaa4819181f5ea49d9144358",
+      "file_name": "03-白银-新框完整UI候选1190(20261018-135310).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(20261018-135310).png",
+      "current_version_number": 0,
+      "sha256": "5eee370d055582e0d54c5e2e9b0981a5621e28e023d65f1f2bc989258dd15fdd",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008f0481f5a7bbe5bb4f6f1926",
+      "library_file_id": "libfile_dfb0d85a04608191bf4f011cfbc69df6",
+      "file_name": "04-黄金-新框完整UI候选1190(20261018-135310).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(20261018-135310).png",
+      "current_version_number": 0,
+      "sha256": "fd4ec404c6d6d0d6a99994117eccc1f0f63c8968a468dc5e70954f49c8783990",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/ui_newframe_2026-10-18_21-43-45_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d5c081f58b91c230e5472e7b",
+      "library_file_id": "libfile_46893e02156c819186883c969ebac4f0",
+      "file_name": "四阶新框完整UI-候选总览(20261018-135310).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(20261018-135310).png",
+      "current_version_number": 0,
+      "sha256": "9cf61f0a29fc2b0a7fe4f8d2de70287d99a9c6c81e7eb4d1091427dee3cb0c64",
+      "pixels": [
+        1920,
+        775
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    }
+  ]
+}

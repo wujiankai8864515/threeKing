@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "洞察",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜-十胜开局-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "4f1ad20df5be588df4f44334f21d28cfb7d53d07f6a3802140bece30d5849a3f",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "洞察",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/silver-pair_2026-10-18_21-27-32_UTC+08/郭嘉-白银-下邳观流-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "89cbe0c1a07b9a2851354cd4e16a2545b2fecb8a00f601bacf5ce05adfd57fcc",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "洞察",
+            "level": "+2"
+          },
+          {
+            "name": "先机",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/gold-pair_2026-10-18_21-34-26_UTC+08/郭嘉-黄金-易州遗筹-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "8e0df52d0f30b4edeb86aa902620e34a100e46d7ca8b78bf4e898877b3b5fbda",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "洞察",
+            "level": "+2"
+          },
+          {
+            "name": "先机",
+            "level": "+2"
+          },
+          {
+            "name": "遗策",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

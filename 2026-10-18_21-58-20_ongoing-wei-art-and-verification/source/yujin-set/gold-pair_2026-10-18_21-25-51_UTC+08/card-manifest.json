@@ -1,0 +1,116 @@
+{
+  "asset_id": "yujin_card_4",
+  "hero_id": "yujin",
+  "stage": 4,
+  "kind": "card",
+  "title": "官渡整进",
+  "status": "candidate_native_reviewed_pending_independent_QA",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-debff555-879d-4284-9587-c6d4742e5287.png",
+  "source_sha256": "49165d95fc68a2327035936a0f8cd478648af54e3b568ba0ceb2f2770600f7eb",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/于禁-黄金-官渡整进-候选1.png",
+  "saved_sha256": "49165d95fc68a2327035936a0f8cd478648af54e3b568ba0ceb2f2770600f7eb",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T21:48:32.585976+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/card-prompt.txt",
+  "prompt_sha256": "9f8e7af0cdbdd61dadff1b64e80b283ce2555857c6e01825ff54a80c772b0b2c",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/research-brief.json",
+  "research_brief_sha256": "599ce881878ece8f0790e1c9bdfa508f0cb2c9321876ccc738ab45a3ae79b871",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/face-native100.png",
+      "sha256": "b615b14a69f8ac259bd2716456784ec40e7c1d4ac7cee0e895bff3eadc7b63d8",
+      "role": "accepted hero identity"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean broad matte fabric painting ONLY; do not copy identity or location"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/QA/card-face-native100.png",
+      "xywh": [
+        320,
+        110,
+        190,
+        235
+      ],
+      "native_scale": 1,
+      "sha256": "d0235e117270313a495353df73dc79128f7f483e9137094eae0a7274083afe3c"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/QA/card-baton_hand-native100.png",
+      "xywh": [
+        75,
+        150,
+        155,
+        265
+      ],
+      "native_scale": 1,
+      "sha256": "bfd9be85f6e8f3f7a069c2e422adbbd90bb7b5661999feb5da81b473135e965f"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/QA/card-reins_hand-native100.png",
+      "xywh": [
+        365,
+        625,
+        150,
+        120
+      ],
+      "native_scale": 1,
+      "sha256": "59afcf52b56cf70a798a697df469e5eee2ffe41d448a18bc3fe5041f276e2590"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/QA/card-cloth-native100.png",
+      "xywh": [
+        435,
+        815,
+        190,
+        350
+      ],
+      "native_scale": 1,
+      "sha256": "ddb5a9a99420fac1a2f21ee850149930caab02b204f649677053268c0059ece0"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/QA/card-rhino_face-native100.png",
+      "xywh": [
+        735,
+        865,
+        260,
+        340
+      ],
+      "native_scale": 1,
+      "sha256": "c8323563aa2eb3f88d995038942030e70312a7ef5d418cfa04fdf262b9f0e885"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+    "sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "self_review": {
+    "reviewed_full_image": true,
+    "reviewed_native_crops": [
+      "face",
+      "both hands",
+      "spear axis or baton or handoff",
+      "cloth"
+    ],
+    "identity": "Same recognizable facial identities and separate Lejin compact / Yujin upright character designs",
+    "hands_weapons": "Lejin spear visible shaft sections and blade are collinear, wrist load credible, separate reins. Yujin baton/reins distinct; story handoff has one shared rolled order, main receiving hand and messenger hand separate, baton stowed at saddle. No obvious extra digits.",
+    "cloth": "Substantially broad matte planes. Fine low-contrast traces remain but no dense crackle pattern comparable to bronze. No cross-material glitter field.",
+    "frame_risk": "Lejin badger face low and Yujin rhino face lower-right need actual gold-frame check; Yujin baton close left edge but grip remains inboard.",
+    "status": "candidate_pending_independent_review"
+  }
+}

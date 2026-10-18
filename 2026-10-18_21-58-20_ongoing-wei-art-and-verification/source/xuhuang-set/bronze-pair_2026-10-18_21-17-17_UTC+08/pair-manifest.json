@@ -1,0 +1,60 @@
+{
+  "hero_id": "xuhuang",
+  "tier": "bronze",
+  "canonical_source": "https://zh.wikisource.org/zh/三國演義/第014回",
+  "source_interpretation": "Man Chong ordinary-soldier disguise retained; tent/rack/myth and staging original adaptation",
+  "calls": 2,
+  "files": [
+    {
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "8c469eca3b9b60ba9cc81b6a6d985d43315721b9884f6069e8d1134214784210",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-70f4192f-639d-4b57-bd10-7661297a0077.png",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+          "role": "identity/body/material-language/axe category only; no mounted composition",
+          "viewed": true,
+          "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87"
+        }
+      ],
+      "native_crops_no_resampling": true,
+      "status": "independent_QA_pass_candidate",
+      "library_uploaded": false,
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/card-prompt.txt"
+    },
+    {
+      "kind": "story",
+      "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-黑铜传记-不以弑主换新途-候选1.png",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "f5e0dc9e2ed99808aba30853c09805a9fc3f3aaae2d42355353423db6b78587a",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6d982ceb-eb7b-4980-ad8d-335f30b3fc88.png",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+          "role": "identity/body/material-language/axe category only; no mounted composition",
+          "viewed": true,
+          "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87"
+        }
+      ],
+      "native_crops_no_resampling": true,
+      "status": "superseded_symbol_two_horns",
+      "library_uploaded": false,
+      "superseded_by": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-story-horn-local_2026-10-18_21-31-28_UTC+08/徐晃-黑铜传记-单角玄獬影-局修1.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/story-prompt.txt"
+    }
+  ],
+  "maker_QA": {
+    "card": "Full/native face, grip/shaft/blade, flap hand, cloth/metal inspected. Low blade rests on ground, pole stays straight, hand at top of shorter visible haft. True existing bronze frame tested: flap hand and beast horn/head remain wholly readable. Beast placement differs requested box but no actual frame occlusion.",
+    "story": "Hero face/open refusing palm/resting hand, adviser two hands, seated structure and axe rack viewed. Near table edge and extreme lower-left object softened; most ground/feet remain clear. Tent beast shadow has two curved horn-like projections instead of requested single horn, recorded for review.",
+    "not_claimed": "No perfect identical pixels; no high-resolution upscaling; no unapproved repair."
+  },
+  "updated_at": "2026-10-18T21:41:59.517463+08:00"
+}

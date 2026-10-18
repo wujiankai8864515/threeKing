@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "洞察",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "洞察",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "洞察",
+        "level": "+2"
+      },
+      {
+        "name": "先机",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "洞察",
+        "level": "+2"
+      },
+      {
+        "name": "先机",
+        "level": "+2"
+      },
+      {
+        "name": "遗策",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}
