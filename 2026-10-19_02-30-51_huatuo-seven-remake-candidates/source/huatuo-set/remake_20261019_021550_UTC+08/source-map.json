@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "candidate_status": "awaiting user",
+  "source_paths": {
+    "card01": "generated_images/exec-86cfed75-1f29-417f-844b-713533d2b484.png",
+    "card02": "generated_images/exec-81075d73-4783-4b2b-b17d-28ce80e761d7.png",
+    "card03": "generated_images/exec-72a6f9f6-adc9-492a-86d0-9fb0f28b5876.png",
+    "card04": "generated_images/exec-43c10fb9-44ac-4f1c-b554-76de9762e5d7.png",
+    "bio01": "generated_images/exec-ddd65caa-6600-4002-8459-0b3602d4b7ee.png",
+    "bio02": "generated_images/exec-9b4b82a2-22c2-49ac-b1cb-b20dbe864938.png",
+    "bio03": "generated_images/exec-f1f75a01-2a3a-4cbb-a571-e0449ad8bf1d.png"
+  },
+  "rejected": {
+    "card01-photographic": "generated_images/exec-4afbe7f4-39ad-434b-9b49-3d9517294a10.png"
+  },
+  "reason": "Initial image too photographic; regenerated in approved animation style before locking identity."
+}

@@ -1,0 +1,90 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "华佗",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "仁术",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "仁术": "单次治疗量提高",
+      "缓脉": "主动治疗能量消耗降低",
+      "济急": "对低生命友军治疗量提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "华佗",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "仁术",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "仁术": "单次治疗量提高",
+      "缓脉": "主动治疗能量消耗降低",
+      "济急": "对低生命友军治疗量提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "silver": {
+    "country": "群",
+    "title": "华佗",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "仁术",
+        "level": "+2"
+      },
+      {
+        "name": "缓脉",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "仁术": "单次治疗量提高",
+      "缓脉": "主动治疗能量消耗降低",
+      "济急": "对低生命友军治疗量提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "gold": {
+    "country": "群",
+    "title": "华佗",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "仁术",
+        "level": "+2"
+      },
+      {
+        "name": "缓脉",
+        "level": "+2"
+      },
+      {
+        "name": "济急",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "仁术": "单次治疗量提高",
+      "缓脉": "主动治疗能量消耗降低",
+      "济急": "对低生命友军治疗量提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "hero": "华佗",
+  "built_in_image_gen": true,
+  "no_native_4K_claim": true,
+  "raw_sources": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "864e996f186840c6d2193b6e07fad934f46519748a3df620d9dc3bbe640e886f"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "93f1b2a4aebc90621277d9b75b4ded640dbe1b6d3251b5fb11dce6b7bd19a29c"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "67c8325da5185f08b63688a737bf863414fb50ec5d388a51b052c7a1e2d06ab4"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "3208ee72d9ce460a6828a23c4b05a94a398612555ccc3a43e8240e9326631217"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "a821fde9db24c943a5dd9ed7bc38a91ade78ecafa6b5e8fa9fabcb2b5165f89b"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "72fe1df8a27ee3b54edac904ed0af0f1ca61bfc70c03b86698e33c07180f33e0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "76dd47957eebec8d839a96096c994f68986c3eda92673b2cf7f3ebac5d7f7f2f"
+    }
+  ],
+  "deliverables": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "11b129b70606391d242b5a9ae5cf186d33758903c5e0237aeef5583a5ab6a762",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "297d479b9efa2af125648cd1fa91fbdade2bfe1caadd3a875f1913f3f19a646b",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2a7478d0553d4fa2743d3b6dfdd76b2825f6b68e0829d6565ab50bd25eea3301",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2ceacd33ce1f331840c6d4e9c428d3a18b608d302140f3479a2169262ce2dd88",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-05-传记-闻伤渡江.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "864e996f186840c6d2193b6e07fad934f46519748a3df620d9dc3bbe640e886f",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-06-传记-医言难入权门.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "93f1b2a4aebc90621277d9b75b4ded640dbe1b6d3251b5fb11dce6b7bd19a29c",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-07-传记-青囊相托.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "67c8325da5185f08b63688a737bf863414fb50ec5d388a51b052c7a1e2d06ab4",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "7a1530c9820a893914ae2d10dae626a3480336864b284739590b08f2e40f04b0",
+      "status": "candidate awaiting user"
+    }
+  ],
+  "ui_manifest": "ui/composition-manifest.json",
+  "research": "RESEARCH.md",
+  "qa": "QA.md"
+}

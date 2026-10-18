@@ -1,0 +1,165 @@
+{
+  "hero": "华佗",
+  "hero_id": "huatuo",
+  "frozen_at_utc": "2026-10-18T18:30:16.219579+00:00",
+  "status": "production_complete_candidate_awaiting_user",
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "asset_id": "huatuo_01",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "11b129b70606391d242b5a9ae5cf186d33758903c5e0237aeef5583a5ab6a762",
+      "library_file_id": "libfile_84b1d27677608191b39a041ba2880023",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/card01.png",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "3208ee72d9ce460a6828a23c4b05a94a398612555ccc3a43e8240e9326631217",
+      "original_generation_path": "generated_images/exec-86cfed75-1f29-417f-844b-713533d2b484.png",
+      "composited_path": "huatuo-set/remake_20261019_021550_UTC+08/ui/01-黑铁-UI排版修复1190.png"
+    },
+    {
+      "asset_id": "huatuo_02",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "297d479b9efa2af125648cd1fa91fbdade2bfe1caadd3a875f1913f3f19a646b",
+      "library_file_id": "libfile_a080c3081e008191b39612542a9bf00f",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/card02.png",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "a821fde9db24c943a5dd9ed7bc38a91ade78ecafa6b5e8fa9fabcb2b5165f89b",
+      "original_generation_path": "generated_images/exec-81075d73-4783-4b2b-b17d-28ce80e761d7.png",
+      "composited_path": "huatuo-set/remake_20261019_021550_UTC+08/ui/02-青铜-UI排版修复1190.png"
+    },
+    {
+      "asset_id": "huatuo_03",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2a7478d0553d4fa2743d3b6dfdd76b2825f6b68e0829d6565ab50bd25eea3301",
+      "library_file_id": "libfile_f3acd231b9988191953aa3975b719658",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/card03.png",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "72fe1df8a27ee3b54edac904ed0af0f1ca61bfc70c03b86698e33c07180f33e0",
+      "original_generation_path": "generated_images/exec-72a6f9f6-adc9-492a-86d0-9fb0f28b5876.png",
+      "composited_path": "huatuo-set/remake_20261019_021550_UTC+08/ui/03-白银-UI排版修复1190.png"
+    },
+    {
+      "asset_id": "huatuo_04",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2ceacd33ce1f331840c6d4e9c428d3a18b608d302140f3479a2169262ce2dd88",
+      "library_file_id": "libfile_8ec6f4a0ac04819192f1f6fb57b9ad14",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/card04.png",
+      "source_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "76dd47957eebec8d839a96096c994f68986c3eda92673b2cf7f3ebac5d7f7f2f",
+      "original_generation_path": "generated_images/exec-43c10fb9-44ac-4f1c-b554-76de9762e5d7.png",
+      "composited_path": "huatuo-set/remake_20261019_021550_UTC+08/ui/04-黄金-UI排版修复1190.png"
+    },
+    {
+      "asset_id": "huatuo_05",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-05-传记-闻伤渡江.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "864e996f186840c6d2193b6e07fad934f46519748a3df620d9dc3bbe640e886f",
+      "library_file_id": "libfile_f0744d21c7208191b81a89732e114cf8",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/bio01.png",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "864e996f186840c6d2193b6e07fad934f46519748a3df620d9dc3bbe640e886f",
+      "original_generation_path": "generated_images/exec-ddd65caa-6600-4002-8459-0b3602d4b7ee.png"
+    },
+    {
+      "asset_id": "huatuo_06",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-06-传记-医言难入权门.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "93f1b2a4aebc90621277d9b75b4ded640dbe1b6d3251b5fb11dce6b7bd19a29c",
+      "library_file_id": "libfile_998734f696688191bc9c15817d5c6378",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/bio02.png",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "93f1b2a4aebc90621277d9b75b4ded640dbe1b6d3251b5fb11dce6b7bd19a29c",
+      "original_generation_path": "generated_images/exec-9b4b82a2-22c2-49ac-b1cb-b20dbe864938.png"
+    },
+    {
+      "asset_id": "huatuo_07",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-07-传记-青囊相托.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "67c8325da5185f08b63688a737bf863414fb50ec5d388a51b052c7a1e2d06ab4",
+      "library_file_id": "libfile_c1d7a32514a08191bd04316dd48a3a4b",
+      "status": "candidate_awaiting_user_review",
+      "source_path": "huatuo-set/remake_20261019_021550_UTC+08/raw/bio03.png",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "67c8325da5185f08b63688a737bf863414fb50ec5d388a51b052c7a1e2d06ab4",
+      "original_generation_path": "generated_images/exec-f1f75a01-2a3a-4cbb-a571-e0449ad8bf1d.png"
+    },
+    {
+      "asset_id": "huatuo_08",
+      "final_path": "huatuo-set/remake_20261019_021550_UTC+08/candidates/华佗-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "7a1530c9820a893914ae2d10dae626a3480336864b284739590b08f2e40f04b0",
+      "library_file_id": "libfile_befcafab459c8191b926a54395ce888e",
+      "status": "candidate_awaiting_user_review"
+    }
+  ],
+  "supporting_paths": {
+    "research": "huatuo-set/remake_20261019_021550_UTC+08/RESEARCH.md",
+    "qa": "huatuo-set/remake_20261019_021550_UTC+08/QA.md",
+    "source_map": "huatuo-set/remake_20261019_021550_UTC+08/source-map.json",
+    "ui_manifest": "huatuo-set/remake_20261019_021550_UTC+08/ui/composition-manifest.json",
+    "delivery_ids": "huatuo-set/remake_20261019_021550_UTC+08/delivery-library-ids.json"
+  },
+  "checks": {
+    "all_paths_exist": true,
+    "primary_image_count": 7,
+    "overview_count": 1,
+    "library_success_count": 8,
+    "no_image_changes_in_manifest_finalization": true,
+    "no_git_operations": true
+  }
+}
