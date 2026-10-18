@@ -1,0 +1,8 @@
+{
+  "generation": "built-in image_gen only",
+  "identity": "raw/card01.png",
+  "style_reference": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+  "failed_first_source": "failures/card01-too-photographic.png",
+  "ui_base": "xunyu-set/ui_newframe_2026-10-18_21-38-40_UTC+08",
+  "compact_layout_reference": "guanyu-mythic-set/ui-local-composite-finalizer_2026-10-18_23-45-20_UTC+08/compose_layout.py"
+}

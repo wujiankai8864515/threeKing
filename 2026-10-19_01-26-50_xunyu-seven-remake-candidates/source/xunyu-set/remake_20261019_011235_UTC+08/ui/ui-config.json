@@ -1,0 +1,90 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "荀彧",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "济用",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "济用": "主动补充的能量量提高",
+      "节用": "主动冷却缩短",
+      "广援": "主动施放距离提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "荀彧",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "济用",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "济用": "主动补充的能量量提高",
+      "节用": "主动冷却缩短",
+      "广援": "主动施放距离提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "荀彧",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "济用",
+        "level": "+2"
+      },
+      {
+        "name": "节用",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "济用": "主动补充的能量量提高",
+      "节用": "主动冷却缩短",
+      "广援": "主动施放距离提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "荀彧",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "济用",
+        "level": "+2"
+      },
+      {
+        "name": "节用",
+        "level": "+2"
+      },
+      {
+        "name": "广援",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案",
+    "skills_effects_draft": {
+      "济用": "主动补充的能量量提高",
+      "节用": "主动冷却缩短",
+      "广援": "主动施放距离提高"
+    },
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  }
+}

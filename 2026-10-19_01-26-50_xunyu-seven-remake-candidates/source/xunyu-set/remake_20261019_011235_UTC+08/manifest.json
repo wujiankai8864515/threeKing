@@ -1,0 +1,303 @@
+{
+  "hero": "荀彧",
+  "built_in_image_gen": true,
+  "no_native_4K_claim": true,
+  "raw_sources": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c8aabba7388aef0c8f70d41a0a77b1adfd5411bbaaf3e96e824401417c06bdbe"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "537081b606108359a721bbbfff4c4c2e356efc9e62bad22a21d5ec0a78a68dbd"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c3a85524e986322ae103a8e959294203970dab9a06be43b2af83b51aeec95482"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "7fa92e10f6db468ea520ddfdabde2ddcd29ca25353cd4fc48d0ad6e5fb81780d"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "cc0b3c1f82516552e4c338ce7a193f492a1488d912a5762557c107b3ee064c51"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "bd0bc37fe90b71307455aae36002303c77aa2c002f22c3ca14005c395a7979c5"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "2ea07e3f88b421cbf5eaa3b91ae11cff0e5c8772c5fbd3019aa486b40c0a276a"
+    }
+  ],
+  "deliverables": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "319e48ca0c43b6a834c5f58852b62401483ca94c92e4d758d16afdc5fb026082",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "1b9ddb18373fb14cf85aab27e39400d8499598085dcb61de3747152da841c026",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "828a2470ccf7b88600b232b5aa9acd2da97105fdb292ad901e703b825a590203",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "1a5be715ec5381529051875c55e5e999c79defaf4a7adbee5c5fbeaa3b8b5644",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-05-传记-只留三城不失.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c8aabba7388aef0c8f70d41a0a77b1adfd5411bbaaf3e96e824401417c06bdbe",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-06-传记-奉迎之议.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "537081b606108359a721bbbfff4c4c2e356efc9e62bad22a21d5ec0a78a68dbd",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-07-传记-一封不退的信.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c3a85524e986322ae103a8e959294203970dab9a06be43b2af83b51aeec95482",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/xunyu-set/remake_20261019_011235_UTC+08/candidates/荀彧-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "2f3ad2ae5a6ec5363c617f13f2aea8dcddbb48d81bb414434c29bf142d647719",
+      "status": "candidate awaiting user"
+    }
+  ],
+  "ui_manifest": "ui/composition-manifest.json",
+  "research": "RESEARCH.md",
+  "qa": "QA.md",
+  "library_uploads": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-01-黑铁.png",
+      "file_id": "file_000000000ac48230bbb9d7f81fa2ab3b",
+      "library_file_id": "libfile_51dcc1ab4bd4819181fd2122d840493b",
+      "file_name": "荀彧-01-黑铁.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3005496
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-02-青铜.png",
+      "file_id": "file_00000000e0e881fd8de736afdc511df1",
+      "library_file_id": "libfile_efca3b0401c481918d7ad745f47f13eb",
+      "file_name": "荀彧-02-青铜.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3079049
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-03-白银.png",
+      "file_id": "file_00000000170081f5998f8a392c1c91fb",
+      "library_file_id": "libfile_7c78de19d82081919cc84529f9c9bfc3",
+      "file_name": "荀彧-03-白银.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3033846
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-04-黄金.png",
+      "file_id": "file_00000000b15881f6b25f0f38b3682c17",
+      "library_file_id": "libfile_822d2a23298081919f09abd16228d5ac",
+      "file_name": "荀彧-04-黄金.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3073828
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-05-传记-只留三城不失.png",
+      "file_id": "file_000000002b3881fd9857503ebc80557d",
+      "library_file_id": "libfile_d1da4380cca081919d41a171b764304d",
+      "file_name": "荀彧-05-传记-只留三城不失.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2329184
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-06-传记-奉迎之议.png",
+      "file_id": "file_00000000fdc481fd871423edd70d0e88",
+      "library_file_id": "libfile_e544d23641c88191bd96baf84698e3ee",
+      "file_name": "荀彧-06-传记-奉迎之议.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2004009
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-07-传记-一封不退的信.png",
+      "file_id": "file_0000000024008230b0cd61888238f34b",
+      "library_file_id": "libfile_b5c8296d56bc8191a49459ad18b5fdeb",
+      "file_name": "荀彧-07-传记-一封不退的信.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2089176
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/荀彧-08-完整七图总览.jpg",
+      "file_id": "file_00000000a42081f5923a8e6479550efc",
+      "library_file_id": "libfile_01ef0bb3be6c81918e7bd6f06b1a2715",
+      "file_name": "荀彧-08-完整七图总览.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 965653
+    }
+  ],
+  "status": "all seven independent new images and overview uploaded; candidate awaiting user"
+}

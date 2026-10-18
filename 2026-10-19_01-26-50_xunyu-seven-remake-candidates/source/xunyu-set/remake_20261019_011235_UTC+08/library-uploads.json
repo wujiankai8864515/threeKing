@@ -1,0 +1,192 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "results": [
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-01-黑铁.png",
+          "file_id": "file_000000000ac48230bbb9d7f81fa2ab3b",
+          "library_file_id": "libfile_51dcc1ab4bd4819181fd2122d840493b",
+          "file_name": "荀彧-01-黑铁.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 3005496
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-02-青铜.png",
+          "file_id": "file_00000000e0e881fd8de736afdc511df1",
+          "library_file_id": "libfile_efca3b0401c481918d7ad745f47f13eb",
+          "file_name": "荀彧-02-青铜.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 3079049
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-03-白银.png",
+          "file_id": "file_00000000170081f5998f8a392c1c91fb",
+          "library_file_id": "libfile_7c78de19d82081919cc84529f9c9bfc3",
+          "file_name": "荀彧-03-白银.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 3033846
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-04-黄金.png",
+          "file_id": "file_00000000b15881f6b25f0f38b3682c17",
+          "library_file_id": "libfile_822d2a23298081919f09abd16228d5ac",
+          "file_name": "荀彧-04-黄金.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 3073828
+        }
+      ],
+      "warnings": [],
+      "external_connectors_accessed": false
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "results": [
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-05-传记-只留三城不失.png",
+          "file_id": "file_000000002b3881fd9857503ebc80557d",
+          "library_file_id": "libfile_d1da4380cca081919d41a171b764304d",
+          "file_name": "荀彧-05-传记-只留三城不失.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 2329184
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-06-传记-奉迎之议.png",
+          "file_id": "file_00000000fdc481fd871423edd70d0e88",
+          "library_file_id": "libfile_e544d23641c88191bd96baf84698e3ee",
+          "file_name": "荀彧-06-传记-奉迎之议.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 2004009
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-07-传记-一封不退的信.png",
+          "file_id": "file_0000000024008230b0cd61888238f34b",
+          "library_file_id": "libfile_b5c8296d56bc8191a49459ad18b5fdeb",
+          "file_name": "荀彧-07-传记-一封不退的信.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "image",
+          "file_size_bytes": 2089176
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/荀彧-08-完整七图总览.jpg",
+          "file_id": "file_00000000a42081f5923a8e6479550efc",
+          "library_file_id": "libfile_01ef0bb3be6c81918e7bd6f06b1a2715",
+          "file_name": "荀彧-08-完整七图总览.jpg",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/jpeg",
+          "library_artifact_type": "image",
+          "file_size_bytes": 965653
+        }
+      ],
+      "warnings": [],
+      "external_connectors_accessed": false
+    },
+    "isError": false
+  }
+]

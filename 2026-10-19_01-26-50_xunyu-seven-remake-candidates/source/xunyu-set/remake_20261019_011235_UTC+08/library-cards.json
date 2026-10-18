@@ -1,0 +1,95 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/荀彧-01-黑铁.png",
+        "file_id": "file_000000000ac48230bbb9d7f81fa2ab3b",
+        "library_file_id": "libfile_51dcc1ab4bd4819181fd2122d840493b",
+        "file_name": "荀彧-01-黑铁.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3005496
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/荀彧-02-青铜.png",
+        "file_id": "file_00000000e0e881fd8de736afdc511df1",
+        "library_file_id": "libfile_efca3b0401c481918d7ad745f47f13eb",
+        "file_name": "荀彧-02-青铜.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3079049
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/荀彧-03-白银.png",
+        "file_id": "file_00000000170081f5998f8a392c1c91fb",
+        "library_file_id": "libfile_7c78de19d82081919cc84529f9c9bfc3",
+        "file_name": "荀彧-03-白银.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3033846
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/荀彧-04-黄金.png",
+        "file_id": "file_00000000b15881f6b25f0f38b3682c17",
+        "library_file_id": "libfile_822d2a23298081919f09abd16228d5ac",
+        "file_name": "荀彧-04-黄金.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3073828
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}
