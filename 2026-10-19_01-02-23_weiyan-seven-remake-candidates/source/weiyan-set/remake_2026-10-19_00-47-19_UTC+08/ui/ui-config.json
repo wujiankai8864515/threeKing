@@ -1,0 +1,74 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "魏延",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "破甲",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "skill_status": "proposed one-effect passives, not approved gameplay",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "魏延",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "破甲",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "skill_status": "proposed one-effect passives, not approved gameplay",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "魏延",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "破甲",
+        "level": "+2"
+      },
+      {
+        "name": "偏锋",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "skill_status": "proposed one-effect passives, not approved gameplay",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "魏延",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "破甲",
+        "level": "+2"
+      },
+      {
+        "name": "偏锋",
+        "level": "+2"
+      },
+      {
+        "name": "守隘",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "skill_status": "proposed one-effect passives, not approved gameplay",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names"
+  }
+}

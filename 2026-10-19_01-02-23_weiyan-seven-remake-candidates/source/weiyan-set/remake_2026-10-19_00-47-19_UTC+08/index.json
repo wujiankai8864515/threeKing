@@ -1,0 +1,140 @@
+{
+  "hero": "魏延",
+  "built_in_image_gen": true,
+  "no_native_4K_claim": true,
+  "raw_sources": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "ecf92f413460c9350539578e25a7a5466d3c8c61bb0d405e18e16b159798b57a"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "477e1d7ac9e95c34649e00221bba121888d399b37a9bf2e99ad31f1e5e57fbbd"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "40a58b94bb74afa4927bf4035d209faa2e9ccf854ecec5bdb4fe18e3d8812855"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "d7cef5d3e8dd051e5693165f21a7a0c9c6056b8fa39d11c4ee102f0f8bc7c069"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "f99e720ec2ad4f2890be0658918a0a9d35dfe198695e76d5a78a912de347745b"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "6191cb2781a7b69109b5fe9190352ae7aae5b11dbc99fafec6ef3f40109d068a"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "ad9743017fb403a12ec64be28439b848e93cca177e741be12bc8c1c20bb36a7b"
+    }
+  ],
+  "deliverables": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0d20480063d902e42be3a9aeb2a570a54b45d833f51066f24d24bb8ad82ae0e8",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "d3b654115b648822070561f99fb215f348dacc346576ad21a887fdb5c54f75ad",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "87663008fa87da6973244bbc5e7b737873852c471510f80a434f099de667c44d",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "700d2fe2648ba474edfbabc82ff0057d5f1cf49e2a2cf812fc0d5de395c97834",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-05-传记-长沙一呼.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "ecf92f413460c9350539578e25a7a5466d3c8c61bb0d405e18e16b159798b57a",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-06-传记-转身一箭.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "477e1d7ac9e95c34649e00221bba121888d399b37a9bf2e99ad31f1e5e57fbbd",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-07-传记-受任守关.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "40a58b94bb74afa4927bf4035d209faa2e9ccf854ecec5bdb4fe18e3d8812855",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/weiyan-set/remake_2026-10-19_00-47-19_UTC+08/candidates/魏延-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "8a3c15257c60d1dc7fa383f787bc7c1a4ee8401435698a9a31099233fb56f56c",
+      "status": "candidate awaiting user"
+    }
+  ],
+  "ui_manifest": "ui/composition-manifest.json",
+  "research": "research/verified.md",
+  "qa": "QA.md"
+}

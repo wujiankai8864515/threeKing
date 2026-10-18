@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-01-黑铁.png",
+      "file_id": "file_00000000deb081fd8be16508f9b59327",
+      "library_file_id": "libfile_6de309ab738c8191bba50e91a60f8078",
+      "file_name": "魏延-01-黑铁.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3406761
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-02-青铜.png",
+      "file_id": "file_000000001f1881fda155ed95b803e6c5",
+      "library_file_id": "libfile_3ac64fa9be688191969bf95cf3acfb46",
+      "file_name": "魏延-02-青铜.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3590968
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-03-白银.png",
+      "file_id": "file_000000006d3c81fda640387fc9df59d6",
+      "library_file_id": "libfile_af31b37afeac819196e68b74d28bb05a",
+      "file_name": "魏延-03-白银.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3622020
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-04-黄金.png",
+      "file_id": "file_000000004d7881f899b18ade5ce42843",
+      "library_file_id": "libfile_8990e699b80881918a91f525a4d23fae",
+      "file_name": "魏延-04-黄金.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3599691
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-05-传记-长沙一呼.png",
+      "file_id": "file_00000000ad7c81f598b68a9a726f09de",
+      "library_file_id": "libfile_bf8cc06b490081918cbd2ebe50d1356b",
+      "file_name": "魏延-05-传记-长沙一呼.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2642504
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-06-传记-转身一箭.png",
+      "file_id": "file_000000003acc81f48706a525df15b089",
+      "library_file_id": "libfile_d9527173a18c819188282ef1b84e2430",
+      "file_name": "魏延-06-传记-转身一箭.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2939265
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-07-传记-受任守关.png",
+      "file_id": "file_00000000302881fda20102028916a84c",
+      "library_file_id": "libfile_8a2a52b5691c819197aa324e5972b2e4",
+      "file_name": "魏延-07-传记-受任守关.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2733144
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/魏延-08-完整七图总览.jpg",
+      "file_id": "file_000000004b0081f4979680fd7c31f26f",
+      "library_file_id": "libfile_d14f56f6a7588191bd175dc3deb9ea4c",
+      "file_name": "魏延-08-完整七图总览.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 1161177
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
