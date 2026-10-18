@@ -1,0 +1,142 @@
+{
+  "hero_id": "pangtong",
+  "asset_id": "pangtong_bio_to_03_foreground_local1",
+  "target_card_id": "pangtong_card_03",
+  "rank": "silver",
+  "status": "creator and independent QA passed candidate; root final selection not recorded here",
+  "generated_with": "builtin image_gen one authorized local edit candidate",
+  "source_generated": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-69a36f04-7520-4f08-a9ec-64d368ae42e9.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "62ae4765f752b73e281cde21ebdaf15599ddd10e02c8554124b6a352850f0a58"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-铜银传记-耒阳理事-候选1.png",
+      "role": "only edit target; local front-right petitioner clarity",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "b80bf375fa8dc044490b8bb98ae8fcb41474938c3a17f951ea7f1c12ac6cb00c",
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/prompt.txt",
+  "qa": {
+    "petitioner-head": {
+      "box": [
+        985,
+        365,
+        1260,
+        655
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/petitioner-head-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "petitioner-hands": {
+      "box": [
+        775,
+        690,
+        975,
+        915
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/petitioner-hands-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "petitioner-back": {
+      "box": [
+        970,
+        600,
+        1536,
+        1024
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/petitioner-back-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "right-person": {
+      "box": [
+        1360,
+        405,
+        1536,
+        715
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/right-person-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "pang-face": {
+      "box": [
+        500,
+        160,
+        720,
+        420
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/pang-face-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "zhang-sun-faces": {
+      "box": [
+        790,
+        35,
+        1340,
+        335
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/zhang-sun-faces-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "pang-brush-hands": {
+      "box": [
+        450,
+        500,
+        915,
+        695
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/pang-brush-hands-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "desk-foreground": {
+      "box": [
+        0,
+        660,
+        780,
+        1024
+      ],
+      "pair": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/qa/desk-foreground-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    }
+  },
+  "pixel_diagnostics": {
+    "whole_mean_abs_channel_difference": 5.790842692057292,
+    "outside_broad_petitioner_ROI_mean_abs_difference": 4.533677841084757,
+    "outside_broad_petitioner_ROI_fraction_pixels_any_channel_difference_gt20": 0.04605614340608378,
+    "note": "pixel diagnostics only, not proof of structural identity; full/crop visual inspection required"
+  },
+  "creative_postprocessing": "none; output copied unmodified",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:42 UTC+08",
+    "full_image": true,
+    "thumbnail": true,
+    "all_native_before_after_pairs": true,
+    "findings": [
+      "全图、缩略图及8组原生100%前后对照已实际view。",
+      "前景陈情人发髻/布结、耳颈、肩背大褶与两只手清晰提高；自然分面重新绘制，无锐化白边或满表面亮点。",
+      "主近手拇指与其余弯曲手指的关系可读，远手部分被肩身遮挡，未见新增手指/手臂硬伤；保原陈情姿势与位置。",
+      "庞统脸、张飞孙乾脸、原单笔落纸与扶文书手保，未见新结构伤。衣纹保持，未顺带清掉已准低对比纹。",
+      "非修区仍存在生成重采样色阶/微线变化，不宣称像素级完全不变；宽ROI之外平均RGB绝对差约4.53/255，约4.6%像素任一通道差大于20，属诊断记录非身份验收。",
+      "近桌沿与前左卷仍有原有柔焦，授权只修前景人组未扩修，保留说明。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "received_at": "2026-10-18 20:43 UTC+08",
+    "result": "passed",
+    "finding": "前景局修完整图及原生前后手、发结、肩背、主角笔手通过，清晰改善无新增硬伤，桌极边柔可留。"
+  }
+}

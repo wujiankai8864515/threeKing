@@ -1,0 +1,22 @@
+{
+  "status": "local_candidate_pending_priority_independent_axis_review",
+  "asset_id": "zhaoyun_card_04",
+  "tool": "builtin imagegen",
+  "calls_this_authorization": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-hanshui_2026-10-18_19-50-46_UTC+08/赵云-黄金-汉水龙胆-候选1-2026-10-18_19-50-46_UTC+08.png",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-axis-local_2026-10-18_20-02-22_UTC+08/赵云-黄金-汉水龙胆-枪轴局修1-2026-10-18_20-02-22_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "sha256": "f09d7fd1e718d7dbc4542b70839b3063655937b19bf63d08326ac123994c227b",
+  "scope": "Blade/socket alignment only; main shaft and grip frozen.",
+  "observations": "Blade rotated slightly counterclockwise and tip moved up-right. Main shaft, hands, face, horse and composition preserved in full and native comparison. Residual apparent ridge downward angle remains uncertain; cannot declare fixed before independent audit.",
+  "unchanged_risks": [
+    "Source upright flags",
+    "Source dragon horn crop/right head frame safety"
+  ],
+  "qa_crops": "Before/after full weapon, blade/socket, face, hands and horse-material native crops.",
+  "next_action": "Priority independent audit, no further generation under this authorization."
+}

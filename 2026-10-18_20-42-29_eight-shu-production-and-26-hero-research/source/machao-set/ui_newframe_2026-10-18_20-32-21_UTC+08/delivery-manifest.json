@@ -1,0 +1,246 @@
+{
+  "hero_id": "machao",
+  "status": "candidate_pending_framed_review",
+  "uploads": [],
+  "library_uploaded": false,
+  "files": [
+    {
+      "name": "01-黑铁-新框完整UI候选1190.png",
+      "sha256": "1317e8c59a7d8507bd5bee28857201cbde5b6737e1431340d821b10d62ea7f64",
+      "bytes": 3820879,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "02-青铜-新框完整UI候选1190.png",
+      "sha256": "2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24",
+      "bytes": 3866427,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "03-白银-新框完整UI候选1190.png",
+      "sha256": "937af74e3763439af51a672287641516122042e92f660479d29a247e922f450d",
+      "bytes": 3781317,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "04-黄金-新框完整UI候选1190.png",
+      "sha256": "6db11a5a7010b6c26584fc26ce243c1058f90e7eb8d3dd5a64e7d9ba80c0d325",
+      "bytes": 3803896,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "art-native-slot-mask.png",
+      "sha256": "8e3fe2eabccea8d2600c25fb5d654138f20b21cc761d06d9cd3b29d823502f54",
+      "bytes": 6922,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "L"
+    },
+    {
+      "name": "bronze-complete-480.png",
+      "sha256": "fc0fe326620daa2ecc41993208cf023e2255dea3a006d0520275ccf718d3011a",
+      "bytes": 751017,
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-empty-generated-1024.png",
+      "sha256": "864a53c5422dba1c07b00c6c62915dfd47a635c8086e88fdb251951616933c02",
+      "bytes": 1764323,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-text-overlay-1190.png",
+      "sha256": "7ff5d56f662594e026e44b5b56cd778f791563da63efa496f0e1a99efda2c6cb",
+      "bytes": 46126,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-text-overlay.svg",
+      "sha256": "29534201252d4d8386eb343c4e1aded1bb8dbeb8e5f72ee21ab74000cb1a0e87",
+      "bytes": 3478
+    },
+    {
+      "name": "build_text.py",
+      "sha256": "574be9475b48f6246e449da3cf67d637a4ed13826c7cdd07d4b80a01d1c3fd34",
+      "bytes": 2404
+    },
+    {
+      "name": "compose_cards.py",
+      "sha256": "43e9b2d36051bf979433e4407bdfdb60f85cbf276f0b0b9ecd9a840fe383ac74",
+      "bytes": 4421
+    },
+    {
+      "name": "composition-manifest.json",
+      "sha256": "5c507891a9958e5cbab0df63d44bcceb031d792e1650121f10dbee510e84f7e4",
+      "bytes": 4046
+    },
+    {
+      "name": "framed-QA.json",
+      "sha256": "30b0b3ca23794986fcf128b950d2362cf63e92e69390522e1a1cb2791ac8249c",
+      "bytes": 2358
+    },
+    {
+      "name": "gold-complete-480.png",
+      "sha256": "82349a18486f5663e6ef78c8b3f6e38425c584e10af7d3f60c18b3570bf44e86",
+      "bytes": 749141,
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-empty-generated-1024.png",
+      "sha256": "e42e3d1b05be01559fc538f32ff4d7a117f749932b82eb48977d58146ffe05b9",
+      "bytes": 1826577,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-text-overlay-1190.png",
+      "sha256": "45e8a74eb4c46476c4cbd22c90e4b739195d78dcc768ef85a5ad3dd46e2ceb18",
+      "bytes": 62828,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-text-overlay.svg",
+      "sha256": "caf4ec9ecbb97ef613dc4d95eff8a9a18303ad5238fb77f2bc6296c97f5d848f",
+      "bytes": 5030
+    },
+    {
+      "name": "iron-complete-480.png",
+      "sha256": "1842d6f02093bb1b619359cd1369df32d303c3747b0f3efc701f059e8fb0f9cf",
+      "bytes": 733528,
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-empty-generated-1024.png",
+      "sha256": "04d219407e9713dca1d647ec3138a2f23ef72551977f92940f13bef5b81a897d",
+      "bytes": 1678402,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-text-overlay-1190.png",
+      "sha256": "7ff5d56f662594e026e44b5b56cd778f791563da63efa496f0e1a99efda2c6cb",
+      "bytes": 46126,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-text-overlay.svg",
+      "sha256": "29534201252d4d8386eb343c4e1aded1bb8dbeb8e5f72ee21ab74000cb1a0e87",
+      "bytes": 3478
+    },
+    {
+      "name": "silver-complete-480.png",
+      "sha256": "57b7b8eb4d50355a49996c59f230dad60b1d048e85746cde359ac458d3e79612",
+      "bytes": 734241,
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-empty-cleanalpha-1024.png",
+      "sha256": "c36b4ec2addd4a05393da377e186d4ff7635b055adeba1f4d86d5b2631f2e92d",
+      "bytes": 1733860,
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-text-overlay-1190.png",
+      "sha256": "f8740e203eeaf57c1e8c1747e305f9f1bf2093010c0d41d166a0ab8c5cddb07c",
+      "bytes": 56363,
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-text-overlay.svg",
+      "sha256": "fff46472a74ae068655ebf76841104dd20f7511d36cd22c22efab9e2ac641bf4",
+      "bytes": 4256
+    },
+    {
+      "name": "source-map.json",
+      "sha256": "45f0ddf03cf4083fa929796337f5fe58428136aec6ab3015cf351773fafa3643",
+      "bytes": 1322
+    },
+    {
+      "name": "template-provenance.json",
+      "sha256": "382feb07080a1508aea94a37ea6699dd5fe2dfd82fd52535253d34bb71f93d31",
+      "bytes": 1182
+    },
+    {
+      "name": "ui-config.json",
+      "sha256": "f5921b917f638f5ce3a6db3968dae424c7b64dc1f75bf4fd93774cea3f51f78c",
+      "bytes": 1337
+    },
+    {
+      "name": "四阶新框完整UI-候选总览.png",
+      "sha256": "17592e07de727cf45cc77ed20ad7e01bfdb88efc47010fe61479a0af35fb0886",
+      "bytes": 2655121,
+      "pixels": [
+        1920,
+        775
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "references": "source-map.json and template-provenance.json",
+  "native_checks": "composition-manifest.json",
+  "visual_checks": "framed-QA.json"
+}

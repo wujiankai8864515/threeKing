@@ -1,0 +1,359 @@
+{
+  "hero_id": "diaochan",
+  "name": "貂蝉",
+  "faction": "qun",
+  "core_personality": "从观察与承担到在强权缝隙中改变局势，表面姿态和真实决心有层次。",
+  "myth_symbol_proposal": {
+    "name": "月蚀银蛾",
+    "origin": "原创关系神话，非原著妖女、魅魔或仙女身份",
+    "reason": "两片银灰蛾翼分离一轮月，表现裂开的信任；不靠裸露与粉紫花瓣堆魔法。",
+    "growth": "袖影单翅→双翅未开→月面缺口→完整银蛾在两道分离月弧中展形"
+  },
+  "differentiation": "只改变一次敌方普攻归向的关系扰动者；不控制爱情或长期精神奴役，不与左慈复制自己/诱饵幻象重合。",
+  "identity": {
+    "age_boundary": "小说第8回写年方二八。项目视觉统一原创成年化（明确20岁以上），这是改编选择，不改写原文年龄；全部服饰与镜头非性化。",
+    "face": "原创成年椭圆脸、眉梢略扬、鼻颌精细但不幼态，目光有观察性；四阶表情从忧到定，不以媚笑贯穿。",
+    "hair": "原创完整高髻与两侧收束发，银蛾形小簪作连续性；无现代舞台大羽冠。",
+    "body": "成年匀称舞者体态，重心细腻有力；不极端沙漏比例，不露腹腿胸作卖点。",
+    "clothes": "墨蓝灰、月白、暗梅红长衣分层，完整领襟与长裙；少量细银边，非透明薄纱；阶位增长靠剪裁、气度和神相。",
+    "weapons_fact": "所核第8回无战斗武器；第9回拔剑威胁自尽的桥段不选主图。",
+    "weapons_design": "主道具为素色长袖与小圆扇（扇为原创）；不说原著使用双刃环或舞刃。扇不能变真实毒器。",
+    "mount_fact": "第8回毡车送相府，第9回车往郿坞；无专属骑兽。",
+    "mount_design": "出行保车，不给神狐坐骑；主场庭院石地。",
+    "reference_version": "QUN-DC-adult-text-v1，须先确认成年身份样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定版本页面，2026-10-18核验",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/80.html",
+    "verified": "国战2013离间让两名男性角色决斗，闭月在回合末补牌。",
+    "use": "转为有限一次错向普攻，不照搬男性限制或全体魅惑，不复制官方造型。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 8,
+      "chronology_key": "008-a",
+      "title": "后园长叹明心",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "王允后园听其叹息，貂蝉说明关心其忧愁，愿承担事。",
+      "selection": "card1",
+      "selection_reason": "人物能动性起点，不假造闭月天象真实发生。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 8,
+      "chronology_key": "008-b",
+      "title": "受连环计见吕布",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "王允说明先许吕布后献董卓之谋；次日宴上引见许嫁。",
+      "selection": "card2+bio1",
+      "selection_reason": "进入行动的第一个转折，有明确前因。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 8,
+      "chronology_key": "008-c",
+      "title": "宴董后入相府",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "歌舞宴见董卓后被送相府；此后以忧容与目光令吕布疑董。",
+      "selection": "card3+bio2",
+      "selection_reason": "由明处应对变危境内应，镜头用车/窗而非性化舞。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 8,
+      "chronology_key": "008-d",
+      "title": "凤仪亭挑开矛盾",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "约吕布亭边说话，董卓归来见二人，怒取画戟追掷吕布。",
+      "selection": "card4+bio3",
+      "selection_reason": "本组最高效力的直接结果，仍同第8回但严格场次递进。",
+      "misreading_to_avoid": "凤仪亭主体在第8回；第9回是李儒劝解及后续诛董，不能错章。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 9,
+      "chronology_key": "009-e",
+      "title": "车去郿坞与诛董前知情",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "车上向吕布掩面，董卓赴京时许立贵妃，她明知就里而假喜。",
+      "selection": "alternate",
+      "selection_reason": "可作后续余波；四阶选更具辨识的凤仪亭，不塑造享受贵妃地位。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "庭月闻乱",
+      "camera": "月下平视侧前全身",
+      "action": "扶一段花架站定，回头望向王允来处",
+      "environment": "真实后园、石路与少量花木，非月宫",
+      "myth_growth": "袖下仅一片蛾翅影",
+      "structure_check": "扶架手五指与木条接触；裙脚落地",
+      "must_retain": "成年脸、完整长衣、忧而清醒",
+      "must_not_inherit": "无月亮因美貌躲云的事实宣称，无幼态",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "席前定意",
+      "camera": "宴席侧面近中景",
+      "action": "把酒杯放在案边后收手，目光越席观察来客",
+      "environment": "王允府木堂与帘幕，吕布远侧不贴身",
+      "myth_growth": "双翅短弧在屏风影中合拢",
+      "structure_check": "杯落桌、手离杯明确；不多肢穿袖",
+      "must_retain": "月白墨灰主色与有分寸姿态",
+      "must_not_inherit": "不坐吕布腿上，不露胸腿舞蹈",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "入府藏心",
+      "camera": "车门内向外略高视近全身",
+      "action": "掀小幅车帘看相府高门，另一手握住袖缘",
+      "environment": "毡车、石道、守卫戟列，压迫而有现实尺度",
+      "myth_growth": "月影缺一角，银蛾半身映车帘",
+      "structure_check": "车帘材质厚不透，手指不穿框；坐姿有支点",
+      "must_retain": "看清局势的冷静，不喜收珠宝",
+      "must_not_inherit": "不画与董卓亲密床景，不把相府变妖窟",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "凤亭裂盟",
+      "camera": "亭内斜侧中全身，主角在曲栏内安全位置",
+      "action": "长袖收在身前，目光看向骤来的董卓，吕布已回身欲退",
+      "environment": "荷池、木亭、石道三条视线清晰",
+      "myth_growth": "银蛾完整展形，两月弧分别沿两人离去方向，不直接操纵身体",
+      "structure_check": "画戟只在董卓/栏边一处，主角双脚远离池沿；不描绘跳水",
+      "must_retain": "成年坚定眼神与表演后的紧张",
+      "must_not_inherit": "不画露骨拥抱、投水动作、董吕双方同时持同一戟",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "画阁受计",
+      "camera": "横幅画阁两人相对，貂蝉主脸近景",
+      "action": "听王允说明后起身应承，手按袖口",
+      "target_connection": "铜卡宴见吕布的行动前因；强调她承担风险，不把谋划全归一方",
+      "first_person_line_original": "我听明白了。既要走进这局里，就不能先露怯。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "跪拜原著可转为起身一瞬，保持尊重与非性化",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "diaochan_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "车帘隔旧门",
+      "camera": "横幅车侧，主角回望王允府门渐远",
+      "action": "车已出发，随行侍者分列，不出现卧室",
+      "target_connection": "银卡进入相府，是前约与第二次献见造成的危险转折",
+      "first_person_line_original": "门已经在身后。余下的每句话，都要说得稳。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "轮轴与车辕完整，帘手真实，不让衣尾缠轮",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "diaochan_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "一柄戟转向",
+      "camera": "横幅亭园较宽，貂蝉近侧、董卓取戟、吕布后退",
+      "action": "停在取戟尚未掷出的一瞬，父子信任破裂可读",
+      "target_connection": "与黄金凤亭裂盟同役，因果直接；不用魔法强迫亲吻",
+      "first_person_line_original": "他们相信的不是我，是各自最不肯放下的东西。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "戟归一人，杆直；三角色间足够距离，不渲染伤口",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "diaochan_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "diaochan_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "选择一名敌人，使其下一次普通攻击改为攻击其附近另一名敌人；只改一次，找不到合法目标则失效。",
+    "active": {
+      "skill_id": "diaochan_a1",
+      "name": "蚀月离心",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "选择一名敌人，使其下一次普通攻击改为攻击其附近另一名敌人；只改一次，找不到合法目标则失效。",
+      "extra_effect": "不附沉默或持续魅惑；不影响主动技能，首领可免疫改向，豁免时只播放抵抗反馈。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "两片银蛾翅把一根攻击指向线折向一次，不出现心形爱恋图标。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "diaochan_p1",
+        "name": "察隙",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "主动选择距离提高",
+        "trigger": "选敌人",
+        "target": "目标",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "两片银蛾翅把一根攻击指向线折向一次，不出现心形爱恋图标。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "diaochan_p2",
+        "name": "持计",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "改向标记等待时间提高",
+        "trigger": "标记生效",
+        "target": "目标",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "两片银蛾翅把一根攻击指向线折向一次，不出现心形爱恋图标。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "diaochan_p3",
+        "name": "藏锋",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "自己未主动伤害敌人时所受伤害降低",
+        "trigger": "条件持续期间",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "两片银蛾翅把一根攻击指向线折向一次，不出现心形爱恋图标。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "diaochan_p4",
+        "name": "续谋",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "成功改向后主动冷却缩短",
+        "trigger": "本次改向完成",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "两片银蛾翅把一根攻击指向线折向一次，不出现心形爱恋图标。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "diaochan_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "diaochan_p1",
+          "diaochan_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "diaochan_p1",
+          "diaochan_p2",
+          "diaochan_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "diaochan_p1",
+          "diaochan_p2",
+          "diaochan_p3",
+          "diaochan_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

@@ -1,0 +1,26 @@
+{
+  "tested_utc": "2026-10-18T12:45:07.452701+00:00",
+  "scope": "Read saved finished PNGs and compare unoccluded art pixels against native sources. Does not validate obscured pixels or add resolution.",
+  "cards": {
+    "iron": {
+      "native_pixels_tested": 1252024,
+      "changed_pixels": 0,
+      "source_hash_matches_manifest": true
+    },
+    "bronze": {
+      "native_pixels_tested": 1232786,
+      "changed_pixels": 0,
+      "source_hash_matches_manifest": true
+    },
+    "silver": {
+      "native_pixels_tested": 1235846,
+      "changed_pixels": 0,
+      "source_hash_matches_manifest": true
+    },
+    "gold": {
+      "native_pixels_tested": 1193406,
+      "changed_pixels": 0,
+      "source_hash_matches_manifest": true
+    }
+  }
+}

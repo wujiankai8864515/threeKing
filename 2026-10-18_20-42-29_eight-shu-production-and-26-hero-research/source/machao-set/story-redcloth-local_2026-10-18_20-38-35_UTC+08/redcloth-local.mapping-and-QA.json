@@ -1,0 +1,18 @@
+{
+  "status": "candidate_pending_independent_review",
+  "asset_id": "machao_bio_to_04",
+  "source": "/workspace/scratch/3f82ff2b3f81/machao-set/story-lihui_2026-10-18_20-21-02_UTC+08/马超-银金传记-雾开有归-候选1-2026-10-18_20-21-02_UTC+08.png",
+  "output": "/workspace/scratch/3f82ff2b3f81/machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "tool": "builtin imagegen",
+  "calls_this_authorization": 1,
+  "sha256": "3cbd2523001c744ce66c1df3e39bda437e77e283f26162ab76b0975ca4edd232",
+  "scope": "Only lower hanging redclothx1150-1290,y690-850 random pale spots",
+  "qa": "Native before/after patch shows marked reduction of isolated pale flecks and continuous matte folds. Same face/hands/seated figures/table/guards observed; peripheral foreground blur left unchanged as independently non-blocking. Further fine texture judgment remains with audit.",
+  "evidence": "QA/before-redcloth-100pct.png, after-redcloth-100pct.png, face and hands comparisons",
+  "next_action": "Independent audit; no automatic retry."
+}

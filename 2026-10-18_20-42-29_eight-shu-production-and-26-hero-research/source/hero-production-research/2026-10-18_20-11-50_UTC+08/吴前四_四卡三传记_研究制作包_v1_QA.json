@@ -1,0 +1,92 @@
+{
+  "checks": [
+    {
+      "hero_id": "sunquan",
+      "four_cards_three_direct_bios": true,
+      "selected_source_verified": true,
+      "chronology_order": [
+        29,
+        38,
+        44,
+        61
+      ],
+      "passive_two_characters": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "images_generated": 0,
+      "identity_sample_approved": false
+    },
+    {
+      "hero_id": "sunce",
+      "four_cards_three_direct_bios": true,
+      "selected_source_verified": true,
+      "chronology_order": [
+        7,
+        15,
+        15,
+        15
+      ],
+      "passive_two_characters": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "images_generated": 0,
+      "identity_sample_approved": false
+    },
+    {
+      "hero_id": "zhouyu",
+      "four_cards_three_direct_bios": true,
+      "selected_source_verified": true,
+      "chronology_order": [
+        15,
+        29,
+        44,
+        49
+      ],
+      "passive_two_characters": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "images_generated": 0,
+      "identity_sample_approved": false
+    },
+    {
+      "hero_id": "lumeng",
+      "four_cards_three_direct_bios": true,
+      "selected_source_verified": true,
+      "chronology_order": [
+        38,
+        67,
+        75,
+        75
+      ],
+      "passive_two_characters": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "images_generated": 0,
+      "identity_sample_approved": false
+    }
+  ],
+  "scope": "文本结构与来源人工核查后的结构校验；不是成图验收",
+  "counts": {
+    "heroes": 4,
+    "cards": 16,
+    "biographies": 12,
+    "primary_images_planned": 28,
+    "images_generated": 0
+  }
+}

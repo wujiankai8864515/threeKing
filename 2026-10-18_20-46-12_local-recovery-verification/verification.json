@@ -1,0 +1,35 @@
+{
+  "verified_at": "2026-10-18T20:46:12.282508+08:00",
+  "asset_delta": "2026-10-18_20-45-32_two-story-QA-closure",
+  "included_new_batches": [
+    {
+      "delta": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research",
+      "new_or_changed_entries": 713
+    },
+    {
+      "delta": "2026-10-18_20-45-32_two-story-QA-closure",
+      "new_or_changed_entries": 5
+    }
+  ],
+  "resolved_paths_verified": 2783,
+  "historical_checksum_records_verified": 2686,
+  "checksum_manifests_verified": 37,
+  "current_source_hashes_verified": 56,
+  "UI_and_overview_hashes_verified": 35,
+  "research_package_hashes_verified": 3,
+  "research_heroes": 26,
+  "research_scenes": 182,
+  "project_text_files_security_scanned": 244,
+  "roster_heroes_verified": 34,
+  "bounded_batches_verified": 8,
+  "current_content_source_states": {
+    "passed_candidate": 55,
+    "failed": 1
+  },
+  "recovery_method": "Every resolved source path was sequentially copied to one temporary file and SHA256 checked using latest restore-all.py --copy-check; no second full-tree restore. Historical checksum manifests independently checked.",
+  "network_operations": false,
+  "remote_verified_commit": "7f9a60a8dce5838c7096375e2f437c10d6d3b3af",
+  "remote_verified_paths": 2075,
+  "remote_current_batches_uploaded": false,
+  "count_scope": "Historical checksum counts precede this verification receipt."
+}

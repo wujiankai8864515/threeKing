@@ -1,0 +1,107 @@
+{
+  "recorded_at": "2026-10-18T20:42:29.494526+08:00",
+  "previous_status": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/status-overrides.json",
+  "production_scope": {
+    "shu": 8,
+    "wei": 10,
+    "wu": 8,
+    "qun": 8,
+    "heroes": 34,
+    "primary_images_planned": 238
+  },
+  "research": {
+    "recorded_at": "2026-10-18T20:42:29.494526+08:00",
+    "latest_source": "hero-production-research/LATEST.json",
+    "manifest": "hero-production-research/2026-10-18_20-33-33_UTC+08/魏吴群26将_总索引_v1.json",
+    "packages": {
+      "wei": {
+        "json": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+        "markdown": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.md",
+        "sha256": "ecb5ca2c62991936dda34c0b1698b096b115c1d17e15af870a1c3bd1dc509c25",
+        "count": 10
+      },
+      "wu": {
+        "json": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+        "markdown": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.md",
+        "sha256": "896a54f1fa0287bb7834d786175f44636db5ea549ca72efa6d5f2786e8042a16",
+        "count": 8
+      },
+      "qun": {
+        "json": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+        "markdown": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.md",
+        "sha256": "dfe8536c9f038a314b5e7a9561bb0b12330ea36fa451d50ec53c7ced119e8539",
+        "count": 8
+      }
+    },
+    "counts": {
+      "heroes": 26,
+      "wei": 10,
+      "wu": 8,
+      "qun": 8,
+      "cards": 104,
+      "biographies": 78,
+      "planned_primary_images": 182,
+      "active_proposals": 26,
+      "passive_proposals": 104,
+      "images_generated": 0
+    },
+    "package_hashes_verified": true,
+    "note": "Wei v2, Wu v3, Qun v2 contain 104 card and 78 biography scene briefs. These are completed research/planning deliverables, not 182 generated or approved images."
+  },
+  "production": {
+    "liubei": "Seven current source candidates and four UI cards plus overview are ready as reviewed candidates; no user final approval or new delivery.",
+    "zhangfei": "Seven current source candidates and four UI cards plus overview are ready as reviewed candidates; no user final approval or new delivery.",
+    "zhaoyun": "Seven content candidates and UI prepared; bronze/gold dragon-head occlusion requires local safe-area correction.",
+    "huangzhong": "Seven content candidates complete; root inspected and passed UI overview at 20:39. Still not user final or delivered.",
+    "zhugeliang": "Seven content candidates prepared; silver/gold dragon-head occlusion requires local safe-area correction.",
+    "machao": "Six sources passed; gold story red-cloth correction awaits review. UI silver rear grip and gold nose/mouth are occluded and require adjustment.",
+    "pangtong": "Six sources passed; silver-story foreground correction is already generated and awaits review; do not duplicate generation.",
+    "guanyu": "Six current sources passed; gold tail speckles remain failed. Saved UI does not cure source failure."
+  },
+  "source_status_counts": {
+    "content_candidate_passed": 53,
+    "decision_or_correction_pending": 2,
+    "failed": 1
+  },
+  "delivery": "No new art-bundle delivery. Library uploads and files named delivery-manifest are preparation records, not proof of sending.",
+  "user_final": "No new current-version final acceptance inferred.",
+  "remote_recovery": {
+    "verified_commit": "7f9a60a8dce5838c7096375e2f437c10d6d3b3af",
+    "verified_paths": 2075,
+    "independent_download_lfs_and_sha256_restore": true,
+    "receipt_source": "project-decisions/2026-10-18_19-59-20_UTC+08_remote-backup-receipt.json",
+    "covered_batch": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production",
+    "current_delta_uploaded": false
+  },
+  "this_capture_network_operations": false,
+  "latest_user_requests": [
+    {
+      "message_id": "Sentinel_48de21e95f088191a0713f0c43574e21",
+      "user_text": "什么进度",
+      "reported_at": "2026-10-18T20:37:52+08:00",
+      "time_precision": "second",
+      "recorded_at": "2026-10-18T20:43:43.451931+08:00"
+    },
+    {
+      "message_id": "Sentinel_da704fd7f27c8191881439929e256519",
+      "user_text": "并发执行",
+      "reported_at": "2026-10-18T20:40+08:00",
+      "time_precision": "minute",
+      "recorded_at": "2026-10-18T20:43:43.451931+08:00"
+    },
+    {
+      "message_id": "Sentinel_d02ec188ec588191b074e31efdc4bd1f",
+      "user_text": "尽量快点",
+      "reported_at": "2026-10-18T20:40+08:00",
+      "time_precision": "minute",
+      "recorded_at": "2026-10-18T20:43:43.451931+08:00"
+    }
+  ],
+  "root_UI_review_reported": {
+    "huangzhong": "Root inspected overview at 20:39 UTC+08 and passed it as a candidate.",
+    "zhaoyun": "Bronze and gold dragon heads are blocked by the right star column; local safe-area corrections needed.",
+    "zhugeliang": "Silver and gold dragon heads are blocked by the right star column; local safe-area corrections needed.",
+    "machao": "Silver rear grip is blocked by frame; gold UI covers nose/mouth. Adjust required.",
+    "pangtong": "Silver-story foreground correction exists and awaits review; do not regenerate a duplicate."
+  }
+}

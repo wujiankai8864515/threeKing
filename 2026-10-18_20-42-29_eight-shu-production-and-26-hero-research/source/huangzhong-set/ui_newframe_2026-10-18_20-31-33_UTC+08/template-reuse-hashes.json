@@ -1,0 +1,36 @@
+{
+  "template_source": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08",
+  "files": [
+    {
+      "filename": "compose_cards.py",
+      "sha256": "3742260e2c261df4e381f6d485e128a24dbb1df0b763fe62b6181edd3d1a5c6e",
+      "matches_template": true
+    },
+    {
+      "filename": "build_text.py",
+      "sha256": "01bc119c15d2324352c820106e7342dc90afa073bcba2f34d3352ef7d7ebdb42",
+      "matches_template": true
+    },
+    {
+      "filename": "iron-empty-generated-1024.png",
+      "sha256": "04d219407e9713dca1d647ec3138a2f23ef72551977f92940f13bef5b81a897d",
+      "matches_template": true
+    },
+    {
+      "filename": "bronze-empty-generated-1024.png",
+      "sha256": "864a53c5422dba1c07b00c6c62915dfd47a635c8086e88fdb251951616933c02",
+      "matches_template": true
+    },
+    {
+      "filename": "silver-empty-cleanalpha-1024.png",
+      "sha256": "c36b4ec2addd4a05393da377e186d4ff7635b055adeba1f4d86d5b2631f2e92d",
+      "matches_template": true
+    },
+    {
+      "filename": "gold-empty-generated-1024.png",
+      "sha256": "e42e3d1b05be01559fc538f32ff4d7a117f749932b82eb48977d58146ffe05b9",
+      "matches_template": true
+    }
+  ],
+  "scope": "No frame geometry/material/star editing. Original compose/build scripts preserved; independent dynamic config only."
+}

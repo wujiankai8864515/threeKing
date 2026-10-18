@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-18T19:59:20+08:00",
+  "repository": "https://github.com/wujiankai8864515/threeKing",
+  "commit": "7f9a60a8dce5838c7096375e2f437c10d6d3b3af",
+  "batch": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production",
+  "new_or_changed_entries": 203,
+  "restorable_paths": 2075,
+  "independent_remote_download": true,
+  "git_lfs_fsck": "OK",
+  "sequential_restore_sha256": "PASS",
+  "later_production": "Not covered until next incremental archive"
+}

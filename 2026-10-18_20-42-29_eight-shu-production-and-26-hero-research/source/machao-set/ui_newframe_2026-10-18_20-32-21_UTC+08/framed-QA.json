@@ -1,0 +1,68 @@
+{
+  "status": "framed_candidates_with_specific_occlusion_issues_pending_root_review",
+  "canvas": [
+    1190,
+    1786
+  ],
+  "source_native_pixels": [
+    1024,
+    1536
+  ],
+  "art_offset": [
+    84,
+    145
+  ],
+  "art_scale": 1.0,
+  "uncovered_pixel_checks": {
+    "iron": {
+      "checked": 1252024,
+      "changed": 0
+    },
+    "bronze": {
+      "checked": 1232786,
+      "changed": 0
+    },
+    "silver": {
+      "checked": 1235846,
+      "changed": 0
+    },
+    "gold": {
+      "checked": 1193406,
+      "changed": 0
+    }
+  },
+  "template_integrity": "All four copied frame PNG bytes equal named Liu Bei template masters; no material or silhouette modifications.",
+  "ui": {
+    "title": "马超",
+    "stars": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "passive_slots": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "names": [
+      "先驱",
+      "摧锋",
+      "震阵"
+    ],
+    "names_status": "proposed",
+    "levels_status": "illustrative only",
+    "no_guanyu_or_liu_overlays": true,
+    "troop_icon": "Unchanged replaceable template polearm icon, not newly approved cavalry icon."
+  },
+  "visual_checks": {
+    "iron": "Main face and both hands clear. Faint wolf nose/mouth and front edge of muzzle are occluded by right star strip. Spear blade also hidden by upper-left faction badge.",
+    "bronze": "Main face, both spear grips and wolf eyes/nose/mouth clear. Horse near-left muzzle partly cut by left lower frame; spear blade already cut at source left edge.",
+    "silver": "Main face and wolf face clear. Forward grip clear; rear grip back/wrist partly overlapped by diagonal lower edge of star strip. Grip itself still largely readable, but not claim fully unobstructed.",
+    "gold": "Main face, both hands and wolf eyes/nose/mouth clear. Spear upper blade obscured by faction badge; whip end extends under right star strip. Horse muzzle strongly obscured by three passive bars.",
+    "frame_edges": "Template raster has minor edge/alpha fringe pixels inherited unchanged; not silently cleaned."
+  },
+  "native_crop_evidence": "QA/*-source-native100.png and *-framed-native100.png; source coordinate boxes in QA/crop-boxes-source-coordinates.json",
+  "next_action": "Root/lead decide if existing overlaps acceptable or authorize a layout/source correction. Do not regenerate or alter frozen frame/offset automatically."
+}

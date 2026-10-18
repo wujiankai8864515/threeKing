@@ -1,0 +1,37 @@
+{
+  "status": "candidate_with_foreground_and_redcloth_residuals_pending_independent_review",
+  "asset_id": "machao_bio_to_04",
+  "target_card": "machao_card_04",
+  "tool": "builtin imagegen",
+  "calls": 1,
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "output": "/workspace/scratch/3f82ff2b3f81/machao-set/story-lihui_2026-10-18_20-21-02_UTC+08/马超-银金传记-雾开有归-候选1-2026-10-18_20-21-02_UTC+08.png",
+  "sha256": "c9522ae554b6d119bcab604504e7d505f8fb58daecee75c29cf9930642194782",
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/gold-chengdu_2026-10-18_20-13-39_UTC+08/马超-黄金-归蜀定锋-候选1-2026-10-18_20-13-39_UTC+08.png"
+  ],
+  "roles": [
+    "Approved Ma Chao blackiron locks face/body/loose hair.",
+    "Gold Chengdu candidate for advanced lion armor/cloth/helmet/wolf lineage only; surface flecks explicitly excluded."
+  ],
+  "event": "Chapter65 Li Hui persuades Ma Chao in tent after hidden axemen are dismissed, direct precursor to joining Liu Bei and Chengdu persuasion.",
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第065回",
+  "adaptation": "Facing seated conversation, open doorway, table, wolf and armor are original narrative staging; no claim precise historical costume.",
+  "observations": {
+    "identity": "Ma Chao retains sharp clean-shaven face, headband and loose dark hair. Li Hui is an original subordinate scholar face, not an imported Liu Bei identity.",
+    "hands": "Both Ma hands and visible Li hands inspected at native resolution; natural resting/grasping/gesturing shapes with no obvious extra fingers or reversed wrists. Ma table hand remains loosely closed instead of requested relaxed open palm.",
+    "seated_structure": "Coherent seated thighs/knees, armor/boots, bench and grounded floor contact; no extra legs.",
+    "weapon": "Stored spear on wall rack has straight visible shaft/socket/leaf ridge, outside bodies. Tip cropped at image top, entire rear butt not visible; not a wielded-action axis claim. Sword remains sheathed.",
+    "story": "Withdrawal of axemen through doorway and quiet Li Hui conversation read; Ma is dominant, cavalry/wolf outside subordinate.",
+    "materials": "Matte ivory and green cloth, continuous skin/wood planes; armor highlights structural. Small pale flecks persist on the lower deep-red hanging cloth despite negative prompt, explicitly unresolved material risk.",
+    "foreground_issue": "Closest lower-left cloth is conspicuously defocused. Near table front edge is also softer than characters. This violates requested front-clear/back-gradual-soft and cannot be called passed.",
+    "far_depth": "Outside guards, horse/cavalry and mountains progressively softer without hiding main relation."
+  },
+  "qa": "12 native100 crops: faces, hands, armor, legs, whole near table, closest cloth, racked spear, guards, wolf/horse.",
+  "next_action": "Root/audit decide if bounded corrections are needed. No self-authorized additional image calls."
+}

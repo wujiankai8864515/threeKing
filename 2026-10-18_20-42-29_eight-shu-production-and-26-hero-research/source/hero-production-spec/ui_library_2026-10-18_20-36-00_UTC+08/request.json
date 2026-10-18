@@ -1,0 +1,54 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

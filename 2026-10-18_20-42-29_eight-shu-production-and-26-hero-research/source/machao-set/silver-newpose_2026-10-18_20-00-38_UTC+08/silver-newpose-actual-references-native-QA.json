@@ -1,0 +1,175 @@
+{
+  "kind": "silver-newpose",
+  "hero_id": "machao",
+  "target_stage": "silver",
+  "method": "one builtin reference-derived candidate; raw output copied unmodified; no API/upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "role": "approved Ma Chao blackiron original identity, palette, horse, material family; no first-card pose/scene"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "role": "approved Zhang Fei silver only for opponent face/body/black-red identity; exclude old Hulao story/pose/tiger"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "15378a85a2523a0e945510c4305183af4a7750a3f221b7965e7acdd525e3bd7c"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/prompt.txt",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-face-native100.png",
+      "box": [
+        640,
+        175,
+        870,
+        400
+      ],
+      "scale": "native100% no resize"
+    },
+    "forward-grip": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-forward-grip-native100.png",
+      "box": [
+        420,
+        470,
+        560,
+        595
+      ],
+      "scale": "native100% no resize"
+    },
+    "rear-grip": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-rear-grip-native100.png",
+      "box": [
+        870,
+        510,
+        1010,
+        640
+      ],
+      "scale": "native100% no resize"
+    },
+    "full-axis": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-full-axis-native100.png",
+      "box": [
+        0,
+        440,
+        1024,
+        645
+      ],
+      "scale": "native100% no resize"
+    },
+    "horse": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-horse-native100.png",
+      "box": [
+        330,
+        590,
+        1000,
+        1230
+      ],
+      "scale": "native100% no resize"
+    },
+    "rider-foot": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-rider-foot-native100.png",
+      "box": [
+        855,
+        760,
+        1024,
+        1245
+      ],
+      "scale": "native100% no resize"
+    },
+    "horse-legs": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-horse-legs-native100.png",
+      "box": [
+        350,
+        1230,
+        1024,
+        1536
+      ],
+      "scale": "native100% no resize"
+    },
+    "opponent-zhang": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-opponent-zhang-native100.png",
+      "box": [
+        0,
+        560,
+        360,
+        1040
+      ],
+      "scale": "native100% no resize"
+    },
+    "ground": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-ground-native100.png",
+      "box": [
+        0,
+        1040,
+        400,
+        1400
+      ],
+      "scale": "native100% no resize"
+    },
+    "wolf": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-wolf-native100.png",
+      "box": [
+        220,
+        0,
+        580,
+        315
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/qa/silver-newpose-cloth-armor-native100.png",
+      "box": [
+        560,
+        355,
+        1024,
+        950
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "status": "creator and independent QA passed candidate; root final selection not recorded here",
+  "guide_note": "cyan approximate endpoint line for diagnosis only; never input to generator",
+  "creator_review": {
+    "reviewed_at_UTC08": "2026-10-18 20:10 UTC+08",
+    "full_image_inspected": true,
+    "all_listed_native_crops_inspected": true,
+    "findings": [
+      "完整图及11个原生100%裁区亲查，源1024×1536，未放大、未涂改。",
+      "原候选前握Y字双杆已消失；新横枪从刀根、两握到右边界可追踪同一连续轴。端点青线为诊断辅助，不代替独立审。",
+      "两握包杆、前后握距可读，主脸、马颈肌肉、骑靴入镫、缰与鞍未见新硬结构错。",
+      "新姿实际为侧前3/4，未完成原始背侧视角；这是简化新姿的明确构图变化。",
+      "天狼呈灰狼头颈，没有预设可见双前爪，阶段差须root判断，不能称所有神兽细项齐全。",
+      "主马下肢及枪尾画外裁切；可见段未见新增肢体，无法声称全马四蹄完整。",
+      "近前景左下石块有卡牌景深；布面、马身、土石未见跨材料散金针点，金属仍有真实甲边/铆/雕花亮点。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "result": "pass candidate gate",
+    "time_reported_by_reviewer": "2026-10-18 20:06 UTC+08",
+    "received_at": "2026-10-18 20:22 UTC+08",
+    "finding": "原生全杆双握无叉轴，通过独立候选门槛；侧前视角和狼前爪缺项维持备注。"
+  }
+}

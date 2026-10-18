@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "候风",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "候风",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "候风",
+        "level": "+2"
+      },
+      {
+        "name": "审势",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "候风",
+        "level": "+2"
+      },
+      {
+        "name": "审势",
+        "level": "+2"
+      },
+      {
+        "name": "定局",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  }
+}

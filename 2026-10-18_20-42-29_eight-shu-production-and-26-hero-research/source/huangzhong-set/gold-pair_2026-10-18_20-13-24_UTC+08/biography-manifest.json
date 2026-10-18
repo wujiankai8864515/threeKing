@@ -1,0 +1,159 @@
+{
+  "hero_id": "huangzhong",
+  "asset_id": "huangzhong_bio_to_04",
+  "rank": "gold",
+  "target_card_id": "huangzhong_card_04",
+  "status": "creator and independent structure/material QA passed candidate; root style selection pending",
+  "generated_with": "builtin image_gen; one call for this asset",
+  "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-eb6b865c-2e08-4860-b63b-275a8227340b.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记-定军乘势刀击-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "2c6cd874eb091c74aa7f9c88f1ca17cf2905464f4d2319dd0ca309e080e28a52"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "role": "approved v3 elderly Huang Zhong identity and clean planar painting only, not first card pose/scene",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/prompt-gold-biography.txt",
+  "source_fact_url": "https://zh.wikisource.org/zh/三國演義/第071回",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-face-native100.png",
+      "box": [
+        610,
+        65,
+        755,
+        250
+      ],
+      "scale": "native100% no resize"
+    },
+    "hands-hilt": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-hands-hilt-native100.png",
+      "box": [
+        685,
+        290,
+        910,
+        495
+      ],
+      "scale": "native100% no resize"
+    },
+    "blade-full": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-blade-full-native100.png",
+      "box": [
+        685,
+        290,
+        1200,
+        630
+      ],
+      "scale": "native100% no resize"
+    },
+    "horse-head": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-horse-head-native100.png",
+      "box": [
+        230,
+        240,
+        610,
+        660
+      ],
+      "scale": "native100% no resize"
+    },
+    "rider-feet": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-rider-feet-native100.png",
+      "box": [
+        175,
+        500,
+        815,
+        830
+      ],
+      "scale": "native100% no resize"
+    },
+    "horse-legs": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-horse-legs-native100.png",
+      "box": [
+        325,
+        660,
+        735,
+        1024
+      ],
+      "scale": "native100% no resize"
+    },
+    "xiahou": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-xiahou-native100.png",
+      "box": [
+        930,
+        420,
+        1495,
+        1024
+      ],
+      "scale": "native100% no resize"
+    },
+    "fazheng-redflag": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-fazheng-redflag-native100.png",
+      "box": [
+        155,
+        0,
+        470,
+        200
+      ],
+      "scale": "native100% no resize"
+    },
+    "foreground": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-foreground-native100.png",
+      "box": [
+        0,
+        635,
+        665,
+        1024
+      ],
+      "scale": "native100% no resize"
+    },
+    "materials": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/biography-materials-native100.png",
+      "box": [
+        450,
+        170,
+        910,
+        530
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "creative_postprocessing": "none; generated image copied byte-for-byte",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:21 UTC+08",
+    "full_image": true,
+    "thumbnail": true,
+    "all_listed_native_crops": true,
+    "approved_reference_face_compared": true,
+    "findings": [
+      "完整图、缩略图及10个原生100%区已亲查，脸与已准v3对照；白发白须厚背老将延续。",
+      "故事为法正红旗下击，黄忠骑马双握宽刀击败夏侯渊；不是箭杀，敌头完整无血腥。法正次位高地红旗可读。",
+      "两个手掌包同一中长直刀柄，柄与护手刃根延续，无Y杆或跳轴；刀外置不穿马颈。主马可见前腿与靴镫关系未见硬错，后腿遮挡不能当全四蹄可见。",
+      "主脸、双手刀、两主将与马头清楚，坡面/扬土有方向；左下近岩是较大明显虚焦区，不能按已清晰通过，交root裁定或定点处理。",
+      "马胸/侧颈仍有低对比细角状纹，非亮金粉但宽面材质是否足够交独立审；主红布哑光，甲反射有面边雕刻依据。",
+      "弓/箭袋未清楚形成可核验的背鞍收纳轮廓，不把该细项写成已完成。",
+      "敌将败势与刀锋空间明确，但不是展示真实伤口接触瞬间；采用无血腥决定性败势表达。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "received_at": "2026-10-18 20:28 UTC+08",
+    "result": "structure and material candidate gate passed",
+    "finding": "卡双梢单弦接点清楚；传记双握同一刀柄无分叉。日轮箭头图标设计和左下非关键大岩虚焦保留记录。"
+  }
+}

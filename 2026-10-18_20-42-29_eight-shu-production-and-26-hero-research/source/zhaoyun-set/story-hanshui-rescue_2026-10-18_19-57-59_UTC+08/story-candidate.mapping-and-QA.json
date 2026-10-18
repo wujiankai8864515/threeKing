@@ -1,0 +1,37 @@
+{
+  "status": "candidate_with_foreground_depth_issue_pending_independent_review",
+  "asset_id": "zhaoyun_bio_to_04",
+  "target_card": "zhaoyun_card_04",
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "output": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+  "sha256": "4c488ba7355b957659adfe7f383132a4f5761cfca30df4c886c35e0b3fcd0681",
+  "tool": "builtin imagegen",
+  "calls": 1,
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-hanshui_2026-10-18_19-50-46_UTC+08/赵云-黄金-汉水龙胆-候选1-2026-10-18_19-50-46_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_fix_2026-10-18_19-43-00_UTC+08/黄忠-黑铁-v2-弦端与材质局修候选.png"
+  ],
+  "roles": [
+    "Approved blackiron Zhao face/body and clean planar language.",
+    "Gold card armor/horse/dragon lineage only; source blade angle explicitly excluded.",
+    "Huang Zhong v2 face/white beard/deepred and dark armor only; bow/string pose excluded."
+  ],
+  "observations": {
+    "identity": "Zhao face/eyes/hair and Huang white beard/face lineage are readable at native scale. Zhang Zhu is subordinate original officer, not an identity lock.",
+    "hands": "Actual output chose two hands on the spear rather than requested one plus reins. Both grips wrap shaft naturally with adequate spacing; reins drape to saddle/horse rather than being hand-held. No extra limbs observed.",
+    "spear": "Whole tip, blade socket, both grips and rear butt are visible. Native full-axis crop appears continuous and straight; no gold-card blade kink inherited.",
+    "rider_horse": "Saddle/thigh/boot/stirrup geometry coherent. Main horse has distinct weight-bearing/raised forelegs and separated rear legs; accompanying mounts separate.",
+    "story": "Three allied riders withdraw together toward the camp crossing; Cao pursuit in far distance. Rescued Huang Zhong and Zhang Zhu are recognizable subordinate pair; heroic rescue moment differs from static gold card. Causeway presentation is original staging, not a claim of exact recorded crossing construction.",
+    "materials": "Cloth matte large folds, horse/tail continuous hair and muscle planes, silver armor structural relief, natural wood/soil. No obvious random cross-material gold dust.",
+    "depth_issue": "Most bridge and near-mid ditch bank clearly rendered. BUT extreme lower-left closest rock and the lowest front board strip are defocused while middle bridge remains sharp. This conflicts with requested front-clear/back-gradual-soft; must remain a reported issue, not claim compliant.",
+    "dragon": "Head/neck coherent and strong; upper antlers still touch/crop at top. Main eyes/nose clear."
+  },
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第071回",
+  "qa": "QA contains native unscaled face, two grips, entire spear, horse, Huang, foreground, armor, tail, dragon crops.",
+  "next_action": "Independent audit/root decide bounded foreground correction; no self-initiated additional generation."
+}

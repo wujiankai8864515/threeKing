@@ -1,0 +1,358 @@
+{
+  "hero_id": "huanggai",
+  "name": "黄盖",
+  "faction": "wu",
+  "core_personality": "三代老将，耐得痛苦也敢献计；忠勇要有谋划和同伴接应，不画只会莽死。",
+  "myth_symbol_proposal": {
+    "name": "烽舰赭鲸",
+    "origin": "原创神话提案，与原著火船相联而非古籍配兽",
+    "reason": "巨鲸背像船脊、厚皮带旧伤，火只在背鳍形船帆上；避开周瑜朱雀、陆逊燧木地火。",
+    "growth": "舟底鲸脊影→半鲸首→卧伏老鲸→赭鲸随火船撞破水线"
+  },
+  "differentiation": "承担自身防护代价的一次爆发者，老而结实、铁鞭与短刀、水手式稳腿；非治疗反哺、永久不死或普通火法。",
+  "identity": {
+    "face": "原创深眼窝、宽鼻、日晒面、下颌坚硬；1星黑灰短须到金星白灰长短适中须，年龄渐进但骨相连续。",
+    "hair": "原创紧束低髻，灰白比例增长，不齐刷刷白发天神冠。",
+    "body": "原创粗壮上身、宽手掌、略弯但有劲的背，老将非病弱枯槁。",
+    "clothes": "海盐灰、褐黄厚布与旧铁甲；银星伤后素布包覆，金星掩心甲如原著；红仅腰结。",
+    "weapons_fact": "第5回铁鞭，第49回独披掩心甲、手提利刃并以刀发号；不可把铁鞭硬塞赤壁主镜头。",
+    "weapons_design": "早期有棱实心铁鞭，非软皮鞭；后期实用单刃短刀，不加专名。",
+    "mount_fact": "早期随孙坚军将，金星第49回船上，未核专属马名。",
+    "mount_design": "早期普通褐马，最高阶火船/转乘小舟；不骑鲸本体。",
+    "reference_version": "WU-HG-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/66.html",
+    "verified": "国战2013苦肉以损失体力换取摸牌。",
+    "use": "仅参考承担代价换爆发；本项目优先消耗护盾，最低生存门槛与代价规则待测，不无限卖血循环。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 5,
+      "chronology_key": "005-a",
+      "title": "汜水关铁鞭从征",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "孙坚四将之一，明确使铁鞭；孙坚败后与程普韩当收聚。",
+      "selection": "card1",
+      "selection_reason": "三代老将的从军起点，不捏造此回斩华雄。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 7,
+      "chronology_key": "007-b",
+      "title": "擒黄祖议换遗体",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "孙坚遇害后乱军中两合擒黄祖，建议遣使以俘虏换回孙坚遗体。",
+      "selection": "card2+bio1",
+      "selection_reason": "勇武与护持继承者兼有，情感直接。",
+      "misreading_to_avoid": "孙坚已死；程普护孙策并杀吕公，不能归黄盖。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 46,
+      "chronology_key": "046-c",
+      "title": "献苦肉计后托书",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第046回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "夜向周瑜献火攻并愿诈降，受责后将心腹事告阚泽托降书。",
+      "selection": "card3+bio2",
+      "selection_reason": "从能战到主动承担计谋的艰难转折。",
+      "misreading_to_avoid": "不用血肉特写；不说黄盖因真叛吴而受刑。"
+    },
+    {
+      "event_id": "d",
+      "chapter": 49,
+      "chronology_key": "049-d",
+      "title": "火船进击赤壁",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第049回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "第三火船上持刀发令，火船撞入水寨后转小舟追曹，被张辽射伤落水。",
+      "selection": "card4+bio3",
+      "selection_reason": "最高卡取发令火船一瞬，后续受伤不可删成无代价无敌。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "e",
+      "chapter": 50,
+      "chronology_key": "050-e",
+      "title": "韩当救起",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第050回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "落水后呼韩当，韩当救起送医，黄盖并未死于火船。",
+      "selection": "alternate",
+      "selection_reason": "可接后续恢复传记，不将黄金描述为自爆阵亡。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "铁鞭老营",
+      "camera": "营外眼平三分之二侧面",
+      "action": "双脚站稳，铁鞭立在身侧，回望集合军士",
+      "environment": "梁东粗木营地，战后灰尘",
+      "myth_growth": "地影一线鲸脊",
+      "structure_check": "实心铁鞭笔直、棱节连续，手握下段",
+      "must_retain": "黑灰短须、老练肌肉与粗布",
+      "must_not_inherit": "不画苍老到不能战；不盗祖茂双刀赤帻",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "乱军擒敌",
+      "camera": "马侧低角度中全身",
+      "action": "收住铁鞭，伸手令亲兵看住已被擒黄祖",
+      "environment": "汉水营侧天将明，败军重整",
+      "myth_growth": "半鲸首稳在浅水后方",
+      "structure_check": "擒敌结果而非单手举壮汉；兵器与缰分清",
+      "must_retain": "责任压在脸上、非得意虐俘",
+      "must_not_inherit": "黄祖活着，不能展示首级；孙坚不在旁微笑",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "伤中定计",
+      "camera": "帐内斜侧眼平半身",
+      "action": "包覆肩背，坐榻边把封好的降书递给阚泽",
+      "environment": "一灯、旧甲与朴素布帐，伤处不露",
+      "myth_growth": "老鲸全影卧在帐外地面似重负",
+      "structure_check": "伤者侧坐与手臂活动有限；只一封书",
+      "must_retain": "灰须、沉着忍痛而非爽快炫伤",
+      "must_not_inherit": "不画受刑血肉、不神化痛觉为现实修炼",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第046回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "火船决潮",
+      "camera": "甲板前缘低视，主角稳定全身",
+      "action": "短刀一招指向前船，双腿分立抵住摇荡",
+      "environment": "二十火船前后有层次，曹水寨远处，未把主船站位画成燃烧祭坛",
+      "myth_growth": "赭鲸巨影沿水下向前，背鳍火形与实船对照",
+      "structure_check": "船栏、板缝、浪向与风向一致；刀直且握实",
+      "must_retain": "掩心甲、白灰须、沉厚身体",
+      "must_not_inherit": "不画黄金自爆身亡；没有满身金火肌肉",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第049回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "以俘换归途",
+      "camera": "横幅汉水岸营，黄盖主脸，孙策哀立",
+      "action": "指向被看守的黄祖，再向愿出使的桓楷示意",
+      "target_connection": "铜卡擒敌不仅是战果，更直接解决迎回孙坚遗体的问题",
+      "first_person_line_original": "人既擒住，便还有转圜。先让主公回家。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "孙策与黄盖年龄区别；悲恸不重复血首",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "huanggai_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "夜帐献计",
+      "camera": "横幅周瑜帐内，黄盖先向前倾身陈策",
+      "action": "两人低声议诈降，周瑜郑重回礼",
+      "target_connection": "银卡伤后托书来自主动献策；镜头不把受刑当享乐",
+      "first_person_line_original": "这一步要有人走。我受过三代的托付，便由我去。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "桌灯置中不遮两脸；不写制作火攻物料教程",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "huanggai_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第046回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "降书之后的船阵",
+      "camera": "横幅出发前江岸，主角走向第三船",
+      "action": "黄盖检视船队后登舷，阚泽留岸，舵手就位",
+      "target_connection": "金卡发火令的前因是诈降已传、船队出发，接应路线明确",
+      "first_person_line_original": "书已经送到。如今该让他看见，我们真正带来的是什么。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "踏船过渡脚底支点真实，刀收鞘不同时挥火；禁危险燃料特写",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huanggai_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "huanggai_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第049回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "消耗自身一部分现有护盾，向前释放一次短程扇形火浪；消耗越多本次伤害越高，消耗有上限，没盾仍可基础施放。",
+    "active": {
+      "skill_id": "huanggai_a1",
+      "name": "烈舟破寨",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "消耗自身一部分现有护盾，向前释放一次短程扇形火浪；消耗越多本次伤害越高，消耗有上限，没盾仍可基础施放。",
+      "extra_effect": "不再附加眩晕或吸血；三四星只优化代价效率和同一扇形范围。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "鲸脊火帆向前倾落成一次扇形浪；护盾整片退去，不画角色自伤动作。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "huanggai_p1",
+        "name": "厚甲",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "自身最大护盾容量提高",
+        "trigger": "获得护盾",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鲸脊火帆向前倾落成一次扇形浪；护盾整片退去，不画角色自伤动作。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huanggai_p2",
+        "name": "决烈",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "消耗护盾带来的伤害转化效率提高",
+        "trigger": "主动消耗护盾",
+        "target": "该次火浪",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鲸脊火帆向前倾落成一次扇形浪；护盾整片退去，不画角色自伤动作。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huanggai_p3",
+        "name": "余护",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动允许消耗的护盾上限降低以保留最低护盾",
+        "trigger": "主动结算代价",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鲸脊火帆向前倾落成一次扇形浪；护盾整片退去，不画角色自伤动作。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huanggai_p4",
+        "name": "破寨",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "对带护盾敌人的主动伤害提高",
+        "trigger": "主动命中",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鲸脊火帆向前倾落成一次扇形浪；护盾整片退去，不画角色自伤动作。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "huanggai_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "huanggai_p1",
+          "huanggai_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "huanggai_p1",
+          "huanggai_p2",
+          "huanggai_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "huanggai_p1",
+          "huanggai_p2",
+          "huanggai_p3",
+          "huanggai_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

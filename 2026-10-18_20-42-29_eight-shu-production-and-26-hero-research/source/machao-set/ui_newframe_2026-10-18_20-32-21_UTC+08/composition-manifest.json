@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement of reused1024x1536 master to1190x1786; no new native detail",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "source_status": "parent_selected_latest_candidate_not_user_final",
+      "source_sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "马超",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "先驱",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+      "source_status": "parent_selected_latest_candidate_not_user_final",
+      "source_sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "马超",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "先驱",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png",
+      "source_status": "parent_selected_latest_candidate_not_user_final",
+      "source_sha256": "15378a85a2523a0e945510c4305183af4a7750a3f221b7965e7acdd525e3bd7c",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "马超",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "先驱",
+            "level": "+2"
+          },
+          {
+            "name": "摧锋",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+      "source_status": "parent_selected_latest_candidate_not_user_final",
+      "source_sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "马超",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "先驱",
+            "level": "+2"
+          },
+          {
+            "name": "摧锋",
+            "level": "+2"
+          },
+          {
+            "name": "震阵",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "source_status": "root_and_independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+      "source_status": "root_and_independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+      "source_status": "root_and_independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+2"
+          },
+          {
+            "name": "返锋",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-upright-spear_2026-10-18_20-09-38_UTC+08/赵云-黄金-汉水龙胆-竖枪偃旗候选-2026-10-18_20-09-38_UTC+08.png",
+      "source_status": "root_and_independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "d49ef4aeae2ccd0492de6391357f4cd0ed9299494ceb0b10325d900f3f1b8d9b",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+2"
+          },
+          {
+            "name": "返锋",
+            "level": "+2"
+          },
+          {
+            "name": "龙胆",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

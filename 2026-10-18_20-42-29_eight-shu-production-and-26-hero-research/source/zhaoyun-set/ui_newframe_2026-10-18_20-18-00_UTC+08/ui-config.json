@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "赵云",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "回护",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "赵云",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "回护",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "赵云",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "回护",
+        "level": "+2"
+      },
+      {
+        "name": "返锋",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "赵云",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "回护",
+        "level": "+2"
+      },
+      {
+        "name": "返锋",
+        "level": "+2"
+      },
+      {
+        "name": "龙胆",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+  }
+}

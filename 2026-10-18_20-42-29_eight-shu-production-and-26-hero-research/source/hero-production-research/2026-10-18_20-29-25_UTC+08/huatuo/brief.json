@@ -1,0 +1,346 @@
+{
+  "hero_id": "huatuo",
+  "name": "华佗",
+  "faction": "qun",
+  "core_personality": "以救治为业，面对权势仍坚持所见，也在困境中希望医术不绝。",
+  "myth_symbol_proposal": {
+    "name": "百草生息环",
+    "origin": "原创神话视觉，借百草与青囊之意，不宣称神农转世或医学神迹真实",
+    "reason": "枝叶脉络形成有边界的生命环，书与布囊比武器更突出；不复制荀彧鹿形供能。",
+    "growth": "青囊一叶纹→双枝环→枝叶环臂→完整百草环绕书而非复活死者"
+  },
+  "differentiation": "专职单体治疗与解除一类持续伤害状态；不抢刘备群体鼓舞、不供全队能量、不制造死者复生。",
+  "identity": {
+    "face": "第15回童颜鹤发；设计为白发年长但气色温润的成年医者，额纹、眼角纹清楚，不画儿童脸白发。",
+    "hair": "白发低束、细长白须，方巾按75回；四阶同发际与须型。",
+    "body": "原创中等偏瘦、背直、手稳，非肌肉战神。",
+    "clothes": "75回方巾阔服、臂挽青囊有据；米白麻袍、褐绿外衣、深青布囊。等级升高靠洗练层次而非金甲。",
+    "weapons_fact": "75回治疗用小刀，78回诊治建议为小说情节；无实战武器或法杖证据。",
+    "weapons_design": "青囊、药箱、书卷为主要道具；小医刀只在合适场景未接触伤处时出现，不作教程。",
+    "mount_fact": "75回从江东乘小舟来；无专属坐骑。",
+    "mount_design": "步行/船边为主，普通包袱药箱，不乘仙鹤。",
+    "reference_version": "QUN-HT-text-v1，待样。",
+    "medical_boundary": "全部医疗为古典小说叙事及游戏幻想，不可作为现实诊断或疗法；不附药方、剂量或操作步骤。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定版本页面，2026-10-18核验",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/78.html",
+    "verified": "国战2013急救以红牌转桃，青囊弃牌回复受伤角色体力。",
+    "use": "治疗身份参照；本项目单体治疗+有限净化，非原版牌制或现代医学。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 15,
+      "chronology_key": "015-a",
+      "title": "入吴治周泰",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "虞翻引荐，孙策迎为上宾，请治周泰多处伤，原文说一月而愈。",
+      "selection": "card1",
+      "selection_reason": "已是医者的出场，不虚构少年学医师承。",
+      "misreading_to_avoid": "不是孙策亲自治好；董袭半月伤愈是另一个旧案。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 75,
+      "chronology_key": "075-b",
+      "title": "赴关营义诊疗臂",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "闻关羽箭伤驾舟自来，治臂后拒金留药。",
+      "selection": "card2+bio1",
+      "selection_reason": "主动跨阵营救人并不取酬，青铜成熟医者。",
+      "misreading_to_avoid": "演义将此归华佗；不可自动当正史已确证的治疗记录。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 78,
+      "chronology_key": "078-c",
+      "title": "入曹府直陈病情",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "受召诊脉，提出小说中的治疗办法，曹操疑其害己而下狱，贾诩进谏未用。",
+      "selection": "card3+bio2",
+      "selection_reason": "从被礼敬到权势误解，银卡表现不改所见，不画成功治曹。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 78,
+      "chronology_key": "078-d",
+      "title": "狱中托青囊书",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "受吴押狱照顾，取书检看并赠以继术；后死狱中，书被押狱妻焚至只余少页。",
+      "selection": "card4+bio3",
+      "selection_reason": "力量成熟表现为传承意愿，黄金不是胜利结局。",
+      "misreading_to_avoid": "不写青囊书完整传世、不画越狱成仙或复活。"
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "初见江东",
+      "camera": "医帐入口眼平侧全身",
+      "action": "提青囊与药箱走到伤者榻侧，先看病人神情",
+      "environment": "孙策营中朴素医帐，周泰臂肩包覆",
+      "myth_growth": "囊角一叶生息纹",
+      "structure_check": "提箱手指与提梁受重力，衣袖不卷入药箱",
+      "must_retain": "鹤发年长同脸、清洁朴素",
+      "must_not_inherit": "无血肉开放伤，不用现代手术台",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "棋旁稳手",
+      "camera": "棋案侧前中景，华佗主脸最大",
+      "action": "治疗已完成的包覆阶段，双手整理布带，关羽与马良棋局在侧后",
+      "environment": "军帐、真实木桌和小刀收在托盘",
+      "myth_growth": "两枝生息环轻绕前臂外侧",
+      "structure_check": "布带不穿手；右臂伤位一致；华佗不是切自己",
+      "must_retain": "手稳神定，青囊和方巾",
+      "must_not_inherit": "不近景暴露骨肉，不画出实际手术步骤",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "权门守医言",
+      "camera": "正面偏侧近全身，机位稍低",
+      "action": "诊脉后收回手，平静站起面对曹操疑怒",
+      "environment": "曹府内室，药箱闭合，侍卫门外",
+      "myth_growth": "枝叶环在肩侧收束，柔和不让患者发绿",
+      "structure_check": "脉枕/手的先后明确，只取收手一瞬",
+      "must_retain": "不卑不亢、白麻粗布",
+      "must_not_inherit": "不持斧劈头；不画曹操痊愈欢庆",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "青囊留世愿",
+      "camera": "狱门内眼平半身，主角脸受窗光",
+      "action": "检看书后双手交给吴押狱，身体疲倦但目光清楚",
+      "environment": "土墙木栅、饭碗与窄窗；不血刑牢狱",
+      "myth_growth": "完整百草环围书一周，叶是整片柔形非绿色光粉",
+      "structure_check": "两人交书有前后接握；栅栏不穿手臂",
+      "must_retain": "仁心与有限生命、手仍稳定",
+      "must_not_inherit": "不画已焚书完好传遍天下；不插金光升天",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "闻伤渡江",
+      "camera": "横幅小舟泊岸，主角提囊上岸，关平来迎",
+      "action": "没有召赏仪仗，自来医治的姿态质朴",
+      "target_connection": "铜卡棋旁疗臂的到来前因，人物不被关羽完全压住",
+      "first_person_line_original": "听说伤还未好，我就来了。先让我看看他的手臂。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "踏板与舟沿不悬空，青囊不变军令袋",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "huatuo_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "医言难入权门",
+      "camera": "横幅室内诊后对话，华佗近景，曹操偏远",
+      "action": "曹操挥手召卫，贾诩在侧想劝，华佗不伸刀抵抗",
+      "target_connection": "银卡坚持医言直接通向下狱，保留悲剧边界",
+      "first_person_line_original": "我说的是我所见的病。信与不信，不会使它换一个样子。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "三人手势不同，药具保持收纳；无详细疗法文本",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "huatuo_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "把书交给能用的人",
+      "camera": "横幅狱内，吴押狱带取来的书，华佗查看后递还",
+      "action": "饭食在旁标明照顾之恩，书尚完整，镜头止于托付",
+      "target_connection": "金卡传承意愿来自相托报恩；后书毁须在文字边界披露",
+      "first_person_line_original": "我的路走到这里，医人的事还没有走完。把这本书带出去。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "书页完整有限不漂浮满空；不能把后来的焚书与当前同格拼贴",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "huatuo_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "huatuo_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "为一名受伤友军恢复生命；三星起同时移除该友军一项可驱散的持续伤害状态。",
+    "active": {
+      "skill_id": "huatuo_a1",
+      "name": "青囊济急",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "为一名受伤友军恢复生命；三星起同时移除该友军一项可驱散的持续伤害状态。",
+      "extra_effect": "只净化一项持续伤害，不解除全部控制，不复活、不群体供能。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "整片草叶形成一圈淡暖青环后收回青囊，皮肤保持自然色，不医疗血腥。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "huatuo_p1",
+        "name": "仁术",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "单次治疗量提高",
+        "trigger": "主动治疗",
+        "target": "该友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "整片草叶形成一圈淡暖青环后收回青囊，皮肤保持自然色，不医疗血腥。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huatuo_p2",
+        "name": "缓脉",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "主动治疗的能量消耗降低",
+        "trigger": "施放治疗",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "整片草叶形成一圈淡暖青环后收回青囊，皮肤保持自然色，不医疗血腥。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huatuo_p3",
+        "name": "清秽",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "对带持续伤害状态者的治疗量提高",
+        "trigger": "治疗该类友军",
+        "target": "该友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "整片草叶形成一圈淡暖青环后收回青囊，皮肤保持自然色，不医疗血腥。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "huatuo_p4",
+        "name": "济急",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "对低生命友军的治疗量提高",
+        "trigger": "治疗低生命目标",
+        "target": "该友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "整片草叶形成一圈淡暖青环后收回青囊，皮肤保持自然色，不医疗血腥。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "huatuo_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "huatuo_p1",
+          "huatuo_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "huatuo_p1",
+          "huatuo_p2",
+          "huatuo_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "huatuo_p1",
+          "huatuo_p2",
+          "huatuo_p3",
+          "huatuo_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

@@ -1,0 +1,74 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记-三顾定志-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/silver_flagfix_2026-10-18_20-23-00_UTC+08/诸葛亮-白银-左旗同风向-局修1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记-风起江上-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-传记-虚实之间-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-黄金-空城定局-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2-箭向局修候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记-定军乘势刀击-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    }
+  ]
+}

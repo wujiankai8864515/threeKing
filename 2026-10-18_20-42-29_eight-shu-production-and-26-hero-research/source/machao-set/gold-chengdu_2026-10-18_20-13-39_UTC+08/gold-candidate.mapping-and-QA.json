@@ -1,0 +1,36 @@
+{
+  "status": "candidate_pending_independent_review",
+  "asset_id": "machao_card_04",
+  "event": "Chapter65 after joining Liu Bei: mounted persuasion beneath Chengdu wall",
+  "tool": "builtin imagegen",
+  "calls": 1,
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "output": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-chengdu_2026-10-18_20-13-39_UTC+08/马超-黄金-归蜀定锋-候选1-2026-10-18_20-13-39_UTC+08.png",
+  "sha256": "42bdbd9751557770e93fb83ec85cf2da40b52f397487d5219763a5dc6e346bbc",
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png"
+  ],
+  "roles": [
+    "Approved Ma Chao blackiron face/body/loose-hair/chestnut-horse identity only.",
+    "Silver new-pose image for lion armor/wolf lineage only, not opponent/night pose."
+  ],
+  "observations": {
+    "identity": "Same sharp clean-shaven brow/eye/jaw and red headband; loose hair distinct from horse mane.",
+    "hands": "One upright spear grip and one short whip grip both natural. Reins drape across horse/neck rather than visibly in palm; quiet horse makes this plausible but request for gathered reins not fully implemented.",
+    "weapon": "Visible full spear blade, socket, shaft through grip are collinear in native tall crop. Lower shaft terminates/occludes beside hanging lion helmet; full rear butt cannot be verified. Short whip separate and naturally pointed at the wall.",
+    "horse_rider": "Saddle, thigh, knee, boot/stirrup contact coherent; head/bit/tack plausible. Lower horse legs cropped so cannot certify all four hoof contacts.",
+    "materials": "Metal carving/rivets/highlights structural. Bone-white cloth is matte. HOWEVER small pale flecks remain on red mantle in places and fine coat strokes are dense on horse chest; independent material judgment required, do not call fully particle-free.",
+    "story": "Ma Chao addresses ruler and attendants above while allied cavalry wait below, no solo assault or disaster celebration. Gesture differs from silver duel.",
+    "wolf": "Strong gray wolf long muzzle/pointed ears/thick neck and cloud-hidden forequarters; broader complete presence than earlier head apparition. Top ear margin about5px, key face inside.",
+    "frame": "Whip end near right edge and wolf ear near top require actual frame review; Ma Chao face stays central."
+  },
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第065回",
+  "adaptation": "Loose hair, dark-chestnut horse, celestial wolf and altered armor palette are project original; not claims of historical Ma Chao equipment.",
+  "qa": "Native unscaled crops in QA; no pixels added.",
+  "next_action": "Independent audit/root frame+material review. No additional call without authorization."
+}

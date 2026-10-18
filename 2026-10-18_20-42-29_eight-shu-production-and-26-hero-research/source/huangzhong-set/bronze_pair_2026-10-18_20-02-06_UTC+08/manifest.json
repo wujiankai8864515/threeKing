@@ -1,0 +1,100 @@
+{
+  "hero": "黄忠",
+  "assets": [
+    {
+      "asset_id": "huangzhong_card_02_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+        "size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+          "role": "Approved Huang v3 identity and clean material planes only"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+          "size": [
+            1536,
+            1024
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+          "role": "CENTER Guan identity only; no Liu/Zhang, scene or speckled surface style"
+        }
+      ],
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-610996ce-7197-4f6d-aae7-cadae52a9577.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-bronze-card.txt",
+      "status": "independent_QA_passed_pending_root_freeze",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded_by_worker",
+      "scene_truth": "Drawn bow at target-selection/mercy decision moment; arrow extension does NOT align with far Guan plume; not literal hit or confirmed aim. Parent/root authorized retaining this framing."
+    },
+    {
+      "asset_id": "huangzhong_bio_to_02_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜传记-v1-受义还义候选.png",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "f7e2b91e1bd096f838d2125b4ffcc0cfc5acab6cf55b422f8bc8b8a26a8408a6"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+          "role": "Approved Huang v3 identity and clean material planes only"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+          "size": [
+            1536,
+            1024
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+          "role": "CENTER Guan identity only; no Liu/Zhang, scene or speckled surface style"
+        }
+      ],
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9058b726-b9a6-43d5-9d8a-f3cea5b79ee2.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-bronze-biography.txt",
+      "status": "failed_arrow_direction_replaced_by_v2",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded_by_worker"
+    }
+  ],
+  "updated": "2026-10-18T20:22:39.308169+08:00",
+  "qa_evidence": "qa-100pct",
+  "latest_biography": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2-箭向局修候选.png",
+  "independent_QA": "Auditor message 2026-10-18 12:29:24 UTC confirms bronze card v1 (target-selection moment) and arrow-corrected biography v2 passed; originally reported to root/lead at 20:17 UTC+08"
+}

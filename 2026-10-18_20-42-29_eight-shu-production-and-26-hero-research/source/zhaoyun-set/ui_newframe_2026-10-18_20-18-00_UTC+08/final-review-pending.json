@@ -1,0 +1,9 @@
+{
+  "status": "content_independent_QA_pass_UI_final_review_pending",
+  "user_final": false,
+  "risks": [
+    "dragon head/antler near right star strip partially covered, root final compositional decision pending",
+    "weapon tip may crop, allowed when long shaft and grip readable"
+  ],
+  "main_face_and_hands": "visible in whole overview review; see native outputs"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "01-黑铁-新框完整UI候选1190.png",
+    "sha256": "d5abd383f157d0befc46ec9212cbf889e89ea7342ea6645b1b4d6395b28ad9fd",
+    "size": [
+      1190,
+      1786
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "02-青铜-新框完整UI候选1190.png",
+    "sha256": "a7d10c9956676db792143bf57ae0218c67c21d87fb4b268ca4bc2b50d3d687e0",
+    "size": [
+      1190,
+      1786
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "03-白银-新框完整UI候选1190.png",
+    "sha256": "f60e444fc93bc73e42902baa869b150cd8e51be50500cef65e584e0df2e9c635",
+    "size": [
+      1190,
+      1786
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "04-黄金-新框完整UI候选1190.png",
+    "sha256": "2f425ce4d448ddf92f9bf29f34ec694ad8f9ab62e4e5702eaf9cb54a119bc8be",
+    "size": [
+      1190,
+      1786
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "file": "四阶新框完整UI-候选总览.png",
+    "sha256": "4906dcdb073c563b4cb86e6218ca202691bbcf6c549fe8d552a8aae7e003eed3",
+    "size": [
+      1920,
+      775
+    ],
+    "mode": "RGB"
+  }
+]

@@ -1,0 +1,86 @@
+{
+  "archived_at": "2026-10-18T20:45:32.833485+08:00",
+  "entries": [
+    {
+      "original_path": "hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md",
+      "original_name": "INDEPENDENT_QA.md",
+      "repository_path": "2026-10-18_20-45-32_two-story-QA-closure/source/hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md",
+      "sha256": "0d71f48b5f6dbff498384d9df2d5d552367c872423f8484593ee92ed539ae375",
+      "original_sha256": "0d71f48b5f6dbff498384d9df2d5d552367c872423f8484593ee92ed539ae375",
+      "bytes": 27127,
+      "archived_at": "2026-10-18T20:45:32.833485+08:00",
+      "source_bytes_preserved": true,
+      "status": "archived_candidate_or_project_support_not_user_approved",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/source/hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md",
+          "sha256": "e286d0e54a38c26741aea1c72aebe55870bbe177ef84fa4a1829e83217b8ac55"
+        }
+      ]
+    },
+    {
+      "original_path": "hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json",
+      "original_name": "candidate_sources_sha256.json",
+      "repository_path": "2026-10-18_20-45-32_two-story-QA-closure/source/hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json",
+      "sha256": "0b64e11343fe69ac8afe5b00f181c73e61da3043b496ed33f0c6e1bb0549669f",
+      "original_sha256": "0b64e11343fe69ac8afe5b00f181c73e61da3043b496ed33f0c6e1bb0549669f",
+      "bytes": 26956,
+      "archived_at": "2026-10-18T20:45:32.833485+08:00",
+      "source_bytes_preserved": true,
+      "status": "archived_candidate_or_project_support_not_user_approved",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/source/hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json",
+          "sha256": "3e8ea47940555a9250772950da4d9024f89be72427cbdd90b568c57f28278b5f"
+        }
+      ]
+    },
+    {
+      "original_path": "hero_quality_audit_20261018_191500_UTC+08/huang_ui_independent_pixel_check.json",
+      "original_name": "huang_ui_independent_pixel_check.json",
+      "repository_path": "2026-10-18_20-45-32_two-story-QA-closure/source/hero_quality_audit_20261018_191500_UTC+08/huang_ui_independent_pixel_check.json",
+      "sha256": "003b34d979d2481f876266dbf199b56c6ee82b6f7824e252daf0a94ba68b678d",
+      "original_sha256": "003b34d979d2481f876266dbf199b56c6ee82b6f7824e252daf0a94ba68b678d",
+      "bytes": 745,
+      "archived_at": "2026-10-18T20:45:32.833485+08:00",
+      "source_bytes_preserved": true,
+      "status": "archived_candidate_or_project_support_not_user_approved",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero_quality_audit_20261018_191500_UTC+08/update_manifest.py",
+      "original_name": "update_manifest.py",
+      "repository_path": "2026-10-18_20-45-32_two-story-QA-closure/source/hero_quality_audit_20261018_191500_UTC+08/update_manifest.py",
+      "sha256": "f5cde34e19d53578dba0b7d2768870b7d6451149ce5f0c74f56e0adf658fa52a",
+      "original_sha256": "f5cde34e19d53578dba0b7d2768870b7d6451149ce5f0c74f56e0adf658fa52a",
+      "bytes": 4592,
+      "archived_at": "2026-10-18T20:45:32.833485+08:00",
+      "source_bytes_preserved": true,
+      "status": "archived_candidate_or_project_support_not_user_approved",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/source/hero_quality_audit_20261018_191500_UTC+08/update_manifest.py",
+          "sha256": "621c751b1a924ec9d05e716e12346a9af139d1d31c773f42874922a94437d3e0"
+        }
+      ]
+    },
+    {
+      "original_path": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-18_20-45-32_two-story-QA-closure/source/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/manifest.json",
+      "sha256": "e9615d865a099532af1441a382fa84a335800b6d1799844a2317ef317a8e182f",
+      "original_sha256": "e9615d865a099532af1441a382fa84a335800b6d1799844a2317ef317a8e182f",
+      "bytes": 5823,
+      "archived_at": "2026-10-18T20:45:32.833485+08:00",
+      "source_bytes_preserved": true,
+      "status": "archived_candidate_or_project_support_not_user_approved",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/source/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/manifest.json",
+          "sha256": "408e775c1d1adf5c34dac80a9548e6c21231180b08775539c46a8422995578ec"
+        }
+      ]
+    }
+  ],
+  "note": "Bounded follow-on capture for two story corrections and corresponding independent QA; prior verified batch unchanged."
+}

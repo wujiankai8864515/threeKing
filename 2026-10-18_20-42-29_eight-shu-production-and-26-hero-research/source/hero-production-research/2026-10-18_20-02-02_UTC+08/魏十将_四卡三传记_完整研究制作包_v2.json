@@ -1,0 +1,3890 @@
+{
+  "schema_version": "1.1",
+  "created_at": "2026-10-18T20:02:02.420899+08:00",
+  "output_directory": "hero-production-research/2026-10-18_20-02-02_UTC+08",
+  "batch": "魏十将_四卡三传记_完整研究制作包_v2",
+  "common_requirements": {
+    "scope": "研究文本制作包，不含生成图片、成图验收、UI实现或仓库同步；10英雄×4卡+3传记=70张规划主图。",
+    "canon": "以本包逐章核验的毛本《三国演义》文本为故事主轴。只证明小说叙述，不自动等同三国史实。现代游戏玩法另列，不用于证明原著事件。",
+    "status": "所有神话象征、面貌造型、第一人称短词、技能名和机制均为本项目原创提案，未获用户最终批准。",
+    "style": "原创英雄化神话插画，地面世界有具体营地、城池、山路、木石泥土；不摄影写实、不统一天宫，不以绿色/蓝色滤镜制造幻想感。",
+    "faction": "魏只在独立UI徽章和少量衣带/结饰/内衬使用蓝色。各人的袍甲主色独立；早期吕布、袁绍、杨奉部队按事件旗号，不把魏字战旗塞入前期场景。",
+    "materials": "皮肤自然骨相；布哑光大褶；马毛定向与肌肉面；木土各自纹理；金属只在有形体依据处反光。禁随机金粉、白黄针点、满脸闪粒和跨材质金属化。",
+    "tiers": "1黑铁、2青铜、3白银、4黄金；黄金是收藏成熟表现，不等同称帝或道德无瑕，也不强制画到人物晚年。属性1/2/4/8仅沿用未平衡的基础属性方向，不扩张为技能、攻速和控制一起翻倍。",
+    "skill_rules": "暂拟每星累计1/2/3/4条被动，每条两汉字且一个关键效果；主动保留同一核心操作，最多添加一个直接辅助效果；所有数值、冷却、持续、容量与敌人豁免规则待系统验证。无五星、复杂连锁、复活树或全能技能。",
+    "reference_gate": "本轮没有新英雄获批身份样图。每图actual_reference_files为空是诚实缺口；生成前须先做身份/材质样并获检查，再实际附身份、动作兵器与场景参考，不能靠一句“沿用参考”假装已附。",
+    "structural_qa": "长杆各可见段共一直轴；刀斧头、杆、双手和尾帽有真实连接；拇指对向包握、腕肘肩受力可行。骑乘须查鞍位、人马重心、缰绳与兵器不穿插；不可为装入框把长兵缩短。",
+    "delivery_gate": "七主图、四阶UI与总览分计；插画不烧文字；脸、手、武器轴、坐骑、材质保存100%裁切。原生尺寸按实际记录，不把放大标原生4K。技术通过不等于用户审美批准。",
+    "generation_specs": {
+      "card": "竖幅2:3，无字；暂按可得1024×1536源，不承诺原生4K",
+      "biography": "横幅3:2，无字；暂按1536×1024源",
+      "composition": "脸手兵器在UI安全区内，长杆和坐骑允许合理出画；传记前清后柔，关键配角不能糊成无身份。"
+    }
+  },
+  "counts": {
+    "heroes": 10,
+    "cards": 40,
+    "biographies": 30,
+    "primary_images_planned": 70,
+    "images_generated": 0
+  },
+  "heroes": [
+    {
+      "hero_id": "zhangliao",
+      "name": "张辽",
+      "faction": "wei",
+      "core_personality": "临危不乱，以精锐和判断打开敌军要害。",
+      "myth_symbol_proposal": {
+        "name": "苍隼",
+        "origin": "原创象征，不称张辽原有神兽",
+        "reason": "窄翼急折、从侧后切入，表现突袭节奏；采用冷灰隼形，避免与马超正面大骑阵、甘宁水上劫营混同。",
+        "growth": "羽痕→半翼→俯冲全隼→收拢翼尖压住桥口的巨隼虚影"
+      },
+      "differentiation": "五子中的侧后切入者：刀、斜向披风、窄楔形精兵。与乐进短周期贴身压迫、于禁稳阵、张郃移位、徐晃资源封锁分别。",
+      "identity": {
+        "face": "原创：偏长方脸、刀眉、眉骨清楚、内收的冷静目光；中短直须，嘴角收紧。",
+        "hair": "原创：紧束高髻，鬓角利落；不使用吕布长翎。",
+        "body": "原创：高而精悍、肩腰比利落，非许褚/典韦巨汉。",
+        "clothes": "铁灰甲、暗紫褐袍、燕尾式短披风；蓝仅系带内缘。四阶由低领轻甲到紧凑精甲，披风折线与同一胸扣贯穿。",
+        "weapons_fact": "第53回明记张辽挥刀迎太史慈。原文所核段未给“钩镰刀”专名或全生涯统一武器。",
+        "weapons_design": "本项目选择窄背、略弧长柄单刃战刀为统一原创辨识件；长轴和尾杆必须完整可推，不能给刀附钩后称原著。",
+        "mount_fact": "相关战斗骑马；所核原文无专属坐骑名。",
+        "mount_design": "深栗色普通战马，脸部小白星作为项目连续性设计，不替换成赤兔。",
+        "reference_version": "WEI-ZL-identity-text-v1；尚无获批图。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL官网标准张辽页面，2026-10-18核验",
+        "url": "https://www.sanguosha.com/hero/18",
+        "verified": "突袭取他人手牌，提供节奏/资源切入参照。",
+        "use": "只吸收主动切要害的思路；不照搬抽牌，不沿用游戏立绘或兵器专名。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 11,
+          "chronology_key": "011-a",
+          "title": "濮阳吕布军健将",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "列八健将之首，接战夏侯惇；仍在吕布阵营。",
+          "selection": "card1",
+          "selection_reason": "能以未归曹武将起点建立独立身份。",
+          "misreading_to_avoid": "不能把当年画成魏军蓝旗。"
+        },
+        {
+          "event_id": "b",
+          "chapter": 19,
+          "chronology_key": "019-b",
+          "title": "白门楼引颈待戮",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "被押至曹操前，责骂并不惧死。",
+          "selection": "bio1前因",
+          "selection_reason": "解释归曹前的刚直，不把降将画成乞怜。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 20,
+          "chronology_key": "020-c",
+          "title": "解缚受礼归曹",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "刘备与关羽求情，曹操亲解缚、解衣相赠，拜中郎将。",
+          "selection": "card2+bio1",
+          "selection_reason": "身份大转折，与青铜卡直接相连。",
+          "misreading_to_avoid": "情节跨19末/20初，不能只引19说已完成归降。"
+        },
+        {
+          "event_id": "d",
+          "chapter": 30,
+          "chronology_key": "030-d",
+          "title": "乌巢归途斩蒋奇",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "张辽、许褚迎上蒋奇，张辽斩蒋奇。",
+          "selection": "alternate",
+          "selection_reason": "个人战果明确，但与徐晃官渡线过近，保留备用。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "e",
+          "chapter": 53,
+          "chronology_key": "053-e",
+          "title": "合肥识乱反伏",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "得胜夜不卸甲；辨认内乱是少数煽动，借城门假乱伏击太史慈。",
+          "selection": "card3+bio2",
+          "selection_reason": "由勇将转成熟判断，画面区别于冲锋。",
+          "misreading_to_avoid": "勿把李典擒内应、李典射宋谦或乐进斩双戟抢给张辽。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 67,
+          "chronology_key": "067-f",
+          "title": "逍遥津合谋突击",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "与李典解嫌，乐进诈败；张辽与李典夹击，张辽引二千余骑追到桥边。",
+          "selection": "card4+bio3",
+          "selection_reason": "最高辨识战役，展示军势与果决。",
+          "misreading_to_avoid": "本章是二千余骑；八百破十万另有史籍/通俗传统，不混写为本章。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "濮阳横锋",
+          "camera": "眼平三分之二侧面，中全身，面朝左",
+          "action": "勒马侧转，以刀横隔战线，观察对方接应",
+          "environment": "干燥城郊、吕布军旗退入远景",
+          "myth_growth": "远空仅两道隼羽形云痕",
+          "structure_check": "刀杆在双手间直线，缰绳另握不并入刀柄",
+          "must_retain": "精瘦同脸、短须、旧甲磨损",
+          "must_not_inherit": "无魏字旗；不画方天画戟和吕布冠",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "解缚新途",
+          "camera": "略低机位半身，右肩前转",
+          "action": "受衣后立起，刀暂由近旁军士递还；表情仍克制",
+          "environment": "白门楼阶下石地，绳索落在侧面，曹操退后景",
+          "myth_growth": "半片灰隼翼投影贴近肩背",
+          "structure_check": "接衣与接兵器分瞬间，主角只做接衣动作；刀由配角独持",
+          "must_retain": "青铜阶段多出肩甲但保胸扣",
+          "must_not_inherit": "不用祭天式金光或跪拜屈从表情",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "e",
+          "title": "合肥定乱",
+          "camera": "正面偏左低机位，主角占中轴",
+          "action": "披甲上马停在街口，横手制止本军奔乱",
+          "environment": "城内夜火局限草场，军士列在身后；城门为次要远景",
+          "myth_growth": "苍隼完整轮廓从屋脊上方压低，未占天空大半",
+          "structure_check": "制止手、持刀手与缰绳关系清楚；马静止承重",
+          "must_retain": "冷静目光、夜间仍着甲",
+          "must_not_inherit": "不能把整城烧毁；不画亲自擒杀全部内应",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "f",
+          "title": "逍遥夺势",
+          "camera": "桥口外侧低角度，马向右前，刀从左后切入",
+          "action": "当先勒转，刀锋指向敌军缺口，身后精骑斜切",
+          "environment": "河滩湿土、断桥木梁与桥上远逃者；地面战场清晰",
+          "myth_growth": "巨隼俯冲收翼构成一条窄楔形，不撒羽粉",
+          "structure_check": "马前肢腾挪幅度真实；刀杆不穿马颈，断桥比例可信",
+          "must_retain": "冷灰甲/褐紫袍，紧凑精骑",
+          "must_not_inherit": "不把孙权画成已被生擒；不写八百或十万作为画面文字",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "白门解缚",
+          "camera": "横幅近中景，张辽三分之二正脸；曹操右侧",
+          "action": "曹操俯身解绳，刘关在另一侧可辨；张辽挺直脊背",
+          "target_connection": "对应青铜的换主转折，前因第19回的刚直在人物姿态里呈现",
+          "first_person_line_original": "我不惧一死。既以诚待我，便以这柄刀相报。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "曹操手指解同一根绳；不多出绑臂；无抽刀同时拥抱",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "zhangliao_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "e",
+          "title": "胜夜不卸甲",
+          "camera": "张辽肩后看向帐外草场，横向纵深",
+          "action": "主角抬手稳住亲从，李典押内应由后侧进入，远城门留伏兵",
+          "target_connection": "传记交代辨乱与设伏，卡面凝练处乱不惊的守将状态",
+          "first_person_line_original": "胜了一阵，更不能失了防备。先稳住军心，再看谁在作乱。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "军队流向由乱到定；火堆不得遮主脸；内应不被复制多处",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "zhangliao_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "f",
+          "title": "解嫌出奇兵",
+          "camera": "近景张辽、李典与乐进围木匣，中远景通城门",
+          "action": "张辽指向桥口方向，李典起身应命，乐进在旁确认诱敌路线",
+          "target_connection": "同役战前关键合作，直接导向黄金逍遥津突击",
+          "first_person_line_original": "私怨先放下。此刻我们要守的，是同一座城。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "匣中文字不烧图，三人手势与桌边无穿插；不是三人同时冲同一方向",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhangliao_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "zhangliao_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "选一名后排敌人，从侧面短突进并造成一次集中刀击；敌人前排仍可阻挡路径。",
+        "active": {
+          "skill_id": "zhangliao_a1",
+          "name": "隼击破阵",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "选一名后排敌人，从侧面短突进并造成一次集中刀击；敌人前排仍可阻挡路径。",
+          "extra_effect": "三星起：命中延后该目标的下一次普通行动；不是长沉默或全技能封锁。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "zhangliao_p1",
+            "name": "潜锋",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "本场首次主动伤害提高",
+            "trigger": "首次主动命中",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhangliao_p2",
+            "name": "疾行",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "移动速度提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhangliao_p3",
+            "name": "锐击",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "对后排目标的伤害提高",
+            "trigger": "命中后排目标",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhangliao_p4",
+            "name": "迫阵",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "主动附带的行动延迟时长提高",
+            "trigger": "主动延迟已生效",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "zhangliao_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "zhangliao_p1",
+              "zhangliao_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "zhangliao_p1",
+              "zhangliao_p2",
+              "zhangliao_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "zhangliao_p1",
+              "zhangliao_p2",
+              "zhangliao_p3",
+              "zhangliao_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "yuejin",
+      "name": "乐进",
+      "faction": "wei",
+      "core_personality": "体格紧凑而意气锐利，敢贴到敌人面前，一击即再进。",
+      "myth_symbol_proposal": {
+        "name": "岩獾",
+        "origin": "原创动物神话化，不是典籍称号",
+        "reason": "低重心、短躯强爪、反复迫近；不用虎、豹或整队铁骑造成同型。",
+        "growth": "地面抓痕→短獾头虚影→贴地全身→厚重岩脊獾从脚后跃出"
+      },
+      "differentiation": "五子中短轴、低重心、连续近身者。弓在特定故事出现，主战仍短促枪击，不转成黄忠式远程狙击。",
+      "identity": {
+        "face": "原创：短方脸、宽颧、紧眉、小而锐的眼；短髭，不蓄张辽式长直须。",
+        "hair": "原创：贴头小髻，短束巾尾，不用披肩长发。",
+        "body": "紧凑成年男性，强壮而矮壮；所核第5回未明写身材，矮壮作为项目形体提案而非原著断言。",
+        "clothes": "赭红短袍、暗棕皮束、铁色短甲，膝肘灵活；蓝只腰侧小结。",
+        "weapons_fact": "第11回与臧霸双枪交战；第12回射成廉、第33回射郭图；第53回持刀斩断敌护卫戟；武器并非原著唯一固定。",
+        "weapons_design": "统一主战用略短于张郃长枪的直枪，保持实战长杆尺度；故事需要时弓为主、枪收束在马鞍外侧，不画同时双武器攻击。",
+        "mount_fact": "多处骑马，未核到专属马名。",
+        "mount_design": "结实枣骝马，体量稍小仍足承成年武将；人和马不能缩成孩童。",
+        "reference_version": "WEI-YJ-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀国战2013乐进，G.WEI016",
+        "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wei/2013/0126/47.html",
+        "verified": "骁果在他人回合结束施压，对方付装备成本或受伤。",
+        "use": "转译为攻击间隙追击与短周期压力；不照搬弃牌，不称所有版本皆如此。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 5,
+          "chronology_key": "005-a",
+          "title": "陈留应募",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "与李典先后来投，曹操留为帐前吏。",
+          "selection": "card1",
+          "selection_reason": "普通从军起点，压低初阶装具。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "b",
+          "chapter": 11,
+          "chronology_key": "011-b",
+          "title": "濮阳双枪战臧霸",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "骑马持枪，三十余合不分胜负。",
+          "selection": "alternate",
+          "selection_reason": "证明枪与近战能力；与黑铁初入军、青铜射成廉比，另占一阶会挤压成长跨度。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 12,
+          "chronology_key": "012-c",
+          "title": "定陶射成廉",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "曹军伏兵齐出，吕布退走，乐进一箭射死从将成廉。",
+          "selection": "card2+bio1",
+          "selection_reason": "首次明确个人击杀与行动果断，箭术作为具体战例。",
+          "misreading_to_avoid": "不是第11回；也不是乌巢斩淳于琼。"
+        },
+        {
+          "event_id": "d",
+          "chapter": 33,
+          "chronology_key": "033-d",
+          "title": "南皮射郭图",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "乱军中见郭图驰入城，拈弓射下城壕。",
+          "selection": "card3+bio2",
+          "selection_reason": "连续征战后抓住退路时机，城壕与开野构图不同。",
+          "misreading_to_avoid": "袁谭由曹洪所杀，不归乐进。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 53,
+          "chronology_key": "053-e",
+          "title": "合肥斜刺孙权",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "一骑一刀直取孙权，砍断宋谦、贾华两戟；宋谦随后死于李典之箭。",
+          "selection": "alternate",
+          "selection_reason": "锋锐极强的备用战斗卡；本线最终用67展示懂得诱敌。",
+          "misreading_to_avoid": "乐进不是射杀宋谦者，也未斩孙权。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 67,
+          "chronology_key": "067-f",
+          "title": "逍遥津诈败诱敌",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "奉议迎甘宁，交战数合诈败，诱前军离开孙权。",
+          "selection": "card4+bio3",
+          "selection_reason": "由逞锐到能收放锋芒；与张辽同役但主角是引出敌军而非追孙权。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "g",
+          "chapter": 68,
+          "chronology_key": "068-g",
+          "title": "濡须交锋负伤",
+          "source_url": "https://zh.wikisource.org/wiki/三國演義/第068回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "与凌统交锋五十合；曹休暗射凌统坐骑，甘宁射伤乐进面门，两军各救一将回营。",
+          "selection": "rejected",
+          "selection_reason": "可作后续传记，非本四阶晋升所需；不把受援改成独胜。",
+          "misreading_to_avoid": "射凌统马的是曹休，不是许褚；本文只写各救一将，不擅指定许褚救回。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "帐前新锋",
+          "camera": "平视偏侧全身，左腿在前",
+          "action": "抱拳应募后握住枪杆下部，视线朝招募营",
+          "environment": "粗木栅、未整齐的新募队列与土路",
+          "myth_growth": "脚边石块仅形成低矮兽影暗示",
+          "structure_check": "枪直立不穿掌；脚掌落地有重量",
+          "must_retain": "成年短壮骨相、简甲",
+          "must_not_inherit": "无将军级冠饰与满场獾神",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "一箭追锋",
+          "camera": "左侧中景，马缓转、身体向右后扭",
+          "action": "射出成廉方向的一箭，手刚离弦，弓仍有弧度",
+          "environment": "定陶野外烟线，逃骑远于脸手焦平面",
+          "myth_growth": "岩獾半身沿马蹄下影子出形",
+          "structure_check": "骑射腰髋旋转可行；箭数唯一，弦与指分离自然；枪收在另一侧",
+          "must_retain": "赭红短袍、低重心",
+          "must_not_inherit": "不画徒手弹箭，非近脸大血雾",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "d",
+          "title": "南皮断逃",
+          "camera": "城壕外略低机位，主角右侧面近中景",
+          "action": "停马立稳拉弓，目标向城门退，弦线不遮眼",
+          "environment": "冻土、城壕和远门；郭图人马只在远景边缘",
+          "myth_growth": "全身岩獾贴地蹿向壕边，不化成弓弦",
+          "structure_check": "马站定支持拉弓；弓弦三点成立",
+          "must_retain": "风霜加深但同一短方脸",
+          "must_not_inherit": "郭图不能画成袁谭；不写“先登城楼”",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "f",
+          "title": "退一步再进",
+          "camera": "前低后高的追逐视角，主角朝镜头侧回马",
+          "action": "压低肩头、枪护身侧，眼神回看紧追的甘宁前军",
+          "environment": "窄道通向逍遥津，后方吴军推进；伏兵仅地形暗示",
+          "myth_growth": "大岩獾压低伏身，身体与地形顺行，显示忍而再起",
+          "structure_check": "回头不拧断颈；缰绳牵马头方向合理；枪距马腿足够",
+          "must_retain": "退而有备的锐气",
+          "must_not_inherit": "不是溃逃惊慌；不抢张辽桥头主镜头",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "伏兵齐起",
+          "camera": "横幅前侧近景，乐进在土堤后，后排六将分层",
+          "action": "听鼓出击，乐进从马侧取弓，将溃退目标锁入视线",
+          "target_connection": "与青铜同一伏击战，传记讲抓住战机，卡是射击瞬间",
+          "first_person_line_original": "退路一露，便不能让他从我眼前过去。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "只表现取弓一步；六将不照搬同脸，不都同时挽弓",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "yuejin_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "d",
+          "title": "壕前追箭",
+          "camera": "横幅沿城墙斜透视，乐进前景一侧",
+          "action": "曹操远山击鼓，乐进随推进抵达壕前，郭图奔门",
+          "target_connection": "同场南皮攻战的因果；突出被鼓声推动的个人决断",
+          "first_person_line_original": "鼓还在响，我便不能停。那道城门，是他最后的退路。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "曹操远景鼓槌与鼓面接触合理；不能把平民受害画作庆功装饰",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "yuejin_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "f",
+          "title": "以退引敌",
+          "camera": "横幅从乐进身后看追兵，脸侧回望",
+          "action": "与甘宁短接后回马，前路留空把敌军牵走，远处李典伏处不抢镜",
+          "target_connection": "传记呈现诱敌的动作逻辑，目标卡凝练能进能退的锐将状态",
+          "first_person_line_original": "这一退，是要把他们带进我们选好的地方。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "敌我前后方向一致；不把追兵画成与乐进并肩进军",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yuejin_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "yuejin_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "对当前近身目标作一次短前踏枪刺；普攻衔接后很快能再用，主旨是持续迫战。",
+        "active": {
+          "skill_id": "yuejin_a1",
+          "name": "迫步疾刺",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "对当前近身目标作一次短前踏枪刺；普攻衔接后很快能再用，主旨是持续迫战。",
+          "extra_effect": "三星起：目标正在普通攻击时命中，可打断这一次普攻；不沉默技能。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "獾爪只在前踏接地点形成短实线，不用大范围虎啸冲击。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "yuejin_p1",
+            "name": "短兵",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "近身普攻伤害提高",
+            "trigger": "普攻命中近身目标",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "獾爪只在前踏接地点形成短实线，不用大范围虎啸冲击。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yuejin_p2",
+            "name": "紧迫",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "普攻命中缩短本技能冷却",
+            "trigger": "普攻命中；每次仅一次",
+            "target": "自身主动",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "獾爪只在前踏接地点形成短实线，不用大范围虎啸冲击。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yuejin_p3",
+            "name": "骁锐",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "主动命中正在普攻的敌人时伤害提高",
+            "trigger": "命中正在普攻的目标",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "獾爪只在前踏接地点形成短实线，不用大范围虎啸冲击。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yuejin_p4",
+            "name": "稳步",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "受到的击退距离缩短",
+            "trigger": "遭受击退",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "獾爪只在前踏接地点形成短实线，不用大范围虎啸冲击。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "yuejin_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "yuejin_p1",
+              "yuejin_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "yuejin_p1",
+              "yuejin_p2",
+              "yuejin_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "yuejin_p1",
+              "yuejin_p2",
+              "yuejin_p3",
+              "yuejin_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "yujin",
+      "name": "于禁",
+      "faction": "wei",
+      "core_personality": "先稳军阵，再论自身得失；严整中也存在过度自恃的隐患。",
+      "myth_symbol_proposal": {
+        "name": "镇阵石犀",
+        "origin": "原创象征",
+        "reason": "低头厚额、四足站稳、单向抵住冲口；区别典韦以身护一人、许褚狂力虎、刘备群体治疗。",
+        "growth": "犀角形石影→肩后厚额→营门全犀→紧贴防线的巨石犀"
+      },
+      "differentiation": "五子中的秩序型驻守者。方形闭甲、竖直军令、横向寨柵；不走轻骑突进，不做全图护盾奶妈。",
+      "identity": {
+        "face": "原创：长方脸、平眉、薄唇、整齐短须，表情严而不狰狞。",
+        "hair": "原创：低髻收进兜鍪，发丝少露，四阶发线与下颌形固定。",
+        "body": "中高壮实、站姿正，比例比徐晃竖直，比张辽厚；不巨化。",
+        "clothes": "烟墨甲、灰白护领、深棕衬袍；甲片排列闭合平直，青蓝只在令绳。",
+        "weapons_fact": "第10回称弓马熟娴；所选核心段不确立唯一专属武器。",
+        "weapons_design": "直身长枪与军令短棍为原创统一设计。调度场景握令棍，枪由架/从卒独持，避免一手塞多物。",
+        "mount_fact": "原文有弓马本领与行军；无专属名马证据。",
+        "mount_design": "稳健黑褐普通军马；驻守时多下马，不让四卡均骑冲。",
+        "reference_version": "WEI-YU-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL于禁官网现页镇军；2014节钺另作历史版本",
+        "url": "https://www.sanguosha.com/hero/160",
+        "secondary_version_url": "https://www.sanguosha.com/news/20141113_6631_0514",
+        "verified": "现页镇军属于控制辅助，早版毅重和2014节钺不可合成一套现行技能。",
+        "use": "本项目守阵来自第16回叙事与原创取舍，不宣称直接复刻现行三国杀。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 10,
+          "chronology_key": "010-a",
+          "title": "率部投曹",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "带数百人来投，弓马熟娴，被任为典军司马。",
+          "selection": "card1",
+          "selection_reason": "有带队基础但尚未独当一面。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "b",
+          "chapter": 11,
+          "chronology_key": "011-b",
+          "title": "登高观西寨献策",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "于禁观察濮阳西寨兵少，建议夜袭，曹操从之；随后遭反击。",
+          "selection": "card2+bio1",
+          "selection_reason": "表现侦察与主动判断，区别纯站桩防将。",
+          "misreading_to_avoid": "不能把整个濮阳夜战写成完全获胜，曹操随后受围。"
+        },
+        {
+          "event_id": "c",
+          "chapter": 16,
+          "chronology_key": "016-c",
+          "title": "止掠护民筑营拒敌",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "制止青州兵劫掠，被诬反；先挖壕立营，迎退张绣，后分辩。",
+          "selection": "card3+bio2",
+          "selection_reason": "纪律与优先级的核心转折，给于禁独有剧情。",
+          "misreading_to_avoid": "不是因被骂便叛军；不能把伤害百姓画成正面战功。"
+        },
+        {
+          "event_id": "d",
+          "chapter": 30,
+          "chronology_key": "030-d",
+          "title": "官渡胜后追袁",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "袁军崩溃后，与张辽、许褚、徐晃等引军追赶袁绍。",
+          "selection": "card4+bio3",
+          "selection_reason": "把个人纪律扩为整队执行，是成熟阶段截取。",
+          "misreading_to_avoid": "是联合作战中的执行者，不独占官渡胜利、霹雳车或焚粮发明。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 58,
+          "chronology_key": "058-e",
+          "title": "潼关接战马超",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "于禁出战马超败回。",
+          "selection": "rejected",
+          "selection_reason": "可说明并非无敌，但不宜把失败自动升级荣耀。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "f",
+          "chapter": 74,
+          "chronology_key": "074-f",
+          "title": "七军受命与洪水败降",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第074回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "统七军援樊，后洪水围困投降。",
+          "selection": "rejected_with_disclosure",
+          "selection_reason": "重要晚期边界保留在人物说明；本四阶止于官渡成熟片段，不抹去后事。",
+          "misreading_to_avoid": "黄金不写终身不败，不写镇水免疫神兽来逆改败降。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "军列初成",
+          "camera": "正面全身略低视角，主角不完全居中",
+          "action": "站在数百新附士卒前交付名册或军符，长枪立旁",
+          "environment": "兖州营前土场、朴素旌旗",
+          "myth_growth": "营地石块形成微弱犀角轮廓",
+          "structure_check": "名册一手托一手扶；长枪有独立持者或明确倚架",
+          "must_retain": "竖直身线、严整短须",
+          "must_not_inherit": "不穿帝王甲，不显全身巨犀",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "b",
+          "title": "登高察寨",
+          "camera": "背侧三分之二看脸，山脊高处，低位敌寨",
+          "action": "俯视西寨，令棍指向寨侧空隙",
+          "environment": "濮阳城影与西寨分开，暮色地形可读",
+          "myth_growth": "肩后半犀额影隐于岩壁",
+          "structure_check": "脚掌贴斜坡，持棍手腕中立；不拿枪当悬浮指挥棒",
+          "must_retain": "沉稳观察与清楚地形",
+          "must_not_inherit": "不把高处观测变成诸葛亮星空法阵",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "c",
+          "title": "先营后辩",
+          "camera": "平视中全身，营门横线稳定",
+          "action": "泥地立稳，令军士合栅，身后队列已整齐",
+          "environment": "刚掘壕沟、木栅、追军尘烟在远处",
+          "myth_growth": "全犀低伏在营门后，头角指向进路",
+          "structure_check": "壕沟有可跨通道；门柱受力与双足接地",
+          "must_retain": "甲上泥污但无金粉；脸仍清楚",
+          "must_not_inherit": "不让神兽变水龟，不用护盾覆盖整个城",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "d",
+          "title": "官渡整进",
+          "camera": "斜后高一点的视角，能见脸侧与整队前推",
+          "action": "骑马举令，前列骑步保持间距追击",
+          "environment": "袁军弃下辎重在路边，远河口；避免尸山",
+          "myth_growth": "巨犀沿队列一侧前推，短角压低而不抢将领",
+          "structure_check": "马在行进不是跳跃，军队同向；旗、令棍和枪不粘连",
+          "must_retain": "墨甲灰领、直线队伍，成熟留须少许增密",
+          "must_not_inherit": "不画于禁独斩袁绍；不造救全军的无敌罩",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "b",
+          "title": "西寨可取",
+          "camera": "横幅山上观测到营帐议策的单一场景：选山脊与近旁曹操",
+          "action": "于禁向曹操指出兵少西寨，两名侦骑在后",
+          "target_connection": "青铜卡是察寨状态，传记明确献夜袭建议及后来反受围的叙事边界",
+          "first_person_line_original": "先看清虚实，再动兵。那座西寨，可以一试。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "只一个时间切片，不拼贴同时侦察与攻寨；山坡马脚成立",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "yujin_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "c",
+          "title": "军务在前",
+          "camera": "横幅营外，近景于禁握令，曹操到达在侧后",
+          "action": "青州兵指诉，传令者催辩，于禁仍令掘壕；百姓已退到安全路侧",
+          "target_connection": "对应白银“先营后辩”，以冲突展现优先级而非无事摆拍",
+          "first_person_line_original": "追兵未退，先立营寨。我的清白，等军中安稳再说。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "掘土工具、沟边、人物站位不穿；百姓不挡追军通路",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "yujin_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "d",
+          "title": "号令入阵",
+          "camera": "横幅阵前，信使到于禁马旁，前方联合追击纵深",
+          "action": "官渡总攻后于禁接令整队，其他将领保持远景各路位置",
+          "target_connection": "黄金卡的追击由受令与整军直接引出，标明并非独功",
+          "first_person_line_original": "敌阵已动，我军更不能乱。按旗号前进，不许各自追功。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "旗号为无字设计待UI外排；多路队列不互相穿行",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "yujin_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "yujin_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "在脚下短时驻守，使阵内少量友军受到的伤害降低；移动后结束驻守。",
+        "active": {
+          "skill_id": "yujin_a1",
+          "name": "肃军立阵",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "在脚下短时驻守，使阵内少量友军受到的伤害降低；移动后结束驻守。",
+          "extra_effect": "三星起：驻守圈内友军受到的击退距离减少；不提供免控或治疗。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "yujin_p1",
+            "name": "整列",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "自身驻守时受到的伤害降低",
+            "trigger": "驻守期间",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yujin_p2",
+            "name": "镇足",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "自身受到的击退距离减少",
+            "trigger": "遭受击退",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yujin_p3",
+            "name": "严令",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "驻守效果半径提高",
+            "trigger": "主动生效",
+            "target": "驻守圈",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "yujin_p4",
+            "name": "坚壁",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "驻守给予的减伤幅度提高",
+            "trigger": "主动生效",
+            "target": "圈内友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "yujin_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "yujin_p1",
+              "yujin_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "yujin_p1",
+              "yujin_p2",
+              "yujin_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "yujin_p1",
+              "yujin_p2",
+              "yujin_p3",
+              "yujin_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "zhanghe",
+      "name": "张郃",
+      "faction": "wei",
+      "core_personality": "懂得看地形和局势，也经历判断失误；越成熟越能在转折处调动兵势。",
+      "myth_symbol_proposal": {
+        "name": "折翼鹤阵",
+        "origin": "原创神话化军阵象征；不是原著神兽或无双蝶舞",
+        "reason": "长腿步态、折返翼线、疏密可变，配山道转位；不使用蝶翼、爪刃或妖艳换皮。",
+        "growth": "一笔折羽→双翼短弧→鹤形穿过两阵→巨鹤翼展分出进退两路"
+      },
+      "differentiation": "五子中的位置操作者。修长身线、长枪、转身观察、山地斜线；核心移动盟友，不抢徐晃断粮，也不抢诸葛亮天象。",
+      "identity": {
+        "face": "原创：瘦长脸、细长眼、明显鼻梁、薄髭与窄颏须；沉静而警觉。",
+        "hair": "原创：中高束髻配窄冠，少量鬓发，不能继承现代游戏蝶冠。",
+        "body": "修长但肌肉结实，长臂，跨步空间大；不同张辽紧凑突进。",
+        "clothes": "烟紫、灰白与铁黑层叠短袍甲；肩甲左右轻微不对称用于回身；蓝仅领结内缘。",
+        "weapons_fact": "第70回明记挺枪及刺草人；可以锁定枪类别，不据此给华丽专名。",
+        "weapons_design": "长直枪、窄叶尖、细横翼护根；军阵折线纹为原创装饰，不变爪或蝴蝶。",
+        "mount_fact": "第70回明确弃马攀山逃；无专属坐骑名。",
+        "mount_design": "灰褐军马，山道卡可徒步，不能硬塞同一腾跃马。",
+        "reference_version": "WEI-ZH-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL张郃巧变页；国战2013版本交叉核验",
+        "url": "https://www.sanguosha.com/hero/50",
+        "crosscheck_url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wei/2013/0126/46.html",
+        "verified": "巧变通过跳过阶段改变场上资源位置，表现弹性与调度。",
+        "use": "只取位置与时机设计；不复制牌阶段、不照搬无双爪刃蝶舞。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 30,
+          "chronology_key": "030-a",
+          "title": "袁营战张辽",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "官渡阵前与张辽四五十合不分胜负。",
+          "selection": "card1",
+          "selection_reason": "以河北将领起点，有武力却未获得真正合用的指挥空间。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "b",
+          "chapter": 30,
+          "chronology_key": "030-b",
+          "title": "谏救乌巢不从",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "指出攻曹营未必能救乌巢；郭图反驳，袁绍仍令其攻曹营。",
+          "selection": "bio1前因",
+          "selection_reason": "使换主出于受制局势，不虚构唯利归降。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 30,
+          "chronology_key": "030-c",
+          "title": "被谗归曹并先出",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "郭图谗言导致急召；张郃、高览投曹，后请为先锋劫袁营。",
+          "selection": "card2+bio1",
+          "selection_reason": "同章先后清楚，青铜是获得新任的主动将领。",
+          "misreading_to_avoid": "高览杀来使，不写成张郃下手。"
+        },
+        {
+          "event_id": "d",
+          "chapter": 70,
+          "chronology_key": "070-d",
+          "title": "三寨失利瓦口脱身",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第070回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "识破与被识破交错，最终弃马寻山径，仅十余人步行至南郑。",
+          "selection": "card3+bio2",
+          "selection_reason": "保留失败这一成长代价；银卡呈清醒脱险，不称大捷。",
+          "misreading_to_avoid": "吸取教训是本项目解释，不冒充原文心声；不可把雷铜之死当无伤全胜。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 95,
+          "chronology_key": "095-e",
+          "title": "街亭截援与诱延",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第095回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "受司马懿令挡王平；随后追马谡，遇魏延回军，参与合围。",
+          "selection": "card4+bio3",
+          "selection_reason": "成熟用兵落在截援与转位，充分区别徐晃断供。",
+          "misreading_to_avoid": "断水由司马懿部署申耽申仪；张郃不是本回断水主谋。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 101,
+          "chronology_key": "101-f",
+          "title": "木门中伏",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第101回",
+          "source_class": "candidate_unverified_not_for_production",
+          "verified_on": null,
+          "evidence": "木门败亡仅作后续待核候选，不进入本轮四卡三传记证据链。",
+          "selection": "rejected_unverified_detail",
+          "selection_reason": "本轮未逐段核完该回，不作可生成事件证据；不为凑末阶使用。",
+          "misreading_to_avoid": ""
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "河北枪锋",
+          "camera": "略低侧面中景，朝右",
+          "action": "双手长枪平举试探，袁军队列在后",
+          "environment": "官渡开阔平原，敌旗只作远景",
+          "myth_growth": "地面尘线似一笔折羽",
+          "structure_check": "枪身从后掌到尖一线；马颈下留空",
+          "must_retain": "修长同脸、烟紫少甲",
+          "must_not_inherit": "不能画成魏军或蝴蝶贵公子",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "转旗受命",
+          "camera": "眼平背侧转正，长枪斜指地面",
+          "action": "归曹后重新披甲，回身接先锋军令",
+          "environment": "曹营门口，卸下旧旗远置，军士重整",
+          "myth_growth": "半鹤翼由后方张开，指向新进路",
+          "structure_check": "接令手不同时抓枪；枪另一手落地支撑",
+          "must_retain": "面貌骨相不随换主改变",
+          "must_not_inherit": "不把高览斩使置于主角手中",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "d",
+          "title": "瓦口寻径",
+          "camera": "较高俯视，岩石斜线穿过画面",
+          "action": "徒步攀过山脊回望，长枪背负或由后一从卒分担",
+          "environment": "险峻小径、十余疲兵；弃马远在低处",
+          "myth_growth": "完整鹤影单翼收起，沿可行山路折返",
+          "structure_check": "攀爬手必须抓牢岩缘，双脚一实一提；不能同时持枪攀岩",
+          "must_retain": "尘土、破损甲边与不服输目光",
+          "must_not_inherit": "不画凯旋庆功；不画徒步者骑马飞崖",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第070回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "e",
+          "title": "街亭截援",
+          "camera": "斜前中低角度，全身转向左",
+          "action": "以枪尾划出转阵方向，身后两列兵错位闭合援路",
+          "environment": "街亭山麓交叉道，山顶只远景",
+          "myth_growth": "巨鹤双翼各指一条道路，身体连续而不铺满云海",
+          "structure_check": "枪尾不穿地；脚、马、军队转向可读；不是整地魔法瞬移",
+          "must_retain": "成熟略添细纹，仍修长警觉",
+          "must_not_inherit": "不画张郃主导断水、空城抚琴或独杀王平",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第095回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "谗言断归路",
+          "camera": "横幅营门前近景，张郃与高览面对急召与敌营",
+          "action": "张郃压住枪不乱，听高览决意后转向曹营；用使者倒地之外的非血腥时刻",
+          "target_connection": "铜卡是新任先锋；传记解释袁营失信与归曹选择",
+          "first_person_line_original": "计不见用，反成罪名。此身还有能用之处，我不坐待。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "不能让高览与张郃同脸；文书与兵器分别持握",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "zhanghe_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "d",
+          "title": "从败阵走出",
+          "camera": "横幅山隘后侧，张郃搀扶或引导落后士卒",
+          "action": "最后数人穿狭径，追军火光隔在岩后，原地留空表示丢失大军",
+          "target_connection": "对应银卡的败后转折；助卒为本项目合理镜头，不称原文明记",
+          "first_person_line_original": "这条路太窄，容不下逞强。先带活着的人出去。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "攀山与相扶动作不互相悬空；明确少数残兵",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "zhanghe_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第070回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "e",
+          "title": "截住援路",
+          "camera": "横幅站在岔道看王平方向；主角前景回身传令",
+          "action": "执行截援命令，分队从山麓绕行，画出道路空间而非地图符文",
+          "target_connection": "黄金卡凝练转位合围，传记说明受令及援路关系",
+          "first_person_line_original": "山上的兵自有安排。我守住这条路，让援军接不上。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "不可把取水路线和王平援路混成同一条；旗队流向清楚",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "zhanghe_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "zhanghe_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第095回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "选一名近旁友军，将其移到身旁一个安全空位；张郃随后朝其原方向刺出一次防护枪击。",
+        "active": {
+          "skill_id": "zhanghe_a1",
+          "name": "回锋易位",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "选一名近旁友军，将其移到身旁一个安全空位；张郃随后朝其原方向刺出一次防护枪击。",
+          "extra_effect": "不再加控制：一至四星只改善可选范围/使用频率，保留位置操作。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "鹤翼折线只连起点终点；实际沿可行路径短移动，不穿墙、不拖动首领。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "zhanghe_p1",
+            "name": "轻履",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "移动速度提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹤翼折线只连起点终点；实际沿可行路径短移动，不穿墙、不拖动首领。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhanghe_p2",
+            "name": "应变",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "主动冷却缩短",
+            "trigger": "主动结算",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹤翼折线只连起点终点；实际沿可行路径短移动，不穿墙、不拖动首领。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhanghe_p3",
+            "name": "援途",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "主动选择友军的距离提高",
+            "trigger": "选择目标时",
+            "target": "友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹤翼折线只连起点终点；实际沿可行路径短移动，不穿墙、不拖动首领。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "zhanghe_p4",
+            "name": "整位",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "被移位友军短时受到的伤害降低",
+            "trigger": "友军被本主动移动后",
+            "target": "该友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹤翼折线只连起点终点；实际沿可行路径短移动，不穿墙、不拖动首领。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "zhanghe_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "zhanghe_p1",
+              "zhanghe_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "zhanghe_p1",
+              "zhanghe_p2",
+              "zhanghe_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "zhanghe_p1",
+              "zhanghe_p2",
+              "zhanghe_p3",
+              "zhanghe_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "xuhuang",
+      "name": "徐晃",
+      "faction": "wei",
+      "core_personality": "稳、硬、讲分寸，抓敌军供给与营垒连接处，一层一层拆开。",
+      "myth_symbol_proposal": {
+        "name": "断路玄獬",
+        "origin": "原创独角重兽，借獬豸的刚正视觉联想但不是演义配兽",
+        "reason": "额角像斧背、厚颈低身，强调截断；与于禁整列防守、典韦巫族巨躯分开。",
+        "growth": "斧影独角→半身玄獬→低身完整→压住粮道的巨影"
+      },
+      "differentiation": "五子中的斧将与资源压制者：宽肩横向受力、粗斧、粮道辎重断面。玩法仅削减敌方能量恢复，不顺手追加减疗减攻速。",
+      "identity": {
+        "face": "原创：宽方脸、沉眉、短宽鼻、厚而修整的须，额角有一处旧浅疤（原创）。",
+        "hair": "原创：低结髻加白灰头巾；白巾只作项目可辨设计，不声称本次原文固定。",
+        "body": "宽肩厚背、重心稳，低于典韦的夸张巨躯，高于乐进；上臂受力明显。",
+        "clothes": "灰白袍、黑铁甲、烟褐皮带；斧面少量暗银；蓝只肩绳。",
+        "weapons_fact": "第14回徐晃一斧斩李乐，又与许褚刀斧交锋，斧类别可核。",
+        "weapons_design": "实心长柄单刃大斧，宽斧面加短背脊，非双刃巨玩具；不擅命“开山斧”原著专名。",
+        "mount_fact": "相关段骑马，无所核专属马名。",
+        "mount_design": "黄褐厚实体型军马，速度适中；斧头低于肩线时避马腿。",
+        "reference_version": "WEI-XH-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL2016林包徐晃攻略",
+        "url": "https://www.sanguosha.com/news/20161026_4323_2512",
+        "verified": "断粮转化兵粮寸断，控制对方获取手牌资源。",
+        "use": "只转译为敌方能量恢复抑制；不是原著吸法神力，也不混后版其他技能。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 14,
+          "chronology_key": "014-a",
+          "title": "护驾斩李乐",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "在杨奉部下，骑马以斧斩李乐，护车驾过箕关。",
+          "selection": "card1",
+          "selection_reason": "低阶已有勇力与护行，与后期断粮差别足。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "b",
+          "chapter": 14,
+          "chronology_key": "014-b",
+          "title": "刀斧斗许褚",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "迁驾途中阻曹，许褚与其战五十余合不分胜败。",
+          "selection": "alternate",
+          "selection_reason": "证明武器与力度，因与初阶同段选择不独占一阶。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 14,
+          "chronology_key": "014-c",
+          "title": "满宠夜说归曹",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "秉烛被甲听劝，拒杀旧主作为投名礼，带数十骑归曹。",
+          "selection": "card2+bio1",
+          "selection_reason": "改变归属但保留底线，独有性格。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "d",
+          "chapter": 30,
+          "chronology_key": "030-d",
+          "title": "截韩猛粮车",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "史涣获细作，徐晃上报；奉命截粮，徐晃战韩猛，史涣焚车，韩猛败走。",
+          "selection": "card3+bio2",
+          "selection_reason": "断粮玩法最直接证据；人与火的分工清楚。",
+          "misreading_to_avoid": "韩猛未被斩；不把乌巢曹操主战搬给徐晃。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 76,
+          "chronology_key": "076-e",
+          "title": "沔水绕后破连营",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "以副将旗号诱关平出战，自率五百精兵绕沔水取偃城，继破联营。",
+          "selection": "card4+bio3",
+          "selection_reason": "成熟的稳步拆线，不只是对关羽拼武力。",
+          "misreading_to_avoid": "关羽有箭伤；不把交锋写成徐晃无条件武力碾压健康关羽。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 76,
+          "chronology_key": "076-f",
+          "title": "与关羽对阵",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "叙旧后各为其主交战。",
+          "selection": "alternate",
+          "selection_reason": "经典但会变成另一张正面单挑，本卡改抓拆防线核心。",
+          "misreading_to_avoid": ""
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "箕关护行",
+          "camera": "地面稍低的侧前机位，斧横在身前",
+          "action": "骑马收斧护住身后车驾，动作停在胜后戒备",
+          "environment": "荒路、简陋车驾与关隘；不豪华巡幸",
+          "myth_growth": "岩壁上一笔独角兽影",
+          "structure_check": "长斧中后段握持，斧面离车轴与马腿有间隙",
+          "must_retain": "宽肩同脸、质朴黑铁甲",
+          "must_not_inherit": "不画魏王旌旗或皇帝给斧加持",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "夜别旧营",
+          "camera": "眼平三分之二正面，站姿",
+          "action": "出帐回首，斧垂低侧，满宠在前带路",
+          "environment": "烛光从帐口照一半脸，数十骑在暗处候行",
+          "myth_growth": "半身玄獬随着帐布影折出",
+          "structure_check": "单手垂斧需手靠重心且刃不悬远；可双手接握",
+          "must_retain": "拒杀旧主的节制表情",
+          "must_not_inherit": "不是刺杀夜行者，不画血淋淋投名状",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "d",
+          "title": "截断粮道",
+          "camera": "路面低机位，横向斧轴占构图",
+          "action": "稳坐马上挡韩猛，斧横劈前蓄力，后方史涣焚车",
+          "environment": "山谷粮车横列、火局限木车；逃兵远景",
+          "myth_growth": "完整玄獬低头横断路面，角与斧势呼应",
+          "structure_check": "双手有间距，杆不弯；火在后不能照亮所有布面成金属",
+          "must_retain": "粗斧宽面、灰白袍边、辎重用途明确",
+          "must_not_inherit": "不画斩韩猛首级，不冒称火神攻击",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "e",
+          "title": "沔水拆垒",
+          "camera": "河滩斜上俯看近全身，主角大但保地图空间",
+          "action": "下马踏浅滩持斧指进路，精兵从侧后营门穿过",
+          "environment": "河岸、鹿角寨柵与断开的营线有前后层次",
+          "myth_growth": "巨玄獬压在被截断的营线外侧，实体战场仍占大半",
+          "structure_check": "斧头有重量，脚涉水深度一致；鹿角不能穿兵",
+          "must_retain": "沉稳统帅、战术与斧的双重辨识",
+          "must_not_inherit": "不把吴军取荆州算他独功；不强画万人大阵",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "不以弑主换新途",
+          "camera": "横幅帐内二人对坐，主角脸最清",
+          "action": "满宠劝说，徐晃伸手拒绝杀旧主之议，斧倚架清楚",
+          "target_connection": "青铜卡夜离旧营正承这一原则选择",
+          "first_person_line_original": "择主，我可以走；杀旧主邀功，我不做。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "烛台/手掌/斧架分层；不把双方画成拔刀争执",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "xuhuang_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "d",
+          "title": "细作与粮车",
+          "camera": "横幅营内侧视，史涣带细作在后，徐晃面向曹操",
+          "action": "徐晃报告粮运线，荀攸示意可截；次要道具为无字简图",
+          "target_connection": "银卡截粮的真实情报和命令前因，不虚构徐晃自创全部计策",
+          "first_person_line_original": "粮车必经此路。我去拦住前头，叫他补不上来。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "四人主次清楚；简图不含伪文；不将曹操与荀攸糊掉",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "xuhuang_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "e",
+          "title": "借旗绕沔水",
+          "camera": "横幅双层道路景，前景徐晃与两副将",
+          "action": "徐晃把显眼旗号交徐商、吕建，自己率少数精兵沿岸隐进",
+          "target_connection": "直连黄金绕后拆营；同战役的调度与结果分镜",
+          "first_person_line_original": "旗号留在正面。我从水边过去，把那几座营接开的地方截住。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "旗杆长直且交接只两双手；两路兵不能错画成互相逃亡",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuhuang_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "xuhuang_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "斧击一个敌人并使其能量恢复速率短时降低；资源轴只选能量。",
+        "active": {
+          "skill_id": "xuhuang_a1",
+          "name": "断辎重斩",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "斧击一个敌人并使其能量恢复速率短时降低；资源轴只选能量。",
+          "extra_effect": "无额外减疗、降攻速或偷能；三星只可把同一抑制施及紧邻一敌，范围待测。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "xuhuang_p1",
+            "name": "重斧",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "普通攻击伤害提高",
+            "trigger": "普攻命中",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuhuang_p2",
+            "name": "截脉",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "能量恢复抑制的持续时间提高",
+            "trigger": "主动抑制生效",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuhuang_p3",
+            "name": "稳进",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "攻击被本技能抑制的敌人时自身受伤降低",
+            "trigger": "与受抑制者交战时",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuhuang_p4",
+            "name": "断援",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "主动的能量恢复抑制幅度提高",
+            "trigger": "主动抑制生效",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "xuhuang_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "xuhuang_p1",
+              "xuhuang_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "xuhuang_p1",
+              "xuhuang_p2",
+              "xuhuang_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "xuhuang_p1",
+              "xuhuang_p2",
+              "xuhuang_p3",
+              "xuhuang_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "caocao",
+      "name": "曹操",
+      "faction": "wei",
+      "core_personality": "敢在危局中押注，也能借人才与军令把局势转为主动；雄心与失误同时保留。",
+      "myth_symbol_proposal": {
+        "name": "玄纹螣蛇",
+        "origin": "原创神话方案；曹操《龟虽寿》有螣蛇乘雾的文学意象，不是演义自带召唤兽",
+        "literary_source": "https://zh.wikisource.org/zh-hant/龜雖壽",
+        "reason": "轻翼、蛇躯与旗令曲线对应迂回调度；避免再做一条刘备/关羽换色龙。",
+        "growth": "刀鞘蛇纹→旗影小翼→完整螣蛇绕军令→江雾中大翼而短盘，绝不细蛇盘满天空"
+      },
+      "differentiation": "魏阵营的统帅反攻。黑红袍、短壮骨架、审视目光与军令；与刘备群体治疗、孙权资源取舍、董卓压榨厚体都分开。",
+      "identity": {
+        "face": "原创：较宽短脸、深眼窝、上扬眉尾、短密髯；细笑与警觉能共存，不靠白脸油彩表现奸雄。",
+        "hair": "束髻窄冠，早期髭短，后期髯逐渐浓但同一发际线。",
+        "body": "中等身高而结实，衣袍下有军旅体态，不拔高成吕布。",
+        "clothes": "墨黑与沉赭红主色，少量暗铜边；蓝只徽章与结饰背面。高阶是更整饬、厚重的织物和护肩，不满身黄金。",
+        "weapons_fact": "第4回七星宝刀长尺余、七宝嵌饰；第48回横槊。两者是不同事件实物，不能强行全生涯同刀。",
+        "weapons_design": "统一识别靠冠、脸和袍扣；普通佩剑用原创朴素汉式直剑，不在未核阶段命为倚天；第48回长槊依长杆结构设计。",
+        "mount_fact": "第4回借试董卓所赐马脱身；本次所选各段无统一专属马名。",
+        "mount_design": "早期普通栗马，官渡选黑褐军马；船上黄金不画马。",
+        "reference_version": "WEI-CC-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL官网标准曹操页，2026-10-18检索正文核验",
+        "url": "https://www.sanguosha.com/hero/15",
+        "verified": "奸雄受伤后可取得造成伤害的牌，护驾借同势力响应。",
+        "use": "仅取承压后反攻与统御思路；不把受伤抽牌或全场牌效照搬，不把生平栏当小说章回。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 4,
+          "chronology_key": "004-a",
+          "title": "献刀脱险",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "借王允七星宝刀刺董卓，被镜中发现，改称献刀，借试马脱身。",
+          "selection": "card1",
+          "selection_reason": "机变与胆识起点，非一出场就帝王。",
+          "misreading_to_avoid": "行刺未成功，不画董卓已死。"
+        },
+        {
+          "event_id": "b",
+          "chapter": 4,
+          "chronology_key": "004-b",
+          "title": "误杀吕伯奢一家",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "逃亡途中猜疑杀人，随后故意杀吕伯奢。",
+          "selection": "rejected_with_disclosure",
+          "selection_reason": "保留人物复杂性，但不把杀无辜作升级奖励。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 5,
+          "chronology_key": "005-c",
+          "title": "陈留募义",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "卫弘资助，曹操散资招募，建立军队。",
+          "selection": "card2+bio1",
+          "selection_reason": "由个人冒险转向组织力量，铜卡直接承接。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "d",
+          "chapter": 14,
+          "chronology_key": "014-d",
+          "title": "迎奉天子移许",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "经荀彧、董昭等建议，护驾并掌握大权。",
+          "selection": "alternate",
+          "selection_reason": "政治代表性强，但本四阶保留官渡和横槊的军事/文学轮廓。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "e",
+          "chapter": 30,
+          "chronology_key": "030-e",
+          "title": "纳许攸夜袭乌巢",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "粮困中跣足迎许攸，听劫粮计，安排守营后亲率五千夜行。",
+          "selection": "card3+bio2",
+          "selection_reason": "接受情报并承担风险，反攻核心最清楚。",
+          "misreading_to_avoid": "乌巢非郭嘉献计；不可吞掉许攸与其他谋士功劳。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 30,
+          "chronology_key": "030-f",
+          "title": "焚烧通袁书信",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "获胜后烧掉军中与袁绍暗通书信。",
+          "selection": "alternate",
+          "selection_reason": "表现容人可作替换传记，但本次要与乌巢卡直接相连。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "g",
+          "chapter": 48,
+          "chronology_key": "048-g",
+          "title": "江上横槊赋诗",
+          "source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "大船宴诸将、饮酒、横槊作歌；随后酒怒杀刘馥，醒后悔。",
+          "selection": "card4+bio3",
+          "selection_reason": "雄心与诗人气质达顶点，最高阶不是称帝。",
+          "misreading_to_avoid": "需说明赤壁战前且此后败北；不能描绘已统一江南，刘馥之死不作为荣耀。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "献刀瞬变",
+          "camera": "紧凑近中景，曹操三分之二侧脸，镜子只在侧后",
+          "action": "刚将刺势改为双手献刀，眼神在刀与门外之间转换",
+          "environment": "董卓小阁、卧榻、衣镜和帘门，木地真实",
+          "myth_growth": "刀鞘边一线蛇翼纹暗示，未实体化",
+          "structure_check": "两手托短刀非长剑，刃向远离手掌，镜像角度能见拔刀",
+          "must_retain": "短髯、机警、黑赭简袍",
+          "must_not_inherit": "不把七星宝刀画成长柄大刀；不画董卓死伤",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "陈留举义",
+          "camera": "略低全身，站在土台一侧",
+          "action": "一手扶佩剑鞘，一手展臂受将士响应",
+          "environment": "村营招募、装备与粮车正在入场；白招兵旗文字后置",
+          "myth_growth": "一段小翼螣蛇藏在旗影中",
+          "structure_check": "剑未出鞘，手势舒展但肩肘真实；旗不穿身体",
+          "must_retain": "黑红袍开始有军甲，普通营地",
+          "must_not_inherit": "不画称帝祭天或十八路已全奉他为盟主",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "e",
+          "title": "乌巢决进",
+          "camera": "马侧前中景，视角稍低而不仰成天神",
+          "action": "亲率夜行队伍，垂剑指前路，身体前倾",
+          "environment": "官渡外野道，军士负草薪、旗号伪装，远处粮屯微光",
+          "myth_growth": "完整螣蛇贴近夜雾低行，翼不遮兵",
+          "structure_check": "剑与缰各手明晰，马步与后军同向",
+          "must_retain": "有风险的果断，非狂笑",
+          "must_not_inherit": "不把许攸画前线武将；不把所有衣物涂金火光",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "g",
+          "title": "横槊江天",
+          "camera": "甲板稍低机位，半身至膝，江面留开阔负空间",
+          "action": "长槊横持在身前，一手靠近重心，另一手托后段；酒已放下",
+          "environment": "大船真实栏杆、远水寨月光与层叠灯火",
+          "myth_growth": "大翼螣蛇沿江雾展开，短盘实体体段连贯",
+          "structure_check": "长槊双手受力，甲板足距稳；不能一手同时托酒又横长槊",
+          "must_retain": "成熟深髯、黑红厚袍、昂扬中带思虑",
+          "must_not_inherit": "不画龙袍帝冠；不称赤壁凯旋，不使用已割短须的后期造型",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "招募有人应",
+          "camera": "横幅堂屋到院落纵深，卫弘近景，曹操起身",
+          "action": "卫弘表示资助，门外首批将士与衣甲车可见，曹操拱手受助",
+          "target_connection": "青铜组织力量的直接前因，不跳到多年后的求贤令",
+          "first_person_line_original": "我一人能做的有限。这面旗竖起来，就要让愿意同行的人有处可来。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "主角手礼清楚；金帛不变成金粉，不虚构卫弘称臣",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "caocao_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "e",
+          "title": "跣足迎故友",
+          "camera": "横幅帐门，近景赤足曹操向许攸迎出",
+          "action": "衣未整、履留帐内；许攸持书，后方参谋欲随",
+          "target_connection": "直接解释银卡决进乌巢的情报和决断",
+          "first_person_line_original": "粮已将尽，我不能再等。子远既来，便请把破局之策说透。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "脚趾地面接触真实；两人握手不能多指；保留许攸身份",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "caocao_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "g",
+          "title": "置酒会诸将",
+          "camera": "横幅江上甲板斜透视，曹操居前，文武环坐向后递柔",
+          "action": "主角起身取槊，众人停杯看他，江月开阔",
+          "target_connection": "同场宴会到横槊的直接过场；不伪造战后加冕",
+          "first_person_line_original": "走到这江边，我仍有未竟之事。今夜举杯，明日再看天下。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "取槊与持酒不同瞬间，栏杆与船体透视一致",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "caocao_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "caocao_card_4",
+          "event_source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "己方受敌方命中可取得少量军令筹（有严格上限）；主动消耗军令筹，强化指定一名友军的下一次普通攻击。",
+        "active": {
+          "skill_id": "caocao_a1",
+          "name": "令下反攻",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "己方受敌方命中可取得少量军令筹（有严格上限）；主动消耗军令筹，强化指定一名友军的下一次普通攻击。",
+          "extra_effect": "不加治疗/复活/全队无敌；一至四星只完善军令筹与一次反击。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "caocao_p1",
+            "name": "应势",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "己方受到敌方命中时获得一枚军令筹",
+            "trigger": "同次攻击仅计一次，防多段刷筹",
+            "target": "自身军令资源",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "caocao_p2",
+            "name": "令威",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "军令强化的下一次普攻伤害提高",
+            "trigger": "友军消耗军令强化",
+            "target": "该友军下一次普攻",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "caocao_p3",
+            "name": "远御",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "主动可选择友军的距离提高",
+            "trigger": "选择目标时",
+            "target": "友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "caocao_p4",
+            "name": "雄略",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "军令筹储存上限提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "caocao_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "caocao_p1",
+              "caocao_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "caocao_p1",
+              "caocao_p2",
+              "caocao_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "caocao_p1",
+              "caocao_p2",
+              "caocao_p3",
+              "caocao_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "xunyu",
+      "name": "荀彧",
+      "faction": "wei",
+      "core_personality": "先立根本，保持军政运转；助人成局，但不因此失去自己的原则。",
+      "myth_symbol_proposal": {
+        "name": "玉衡玄鹿",
+        "origin": "原创象征，玄鹿并非原著配兽；玉衡只作平衡与秩序意象，不赋天文史实",
+        "reason": "洁净角枝像有序分支，书卷与补给路同构，区别诸葛亮星雷与刘备黄龙治疗。",
+        "growth": "角枝细影→肩后小鹿→与粮册相连的全鹿→大鹿守住后方城门"
+      },
+      "differentiation": "魏方的稳定补能支援。象牙白、深紫衣袍和整洁文书；只向一人补充能量，不变群体大治疗或郭嘉风险触发。",
+      "identity": {
+        "face": "原创：清瘦长椭圆脸、平直眉、温和而坚定的眼，整齐短须；不照搬任何三国杀立绘。",
+        "hair": "整齐束髻与简冠，鬓发平顺，后期略添霜色但不突然老化。",
+        "body": "中高修长、肩背直，非病弱摇晃型。",
+        "clothes": "象牙白与深紫主色、灰黑履；早期素衣，中阶礼冠与宽袖层次，高阶更整洁而非变战甲。蓝限小绶带。",
+        "weapons_fact": "所选核心事件以议策、守城、书信为主，未提供专属神兵依据。",
+        "weapons_design": "主道具为简册、书札、笔与军政印；普通佩剑仅防身可省，不画羽扇雷杖。",
+        "mount_fact": "本线不要求专属坐骑。",
+        "mount_design": "城门与书案多徒步；有出行才用普通温顺栗马。",
+        "reference_version": "WEI-XY-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL2016火包荀彧攻略",
+        "url": "https://www.sanguosha.com/news/20161026_1315_1511",
+        "verified": "节命偏高效补牌，驱虎涉及拼点与借势。",
+        "use": "本项目主选稳态资源调配，与贾诩/貂蝉借敌互伤分开；不把驱虎直搬到本技能。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 10,
+          "chronology_key": "010-a",
+          "title": "弃袁投曹荐才",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "与荀攸同投，被比为子房；荐程昱，并经程昱提醒举郭嘉。",
+          "selection": "card1",
+          "selection_reason": "识人与择主起点。",
+          "misreading_to_avoid": "不把荀攸当无名侍童；推荐链不全归荀彧独自想出。"
+        },
+        {
+          "event_id": "b",
+          "chapter": 11,
+          "chronology_key": "011-b",
+          "title": "保全三城",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "与程昱设法守住鄄城、东阿、范县，其余多失。",
+          "selection": "card2+bio1",
+          "selection_reason": "显示根本仍在的组织价值。",
+          "misreading_to_avoid": "本章概述保三城，具体调粮/登城动作是合理原创镜头，不冒称原文详记。"
+        },
+        {
+          "event_id": "c",
+          "chapter": 12,
+          "chronology_key": "012-c",
+          "title": "深根固本劝复兖州",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "劝曹操勿舍兖州攻徐州，建议先解决立足与粮食。",
+          "selection": "alternate",
+          "selection_reason": "核心人格很好，作为青铜解释和备用，避免两阶都站同一兖州城。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "d",
+          "chapter": 14,
+          "chronology_key": "014-d",
+          "title": "迎奉天子",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "建议奉天子以从众望；后为侍中尚书令。",
+          "selection": "card3+bio2",
+          "selection_reason": "军政规模上升，银卡体现制度与组织。",
+          "misreading_to_avoid": "迎驾多人参与，董昭有迁许策，不全归荀彧。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 30,
+          "chronology_key": "030-e",
+          "title": "书定官渡之疑",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "曹操粮乏欲退，荀彧来书劝守待变；后又接催粮要求。",
+          "selection": "card4+bio3",
+          "selection_reason": "用后方判断稳住前线，黄金成熟非武力化。",
+          "misreading_to_avoid": "不可把徐晃焚粮或许攸乌巢计归荀彧。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 61,
+          "chronology_key": "061-f",
+          "title": "晚年政治分歧与结局",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第061回",
+          "source_class": "candidate_unverified_not_for_production",
+          "verified_on": null,
+          "evidence": "此段仅列后续待核的人物边界。",
+          "selection": "rejected_unverified_detail",
+          "selection_reason": "未逐段核验，不作本轮可生产场景；黄金截取官渡，不把死亡自动写成升华。",
+          "misreading_to_avoid": ""
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "颍川入幕",
+          "camera": "正面稍侧半身，目光朝听者",
+          "action": "捧简与曹操论才，桌面简洁",
+          "environment": "兖州普通军帐、卷起竹帘",
+          "myth_growth": "角枝小影落在布帘，不发光粉",
+          "structure_check": "宽袖下双手各有清楚腕位，简册重量由掌托住",
+          "must_retain": "清瘦同脸、端整素衣",
+          "must_not_inherit": "无诸葛羽扇、星斗法阵",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "b",
+          "title": "三城固本",
+          "camera": "城门里向外看，中全身偏右",
+          "action": "站在门内接续文书与粮车放行次序，程昱在后侧",
+          "environment": "未破城门、避难人群与守卒有序，敌烟远景",
+          "myth_growth": "玄鹿半身站在门影内，角枝护住门楣",
+          "structure_check": "人车有通道，文书不穿袖，城门比例真实",
+          "must_retain": "组织秩序与坚定目光",
+          "must_not_inherit": "不画荀彧一人击退吕布，非满城光罩",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "d",
+          "title": "奉汉立制",
+          "camera": "略高侧面中景，冠服轮廓干净",
+          "action": "立在简朴殿阶旁持笏，转身向待命文吏交代",
+          "environment": "初修宫室的木架与砖台，汉廷礼制场景",
+          "myth_growth": "完整玄鹿沿阶影显形，角不过分刺状",
+          "structure_check": "笏由掌指托持，不当剑；阶上落脚清晰",
+          "must_retain": "象牙白深紫，官服进阶",
+          "must_not_inherit": "不画曹操皇帝冠；魏徽只独立UI",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "e",
+          "title": "官渡后援",
+          "camera": "书案侧后看清正脸，半身近景",
+          "action": "落笔封住给曹操的回书，另一手按住简册",
+          "environment": "许都灯下，粮册与出发使者在门外深景",
+          "myth_growth": "巨鹿在窗外城门方向显形，角枝像有序道路",
+          "structure_check": "笔尖确实接纸；另一手压卷不遮文本；纸字不烧图",
+          "must_retain": "成熟但平和、笔与书信焦点",
+          "must_not_inherit": "不把他放在乌巢火场、不做法师发射治疗光",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "b",
+          "title": "只留三城不失",
+          "camera": "横幅城门议事，荀彧前景，程昱侧前",
+          "action": "两人对着城防/粮册安排接应，门外难民入城；具体调度为原创",
+          "target_connection": "青铜城门守成的合作背景，明确与程昱共同维持",
+          "first_person_line_original": "只要根本还在，就有再来的余地。这三处，不能再失。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "城池示意无字；不三座城缩成漂浮模型",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "xunyu_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "d",
+          "title": "奉迎之议",
+          "camera": "横幅曹营，荀彧立言，曹操听，其他谋士稍远",
+          "action": "以当前汉廷困局提出迎奉天子的方向，案上使者书",
+          "target_connection": "银卡的任职/制度舞台由这条主张导入",
+          "first_person_line_original": "天下还在望着朝廷。此时迎奉天子，才有可共守的名义。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "人物手势不要全指天；汉帝不被画成成人武将",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "xunyu_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "e",
+          "title": "一封不退的信",
+          "camera": "横幅许都案边，疲惫信使立旁",
+          "action": "荀彧读来书后写回，粮册旁预备出发人员；前线只由信函交代",
+          "target_connection": "同回同一封书，卡面是完成书信的个人状态",
+          "first_person_line_original": "此刻若退，便把转机让给了对手。请再守住这一阵。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "信使与书案高度自然，纸简卷轴不可互熔",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xunyu_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "xunyu_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "为选定一名友军补充能量；默认优先能量缺口大的友军，目标明确。",
+        "active": {
+          "skill_id": "xunyu_a1",
+          "name": "持衡济军",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "为选定一名友军补充能量；默认优先能量缺口大的友军，目标明确。",
+          "extra_effect": "一至四星不附加群疗或借刀互伤；只改善补给效率与可及范围。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "xunyu_p1",
+            "name": "济用",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "主动补充的能量量提高",
+            "trigger": "主动命中友军",
+            "target": "该友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xunyu_p2",
+            "name": "节用",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "主动冷却缩短",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xunyu_p3",
+            "name": "广援",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "主动施放距离提高",
+            "trigger": "选择目标时",
+            "target": "友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xunyu_p4",
+            "name": "固本",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "自身最大生命提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "xunyu_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "xunyu_p1",
+              "xunyu_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "xunyu_p1",
+              "xunyu_p2",
+              "xunyu_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "xunyu_p1",
+              "xunyu_p2",
+              "xunyu_p3",
+              "xunyu_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "guojia",
+      "name": "郭嘉",
+      "faction": "wei",
+      "core_personality": "从人心与局势的破绽里抢先一步，敢提出有风险但有理由的判断。",
+      "myth_symbol_proposal": {
+        "name": "烛影玄鸦",
+        "origin": "原创神话意象；预判来自谋略，不宣称原著有通灵预言能力",
+        "reason": "一只凝视而不聒噪的夜鸦，灯影与迟发反馈对应料敌；与曹操翼蛇、诸葛星雷、庞统火凤区分。",
+        "growth": "烛影羽缘→一翼投影→完整玄鸦→巨鸦在窗外夜色中收翼，非尸魂复活"
+      },
+      "differentiation": "条件触发的反制谋士：先标记敌人，待其下一次施技后留下反制伤害。与荀彧直接补能、诸葛亮主动控场不同。",
+      "identity": {
+        "face": "原创：年轻清瘦、较窄下颌、细眉、稍深眼窝，目光锋利；早期不画病容，中后期才加疲色。",
+        "hair": "略松高髻，简簪与几缕鬓发；不披白发仙人造型。",
+        "body": "瘦而端正，不用羸弱病态取悦，不因最后患病失去同一骨相。",
+        "clothes": "墨青灰与暖米白，衣领窄、外袍松，蓝只小结；后期薄披衣，皮肤自然暖灰不尸白。",
+        "weapons_fact": "所选章回为荐才、论势、献计与遗书，未提供专属战斗兵器。",
+        "weapons_design": "短卷、笔、封函、烛台；身边可有普通佩剑但不主握。禁羽扇雷法与血祭武器。",
+        "mount_fact": "第33回明确病卧车中；不以骑马突阵替换这一证据。",
+        "mount_design": "前三阶多文帐，末阶屋内/车中；无神鸟坐骑。",
+        "reference_version": "WEI-GJ-identity-text-v1，待身份样。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL官网标准郭嘉；2018官方攻略交叉核验",
+        "url": "https://www.sanguosha.com/hero/20",
+        "crosscheck_url": "https://www.sanguosha.com/news/20181219_1211_3220",
+        "verified": "天妒取判定牌、遗计在受伤后取得并分配牌，偏风险收益与辅助。",
+        "use": "本项目改成预置反制，不复制卖血补牌；不把早逝设计为鼓励主动伤身。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 10,
+          "chronology_key": "010-a",
+          "title": "受聘论天下",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "经推荐到兖州，共论天下，并荐刘晔。",
+          "selection": "card1",
+          "selection_reason": "把才识与青年气质作为起点。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "b",
+          "chapter": 16,
+          "chronology_key": "016-b",
+          "title": "论不可杀刘备",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "以招贤与天下观感劝曹操留刘备。",
+          "selection": "alternate",
+          "selection_reason": "显示考虑长期代价，但与下一阶十胜论都是议帐，留备用。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "c",
+          "chapter": 18,
+          "chronology_key": "018-c",
+          "title": "十胜十败",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "面对袁绍强盛与慢书，论曹袁优劣，并建议先取吕布。",
+          "selection": "card2+bio1",
+          "selection_reason": "最具人物标识的论势，非泛用占星。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "d",
+          "chapter": 19,
+          "chronology_key": "019-d",
+          "title": "下邳决水献计",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "郭嘉提出破下邳之计，荀彧点出决沂泗，曹操执行。",
+          "selection": "card3+bio2",
+          "selection_reason": "谋略从判断转为可执行城战，空间尺度提升。",
+          "misreading_to_avoid": "不是郭嘉施法造水，也不是其独占全部攻城决策。"
+        },
+        {
+          "event_id": "e",
+          "chapter": 33,
+          "chronology_key": "033-e",
+          "title": "车中轻兵之策",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "不服水土卧病，仍劝去重辎、轻兵兼道，并须向导。",
+          "selection": "bio3前因",
+          "selection_reason": "连到最后留策的状态，不把病中出征画成飞骑。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "f",
+          "chapter": 33,
+          "chronology_key": "033-f",
+          "title": "易州封书遗计",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "被留易州养病，临死封书给左右；后曹操按兵，公孙康与二袁相图。",
+          "selection": "card4+bio3",
+          "selection_reason": "黄金取活着封书时的谋定状态，影响越出个人在场。",
+          "misreading_to_avoid": "绝不画郭嘉死后复活；遗书结局不是本人生前亲到辽东。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "初入谋席",
+          "camera": "眼平近中景，身略朝右，眼看对谈者",
+          "action": "合起短卷听曹操问策，手势小而准",
+          "environment": "兖州军帐，天光从门边入",
+          "myth_growth": "烛影仅似一片羽缘",
+          "structure_check": "卷轴轴端齐整，双手不重叠成多指",
+          "must_retain": "年轻清瘦而精神清醒",
+          "must_not_inherit": "不要一上来咳血/病榻/仙化",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "十胜开局",
+          "camera": "从曹操肩侧看郭嘉，近全身端坐或半起",
+          "action": "在无字简图上点出两军强弱，不摆十个魔法球",
+          "environment": "军帐两组文书形成对比，袁书放在一旁",
+          "myth_growth": "一侧鸦翼投影在帘上展开",
+          "structure_check": "指尖落在图上，不穿桌；人物头部比例成年",
+          "must_retain": "言简而笃定",
+          "must_not_inherit": "不要预言水晶球与浮空电子界面",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "d",
+          "title": "下邳观流",
+          "camera": "城外高地侧前中景，主角居近景一侧",
+          "action": "持短卷观察两河与城地势，另一手示意水向",
+          "environment": "沂泗与下邳城真实地理概念而非精确考古复原",
+          "myth_growth": "完整玄鸦沿高地树影停立，翅不搅水",
+          "structure_check": "坡上站姿稳；河水重力向低处；不让两河悬空环城",
+          "must_retain": "谋士服装在风中有连续大褶",
+          "must_not_inherit": "没有召潮手势或淹百姓的庆祝笑",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "f",
+          "title": "易州遗筹",
+          "camera": "窗侧较高近中景，清楚脸手与封函",
+          "action": "病中坐起封好书，神色疲惫但清明",
+          "environment": "朴素公廨内、薄被、熄短的烛与窗外北地风",
+          "myth_growth": "巨鸦安静收翼立在窗外雾影，光局限羽缘",
+          "structure_check": "坐姿由背垫支撑；双手能握封绳，非躺着悬笔",
+          "must_retain": "同一年轻骨相、自然病色",
+          "must_not_inherit": "不画死亡瞬间、血祭、尸白发光或神兽带其飞升",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "c",
+          "title": "袁书到时",
+          "camera": "横幅两人隔案，曹操放下慢书，郭嘉从旁开论",
+          "action": "主角指出强弱不只在人数，荀彧在后点头",
+          "target_connection": "青铜十胜判断的直接触发背景",
+          "first_person_line_original": "兵多，不等于能用。我看见的胜处，还不止一处。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "桌上文书无伪字，手指不指向虚空十胜UI",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "guojia_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "d",
+          "title": "两河可用",
+          "camera": "横幅地图边到真实河岸的单景：选军帐开帘见远地",
+          "action": "郭嘉提出决水思路，荀彧接话，曹操转向传令者",
+          "target_connection": "同回献计与执行前因；银卡是察势之人，不冒充水神",
+          "first_person_line_original": "城墙未必能守住水势。先看这两条河，怎样经过下邳。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "地图与远河只作对应，不做跨场拼贴；分清郭嘉与荀彧",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "guojia_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "f",
+          "title": "封书托后事",
+          "camera": "横幅近景，郭嘉将封函交可信从人",
+          "action": "从人双手承接，病车的帘或公廨木窗说明北征环境；不出现尸柩",
+          "target_connection": "直接对应黄金封书；轻兵策是同段前因，结果由后续说明而非鬼魂演出",
+          "first_person_line_original": "这封书请交给丞相。有些局，越急着出手，越难分开。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "两双手一封函；病人仍坐稳，烛光不打成浮肿脸",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "guojia_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "guojia_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "给一名敌人布置可见谋记；其下一次主动技能完成后，谋记结算一次术伤并消失。",
+        "active": {
+          "skill_id": "guojia_a1",
+          "name": "审机后发",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "给一名敌人布置可见谋记；其下一次主动技能完成后，谋记结算一次术伤并消失。",
+          "extra_effect": "不取消对方技能、不沉默、不复制技能；一至四星只有一次预置反制。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "guojia_p1",
+            "name": "达识",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "自身术伤提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "guojia_p2",
+            "name": "深谋",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "谋记存在时间延长",
+            "trigger": "施加谋记",
+            "target": "该敌人上的谋记",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "guojia_p3",
+            "name": "远虑",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "主动施放距离提高",
+            "trigger": "选择敌人时",
+            "target": "敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "guojia_p4",
+            "name": "后发",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "谋记触发伤害提高",
+            "trigger": "谋记完成触发",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "guojia_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "guojia_p1",
+              "guojia_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "guojia_p1",
+              "guojia_p2",
+              "guojia_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "guojia_p1",
+              "guojia_p2",
+              "guojia_p3",
+              "guojia_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "dianwei",
+      "name": "典韦",
+      "faction": "wei",
+      "core_personality": "凶悍外貌下是极直接的护主意志；身体可以受伤，守住的门不能轻易让开。",
+      "myth_symbol_proposal": {
+        "name": "上古巨巫祖影",
+        "origin": "依用户要求的纯幻想“上古巫族巨力”设计；不是典韦历史民族、血统、宗教或真实族群身份声明",
+        "reason": "古之恶来的雄异感转为大地巨力、石纹与祖影；不再用虎，避免与许褚和张飞撞形。",
+        "growth": "臂上极少暗纹→身后石面祖影→双戟力场中的半身巨巫→站在门后的巨大祖影；身体始终只有两臂"
+      },
+      "differentiation": "近身护卫与代价承伤，横向宽巨、双铁戟、门形轮廓。许褚是虎痴单体重斩，典韦是把自己钉在护卫位置。",
+      "identity": {
+        "face": "原创：宽额方颌、重眉深眼、短粗须，鼻梁宽硬，凶悍而有人的表情；不套真实族群刻板外貌。",
+        "hair": "原创：短发束结或紧绑小髻，额带厚实，不用猛虎鬃发。",
+        "body": "原著容貌魁梧、勇力过人；本项目夸张为比其他武将高壮一档的巨汉，约2.3米只作可调视觉比例，绝非史籍身高。",
+        "clothes": "土褐、炭黑、旧铜扣与厚皮革，少量石纹护臂；蓝限腰结。最终宛城按原文无甲，不能因黄金自动重装。",
+        "weapons_fact": "第10回双铁戟合叙重八十斤，驭使如飞；第11回另有短戟投掷；第16回双戟被盗，临时取步卒腰刀，刀缺后弃之。",
+        "weapons_design": "两柄独立直柄铁戟，刃与侧枝连接可信，长度依骑步可操作；短戟和长戟不能混成同一尺寸。黄金画缺口步刀或弃刀后空手，不让失盗双戟回来。",
+        "mount_fact": "第10回获赐骏马雕鞍，未给专属名；第16回守门在步战。",
+        "mount_design": "前中阶普通壮马能承体型；最终不骑马。",
+        "reference_version": "WEI-DW-identity-text-v1，待身份样；巫族只限幻想设定。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL2016火包典韦攻略",
+        "url": "https://www.sanguosha.com/news/20161026_1535_1311",
+        "verified": "强袭以武器或体力为代价换近距离伤害；只取机制概念。",
+        "use": "本项目选护主承担代价，非复制游戏规则；官方文章的史料/小说混叙不作为原著证据。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 10,
+          "chronology_key": "010-a",
+          "title": "逐鹿过涧",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "夏侯惇说打猎时见典韦逐鹿过涧，收于军中。",
+          "selection": "card1",
+          "selection_reason": "未入曹营的巨力起点，最直接避开虎意象。",
+          "misreading_to_avoid": "原文是逐鹿，不是逐虎。"
+        },
+        {
+          "event_id": "b",
+          "chapter": 10,
+          "chronology_key": "010-b",
+          "title": "风中执旗受用",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "演双铁戟，一手扶定众军难持的大旗，被赞古之恶来，任帐前都尉。",
+          "selection": "card2+bio1",
+          "selection_reason": "巨力被看见且获得明确职责。",
+          "misreading_to_avoid": "古之恶来是人物比拟，巫族设计是原创，二者不可混成史实。"
+        },
+        {
+          "event_id": "c",
+          "chapter": 11,
+          "chronology_key": "011-c",
+          "title": "五步飞戟救曹",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "下马取短戟，等敌近至五步连续投掷，再上马持双铁戟救曹。",
+          "selection": "card3+bio2",
+          "selection_reason": "精准控制巨力，非单纯越画越大。",
+          "misreading_to_avoid": "短戟为多个投掷物；不能把双长戟同时飞出去再凭空回来。"
+        },
+        {
+          "event_id": "d",
+          "chapter": 12,
+          "chronology_key": "012-d",
+          "title": "濮阳往复寻主",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "已出围又数次返回火中找曹操。",
+          "selection": "alternate",
+          "selection_reason": "同样护主但火中救人与最终宛城视觉太近，留备用。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "e",
+          "chapter": 16,
+          "chronology_key": "016-e",
+          "title": "失戟守宛城门",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "醉卧遭盗戟，惊醒取步卒腰刀，无甲守门，刀缺后仍战，最终死于乱军。",
+          "selection": "card4+bio3",
+          "selection_reason": "职责至极的最终形象；黄金是精神与神话显现，不改结局。",
+          "misreading_to_avoid": "不画复活或战后荣归；不画双戟重新在手；不靠碎尸强化凶猛。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "山涧巨影",
+          "camera": "低位远中景，人物全身与溪石有比例参照",
+          "action": "跨过浅涧追鹿，手臂前后摆，目标鹿在远处坡上",
+          "environment": "真实林地、湿石、树根；鹿不是被残杀特写",
+          "myth_growth": "皮肤与岩壁间仅两条暗石纹",
+          "structure_check": "落脚石面、腾身重心与另一脚有合理轨迹；无六臂",
+          "must_retain": "魁梧凶脸、简皮束、自然皮肤",
+          "must_not_inherit": "不是追虎，不用兽头兜帽抢许褚",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "b",
+          "title": "一手定大旗",
+          "camera": "略低全身，巨大旗杆竖直，主角偏侧",
+          "action": "双足张稳，一手在合理高度压住旗杆，另一手空闲平衡",
+          "environment": "曹营风大，军士退开，旗底扎在坚实地面",
+          "myth_growth": "半尊石面祖影与背部相合，几乎不发光",
+          "structure_check": "旗有地面支点；手臂不反折；风力方向与旗褶一致",
+          "must_retain": "短粗须、厚臂、土黑衣甲",
+          "must_not_inherit": "不凭单手举整支无支点巨旗；不把祖影生出额外实手",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "c",
+          "title": "五步掷锋",
+          "camera": "侧前低机位中全身，步战，肩向前旋",
+          "action": "一手刚投出一枚短戟，另一手握其余短戟束；双长戟已插在身后",
+          "environment": "荒路箭矢稀疏有方向、曹操退于后景",
+          "myth_growth": "半身巨巫影沿肩背伸展，石纹只沿受力肌群",
+          "structure_check": "投掷手腕跟随肩肘；剩余短戟数清楚；长戟直插有支点",
+          "must_retain": "精准狠劲而非乱挥",
+          "must_not_inherit": "不可同时双长戟在手；不让箭矢穿脸却无伤",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "e",
+          "title": "宛门不退",
+          "camera": "门外低机位，人物胸肩占强轮廓，门后留逃路",
+          "action": "无甲，紧握已缺口的步刀横挡，伤处非血腥，双脚仍稳",
+          "environment": "宛城营门、局部燃烧草车，曹操退路从门后延伸",
+          "myth_growth": "巨大祖影立在门后，轮廓似一扇不能推开的石门",
+          "structure_check": "短刀按短柄受力，肌肉不乱长；门框与肩不粘连",
+          "must_retain": "凶悍人脸、无甲、缺刀、两臂",
+          "must_not_inherit": "无双铁戟，无战后凯旋，无尸体当兵器特写、无满屏金粉",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "b",
+          "title": "夏侯引荐",
+          "camera": "横幅曹营阅武场，夏侯惇侧前，典韦近景",
+          "action": "典韦演戟后回身看将倒的大旗，曹操正在观察",
+          "target_connection": "青铜定旗动作的直接前因，强调被任用于帐前",
+          "first_person_line_original": "这旗若倒了，我便扶住。既站在帐前，就不叫人轻易过去。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "双戟尚未扶旗时分置地面架上，避免同手三物",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "dianwei_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "c",
+          "title": "再近五步",
+          "camera": "横幅从典韦肩后望敌骑，随从在近侧报距离",
+          "action": "典韦把长戟插地，掌中分好短戟，等敌人近",
+          "target_connection": "直接承银卡掷锋前一瞬；不是跨年英雄合集",
+          "first_person_line_original": "再近些。我的手里，每一枝都要落在该落的地方。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "长短戟尺寸明显；敌我距离需可读，非两张脸贴近",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "dianwei_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "e",
+          "title": "找不到双戟之后",
+          "camera": "横幅营帐到门口纵深，典韦由暗走向火光",
+          "action": "空兵器架在后，主角从步卒手边取腰刀，门外敌影逼近",
+          "target_connection": "传记讲失去惯用兵器仍守门，黄金卡接上实际步刀状态",
+          "first_person_line_original": "戟不在，门还在。我在这里，便让他们从后面走。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "取刀与转身分一个清楚动作；不把盗戟胡车儿画成帮手",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "dianwei_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "dianwei_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "指定近旁一名友军，替其承受下一次来袭的一部分伤害；典韦在原地护住该方向。",
+        "active": {
+          "skill_id": "dianwei_a1",
+          "name": "恶来拒关",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "指定近旁一名友军，替其承受下一次来袭的一部分伤害；典韦在原地护住该方向。",
+          "extra_effect": "三星起：完成一次代承后向攻击者作一次近距离戟击；没有攻击者在范围内则不追击。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "dianwei_p1",
+            "name": "巨躯",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "最大生命提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "dianwei_p2",
+            "name": "固骨",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "承接给自己的伤害降低",
+            "trigger": "代承伤害结算",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "dianwei_p3",
+            "name": "卫距",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "可护卫友军的选择距离提高",
+            "trigger": "施放主动",
+            "target": "友军",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "dianwei_p4",
+            "name": "拒关",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "护卫期间自身受到的击退距离减少",
+            "trigger": "护卫状态遭击退",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "dianwei_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "dianwei_p1",
+              "dianwei_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "dianwei_p1",
+              "dianwei_p2",
+              "dianwei_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "dianwei_p1",
+              "dianwei_p2",
+              "dianwei_p3",
+              "dianwei_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    },
+    {
+      "hero_id": "xuchu",
+      "name": "许褚",
+      "faction": "wei",
+      "core_personality": "凶烈、朴直、力大到让人不敢靠近，认定敌人便当面硬撼。",
+      "myth_symbol_proposal": {
+        "name": "白额厚鬃重虎",
+        "origin": "依据虎痴/虎侯称呼作原创神话设计，不是原著实有虎兽",
+        "reason": "黄褐白额、粗颈阔胸、低伏贴身的重虎，强调肌肉重击；张飞的虎以断喝远震和拦截控制为主。",
+        "growth": "地上虎爪影→肩后低伏虎首→与身体并行全虎→巨虎从身后低位扑出；不用张飞竖立咆哮构图"
+      },
+      "differentiation": "必须保持“虎痴”的凶悍辨识。单体重击、脱甲搏战、极宽腰背；不能圆脸憨笑，不做张飞高当前生命压线和群控。",
+      "identity": {
+        "face": "原文第59回有圆睁怪眼、目射神光的英雄化描写；原创落实为重眉深瞳、阔鼻方口、短硬鬓须，咬牙非滑稽怒吼。",
+        "hair": "原创：短乱硬发束紧，后颈厚，和张飞蓬张虎须黑红轮廓区别。",
+        "body": "第12回身长八尺、腰大十围是小说夸张，不换算精确公制；原创宽腰、厚胸、肩臂极壮，非肥胖喜剧体型。",
+        "clothes": "黄褐、焦棕与铁黑，早期乡勇皮束，归军后肩甲厚但关节可动；黄金裸衣上身，腰胯腿仍有坚实衣甲。蓝只小腰结。",
+        "weapons_fact": "第12回大刀，第59回钢刀及裸衣持刀；与马超争枪时弃刀并拗断枪。",
+        "weapons_design": "宽刃长柄战刀，柄头连接和握持可考；未核“九环象鼻刀”等专名不采用。金卡选择未弃刀前一瞬，避免刀枪断裂结构过多。",
+        "mount_fact": "第59回久战换马，不能把一匹名马当全程不换的设定。",
+        "mount_design": "高大结实深褐军马；传记换马明确，卡片连续性允许该役换乘，不设神虎坐骑。",
+        "reference_version": "WEI-XC-identity-text-v1，待身份样；先做凶悍脸体样再扩量。"
+      },
+      "modern_game_reference": {
+        "version": "三国杀OL官网标准许褚，非界许褚",
+        "url": "https://www.sanguosha.com/hero/19",
+        "verified": "裸衣少摸牌换杀/决斗的伤害提高，强调舍一部分防备的强攻。",
+        "use": "转为可预判、有代价的单次重斩；不使用受伤越久无限成长，也不把游戏现成台词贴图。"
+      },
+      "event_candidates": [
+        {
+          "event_id": "a",
+          "chapter": 12,
+          "chronology_key": "012-a",
+          "title": "葛陂护坞与掣牛",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "自述聚宗族守坞、飞石退寇、双手掣二牛尾倒行百余步。",
+          "selection": "card1",
+          "selection_reason": "先显示保乡的力气，再进入曹营。",
+          "misreading_to_avoid": "这是叙述中的此前事件，排在同回交战归曹之前；小说是双手二牛，不偷换成史籍一手一牛。"
+        },
+        {
+          "event_id": "b",
+          "chapter": 12,
+          "chronology_key": "012-b",
+          "title": "力战典韦受曹",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "多次与典韦战，后落陷坑被擒，曹操释缚厚待，宗族同降任都尉。",
+          "selection": "bio1",
+          "selection_reason": "由乡勇到亲卫的转折。",
+          "misreading_to_avoid": "不是典韦公平单挑轻易打败，陷坑不可省成武力碾压。"
+        },
+        {
+          "event_id": "c",
+          "chapter": 12,
+          "chronology_key": "012-c",
+          "title": "初战斩李封",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "归曹后请战，交马两合斩李封，薛兰另由吕虔射杀。",
+          "selection": "card2",
+          "selection_reason": "铜卡归军后的主动立功，与受用传记同段直接承接。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "d",
+          "chapter": 14,
+          "chronology_key": "014-d",
+          "title": "与徐晃相持",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "刀斧战五十余合不分胜负。",
+          "selection": "alternate",
+          "selection_reason": "证明实力但与前两战重复；不挤压护渡和裸衣。",
+          "misreading_to_avoid": ""
+        },
+        {
+          "event_id": "e",
+          "chapter": 58,
+          "chronology_key": "058-e",
+          "title": "负曹上船举鞍护渡",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "负曹跃船，撑篙举鞍挡箭，舟急旋转。",
+          "selection": "card3+bio2",
+          "selection_reason": "把巨力用在急险救护，给场景强差异。",
+          "misreading_to_avoid": "曹操割须后被马超追时，救者是曹洪；不要把两段救援合成许褚。"
+        },
+        {
+          "event_id": "f",
+          "chapter": 59,
+          "chronology_key": "059-f",
+          "title": "虎侯临阵与裸衣斗超",
+          "source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+          "source_class": "novel_text_verified",
+          "verified_on": "2026-10-18",
+          "evidence": "阵前一瞪使马超不敢突曹，后战二百余合换马脱甲再战，最终两军混战许褚中箭。",
+          "selection": "card4+bio3",
+          "selection_reason": "最强文化辨识，巅峰是力战而非虚构获胜。",
+          "misreading_to_avoid": "不宣称击败马超，不把裸衣画成裸体或虎人变身。"
+        }
+      ],
+      "cards": [
+        {
+          "stage": 1,
+          "event_id": "a",
+          "title": "葛陂压阵",
+          "camera": "低机位中全身，前臂大但脸不失真",
+          "action": "站在坞门外抬起一块可投的石块，身后宗族守门",
+          "environment": "夯土坞墙、耕牛远景和粮袋，清楚乡土",
+          "myth_growth": "脚下仅虎爪影与短尾影",
+          "structure_check": "石块体量可承、手指包握；双脚与地面重心一致",
+          "must_retain": "凶脸厚腰、乡勇服",
+          "must_not_inherit": "不画憨笑胖汉；不靠虐待牛镜头表现力气",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_card_1",
+          "asset_type": "card",
+          "tier": "黑铁",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 2,
+          "event_id": "c",
+          "title": "初刀入军",
+          "camera": "右前低机位，骑马中全身",
+          "action": "刀斩过后回收在身侧，眼仍看前敌，非举头庆功",
+          "environment": "兖州城外、敌阵退后，曹军在远后",
+          "myth_growth": "低伏虎首从马侧影中抬起",
+          "structure_check": "长柄刀回收路径避开马颈；握点近重心，尾杆可见",
+          "must_retain": "黄褐皮束加军甲、圆睁锐目",
+          "must_not_inherit": "不拿薛兰首级冒作李封；无虎头整块面具遮脸",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_card_2",
+          "asset_type": "card",
+          "tier": "青铜",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 3,
+          "event_id": "e",
+          "title": "举鞍渡险",
+          "camera": "船外水面略低向上，人物中全身、可见船舷",
+          "action": "左手举鞍挡箭，右手撑篙，腿站宽稳住船尾；曹操伏近脚侧",
+          "environment": "急流小舟、对岸追兵和箭线，水不是魔法冰河",
+          "myth_growth": "完整重虎贴着船后雾影伏行，绝不实体挤船",
+          "structure_check": "双手各一物、无第三手；篙有水底/支点方向，鞍背朝来箭；简化原文夹舵动作需标动作改编",
+          "must_retain": "强悍护卫脸、肩背肌肉自然",
+          "must_not_inherit": "不把曹操抱在臂上同时撑篙举鞍；不画斩落船边人的血腥细节",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_card_3",
+          "asset_type": "card",
+          "tier": "白银",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        },
+        {
+          "stage": 4,
+          "event_id": "f",
+          "title": "虎痴裸衣",
+          "camera": "左前斜低角度，近全身与马鞍，身向右转",
+          "action": "脱去上身甲后双手重握长柄刀，肩髋同向准备横斩",
+          "environment": "渭水河滩两军圆阵，马超在有距离的次要一侧",
+          "myth_growth": "巨虎粗颈低扑，虎首与许褚错位，白额/黄褐纹清晰",
+          "structure_check": "胸肩非肿胀油亮，双手间距能驱动长刀；刀长不缩水，马匹承重可信",
+          "must_retain": "凶脸、厚腰、裸衣但穿腰甲腿装、重虎",
+          "must_not_inherit": "不做张飞长矛断喝构图；不画马超败伏，不全身蓝甲",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_card_4",
+          "asset_type": "card",
+          "tier": "黄金",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+          "design_class": "原著事件上的原创神话构图与服装提案"
+        }
+      ],
+      "biographies": [
+        {
+          "target_stage": 2,
+          "event_id": "b",
+          "title": "解缚入帐",
+          "camera": "横幅营帐近景，曹操解缚，典韦在侧后",
+          "action": "许褚仍昂首怒目，听清受用后收住敌意；陷坑泥土残在衣角",
+          "target_connection": "直接承归军后初战卡，不让他一夜变精致儒将",
+          "first_person_line_original": "你既肯放开我，我便替你出力。前阵交给我。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "绳解开方向真实；两巨将体型区分：典韦高、许褚阔",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_bio_1",
+          "asset_type": "biography",
+          "target_card_id": "xuchu_card_2",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 3,
+          "event_id": "e",
+          "title": "一跃上舟",
+          "camera": "横幅从船上看岸，许褚背负曹操起跳前一瞬",
+          "action": "船刚离岸，主角脚仍踏岸边、背负曹操；后段举鞍不同时拼进",
+          "target_connection": "白银卡是上船后的护渡，传记先交代两人如何到舟上",
+          "first_person_line_original": "别再坐了！先上船，箭来了有我挡。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "选起跳前避免悬空双人重心；船岸间距清楚，不同时多姿势",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_bio_2",
+          "asset_type": "biography",
+          "target_card_id": "xuchu_card_3",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+          "design_class": "原著关系与转折上的原创镜头"
+        },
+        {
+          "target_stage": 4,
+          "event_id": "f",
+          "title": "卸甲再战",
+          "camera": "横幅军阵边，许褚下马解甲，换上的战马在近旁",
+          "action": "已战久仍不肯退，部卒接甲，主角握刀回看马超",
+          "target_connection": "黄金裸衣不是突然换装，传记明确久战、换马与脱甲",
+          "first_person_line_original": "甲卸了，气还在。再来，这一刀我与你当面分个明白。",
+          "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+          "structure_check": "解甲、接甲各自手明晰；身体不是全裸；两马若出现须一前一后分明",
+          "actual_reference_files": [],
+          "status": "text_brief_ready_identity_sample_pending",
+          "asset_id": "xuchu_bio_3",
+          "asset_type": "biography",
+          "target_card_id": "xuchu_card_4",
+          "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+          "design_class": "原著关系与转折上的原创镜头"
+        }
+      ],
+      "gameplay": {
+        "core_loop": "短暂明示蓄力后，对当前近身单体作一次高伤刀斩；蓄力时自身防御降低，结束即恢复。",
+        "active": {
+          "skill_id": "xuchu_a1",
+          "name": "虎痴重斩",
+          "type": "active",
+          "stages": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "core_effect": "短暂明示蓄力后，对当前近身单体作一次高伤刀斩；蓄力时自身防御降低，结束即恢复。",
+          "extra_effect": "不附加群体眩晕/当前生命比例伤害；一至四星仍是高风险单击。",
+          "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+          "target": "见核心循环",
+          "duration_or_cooldown": "待定，不预填伪精确数值",
+          "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+          "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+          "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+          "status": "original_proposal_not_final"
+        },
+        "passives": [
+          {
+            "skill_id": "xuchu_p1",
+            "name": "蛮力",
+            "type": "passive",
+            "unlocked_at": 1,
+            "core_effect": "攻击力提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuchu_p2",
+            "name": "悍击",
+            "type": "passive",
+            "unlocked_at": 2,
+            "core_effect": "主动重斩伤害提高",
+            "trigger": "主动命中",
+            "target": "该敌人",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuchu_p3",
+            "name": "虎骨",
+            "type": "passive",
+            "unlocked_at": 3,
+            "core_effect": "最大生命提高",
+            "trigger": "常驻",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          },
+          {
+            "skill_id": "xuchu_p4",
+            "name": "凝力",
+            "type": "passive",
+            "unlocked_at": 4,
+            "core_effect": "主动蓄力时间缩短",
+            "trigger": "主动准备时",
+            "target": "自身",
+            "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+            "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+            "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+            "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+            "status": "original_proposal_not_final"
+          }
+        ],
+        "stages": [
+          {
+            "star": 1,
+            "passive_ids": [
+              "xuchu_p1"
+            ],
+            "count": 1
+          },
+          {
+            "star": 2,
+            "passive_ids": [
+              "xuchu_p1",
+              "xuchu_p2"
+            ],
+            "count": 2
+          },
+          {
+            "star": 3,
+            "passive_ids": [
+              "xuchu_p1",
+              "xuchu_p2",
+              "xuchu_p3"
+            ],
+            "count": 3
+          },
+          {
+            "star": 4,
+            "passive_ids": [
+              "xuchu_p1",
+              "xuchu_p2",
+              "xuchu_p3",
+              "xuchu_p4"
+            ],
+            "count": 4
+          }
+        ],
+        "not_final": [
+          "技能拟名",
+          "机制",
+          "星级被动条数方案",
+          "持续/冷却/倍率",
+          "控制与首领豁免"
+        ]
+      },
+      "status": "source_research_ready",
+      "production_status": "not_generated_not_approved",
+      "research_readiness": {
+        "selected_scenes_verified": true,
+        "selected_scenes_count": 7,
+        "identity_sample_required": true,
+        "can_start_identity_sample": true,
+        "can_mass_generate_without_reference": false,
+        "user_final_approval": false
+      },
+      "reference_attachment_requirements": {
+        "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+        "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+        "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+        "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+      }
+    }
+  ]
+}

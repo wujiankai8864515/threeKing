@@ -1,0 +1,38 @@
+{
+  "asset_id": "huangzhong_bio_to_03_v2",
+  "asset": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "4353c04ac822e02015bc8a0ca14ee2d041b40f940a81c8fc69e7bae96b201df8"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银传记-v1-白首请缨候选.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "66d3cf552320487bcc1a4da552264c3f3616e6442118e7bf7f82a996beac79da",
+      "role": "Edit target; remove only central unwanted unfinished arrow shaft, preserve two V string segments"
+    }
+  ],
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-cff39f2a-a750-4ef8-a046-166084960144.png",
+  "generated_with": "builtin image_gen",
+  "candidate_count": 1,
+  "prompt": "prompt-remove-unwanted-arrow.txt",
+  "status": "independent_QA_passed_pending_root_freeze",
+  "qa_native_comparisons_actually_viewed": 6,
+  "qa_evidence": "qa-100pct",
+  "resize_count": 0,
+  "creative_postprocessing": "none",
+  "delivery": "not_uploaded_by_worker",
+  "updated": "2026-10-18T20:28:44.594435+08:00",
+  "independent_QA": "2026-10-18 12:28:45 UTC auditor passed; keep upper bow tip crop limitation documented"
+}

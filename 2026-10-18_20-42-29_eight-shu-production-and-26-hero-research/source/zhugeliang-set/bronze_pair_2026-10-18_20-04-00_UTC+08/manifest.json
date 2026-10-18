@@ -1,0 +1,50 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+    "sha256": "7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6",
+    "size": [
+      1024,
+      1536
+    ],
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+        "role": "Zhuge identity and clean planar painting language",
+        "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+        "role": "Liu Bei identity only; different clothes according to story",
+        "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e"
+      }
+    ],
+    "status": "independent_QA_pass_candidate",
+    "user_final": false,
+    "tool": "builtin imagegen",
+    "prompt_file": "card-prompt.txt"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记-三顾定志-候选1.png",
+    "sha256": "11dc26bf667414cd28b6994704025a2c88d6bfc1712293960b11633bd6c7776f",
+    "size": [
+      1536,
+      1024
+    ],
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+        "role": "Zhuge identity and clean planar painting language",
+        "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+        "role": "Liu Bei identity only; different clothes according to story",
+        "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e"
+      }
+    ],
+    "status": "independent_QA_pass_candidate",
+    "user_final": false,
+    "tool": "builtin imagegen",
+    "prompt_file": "story-prompt.txt"
+  }
+]

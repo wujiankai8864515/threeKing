@@ -1,0 +1,175 @@
+{
+  "kind": "biography",
+  "hero_id": "machao",
+  "target_stage": "silver",
+  "method": "one builtin reference-derived candidate; raw output copied unmodified; no API/upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "role": "approved Ma Chao blackiron original identity, palette, horse, material family; no first-card pose/scene"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "role": "approved Zhang Fei silver only for opponent face/body/black-red identity; exclude old Hulao story/pose/tiger"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记-换马举火-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "edc3f562a6a5114de747979299c1ed547572a454b8508a48ff7771170cc24967"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/biography-prompt.txt",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-face-native100.png",
+      "box": [
+        515,
+        80,
+        680,
+        240
+      ],
+      "scale": "native100% no resize"
+    },
+    "spear-grip": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-spear-grip-native100.png",
+      "box": [
+        360,
+        270,
+        465,
+        380
+      ],
+      "scale": "native100% no resize"
+    },
+    "rein-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-rein-hand-native100.png",
+      "box": [
+        670,
+        425,
+        760,
+        525
+      ],
+      "scale": "native100% no resize"
+    },
+    "full-spear": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-full-spear-native100.png",
+      "box": [
+        350,
+        0,
+        530,
+        965
+      ],
+      "scale": "native100% no resize"
+    },
+    "fresh-horse": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-fresh-horse-native100.png",
+      "box": [
+        685,
+        140,
+        1000,
+        480
+      ],
+      "scale": "native100% no resize"
+    },
+    "old-horse": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-old-horse-native100.png",
+      "box": [
+        50,
+        350,
+        345,
+        795
+      ],
+      "scale": "native100% no resize"
+    },
+    "horse-legs": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-horse-legs-native100.png",
+      "box": [
+        700,
+        650,
+        1010,
+        925
+      ],
+      "scale": "native100% no resize"
+    },
+    "opponent-zhang": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-opponent-zhang-native100.png",
+      "box": [
+        1290,
+        505,
+        1485,
+        815
+      ],
+      "scale": "native100% no resize"
+    },
+    "foreground": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-foreground-native100.png",
+      "box": [
+        300,
+        800,
+        1050,
+        1024
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-cloth-armor-native100.png",
+      "box": [
+        340,
+        215,
+        755,
+        785
+      ],
+      "scale": "native100% no resize"
+    },
+    "wolf": {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/biography-wolf-native100.png",
+      "box": [
+        1100,
+        10,
+        1400,
+        210
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "status": "creator and independent QA passed candidate; root final selection not recorded here",
+  "guide_note": "cyan approximate endpoint line for diagnosis only; never input to generator",
+  "creator_review": {
+    "reviewed_at_UTC08": "2026-10-18 20:10 UTC+08",
+    "full_image_inspected": true,
+    "all_listed_native_crops_inspected": true,
+    "findings": [
+      "完整图及11个原生100%裁区亲查，源1536×1024，未放大、未涂改。",
+      "独立宽幅换马举火瞬间：退役旧马左，新马与马超居前，张飞隔场候战，符合第65回白日未分胜负后换马夜战的直接因果。",
+      "主枪从刃根、左握到落地尾连续单轴，没有Y字双杆；脸、握枪手、牵缰手、两马可见躯干蹄腿无明显硬错。",
+      "主靴/枪尾落地与新马蹄周围地面清楚；最近下沿小石与左角有浅虚焦，不能称全前景零虚焦；待root按非主体边缘规则裁定。",
+      "双马侧后腿存在身体遮挡，不应编造完整四蹄可见。",
+      "布为大分面哑光，马身为褐色大块转折、鬃毛成束，火光及金属面边可解释；未见跨材质无意义金粉。",
+      "天狼只远方淡头颈，没有明确前爪，传记不以神兽完整为主体。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "result": "pass candidate gate",
+    "time_reported_by_reviewer": "2026-10-18 20:13 UTC+08",
+    "received_at": "2026-10-18 20:22 UTC+08",
+    "finding": "原生轴导线/缰手/马与换乘叙事成立，关键脚路清、非关键边岩柔可留。"
+  }
+}

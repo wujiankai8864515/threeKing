@@ -1,0 +1,22 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+    "status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+    "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+    "status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+    "sha256": "0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+    "status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+    "sha256": "85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+    "status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+    "sha256": "8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660"
+  }
+}

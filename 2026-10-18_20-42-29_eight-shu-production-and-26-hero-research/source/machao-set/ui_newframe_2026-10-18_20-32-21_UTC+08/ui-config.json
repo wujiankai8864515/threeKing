@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "马超",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "先驱",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "马超",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "先驱",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "马超",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "先驱",
+        "level": "+2"
+      },
+      {
+        "name": "摧锋",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "马超",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "先驱",
+        "level": "+2"
+      },
+      {
+        "name": "摧锋",
+        "level": "+2"
+      },
+      {
+        "name": "震阵",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

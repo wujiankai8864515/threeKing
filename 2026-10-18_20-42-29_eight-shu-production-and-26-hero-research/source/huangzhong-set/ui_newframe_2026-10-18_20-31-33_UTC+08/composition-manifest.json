@@ -1,0 +1,124 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "source_status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+      "source_sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+1"
+          }
+        ],
+        "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+        "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+      "source_status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+      "source_sha256": "0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+1"
+          }
+        ],
+        "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+        "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+      "source_status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+      "source_sha256": "85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+2"
+          },
+          {
+            "name": "破翎",
+            "level": "+2"
+          }
+        ],
+        "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+        "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+      "source_status": "independent_QA_passed_candidate_parent_authorized_UI_composition_not_user_final",
+      "source_sha256": "8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+2"
+          },
+          {
+            "name": "破翎",
+            "level": "+2"
+          },
+          {
+            "name": "老骥",
+            "level": "+2"
+          }
+        ],
+        "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+        "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  },
+  "frame_note": "Reused frozen Liu Bei shared template assets byte-for-byte; no new image generation and no frame redesign",
+  "creator_QA": "four complete full cards, contact sheet, ten native crop files actually viewed; faces, both hands, bow grip and gold sunwheel remain readable; see QA-record.md",
+  "status": "creator_and_independent_visual_cover_QA_passed_candidate",
+  "independent_QA": "audit 2026-10-18 12:41:31 UTC actual full views all four UI: faces/hands/string slots readable, allowed bow/arrow end edge cropping. Auditor read zero-change manifest but did not rerun pixel comparison."
+}

@@ -1,0 +1,26 @@
+{
+  "status": "candidate_pending_priority_independent_review",
+  "asset_id": "zhaoyun_card_04",
+  "tool": "builtin imagegen",
+  "calls_this_authorization": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-axis-local_2026-10-18_20-02-22_UTC+08/赵云-黄金-汉水龙胆-枪轴局修1-2026-10-18_20-02-22_UTC+08.png",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-upright-spear_2026-10-18_20-09-38_UTC+08/赵云-黄金-汉水龙胆-竖枪偃旗候选-2026-10-18_20-09-38_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "sha256": "d49ef4aeae2ccd0492de6391357f4cd0ed9299494ceb0b10325d900f3f1b8d9b",
+  "scope": "Explicitly authorized new simple near-vertical spear posture and lowered camp flags; face, horse, armor, dragon and camp otherwise held.",
+  "observations": {
+    "axis": "Personally viewed complete native 1250px tall weapon crop. Single spear tip, central blade ridge, socket, main shaft through one grip, and rear butt form a visually coherent straight axis. No concealed kink or old diagonal remnants observed.",
+    "hands": "Right hand/forearm adjusted to vertical grip with natural wrist; left hand continues reins. Only two hands.",
+    "identity": "Same face and bone structure, hair and expression as preceding gold.",
+    "materials": "Matte white-blue cloth and natural white horse planes maintained; sculpted silver relief still structural.",
+    "flags": "Prominent high left banners are rolled/lowered against walls. Small low cloth at left remains drooping, no longer massed raised flags.",
+    "unchanged_frame_risk": "Source silver dragon upper antlers still crop and nose near right edge; actual frame review required, not part of spear fix.",
+    "native_limits": "1024x1536 native; no upscaling."
+  },
+  "qa": "QA folder contains full shaft, blade/socket, gripping forearm, face, rein hand, horse/cloth and gate crops.",
+  "next_action": "Independent audit and actual framed/root review. No extra generation authorized."
+}

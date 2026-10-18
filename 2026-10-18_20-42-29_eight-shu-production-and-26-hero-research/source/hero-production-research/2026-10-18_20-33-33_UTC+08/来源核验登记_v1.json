@@ -1,0 +1,1807 @@
+{
+  "checked_on": "2026-10-18",
+  "note": "主事件逐章人工核验后登记；现代官方游戏仅作版本明确的参考，来源未用作神话设定证据。官方页面直接打开失败时使用可读的官方索引正文并在个人条目披露。",
+  "count": 75,
+  "sources": [
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第011回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 11,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "a",
+          "title": "濮阳吕布军健将",
+          "evidence_paraphrase": "列八健将之首，接战夏侯惇；仍在吕布阵营。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "yuejin",
+          "event_id": "b",
+          "title": "濮阳双枪战臧霸",
+          "evidence_paraphrase": "骑马持枪，三十余合不分胜负。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "yujin",
+          "event_id": "b",
+          "title": "登高观西寨献策",
+          "evidence_paraphrase": "于禁观察濮阳西寨兵少，建议夜袭，曹操从之；随后遭反击。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "xunyu",
+          "event_id": "b",
+          "title": "保全三城",
+          "evidence_paraphrase": "与程昱设法守住鄄城、东阿、范县，其余多失。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "dianwei",
+          "event_id": "c",
+          "title": "五步飞戟救曹",
+          "evidence_paraphrase": "下马取短戟，等敌近至五步连续投掷，再上马持双铁戟救曹。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第019回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 19,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "b",
+          "title": "白门楼引颈待戮",
+          "evidence_paraphrase": "被押至曹操前，责骂并不惧死。",
+          "selection": "bio1前因"
+        },
+        {
+          "hero_id": "guojia",
+          "event_id": "d",
+          "title": "下邳决水献计",
+          "evidence_paraphrase": "郭嘉提出破下邳之计，荀彧点出决沂泗，曹操执行。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第020回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 20,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "c",
+          "title": "解缚受礼归曹",
+          "evidence_paraphrase": "刘备与关羽求情，曹操亲解缚、解衣相赠，拜中郎将。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 30,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "d",
+          "title": "乌巢归途斩蒋奇",
+          "evidence_paraphrase": "张辽、许褚迎上蒋奇，张辽斩蒋奇。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "yujin",
+          "event_id": "d",
+          "title": "官渡胜后追袁",
+          "evidence_paraphrase": "袁军崩溃后，与张辽、许褚、徐晃等引军追赶袁绍。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "zhanghe",
+          "event_id": "a",
+          "title": "袁营战张辽",
+          "evidence_paraphrase": "官渡阵前与张辽四五十合不分胜负。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "zhanghe",
+          "event_id": "b",
+          "title": "谏救乌巢不从",
+          "evidence_paraphrase": "指出攻曹营未必能救乌巢；郭图反驳，袁绍仍令其攻曹营。",
+          "selection": "bio1前因"
+        },
+        {
+          "hero_id": "zhanghe",
+          "event_id": "c",
+          "title": "被谗归曹并先出",
+          "evidence_paraphrase": "郭图谗言导致急召；张郃、高览投曹，后请为先锋劫袁营。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "xuhuang",
+          "event_id": "d",
+          "title": "截韩猛粮车",
+          "evidence_paraphrase": "史涣获细作，徐晃上报；奉命截粮，徐晃战韩猛，史涣焚车，韩猛败走。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "caocao",
+          "event_id": "e",
+          "title": "纳许攸夜袭乌巢",
+          "evidence_paraphrase": "粮困中跣足迎许攸，听劫粮计，安排守营后亲率五千夜行。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "caocao",
+          "event_id": "f",
+          "title": "焚烧通袁书信",
+          "evidence_paraphrase": "获胜后烧掉军中与袁绍暗通书信。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "xunyu",
+          "event_id": "e",
+          "title": "书定官渡之疑",
+          "evidence_paraphrase": "曹操粮乏欲退，荀彧来书劝守待变；后又接催粮要求。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "yuanshao",
+          "event_id": "e",
+          "title": "官渡失利",
+          "evidence_paraphrase": "乌巢被袭、谗疑失谋，袁绍大军败退。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第053回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 53,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "e",
+          "title": "合肥识乱反伏",
+          "evidence_paraphrase": "得胜夜不卸甲；辨认内乱是少数煽动，借城门假乱伏击太史慈。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "yuejin",
+          "event_id": "e",
+          "title": "合肥斜刺孙权",
+          "evidence_paraphrase": "一骑一刀直取孙权，砍断宋谦、贾华两戟；宋谦随后死于李典之箭。",
+          "selection": "alternate"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 67,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "event_id": "f",
+          "title": "逍遥津合谋突击",
+          "evidence_paraphrase": "与李典解嫌，乐进诈败；张辽与李典夹击，张辽引二千余骑追到桥边。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "yuejin",
+          "event_id": "f",
+          "title": "逍遥津诈败诱敌",
+          "evidence_paraphrase": "奉议迎甘宁，交战数合诈败，诱前军离开孙权。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "sunquan",
+          "event_id": "e",
+          "title": "逍遥津败走",
+          "evidence_paraphrase": "合肥战败，孙权在护卫帮助下跃过断桥逃生。",
+          "selection": "rejected"
+        },
+        {
+          "hero_id": "lumeng",
+          "event_id": "b",
+          "title": "皖城乘锐擂鼓",
+          "evidence_paraphrase": "提先取粮地皖城，拒耗日久的土山云梯法，亲自擂鼓，甘宁登城。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "ganning",
+          "event_id": "c",
+          "title": "皖城铁练先登",
+          "evidence_paraphrase": "冒矢石执铁练登城，打倒朱光；士卒随后杀朱光，吕蒙擂鼓。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/18",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangliao",
+          "version": "三国杀OL官网标准张辽页面，2026-10-18核验",
+          "evidence_paraphrase": "突袭取他人手牌，提供节奏/资源切入参照。",
+          "use_boundary": "只吸收主动切要害的思路；不照搬抽牌，不沿用游戏立绘或兵器专名。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 5,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuejin",
+          "event_id": "a",
+          "title": "陈留应募",
+          "evidence_paraphrase": "与李典先后来投，曹操留为帐前吏。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "caocao",
+          "event_id": "c",
+          "title": "陈留募义",
+          "evidence_paraphrase": "卫弘资助，曹操散资招募，建立军队。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "huanggai",
+          "event_id": "a",
+          "title": "汜水关铁鞭从征",
+          "evidence_paraphrase": "孙坚四将之一，明确使铁鞭；孙坚败后与程普韩当收聚。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "lubu",
+          "event_id": "b",
+          "title": "虎牢关战三英",
+          "evidence_paraphrase": "先战张飞，关羽刘备加入；围攻中最终虚刺刘备脱身退关。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "yuanshao",
+          "event_id": "b",
+          "title": "推为盟主登坛",
+          "evidence_paraphrase": "诸侯推四世三公的袁绍为盟主，筑三层坛、列五方旗与白旄黄钺，绍佩剑登坛盟誓。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第012回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 12,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuejin",
+          "event_id": "c",
+          "title": "定陶射成廉",
+          "evidence_paraphrase": "曹军伏兵齐出，吕布退走，乐进一箭射死从将成廉。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "xunyu",
+          "event_id": "c",
+          "title": "深根固本劝复兖州",
+          "evidence_paraphrase": "劝曹操勿舍兖州攻徐州，建议先解决立足与粮食。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "dianwei",
+          "event_id": "d",
+          "title": "濮阳往复寻主",
+          "evidence_paraphrase": "已出围又数次返回火中找曹操。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "xuchu",
+          "event_id": "a",
+          "title": "葛陂护坞与掣牛",
+          "evidence_paraphrase": "自述聚宗族守坞、飞石退寇、双手掣二牛尾倒行百余步。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "xuchu",
+          "event_id": "b",
+          "title": "力战典韦受曹",
+          "evidence_paraphrase": "多次与典韦战，后落陷坑被擒，曹操释缚厚待，宗族同降任都尉。",
+          "selection": "bio1"
+        },
+        {
+          "hero_id": "xuchu",
+          "event_id": "c",
+          "title": "初战斩李封",
+          "evidence_paraphrase": "归曹后请战，交马两合斩李封，薛兰另由吕虔射杀。",
+          "selection": "card2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第033回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 33,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuejin",
+          "event_id": "d",
+          "title": "南皮射郭图",
+          "evidence_paraphrase": "乱军中见郭图驰入城，拈弓射下城壕。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "guojia",
+          "event_id": "e",
+          "title": "车中轻兵之策",
+          "evidence_paraphrase": "不服水土卧病，仍劝去重辎、轻兵兼道，并须向导。",
+          "selection": "bio3前因"
+        },
+        {
+          "hero_id": "guojia",
+          "event_id": "f",
+          "title": "易州封书遗计",
+          "evidence_paraphrase": "被留易州养病，临死封书给左右；后曹操按兵，公孙康与二袁相图。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/三國演義/第068回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 68,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuejin",
+          "event_id": "g",
+          "title": "濡须交锋负伤",
+          "evidence_paraphrase": "与凌统交锋五十合；曹休暗射凌统坐骑，甘宁射伤乐进面门，两军各救一将回营。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wei/2013/0126/47.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuejin",
+          "version": "三国杀国战2013乐进，G.WEI016",
+          "evidence_paraphrase": "骁果在他人回合结束施压，对方付装备成本或受伤。",
+          "use_boundary": "转译为攻击间隙追击与短周期压力；不照搬弃牌，不称所有版本皆如此。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 10,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "event_id": "a",
+          "title": "率部投曹",
+          "evidence_paraphrase": "带数百人来投，弓马熟娴，被任为典军司马。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "xunyu",
+          "event_id": "a",
+          "title": "弃袁投曹荐才",
+          "evidence_paraphrase": "与荀攸同投，被比为子房；荐程昱，并经程昱提醒举郭嘉。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "guojia",
+          "event_id": "a",
+          "title": "受聘论天下",
+          "evidence_paraphrase": "经推荐到兖州，共论天下，并荐刘晔。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "dianwei",
+          "event_id": "a",
+          "title": "逐鹿过涧",
+          "evidence_paraphrase": "夏侯惇说打猎时见典韦逐鹿过涧，收于军中。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "dianwei",
+          "event_id": "b",
+          "title": "风中执旗受用",
+          "evidence_paraphrase": "演双铁戟，一手扶定众军难持的大旗，被赞古之恶来，任帐前都尉。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 16,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "event_id": "c",
+          "title": "止掠护民筑营拒敌",
+          "evidence_paraphrase": "制止青州兵劫掠，被诬反；先挖壕立营，迎退张绣，后分辩。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "guojia",
+          "event_id": "b",
+          "title": "论不可杀刘备",
+          "evidence_paraphrase": "以招贤与天下观感劝曹操留刘备。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "dianwei",
+          "event_id": "e",
+          "title": "失戟守宛城门",
+          "evidence_paraphrase": "醉卧遭盗戟，惊醒取步卒腰刀，无甲守门，刀缺后仍战，最终死于乱军。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "lubu",
+          "event_id": "d",
+          "title": "辕门射戟解斗",
+          "evidence_paraphrase": "因自身徐州安全出面，约刘备纪灵，以一百五十步射中戟枝让两军罢战。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "jiaxu",
+          "event_id": "b",
+          "title": "宛城密议再变",
+          "evidence_paraphrase": "先劝张绣降曹，曹操与邹氏事激起张绣愤怒，贾诩密授移营等计并奉命邀典韦饮酒。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第058回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 58,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "event_id": "e",
+          "title": "潼关接战马超",
+          "evidence_paraphrase": "于禁出战马超败回。",
+          "selection": "rejected"
+        },
+        {
+          "hero_id": "xuchu",
+          "event_id": "e",
+          "title": "负曹上船举鞍护渡",
+          "evidence_paraphrase": "负曹跃船，撑篙举鞍挡箭，舟急旋转。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第074回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 74,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "event_id": "f",
+          "title": "七军受命与洪水败降",
+          "evidence_paraphrase": "统七军援樊，后洪水围困投降。",
+          "selection": "rejected_with_disclosure"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/160",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "version": "三国杀OL于禁官网现页镇军；2014节钺另作历史版本",
+          "evidence_paraphrase": "现页镇军属于控制辅助，早版毅重和2014节钺不可合成一套现行技能。",
+          "use_boundary": "本项目守阵来自第16回叙事与原创取舍，不宣称直接复刻现行三国杀。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/news/20141113_6631_0514",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yujin",
+          "version": "三国杀OL于禁官网现页镇军；2014节钺另作历史版本",
+          "evidence_paraphrase": "现页镇军属于控制辅助，早版毅重和2014节钺不可合成一套现行技能。",
+          "use_boundary": "本项目守阵来自第16回叙事与原创取舍，不宣称直接复刻现行三国杀。",
+          "reference_field": "secondary_version_url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第070回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 70,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhanghe",
+          "event_id": "d",
+          "title": "三寨失利瓦口脱身",
+          "evidence_paraphrase": "识破与被识破交错，最终弃马寻山径，仅十余人步行至南郑。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第095回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 95,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhanghe",
+          "event_id": "e",
+          "title": "街亭截援与诱延",
+          "evidence_paraphrase": "受司马懿令挡王平；随后追马谡，遇魏延回军，参与合围。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第101回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 101,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhanghe",
+          "event_id": "f",
+          "title": "木门中伏",
+          "evidence_paraphrase": "木门败亡仅作后续待核候选，不进入本轮四卡三传记证据链。",
+          "selection": "rejected_unverified_detail"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/50",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhanghe",
+          "version": "三国杀OL张郃巧变页；国战2013版本交叉核验",
+          "evidence_paraphrase": "巧变通过跳过阶段改变场上资源位置，表现弹性与调度。",
+          "use_boundary": "只取位置与时机设计；不复制牌阶段、不照搬无双爪刃蝶舞。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wei/2013/0126/46.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhanghe",
+          "version": "三国杀OL张郃巧变页；国战2013版本交叉核验",
+          "evidence_paraphrase": "巧变通过跳过阶段改变场上资源位置，表现弹性与调度。",
+          "use_boundary": "只取位置与时机设计；不复制牌阶段、不照搬无双爪刃蝶舞。",
+          "reference_field": "crosscheck_url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 14,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xuhuang",
+          "event_id": "a",
+          "title": "护驾斩李乐",
+          "evidence_paraphrase": "在杨奉部下，骑马以斧斩李乐，护车驾过箕关。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "xuhuang",
+          "event_id": "b",
+          "title": "刀斧斗许褚",
+          "evidence_paraphrase": "迁驾途中阻曹，许褚与其战五十余合不分胜败。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "xuhuang",
+          "event_id": "c",
+          "title": "满宠夜说归曹",
+          "evidence_paraphrase": "秉烛被甲听劝，拒杀旧主作为投名礼，带数十骑归曹。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "caocao",
+          "event_id": "d",
+          "title": "迎奉天子移许",
+          "evidence_paraphrase": "经荀彧、董昭等建议，护驾并掌握大权。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "xunyu",
+          "event_id": "d",
+          "title": "迎奉天子",
+          "evidence_paraphrase": "建议奉天子以从众望；后为侍中尚书令。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "xuchu",
+          "event_id": "d",
+          "title": "与徐晃相持",
+          "evidence_paraphrase": "刀斧战五十余合不分胜负。",
+          "selection": "alternate"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第076回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 76,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xuhuang",
+          "event_id": "e",
+          "title": "沔水绕后破连营",
+          "evidence_paraphrase": "以副将旗号诱关平出战，自率五百精兵绕沔水取偃城，继破联营。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "xuhuang",
+          "event_id": "f",
+          "title": "与关羽对阵",
+          "evidence_paraphrase": "叙旧后各为其主交战。",
+          "selection": "alternate"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/news/20161026_4323_2512",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xuhuang",
+          "version": "三国杀OL2016林包徐晃攻略",
+          "evidence_paraphrase": "断粮转化兵粮寸断，控制对方获取手牌资源。",
+          "use_boundary": "只转译为敌方能量恢复抑制；不是原著吸法神力，也不混后版其他技能。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第004回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 4,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "caocao",
+          "event_id": "a",
+          "title": "献刀脱险",
+          "evidence_paraphrase": "借王允七星宝刀刺董卓，被镜中发现，改称献刀，借试马脱身。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "caocao",
+          "event_id": "b",
+          "title": "误杀吕伯奢一家",
+          "evidence_paraphrase": "逃亡途中猜疑杀人，随后故意杀吕伯奢。",
+          "selection": "rejected_with_disclosure"
+        },
+        {
+          "hero_id": "dongzhuo",
+          "event_id": "c",
+          "title": "崇德殿废立",
+          "evidence_paraphrase": "董卓聚百官，令李儒宣策，废少帝而立陈留王，随后自为相国并获逾制待遇。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 48,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "caocao",
+          "event_id": "g",
+          "title": "江上横槊赋诗",
+          "evidence_paraphrase": "大船宴诸将、饮酒、横槊作歌；随后酒怒杀刘馥，醒后悔。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/15",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "caocao",
+          "version": "三国杀OL官网标准曹操页，2026-10-18检索正文核验",
+          "evidence_paraphrase": "奸雄受伤后可取得造成伤害的牌，护驾借同势力响应。",
+          "use_boundary": "仅取承压后反攻与统御思路；不把受伤抽牌或全场牌效照搬，不把生平栏当小说章回。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第061回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 61,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xunyu",
+          "event_id": "f",
+          "title": "晚年政治分歧与结局",
+          "evidence_paraphrase": "此段仅列后续待核的人物边界。",
+          "selection": "rejected_unverified_detail"
+        },
+        {
+          "hero_id": "sunquan",
+          "event_id": "d",
+          "title": "濡须亲临与遗书",
+          "evidence_paraphrase": "水陆拒曹，亲骑山前；相持月余春水上涨，遗书后曹操班师。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "e",
+          "title": "误信母病归吴",
+          "evidence_paraphrase": "周善携伪急讯劝其带阿斗归吴，赵云张飞截江留下阿斗。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/news/20161026_1315_1511",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xunyu",
+          "version": "三国杀OL2016火包荀彧攻略",
+          "evidence_paraphrase": "节命偏高效补牌，驱虎涉及拼点与借势。",
+          "use_boundary": "本项目主选稳态资源调配，与贾诩/貂蝉借敌互伤分开；不把驱虎直搬到本技能。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 18,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "guojia",
+          "event_id": "c",
+          "title": "十胜十败",
+          "evidence_paraphrase": "面对袁绍强盛与慢书，论曹袁优劣，并建议先取吕布。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "jiaxu",
+          "event_id": "c",
+          "title": "识虚攻置东南伏",
+          "evidence_paraphrase": "曹操绕城后扬言攻西北，贾诩判其实攻东南，劝张绣藏壮兵于东南，挫其攻势。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/20",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "guojia",
+          "version": "三国杀OL官网标准郭嘉；2018官方攻略交叉核验",
+          "evidence_paraphrase": "天妒取判定牌、遗计在受伤后取得并分配牌，偏风险收益与辅助。",
+          "use_boundary": "本项目改成预置反制，不复制卖血补牌；不把早逝设计为鼓励主动伤身。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/news/20181219_1211_3220",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "guojia",
+          "version": "三国杀OL官网标准郭嘉；2018官方攻略交叉核验",
+          "evidence_paraphrase": "天妒取判定牌、遗计在受伤后取得并分配牌，偏风险收益与辅助。",
+          "use_boundary": "本项目改成预置反制，不复制卖血补牌；不把早逝设计为鼓励主动伤身。",
+          "reference_field": "crosscheck_url"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/news/20161026_1535_1311",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "dianwei",
+          "version": "三国杀OL2016火包典韦攻略",
+          "evidence_paraphrase": "强袭以武器或体力为代价换近距离伤害；只取机制概念。",
+          "use_boundary": "本项目选护主承担代价，非复制游戏规则；官方文章的史料/小说混叙不作为原著证据。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第059回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 59,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xuchu",
+          "event_id": "f",
+          "title": "虎侯临阵与裸衣斗超",
+          "evidence_paraphrase": "阵前一瞪使马超不敢突曹，后战二百余合换马脱甲再战，最终两军混战许褚中箭。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "jiaxu",
+          "event_id": "d",
+          "title": "涂书离韩马",
+          "evidence_paraphrase": "先劝曹操假许议和，后献涂抹书信及暗结部将的办法，让韩遂马超相疑。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/19",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "xuchu",
+          "version": "三国杀OL官网标准许褚，非界许褚",
+          "evidence_paraphrase": "裸衣少摸牌换杀/决斗的伤害提高，强调舍一部分防备的强攻。",
+          "use_boundary": "转为可预判、有代价的单次重斩；不使用受伤越久无限成长，也不把游戏现成台词贴图。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第029回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 29,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunquan",
+          "event_id": "a",
+          "title": "拜受兄长印绶",
+          "evidence_paraphrase": "孙策临终授印，孙权收泪出堂受文武谒贺。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "sunce",
+          "event_id": "e",
+          "title": "江东声势与后来的祸变",
+          "evidence_paraphrase": "本章开头述取庐江、华歆投降，随后许贡家客刺伤、于吉纠葛与死亡。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "zhouyu",
+          "event_id": "b",
+          "title": "奔丧承托荐鲁肃",
+          "evidence_paraphrase": "回吴闻孙策死，哭祭后承诺辅孙权，并亲往延请鲁肃。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 38,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunquan",
+          "event_id": "b",
+          "title": "纳甘宁议江夏",
+          "evidence_paraphrase": "吕蒙引荐甘宁，孙权不记旧怨，采纳进攻建议并统军。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "lumeng",
+          "event_id": "a",
+          "title": "江夏亲棹斩陈就",
+          "evidence_paraphrase": "前部先锋，见陈就弃船，亲自举棹入船队放火并赶上杀陈就。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "ganning",
+          "event_id": "a",
+          "title": "锦帆旧影转向",
+          "evidence_paraphrase": "本回追叙铜铃、锦帆江湖旧事、投刘表后受黄祖留用，苏飞助其自择去向。",
+          "selection": "card1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第044回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 44,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunquan",
+          "event_id": "c",
+          "title": "斫案决战授剑",
+          "evidence_paraphrase": "听周瑜主战分析，拔剑斫案，授剑并命大都督。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "zhouyu",
+          "event_id": "c",
+          "title": "主战受大都督",
+          "evidence_paraphrase": "列曹军不利，促成战议，受孙权剑并令诸将听调。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/63.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunquan",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013制衡以弃牌换等量牌。",
+          "use_boundary": "取舍和资源重分配启发；不直接复制换牌，也不声称小说有能量术。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 7,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunce",
+          "event_id": "a",
+          "title": "随父出征射陈生",
+          "evidence_paraphrase": "主动请随孙坚，阵前挺枪，见陈生助战便射落。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "huanggai",
+          "event_id": "b",
+          "title": "擒黄祖议换遗体",
+          "evidence_paraphrase": "孙坚遇害后乱军中两合擒黄祖，建议遣使以俘虏换回孙坚遗体。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "yuanshao",
+          "event_id": "c",
+          "title": "入主冀州",
+          "evidence_paraphrase": "从逢纪谋利用公孙瓒进逼，韩馥请袁入主；耿武关纯反对遇害，韩馥被夺实权后离去。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 15,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunce",
+          "event_id": "b",
+          "title": "玉玺质兵渡江",
+          "evidence_paraphrase": "朱治吕范献议，孙策以传国玺为质借袁术兵三千、马五百，出行遇周瑜。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "sunce",
+          "event_id": "c",
+          "title": "神亭斗太史慈",
+          "evidence_paraphrase": "十三骑出营，孙策与太史慈马上两番各约五十合，后下马缠斗，双方收军。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "sunce",
+          "event_id": "d",
+          "title": "释慈纳众安民",
+          "evidence_paraphrase": "泾县擒太史慈后亲解缚赠袍，信任其收众；次日日中按约归来，军势壮大而禁掠。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "zhouyu",
+          "event_id": "a",
+          "title": "历阳遇策荐二张",
+          "evidence_paraphrase": "与孙策相遇愿相助，推荐张昭张纮；后袭曲阿接应。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "huatuo",
+          "event_id": "a",
+          "title": "入吴治周泰",
+          "evidence_paraphrase": "虞翻引荐，孙策迎为上宾，请治周泰多处伤，原文说一月而愈。",
+          "selection": "card1"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/act/sunce/",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunce",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "官方孙策专题列激昂与魂姿等不同模式技能；激昂与对抗触发关联，魂姿为低血觉醒。",
+          "use_boundary": "仅取主动争先和成长启发；不复制低血觉醒树，不把所有模式叠成一套。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第049回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 49,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhouyu",
+          "event_id": "d",
+          "title": "分路调军赤壁督战",
+          "evidence_paraphrase": "分遣六路兵并火船接应，与程普在大艨艟督战。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "luxun",
+          "event_id": "a",
+          "title": "赤壁侧翼先锋",
+          "evidence_paraphrase": "孙权使者报陆逊任先锋，抵蕲黄进兵，孙权后应。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "huanggai",
+          "event_id": "d",
+          "title": "火船进击赤壁",
+          "evidence_paraphrase": "第三火船上持刀发令，火船撞入水寨后转小舟追曹，被张辽射伤落水。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 55,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhouyu",
+          "event_id": "e",
+          "title": "追刘备失策",
+          "evidence_paraphrase": "追赶刘备孙夫人，遭伏后败回、创伤发作。",
+          "selection": "rejected"
+        },
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "b",
+          "title": "笑令撤兵器",
+          "evidence_paraphrase": "听刘备畏惧，笑问久战何惧，命撤兵器解侍婢剑，成亲。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "c",
+          "title": "决意随行出吴",
+          "evidence_paraphrase": "识破刘备借祭祖诉离愁，决定相随，提出以江边祭祖为由同行；乘车出城。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "d",
+          "title": "卷帘斥将护行",
+          "evidence_paraphrase": "车前斥徐盛丁奉放路；后与赵云断后再斥陈武潘璋等，车队前进。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/67.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhouyu",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013英姿为额外摸牌，反间以猜花色产生风险。",
+          "use_boundary": "参考组织资源、制造对手错误判断；本项目火攻核心来自小说战役，不能说标准周瑜游戏技能就是火焰AOE。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 75,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "lumeng",
+          "event_id": "c",
+          "title": "托病纳陆逊计",
+          "evidence_paraphrase": "因烽火警备无计，托病；陆逊访病提出退职换将骄敌，吕蒙采纳并推荐陆逊。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "lumeng",
+          "event_id": "d",
+          "title": "白衣渡江袭荆州",
+          "evidence_paraphrase": "白衣商人掩精兵，夜取烽火台，利用守兵开城，军入荆州后禁妄取。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "lumeng",
+          "event_id": "e",
+          "title": "雨中治军斩乡人",
+          "evidence_paraphrase": "乡人取民笠覆甲，被严军令处死，吕蒙泣葬。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "luxun",
+          "event_id": "b",
+          "title": "献换将计卑辞骄关",
+          "evidence_paraphrase": "访吕蒙见托病原因，提出辞职换将之计；接任陆口，卑辞书礼后探知关羽撤兵。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "huatuo",
+          "event_id": "b",
+          "title": "赴关营义诊疗臂",
+          "evidence_paraphrase": "闻关羽箭伤驾舟自来，治臂后拒金留药。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/10",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "lumeng",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "标准吕蒙克己允许满足不使用杀条件后保留手牌，体现储备。",
+          "use_boundary": "转为有上限的准备值，不抄弃牌阶段；不从游戏官网生平直接拿历史当小说。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第083回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 83,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "luxun",
+          "event_id": "c",
+          "title": "受钺压众守隘",
+          "evidence_paraphrase": "阚泽力保，孙权筑坛授剑印；陆逊持令要求坚守。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "ganning",
+          "event_id": "e",
+          "title": "负伤死于富池口",
+          "evidence_paraphrase": "病中出战被沙摩柯箭伤，退至树下而亡，群鸦绕尸。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第084回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 84,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "luxun",
+          "event_id": "d",
+          "title": "审疲火破连营",
+          "evidence_paraphrase": "识诱敌，待久守疲惫，试探后部署火攻，蜀营失守。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "luxun",
+          "event_id": "e",
+          "title": "误入八阵后回师",
+          "evidence_paraphrase": "误入石阵，由黄承彦引出；随后因防魏袭而还军。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "f",
+          "title": "闻误讯而死",
+          "evidence_paraphrase": "小说写误听刘备死讯后投江，实际刘备已到白帝。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/69.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "luxun",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013为谦逊、度势；页面不是标准版连营。",
+          "use_boundary": "吸收审势与资源节奏，火线核心由夷陵小说事件原创转译；严格标版本。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第039回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 39,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "ganning",
+          "event_id": "b",
+          "title": "追射黄祖并报苏飞",
+          "evidence_paraphrase": "料黄祖东门逃路，追射落马后献首受赏；随后为苏飞求赦。",
+          "selection": "card2+bio1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第068回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 68,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "ganning",
+          "event_id": "d",
+          "title": "百翎夜袭曹营",
+          "evidence_paraphrase": "率百骑白鹅翎为识，杀入绕出曹营，中军车仗阻隔未能进，尽归无失。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "jiaxu",
+          "event_id": "e",
+          "title": "立嗣点醒曹操",
+          "evidence_paraphrase": "曹操问立嗣，贾诩以袁绍刘表父子作暗示，促其定曹丕。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "zuoci",
+          "event_id": "a",
+          "title": "途中代挑柑担",
+          "evidence_paraphrase": "见役夫疲困，自愿每担挑五里；挑过的变轻，至曹处剖柑出现空壳与有肉差异。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "zuoci",
+          "event_id": "b",
+          "title": "枷落与七日不食",
+          "evidence_paraphrase": "被疑刘备细作而拷囚，枷锁自落；七日不供饮食仍面色红润。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "zuoci",
+          "event_id": "c",
+          "title": "王宫池中钓鲈",
+          "evidence_paraphrase": "宴上接连幻术；左慈让取钓竿，在堂下鱼池钓出多尾鲈鱼，继取姜显书等。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "zuoci",
+          "event_id": "d",
+          "title": "羊群隐身脱追",
+          "evidence_paraphrase": "杯化白鸠后出宫，许褚追不及，左慈入羊群不见；群羊遭杀后又使之复活归牧童。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "zuoci",
+          "event_id": "e",
+          "title": "众形合一骑鹤",
+          "evidence_paraphrase": "多处捕得相同形貌者，遭斩后青气合一，左慈骑鹤嘲曹。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/64.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "ganning",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013奇袭把黑牌转过河拆桥，主打破坏资源。",
+          "use_boundary": "转为拆一项可驱散增益；不照搬手牌、不堆能量吸取和沉默。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第046回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 46,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "huanggai",
+          "event_id": "c",
+          "title": "献苦肉计后托书",
+          "evidence_paraphrase": "夜向周瑜献火攻并愿诈降，受责后将心腹事告阚泽托降书。",
+          "selection": "card3+bio2"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第050回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 50,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "huanggai",
+          "event_id": "e",
+          "title": "韩当救起",
+          "evidence_paraphrase": "落水后呼韩当，韩当救起送医，黄盖并未死于火船。",
+          "selection": "alternate"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/66.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "huanggai",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013苦肉以损失体力换取摸牌。",
+          "use_boundary": "仅参考承担代价换爆发；本项目优先消耗护盾，最低生存门槛与代价规则待测，不无限卖血循环。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第054回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 54,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunshangxiang",
+          "event_id": "a",
+          "title": "武事闺阁",
+          "evidence_paraphrase": "婚夜房中枪刀森列、侍婢佩剑。",
+          "selection": "card1"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/70.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "sunshangxiang",
+          "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+          "evidence_paraphrase": "国战2013枭姬与装备失去后摸牌有关，结姻为受伤男性目标协同回复。",
+          "use_boundary": "仅取武装变化与伙伴协同；不沿用性别限制、结婚加血或官方立绘。短弓为原创职业提案。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第003回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 3,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "lubu",
+          "event_id": "a",
+          "title": "丁原帐下挺戟",
+          "evidence_paraphrase": "随丁原阵前挺戟击退董卓军，后才受李肃赤兔金珠诱引。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "dongzhuo",
+          "event_id": "a",
+          "title": "北邙迎驾入洛阳",
+          "evidence_paraphrase": "董卓领兵到北邙，陈留王命其下马；随驾入京后纵兵横行，开始把持朝局。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "dongzhuo",
+          "event_id": "b",
+          "title": "收吕布并吞丁原兵",
+          "evidence_paraphrase": "李肃以赤兔金珠说动吕布，吕布杀丁原后见董卓，董收为义子，军势益壮。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "yuanshao",
+          "event_id": "a",
+          "title": "拔剑抗董",
+          "evidence_paraphrase": "董卓议废立，袁绍不从，拔剑直对，随后离开京城。",
+          "selection": "card1"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第009回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 9,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "lubu",
+          "event_id": "c",
+          "title": "北掖门诛董",
+          "evidence_paraphrase": "王允设局，董卓甲挡众兵，吕布从后以戟刺喉；李肃割首，吕布出诏。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "diaochan",
+          "event_id": "e",
+          "title": "车去郿坞与诛董前知情",
+          "evidence_paraphrase": "车上向吕布掩面，董卓赴京时许立贵妃，她明知就里而假喜。",
+          "selection": "alternate"
+        },
+        {
+          "hero_id": "dongzhuo",
+          "event_id": "e",
+          "title": "北掖门败亡",
+          "evidence_paraphrase": "王允与吕布等设局，董卓被杀；坞中权势随之瓦解。",
+          "selection": "rejected"
+        },
+        {
+          "hero_id": "jiaxu",
+          "event_id": "a",
+          "title": "劝西凉兵反攻",
+          "evidence_paraphrase": "李傕等求赦未成欲散军，贾诩劝其结兵攻长安；随后生乱。",
+          "selection": "card1"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/79.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "lubu",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013无双提高对手响应攻击和决斗的成本。",
+          "use_boundary": "只取正面攻击难以招架的方向，不复制双闪牌制、无限追击或全屏秒杀。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 8,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "diaochan",
+          "event_id": "a",
+          "title": "后园长叹明心",
+          "evidence_paraphrase": "王允后园听其叹息，貂蝉说明关心其忧愁，愿承担事。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "diaochan",
+          "event_id": "b",
+          "title": "受连环计见吕布",
+          "evidence_paraphrase": "王允说明先许吕布后献董卓之谋；次日宴上引见许嫁。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "diaochan",
+          "event_id": "c",
+          "title": "宴董后入相府",
+          "evidence_paraphrase": "歌舞宴见董卓后被送相府；此后以忧容与目光令吕布疑董。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "diaochan",
+          "event_id": "d",
+          "title": "凤仪亭挑开矛盾",
+          "evidence_paraphrase": "约吕布亭边说话，董卓归来见二人，怒取画戟追掷吕布。",
+          "selection": "card4+bio3"
+        },
+        {
+          "hero_id": "dongzhuo",
+          "event_id": "d",
+          "title": "郿坞积聚权势",
+          "evidence_paraphrase": "长安城外营郿坞，大役军民、积粮与财物，自恃足以久居；专权奢横引出王允设谋。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/80.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "diaochan",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013离间让两名男性角色决斗，闭月在回合末补牌。",
+          "use_boundary": "转为有限一次错向普攻，不照搬男性限制或全体魅惑，不复制官方造型。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第001回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 1,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangjiao",
+          "event_id": "a",
+          "title": "入山采药得书",
+          "evidence_paraphrase": "不第秀才张角采药遇南华老仙，受太平要术三卷与济世告诫。",
+          "selection": "card1"
+        },
+        {
+          "hero_id": "zhangjiao",
+          "event_id": "b",
+          "title": "晓夜功习呼风雨",
+          "evidence_paraphrase": "得书后昼夜修习，能呼风唤雨，号太平道人。",
+          "selection": "card2+bio1"
+        },
+        {
+          "hero_id": "zhangjiao",
+          "event_id": "c",
+          "title": "疫中施符聚徒",
+          "evidence_paraphrase": "疫起施符水治病，自号大贤良师，徒众从五百渐多并分方。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "zhangjiao",
+          "event_id": "d",
+          "title": "事泄举兵天公将军",
+          "evidence_paraphrase": "唐周告变，马元义被杀；张角闻泄星夜举兵，自号天公将军，黄巾大起。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第002回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 2,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangjiao",
+          "event_id": "e",
+          "title": "身死后败亡",
+          "evidence_paraphrase": "皇甫嵩到时张角已死，随后张梁败；张宝风雷纸人草马遭破是另一人的情节。",
+          "selection": "rejected"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/81.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zhangjiao",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013雷击与使用闪后判定相关，鬼道能换判定牌。",
+          "use_boundary": "借雷霆/天命的读感；不抄改判牌制，不说本项目风暴为原著某场张角大战。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 78,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "huatuo",
+          "event_id": "c",
+          "title": "入曹府直陈病情",
+          "evidence_paraphrase": "受召诊脉，提出小说中的治疗办法，曹操疑其害己而下狱，贾诩进谏未用。",
+          "selection": "card3+bio2"
+        },
+        {
+          "hero_id": "huatuo",
+          "event_id": "d",
+          "title": "狱中托青囊书",
+          "evidence_paraphrase": "受吴押狱照顾，取书检看并赠以继术；后死狱中，书被押狱妻焚至只余少页。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/78.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "huatuo",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013急救以红牌转桃，青囊弃牌回复受伤角色体力。",
+          "use_boundary": "治疗身份参照；本项目单体治疗+有限净化，非原版牌制或现代医学。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/45",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "dongzhuo",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "官方角色页列高体力、酒池、肉林、崩坏和暴虐；崩坏体现体力或上限耗损。页面正文由官方搜索索引核验，直接打开曾超时。",
+          "use_boundary": "只取高耐久伴随衰耗的代价结构；不复制性别定向伤害、酒杀牌制或队友伤害回血链。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://zh.wikisource.org/zh/三國演義/第022回",
+      "source_class": "primary_novel_text",
+      "work": "毛本三国演义",
+      "chapter": 22,
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuanshao",
+          "event_id": "d",
+          "title": "檄文发军黎阳",
+          "evidence_paraphrase": "袁绍听各谋士争议后，起步军骑兵各十五万向黎阳，命陈琳草檄讨曹。",
+          "selection": "card4+bio3"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/82.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "yuanshao",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013乱击以两张同花色手牌转成万箭齐发。",
+          "use_boundary": "只取军阵齐射、多目标施压；不复刻手牌花色成本与对全场无差别打击。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/85.html",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "jiaxu",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "国战2013完杀限制回合内其他角色救援，乱武迫其他角色攻击近者或失体力，帷幕抵消黑色锦囊目标。",
+          "use_boundary": "仅提炼限制外部救援；不复制牌色免疫或全场互杀，也不照搬全部三技能。",
+          "reference_field": "url"
+        }
+      ]
+    },
+    {
+      "url": "https://www.sanguosha.com/hero/56",
+      "source_class": "modern_official_game_not_novel",
+      "checked_on": "2026-10-18",
+      "supports": [
+        {
+          "hero_id": "zuoci",
+          "version": "官方三国杀指定版本页面，2026-10-18核验",
+          "evidence_paraphrase": "官方角色页化身从其他武将牌取得一项技能，新生受伤增化身牌。官方索引正文已核验，直接打开曾超时。",
+          "use_boundary": "仅取真假换相与不可测的识别；项目锁定一个一次性替身，不复制别人技能，不混合多个游戏版本。",
+          "reference_field": "url"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "status-overrides.json": "a1f33fffc314b628cdb2dd3fbaced1ca7112fd9bf7132dd657b045f1316fa3fd",
+  "CURRENT-ASSET-MAP.json": "12bd57f9794ea1b7960ef330f4ef9524dc5ad63e5affdfbfe2ed53b0aa5cf7d0",
+  "FEEDBACK-LOG.json": "f1e388fc681fd77539920b3104b46a6c2cadd8f0935e704ff4b6930bdb1d0f8d",
+  "asset-index.json": "8f51761b3093a7443c00c2eecb7084b409660070f3f0e7ce63fb12a3a255f72c",
+  "CURRENT-PRODUCTION-QUEUE.json": "c6562f28373e5bc7c0089e3e0076aed57dcafa90de52c876beaa0f122680e77d",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "README.md": "617030be9bf8e027dc1aa44885e0087c17a1c83d95bb5b77cd74dffd7cc482b5",
+  "source/hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md": "0d71f48b5f6dbff498384d9df2d5d552367c872423f8484593ee92ed539ae375",
+  "source/hero_quality_audit_20261018_191500_UTC+08/update_manifest.py": "f5cde34e19d53578dba0b7d2768870b7d6451149ce5f0c74f56e0adf658fa52a",
+  "source/hero_quality_audit_20261018_191500_UTC+08/huang_ui_independent_pixel_check.json": "003b34d979d2481f876266dbf199b56c6ee82b6f7824e252daf0a94ba68b678d",
+  "source/hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json": "0b64e11343fe69ac8afe5b00f181c73e61da3043b496ed33f0c6e1bb0549669f",
+  "source/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/manifest.json": "e9615d865a099532af1441a382fa84a335800b6d1799844a2317ef317a8e182f"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-传记-连舟献策-候选1.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "19527fb94e0bde67ad20d27a33dae1c762191c915dce94ff37290a41d37dc33b",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+        "role": "Pang identity and broad painting planes; reduce fine robe scratches"
+      },
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+        "role": "Cao on right identity only"
+      }
+    ],
+    "tool": "builtin imagegen",
+    "status": "independent_content_QA_pass_candidate",
+    "user_final": false,
+    "prompt_file": "story-prompt.txt"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "f1368aed3c3970239d5ba6a9d393e7105844fd0f5ff6f7f928977f4208d41c98",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+        "role": "Pang identity and broad painting planes; reduce fine robe scratches"
+      }
+    ],
+    "tool": "builtin imagegen",
+    "status": "independent_content_QA_pass_candidate",
+    "user_final": false,
+    "prompt_file": "card-prompt.txt"
+  }
+]

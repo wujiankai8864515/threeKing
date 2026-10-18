@@ -1,0 +1,13 @@
+{
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-铜银传记-耒阳理事-候选1.png"
+  ],
+  "role": "ONLY edit target; preserve whole image except front-right petitioner group clarity",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "b80bf375fa8dc044490b8bb98ae8fcb41474938c3a17f951ea7f1c12ac6cb00c",
+  "actually_viewed_before_generation": true,
+  "authorized_scope": "Lead explicitly authorized one local foreground petitioner redraw after independent QA; no main-cloth cleanup or full regeneration."
+}

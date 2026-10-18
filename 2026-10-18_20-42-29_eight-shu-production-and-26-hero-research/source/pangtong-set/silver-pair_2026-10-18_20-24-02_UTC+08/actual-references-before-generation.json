@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+    "role": "Approved Pang Tong original face/body and clean drawing language only; exclude first scene/pose and dense cloth lines",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+    "actually_viewed_before_generation": true
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "role": "Approved Zhang Fei face/body only; change clothing to later military inspection period; exclude first scene/shop/tiger",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+    "actually_viewed_before_generation": true
+  }
+]

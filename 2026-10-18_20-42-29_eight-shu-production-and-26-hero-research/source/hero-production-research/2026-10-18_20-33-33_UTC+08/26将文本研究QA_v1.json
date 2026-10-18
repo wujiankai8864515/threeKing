@@ -1,0 +1,760 @@
+{
+  "counts": {
+    "heroes": 26,
+    "wei": 10,
+    "wu": 8,
+    "qun": 8,
+    "cards": 104,
+    "biographies": 78,
+    "planned_primary_images": 182,
+    "active_proposals": 26,
+    "passive_proposals": 104,
+    "images_generated": 0
+  },
+  "structure_checks": [
+    {
+      "hero_id": "zhangliao",
+      "name": "张辽",
+      "faction": "wei",
+      "card_chapters": [
+        11,
+        20,
+        53,
+        67
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "yuejin",
+      "name": "乐进",
+      "faction": "wei",
+      "card_chapters": [
+        5,
+        12,
+        33,
+        67
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "yujin",
+      "name": "于禁",
+      "faction": "wei",
+      "card_chapters": [
+        10,
+        11,
+        16,
+        30
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "zhanghe",
+      "name": "张郃",
+      "faction": "wei",
+      "card_chapters": [
+        30,
+        30,
+        70,
+        95
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "xuhuang",
+      "name": "徐晃",
+      "faction": "wei",
+      "card_chapters": [
+        14,
+        14,
+        30,
+        76
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "caocao",
+      "name": "曹操",
+      "faction": "wei",
+      "card_chapters": [
+        4,
+        5,
+        30,
+        48
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "xunyu",
+      "name": "荀彧",
+      "faction": "wei",
+      "card_chapters": [
+        10,
+        11,
+        14,
+        30
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "guojia",
+      "name": "郭嘉",
+      "faction": "wei",
+      "card_chapters": [
+        10,
+        18,
+        19,
+        33
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "dianwei",
+      "name": "典韦",
+      "faction": "wei",
+      "card_chapters": [
+        10,
+        10,
+        11,
+        16
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "xuchu",
+      "name": "许褚",
+      "faction": "wei",
+      "card_chapters": [
+        12,
+        12,
+        58,
+        59
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": "12回解缚归军是同回斩李封初战的直接前因；非要求镜头完全同一事件",
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "sunquan",
+      "name": "孙权",
+      "faction": "wu",
+      "card_chapters": [
+        29,
+        38,
+        44,
+        61
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "sunce",
+      "name": "孙策",
+      "faction": "wu",
+      "card_chapters": [
+        7,
+        15,
+        15,
+        15
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "zhouyu",
+      "name": "周瑜",
+      "faction": "wu",
+      "card_chapters": [
+        15,
+        29,
+        44,
+        49
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "lumeng",
+      "name": "吕蒙",
+      "faction": "wu",
+      "card_chapters": [
+        38,
+        67,
+        75,
+        75
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "luxun",
+      "name": "陆逊",
+      "faction": "wu",
+      "card_chapters": [
+        49,
+        75,
+        83,
+        84
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "ganning",
+      "name": "甘宁",
+      "faction": "wu",
+      "card_chapters": [
+        38,
+        39,
+        67,
+        68
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "huanggai",
+      "name": "黄盖",
+      "faction": "wu",
+      "card_chapters": [
+        5,
+        7,
+        46,
+        49
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "sunshangxiang",
+      "name": "孙尚香",
+      "faction": "wu",
+      "card_chapters": [
+        54,
+        55,
+        55,
+        55
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "lubu",
+      "name": "吕布",
+      "faction": "qun",
+      "card_chapters": [
+        3,
+        5,
+        9,
+        16
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "diaochan",
+      "name": "貂蝉",
+      "faction": "qun",
+      "card_chapters": [
+        8,
+        8,
+        8,
+        8
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "zhangjiao",
+      "name": "张角",
+      "faction": "qun",
+      "card_chapters": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "huatuo",
+      "name": "华佗",
+      "faction": "qun",
+      "card_chapters": [
+        15,
+        75,
+        78,
+        78
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "dongzhuo",
+      "name": "董卓",
+      "faction": "qun",
+      "card_chapters": [
+        3,
+        3,
+        4,
+        8
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "yuanshao",
+      "name": "袁绍",
+      "faction": "qun",
+      "card_chapters": [
+        3,
+        5,
+        7,
+        22
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "jiaxu",
+      "name": "贾诩",
+      "faction": "qun",
+      "card_chapters": [
+        9,
+        16,
+        18,
+        59
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    },
+    {
+      "hero_id": "zuoci",
+      "name": "左慈",
+      "faction": "qun",
+      "card_chapters": [
+        68,
+        68,
+        68,
+        68
+      ],
+      "count_4_cards_3_bios": true,
+      "bio_direct_target_connection": true,
+      "relation_exception": null,
+      "source_class_selected_verified": true,
+      "two_char_passives": true,
+      "passive_counts": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "actual_identity_reference_supplied": false,
+      "images_generated": 0,
+      "user_art_approved": false
+    }
+  ],
+  "cross_hero_manual_review": [
+    {
+      "heroes": [
+        "张辽",
+        "乐进",
+        "于禁",
+        "张郃",
+        "徐晃"
+      ],
+      "boundary": "五子依次为侧面切后、近身持续压力、驻阵减伤、友军移位、敌人能量抑制；尖翼刀骑/矮壮短枪/方整镇阵/细长转身枪/重斧断路，神相与轮廓不共享。"
+    },
+    {
+      "heroes": [
+        "许褚",
+        "张飞",
+        "典韦"
+      ],
+      "boundary": "许褚白额重虎、横厚低身、可见蓄力舍防重斩；张飞既定虎形断喝与当前生命压血；典韦巨巫祖影、双短戟、一次部分替伤，不给典韦虎头或真实族属断言。"
+    },
+    {
+      "heroes": [
+        "吕蒙",
+        "许褚"
+      ],
+      "boundary": "吴v3已纠正：吕蒙停手整备的收益是单体短缴械，刀击仅普通威力；许褚蓄力收益是高伤且蓄时降防。两者不得重新同化为蓄力高伤+减防。"
+    },
+    {
+      "heroes": [
+        "孙策",
+        "马超",
+        "吕布"
+      ],
+      "boundary": "吴v2起已纠正：孙策对未曾伤害的新目标接战，奖励换敌；马超既定开局正面骑阵破盾；吕布固定目标正面格挡压制，不给三人同一个开局冲锋。"
+    },
+    {
+      "heroes": [
+        "周瑜",
+        "陆逊",
+        "黄盖",
+        "庞统"
+      ],
+      "boundary": "周瑜一次广域火击；陆逊有限相邻地面火段；黄盖消耗自身盾的短扇火浪；庞统既定少量火印后引燃。不同资源、时空结构和剪影。"
+    },
+    {
+      "heroes": [
+        "张角",
+        "诸葛亮",
+        "郭嘉"
+      ],
+      "boundary": "张角原地可打断风暴持续伤害；诸葛亮既定布局迟滞后定点雷；郭嘉单敌主动后结算谋记，不用同一雷球法阵。"
+    },
+    {
+      "heroes": [
+        "典韦",
+        "赵云",
+        "张郃",
+        "左慈",
+        "董卓"
+      ],
+      "boundary": "典韦部分替伤不反击；赵云既定刺击护救再回锋；张郃直接移动友军；左慈一个不可攻击的幻影替本体挡一次普攻；董卓单敌嘲讽并消耗本战生命上限。共同有防护含义，但触发对象、代价与操作不同。"
+    },
+    {
+      "heroes": [
+        "曹操",
+        "荀彧",
+        "孙权",
+        "刘备",
+        "华佗",
+        "孙尚香"
+      ],
+      "boundary": "曹操承压积令强化一人下一普攻；荀彧直接补一人能量；孙权把己方可转换攻击增益换盾；刘备既定群体增益治疗；华佗一人治疗并有限清持续伤害；孙尚香伙伴命中后一次补箭。"
+    },
+    {
+      "heroes": [
+        "徐晃",
+        "贾诩",
+        "甘宁",
+        "貂蝉"
+      ],
+      "boundary": "徐晃只压能量恢复；贾诩只禁他人提供的治疗；甘宁移除一个可驱散正增益；貂蝉仅改向一次普攻。资源轴和干预类型互不偷换。"
+    },
+    {
+      "heroes": [
+        "袁绍",
+        "黄忠",
+        "孙尚香"
+      ],
+      "boundary": "袁绍有限不同敌人各一箭，不把缺额叠单体；黄忠既定远距锁定精射；孙尚香单伙伴一次追随射击。"
+    }
+  ],
+  "queue_current_paths_match": true,
+  "unique_asset_ids": 182,
+  "single_effect_passives_manual_review": true,
+  "limitations": "单效果与人物差异为文本人工审阅结论，不等于平衡、实现或成图验收。所有真实参考文件仍待制作附入。"
+}

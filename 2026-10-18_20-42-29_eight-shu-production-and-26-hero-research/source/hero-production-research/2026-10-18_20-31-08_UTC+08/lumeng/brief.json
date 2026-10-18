@@ -1,0 +1,358 @@
+{
+  "hero_id": "lumeng",
+  "name": "吕蒙",
+  "faction": "wu",
+  "core_personality": "能勇战，也懂得藏锋、接受良策和组织突袭；军事纪律严而有代价。",
+  "myth_symbol_proposal": {
+    "name": "潜渊白鼍",
+    "origin": "原创神兽象征；白衣渡江不是变鳄史实",
+    "reason": "宽扁体、背甲、伏在浅水后突然抬首；与张辽高空苍隼、甘宁快鲨的机动感分开。",
+    "growth": "水边背甲线→半首→浅水伏身→白鼍沿船队下方起伏，不吞城"
+  },
+  "differentiation": "先整备后缴械的战术压制者：沉实中年、宽脸短须、白衣压住内甲，抓一次停手准备窗口。与许褚蓄力高伤不同，吕蒙刀击基础伤害普通，收益是短时封住敌人普攻；非沉默主动技能。",
+  "identity": {
+    "face": "原创宽颧偏圆方脸、厚眉、略下垂外眼角、短浓颏须，警觉而能收敛表情。",
+    "hair": "原创低髻、布巾罩发，铜银换冠不改发际线。",
+    "body": "原创结实而不巨壮，中等高度，步幅稳。",
+    "clothes": "灰棕短袍与黑铁甲；1星水战卷袖，2星浅灰披甲，3星病居素衣，4星白衣商旅罩内甲；红只隐蔽衣结。",
+    "weapons_fact": "第38回亲举橹棹、持刀杀陈就；第67回刀牌分隔甘宁凌统；第75回统筹白衣精兵。",
+    "weapons_design": "略宽短战刀配可解小盾，白衣潜行刀藏鞘；盾只相应场景出现，不能每张持双武器。",
+    "mount_fact": "第75回入城后骑马巡视，但白衣渡江主场船。无固定名马。",
+    "mount_design": "船卡不骑神兽；普通暗栗马仅候选巡视段。",
+    "reference_version": "WU-LM-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+    "url": "https://www.sanguosha.com/hero/10",
+    "verified": "标准吕蒙克己允许满足不使用杀条件后保留手牌，体现储备。",
+    "use": "转为有上限的准备值，不抄弃牌阶段；不从游戏官网生平直接拿历史当小说。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 38,
+      "chronology_key": "038-a",
+      "title": "江夏亲棹斩陈就",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "前部先锋，见陈就弃船，亲自举棹入船队放火并赶上杀陈就。",
+      "selection": "card1",
+      "selection_reason": "早期身体力行，与晚期白衣隐忍对照。",
+      "misreading_to_avoid": "邓龙由甘宁杀；不是吕蒙独断大索全部破舰。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 67,
+      "chronology_key": "067-b",
+      "title": "皖城乘锐擂鼓",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "提先取粮地皖城，拒耗日久的土山云梯法，亲自擂鼓，甘宁登城。",
+      "selection": "card2+bio1",
+      "selection_reason": "在执行勇武上添时机判断和指挥。",
+      "misreading_to_avoid": "打倒朱光者甘宁，士卒随后砍死朱光；不可改成吕蒙亲斩。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 75,
+      "chronology_key": "075-c",
+      "title": "托病纳陆逊计",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "因烽火警备无计，托病；陆逊访病提出退职换将骄敌，吕蒙采纳并推荐陆逊。",
+      "selection": "card3+bio2",
+      "selection_reason": "真正转折在听取陆逊，不虚构全计自己早料定。",
+      "misreading_to_avoid": "本章退职换将计由陆逊解释；不可挪走陆逊功劳。"
+    },
+    {
+      "event_id": "d",
+      "chapter": 75,
+      "chronology_key": "075-d",
+      "title": "白衣渡江袭荆州",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "白衣商人掩精兵，夜取烽火台，利用守兵开城，军入荆州后禁妄取。",
+      "selection": "card4+bio3",
+      "selection_reason": "准备到突然夺势的完整兑现；军纪是后续边界。",
+      "misreading_to_avoid": "不是关羽在城中被当场正面擒杀；夺荆州不写成救蜀。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 75,
+      "chronology_key": "075-e",
+      "title": "雨中治军斩乡人",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "乡人取民笠覆甲，被严军令处死，吕蒙泣葬。",
+      "selection": "alternate",
+      "selection_reason": "可说明严法代价，不把处死普通军士塑成纯粹温柔爱民。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "江夏自棹",
+      "camera": "贴水侧前低视，中全身",
+      "action": "左手扶船沿稳身，右手持棹划近敌船，刀尚在鞘",
+      "environment": "沔口小舟与横转艨艟，火只远段船身",
+      "myth_growth": "水线一段白鼍背甲",
+      "structure_check": "棹入水角度与船移动相合；不一手划船一手挥刀同杀",
+      "must_retain": "灰棕卷袖、宽脸短须",
+      "must_not_inherit": "不能夺甘宁斩邓龙动作；不在狭舟骑马",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "皖城催鼓",
+      "camera": "城下略低前侧中景",
+      "action": "双槌轮落一击，表情紧凑，士卒向城冲",
+      "environment": "攻城土路、军鼓支架，甘宁在远城墙",
+      "myth_growth": "白鼍半首从鼓后低水汽成形",
+      "structure_check": "鼓槌两根、腕肘轨迹有方向；鼓架落地",
+      "must_retain": "主动指挥的劲力",
+      "must_not_inherit": "不站城头拿朱光首级；不复制甘宁铁链",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "藏锋称病",
+      "camera": "帐内眼平偏俯近景",
+      "action": "坐榻边披素衣，抬眼听陆逊，指尖压住未展军书",
+      "environment": "朴素病帐、药碗只背景道具，无治疗示范",
+      "myth_growth": "整只白鼍贴地伏影，闭口不暴起",
+      "structure_check": "坐姿骨盆腿脚成立；被褥不长出手臂",
+      "must_retain": "装病而未病弱换脸，谨慎眼神",
+      "must_not_inherit": "不画已赢关羽庆功；不称原文劝学同一事件",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "白衣断烽",
+      "camera": "船侧向上近全身，白衣主角偏右",
+      "action": "立船中低声示意精兵起身，另一手扶舱板",
+      "environment": "夜江岸、未燃烽台、沿岸快船一线，暗号不烧字",
+      "myth_growth": "巨白鼍低伏船队侧后，背甲刚露水面",
+      "structure_check": "白衣布下甲有体积；刀未拔，不握虚空；小船重心稳",
+      "must_retain": "隐忍后的果断、白布与黑铁分材质",
+      "must_not_inherit": "不万人飞跃城墙；不让所有人纯白发光",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "等不起土山",
+      "camera": "横幅城外军议，吕蒙近侧孙权居后",
+      "action": "指向城与合肥援军来路，军士已整备鼓架",
+      "target_connection": "铜卡擂鼓由乘锐速攻判断引出，非凭鼓声法术破城",
+      "first_person_line_original": "等土山筑好，援军也到了。趁这口锐气，今日便攻。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "地图与实景择实景；指路手单一；远兵不逆行",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "lumeng_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "病帐听良策",
+      "camera": "横幅帐内双人半身",
+      "action": "陆逊近侧陈说，吕蒙放下遮掩病容的手，认真点头",
+      "target_connection": "银卡藏锋来自陆逊建议与吕蒙纳计，直接相连",
+      "first_person_line_original": "这病，你看明白了。既有此策，我便把这一步退好。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "陆逊年轻清秀与吕蒙宽脸区别；无外人偷听挤画",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "lumeng_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "烽台未燃",
+      "camera": "横幅岸台与泊船空间，吕蒙前景船上",
+      "action": "士卒从舱中出现并制住守军，主角传低声止令",
+      "target_connection": "黄金夺势的行动关键是警报未发，而不是与关羽决斗",
+      "first_person_line_original": "先止住烽火，城门才不会提前闭上。各船照约而行。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "兵出舱口宽度真实，绑缚仅简洁非血腥；主角不可同时在台上船上",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "lumeng_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "lumeng_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "主动先进入短时整备，期间停止普攻；完整整备后，对近旁一名敌人作一次普通威力刀击，并短时禁止其普通攻击。移动或强制位移会中止整备。",
+    "active": {
+      "skill_id": "lumeng_a1",
+      "name": "白衣封刃",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "主动先进入短时整备，期间停止普攻；完整整备后，对近旁一名敌人作一次普通威力刀击，并短时禁止其普通攻击。移动或强制位移会中止整备。",
+      "extra_effect": "收益在单体缴械，不以准备值叠加高额伤害；目标仍可用主动技能或移动，不追加降防、沉默和击退，首领豁免待平衡。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "白鼍先低伏，再以短咬形夹住敌人武器旁的符影；实体刀枪不断裂，不画断手，不是永久隐身。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "lumeng_p1",
+        "name": "敛息",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "整备所需时间缩短",
+        "trigger": "开始整备",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "白鼍先低伏，再以短咬形夹住敌人武器旁的符影；实体刀枪不断裂，不画断手，不是永久隐身。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "lumeng_p2",
+        "name": "伏甲",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "整备期间受到的伤害降低",
+        "trigger": "整备中受击",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "白鼍先低伏，再以短咬形夹住敌人武器旁的符影；实体刀枪不断裂，不画断手，不是永久隐身。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "lumeng_p3",
+        "name": "缴刃",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "缴械持续时间提高",
+        "trigger": "完整整备后命中",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "白鼍先低伏，再以短咬形夹住敌人武器旁的符影；实体刀枪不断裂，不画断手，不是永久隐身。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "lumeng_p4",
+        "name": "归鞘",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "主动冷却缩短",
+        "trigger": "主动进入冷却",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "白鼍先低伏，再以短咬形夹住敌人武器旁的符影；实体刀枪不断裂，不画断手，不是永久隐身。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "lumeng_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "lumeng_p1",
+          "lumeng_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "lumeng_p1",
+          "lumeng_p2",
+          "lumeng_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "lumeng_p1",
+          "lumeng_p2",
+          "lumeng_p3",
+          "lumeng_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

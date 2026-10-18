@@ -1,0 +1,404 @@
+{
+  "common_requirements": {
+    "scope": "研究文本制作包，不含生成图片、成图验收、UI实现或仓库同步；10英雄×4卡+3传记=70张规划主图。",
+    "canon": "以本包逐章核验的毛本《三国演义》文本为故事主轴。只证明小说叙述，不自动等同三国史实。现代游戏玩法另列，不用于证明原著事件。",
+    "status": "所有神话象征、面貌造型、第一人称短词、技能名和机制均为本项目原创提案，未获用户最终批准。",
+    "style": "原创英雄化神话插画，地面世界有具体营地、城池、山路、木石泥土；不摄影写实、不统一天宫，不以绿色/蓝色滤镜制造幻想感。",
+    "faction": "魏只在独立UI徽章和少量衣带/结饰/内衬使用蓝色。各人的袍甲主色独立；早期吕布、袁绍、杨奉部队按事件旗号，不把魏字战旗塞入前期场景。",
+    "materials": "皮肤自然骨相；布哑光大褶；马毛定向与肌肉面；木土各自纹理；金属只在有形体依据处反光。禁随机金粉、白黄针点、满脸闪粒和跨材质金属化。",
+    "tiers": "1黑铁、2青铜、3白银、4黄金；黄金是收藏成熟表现，不等同称帝或道德无瑕，也不强制画到人物晚年。属性1/2/4/8仅沿用未平衡的基础属性方向，不扩张为技能、攻速和控制一起翻倍。",
+    "skill_rules": "暂拟每星累计1/2/3/4条被动，每条两汉字且一个关键效果；主动保留同一核心操作，最多添加一个直接辅助效果；所有数值、冷却、持续、容量与敌人豁免规则待系统验证。无五星、复杂连锁、复活树或全能技能。",
+    "reference_gate": "本轮没有新英雄获批身份样图。每图actual_reference_files为空是诚实缺口；生成前须先做身份/材质样并获检查，再实际附身份、动作兵器与场景参考，不能靠一句“沿用参考”假装已附。",
+    "structural_qa": "长杆各可见段共一直轴；刀斧头、杆、双手和尾帽有真实连接；拇指对向包握、腕肘肩受力可行。骑乘须查鞍位、人马重心、缰绳与兵器不穿插；不可为装入框把长兵缩短。",
+    "delivery_gate": "七主图、四阶UI与总览分计；插画不烧文字；脸、手、武器轴、坐骑、材质保存100%裁切。原生尺寸按实际记录，不把放大标原生4K。技术通过不等于用户审美批准。",
+    "generation_specs": {
+      "card": "竖幅2:3，无字；暂按可得1024×1536源，不承诺原生4K",
+      "biography": "横幅3:2，无字；暂按1536×1024源",
+      "composition": "脸手兵器在UI安全区内，长杆和坐骑允许合理出画；传记前清后柔，关键配角不能糊成无身份。"
+    }
+  },
+  "hero": {
+    "hero_id": "zhangliao",
+    "name": "张辽",
+    "faction": "wei",
+    "core_personality": "临危不乱，以精锐和判断打开敌军要害。",
+    "myth_symbol_proposal": {
+      "name": "苍隼",
+      "origin": "原创象征，不称张辽原有神兽",
+      "reason": "窄翼急折、从侧后切入，表现突袭节奏；采用冷灰隼形，避免与马超正面大骑阵、甘宁水上劫营混同。",
+      "growth": "羽痕→半翼→俯冲全隼→收拢翼尖压住桥口的巨隼虚影"
+    },
+    "differentiation": "五子中的侧后切入者：刀、斜向披风、窄楔形精兵。与乐进短周期贴身压迫、于禁稳阵、张郃移位、徐晃资源封锁分别。",
+    "identity": {
+      "face": "原创：偏长方脸、刀眉、眉骨清楚、内收的冷静目光；中短直须，嘴角收紧。",
+      "hair": "原创：紧束高髻，鬓角利落；不使用吕布长翎。",
+      "body": "原创：高而精悍、肩腰比利落，非许褚/典韦巨汉。",
+      "clothes": "铁灰甲、暗紫褐袍、燕尾式短披风；蓝仅系带内缘。四阶由低领轻甲到紧凑精甲，披风折线与同一胸扣贯穿。",
+      "weapons_fact": "第53回明记张辽挥刀迎太史慈。原文所核段未给“钩镰刀”专名或全生涯统一武器。",
+      "weapons_design": "本项目选择窄背、略弧长柄单刃战刀为统一原创辨识件；长轴和尾杆必须完整可推，不能给刀附钩后称原著。",
+      "mount_fact": "相关战斗骑马；所核原文无专属坐骑名。",
+      "mount_design": "深栗色普通战马，脸部小白星作为项目连续性设计，不替换成赤兔。",
+      "reference_version": "WEI-ZL-identity-text-v1；尚无获批图。"
+    },
+    "modern_game_reference": {
+      "version": "三国杀OL官网标准张辽页面，2026-10-18核验",
+      "url": "https://www.sanguosha.com/hero/18",
+      "verified": "突袭取他人手牌，提供节奏/资源切入参照。",
+      "use": "只吸收主动切要害的思路；不照搬抽牌，不沿用游戏立绘或兵器专名。"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 11,
+        "chronology_key": "011-a",
+        "title": "濮阳吕布军健将",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "列八健将之首，接战夏侯惇；仍在吕布阵营。",
+        "selection": "card1",
+        "selection_reason": "能以未归曹武将起点建立独立身份。",
+        "misreading_to_avoid": "不能把当年画成魏军蓝旗。"
+      },
+      {
+        "event_id": "b",
+        "chapter": 19,
+        "chronology_key": "019-b",
+        "title": "白门楼引颈待戮",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "被押至曹操前，责骂并不惧死。",
+        "selection": "bio1前因",
+        "selection_reason": "解释归曹前的刚直，不把降将画成乞怜。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "c",
+        "chapter": 20,
+        "chronology_key": "020-c",
+        "title": "解缚受礼归曹",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "刘备与关羽求情，曹操亲解缚、解衣相赠，拜中郎将。",
+        "selection": "card2+bio1",
+        "selection_reason": "身份大转折，与青铜卡直接相连。",
+        "misreading_to_avoid": "情节跨19末/20初，不能只引19说已完成归降。"
+      },
+      {
+        "event_id": "d",
+        "chapter": 30,
+        "chronology_key": "030-d",
+        "title": "乌巢归途斩蒋奇",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "张辽、许褚迎上蒋奇，张辽斩蒋奇。",
+        "selection": "alternate",
+        "selection_reason": "个人战果明确，但与徐晃官渡线过近，保留备用。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "e",
+        "chapter": 53,
+        "chronology_key": "053-e",
+        "title": "合肥识乱反伏",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "得胜夜不卸甲；辨认内乱是少数煽动，借城门假乱伏击太史慈。",
+        "selection": "card3+bio2",
+        "selection_reason": "由勇将转成熟判断，画面区别于冲锋。",
+        "misreading_to_avoid": "勿把李典擒内应、李典射宋谦或乐进斩双戟抢给张辽。"
+      },
+      {
+        "event_id": "f",
+        "chapter": 67,
+        "chronology_key": "067-f",
+        "title": "逍遥津合谋突击",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "与李典解嫌，乐进诈败；张辽与李典夹击，张辽引二千余骑追到桥边。",
+        "selection": "card4+bio3",
+        "selection_reason": "最高辨识战役，展示军势与果决。",
+        "misreading_to_avoid": "本章是二千余骑；八百破十万另有史籍/通俗传统，不混写为本章。"
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "濮阳横锋",
+        "camera": "眼平三分之二侧面，中全身，面朝左",
+        "action": "勒马侧转，以刀横隔战线，观察对方接应",
+        "environment": "干燥城郊、吕布军旗退入远景",
+        "myth_growth": "远空仅两道隼羽形云痕",
+        "structure_check": "刀杆在双手间直线，缰绳另握不并入刀柄",
+        "must_retain": "精瘦同脸、短须、旧甲磨损",
+        "must_not_inherit": "无魏字旗；不画方天画戟和吕布冠",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "c",
+        "title": "解缚新途",
+        "camera": "略低机位半身，右肩前转",
+        "action": "受衣后立起，刀暂由近旁军士递还；表情仍克制",
+        "environment": "白门楼阶下石地，绳索落在侧面，曹操退后景",
+        "myth_growth": "半片灰隼翼投影贴近肩背",
+        "structure_check": "接衣与接兵器分瞬间，主角只做接衣动作；刀由配角独持",
+        "must_retain": "青铜阶段多出肩甲但保胸扣",
+        "must_not_inherit": "不用祭天式金光或跪拜屈从表情",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "e",
+        "title": "合肥定乱",
+        "camera": "正面偏左低机位，主角占中轴",
+        "action": "披甲上马停在街口，横手制止本军奔乱",
+        "environment": "城内夜火局限草场，军士列在身后；城门为次要远景",
+        "myth_growth": "苍隼完整轮廓从屋脊上方压低，未占天空大半",
+        "structure_check": "制止手、持刀手与缰绳关系清楚；马静止承重",
+        "must_retain": "冷静目光、夜间仍着甲",
+        "must_not_inherit": "不能把整城烧毁；不画亲自擒杀全部内应",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "f",
+        "title": "逍遥夺势",
+        "camera": "桥口外侧低角度，马向右前，刀从左后切入",
+        "action": "当先勒转，刀锋指向敌军缺口，身后精骑斜切",
+        "environment": "河滩湿土、断桥木梁与桥上远逃者；地面战场清晰",
+        "myth_growth": "巨隼俯冲收翼构成一条窄楔形，不撒羽粉",
+        "structure_check": "马前肢腾挪幅度真实；刀杆不穿马颈，断桥比例可信",
+        "must_retain": "冷灰甲/褐紫袍，紧凑精骑",
+        "must_not_inherit": "不把孙权画成已被生擒；不写八百或十万作为画面文字",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "c",
+        "title": "白门解缚",
+        "camera": "横幅近中景，张辽三分之二正脸；曹操右侧",
+        "action": "曹操俯身解绳，刘关在另一侧可辨；张辽挺直脊背",
+        "target_connection": "对应青铜的换主转折，前因第19回的刚直在人物姿态里呈现",
+        "first_person_line_original": "我不惧一死。既以诚待我，便以这柄刀相报。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "曹操手指解同一根绳；不多出绑臂；无抽刀同时拥抱",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "zhangliao_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第020回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "e",
+        "title": "胜夜不卸甲",
+        "camera": "张辽肩后看向帐外草场，横向纵深",
+        "action": "主角抬手稳住亲从，李典押内应由后侧进入，远城门留伏兵",
+        "target_connection": "传记交代辨乱与设伏，卡面凝练处乱不惊的守将状态",
+        "first_person_line_original": "胜了一阵，更不能失了防备。先稳住军心，再看谁在作乱。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "军队流向由乱到定；火堆不得遮主脸；内应不被复制多处",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "zhangliao_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第053回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "f",
+        "title": "解嫌出奇兵",
+        "camera": "近景张辽、李典与乐进围木匣，中远景通城门",
+        "action": "张辽指向桥口方向，李典起身应命，乐进在旁确认诱敌路线",
+        "target_connection": "同役战前关键合作，直接导向黄金逍遥津突击",
+        "first_person_line_original": "私怨先放下。此刻我们要守的，是同一座城。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "匣中文字不烧图，三人手势与桌边无穿插；不是三人同时冲同一方向",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangliao_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "zhangliao_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "选一名后排敌人，从侧面短突进并造成一次集中刀击；敌人前排仍可阻挡路径。",
+      "active": {
+        "skill_id": "zhangliao_a1",
+        "name": "隼击破阵",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "选一名后排敌人，从侧面短突进并造成一次集中刀击；敌人前排仍可阻挡路径。",
+        "extra_effect": "三星起：命中延后该目标的下一次普通行动；不是长沉默或全技能封锁。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "zhangliao_p1",
+          "name": "潜锋",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "本场首次主动伤害提高",
+          "trigger": "首次主动命中",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangliao_p2",
+          "name": "疾行",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "移动速度提高",
+          "trigger": "常驻",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangliao_p3",
+          "name": "锐击",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "对后排目标的伤害提高",
+          "trigger": "命中后排目标",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangliao_p4",
+          "name": "迫阵",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "主动附带的行动延迟时长提高",
+          "trigger": "主动延迟已生效",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "灰隼窄翼沿切入路径掠过；延迟只出现一枚折羽标识。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "zhangliao_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "zhangliao_p1",
+            "zhangliao_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "zhangliao_p1",
+            "zhangliao_p2",
+            "zhangliao_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "zhangliao_p1",
+            "zhangliao_p2",
+            "zhangliao_p3",
+            "zhangliao_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved",
+    "research_readiness": {
+      "selected_scenes_verified": true,
+      "selected_scenes_count": 7,
+      "identity_sample_required": true,
+      "can_start_identity_sample": true,
+      "can_mass_generate_without_reference": false,
+      "user_final_approval": false
+    },
+    "reference_attachment_requirements": {
+      "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+      "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+      "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+      "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+    }
+  }
+}

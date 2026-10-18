@@ -1,0 +1,7 @@
+{
+  "recorded_at": "2026-10-18T20:42:29.494526+08:00",
+  "previous_delivery_ledger": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/DELIVERY-LEDGER.json",
+  "new_art_delivery_events": [],
+  "current_delivery_state": "not_delivered",
+  "note": "No new send receipt was supplied. Saved candidate/Library versions are listed in CURRENT-ASSET-MAP.json; previous actual delivery events remain in historical ledgers."
+}

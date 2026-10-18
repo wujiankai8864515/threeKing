@@ -1,0 +1,24 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-upright-spear_2026-10-18_20-09-38_UTC+08/赵云-黄金-汉水龙胆-竖枪偃旗候选-2026-10-18_20-09-38_UTC+08.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记-换马举火-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    }
+  ]
+}

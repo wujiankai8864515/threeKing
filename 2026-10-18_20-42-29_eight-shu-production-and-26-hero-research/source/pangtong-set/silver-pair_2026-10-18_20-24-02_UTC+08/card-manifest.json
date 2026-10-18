@@ -1,0 +1,157 @@
+{
+  "hero_id": "pangtong",
+  "asset_id": "pangtong_card_03",
+  "rank": "silver",
+  "target_card_id": "pangtong_card_03",
+  "status": "independent QA candidate passed; frozen per lead",
+  "generated_with": "builtin image_gen; one call for this asset",
+  "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-45d122db-082b-4fe1-b998-27a6b6aefb42.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "423de2dab5765a40395274ebcef40efda272bafebf981bb8c233fe581941f230"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "role": "Approved Pang Tong original face/body and clean drawing language only; exclude first scene/pose and dense cloth lines",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+      "actually_viewed_before_generation": true
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "role": "Approved Zhang Fei face/body only; change clothing to later military inspection period; exclude first scene/shop/tiger",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/prompt-silver-card.txt",
+  "source_fact_url": "https://zh.wikisource.org/zh/三國演義/第057回",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-face-native100.png",
+      "box": [
+        435,
+        180,
+        700,
+        490
+      ],
+      "scale": "native100% no resize"
+    },
+    "roll-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-roll-hand-native100.png",
+      "box": [
+        175,
+        775,
+        465,
+        985
+      ],
+      "scale": "native100% no resize"
+    },
+    "desk-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-desk-hand-native100.png",
+      "box": [
+        670,
+        1050,
+        900,
+        1215
+      ],
+      "scale": "native100% no resize"
+    },
+    "desk-records": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-desk-records-native100.png",
+      "box": [
+        0,
+        1030,
+        1024,
+        1420
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-cloth-native100.png",
+      "box": [
+        105,
+        440,
+        890,
+        1040
+      ],
+      "scale": "native100% no resize"
+    },
+    "zhang-face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-zhang-face-native100.png",
+      "box": [
+        15,
+        345,
+        220,
+        605
+      ],
+      "scale": "native100% no resize"
+    },
+    "zhang-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-zhang-armor-native100.png",
+      "box": [
+        0,
+        650,
+        330,
+        1000
+      ],
+      "scale": "native100% no resize"
+    },
+    "phoenix": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-phoenix-native100.png",
+      "box": [
+        530,
+        0,
+        1024,
+        400
+      ],
+      "scale": "native100% no resize"
+    },
+    "citizens": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/card-citizens-native100.png",
+      "box": [
+        825,
+        440,
+        1024,
+        780
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "creative_postprocessing": "none; copied generated PNG byte-for-byte",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:33 UTC+08",
+    "full_image": true,
+    "thumbnail": true,
+    "all_listed_native_crops": true,
+    "identity_reference_faces_compared": true,
+    "findings": [
+      "完整图、缩略图及9个原生100%区实际view；另对照已准庞统与张飞脸。粗眉、上鼻、短髯与脸骨相保持，同张身份可读，未被改为清秀公子。",
+      "合卷手与扶案手各五指可辨，卷轴/案面有接触；站姿合卷不同于黑铁坐姿演筹，张飞着后期军甲。",
+      "卡内庞统实际看向右方观者/堂外，并非prompt的左向张飞；眼神关系有偏离，不宣称逐字完成。",
+      "凤形已完整大幅展开且在堂外天空，羽片连续，不烧县堂。色偏浅朱金红，未完全深赤褐；强度较黑铁显著提升。",
+      "主布保持哑光大褶，但褐衣细角状纹和细碎做旧仍多，降低密纹目标未完全实现；没有发现跨布皮肤石面高亮金针点，仍交独立审。",
+      "案卷主区和主手清；最近桌沿/左下卷仍有卡牌景深，不可称全前景清。"
+    ]
+  },
+  "independent_review": {
+    "source": "lead message relaying audit",
+    "received_at": "2026-10-18 20:36 UTC+08",
+    "result": "silver card passed, do not modify"
+  }
+}

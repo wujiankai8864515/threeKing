@@ -1,0 +1,157 @@
+{
+  "hero_id": "huangzhong",
+  "asset_id": "huangzhong_card_04",
+  "rank": "gold",
+  "target_card_id": "huangzhong_card_04",
+  "status": "creator and independent structure/material QA passed candidate; root style selection pending",
+  "generated_with": "builtin image_gen; one call for this asset",
+  "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3aec1e89-4e56-4684-9396-c0909bdef2b5.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "role": "approved v3 elderly Huang Zhong identity and clean planar painting only, not first card pose/scene",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/prompt-gold-card.txt",
+  "source_fact_url": "https://zh.wikisource.org/zh/三國演義/第071回",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-face-native100.png",
+      "box": [
+        320,
+        95,
+        505,
+        340
+      ],
+      "scale": "native100% no resize"
+    },
+    "bow-full": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-bow-full-native100.png",
+      "box": [
+        0,
+        605,
+        1024,
+        865
+      ],
+      "scale": "native100% no resize"
+    },
+    "bow-left-end": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-bow-left-end-native100.png",
+      "box": [
+        0,
+        690,
+        200,
+        840
+      ],
+      "scale": "native100% no resize"
+    },
+    "bow-right-end": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-bow-right-end-native100.png",
+      "box": [
+        830,
+        585,
+        1024,
+        770
+      ],
+      "scale": "native100% no resize"
+    },
+    "bow-grip": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-bow-grip-native100.png",
+      "box": [
+        550,
+        680,
+        695,
+        835
+      ],
+      "scale": "native100% no resize"
+    },
+    "resting-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-resting-hand-native100.png",
+      "box": [
+        135,
+        565,
+        275,
+        710
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-cloth-armor-native100.png",
+      "box": [
+        75,
+        300,
+        720,
+        645
+      ],
+      "scale": "native100% no resize"
+    },
+    "lower-materials": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-lower-materials-native100.png",
+      "box": [
+        270,
+        815,
+        730,
+        1140
+      ],
+      "scale": "native100% no resize"
+    },
+    "feet-ground": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-feet-ground-native100.png",
+      "box": [
+        50,
+        1210,
+        920,
+        1536
+      ],
+      "scale": "native100% no resize"
+    },
+    "sun-arrow": {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/qa/card-sun-arrow-native100.png",
+      "box": [
+        440,
+        0,
+        880,
+        370
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "creative_postprocessing": "none; generated image copied byte-for-byte",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:21 UTC+08",
+    "full_image": true,
+    "thumbnail": true,
+    "all_listed_native_crops": true,
+    "approved_reference_face_compared": true,
+    "findings": [
+      "完整图、缩略图及10个原生100%区已亲查，另与已准v3原生脸对照；同一老将骨相与白须保持。",
+      "完整横斜弓、两端系弦和单一直线弦均可追踪；握掌包住中央握把，另一手自然垂在腰旁，不存在虚假拉弦或幽灵双弦。",
+      "副刀归鞘、双靴接岩地；甲较黑铁华丽，大面金属边/雕刻光泽可定位，红褐布大褶哑光。暗织纹仍有，但未见跨布石皮肤散金针点。",
+      "日轮内箭意被生成成十分直白的箭头符号，像图标；这是明显风格残项，不能称箭势完全自然，已报root。",
+      "主体靴周围地面清楚，最底边卡牌近岩略景深；无法声称全前景零模糊。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "received_at": "2026-10-18 20:28 UTC+08",
+    "result": "structure and material candidate gate passed",
+    "finding": "卡双梢单弦接点清楚；传记双握同一刀柄无分叉。日轮箭头图标设计和左下非关键大岩虚焦保留记录。"
+  }
+}

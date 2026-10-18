@@ -1,0 +1,39 @@
+{
+  "recorded_at": "2026-10-18T20:42:29.494526+08:00",
+  "latest_source": "hero-production-research/LATEST.json",
+  "manifest": "hero-production-research/2026-10-18_20-33-33_UTC+08/魏吴群26将_总索引_v1.json",
+  "packages": {
+    "wei": {
+      "json": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+      "markdown": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.md",
+      "sha256": "ecb5ca2c62991936dda34c0b1698b096b115c1d17e15af870a1c3bd1dc509c25",
+      "count": 10
+    },
+    "wu": {
+      "json": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+      "markdown": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.md",
+      "sha256": "896a54f1fa0287bb7834d786175f44636db5ea549ca72efa6d5f2786e8042a16",
+      "count": 8
+    },
+    "qun": {
+      "json": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+      "markdown": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.md",
+      "sha256": "dfe8536c9f038a314b5e7a9561bb0b12330ea36fa451d50ec53c7ced119e8539",
+      "count": 8
+    }
+  },
+  "counts": {
+    "heroes": 26,
+    "wei": 10,
+    "wu": 8,
+    "qun": 8,
+    "cards": 104,
+    "biographies": 78,
+    "planned_primary_images": 182,
+    "active_proposals": 26,
+    "passive_proposals": 104,
+    "images_generated": 0
+  },
+  "package_hashes_verified": true,
+  "note": "Wei v2, Wu v3, Qun v2 contain 104 card and 78 biography scene briefs. These are completed research/planning deliverables, not 182 generated or approved images."
+}

@@ -1,0 +1,358 @@
+{
+  "hero_id": "jiaxu",
+  "name": "贾诩",
+  "faction": "qun",
+  "core_personality": "审势极冷，惜身而不拘旧名分，能看出人心缝隙；谋策有效也可能造成沉重后果。",
+  "myth_symbol_proposal": {
+    "name": "缄影玄蛛",
+    "origin": "原创谋局神相，蛛网比喻关系与援助被切断，不把毒士称号变成历史投毒记录",
+    "reason": "低处不显眼的粗疏黑丝线与一枚封口印作主体；不用郭嘉鸦目预测、荀彧鹿角供能或诸葛亮星图。",
+    "growth": "封口一线→三线交结→半张疏网→远地完整玄蛛网，身体仍是安静文士"
+  },
+  "differentiation": "单点封援：短时阻断一个敌人从其他单位获得治疗，仍允许其自身治疗。无敌军互打，避免抢貂蝉；不禁能量，避免抢徐晃。",
+  "identity": {
+    "face": "原创窄长脸、薄唇、眼皮微垂但目光极清，颧骨不突出成骷髅；初见为成熟中年，晚期添细纹。",
+    "hair": "原创深灰束发与细直短须，后期灰须增多，发际及鼻唇骨相固定。",
+    "body": "原创身形瘦直、肩略收，习惯把手藏在袖内；不是佝偻巫师。",
+    "clothes": "烟褐与暗梅灰文士袍、黑皮小带、哑银封印；不全紫黑，不穿蜀羽衣。",
+    "weapons_fact": "所选章节以谋议与书信为主，无专属战斗兵器证据。第16回胡车儿偷戟之计不能移给贾诩。",
+    "weapons_design": "无武器常态；手持封泥印、书牍或一支笔，玄蛛只在图纹与地面影上。",
+    "mount_fact": "无专名坐骑证据。",
+    "mount_design": "主图不骑兽；出行普通车马仅远景。",
+    "reference_version": "QUN-JX-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定版本页面，2026-10-18核验",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/85.html",
+    "verified": "国战2013完杀限制回合内其他角色救援，乱武迫其他角色攻击近者或失体力，帷幕抵消黑色锦囊目标。",
+    "use": "仅提炼限制外部救援；不复制牌色免疫或全场互杀，也不照搬全部三技能。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 9,
+      "chronology_key": "009-a",
+      "title": "劝西凉兵反攻",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "李傕等求赦未成欲散军，贾诩劝其结兵攻长安；随后生乱。",
+      "selection": "card1",
+      "selection_reason": "首次关键谋议与后果一并保留，不美化为纯粹救民。",
+      "misreading_to_avoid": "具体绕吕布攻城部署由后文诸将议定，不能全部署名贾诩。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 16,
+      "chronology_key": "016-b",
+      "title": "宛城密议再变",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "先劝张绣降曹，曹操与邹氏事激起张绣愤怒，贾诩密授移营等计并奉命邀典韦饮酒。",
+      "selection": "card2+bio1",
+      "selection_reason": "深知强弱又利用对方疏漏，是明确反转。",
+      "misreading_to_avoid": "偷双戟计由胡车儿提出并实施；不画贾诩亲手盗戟或把邹氏色情化。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 18,
+      "chronology_key": "018-c",
+      "title": "识虚攻置东南伏",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "曹操绕城后扬言攻西北，贾诩判其实攻东南，劝张绣藏壮兵于东南，挫其攻势。",
+      "selection": "card3+bio2",
+      "selection_reason": "观察迹象到布防的直接因果，避免万能预言。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 59,
+      "chronology_key": "059-d",
+      "title": "涂书离韩马",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "先劝曹操假许议和，后献涂抹书信及暗结部将的办法，让韩遂马超相疑。",
+      "selection": "card4+bio3",
+      "selection_reason": "从守城判断到拆联盟关系，成熟作用仍落在人心。",
+      "misreading_to_avoid": "曹操亲笔写并涂抹后发信；贾诩献策，不亲自冒充韩遂写密约。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 68,
+      "chronology_key": "068-e",
+      "title": "立嗣点醒曹操",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "曹操问立嗣，贾诩以袁绍刘表父子作暗示，促其定曹丕。",
+      "selection": "alternate",
+      "selection_reason": "晚年政治判断可作扩展，现四阶以59回更有视觉张力。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "乱军一言",
+      "camera": "营火外眼平中全身",
+      "action": "坐在乱兵营边听众将欲散，伸一指制止话头",
+      "environment": "长安外西凉旧营、收卷行囊、疲兵远景",
+      "myth_growth": "袖口仅一线暗丝结",
+      "structure_check": "手从宽袖真实露出，腿脚不被军械遮成悬空",
+      "must_retain": "安静中年、少动作压住混乱",
+      "must_not_inherit": "不画神谕天降或救民圣者；不把董卓仍画活在帐中",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "宛城暗门",
+      "camera": "偏侧眼平近全身",
+      "action": "在张绣案边指向移动的营签，随即收手看门外",
+      "environment": "军帐夜灯、四寨抽象棋标，典韦不在同一主场景",
+      "myth_growth": "三条玄丝只连营签，避开人物身体",
+      "structure_check": "四签在案上，手不悬多印；武器由卫士持",
+      "must_retain": "低声精确、慎言不炫技",
+      "must_not_inherit": "不手持偷来的双戟；不露邹氏床帐",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "东南藏锋",
+      "camera": "城墙内侧中全身，斜上高一点机位",
+      "action": "指示军士低身进入东南角掩蔽处，自己按住衣袖",
+      "environment": "城垛、破口与内街，西北远处仅疑兵旗",
+      "myth_growth": "半张疏网沿街角压低，非漫天结界",
+      "structure_check": "指向与行进方向一致；墙厚能容人，不凭空悬梯",
+      "must_retain": "观察之后才动作，灰梅袍不金属化",
+      "must_not_inherit": "不自己持剑砍退曹操；不变施法千里预知",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "缄书断盟",
+      "camera": "案侧低机位半全身，脸和手最清晰",
+      "action": "给曹操看书牍上拟留空缺之处，曹操在后侧执笔",
+      "environment": "渭水军帐、未封信与单枚印泥，帐外河岸可见",
+      "myth_growth": "完整疏网在远地铺开，两条粗援线断开，玄蛛隐于结点",
+      "structure_check": "笔归曹操，贾诩只一指示意；纸页被桌撑住",
+      "must_retain": "沉默自信与衰老细纹、仍是文士",
+      "must_not_inherit": "不直接操控马韩身体；不写真实可执行伪造文本，不画毒瓶",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "盛宴外的迟疑",
+      "camera": "横幅张绣侧帐，贾诩近脸听其愤怒",
+      "action": "贾诩抬手示意压低声线，门外曹军灯火远",
+      "target_connection": "铜卡密议由失信与疏忽产生，前因不靠色情展示",
+      "first_person_line_original": "声音放低些。看清他放松了哪一处，再决定从哪里动。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "人物只议事，无详细袭杀步骤；邹氏不入画作物化对象",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "jiaxu_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "三日看城",
+      "camera": "横幅城内窗口，贾诩前景观察远处曹军移动",
+      "action": "把西北与东南两枚营签分开摆放，张绣侧听",
+      "target_connection": "银卡布伏直接源于绕城、疑兵与薄弱处的判断",
+      "first_person_line_original": "越要我们看向西北，便越该把东南看仔细。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "远景军旗可见但无全知俯视地图，手与棋签一一对应",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "jiaxu_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "旧话后的新疑",
+      "camera": "横幅曹营，曹操刚从与韩遂会话归来，贾诩前景停笔沉思",
+      "action": "贾诩将未封书牍推到曹操面前，侍从远立",
+      "target_connection": "金卡涂书之计是在阵前叙旧后补强，不把先前会面全说成贾诩执行",
+      "first_person_line_original": "旧话已经让他起疑。接下来的空白，他会自己补上。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "曹操与贾诩须貌不同；不直接展示误导性书信内容",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "jiaxu_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "jiaxu_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "给一名敌人施加短时封援印：其不能获得其他单位提供的生命治疗；自身产生的治疗仍可生效。",
+    "active": {
+      "skill_id": "jiaxu_a1",
+      "name": "缄印绝援",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "给一名敌人施加短时封援印：其不能获得其他单位提供的生命治疗；自身产生的治疗仍可生效。",
+      "extra_effect": "不禁能量、不清除增益、不阻所有护盾、不控制攻击方向；主动不另堆伤害，首领抗性与可净化规则待系统定稿。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "目标周围一枚封口纹与两根断开的援线，蛛网粗疏；不出现毒液、蜘蛛咬人或绿色病皮。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "jiaxu_p1",
+        "name": "审隙",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "封援持续时间提高",
+        "trigger": "封援成功",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "目标周围一枚封口纹与两根断开的援线，蛛网粗疏；不出现毒液、蜘蛛咬人或绿色病皮。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "jiaxu_p2",
+        "name": "远谋",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "封援目标选择距离提高",
+        "trigger": "选择目标",
+        "target": "选择范围",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "目标周围一枚封口纹与两根断开的援线，蛛网粗疏；不出现毒液、蜘蛛咬人或绿色病皮。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "jiaxu_p3",
+        "name": "敛息",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "自身受到的范围伤害降低",
+        "trigger": "被范围伤害命中",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "目标周围一枚封口纹与两根断开的援线，蛛网粗疏；不出现毒液、蜘蛛咬人或绿色病皮。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "jiaxu_p4",
+        "name": "缄锋",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "主动能量消耗降低",
+        "trigger": "施放封援",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "目标周围一枚封口纹与两根断开的援线，蛛网粗疏；不出现毒液、蜘蛛咬人或绿色病皮。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "jiaxu_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "jiaxu_p1",
+          "jiaxu_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "jiaxu_p1",
+          "jiaxu_p2",
+          "jiaxu_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "jiaxu_p1",
+          "jiaxu_p2",
+          "jiaxu_p3",
+          "jiaxu_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

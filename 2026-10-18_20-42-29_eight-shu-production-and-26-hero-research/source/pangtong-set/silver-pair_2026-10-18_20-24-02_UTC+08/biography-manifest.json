@@ -1,0 +1,174 @@
+{
+  "hero_id": "pangtong",
+  "asset_id": "pangtong_bio_to_03",
+  "rank": "silver",
+  "target_card_id": "pangtong_card_03",
+  "status": "superseded candidate pending local-foreground repair acceptance",
+  "generated_with": "builtin image_gen; one call for this asset",
+  "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-079b6c57-f8ae-41fa-a0b0-c012b9bc7a38.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-铜银传记-耒阳理事-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "b80bf375fa8dc044490b8bb98ae8fcb41474938c3a17f951ea7f1c12ac6cb00c"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "role": "Approved Pang Tong original face/body and clean drawing language only; exclude first scene/pose and dense cloth lines",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+      "actually_viewed_before_generation": true
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "role": "Approved Zhang Fei face/body only; change clothing to later military inspection period; exclude first scene/shop/tiger",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "prompt": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/prompt-silver-biography.txt",
+  "source_fact_url": "https://zh.wikisource.org/zh/三國演義/第057回",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-face-native100.png",
+      "box": [
+        500,
+        160,
+        720,
+        420
+      ],
+      "scale": "native100% no resize"
+    },
+    "writing-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-writing-hand-native100.png",
+      "box": [
+        450,
+        500,
+        650,
+        690
+      ],
+      "scale": "native100% no resize"
+    },
+    "resting-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-resting-hand-native100.png",
+      "box": [
+        760,
+        570,
+        900,
+        685
+      ],
+      "scale": "native100% no resize"
+    },
+    "zhang-face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-zhang-face-native100.png",
+      "box": [
+        720,
+        30,
+        1010,
+        280
+      ],
+      "scale": "native100% no resize"
+    },
+    "sunqian-face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-sunqian-face-native100.png",
+      "box": [
+        1130,
+        100,
+        1340,
+        335
+      ],
+      "scale": "native100% no resize"
+    },
+    "petitioner-hands": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-petitioner-hands-native100.png",
+      "box": [
+        785,
+        700,
+        970,
+        910
+      ],
+      "scale": "native100% no resize"
+    },
+    "petitioner": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-petitioner-native100.png",
+      "box": [
+        990,
+        375,
+        1536,
+        810
+      ],
+      "scale": "native100% no resize"
+    },
+    "desk": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-desk-native100.png",
+      "box": [
+        0,
+        600,
+        770,
+        895
+      ],
+      "scale": "native100% no resize"
+    },
+    "case-rolls": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-case-rolls-native100.png",
+      "box": [
+        0,
+        660,
+        420,
+        800
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-cloth-native100.png",
+      "box": [
+        210,
+        370,
+        530,
+        650
+      ],
+      "scale": "native100% no resize"
+    },
+    "phoenix": {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/qa/biography-phoenix-native100.png",
+      "box": [
+        1185,
+        0,
+        1536,
+        185
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "creative_postprocessing": "none; copied generated PNG byte-for-byte",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:33 UTC+08",
+    "full_image": true,
+    "thumbnail": true,
+    "all_listed_native_crops": true,
+    "identity_reference_faces_compared": true,
+    "findings": [
+      "完整图、缩略图及11个原生100%区实际view；对照庞张身份，孙乾为新原创次位文士未声称已有锁脸。",
+      "庞统坐姿判案、张飞孙乾旁观、当事人得答直接对应第57回，与站姿卡镜头不同。张飞由怒转惊/信的神态较克制，不是战斗。",
+      "右手握单笔，笔杆连续，笔尖落纸；左手五指自然按文书，案卷/砚/笔筒物理位置可读，没有多笔多手硬错。",
+      "前景当事人背肩与双手明显柔焦，最近案沿和左卷也有柔度；中央判书与笔手清。严格前景清爽目标没有完全达到，必须root按非关键前景规则裁定，不能全项径称通过。",
+      "褐衣仍有低对比细碎纹、木桌有细片状做旧；未见散布皮肤/布/纸等不同材料上的高亮金针点，但不是已清成无细纹。",
+      "凤位于室外小而淡，县堂木构纸卷无火。主体脸与两手清，孙乾手部分被当事人遮挡属场景遮挡，未见硬增肢。"
+    ]
+  },
+  "successor_candidate": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png",
+  "reason": "foreground petitioner shoulder/back/hands too soft over substantial area; one targeted redraw authorized"
+}

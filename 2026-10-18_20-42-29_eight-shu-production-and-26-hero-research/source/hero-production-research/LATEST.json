@@ -1,0 +1,25 @@
+{
+  "updated_at": "2026-10-18T20:33:33.513517+08:00",
+  "manifest": "hero-production-research/2026-10-18_20-33-33_UTC+08/魏吴群26将_总索引_v1.json",
+  "readme": "hero-production-research/2026-10-18_20-33-33_UTC+08/魏吴群26将_总索引_v1.md",
+  "packages": {
+    "wei": {
+      "json": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+      "markdown": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.md",
+      "sha256": "ecb5ca2c62991936dda34c0b1698b096b115c1d17e15af870a1c3bd1dc509c25",
+      "count": 10
+    },
+    "wu": {
+      "json": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+      "markdown": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.md",
+      "sha256": "896a54f1fa0287bb7834d786175f44636db5ea549ca72efa6d5f2786e8042a16",
+      "count": 8
+    },
+    "qun": {
+      "json": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+      "markdown": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.md",
+      "sha256": "dfe8536c9f038a314b5e7a9561bb0b12330ea36fa451d50ec53c7ced119e8539",
+      "count": 8
+    }
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "hero_id": "sunce",
+  "name": "孙策",
+  "faction": "wu",
+  "core_personality": "锋锐敢决，既争先破阵，也有信人纳众的一面。",
+  "myth_symbol_proposal": {
+    "name": "腾潮狻猊",
+    "origin": "原创神兽提案，非原文小霸王的字面化身",
+    "reason": "年轻狮首昂起、前爪跃岸表现开疆；棕金短鬃，不用许褚白额虎斑、张飞黑虎须。",
+    "growth": "浪沫狮爪→半鬃→跃岸狮形→站上江岸岩脊的巨狻猊"
+  },
+  "differentiation": "年轻开疆先锋，以第一轮冲锋优势和首目标开路为核心；不同吕布持续单挑、马超长距离骑阵、许褚笨重蓄力。",
+  "identity": {
+    "face": "原创青年高颧、宽额、硬朗下颌、亮而不圆的眼；几乎无须，不能变少年儿童。",
+    "hair": "原创高束短马尾、窄额巾，无吕布双长翎。",
+    "body": "原创强健长腿、肩背展开但非巨躯。",
+    "clothes": "浅赭与海青短袍、铁灰甲，红仅小缨；甲由随父的简单板片到开疆统帅的整洁胸甲，皮布仍哑光。",
+    "weapons_fact": "第7回挺枪并射陈生；第15回神亭与太史慈持枪战，下马后夺短戟。无所核固定霸王枪专名。",
+    "weapons_design": "统一宽叶直枪配短红缨，故事弓为辅；神亭画马上枪战，短戟抢夺留候选，不合并四武器。",
+    "mount_fact": "原文骑马，未核到固定坐骑专名。",
+    "mount_design": "黄骠战马、黑鬃，小白鼻连续辨识；非白马王子模板。",
+    "reference_version": "WU-SC-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+    "url": "https://www.sanguosha.com/act/sunce/",
+    "verified": "官方孙策专题列激昂与魂姿等不同模式技能；激昂与对抗触发关联，魂姿为低血觉醒。",
+    "use": "仅取主动争先和成长启发；不复制低血觉醒树，不把所有模式叠成一套。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 7,
+      "chronology_key": "007-a",
+      "title": "随父出征射陈生",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "主动请随孙坚，阵前挺枪，见陈生助战便射落。",
+      "selection": "card1",
+      "selection_reason": "起步有勇，不将少年起点画成吴王。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 15,
+      "chronology_key": "015-b",
+      "title": "玉玺质兵渡江",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "朱治吕范献议，孙策以传国玺为质借袁术兵三千、马五百，出行遇周瑜。",
+      "selection": "card2+bio1",
+      "selection_reason": "独立创业的资源与选择转折。",
+      "misreading_to_avoid": "玉玺是质物，不能铜卡还手握该玺渡江；不是袁术自愿无代价归还。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 15,
+      "chronology_key": "015-c",
+      "title": "神亭斗太史慈",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "十三骑出营，孙策与太史慈马上两番各约五十合，后下马缠斗，双方收军。",
+      "selection": "card3+bio2",
+      "selection_reason": "个人勇武最有辨识度，山地构图区别渡江。",
+      "misreading_to_avoid": "未在此战生擒太史慈，不能画压倒性完胜。"
+    },
+    {
+      "event_id": "d",
+      "chapter": 15,
+      "chronology_key": "015-d",
+      "title": "释慈纳众安民",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "泾县擒太史慈后亲解缚赠袍，信任其收众；次日日中按约归来，军势壮大而禁掠。",
+      "selection": "card4+bio3",
+      "selection_reason": "从个人勇烈到能用人才，黄金不必依靠杀戮堆叠。",
+      "misreading_to_avoid": "擒慈布伏有周瑜之谋，孙策不独占所有智计。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 29,
+      "chronology_key": "029-e",
+      "title": "江东声势与后来的祸变",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第029回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "本章开头述取庐江、华歆投降，随后许贡家客刺伤、于吉纠葛与死亡。",
+      "selection": "alternate",
+      "selection_reason": "可扩成晚年篇；本四阶把成熟落在第15回纳众，不美化暴怒杀人。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "父阵初锋",
+      "camera": "侧面眼平骑射中景",
+      "action": "枪已收束，右手刚放弦，目光跟箭去陈生方向",
+      "environment": "汉水近岸军阵，孙坚只后景半身",
+      "myth_growth": "浪沿形成短狮爪痕",
+      "structure_check": "弓弦形、护腕、手指与枪鞍固定各自明确",
+      "must_retain": "成年青年脸、较少甲片",
+      "must_not_inherit": "不射成张虎；不多箭齐飞从同一弓出",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "借兵渡江",
+      "camera": "船头斜上低视，近全身",
+      "action": "立在跳板踏上岸的第一步，枪垂侧，由兵卒导马",
+      "environment": "江岸木船、坡路，初创队伍有规模但不满天兵",
+      "myth_growth": "狻猊半鬃在浪中扬起",
+      "structure_check": "踏板承重、枪尖离旁人；导马不越窄板四蹄悬空",
+      "must_retain": "浅赭短袍、少年锐气已转自信",
+      "must_not_inherit": "手中无仍作抵押的玉玺；无称帝冠",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "神亭争锋",
+      "camera": "马头外侧低角度，枪轴斜贯画面",
+      "action": "双手推枪与太史慈枪势交错前一瞬；不交成软杆结",
+      "environment": "山岭边开阔平川，十二随骑退远",
+      "myth_growth": "完整狻猊跃岸般张爪，但不碰对手兵器",
+      "structure_check": "两根枪各自直线；马距离留够尖端接战空间",
+      "must_retain": "硬朗同脸、微破袍边",
+      "must_not_inherit": "不画太史慈跪地归降，这场尚未决胜",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "孙郎开疆",
+      "camera": "正面偏侧中全身，站在营门土阶",
+      "action": "放低枪锋迎归队，身后将士整列，百姓带牛酒在外侧",
+      "environment": "江南田埂与真实营门，不建皇城",
+      "myth_growth": "巨狻猊收爪站稳岩脊，气势由扑击变守土",
+      "structure_check": "兵器落地直立，空手示意放行；百姓不压军队路径",
+      "must_retain": "强而有度，主角仍年轻",
+      "must_not_inherit": "不得把安民画成万人神跪；不把神兽当实史坐骑",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "质玺换前路",
+      "camera": "横幅袁术厅内，孙策近侧、吕范后景",
+      "action": "把玺匣推向袁术，身体已转向出门方向",
+      "target_connection": "青铜渡江之前真正代价，不虚构凭空得军",
+      "first_person_line_original": "这方印，先留在这里。我要带人渡江，把路走出来。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "匣放桌不悬空，双方只一只手接物；不同时拿枪",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "sunce_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "十三骑上神亭",
+      "camera": "横幅山坡前侧，主角回望劝阻将领",
+      "action": "孙策持枪停马望岭南，程普抬手劝止，太史慈两骑自远坡来",
+      "target_connection": "直接铺垫银卡交锋；莽锐为性格，不伪称完美谋算",
+      "first_person_line_original": "既已到这里，我便要亲眼看清。来者若敢战，我接着。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "十三骑不强行逐人塞满；主枪与缰分开",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "sunce_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "日中归约",
+      "camera": "横幅营门，孙策前景迎太史慈归来",
+      "action": "孙策伸手迎接，立竿日影与归队在旁，太史慈披赠袍",
+      "target_connection": "黄金纳众安民来自信任人才；同章晚于神亭",
+      "first_person_line_original": "我信的是他这个人。约定既在，就等他回来。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "日竿阴影方向与日光一致；两人握手不能六指；归军保持远景",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunce_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "sunce_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "向面前第一名敌人发起一次短直线枪冲；战斗开局的一次施放造成更高伤害，不能穿过阻挡者。",
+    "active": {
+      "skill_id": "sunce_a1",
+      "name": "破岸先登",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "向面前第一名敌人发起一次短直线枪冲；战斗开局的一次施放造成更高伤害，不能穿过阻挡者。",
+      "extra_effect": "三星起：此开局强化命中时小幅击退该目标；其他施放不额外控场。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "狻猊爪沿直线路径踩出浪纹，开局标识使用一次后熄灭。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "sunce_p1",
+        "name": "争先",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "战斗开始时获得的初始能量提高",
+        "trigger": "开战",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "狻猊爪沿直线路径踩出浪纹，开局标识使用一次后熄灭。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunce_p2",
+        "name": "挺锋",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "主动枪冲伤害提高",
+        "trigger": "主动命中",
+        "target": "首个敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "狻猊爪沿直线路径踩出浪纹，开局标识使用一次后熄灭。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunce_p3",
+        "name": "开路",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "开局强化击退距离提高",
+        "trigger": "强化已击退",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "狻猊爪沿直线路径踩出浪纹，开局标识使用一次后熄灭。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunce_p4",
+        "name": "奋进",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "首次主动后的短时普攻速度提高",
+        "trigger": "首次主动结算",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "狻猊爪沿直线路径踩出浪纹，开局标识使用一次后熄灭。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "sunce_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "sunce_p1",
+          "sunce_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "sunce_p1",
+          "sunce_p2",
+          "sunce_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "sunce_p1",
+          "sunce_p2",
+          "sunce_p3",
+          "sunce_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

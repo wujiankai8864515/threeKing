@@ -1,0 +1,70 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+1"
+      }
+    ],
+    "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+    "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+1"
+      }
+    ],
+    "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+    "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+2"
+      },
+      {
+        "name": "破翎",
+        "level": "+2"
+      }
+    ],
+    "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+    "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+2"
+      },
+      {
+        "name": "破翎",
+        "level": "+2"
+      },
+      {
+        "name": "老骥",
+        "level": "+2"
+      }
+    ],
+    "status": "All names, levels and 1/1/2/3 slots are UI layout examples, not final mechanics; 老骥 is a new display proposal only, not an approved skill",
+    "troop_icon_status": "Unmodified shared template placeholder, not final archer-class icon"
+  }
+}

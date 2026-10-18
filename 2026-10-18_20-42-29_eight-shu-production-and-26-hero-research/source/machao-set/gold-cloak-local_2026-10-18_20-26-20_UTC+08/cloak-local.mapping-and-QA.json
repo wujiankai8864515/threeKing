@@ -1,0 +1,22 @@
+{
+  "status": "candidate_pending_independent_local_material_review",
+  "asset_id": "machao_card_04",
+  "tool": "builtin imagegen",
+  "calls_this_authorization": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-chengdu_2026-10-18_20-13-39_UTC+08/马超-黄金-归蜀定锋-候选1-2026-10-18_20-13-39_UTC+08.png",
+  "output": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+  "scope": "Only isolated pale specks on left red/ivory flying cloth patch approximatelyx20-190,y850-1100; preserve metal/horse/design.",
+  "observations": {
+    "target": "Native before/after patch shows isolated pale flecks substantially removed, leaving coherent matte red/ivory fold planes; not blurred.",
+    "invariants": "Full view and native face/hand/horse crops show no obvious identity, grip, spear-axis, whip, horse or wolf redesign. Structural metal relief/rivets preserved.",
+    "limits": "Other original frame issues unchanged: wolf ear close to top, whip end near right; lower spear tail hidden beside helmet. Do not call unrelated surfaces globally repaired."
+  },
+  "qa": "QA native before/after patch, face, hands, horse chest, armor and crop-boxes.",
+  "next_action": "Independent audit, then parent actual framed review. No additional generation under this authorization."
+}

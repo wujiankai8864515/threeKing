@@ -1,0 +1,40 @@
+{
+  "kind": "failed first silver pose",
+  "method": "one builtin generation",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "role": "approved Ma Chao blackiron original identity, palette, horse, material family; no first-card pose/scene"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "role": "approved Zhang Fei silver only for opponent face/body/black-red identity; exclude old Hulao story/pose/tiger"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-白银-葭萌夜烈-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "4dd9e2c7252e2317c1f491133048f639c6b9fe5c8ca2a775895a121c0c8b93b1"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/silver-prompt.txt",
+  "status": "FAILED hard weapon structure: second lower shaft from forward hand differs from upper main shaft and forks into head; root/audit reject; no patching this composition",
+  "evidence": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/qa/silver-suspect-front-grip-native100.png",
+  "successor_candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png"
+}

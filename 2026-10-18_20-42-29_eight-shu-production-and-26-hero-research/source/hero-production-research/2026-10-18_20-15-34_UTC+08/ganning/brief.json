@@ -1,0 +1,358 @@
+{
+  "hero_id": "ganning",
+  "name": "甘宁",
+  "faction": "wu",
+  "core_personality": "胆大好胜、讲报恩，锋芒与旧怨并存；水陆都敢险进。",
+  "myth_symbol_proposal": {
+    "name": "墨鳍浪鲨",
+    "origin": "原创水兽神话形，非原著神兽",
+    "reason": "细长流线、弯刀般背鳍与浪切，铜铃和锦帆作人间辨识；不再给他虎豹。",
+    "growth": "一枚鳍影→半身破浪→全鲨侧掠→巨鲨虚影顺夜骑路径切过，落点仍在地面"
+  },
+  "differentiation": "快进快出的增益拆除者，铜铃、锦布、刀弓和铁练按场景切换。与张辽切后排延迟行动不同，不偷徐晃能量抑制。",
+  "identity": {
+    "face": "原创锐窄颧、略鹰钩鼻、浓眉挑眼、短乱髭，嘴角带桀骜但非嬉笑。",
+    "hair": "原创高束辫尾与短额巾，铜铃系腰不满头铃。",
+    "body": "原创肩背结实、腰窄、臂长，身上旧浅疤局部不猎奇。",
+    "clothes": "深靛锦纹短袍、灰铁小片甲、米白束带；红徽小结。锦帆是原著旧事，不等于全身亮金锦衣。",
+    "weapons_fact": "第38回刀斩邓龙，第39回射黄祖，第67回手执铁练登城及宴中双戟，第68回拔剑激励、披甲骑袭；不是始终同一双刀。",
+    "weapons_design": "主武器单柄略弯厚背战刀，弓/铁练随选场景替换；铁练是真实有重力的铁链，不画刚性刀杆般横悬。",
+    "mount_fact": "第68回百骑并白鹅翎为号；未核专属名马。",
+    "mount_design": "深褐快马、白额窄纹，黄金盔上单白鹅翎，不继承吕布长翎。",
+    "reference_version": "WU-GN-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/64.html",
+    "verified": "国战2013奇袭把黑牌转过河拆桥，主打破坏资源。",
+    "use": "转为拆一项可驱散增益；不照搬手牌、不堆能量吸取和沉默。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 38,
+      "chronology_key": "038-a",
+      "title": "锦帆旧影转向",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "本回追叙铜铃、锦帆江湖旧事、投刘表后受黄祖留用，苏飞助其自择去向。",
+      "selection": "card1",
+      "selection_reason": "用有边界的追叙建立早期形象，不把劫掠包装成护民义军。",
+      "misreading_to_avoid": "按人生时间置于归吴前；章数相同但不是38回当下仍在做贼。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 39,
+      "chronology_key": "039-b",
+      "title": "追射黄祖并报苏飞",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第039回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "料黄祖东门逃路，追射落马后献首受赏；随后为苏飞求赦。",
+      "selection": "card2+bio1",
+      "selection_reason": "成为受任军将后仍报旧恩；铜卡战功与传记恩义同段相连。",
+      "misreading_to_avoid": "黄祖在第39回被杀；苏飞是被赦，非甘宁亲手斩。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 67,
+      "chronology_key": "067-c",
+      "title": "皖城铁练先登",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "冒矢石执铁练登城，打倒朱光；士卒随后杀朱光，吕蒙擂鼓。",
+      "selection": "card3+bio2",
+      "selection_reason": "极强个人姿态，兵器类别必须尊重情境。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 68,
+      "chronology_key": "068-d",
+      "title": "百翎夜袭曹营",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "率百骑白鹅翎为识，杀入绕出曹营，中军车仗阻隔未能进，尽归无失。",
+      "selection": "card4+bio3",
+      "selection_reason": "最强辨识战例，与水上旧事拉开空间。",
+      "misreading_to_avoid": "没有刺杀曹操成功；周泰接应不能删成独身百战。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 83,
+      "chronology_key": "083-e",
+      "title": "负伤死于富池口",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第083回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "病中出战被沙摩柯箭伤，退至树下而亡，群鸦绕尸。",
+      "selection": "rejected",
+      "selection_reason": "保留结局，不以神鸦强改为复活能力或终阶大胜。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "锦帆旧客",
+      "camera": "舟头平视偏侧全身",
+      "action": "持收鞘刀立在橹旁，腰铜铃随船倾斜",
+      "environment": "普通江船挂一幅旧锦帆，岸边商舟留距离",
+      "myth_growth": "船影下仅一道墨鳍",
+      "structure_check": "脚距适应摇船，刀鞘不穿甲板，帆布有风方向",
+      "must_retain": "桀骜青年、实用锦布",
+      "must_not_inherit": "不画劫掠百姓庆典或义军救城",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "江夏追影",
+      "camera": "骑射侧后机位、脸回转可辨",
+      "action": "追骑转腰放箭，箭刚离弓，远方黄祖背影",
+      "environment": "东门外道路通往荆州，尘中程普在后",
+      "myth_growth": "半鲨沿弓势掠出但不化为箭身",
+      "structure_check": "弓弦张力、腰髋、马鞍成立；刀收鞘",
+      "must_retain": "铜铃与窄脸保留，新增军甲",
+      "must_not_inherit": "无近景首级血雾；不要把程普画成被射目标",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第039回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "铁练攀城",
+      "camera": "从城墙边下望斜角，主角脸上仰",
+      "action": "一足踏梯阶一手扶城缘，另一手短幅抡铁练",
+      "environment": "皖城墙垛、箭痕与下方攻兵",
+      "myth_growth": "全鲨侧影贴着城外尘浪上掠",
+      "structure_check": "铁链每段有重力弧与连接；不一手无限延长；支撑脚清楚",
+      "must_retain": "露小臂与紧身短袍，神情锋利",
+      "must_not_inherit": "不是吕蒙擂鼓，不用铁链变激光鞭",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "百翎入夜",
+      "camera": "马头外侧低前角，全身斜入右前",
+      "action": "提刀护侧从营南门冲出，头向后确认同伴",
+      "environment": "曹营鹿角、车仗、局部火把和月光，队伍短而紧",
+      "myth_growth": "巨墨鳍鲨顺地面尘浪游掠，不把战场变海底",
+      "structure_check": "刀柄包握、马腿步态、鹿角通道宽度，白翎一根固定盔顶",
+      "must_retain": "深靛与米白、铜铃哑光、勇而有数",
+      "must_not_inherit": "不画曹操尸身；不得画百人皆披巨大孔雀尾",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "立功不忘旧恩",
+      "camera": "横幅帐中，甘宁近景向孙权拱手，苏飞在侧后",
+      "action": "献功之后请赦苏飞，官印置掌前表示愿交还",
+      "target_connection": "铜卡追敌功劳带来求赦话语权，直接揭示这一阶段的恩义选择",
+      "first_person_line_original": "该报的仇，我报了。该还的恩，也不能忘。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "只交印不交血首；苏飞囚具不过度描写",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "ganning_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第039回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "鼓下争先",
+      "camera": "横幅城下前景甘宁准备铁练，吕蒙在军鼓侧",
+      "action": "甘宁向城墙抬眼，身后攻兵收好攀城器",
+      "target_connection": "银卡先登来自吕蒙速攻部署，各人功劳分清",
+      "first_person_line_original": "鼓声一起，我先上。后面的人，跟紧这一步。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "铁练卷在掌旁有重量，不能缠穿手腕；军鼓不挡主脸",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "ganning_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第067回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "一百根白翎",
+      "camera": "横幅夜营近景，主角向士卒递白鹅翎",
+      "action": "酒肉已撤，众骑整甲，甘宁检查最后一名同伴",
+      "target_connection": "黄金夜袭的识别与动员前因；不把饮酒写成现实作战建议",
+      "first_person_line_original": "认准这根白翎。去时一百人，回时也要齐。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "递羽一只手，另一手扶盔；白翎与人物数无需精确画满一百",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "ganning_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "ganning_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "快速接近一名敌人，刀击并移除其一项可驱散的正面增益；优先级由战斗规则明确，不处理永久天赋。",
+    "active": {
+      "skill_id": "ganning_a1",
+      "name": "锦铃掠阵",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "快速接近一名敌人，刀击并移除其一项可驱散的正面增益；优先级由战斗规则明确，不处理永久天赋。",
+      "extra_effect": "不额外偷能或沉默；三星起仅允许命中后短距撤回原路。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "墨鳍划过一枚增益纹使其碎成整块消散，不落金粉。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "ganning_p1",
+        "name": "疾舟",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "移动速度提高",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "墨鳍划过一枚增益纹使其碎成整块消散，不落金粉。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "ganning_p2",
+        "name": "破饰",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "对带有可驱散增益的敌人伤害提高",
+        "trigger": "命中满足条件者",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "墨鳍划过一枚增益纹使其碎成整块消散，不落金粉。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "ganning_p3",
+        "name": "回帆",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动撤回距离提高",
+        "trigger": "主动撤回可用时",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "墨鳍划过一枚增益纹使其碎成整块消散，不落金粉。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "ganning_p4",
+        "name": "夺隙",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "成功驱散后本主动冷却缩短",
+        "trigger": "本次成功驱散",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "墨鳍划过一枚增益纹使其碎成整块消散，不落金粉。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "ganning_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "ganning_p1",
+          "ganning_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "ganning_p1",
+          "ganning_p2",
+          "ganning_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "ganning_p1",
+          "ganning_p2",
+          "ganning_p3",
+          "ganning_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

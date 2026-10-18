@@ -1,0 +1,40 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记-风起江上-候选1.png",
+    "sha256": "1bd4d1fbe1a4bcb933180e055e632c45aec619c6132f2d1afeab666ee822abfe",
+    "size": [
+      1536,
+      1024
+    ],
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+        "role": "Zhuge identity and clean planar painting language",
+        "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2"
+      }
+    ],
+    "status": "independent_QA_pass_candidate",
+    "user_final": false,
+    "tool": "builtin imagegen",
+    "prompt_file": "story-prompt.txt"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-白银-七星借风-候选1.png",
+    "sha256": "7d7904150de746cb739d86c3c144a9511476ecfe90f12f4fcbaea2428853d8ed",
+    "size": [
+      1024,
+      1536
+    ],
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+        "role": "Zhuge identity and clean planar painting language",
+        "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2"
+      }
+    ],
+    "status": "superseded_by_flagfix",
+    "user_final": false,
+    "tool": "builtin imagegen",
+    "prompt_file": "card-prompt.txt"
+  }
+]

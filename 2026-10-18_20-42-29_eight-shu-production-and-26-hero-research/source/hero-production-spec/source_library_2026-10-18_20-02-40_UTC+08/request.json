@@ -1,0 +1,44 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记-卧牛相认-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记-v1-乱军寻主候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记-西凉起兵-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    }
+  ]
+}

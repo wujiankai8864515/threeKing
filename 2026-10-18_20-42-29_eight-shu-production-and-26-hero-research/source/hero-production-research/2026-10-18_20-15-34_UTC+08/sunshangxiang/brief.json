@@ -1,0 +1,372 @@
+{
+  "hero_id": "sunshangxiang",
+  "name": "孙尚香",
+  "faction": "wu",
+  "core_personality": "以孙夫人小说身份为本，严毅尚武，有主动决断和临危发声；不只作美人计道具。",
+  "myth_symbol_proposal": {
+    "name": "月刃灵猞",
+    "origin": "原创猞猁神话符号；不是原著坐骑或弓腰姬的史实证明",
+    "reason": "耳簇、轻步与短弧月纹适合护行机动，避开虎将与朱雀女神同型。",
+    "growth": "衣边耳簇纹→半身短尾猞影→轻步全身→月弧下护住车旁通路的灵猞"
+  },
+  "differentiation": "武装协同的轻装护行者：一次侧步与选定伙伴的同目标协击，不变华佗式治疗，也不画为吕布/貂蝉魅惑同模。",
+  "identity": {
+    "name_boundary": "项目沿用常见游戏名孙尚香；第7回小说记孙坚女名仁，第54—55回称孙夫人。本包不声称“孙尚香”三字为所核原著实名。",
+    "face": "原创成年女性，清楚颧骨与下颌、平直英眉、目光坚毅；非幼态大眼、无娇羞固定表情。",
+    "hair": "原创高束长髻配两股实用细辫，短金属簪固定；冠饰不挡武事动作。",
+    "body": "原创修长结实成年体型，肩臂与腿有力量，轻装但遮护完整。",
+    "clothes": "乌梅紫、灰白与少量烟铜护腕；红小结。前两卡无夸张婚纱，后两卡旅行裙袍便步，护具为原创提案；不做裸露战甲。",
+    "weapons_fact": "第54/55回房中枪刀及侍婢佩剑、自幼好观武事、令侍婢击剑；并未在所选段给她本人一把专名弓或双刀。",
+    "weapons_design": "本项目拟用短弓作战斗职业辨识，明确原创；故事卡只在武事场景挂于架或背负，斥将时不捏造开弓杀人。配一柄实用短剑备装，不同时双持弓剑。",
+    "mount_fact": "第55回明确乘车；无专属坐骑。",
+    "mount_design": "主故事保留车与步行，游戏移动可徒步；不为凑骑姿强换战马。",
+    "reference_version": "WU-SSX-text-v1，待身份样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/70.html",
+    "verified": "国战2013枭姬与装备失去后摸牌有关，结姻为受伤男性目标协同回复。",
+    "use": "仅取武装变化与伙伴协同；不沿用性别限制、结婚加血或官方立绘。短弓为原创职业提案。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 54,
+      "chronology_key": "054-a",
+      "title": "武事闺阁",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第054回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "婚夜房中枪刀森列、侍婢佩剑。",
+      "selection": "card1",
+      "selection_reason": "以她掌控的尚武空间建立底色，不假造年轻上阵战功。",
+      "misreading_to_avoid": "自幼好观武事解释在55回开头，非54回已写她百步穿杨。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 55,
+      "chronology_key": "055-b",
+      "title": "笑令撤兵器",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "听刘备畏惧，笑问久战何惧，命撤兵器解侍婢剑，成亲。",
+      "selection": "card2+bio1",
+      "selection_reason": "从威仪到主动调和关系，铜卡不是一味加甲。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 55,
+      "chronology_key": "055-c",
+      "title": "决意随行出吴",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "识破刘备借祭祖诉离愁，决定相随，提出以江边祭祖为由同行；乘车出城。",
+      "selection": "card3+bio2",
+      "selection_reason": "自主选择产生行动转折，故事压在同章但时间不重复。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 55,
+      "chronology_key": "055-d",
+      "title": "卷帘斥将护行",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "车前斥徐盛丁奉放路；后与赵云断后再斥陈武潘璋等，车队前进。",
+      "selection": "card4+bio3",
+      "selection_reason": "由尚武气质到临危担当的最高状态，明确她用威仪和话语而非斩将。",
+      "misreading_to_avoid": "渡江船由诸葛亮接应；不能写她一人击败所有吴军。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 61,
+      "chronology_key": "061-e",
+      "title": "误信母病归吴",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第061回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "周善携伪急讯劝其带阿斗归吴，赵云张飞截江留下阿斗。",
+      "selection": "rejected",
+      "selection_reason": "母病信息是骗局，不以挟幼子作为本线荣耀升级。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "f",
+      "chapter": 84,
+      "chronology_key": "084-f",
+      "title": "闻误讯而死",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第084回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "小说写误听刘备死讯后投江，实际刘备已到白帝。",
+      "selection": "rejected",
+      "selection_reason": "悲剧可另篇讨论，本轮不美化自尽、不作晋升奖励或玩法。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "武阁自持",
+      "camera": "内廊眼平侧前中全身",
+      "action": "站在兵器架旁检查侍婢队列，空手扶架边",
+      "environment": "婚前后统一武阁空间，枪刀整列与两名持剑侍婢",
+      "myth_growth": "衣边一枚耳簇影",
+      "structure_check": "架上长枪笔直有支架；主角不徒手摸刃",
+      "must_retain": "成年坚毅脸、乌梅紫衣",
+      "must_not_inherit": "非情色闺房，非百名持械女卫拥成一堵墙",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第054回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "一笑撤锋",
+      "camera": "略低正侧近中景",
+      "action": "一手示意侍婢把剑入鞘，另一手自然收袖",
+      "environment": "红烛少量，兵器架已在后退移，空间由紧变开",
+      "myth_growth": "半身灵猞收爪月弧淡淡",
+      "structure_check": "示意手自然五指；侍婢归鞘剑轴正确",
+      "must_retain": "她主动决定，不低头服从怯懦",
+      "must_not_inherit": "不手持弓瞄准新婚刘备；不把撤刀写成永弃武事",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "出吴自主",
+      "camera": "车门外侧略高视全身",
+      "action": "扶车框登车，回看府门，随身物件很少",
+      "environment": "南徐外道、赵云军士远处等候，车轮真实",
+      "myth_growth": "全猞轻步在车侧土影里",
+      "structure_check": "登车脚踏/扶手受力；裙摆不穿车辐",
+      "must_retain": "旅行便装与同脸、态度坚定",
+      "must_not_inherit": "不画骑马冲阵或带阿斗，此时尚非61回",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "卷帘护路",
+      "camera": "车前低视近全身，车沿给脚足够站位",
+      "action": "卷帘后正色向拦路将领发话，一手压车栏稳身",
+      "environment": "山脚道路，徐盛丁奉下马，赵云在侧后护卫",
+      "myth_growth": "灵猞立在通路月弧边，体量大而不遮将领反应",
+      "structure_check": "车轮落地；拉帘手与栏手明确；不站窄轮轴上",
+      "must_retain": "以眼神与姿态压场，不靠艳丽珠宝",
+      "must_not_inherit": "不画她弓杀吴将；别把所有人画成魅惑中术",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "兵器可收，主意未改",
+      "camera": "横幅武阁，主角正脸、管家婆侧身传话",
+      "action": "听完话后微笑命侍婢解剑，刘备在远侧略局促",
+      "target_connection": "直接解释青铜收锋是一种主动处事，而非身份被抹去",
+      "first_person_line_original": "兵器可以先收起来。我的主意，不会因此收回去。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "侍婢每人一柄剑，刀架与衣褶分清",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "sunshangxiang_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "这一程我同行",
+      "camera": "横幅窗边二人议行，孙夫人近景",
+      "action": "她指向江边方向，刘备听着，案上只有旅行包裹",
+      "target_connection": "对应银卡出吴，是她提出祭祖借口并决意同行的前因",
+      "first_person_line_original": "既要走，我便同行。路上的事，到了路上再断。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "动作单一，不同时哭拜搂抱；包裹不是军事玉玺",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "sunshangxiang_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "车前自解危局",
+      "camera": "横幅车侧，赵云护一边，四将停在路口",
+      "action": "孙夫人转向追来的陈武潘璋，刘备已带前队走远",
+      "target_connection": "黄金卡先斥拦军，这幅接再斥追兵，属于同次护行并显示承担后卫",
+      "first_person_line_original": "前面的路让他走。我在这里，听你们把话说清。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "车与马留间隔，赵云枪轴一线，四将各有下马姿而非重复脸",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "sunshangxiang_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "sunshangxiang_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第055回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "选一名友军为短期协同伙伴；其下一次普通攻击命中时，孙尚香朝同一目标补射一箭，只触发一次。",
+    "active": {
+      "skill_id": "sunshangxiang_a1",
+      "name": "并弦护行",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "选一名友军为短期协同伙伴；其下一次普通攻击命中时，孙尚香朝同一目标补射一箭，只触发一次。",
+      "extra_effect": "三星起：补射前可向侧面安全空位短移；不挪动伙伴，不附治疗魅惑。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "灵猞轻步带一段短月弧，只有一根弓弦与一支箭，不发射花瓣粒子。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "sunshangxiang_p1",
+        "name": "轻装",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "自身移动速度提高",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "灵猞轻步带一段短月弧，只有一根弓弦与一支箭，不发射花瓣粒子。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunshangxiang_p2",
+        "name": "稳弦",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "补射伤害提高",
+        "trigger": "协同补射命中",
+        "target": "同一敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "灵猞轻步带一段短月弧，只有一根弓弦与一支箭，不发射花瓣粒子。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunshangxiang_p3",
+        "name": "应援",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "协同伙伴选择距离提高",
+        "trigger": "选友军",
+        "target": "友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "灵猞轻步带一段短月弧，只有一根弓弦与一支箭，不发射花瓣粒子。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "sunshangxiang_p4",
+        "name": "回步",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "主动侧移距离提高",
+        "trigger": "侧移可用时",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "灵猞轻步带一段短月弧，只有一根弓弦与一支箭，不发射花瓣粒子。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "sunshangxiang_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "sunshangxiang_p1",
+          "sunshangxiang_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "sunshangxiang_p1",
+          "sunshangxiang_p2",
+          "sunshangxiang_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "sunshangxiang_p1",
+          "sunshangxiang_p2",
+          "sunshangxiang_p3",
+          "sunshangxiang_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}

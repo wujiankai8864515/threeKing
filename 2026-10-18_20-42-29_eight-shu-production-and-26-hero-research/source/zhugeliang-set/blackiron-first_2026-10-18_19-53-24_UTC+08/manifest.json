@@ -1,0 +1,19 @@
+{
+  "hero": "诸葛亮",
+  "asset": "blackiron_identity",
+  "generation_mode": "builtin_new_reference_derived",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+      "role": "painting language and broad clean material planes only; no Liu identity or scene"
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "qa": "full image and six native100 crops personally viewed; two hands and face readable; desk worn edge highlights dense, pending independent material assessment; dragon large but low contrast; no user final approval",
+  "status": "candidate_independent_QA_pending"
+}

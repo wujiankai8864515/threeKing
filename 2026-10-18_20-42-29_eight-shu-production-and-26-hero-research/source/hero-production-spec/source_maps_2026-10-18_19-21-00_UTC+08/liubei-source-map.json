@@ -1,0 +1,100 @@
+[
+  {
+    "asset": "card01",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+    "status": "root_and_independent_QA_pass_candidate_not_user_final",
+    "user_final": false,
+    "library_file_id": "libfile_e1c0b18049c081918c29efb5b1f72b03",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card02",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-青铜-引导掌入框局修.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "fb6467efa62162a2e725575cade929f33611fe7c38f68e80edd7d9510f11a05b",
+    "status": "root_and_independent_QA_pass_candidate_not_user_final",
+    "user_final": false,
+    "library_file_id": "libfile_49d1166bf618819183d8332599a00d52",
+    "library_version": 1,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card03",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-白银-曹操位置入框局修.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "ba347f26856c115d22ab50f8076bc64f273fd598ca1b2fc81b5dc87dc47f3c2b",
+    "status": "root_and_independent_QA_pass_candidate_not_user_final",
+    "user_final": false,
+    "library_file_id": "libfile_4e3712ca13948191b082c632100b09f3",
+    "library_version": 1,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card04",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "a3b5321ff40d66080434c9f7743d6ce59f6e052233f8ce0de93455be1e4c7e9e",
+    "status": "root_and_independent_QA_pass_candidate_not_user_final",
+    "user_final": false,
+    "library_file_id": "libfile_86a0ba17beb08191aa573913ccfeaf05",
+    "library_version": 1,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio02",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_3be8db00c0a48191bf741ffc6da3875f",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio03",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_f47b3b732ac8819195f31ca119ea0985",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio04",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_a97eee23ed248191922b1f290c304f4a",
+    "library_version": 0,
+    "local_metadata_applied": true
+  }
+]

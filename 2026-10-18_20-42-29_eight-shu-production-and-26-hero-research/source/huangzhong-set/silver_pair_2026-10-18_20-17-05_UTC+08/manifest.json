@@ -1,0 +1,83 @@
+{
+  "hero": "黄忠",
+  "assets": [
+    {
+      "asset_id": "huangzhong_card_03_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+        "size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67"
+      },
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3b2cfc84-daa2-47c3-a9cb-588c62c22b1d.png",
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+          "role": "Approved Huang v3 same elderly face/body and clean material language; no resting pose/scene reuse"
+        }
+      ],
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-silver-card.txt",
+      "status": "independent_QA_passed_pending_root_freeze",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded_by_worker"
+    },
+    {
+      "asset_id": "huangzhong_bio_to_03_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银传记-v1-白首请缨候选.png",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "66d3cf552320487bcc1a4da552264c3f3616e6442118e7bf7f82a996beac79da"
+      },
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-65cfa308-180f-4fa3-89a0-1a8fd6ab2615.png",
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+          "role": "Approved Huang v3 same elderly face/body and clean material language; no resting pose/scene reuse"
+        }
+      ],
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-silver-biography.txt",
+      "status": "failed_unwanted_unfinished_arrow_replaced_by_v2",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded_by_worker"
+    }
+  ],
+  "qa_native_crops_actually_viewed": 16,
+  "qa_evidence": "qa-100pct",
+  "brief": "黄忠-白银双图制作brief.md",
+  "updated": "2026-10-18T20:28:44.594435+08:00",
+  "latest_biography": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+  "open_review_items": [],
+  "independent_QA": "2026-10-18 12:28:45 UTC auditor confirmed card v1 and biography v2 passed; lower tip occlusion direction connected, biography upper crop remains not fully inspectable",
+  "retained_limitations": [
+    "Biography upper bow tip outside frame cannot be directly fully inspected; auditor accepted continuous cropped geometry."
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "hero_id": "yuanshao",
+  "name": "袁绍",
+  "faction": "qun",
+  "core_personality": "门第、盟望与大军给他强大自信，能聚众抗权，也会在迟疑与骄矜中失去机会。",
+  "myth_symbol_proposal": {
+    "name": "百旒金翟",
+    "origin": "原创礼羽神相，翟羽借仪仗与门第意象，不称袁氏为神鸟血统",
+    "reason": "宽屏尾羽由层层垂旒与旗面构成，外扩而不俯冲；区别张辽苍隼尖翼、周瑜火雀和郭嘉暗鸦。",
+    "growth": "一枚羽扣→三层旗羽→半屏旒羽→完整屏状神鸟仪仗，羽不遮脸和箭阵"
+  },
+  "differentiation": "号令多目标弓阵，有限几支独立齐射分别打不同敌人；缺敌时不把所有箭叠到一个人。与黄忠单体精射、周瑜一片火爆和孙尚香单次协同补射分开。",
+  "identity": {
+    "face": "第3回姿貌威容与后文名门气度为依据；具体原创长阔脸、修长眉、鼻梁端正，目光有自信与自尊。",
+    "hair": "原创整齐黑须、分明上髭和颌须，后期少量灰须；高冠束发，无吕布长翎。",
+    "body": "原创高个端正、胸肩宽但不臃肿，仪仗中的站姿压得住场。",
+    "clothes": "米白与暗酒红袍、铁银甲、窄金缘礼带；以整齐的垂旒与羽扣识别，不能变黄袍帝王。",
+    "weapons_fact": "第3回拔剑抗董，第5回盟坛佩剑；无独有长枪或神弓专名证据。",
+    "weapons_design": "直剑为人物兵器，指挥时持节或按剑；玩法箭来自有限的军阵符影，不冒充袁绍本人百箭连射。",
+    "mount_fact": "原文有骑乘与军行，无本包核定的专名宝马。",
+    "mount_design": "仪仗用深棕马或普通战车；不占用吕布赤兔、赵云白马身份。",
+    "reference_version": "QUN-YS-text-v1，待样。"
+  },
+  "modern_game_reference": {
+    "version": "官方三国杀指定版本页面，2026-10-18核验",
+    "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/82.html",
+    "verified": "国战2013乱击以两张同花色手牌转成万箭齐发。",
+    "use": "只取军阵齐射、多目标施压；不复刻手牌花色成本与对全场无差别打击。",
+    "source_class": "modern_official_game_not_novel"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 3,
+      "chronology_key": "003-a",
+      "title": "拔剑抗董",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第003回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "董卓议废立，袁绍不从，拔剑直对，随后离开京城。",
+      "selection": "card1",
+      "selection_reason": "人物仍有抗权之勇，初阶不先归为单纯怯懦。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 5,
+      "chronology_key": "005-b",
+      "title": "推为盟主登坛",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "诸侯推四世三公的袁绍为盟主，筑三层坛、列五方旗与白旄黄钺，绍佩剑登坛盟誓。",
+      "selection": "card2+bio1",
+      "selection_reason": "个人声望变为诸侯联盟指挥权，三层台有明确源。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 7,
+      "chronology_key": "007-c",
+      "title": "入主冀州",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "从逢纪谋利用公孙瓒进逼，韩馥请袁入主；耿武关纯反对遇害，韩馥被夺实权后离去。",
+      "selection": "card3+bio2",
+      "selection_reason": "有了立足根基同时显露争夺性，不把取冀州洗成纯粹礼让。",
+      "misreading_to_avoid": "计由逢纪出；斩耿武关纯分别为颜良文丑，不是袁绍亲挥剑。"
+    },
+    {
+      "event_id": "d",
+      "chapter": 22,
+      "chronology_key": "022-d",
+      "title": "檄文发军黎阳",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第022回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "袁绍听各谋士争议后，起步军骑兵各十五万向黎阳，命陈琳草檄讨曹。",
+      "selection": "card4+bio3",
+      "selection_reason": "三十万兵势为权力与阵列峰值，黄金落在出师非最终胜利。",
+      "misreading_to_avoid": "本章合计三十万，不混用后回七十万；陈琳写檄，袁绍不是执笔作者。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 30,
+      "chronology_key": "030-e",
+      "title": "官渡失利",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "乌巢被袭、谗疑失谋，袁绍大军败退。",
+      "selection": "rejected",
+      "selection_reason": "必须知晓的结局边界，不将22回誓师写成官渡凯旋。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "剑对权臣",
+      "camera": "侧前平视中全身",
+      "action": "拔剑横在身前，与画外董卓对峙，不抢先刺人",
+      "environment": "洛阳议事厅、董军卫士后侧",
+      "myth_growth": "衣扣只一片暗金翟羽",
+      "structure_check": "剑刃直、双足有退路、衣袖不穿刃",
+      "must_retain": "整齐须眉、昂头但不失成年沉着",
+      "must_not_inherit": "不画当场击败董卓或举盟旗",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第003回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "盟坛立旄",
+      "camera": "低仰全身，台阶造成递进不拉长腿",
+      "action": "佩剑登上三层坛末级，手按誓仪卷",
+      "environment": "军营外筑土坛，白旄黄钺和五方旗分开可读",
+      "myth_growth": "三层旗羽随风展开，整体留土色",
+      "structure_check": "佩剑与鞘有固定关系，黄钺由仪仗持，主角不同时拿所有物",
+      "must_retain": "名门衣冠与盟主站位",
+      "must_not_inherit": "不建九层神坛；不写成所有诸侯永远听令",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "c",
+      "title": "冀州门开",
+      "camera": "城门外斜侧全身",
+      "action": "收缰下马，与来迎的韩馥隔半步相见，士卒分列",
+      "environment": "冀州城门与交接车队，韩馥神色迟疑",
+      "myth_growth": "半屏旒羽投在墙上，边缘不喷粒",
+      "structure_check": "一手扶鞍一手接令印，双动作选清楚的一瞬；剑不出鞘",
+      "must_retain": "优雅外表下的占有与实力",
+      "must_not_inherit": "不画韩馥幸福退隐；不展两人首级",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "d",
+      "title": "黎阳旌羽",
+      "camera": "军阵前宽视低机位近全身",
+      "action": "抬节示意军队行进，目光越过观者，剑在腰侧",
+      "environment": "黎阳道口与大河远景，骑兵步兵分层，不逐个数三十万人",
+      "myth_growth": "完整屏羽如旗幕在地平线展开，头部保持空净",
+      "structure_check": "节杆刚直、旗杆方向一致，人马队形留通道",
+      "must_retain": "威仪达到极盛却非天子；暗酒红与米白",
+      "must_not_inherit": "不画曹操投降或乌巢胜利，不把袁绍本人画成弓箭手",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第022回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "众推一盟主",
+      "camera": "横幅诸侯会帐，袁绍主脸，曹操在侧发言",
+      "action": "接过盟主礼节，众人席位各具方向而非全体跪拜",
+      "target_connection": "铜卡盟坛来自共同推举与家世声望，不凭空自封",
+      "first_person_line_original": "众人既把这面旗交来，我便立在它的前头。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "礼节交接两只手有先后，营桌无现代地图字",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "yuanshao_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "c",
+      "title": "冀州来书",
+      "camera": "横幅帐内，袁绍听逢纪陈说后看韩馥来使",
+      "action": "桌上城池图只作抽象位置，剑束在架上",
+      "target_connection": "银卡入城的谋略前因，明确逢纪贡献与袁绍决定",
+      "first_person_line_original": "兵与粮都要有落脚处。冀州这道门，已经在眼前。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "不画袁绍亲自纵火攻城；书卷不混合首级战利品",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "yuanshao_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "d",
+      "title": "檄成而军动",
+      "camera": "横幅文帐通向校场，陈琳案前，袁绍近侧立",
+      "action": "陈琳递成文，袁绍看向已集结的队伍",
+      "target_connection": "金卡军势来自发檄与动员；文本作者身份清楚",
+      "first_person_line_original": "檄文已成，军阵已列。我要天下都看见袁氏的旗。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "书无可读现代字，笔只在陈琳手；旗在帐外不穿屋顶",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "yuanshao_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "yuanshao_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第022回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "召出少量弓队符影，对最多三名不同敌人各射一次；同次不能重复选择同一个目标，缺少目标时余箭不转为单体连射。",
+    "active": {
+      "skill_id": "yuanshao_a1",
+      "name": "旒阵齐射",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "召出少量弓队符影，对最多三名不同敌人各射一次；同次不能重复选择同一个目标，缺少目标时余箭不转为单体连射。",
+      "extra_effect": "暂定上限三名，属于待平衡提案；不附燃烧、禁疗、眩晕或无限召唤，四阶只提升齐射幅度与选点范围。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "翟羽屏中只开出有限弓位，每位一箭一个目标；箭杆真实直线，非漫天金针。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "yuanshao_p1",
+        "name": "合射",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "齐射的单箭伤害提高",
+        "trigger": "每箭命中",
+        "target": "对应敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "翟羽屏中只开出有限弓位，每位一箭一个目标；箭杆真实直线，非漫天金针。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "yuanshao_p2",
+        "name": "列旗",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "齐射目标选择范围提高",
+        "trigger": "施放时",
+        "target": "选择范围",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "翟羽屏中只开出有限弓位，每位一箭一个目标；箭杆真实直线，非漫天金针。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "yuanshao_p3",
+        "name": "余矢",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动能量消耗降低",
+        "trigger": "施放齐射",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "翟羽屏中只开出有限弓位，每位一箭一个目标；箭杆真实直线，非漫天金针。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "yuanshao_p4",
+        "name": "整军",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "自身受到远程普攻的伤害降低",
+        "trigger": "被远程普攻命中",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "翟羽屏中只开出有限弓位，每位一箭一个目标；箭杆真实直线，非漫天金针。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "yuanshao_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "yuanshao_p1",
+          "yuanshao_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "yuanshao_p1",
+          "yuanshao_p2",
+          "yuanshao_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "yuanshao_p1",
+          "yuanshao_p2",
+          "yuanshao_p3",
+          "yuanshao_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved"
+}
