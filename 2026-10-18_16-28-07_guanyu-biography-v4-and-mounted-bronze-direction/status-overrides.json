@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-18T16:28:07.665877+08:00",
+  "story": "关羽斩华雄传记",
+  "story_v4": {
+    "status": "delivered_pending_user_approval",
+    "delivered_at": "2026-10-18T08:26:39.862908Z",
+    "library_version": 4,
+    "qa": "Whole image and arm crop inspected; two clear arms reported. This is QA, not user acceptance."
+  },
+  "bronze_standing_candidate": "Viewed, not delivered; superseded by mounted trio pursuit.",
+  "bronze_next": "Large foreground Guan Yu and smaller Liu Bei/Zhang Fei behind on three ordinary horses pursuing fleeing Yellow Turbans from side camera; not Red Hare; distant tier-appropriate green phantom.",
+  "gold_v4": "Camera praise only; localized detail edits remain pending.",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "frames",
+    "stars"
+  ],
+  "network": "Local-only. No external retry."
+}

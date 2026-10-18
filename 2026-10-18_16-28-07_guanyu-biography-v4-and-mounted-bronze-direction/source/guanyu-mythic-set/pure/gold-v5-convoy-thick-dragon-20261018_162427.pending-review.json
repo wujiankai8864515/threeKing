@@ -1,0 +1,27 @@
+{
+  "version": "gold-v5-convoy-thick-dragon-20261018_162427",
+  "saved_at_beijing": "2026-10-18T16:24:27.059164+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen, localized two-background-subject edit",
+  "source_image": "./guanyu-mythic-set/pure/gold-dragon-inset-20261018_161259.png",
+  "generated_source": "./generated_images/exec-3b6fc822-3e76-4dfd-897c-150dcd838101.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-v5-convoy-thick-dragon-20261018_162427.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-v5-convoy-thick-dragon-20261018_162427.prompt.txt",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "bb59ee15e456be585c93eddedba3612d025f7cc22797a3f0b5c8db0c5a18f8ea",
+  "status": "candidate_convoy_correct_dragon_frame_safety_failed",
+  "visual_review": {
+    "inspected_with": "view_image",
+    "foreground": "Approved rear-view Guan Yu pose, face, clothing, Red Hare, dragging weapon, giant hoof, mud and border debris are visually preserved.",
+    "convoy_direction": "PASS: escort riders' backs, horses' hindquarters and covered wagon rear tailgate face viewer; movement reads away along road toward distant passes.",
+    "wagon_geometry": "Rear tailgate and near axle align with wagon volume; pulling team and front shafts are partly occluded and cannot all be separately verified.",
+    "convoy_flag": "Blank clear red rectangular flag provided on right side of convoy for parent to typeset 刘; flag is near x970-1005 and may need frame-safe positioning.",
+    "dragon_volume": "PASS: much thicker continuous torso/neck, broad skull, heavy horns and mane; coherent pure-green scaled mass with no cyan.",
+    "head_safety": "FAIL: enlarged head nose extends to roughly x865, beyond x830, and a major horn reaches/crops at the top edge. Eyes and mouth are visible in pure image but frozen frame needs another local correction.",
+    "face_gap": "Guan Yu face remains unobscured.",
+    "recommendation": "Do not deliver this candidate as approved. Keep convoy and thick dragon mass, and locally tuck head/horns inward without changing any foreground."
+  }
+}

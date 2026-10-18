@@ -1,0 +1,16 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: GOLD card illustration, QUALITY REVISION ONLY of the exact supplied approved image.
+Requested native output resolution: 2048 x 3072 portrait if supported; otherwise use the highest supported native portrait resolution without reframing. No artificial-looking upscaling, no labels about resolution.
+
+Treat this as a fidelity-preserving fine-detail restoration of the SAME artwork, NOT a new design or composition. Keep every subject's placement, proportions, silhouette, pose, expression, camera, crop, colors, costume, story and major detail exactly as supplied.
+
+Only make these restrained quality improvements:
+1. Resolve Guan Yu's existing face and eyes a little more cleanly and convincingly, retaining his exact mature identity, facial geometry, expression and direction of gaze. Clarify existing eyelids, brow edges, nostrils, beard strands and hair boundaries without inventing new facial detail or changing his face.
+2. Refine the EXISTING gold armor engraving, scale plate edges, cloth embroidery, weapon steel edges and gold dragon blade mount into crisp, coherent, believable forms. Keep the exact designs and all existing ornament placement. Preserve natural painted transitions, selective edge sharpness and material differences. Avoid sharpening halos, crunchy texture, glitter noise, repeated fake detail or plastic skin.
+3. Gently lower micro-contrast and detail density ONLY in distant background mountains, far stone gates, remote road and distant crowds, using subtle painterly atmospheric softness. Keep their existing positions, silhouette and story completely readable. The rear-facing escort wagon, escort backs and road direction remain clearly recognizable. This is subtle visual hierarchy, not a blur filter over the whole image.
+
+LOCKED INVARIANTS:
+Guan Yu's exact rear three-quarter riding pose, turning mature face, headwear, beard, clothing, armor and hands; original single-hand low backward dragging guandao and other hand controlling reins; the single rigid straight shaft and single exquisitely ornamented blade; the same gigantic Red Hare hind hoof, horse anatomy, head, mane, tack and position; the same thick pure-green dragon with identical body thickness, shape, inward head location, roaring expression, horn curves and safe frame margins; the same convoy traveling AWAY toward the gates, visible rider backs/horse hindquarters/wagon rear, same blank red convoy flag; same fallen gate officer; same mud, broken wood and dirty foreground corners. Do not change any of these. Do not reposition dragon eyes, nose, horns or mouth. No added symbols or text on the flag.
+Foreground rider, horse, weapon, important dragon face and expressive mud remain the sharpest hierarchy. Do not soften the face or main subject. Preserve the premium stylized mythic Three Kingdoms game-card painting style, not photographic realism.
+
+No new concept, no anatomy changes, no new pose, no altered dragon shape, no changed story or flag direction, no new objects, no border/frame, no stars, no labels, no text, no watermark.

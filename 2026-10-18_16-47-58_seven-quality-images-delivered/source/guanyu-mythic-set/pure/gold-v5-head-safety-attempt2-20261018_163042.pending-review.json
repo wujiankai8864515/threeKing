@@ -1,0 +1,25 @@
+{
+  "version": "gold-v5-head-safety-attempt2-20261018_163042",
+  "saved_at_beijing": "2026-10-18T16:30:42.206660+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen local dragon-head/horn placement correction",
+  "source_image": "./guanyu-mythic-set/pure/gold-v5-convoy-thick-dragon-20261018_162427.png",
+  "generated_source": "./generated_images/exec-0623cb0c-3618-43fe-a98b-77883c11a11f.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-v5-head-safety-attempt2-20261018_163042.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-v5-head-safety-attempt2-20261018_163042.prompt.txt",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "be7366936bfe195f220f0f28e915d89266976fe3141cbd044212eacd3e4d8218",
+  "status": "superseded_intermediate",
+  "visual_review": {
+    "method": "view_image",
+    "result": "Intermediate: nose moved inside x800 and volume retained; left horn tip still near y40.",
+    "foreground": "Guan Yu face, clothing, rear-view pose, arms, Red Hare, giant hoof, dragging polearm, mud and broken wood remain visually preserved.",
+    "dragon_volume": "Thick continuous green torso, heavy neck, broad jaw and stout gold horns retained; highest-tier imposing scale not reduced.",
+    "convoy": "Rider backs, horse hindquarters and wagon rear still face viewer and travel away toward distant passes.",
+    "flag": "Blank red wagon flag remains in original right background position for parent overlay of 刘.",
+    "caution": "Visual-preservation check is not a pixel-identical claim. Final acceptance requires actual frozen-frame composition."
+  }
+}

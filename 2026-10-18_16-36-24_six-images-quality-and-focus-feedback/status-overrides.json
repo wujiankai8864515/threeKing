@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-18T16:36:24.643925+08:00",
+  "type": "scope_and_status_only",
+  "new_binary_assets": [],
+  "deliverable": "4 cards + 2 stories, high-definition imagegen refinement",
+  "two_stories_interpretation": {
+    "selected": [
+      "关羽斩华雄传记",
+      "过五关/过关寻兄故事"
+    ],
+    "basis": "Working interpretation communicated by parent; not an explicit new user confirmation of these two titles.",
+    "clarification_possible": true
+  },
+  "blackiron_silver": "Content frozen; quality-only generation revision permitted. Old approved versions preserved, no identity/content change.",
+  "peach": "unchanged",
+  "bronze": "latest ordinary-horse three-rider pursuit plus quality pass",
+  "gold": "latest same-direction carriage/刘旗/thick majestic dragon plus quality pass",
+  "queued_cards": "not delivered after quality-scope change",
+  "final_approval": "No new six-image set completed or approved yet.",
+  "network": "Local documentation only; no external retry."
+}

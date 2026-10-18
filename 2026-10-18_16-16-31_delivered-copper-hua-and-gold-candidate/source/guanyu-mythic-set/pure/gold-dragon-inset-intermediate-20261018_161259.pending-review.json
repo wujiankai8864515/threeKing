@@ -1,0 +1,24 @@
+{
+  "version": "gold-dragon-inset-intermediate-20261018_161259",
+  "saved_at_beijing": "2026-10-18T16:12:59.237791+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen localized dragon head position edit",
+  "source_image": "./guanyu-mythic-set/pure/gold-rear-dragging-20261018_160800.png",
+  "generated_source": "./generated_images/exec-41c59a7d-96c9-46d9-99f6-76b28da1ae6b.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-dragon-inset-intermediate-20261018_161259.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-dragon-inset-intermediate-20261018_161259.prompt.txt",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "db5a6504440e165880ed8790fde3c58497bcd95e99c3c97316b8401139408f08",
+  "status": "superseded_intermediate",
+  "visual_review": {
+    "inspected_with": "view_image",
+    "foreground": "Rider face, rear camera, horse, dragging shaft and blade, giant hoof, gates and escort remain visually preserved.",
+    "hands": "Original single hand dragging and opposite hand at reins preserved as approved by parent.",
+    "dragon_face": "Nose remains around x840 in intermediate.",
+    "face_safety": "Guan Yu face and headwear remain clear with sky gap.",
+    "caution": "Long facial whisker still reaches roughly x845 and upper mane extends above y100; eyes/nose/mouth are safe in final, but parent should verify full dragon outline under frozen frame."
+  }
+}

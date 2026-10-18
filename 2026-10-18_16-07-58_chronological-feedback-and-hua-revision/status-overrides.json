@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+  "type": "status_and_feedback_log_only",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "four_frames",
+    "star_ui"
+  ],
+  "in_revision": [
+    "bronze_regeneration",
+    "gold_regeneration",
+    "Hua_Xiong_face_weapon_waiter_identity_targeted_edit"
+  ],
+  "gold_v3": "saved_candidate_not_delivered_not_accepted",
+  "new_binary_assets": [],
+  "backup": {
+    "public_repository": "https://github.com/wujiankai8864515/threeKing",
+    "verified_remote_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+    "latest_local_commit": "3b71077efe8c68ea62cfe80b24e1db007ca2f59e",
+    "latest_push": "failed due network policy; not confirmed on remote",
+    "first_verified_backup_unaffected": true,
+    "retry_or_workaround_attempted": false
+  }
+}

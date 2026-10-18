@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-10-18T16:16:31.336088+08:00",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "frames",
+    "star_ui"
+  ],
+  "bronze_v3": "delivered_pending_user_approval",
+  "Hua_Xiong_v3": "delivered_revision_requested",
+  "Hua_Xiong_v4": "in_progress_no_output_claimed",
+  "gold_v4": "Library_saved_QA_passed_delivery_unconfirmed",
+  "remote": "Only initial fe505a804d0e9c55aaa9816454aba9f6b357f48e verified; second push blocked; no retry."
+}

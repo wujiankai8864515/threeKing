@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-18T16:17:36.747846+08:00",
+  "type": "status_and_feedback_only",
+  "new_binary_assets": [],
+  "gold_v4_and_overview_v4": {
+    "status": "delivered_pending_user_approval",
+    "delivered_at": "2026-10-18T08:15:55.938917+00:00",
+    "delivered_at_local": "2026-10-18T16:15:55.938917+08:00"
+  },
+  "Hua_Xiong_v4": "In progress: combine gaze, two-arm-chain, broad glaive belly and contact, continuous dragon anatomy, matching faces but campaign costumes, commander Cao Cao, unchanged 汜水關 label.",
+  "bronze_v3": "delivered_pending_user_approval",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "frames",
+    "stars"
+  ],
+  "remote": "Later sync blocked; no external retry. Initial verified backup remains valid."
+}

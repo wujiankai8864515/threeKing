@@ -1,0 +1,38 @@
+{
+  "version": "silver-qualityrevision-20261018_164052",
+  "saved_at_beijing": "2026-10-18T16:40:52.819752+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen quality-only edit",
+  "source_image": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/silver-pure-with-plaque.png",
+  "generated_source": "./generated_images/exec-a5061fe4-5bb6-4327-9c6a-7da9e7c176e1.png",
+  "output_image": "./guanyu-mythic-set/pure/silver-qualityrevision-20261018_164052.png",
+  "prompt_file": "./guanyu-mythic-set/pure/silver-qualityrevision-20261018_164052.prompt.txt",
+  "requested_resolution": [
+    2048,
+    3072
+  ],
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "resolution_note": "Built-in tool returned 1024x1536 despite prompt target; no interpolation or external upscale applied.",
+  "sha256": "30bd0880c80fb43b39f4fdbe6bdfc05fd8a1bc1a177902d224d514e1d7d3ba0a",
+  "status": "pending_parent_qualityreview",
+  "visual_review": {
+    "method": "Source and result both viewed with view_image and visually compared.",
+    "passes": [
+      "Same face identity, mature stern expression and gaze retained visually",
+      "Same large forward stride, giant front boot, costume, windblown robe and body silhouette",
+      "Same two hand grips and straight shaft axis, same single ornate blade",
+      "Same pure-green dragon silhouette, head and arc without redesign",
+      "Same Sishui gate architecture and plaque, banner formations and story placement",
+      "Background crowd/flags/mountains/gate have reduced microcontrast, principal face and armor stay crisp",
+      "No whole-image blur, frame, stars or new objects"
+    ],
+    "plaque_note": "Plaque retains recognizable 汜水關 lettering and placement; parent may overlay original clean typesetting.",
+    "limitations": [
+      "Output is still native 1024x1536, not a 2048x3072 deliverable.",
+      "Generative detail refinement is not a pixel-identical conventional restoration."
+    ]
+  }
+}

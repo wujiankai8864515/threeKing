@@ -1,0 +1,11 @@
+{
+  "timezone": "UTC+08",
+  "status": "root QA passed, pending user acceptance",
+  "gold_source": "../pure/gold-dragon-inset-20261018_161259.png",
+  "frozen_black_source": "../cards/01-黑铁·市井潜龙.png",
+  "frozen_silver_source": "../revision_20261018_155650_UTC+08/03-白银·关前扬威.png",
+  "bronze_source": "../revision_20261018_161215_UTC+08/02-青铜·踏地横斩.png",
+  "frame_and_ui": "../frames/gold.png + ../frames/gold-stars-ui.png unchanged",
+  "qa": "Entire dragon head inside card window; mature face visible turning back; one hand dragging rigid single-shaft glaive, other holds reins (root approved); giant hoof and broken gate, defeated guard, convoy visible. Final pure/card/overview personally viewed.",
+  "composition": "881x1321 art at72,125 clipped with frozen art-clip-mask then frame then independent stars. Same layout as prior approved cards."
+}

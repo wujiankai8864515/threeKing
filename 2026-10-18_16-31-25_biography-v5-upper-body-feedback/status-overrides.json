@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-18T16:31:25.091005+08:00",
+  "type": "status_only",
+  "new_binary_assets": [],
+  "story_v4": "partially_approved_revision_required",
+  "approved_story_components": [
+    "Cao Cao",
+    "Liu Bei"
+  ],
+  "story_v5": "upper-body reconstruction in progress; Zhang Fei and Guan Yu expression revision; no completed output claimed",
+  "cards": "bronze mounted-trio pursuit and localized gold revision continue in parallel",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "frames",
+    "stars"
+  ],
+  "network": "No push or external retry"
+}

@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-18T16:22:31.161047+08:00",
+  "type": "status_only",
+  "new_binary_assets": [],
+  "story_title": "关羽斩华雄传记",
+  "story_status": "Revision in progress: Hua Xiong two-arm structure primary; Cao Cao raising warm wine; earlier anatomy/weapon/dragon/campaign clothing corrections remain active.",
+  "bronze_v3": "rejected_revision_required: opposing enemy orientation, broad glaive, larger green phantom behind Guan Yu",
+  "gold_v4": "partial_approval: rear-view pose/weapon/mud retained; localized carriage direction, 刘 flag and highest-tier large majestic green dragon revision pending",
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "frames",
+    "star_ui"
+  ],
+  "workflow": "Cards and Guan Yu biography revised in parallel. Deliver first; quietly back up, failure alerts only. No current revised candidate claimed finally approved.",
+  "network": "No external attempt; latest increments local only after blocked push."
+}

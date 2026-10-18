@@ -1,0 +1,37 @@
+{
+  "version": "gold-qualityrevision-20261018_163847",
+  "saved_at_beijing": "2026-10-18T16:38:47.259023+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen quality-only edit",
+  "source_image": "./guanyu-mythic-set/pure/gold-v5-frame-safe-20261018_163042.png",
+  "generated_source": "./generated_images/exec-a10f514b-acd5-4adb-ae1d-78c72964bc15.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-qualityrevision-20261018_163847.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-qualityrevision-20261018_163847.prompt.txt",
+  "requested_resolution": [
+    2048,
+    3072
+  ],
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "resolution_note": "Built-in tool returned 1024x1536 despite prompt target; no interpolation or external upscale applied.",
+  "sha256": "a5dfb9ebedc83c2822a26bafbcd7db2be5c1818309cf9c30b5c6b1d8ce2bc179",
+  "status": "pending_parent_qualityreview",
+  "visual_review": {
+    "method": "Source and result both viewed with view_image and visually compared.",
+    "passes": [
+      "Same rear three-quarter mounted low dragging action and composition",
+      "Same mature Guan Yu identity and expression retained visually",
+      "Huge Red Hare hoof, pose and weapon design retained",
+      "Same thick pure-green dragon silhouette and frame-safe head/horns",
+      "Correct rear-facing escort convoy and blank flag retained",
+      "Distant gates/mountains/crowds have gentler microcontrast and depth",
+      "Foreground armor and weapon details are cleaner while source ornament design remains recognizable"
+    ],
+    "limitations": [
+      "Output is still native 1024x1536, not a 2048x3072 deliverable.",
+      "Fine detail was generatively refined, not pixel-identical to source; do not claim a conventional exact restoration."
+    ]
+  }
+}

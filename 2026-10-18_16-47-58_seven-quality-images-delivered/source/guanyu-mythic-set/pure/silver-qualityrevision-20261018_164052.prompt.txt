@@ -1,0 +1,15 @@
+Use case: precise-object-edit, identity-preserve.
+Asset: SILVER card illustration, QUALITY REVISION ONLY of the exact approved supplied image.
+Requested native output resolution: 2048 x 3072 portrait if supported; otherwise use the highest supported native portrait resolution without reframing. Preserve original 2:3 composition.
+
+This is a high-fidelity fine-detail polish of the SAME image, NOT a new composition, redesign, or style transfer. Keep all faces, proportions, poses, costumes, silhouettes, camera, crop, weapon design, dragon shape, architecture and story unchanged.
+
+Only refine quality with restraint:
+1. Clarify the existing mature Guan Yu face and focused eyes, maintaining his exact facial identity, geometry, stern expression, red-warm skin tone, eye direction, eyebrows, long black beard and existing swept hair. Resolve believable eyelid and eyebrow edges and selected beard strands; no face replacement, beautification or invented wrinkles.
+2. Make the existing golden armor engraving, articulated plates, leg armor, green embroidered fabric, gold weapon mount and jade-green guandao blade cleaner and more coherently defined. Preserve exactly the same ornamental design and silhouette; resolve current forms rather than adding detail. Maintain painterly transitions and material differences; no excessive sharpening, dark outlining, texture noise, glitter or plastic shine.
+3. Gently soften only the visual competition from the background: reduce tiny high-contrast detail in the distant mountains, rear flag formations and distant soldiers, and slightly lower microcontrast of the gate architecture. Use tasteful atmospheric depth and painterly simplification, not a whole-image blur. The stone pass, its plaque, banners and marching formations must remain readily recognizable in the same positions. Preserve existing plaque text and plaque geometry as closely as possible; it reads 汜水關, and any final typesetting will be handled separately.
+
+ABSOLUTELY LOCK:
+Guan Yu's large forward-striding/front-lunge pose with the huge foreshortened armored left boot; both hand placements gripping the single straight polearm; natural shoulders/elbows/wrists; his exact body size, costume, armor and windblown robes; rigid green shaft and one single ornate blade sweeping to the lower-right; the exact supernatural PURE GREEN dragon silhouette, coils, horns, roaring head, scale and position overhead, with no shape or pose evolution; the same stone Sishui Pass gate, plaque, flags and rows of soldiers; the foreground dirt and flying stones; all existing composition and negative spaces. This is the existing SILVER foot-warrior artwork, no horse or new subject.
+Keep the mature face, hands, main weapon and foreground armor selectively crisp. Do not alter limbs, add fingers, bend the shaft, change the dragon color, change clothing, reposition any character or landmark, or change the historic battle story.
+Keep the same highly polished stylized painted original Three Kingdoms commercial game-card look, NOT realistic photography. No border/frame, no stars, no new writing, no logo, no watermark, no extra objects.

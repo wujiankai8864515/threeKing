@@ -1,0 +1,11 @@
+{
+  "name": "blackiron-qualityrevision_20261018_163911_UTC+08",
+  "prompt": "Quality revision ONLY of this exact approved illustration. Target native portrait2048x3072 if available, otherwise highest native portrait resolution. Preserve exact mature Guan Yu face identity/age/body, concerned outward gaze, seated pose, both hands, green civilian ragged clothing and headwrap design, long beard, mung bean stall/scoop/baskets/beans, market refugees/city gate setting, composition/camera/palette/light and narrative. Keep sky dragon EXACTLY as faint and subtle as input, same size/position/transparency and muted color, never make stronger. No armor, weapon, horse or new prop. Same nonphotorealistic mythic comic stylized art. This is only a careful clarity and finish pass: clean anatomical eyelids, phoenix eyes and brows, clear smooth facial planes without pores, coherent detailed beard locks, credible fabric weave/fraying and grouped broad folds, distinct bean/scoop/hand edges. Do not redraw different face or change expression. Moderately reduce fine texture density and contrast in distant gate and crowd for depth separation to prioritize hero face, but keep market and people readable. Preserve foreground beans and all containers. Do not apply full-image blur, no aggressive sharpening/halos, no invented noise or embellishment, no photorealism. Every object/person placement and all silhouette remain strictly unchanged. No UI/text/frame.",
+  "original": "pure/blackiron-grounded-v2.png",
+  "qa": "亲自对照：成熟脸外望、双手坐姿绿衣豆摊、天空隐龙均保持，衣面胡须清晰整洁，街景人群原叙事保留。",
+  "output": "pure/blackiron-qualityrevision_20261018_163911_UTC+08.png",
+  "tool": "builtin image_gen",
+  "requested_resolution": "2048x3072 or maximum native portrait",
+  "actual_resolution": "1024x1536",
+  "status": "质量修订候选，待根合框验收"
+}

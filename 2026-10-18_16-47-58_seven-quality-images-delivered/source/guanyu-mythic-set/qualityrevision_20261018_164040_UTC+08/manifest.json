@@ -1,0 +1,100 @@
+{
+  "timezone": "UTC+08",
+  "card_sources": [
+    "blackiron-qualityrevision_20261018_163911_UTC+08.png",
+    "bronze-qualityrevision_20261018_163739_UTC+08.png",
+    "silver-qualityrevision-20261018_164052.png",
+    "gold-qualityrevision-20261018_163847.png"
+  ],
+  "card_pixels": [
+    1024,
+    1536
+  ],
+  "story_pixels": [
+    1536,
+    1024
+  ],
+  "no_upscale": true,
+  "status": "root QA passed; Library saved; pending user acceptance",
+  "frames": "same approved separate frame/star/labels, no name or faction text",
+  "process": "builtin imagegen quality-only edits; Hua story additionally integrated latest hierarchy/identity/pose corrections; pass story blue dragon corrected green and distant narrative softened. All original versions retained.",
+  "library_results": [
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/00-四阶质量修订总览.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000dc0881f59b81719b74a4347c",
+      "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+      "file_name": "00-四阶质量修订总览.png",
+      "local_metadata_applied": true,
+      "path": "/00-四阶质量修订总览.png",
+      "current_version_number": 5
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/01-黑铁·市井潜龙.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a73081f5ad6004f75f5ca9b2",
+      "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+      "file_name": "01-黑铁·市井潜龙.png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁·市井潜龙.png",
+      "current_version_number": 2
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-青铜·三骑追黄巾.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a14c81f59a33625b64634c16",
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "file_name": "02-青铜·三骑追黄巾.png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜·三骑追黄巾.png",
+      "current_version_number": 5
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-白银·关前扬威.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004c0481f593b06cd0da1f05b3",
+      "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+      "file_name": "03-白银·关前扬威.png",
+      "local_metadata_applied": true,
+      "path": "/03-白银·关前扬威.png",
+      "current_version_number": 3
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/04-黄金·护行拖刀.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002b5481f59aebc0a4344e3ceb",
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "file_name": "04-黄金·护行拖刀.png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金·护行拖刀.png",
+      "current_version_number": 6
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-关羽斩华雄传记.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a6fc81f590de395dd0c221bc",
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "file_name": "02-关羽斩华雄传记.png",
+      "local_metadata_applied": true,
+      "path": "/02-关羽斩华雄传记.png",
+      "current_version_number": 5
+    },
+    {
+      "local_path": "./guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-过五关斩六将.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000229881f59beed4bce9c6070e",
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "file_name": "03-过五关斩六将.png",
+      "local_metadata_applied": true,
+      "path": "/03-过五关斩六将.png",
+      "current_version_number": 2
+    }
+  ]
+}

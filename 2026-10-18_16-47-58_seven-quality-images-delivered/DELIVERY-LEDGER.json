@@ -1,0 +1,84 @@
+{
+  "delivered_at": "2026-10-18T08:46:09.122361Z",
+  "delivered_at_local": "2026-10-18T16:46:09.122361+08:00",
+  "items": [
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/00-四阶质量修订总览.png",
+      "sha256": "32b602ed2532f55853a4a2c5f0f369cf02cc59476f18fc03e3e4d9cf88114ab9",
+      "dimensions": {
+        "width": 1560,
+        "height": 640
+      },
+      "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+      "library_version": 5,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/01-黑铁·市井潜龙.png",
+      "sha256": "a2694090eb949eed92a5ddf61899806f675a37ea2b96886cfb520f5126b1954a",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+      "library_version": 2,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-关羽斩华雄传记.png",
+      "sha256": "d6f22a71f2f78f93a4dacf61fb88c49afaf5a9b0c91314d3d332aab9661deffe",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "library_version": 5,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-青铜·三骑追黄巾.png",
+      "sha256": "022649251adc2104edc951524e532d65295a2b6deaf0bbb83d42786f57b0d5bc",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "library_version": 5,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-白银·关前扬威.png",
+      "sha256": "87ce51f6b9f68ca35566c5070dfd02ddbc819bf2c96d1a8bee39912c0d546572",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+      "library_version": 3,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-过五关斩六将.png",
+      "sha256": "03ced0fb4930d67c9142cca7b064908b681d8ff72823aa537d5ded30c2e23344",
+      "dimensions": {
+        "width": 1536,
+        "height": 1024
+      },
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "library_version": 2,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/04-黄金·护行拖刀.png",
+      "sha256": "cef2e7496991a8dad76c14229ca78da30b5f14da86e41d999e0ab94dbdaacf44",
+      "dimensions": {
+        "width": 1024,
+        "height": 1536
+      },
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "library_version": 6,
+      "delivered_at": "2026-10-18T08:46:09.122361Z"
+    }
+  ],
+  "approval": "pending user review"
+}

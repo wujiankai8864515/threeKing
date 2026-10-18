@@ -1,0 +1,11 @@
+{
+  "name": "bronze-qualityrevision_20261018_163739_UTC+08",
+  "prompt": "Quality revision ONLY of approved portrait illustration, target 2048x3072 or maximum available native portrait resolution. Keep EXACT identities, facial structure and expressions, silhouettes, anatomy, poses, clothing design, weapons, camera, composition, placement, palette, lighting direction, and narrative. No new concept. Guan Yu foreground with two hands on one rigid straight guandao shaft, broad blade; Liu Bei upper left with two distinct jian swords and Zhang Fei left with serpent spear, three ordinary horses pursuing fleeing yellow-headwrap rebels remain precisely as in input. Entire green spirit dragon stays in exactly current location and degree of transparency, nose safely x750/1024 relative width. Refine rendering quality: clearer designed eyelids/irises and brows, coherent beard strands grouped into sculptural locks, clean believable lamellar overlaps and engraved blade lines, fabric seams/weave only where useful and never gritty noise. Do NOT change mature face into a different person. Maintain original stylized mythic manga rendering rather than photorealism. Moderately lower background terrain and crowd contrast/detail density with painterly depth hierarchy so hero is first focus; Liu Bei and Zhang Fei must still have readable identities and weapons. No global blur, no oversharpened edge halos, no invented filigree, no equipment upgrade, no new particles. Preserve all hands and horse limb connections, saddle and reins, rigid weapon geometry, peach blossoms and muddy chase scene. This is a careful finish-quality pass of the same artwork. No text/UI/frame.",
+  "original": "pure/bronze-three-brothers-pursuit-safe_20261018_163303_UTC+08.png",
+  "qa": "亲自对照：同脸姿势、三骑追逃、刘备双剑张飞蛇矛及关羽直杆双握保留；甲片衣面更规整，背景层次适度简化。原刀刃右端裁切保留。",
+  "output": "pure/bronze-qualityrevision_20261018_163739_UTC+08.png",
+  "tool": "builtin image_gen",
+  "requested_resolution": "2048x3072 or maximum native portrait",
+  "actual_resolution": "1024x1536",
+  "status": "质量修订候选，待根合框验收"
+}

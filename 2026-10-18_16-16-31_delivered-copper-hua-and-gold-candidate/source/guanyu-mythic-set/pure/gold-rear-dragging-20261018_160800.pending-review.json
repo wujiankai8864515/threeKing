@@ -1,0 +1,31 @@
+{
+  "version": "gold-rear-dragging-20261018_160800",
+  "saved_at_beijing": "2026-10-18T16:08:00.482574+08:00",
+  "timezone": "UTC+08:00",
+  "status": "candidate_requires_two_hand_grip_review",
+  "method": "built-in image_gen, one requested new-pose image",
+  "source_image": "./guanyu-mythic-set/revision_20261018_160305_UTC+08/gold-pure-breakthrough.png",
+  "generated_source": "./generated_images/exec-a5e81460-e584-427e-abb6-45c54ef633a0.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-rear-dragging-20261018_160800.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-rear-dragging-20261018_160800.prompt.txt",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "f8d6a8e659977e59315814b053920bea4fb3a15eea7adc35f377c2ecfbedcd74",
+  "visual_review": {
+    "status": "view_image inspected",
+    "passes": [
+      "Genuinely new low rear three-quarter camera, not a mirrored frontal charge",
+      "Turned mature Guan Yu face, long beard and identity visible",
+      "Headwear fully inside frame-safe upper margin",
+      "Red Hare rear quarters, profile head and intentional gigantic foreground hind hoof",
+      "Low backward single-bladed guandao dragging with apparently straight shaft",
+      "Pure green dragon in one cohesive trailing arc",
+      "Grounded layered mountain passes, escort wagon, shattered barricade, defeated gate officer",
+      "No frame, no text"
+    ],
+    "blocker": "Only the nearer hand visibly grips the pole; the second hand is near the waist but does not visibly share the shaft axis. Cannot approve the required two-hand grip without correction.",
+    "limitations": "Some horse legs are occluded by body and dust; no obvious extra visible leg, but complete four-leg anatomy is not fully readable."
+  }
+}

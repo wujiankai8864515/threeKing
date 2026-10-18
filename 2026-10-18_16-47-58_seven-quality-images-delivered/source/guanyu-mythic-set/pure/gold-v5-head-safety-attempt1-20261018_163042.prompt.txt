@@ -1,0 +1,16 @@
+Use case: precise-object-edit.
+The input is the exact approved illustration to edit. ONE LOCAL PLACEMENT FIX ONLY: the thick supernatural green dragon's head and horns in the upper sky need to move inward and downward to fit inside a fixed future card frame.
+
+Move the entire dragon HEAD, FACE, BOTH HORNS AND FACIAL MANE approximately 65 pixels LEFT and 65 pixels DOWN in this 1024x1536 portrait. Keep its exact current large, thick, powerful size; DO NOT make the dragon smaller, slimmer or weaker. Reconnect the short adjacent neck naturally to the existing broad continuous overhead dragon body. Restore the old head/horn location with matching sunset sky/dragon body as appropriate.
+
+Target landmarks after correction:
+- BOTH horn tips fully visible BELOW y=70, never touching or crossing the top edge. All horn ends must have obvious sky margin above them.
+- Dragon nose tip strictly LEFT of x=815, ideally x=790.
+- Dragon eyes, broad nose, open roaring mouth and both horns fully inside x=500..815, y=70..395.
+- Curl the long whisker inward to remain left of x=825.
+- Maintain a clear sky gap between the dragon jaw and Guan Yu's head and face around x=550..635,y=175..340. Do not cover his face, headwear or beard. Do not cover the horse's head.
+
+FREEZE EVERYTHING ELSE:
+Preserve Guan Yu's exact rear-view turning pose, mature face, expression, gaze, long beard, clothing, armor, hands and arms. Preserve Red Hare, its position, pose, anatomy, huge foreground hoof, saddle and bridle. Preserve the single rigid straight guandao, its highly detailed gold/green blade design, hand positions and dragging energy. Preserve all mud, foreground splinters, wood, the defeated officer, mountain roads and gates. Preserve the corrected small convoy EXACTLY: riders and horses seen from behind, wagon rear facing viewer, convoy traveling away toward the distant gate. Preserve the right-side blank red wagon flag exactly where it is. Do not redraw any other part.
+Keep the current thick continuous solid pure-green dragon torso and majestic scale. Only move the head/face/horns inward/down and slightly bend the final neck; do not shrink the dragon body or change its color. Same highly polished stylized mythic painted card art.
+No frame, border, labels, text, extra objects, added limbs, or new composition.

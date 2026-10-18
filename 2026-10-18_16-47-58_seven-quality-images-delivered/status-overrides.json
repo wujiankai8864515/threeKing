@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-18T16:47:58.224670+08:00",
+  "current_delivery": "4 cards + 2 stories + overview; all quality revisions pending user review",
+  "versions": {
+    "overview": 5,
+    "blackiron": 2,
+    "bronze": 5,
+    "silver": 3,
+    "gold": 6,
+    "关羽斩华雄传记": 5,
+    "过关寻兄": 2
+  },
+  "dimensions": {
+    "cards": "1024x1536",
+    "stories": "1536x1024",
+    "not_claimed": "2K"
+  },
+  "approved_originals": "Old approved blackiron/silver/peach/frames remain preserved. Current quality revisions are not automatically approved.",
+  "peach": "unchanged",
+  "network": "Normal route availability rechecked by parent; next authorized commit/push pending. This worker made no external calls."
+}

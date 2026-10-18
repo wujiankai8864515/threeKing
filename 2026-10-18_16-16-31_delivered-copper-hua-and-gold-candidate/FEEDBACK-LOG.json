@@ -1,0 +1,193 @@
+{
+  "recorded_at": "2026-10-18T16:16:31.336088+08:00",
+  "timestamp_policy": "Use exact event seconds when supported. Earlier event times were supplied only to the minute, so feedback_at_exact is null and minute precision is explicit; never use archive time as event time.",
+  "events": [
+    {
+      "id": "F00",
+      "feedback_at_exact": null,
+      "feedback_date": null,
+      "feedback_local_time_reported": null,
+      "timezone": "UTC+08:00",
+      "precision": "historical baseline; exact time unknown",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "four generic frames/star UI",
+        "peach-grove-v2",
+        "grounded-card-v1",
+        "Hua-Xiong-focus-v2"
+      ],
+      "keep": "Freeze frames/stars and approved grounded peach grove; Hua Xiong physique approved.",
+      "change": "Grounded Romance settings, fantastical characters/dragon/combat; bean selling identified as folk adaptation; four card stages bean seller, Yellow Turban, gate fame, Red Hare passes. Hua weapon/three-waiters/plaque pending.",
+      "action": "Current four cards and road story delivered pending review; preserve old exploration.",
+      "supersedes": "",
+      "source_record": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/DECISIONS.md"
+    },
+    {
+      "id": "F01",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "15:48",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "bronze-v1",
+        "silver-v1",
+        "gold-v1"
+      ],
+      "keep": "Blackiron approved; bronze composition/peach/mud/Yellow Turban liked.",
+      "change": "Bronze blue energy to emerald faint dragon; silver stiff and no readable gate label; gold unsatisfactory details incomplete.",
+      "action": "Freeze blackiron, revise bronze/silver; await gold detail.",
+      "supersedes": [
+        "F00 card review pending"
+      ],
+      "source_record": "2026-10-18_15-49-47_approval-feedback-delta/status-overrides.json"
+    },
+    {
+      "id": "F02",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "15:51",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "bronze-v1",
+        "silver-v1",
+        "gold-v1"
+      ],
+      "keep": "Blackiron frozen; gold hero/horse pose preserved for this round.",
+      "change": "Pure green dragon-shaped blade energy; silver dynamic action, readable 汜水關 and opposing-army narrative; gold pure green dragon and five-passes journey.",
+      "action": "Authorize bronze localized edit, silver redo and gold edit.",
+      "supersedes": [
+        "F01 gold awaiting details"
+      ],
+      "source_record": "2026-10-18_15-52-32_revision-directions-delta/status-overrides.json"
+    },
+    {
+      "id": "F03",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:01",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "bronze-v2",
+        "silver-v2",
+        "gold-v2"
+      ],
+      "keep": "Blackiron, bronze and silver approved. Gold hero and horse praised.",
+      "change": "Gold needs strong breaking gate, defeated guard, road and escort.",
+      "action": "Freeze first three; revise gold narrative.",
+      "supersedes": [
+        "F01",
+        "F02"
+      ],
+      "source_record": "2026-10-18_16-02-38_three-cards-approved-status-delta/status-overrides.json"
+    },
+    {
+      "id": "F04",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:03",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "bronze-v2",
+        "blackiron-v1",
+        "silver-v2"
+      ],
+      "keep": "Blackiron and silver frozen. Preserve bronze established strengths but reopen approval.",
+      "change": "Bronze hand/weapon/swing trajectory inconsistent; remove ring-shaped dragon; show complete pure-green dragon head clear of frame, thicker yet tier-appropriate.",
+      "action": "Reopen bronze v2 for revision.",
+      "supersedes": [
+        "F03 bronze approval/freeze"
+      ],
+      "source_record": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/status-overrides.json"
+    },
+    {
+      "id": "F05",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:04",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "silver-v2",
+        "bronze-v2",
+        "gold-v3-saved-candidate"
+      ],
+      "keep": "Blackiron and silver must remain unchanged; peach/frames/stars unchanged. Retain high quality of gold hero/horse.",
+      "change": "Regenerate bronze and gold with clearly different cameras/actions from silver and each other; avoid uniform left-to-right action. New gold pose allowed.",
+      "action": "Gold v3 saved but not delivered/accepted after new direction; regenerate bronze/gold.",
+      "supersedes": [
+        "F02 gold preserve-pose restriction",
+        "F03 bronze freeze",
+        "gold-v3 delivery implication"
+      ],
+      "source_record": "2026-10-18_16-05-44_regenerate-bronze-gold-status-delta/status-overrides.json"
+    },
+    {
+      "id": "F06",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:05",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "Hua-Xiong-story-v2",
+        "approved-peach-grove-v2"
+      ],
+      "keep": "Keep background, dragon, Guan Yu clothing/pose, three wine waiters and exact 汜水關 text.",
+      "change": "Fix distorted Guan Yu face; rigid blade and real contact point; restore strong blade aura. Correct Hua Xiong wrist/grip balance. Liu Bei/Zhang Fei identities must match approved peach grove; Cao Cao remains distinct.",
+      "action": "Targeted revision in parallel with bronze/gold; not whole-scene redesign.",
+      "supersedes": [
+        "Hua-Xiong-v2 review pending"
+      ],
+      "source_record": "Latest user direction summarized for project requirements"
+    },
+    {
+      "id": "F07",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:06",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "all subsequent assets and revisions"
+      ],
+      "keep": "Preserve every decision and reversal.",
+      "change": "Record every feedback chronologically with date/hour/minute/second, asset version, keep/change/action and supersedes.",
+      "action": "Use exact feedback timestamp when available; never invent missing seconds. Record capture time separately.",
+      "supersedes": [
+        "Final-summary-only documentation"
+      ],
+      "source_record": "Latest user documentation requirement"
+    },
+    {
+      "id": "F08",
+      "feedback_at_exact": "2026-10-18T16:14:54+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:16:31.336088+08:00",
+      "asset_versions": [
+        "Hua-Xiong-story-v3",
+        "revision_20261018_161025_UTC+08/02-汜水關斩华雄.png"
+      ],
+      "keep": "Background, dragon, Guan Yu clothes/pose, exact gate sign and wine waiters.",
+      "change": "Direct Guan Yu gaze toward Hua Xiong. Hua Xiong apparent extra arm/confused two-arm anatomy: redraw the entire two-arm chain. Guan Yu broad full crescent-glaive belly must remain broad through mid/front rather than root-wide taper-thin; correct physical clash point.",
+      "action": "Targeted Hua Xiong v4 revision underway; no completed v4 included.",
+      "supersedes": [
+        "Hua-Xiong-v3 pending review"
+      ],
+      "source_record": "User feedback timestamp supplied exactly"
+    }
+  ]
+}

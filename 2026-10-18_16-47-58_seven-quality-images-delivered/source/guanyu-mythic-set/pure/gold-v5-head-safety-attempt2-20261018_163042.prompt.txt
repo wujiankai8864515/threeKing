@@ -1,0 +1,9 @@
+LOCAL EDIT of the supplied exact artwork. Keep the entire approved rider, horse, weapon, mud, wagon, convoy direction, flag, mountains, roads and lighting absolutely unchanged.
+
+Reposition ONLY the green dragon's large head and horns. Its head is too far right and horns too high. Move the roaring head inward into the UPPER CENTER of the picture, immediately to the right of Guan Yu's head with a clear sky gap. The RIGHTMOST QUARTER OF THE UPPER SKY must be empty of dragon face, horns and whiskers. This means the dragon nose must end around 76% of the image width, not 85%. Bring the dragon's entire snout and face at least one full eye-to-nose distance LEFT from the current position. Keep the jaw open and broad, thick and powerful, same gold-tier presence. Bend only the final neck into a tighter inward curve while retaining the huge muscular body arch.
+
+Draw both stout horns sweeping BACK toward the center rather than upward out of the image. Both horn tips must finish at least 80 pixels below the top edge, with open sky above them. Keep both horns fully visible. Curl all whiskers back toward the face so they do not extend into the rightmost quarter.
+
+The dragon face should occupy approximately x=655–790, y=180–360 on this 1024x1536 image; its horns approximately x=580–745,y=80–180. Keep it separate from Guan Yu's face at x=580,y=260; no dragon part may cover his head or face. Do not reduce torso thickness, neck thickness, skull depth or powerful jaw. Same pure grass-green dragon, no cyan.
+
+Only change this head/horns placement and the short neck connector. ALL foreground details and the correctly rear-facing convoy remain exactly as input. No frame, text, border, extra objects or altered hero pose.
