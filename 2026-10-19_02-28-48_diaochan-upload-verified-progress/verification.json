@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T02:28:48.527209+08:00",
+  "verified_asset_commit": "ecc9d19de4d041190571ef4cd1a6c495bbc7652e",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9172,
+  "sequential_copy_sha256_checked": true,
+  "hero": "diaochan",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
