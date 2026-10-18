@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "董卓",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "雄躯",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "董卓",
+    "level": "1",
+    "advancement": "雄",
+    "skills": [
+      {
+        "name": "雄躯",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "群",
+    "title": "董卓",
+    "level": "1",
+    "advancement": "相",
+    "skills": [
+      {
+        "name": "雄躯",
+        "level": "+2"
+      },
+      {
+        "name": "厚甲",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "群",
+    "title": "董卓",
+    "level": "1",
+    "advancement": "霸",
+    "skills": [
+      {
+        "name": "雄躯",
+        "level": "+3"
+      },
+      {
+        "name": "厚甲",
+        "level": "+2"
+      },
+      {
+        "name": "霸令",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

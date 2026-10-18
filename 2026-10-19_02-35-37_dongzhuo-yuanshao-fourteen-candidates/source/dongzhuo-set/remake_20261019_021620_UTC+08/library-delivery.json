@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-兵入北邙.png",
+      "file_id": "file_000000007f7481fdacdc56bd31b904e9",
+      "library_file_id": "libfile_d2a30b0dd4d48191bc8dc32bd0693d21",
+      "file_name": "01-黑铁-兵入北邙.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3308159
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-帐前纳虎将.png",
+      "file_id": "file_0000000042f081f592d6653a59f70667",
+      "library_file_id": "libfile_5bb6f500989c81918c84da16c96007fb",
+      "file_name": "02-青铜-帐前纳虎将.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3287199
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-殿上废立.png",
+      "file_id": "file_0000000065d482308d46ceb9141bacd1",
+      "library_file_id": "libfile_0712cbc0ec108191ae8fbb22ef9d1b5a",
+      "file_name": "03-白银-殿上废立.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3142028
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-郿坞重门.png",
+      "file_id": "file_00000000032481fda57fd984da876e06",
+      "library_file_id": "libfile_9eaa0ba0d7e48191a9bb7f88dd632550",
+      "file_name": "04-黄金-郿坞重门.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3430463
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-传记-使者引来新将.png",
+      "file_id": "file_00000000f76c81fdbeba49ba37a3a377",
+      "library_file_id": "libfile_61fcd271526481919ef8bc2364a6668e",
+      "file_name": "05-传记-使者引来新将.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2426886
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/06-传记-册书先开.png",
+      "file_id": "file_00000000a9b481fd9c50dada80eb6179",
+      "library_file_id": "libfile_30ad8da89d5c8191bcbec0517759b802",
+      "file_name": "06-传记-册书先开.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2325401
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/07-传记-重门之后.png",
+      "file_id": "file_000000001f5481fd8a68719d56b5b889",
+      "library_file_id": "libfile_5df0b1118f088191a6dc02b9c8cce946",
+      "file_name": "07-传记-重门之后.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2460023
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/08-董卓-四卡三传记总览.png",
+      "file_id": "file_00000000c9cc8210a9cd05c53a33c26c",
+      "library_file_id": "libfile_07c4775e779881919f479e8326929703",
+      "file_name": "08-董卓-四卡三传记总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3621614
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

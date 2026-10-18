@@ -1,0 +1,120 @@
+{
+  "hero": "袁绍",
+  "faction": "群",
+  "status": "候选待审，非用户通过",
+  "engine": "built-in image_gen",
+  "sources": [
+    "https://zh.wikisource.org/zh/三國演義/第003回",
+    "https://zh.wikisource.org/zh/三國演義/第005回",
+    "https://zh.wikisource.org/zh/三國演義/第007回",
+    "https://zh.wikisource.org/zh/三國演義/第022回"
+  ],
+  "art_resampling": "none; cards 1024x1536 at1:1 offset84,145 on1190x1786",
+  "assets": [
+    {
+      "id": "01-黑铁-剑对权臣",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/01-黑铁-剑对权臣.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "ed564a3b0e64852de0370d44ea15c6a45a3b8641189db3312b3862fcb16427aa",
+      "target_card": null
+    },
+    {
+      "id": "02-青铜-盟坛立旄",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/02-青铜-盟坛立旄.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "6db7ebe5f69788aea2c192f459e53b56b3595f2450485da1648f030358f03a1e",
+      "target_card": null
+    },
+    {
+      "id": "03-白银-冀州门开",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/03-白银-冀州门开.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "b2bf0655da8fd44183b8330b207692f957cdcb1a2d12ad83b0e31199dfe44143",
+      "target_card": null
+    },
+    {
+      "id": "04-黄金-黎阳旌羽",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/04-黄金-黎阳旌羽.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "71c85f5e55214bffba4a4c3bcc49cb9306e24b2b963439a412c49feb6a369d66",
+      "target_card": null
+    },
+    {
+      "id": "05-传记-众推一盟主",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/05-传记-众推一盟主.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "99d9de8f7a6a25bf04cbf751135f28c97c6e1d89ed915c2bf65a97d58c6146c5",
+      "target_card": "card02"
+    },
+    {
+      "id": "06-传记-冀州来书",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/06-传记-冀州来书.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "b77d6bccd7cd809464ada7a1472d8d3a56b6c2f1a07f3dcefd20b3fef8792443",
+      "target_card": "card03"
+    },
+    {
+      "id": "07-传记-檄成而军动",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshao-set/remake_20261019_021817_UTC+08/candidates/07-传记-檄成而军动.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "d26c2e474fc3664916975b445f83f5b4ddc087bcf661041732b37af9fb251a96",
+      "target_card": "card04"
+    }
+  ]
+}

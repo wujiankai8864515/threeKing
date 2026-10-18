@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "袁绍",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "合射",
+        "level": "+1"
+      }
+    ],
+    "status": "袁绍技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "袁绍",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "合射",
+        "level": "+1"
+      }
+    ],
+    "status": "袁绍技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "群",
+    "title": "袁绍",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "合射",
+        "level": "+2"
+      },
+      {
+        "name": "列旗",
+        "level": "+2"
+      }
+    ],
+    "status": "袁绍技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "群",
+    "title": "袁绍",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "合射",
+        "level": "+3"
+      },
+      {
+        "name": "列旗",
+        "level": "+3"
+      },
+      {
+        "name": "余矢",
+        "level": "+3"
+      }
+    ],
+    "status": "袁绍技能草案，单关键效果，候选待审"
+  }
+}

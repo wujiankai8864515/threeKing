@@ -1,0 +1,163 @@
+{
+  "hero": "董卓",
+  "status": "ready_candidate_pending_user_review",
+  "generator": "built-in image_gen only",
+  "raw_generated_count": 7,
+  "art_status": "all seven newly generated, four cards locally polished; old iterations preserved",
+  "mythic_beast": "饕餮铁腹，原创权欲意象，非演义或史传设定",
+  "research": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/research/verified.md",
+  "qa": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/qa/QA.md",
+  "assets": [
+    {
+      "id": "card01",
+      "label": "01-黑铁-兵入北邙",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "02b6ef4a6c1c8efdf95ee76eb49430f1818648edfbd064058237ba5be8569e1d",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/01-黑铁-兵入北邙.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "bf3573a8808bbff4087a76719ebde2573b229a3997e38898cb748f36297591d6",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card02",
+      "label": "02-青铜-帐前纳虎将",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "f23b718c1cc8710c55dce3f7a60d280c84fabd4f0d9248263d36c731f744e5b1",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/02-青铜-帐前纳虎将.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "a316048a76b8a769d6d28730c89950a49d49e944aa4baa626f7739a92c191710",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card03",
+      "label": "03-白银-殿上废立",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "b4da7f9b1d0be600722b6946f280e35153b383a0896fc1cce8d277825c0df681",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/03-白银-殿上废立.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "ba589ebe6d827f62a23b06916837eca475bd1c6a00ab8faa9733bad20d7e94f3",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card04",
+      "label": "04-黄金-郿坞重门",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "a6136116448a7a43228beb3bc5dfc5e8585af8d4485f9f587d57224204874ec8",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/04-黄金-郿坞重门.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "0d4a55ffa4ce077f8a653ee9657b49e3f9183df03968a87950dfb33cb1c56c00",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio01",
+      "label": "05-传记-使者引来新将",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "dc3085a4f7982608b0cba924b61fffebc4c181d061857a83c9e492a30b7a2798",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/05-传记-使者引来新将.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "dc3085a4f7982608b0cba924b61fffebc4c181d061857a83c9e492a30b7a2798",
+      "destination_card": "card02",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio02",
+      "label": "06-传记-册书先开",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "d34e27a7a4b19edf2086fa3e8ee11e12826c32ba71c5befd9b8ca528b9f8a741",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/06-传记-册书先开.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "d34e27a7a4b19edf2086fa3e8ee11e12826c32ba71c5befd9b8ca528b9f8a741",
+      "destination_card": "card03",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio03",
+      "label": "07-传记-重门之后",
+      "source": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "be0e6a37e2337924f141c2871b8a125009d7248df8e6e30b98a6dc88a555000e",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/07-传记-重门之后.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "be0e6a37e2337924f141c2871b8a125009d7248df8e6e30b98a6dc88a555000e",
+      "destination_card": "card04",
+      "status": "candidate_pending_user_review"
+    }
+  ],
+  "overview": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/candidates/08-董卓-四卡三传记总览.png",
+  "prompts": [
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/bio01.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card02.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card03.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/bio02.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/bio03.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card04.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card02-material-clean.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card01-material-clean.txt",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/prompts/card01.txt"
+  ],
+  "ui_compositor": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/ui/compose_layout.py",
+  "ui_manifest": "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/ui/composition-manifest.json",
+  "no_upscale_claim": "native portrait 1024x1536, landscape1536x1024; card UI1190x1786 is composition canvas, not native 4K",
+  "limitations": [
+    "四卡阶段、被动名称和等级均待审游戏设定",
+    "饕餮铁腹、冠服递进和铁鼎神相为原创视觉解释",
+    "各事件按演义，不宣称历史准确复原"
+  ],
+  "research_correction": "第4回为嘉德殿，继承brief崇德殿已在verified.md纠正",
+  "failures": [
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/failures/card02-microtexture-before-clean.png",
+    "/workspace/scratch/3f82ff2b3f81/dongzhuo-set/remake_20261019_021620_UTC+08/failures/card01-microtexture-before-clean.png"
+  ]
+}

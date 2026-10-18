@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-剑对权臣.png",
+      "file_id": "file_00000000e4f881fd9fdc93188a956b2d",
+      "library_file_id": "libfile_fed4c42e724c81918b667cb6e7a5c751",
+      "file_name": "01-黑铁-剑对权臣.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3379104
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-盟坛立旄.png",
+      "file_id": "file_0000000062b48206990eb1832d0f940b",
+      "library_file_id": "libfile_fc94462765108191a612ff92c090cb9d",
+      "file_name": "02-青铜-盟坛立旄.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3657353
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-冀州门开.png",
+      "file_id": "file_00000000aa0081fd84b98de6d62820a3",
+      "library_file_id": "libfile_ef75564ca8248191872570a22b4c8891",
+      "file_name": "03-白银-冀州门开.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3843024
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-黎阳旌羽.png",
+      "file_id": "file_00000000e2bc81f4bf0f1884b38e468d",
+      "library_file_id": "libfile_88203671b094819197941c4721a324d5",
+      "file_name": "04-黄金-黎阳旌羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4011045
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-传记-众推一盟主.png",
+      "file_id": "file_0000000073a881f5a383ffe8a21155ad",
+      "library_file_id": "libfile_6b90753defb481918fc2f49335f65280",
+      "file_name": "05-传记-众推一盟主.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2493114
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/06-传记-冀州来书.png",
+      "file_id": "file_00000000c3988230834f915da48e086a",
+      "library_file_id": "libfile_9d91c06ac4cc8191934e292c05dbac65",
+      "file_name": "06-传记-冀州来书.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2487959
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/07-传记-檄成而军动.png",
+      "file_id": "file_000000003e5c81f4bffde213aa001687",
+      "library_file_id": "libfile_624ca09a8ae0819191ce7923b5a91fe9",
+      "file_name": "07-传记-檄成而军动.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2542872
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/袁绍-四阶三传记-重做总览.png",
+      "file_id": "file_000000001a1c81f8aceab0a1d5b2046a",
+      "library_file_id": "libfile_6a59a1343d748191aef6c4a73806a39e",
+      "file_name": "袁绍-四阶三传记-重做总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3493115
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
