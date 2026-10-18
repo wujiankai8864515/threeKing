@@ -1,0 +1,10 @@
+{
+  "verified_asset_commit": "dde7243da2ad222b753b0c9dff04b56706568baa",
+  "independent_fetch": "PASS",
+  "resolved_paths_verified": 10063,
+  "sequential_copy_sha256_checked": true,
+  "packages_reconstructed_from_independent_remote_clone": 52,
+  "images_checked": 280,
+  "all_rebuilt_zip_sha256_equal_original": true,
+  "lfs_new_source_batches": "independently verified; old verified cache removed for space, full worktree SHA verified"
+}

@@ -1,0 +1,49 @@
+{
+  "recorded_at": "2026-10-19T03:01:41.016585+08:00",
+  "heroes": 40,
+  "candidate_images": 280,
+  "download_packages": 52,
+  "chat_status": "accepted_by_service",
+  "user_opened": null,
+  "user_final_acceptance": false,
+  "overview_delivery": "All forty overviews sent in batches, per delivery report",
+  "batches": [
+    {
+      "scope": "first package",
+      "message_id": "Sentinel_dc121a0a67fc8191bdf43eb598811fc7",
+      "status": "accepted"
+    },
+    {
+      "scope": "魏02-11",
+      "message_id": "Sentinel_9a6e2506d06081918d7de6d3d6bb3207",
+      "status": "accepted"
+    },
+    {
+      "scope": "魏12-13+蜀01-08",
+      "message_id": "Sentinel_0b1d8455124c81919cf15cf0e8cc276b",
+      "status": "accepted"
+    },
+    {
+      "scope": "蜀09-14+吴01-04",
+      "message_id": "Sentinel_2aa273c952ec8191a8d259817a692fb5",
+      "status": "accepted"
+    },
+    {
+      "scope": "吴05-13+群01",
+      "message_id": "Sentinel_efc291dd6b34819195bb3f9447f9e49c",
+      "status": "accepted"
+    },
+    {
+      "scope": "群02-11",
+      "message_id": "Sentinel_7162b7dcfa448191ae914e4ee696057c",
+      "status": "accepted"
+    },
+    {
+      "scope": "群12+README/总清单/核验",
+      "message_id": "Sentinel_08e2fe4a9d9c8191bb23b7e01502fbcd",
+      "status": "accepted"
+    }
+  ],
+  "old_twenty_large_packages": "historical Library/local copies; chat transmission failed due to file-size limit; do not send directly",
+  "zip_storage": "Library and local only. Git stores complete underlying images and exact-byte reconstruction catalogue/script."
+}
