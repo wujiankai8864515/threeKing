@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T02:32:13.777021+08:00",
+  "verified_asset_commit": "911813c0e9e8f7945c3a99d228f1b330fec0a98d",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9294,
+  "sequential_copy_sha256_checked": true,
+  "hero": "huatuo",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
