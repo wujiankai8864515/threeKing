@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-18T23:08:12.390327+08:00",
+  "guanyu": {
+    "delivered_at": "2026-10-18T15:06:16Z",
+    "message_id": "Sentinel_dd7a0bc4f5c48191974308bd9271221d",
+    "index": "guanyu-mythic-set/ui-weapon-candidates_2026-10-18_23-01-35_UTC+08/关羽-本轮七图索引.json"
+  },
+  "zhangfei": {
+    "delivered_at": "2026-10-18T15:07:06Z",
+    "message_id": "Sentinel_d9d833e11fec819194fff7acde60aaf7",
+    "index": "zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/seven-image-index.json"
+  },
+  "acceptance": "Both delivered as candidates; not user accepted."
+}

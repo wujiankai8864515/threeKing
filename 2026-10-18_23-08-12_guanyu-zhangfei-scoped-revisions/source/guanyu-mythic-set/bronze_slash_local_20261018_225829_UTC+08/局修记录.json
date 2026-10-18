@@ -1,0 +1,27 @@
+{
+  "status": "candidate_5_failed_do_not_use",
+  "method": "builtin image_gen",
+  "generated_call_count_this_followup": 1,
+  "generated_call_count_task_total": 5,
+  "started_at_utc": "2026-10-18T14:58:29Z",
+  "reference_paths_actually_passed": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225522_UTC+08/青铜-蛇矛直轴局修-候选4.png"
+  ],
+  "reference_sha256": "9832ee7fe8ec34a3e6585ed50803e1fbc4169f78e21e470ca39dabe6d8cbc1df",
+  "generated_original_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c5689711-ae82-4a64-91bc-8b1a826b3766.png",
+  "candidate_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225829_UTC+08/青铜-尾杆微修-候选5-失败勿用.png",
+  "candidate_sha256": "5f525089b3b64acfb650cde993e7c716dd890d84810cfe05cd8f872915ea3e1b",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "prompt": "Use case: precise-object-edit.\nMake ONLY a tiny local correction, within roughly x=215–280, y=410–490 of this 1024×1536 image. This is the short upper tail of Zhang Fei's spear, just above his raised/rear hand near (220,480), beside the white horse's nose. EVERYTHING ELSE IS LOCKED.\n\nThe spear shaft between Zhang Fei's lower hand near (110,574) and raised hand near (220,480) is already correct. Treat that existing inter-hand shaft as the authoritative straight axis. Replace ONLY the roughly 50-pixel upper tail segment: continue that very same straight line upward-right beyond the raised hand, without the current steeper bend. Keep its same rod thickness, material and perspective. End the short blunt tail around (260,445), or nearby on that exact common axis, leaving a clearly visible open-space gap from the white horse's nose. Do NOT extend the tail to the old point near (270,420), which creates a kink and touches the horse. Erase the obsolete steeper segment cleanly and restore its tiny background patch. Add no second line, branch, knob, ghost shaft or extra hand.\n\nDo not change either hand, grip, face, arm, sleeve, armor, torso, spearhead, lower shaft or any part of Zhang Fei other than this tiny upper tail. Do not modify Guan Yu, his face, pose, long guandao, single-handed overhead chopping wind-up, horse, robe or knee. Do not move or redraw the white horse. Preserve Liu Bei, all other figures, horses, enemies, mud, peach blossom, cloud dragon, mountains, lighting, colors, style, composition and portrait framing exactly. No new objects, effects, gold powder, text or UI. Local straight-tail repair only.",
+  "native_qa": {
+    "inspection": "Output and original-pixel unscaled crop inspected.",
+    "crop_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225829_UTC+08/QA-native-误断关羽杆.png",
+    "requested": "Only fix Zhang Fei rear-hand-to-tail segment near x215–280,y410–490.",
+    "actual_failure": "Generator erased a segment of Guan Yu's main guandao shaft around x305–330,y310–330, making it visibly broken. Requested Zhang Fei tail repair did not resolve the original condition. Broader surface-detail drift also occurred.",
+    "verdict": "Hard failure. Parent notified immediately. Never use in UI or delivery. Candidate 4 source remains unchanged and intact. No further generation."
+  },
+  "untouched": "Source images, UI and other standalone hero sets not changed."
+}

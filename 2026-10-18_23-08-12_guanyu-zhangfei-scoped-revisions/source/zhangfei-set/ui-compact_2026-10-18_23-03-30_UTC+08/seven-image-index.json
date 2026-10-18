@@ -1,0 +1,98 @@
+[
+  {
+    "asset": "iron",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/01-黑铁-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card01-blackiron.png",
+    "status": "candidate_not_user_accepted",
+    "ui_fields_unchanged": true,
+    "changed_native_pixels": 0,
+    "sha256": "c36df1b5eab11e20c76d8c12b1686bf031e9b729e982d8c88d10e8682beb6164",
+    "size": [
+      1190,
+      1786
+    ],
+    "library_file_id": "libfile_bd3c369b2cb88191a3352e56351c8805",
+    "library_version": 0
+  },
+  {
+    "asset": "bronze",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/02-青铜-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "candidate_not_user_accepted",
+    "ui_fields_unchanged": true,
+    "changed_native_pixels": 0,
+    "sha256": "95bed7e63b98f0bc318f04abc34a6ed32ef832229f3d536ac445a52c71dde701",
+    "size": [
+      1190,
+      1786
+    ],
+    "library_file_id": "libfile_2bb86c98f89081918bc842341e644a5f",
+    "library_version": 0
+  },
+  {
+    "asset": "silver",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/03-白银-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+    "status": "candidate_not_user_accepted",
+    "ui_fields_unchanged": true,
+    "changed_native_pixels": 0,
+    "sha256": "b33ea315788ca240f1ea1a56be93766e3e676206958605b83e5062e967e4eb6c",
+    "size": [
+      1190,
+      1786
+    ],
+    "library_file_id": "libfile_2da957c303208191bcd77d617e1a0652",
+    "library_version": 0
+  },
+  {
+    "asset": "gold",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/04-黄金-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card04-gold.png",
+    "status": "candidate_not_user_accepted",
+    "ui_fields_unchanged": true,
+    "changed_native_pixels": 0,
+    "sha256": "ca7913741dd8f668361d5dcc993f6a390beb9d121e0ced7524518e221dee7c3e",
+    "size": [
+      1190,
+      1786
+    ],
+    "library_file_id": "libfile_532be53bdcec819193f3fe6fa5f27476",
+    "library_version": 0
+  },
+  {
+    "asset": "bio02",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+    "status": "candidate_not_user_accepted",
+    "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8",
+    "size": [
+      1536,
+      1024
+    ],
+    "library_file_id": "libfile_a3aa39e25a24819180cadc8205cc8fc2",
+    "library_version": 0
+  },
+  {
+    "asset": "bio03",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+    "status": "candidate_not_user_accepted",
+    "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0",
+    "size": [
+      1536,
+      1024
+    ],
+    "library_file_id": "libfile_17bd7d6eb15c81919ef6463027c3d109",
+    "library_version": 0
+  },
+  {
+    "asset": "bio04",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio04-dangyang-v2.png",
+    "status": "candidate_not_user_accepted",
+    "sha256": "f832d7dee8826c03838fe294ff51bbf68d148f3e08bc0cc4ed670acdc605cb50",
+    "size": [
+      1536,
+      1024
+    ],
+    "library_file_id": "libfile_ef98ea97c4e08191b6e767f8b7bed42a",
+    "library_version": 0
+  }
+]

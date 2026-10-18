@@ -1,0 +1,126 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-UI排版修复1190.png",
+      "file_id": "file_00000000b69081fda6ce5172617598cd",
+      "library_file_id": "libfile_ac208953d6688191a8a9e9b16b51374a",
+      "file_name": "01-黑铁-UI排版修复1190.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3470481
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-UI排版修复1190.png",
+      "file_id": "file_0000000067f481f495a4718ae5344898",
+      "library_file_id": "libfile_c605df726de08191836df3c5530e4c22",
+      "file_name": "02-青铜-UI排版修复1190.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3819239
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-UI排版修复1190.png",
+      "file_id": "file_000000005b7881f8952113d4e9025431",
+      "library_file_id": "libfile_9856e9c09050819183032e73e043a7da",
+      "file_name": "03-白银-UI排版修复1190.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3860155
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-UI排版修复1190.png",
+      "file_id": "file_00000000e9c881fda755256d4f635eac",
+      "library_file_id": "libfile_7a2bf458c52481918201307cf196f240",
+      "file_name": "04-黄金-UI排版修复1190.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3623740
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/关羽-四阶UI排版修复总览.png",
+      "file_id": "file_000000007e7c81f8bb0edcf821d2276b",
+      "library_file_id": "libfile_2109c8a075a4819181560868dec5c1a5",
+      "file_name": "关羽-四阶UI排版修复总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2696728
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/温酒请战-v16-刀头比例局修候选.png",
+      "file_id": "file_00000000b0f481f5a3931d3548a6a759",
+      "library_file_id": "libfile_919c4366c5308191b55f870de5a80057",
+      "file_name": "温酒请战-v16-刀头比例局修候选.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3062802
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

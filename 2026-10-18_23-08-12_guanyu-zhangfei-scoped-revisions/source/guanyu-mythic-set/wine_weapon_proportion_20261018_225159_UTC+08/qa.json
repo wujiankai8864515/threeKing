@@ -1,0 +1,59 @@
+{
+  "mode": "builtin image_gen__imagegen; one local lower-weapon proportion edit",
+  "prompt_file": "prompt.txt",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_weapon_leftaxis_20261018_224342_UTC+08/温酒请战-v15-左侧整轴候选.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+  ],
+  "files": {
+    "edit_target": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_weapon_leftaxis_20261018_224342_UTC+08/温酒请战-v15-左侧整轴候选.png",
+      "sha256": "ed76a688f3ebf4aa013e468b403e02bb5d0faf178674eec69224a4e5c3e98ecb",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "weapon_reference": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "candidate": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_weapon_proportion_20261018_225159_UTC+08/温酒请战-v16-刀头比例局修候选.png",
+      "sha256": "1061fa3a9b139141b2b422bdfd709045317d01d6099f39efe7075d396e026537",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  },
+  "original_generation_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-854fd38b-017c-4c6d-9033-39eb886e8649.png",
+  "qa": {
+    "result": "PASS local repair visual QA; root reviewed full image and retained v16 as the local-repair candidate",
+    "inspection": "Full 1536x1024 image plus native-pixel complete weapon and grip crops inspected. Inputs unchanged.",
+    "preserved_visually": [
+      "v15 left-hand/wrist/arm pose and upper pole/butt location",
+      "Guan Yu face, beard, hat, torso and armor identity",
+      "Frontal horse advancing calmly from camp",
+      "Three lords and camp composition",
+      "Azure dragon",
+      "Natural horse-tail appearance; no added gold dust"
+    ],
+    "weapon_findings": [
+      "Single broad-bellied crescent blade is smaller; gold collar moved farther down-left, revealing substantial lower shaft.",
+      "One straight shaft is visually traceable from collar to butt, with only the existing hand occlusion. No visible step, duplicate pole or hidden body joint.",
+      "Grip and upper shaft preserved; butt not lengthened.",
+      "Long-pole weapon reading and blade/human scale substantially improved against the approved reference; no rigid claim of identical projected pixel ratios.",
+      "No extra hand, sword grip or attack pose."
+    ],
+    "native_crops": [
+      "after-complete-weapon-100pct.png",
+      "after-grip-100pct.png"
+    ],
+    "next_action": "Stop wine edits. Root will deliver with Guan Yu four cards and three biography illustrations. No Git or separate user message."
+  }
+}

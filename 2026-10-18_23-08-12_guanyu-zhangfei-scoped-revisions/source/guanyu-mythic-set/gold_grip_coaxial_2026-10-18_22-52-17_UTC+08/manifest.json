@@ -1,0 +1,32 @@
+{
+  "tool": "builtin image_gen",
+  "prompt": "prompt.txt",
+  "sources": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-黄金-握手上段同轴局修-候选3.png",
+      "sha256": "93f471c8ff85fc2b40238940cb285257d1acbce0ad63965f97060f3e79913d01",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/gold-candidate3-native-1.png",
+      "sha256": "7f310d6c55287651d61097651a7ffe6c8c9e9d8c080e0bf0a16ef1419b1f3228",
+      "dimensions": [
+        350,
+        480
+      ]
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold_grip_coaxial_2026-10-18_22-52-17_UTC+08/关羽-黄金-握点共轴精修-候选1.png",
+    "sha256": "f8c58bf928a52a8955f5f9607b17da11d57300acb4524c17a1c38178d7795c42",
+    "dimensions": [
+      1024,
+      1536
+    ]
+  },
+  "scope": "One local upper-shaft/grip coaxial repair. Lower blade, pole proportions, rider/horse/dragon/tail and composition locked. No source overwrite.",
+  "qa": "Full image, 100% grip before/after, 100% blade, 100% matte tail and 256x384 thumbnail personally viewed. Upper short shaft visibly shifted left. Prior obvious lateral step no longer evident at native scale; no gap or effect cover observed. Blade/pole proportions, low dragging pose, clean red-brown tail and scene visually retained. Final parent review requested; no independent reviewer result available for this candidate. Exactly one new edit generated."
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/01-黑铁-UI排版修复1190(1).png",
+    "file_id": "file_00000000456481fd8ba4dd30ae772096",
+    "library_file_id": "libfile_bd3c369b2cb88191a3352e56351c8805",
+    "file_name": "01-黑铁-UI排版修复1190(1).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3406621,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/01-黑铁-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/02-青铜-UI排版修复1190(1).png",
+    "file_id": "file_00000000b0b081fdb6ea54ea4ceca3ba",
+    "library_file_id": "libfile_2bb86c98f89081918bc842341e644a5f",
+    "file_name": "02-青铜-UI排版修复1190(1).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3918274,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/02-青铜-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/03-白银-UI排版修复1190(1).png",
+    "file_id": "file_0000000048d88230a749daf6da08a2fc",
+    "library_file_id": "libfile_2da957c303208191bcd77d617e1a0652",
+    "file_name": "03-白银-UI排版修复1190(1).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3722871,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/03-白银-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/04-黄金-UI排版修复1190(1).png",
+    "file_id": "file_00000000449881fdbf6fea617b9dd47e",
+    "library_file_id": "libfile_532be53bdcec819193f3fe6fa5f27476",
+    "file_name": "04-黄金-UI排版修复1190(1).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 4191475,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/04-黄金-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/张飞-四阶三传记-修订候选总览.png",
+    "file_id": "file_0000000060b481f68c009ab96495628d",
+    "library_file_id": "libfile_6e5a91b9d120819198870079ea13a169",
+    "file_name": "张飞-四阶三传记-修订候选总览.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 4348116,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/ui-compact_2026-10-18_23-03-30_UTC+08/张飞-四阶三传记-修订候选总览.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio02-rally.png",
+    "file_id": "file_00000000fadc81f484f3600ec221efeb",
+    "library_file_id": "libfile_a3aa39e25a24819180cadc8205cc8fc2",
+    "file_name": "bio02-rally.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2344351,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio03-hulao.png",
+    "file_id": "file_0000000031bc82108a40d5b5df56a4d5",
+    "library_file_id": "libfile_17bd7d6eb15c81919ef6463027c3d109",
+    "file_name": "bio03-hulao.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3225199,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio04-dangyang-v2.png",
+    "file_id": "file_00000000f3c081f6b252ed5fa5648586",
+    "library_file_id": "libfile_ef98ea97c4e08191b6e767f8b7bed42a",
+    "file_name": "bio04-dangyang-v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3236402,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio04-dangyang-v2.png"
+  }
+]

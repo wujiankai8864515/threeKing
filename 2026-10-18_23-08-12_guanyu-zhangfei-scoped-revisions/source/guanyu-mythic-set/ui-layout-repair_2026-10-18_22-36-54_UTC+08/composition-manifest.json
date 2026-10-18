@@ -1,0 +1,551 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "existing example fields unchanged",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "bronze_source_status": "temporary previous source; replace illustration only when new local repair is ready",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "source_sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+1"
+          }
+        ]
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "蓄势",
+            "ink_bbox": [
+              911,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1008,
+              1298,
+              1050,
+              1328
+            ],
+            "ink_center": [
+              1029.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "真",
+        "ink_bbox": [
+          138,
+          1566,
+          224,
+          1653
+        ],
+        "ink_center": [
+          181.0,
+          1609.5
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.341796875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": 0,
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+      "source_sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+1"
+          }
+        ]
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "蓄势",
+            "ink_bbox": [
+              911,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1008,
+              1298,
+              1050,
+              1328
+            ],
+            "ink_center": [
+              1029.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "真",
+        "ink_bbox": [
+          138,
+          1566,
+          224,
+          1653
+        ],
+        "ink_center": [
+          181.0,
+          1609.5
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": 0,
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "source_sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+2"
+          },
+          {
+            "name": "斩将",
+            "level": "+2"
+          }
+        ]
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "蓄势",
+            "ink_bbox": [
+              911,
+              1194,
+              996,
+              1236
+            ],
+            "ink_center": [
+              953.5,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "斩将",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.0,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "真",
+        "ink_bbox": [
+          137,
+          1566,
+          223,
+          1653
+        ],
+        "ink_center": [
+          180.0,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.341796875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": 0,
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "source_sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+2"
+          },
+          {
+            "name": "斩将",
+            "level": "+2"
+          },
+          {
+            "name": "武圣",
+            "level": "+2"
+          }
+        ]
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "蓄势",
+            "ink_bbox": [
+              911,
+              1096,
+              996,
+              1138
+            ],
+            "ink_center": [
+              953.5,
+              1117.0
+            ],
+            "target_center": [
+              953.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1102,
+              1051,
+              1133
+            ],
+            "ink_center": [
+              1029.5,
+              1117.5
+            ],
+            "target_center": [
+              1029.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "斩将",
+            "ink_bbox": [
+              910,
+              1194,
+              996,
+              1236
+            ],
+            "ink_center": [
+              953.0,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "武圣",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1333
+            ],
+            "ink_center": [
+              953.0,
+              1312.5
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "真",
+        "ink_bbox": [
+          137,
+          1566,
+          223,
+          1653
+        ],
+        "ink_center": [
+          180.0,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.23958333333325754
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": 0,
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}

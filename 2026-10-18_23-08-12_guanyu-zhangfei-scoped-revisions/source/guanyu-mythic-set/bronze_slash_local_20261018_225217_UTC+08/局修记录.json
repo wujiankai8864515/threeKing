@@ -1,0 +1,34 @@
+{
+  "status": "candidate_3_failed_supporting_spear_axis_QA_do_not_use",
+  "method": "builtin image_gen",
+  "generated_call_count_this_followup": 1,
+  "generated_call_count_task_total": 3,
+  "started_at_utc": "2026-10-18T14:52:17Z",
+  "reference_paths_actually_passed": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223710_UTC+08/青铜-持刀劈砍局修-候选2.png"
+  ],
+  "reference_sha256": "3eeb64220433561d17935026a49ef40e12935c218a7c55b3709d54800d037d9e",
+  "reference_note": "Candidate 2 itself was generated with original bronze and approved 千里护行 guandao design. This call freezes Guan Yu and locally redirects only the supporting snake-spear.",
+  "generated_original_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-eb4e9a0b-e6e2-4704-8900-ca3eeacd73e6.png",
+  "candidate_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225217_UTC+08/青铜-蛇矛避让局修-候选3.png",
+  "candidate_sha256": "af8f0f17bbbed4cb765fd1b6c68ed5f770883e67472e71c351d37b60cbd98c7d",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "prompt": "Use case: precise-object-edit.\nMake ONE very small safety-clearance correction to this exact portrait. Edit ONLY the smaller black-armored rider Zhang Fei's snake spear and the minimum hand/wrist/forearm adjustment necessary to hold it naturally. Zhang Fei is the bearded supporting rider on the left, beneath Liu Bei.\n\nThe present long wavy spear blade points down-right directly into central Guan Yu's knee and green robe. Remove that unsafe contact. Reorient the SAME intact long snake spear OUTWARD toward the viewer's LOWER-LEFT open edge, away from Guan Yu. Its wavy blade should point into clear off-frame/open space to the left of both riders, with a visibly generous clean air gap from Guan Yu's entire robe, knee, leg and horse. It must not point into Liu Bei or any friendly horse either. The complete physical weapon remains long: allow its blade tip or tail to exit the frame naturally rather than shortening or erasing it. Preserve the recognizable long wavy snake-blade design. Keep shaft, socket and blade on one continuous physically plausible rigid axis, both of Zhang Fei's hands closed around the shaft with credible wrists and hand spacing. Do not merge this shaft with Guan Yu's weapon, add another weapon, or leave the old blade/ghost shaft touching the knee. Restore only the small formerly blade-covered patch of Guan Yu's green robe/knee naturally.\n\nFreeze central Guan Yu EXACTLY as in the input: same face, gaze, headgear, beard, costume, raised arm and one-handed overhead cutting wind-up. A natural single-handed balanced grip is intended here, so do not invent another arm or hand. Preserve his current long guandao, long tail and continuous straight pole, broad single-arc blade, scale and orientation exactly; it is a long polearm, not a sword. Do not rework the main figure or conceal arm anatomy.\n\nKeep Zhang Fei's face, body, armor and horse unchanged apart from the minimal arm articulation needed for this safe spear orientation. Preserve Liu Bei and both swords; all three riders, horses, yellow-turban enemies, mud and hooves, peach blossoms, cloud dragon, flags, mountains, composition, portrait framing, aspect ratio, detailed original painted style, colors and lighting. No UI, text, particles or gold powder. This is a local spear-clearance edit, not a new composition.",
+  "native_qa": {
+    "inspection": "Full image and original-pixel unscaled face/hand/pole and supporting spear crops visually inspected.",
+    "crop_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225217_UTC+08/QA-native-关羽脸手刀.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225217_UTC+08/QA-native-张飞双手矛轴.png"
+    ],
+    "revised_requirement": "Latest user direction permits a credible single-hand mounted cutting wind-up; single-handedness is not treated as a failure.",
+    "guanyu": "Candidate 2 long straight guandao retained. Forearm, bent elbow, shoulder and wrist show a readable continuous load path; grip near the weapon balance area is visually plausible. Face/eye/pose/horse largely retained.",
+    "clearance_pass": "Supporting snake-spear now points toward lower-left outside the frame, clear of Guan Yu's knee, robe and horse. Former overlapping blade restored to natural cloth/armor.",
+    "supporting_spear_axis_failure": "Zhang Fei's forward hand holds the shaft that descends left toward the wavy spearhead, while his rear hand retains a right-descending residual shaft. These form a V-like bend instead of one rigid straight spear axis. This is a hard geometry failure.",
+    "other_invariants": "Three riders, enemy, mud, horse, peach blossom, cloud dragon and framing largely retained. No UI or extra gold powder.",
+    "verdict": "Do not use candidate 3 yet. Next correction, if parent authorizes, should only fix Zhang Fei's two grips and short connecting spear-axis region, freezing Guan Yu and his long guandao. No further generation performed."
+  },
+  "untouched": "Source images, UI and other hero standalone sets not changed."
+}

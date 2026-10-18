@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-18T23:08:12.390327+08:00",
+  "previous_status": "2026-10-18_21-58-20_ongoing-wei-art-and-verification/status-overrides.json",
+  "scope": "Only Guan Yu and Zhang Fei scoped revisions resumed. All other hero production and expanded documentation remain paused. Liu Bei existing-art review does not resume production.",
+  "current_summary": "Guan Yu and Zhang Fei revision candidate bundles delivered; user acceptance pending.",
+  "version_notes": [
+    "Guan Yu bronze candidate 5 failed: DO NOT USE; retained for history.",
+    "Guan Yu bronze candidate 4 retains spear-tail proximity to white horse nose; disclosed.",
+    "Latest Guan Yu gold grip correction and wine v16 passed this local revision review, not user final acceptance."
+  ],
+  "remote_verified_before_this_batch": {
+    "commit": "a2d5bf905d8f0040f9e6b390422042a90abf33dc",
+    "restorable_paths": 4211
+  },
+  "this_batch_remote_status": "Pending push and independent verification"
+}

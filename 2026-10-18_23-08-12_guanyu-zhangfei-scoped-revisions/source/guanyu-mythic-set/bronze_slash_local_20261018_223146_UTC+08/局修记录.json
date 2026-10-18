@@ -1,0 +1,34 @@
+{
+  "status": "single_candidate_requires_parent_review_not_user_approved",
+  "method": "builtin image_gen",
+  "generated_call_count": 1,
+  "started_at_utc": "2026-10-18T14:31:46Z",
+  "reference_paths_actually_passed": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png"
+  ],
+  "reference_sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+  "new_reference_received_while_generating_and_inspected_afterward_not_passed_to_call": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+  "generated_original_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5be480da-c67a-462b-9ece-2826a245e9c0.png",
+  "candidate_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223146_UTC+08/青铜-持刀劈砍局修-候选1.png",
+  "candidate_sha256": "1d4ee200ac263b0992867101d8f511b9c894a593720fec44e9a93f421994444f",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "prompt": "Use case: precise-object-edit.\nInput image 1 is the sole edit target. Make ONE narrowly localized correction to Guan Yu, the large central green-robed bronze-armored rider, in this exact image.\nChange only his guandao, its two-hand grip, and the minimum wrist, arm, shoulder and upper-torso adjustment required for a natural, forceful mounted pursuit SLASH. Show a clearly readable two-handed raised diagonal chopping wind-up or the start of a downward sweeping chop, with the broad curved blade raised beside/above his shoulder and ready to cut down and forward toward the fleeing enemy. It must look like using a heavy guandao to cut, not like pointing or thrusting a spear; do not lock him into dragging the weapon. His hips and legs remain seated and balanced on the same galloping horse. Use physically plausible shoulder rotation, bent load-bearing elbows and neutral wrists. Both hands must visibly wrap around ONE continuous long, straight, rigid haft, with sensible separated leverage grips. All haft segments and blade socket remain coaxial; retain a substantial long shaft and the recognizable wide-bellied curved guandao cutting blade. No bent, broken, duplicated or discontinuous pole, no extra fingers, no floating grip.\nPreserve Guan Yu's exact face, eyes, gaze, beard, headgear, identity, clothing and armor design. Preserve the original horse and lower body, three-rider pursuit composition, Liu Bei, Zhang Fei and their current weapons/poses, fleeing yellow-turban enemies and friend/enemy relationships, muddy ground and legs, peach blossoms, dragon clouds, landscape, lighting, vivid polished original painting style, portrait framing and aspect ratio. Do not redesign any other character or correct Zhang Fei's spear in this edit. Keep all regions outside Guan Yu's weapon/necessary upper-body pose unchanged as closely as possible. No extra gold powder, sparkles, added effects, text or UI.",
+  "native_qa": {
+    "inspection": "Original-resolution full output and native unscaled crops visually inspected.",
+    "crop_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223146_UTC+08/QA-native-脸手刀.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223146_UTC+08/QA-native-张飞矛交界.png"
+    ],
+    "face": "关羽脸与眼神身份大体保持，头部角度/位置有轻微随动作变化；并非像素级完全不变。",
+    "hands": "两手包握可读，合理间距，高举手与前侧手分担载荷，未见明显多指/浮握。肩肘具劈砍蓄势，鞍上平衡可读。",
+    "rigid_axis": "刀颈—上手—两手间杆—下手—尾帽方向连续共轴，未见此前手后断档或错轴。杆身粗细近似连续，无光效遮错。",
+    "weapon_ratio_problem": "刀柄与整体长度明显缩短，对照新增千里护行武器正样，未保住足够长杆/刀头/人体比例；刀头变为不同钩弧轮廓，也未匹配唯一认可正样。",
+    "ally_clearance_problem": "张飞原有外露蛇矛长刃被生成器改成隐入关羽袍后的短头。未主动要求改变其招式，但结果不能算保留，也不能确认与友军安全分离。不得作为已解决项。",
+    "other_invariants": "马、下半泥土、三骑与黄巾追击关系、桃花、龙云和大背景大体保持，未加金粉或UI。",
+    "verdict": "不建议直接采用。可作劈砍动作方向候选，须由parent检查并决定是否授权进一步局修；无自动后续生成。"
+  },
+  "untouched": "Source image, all UI, other heroes and old queues were not edited or resumed."
+}

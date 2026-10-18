@@ -1,0 +1,36 @@
+{
+  "status": "candidate_2_failed_native_QA_do_not_use",
+  "method": "builtin image_gen",
+  "generated_call_count_this_followup": 1,
+  "generated_call_count_task_total": 2,
+  "started_at_utc": "2026-10-18T14:37:10Z",
+  "reference_paths_actually_passed": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+  ],
+  "reference_sha256": [
+    "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+    "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0"
+  ],
+  "candidate_1_not_referenced": true,
+  "generated_original_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-7bdfe7bf-2b9c-4a0b-86c6-40333df76384.png",
+  "candidate_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223710_UTC+08/青铜-持刀劈砍局修-候选2.png",
+  "candidate_sha256": "3eeb64220433561d17935026a49ef40e12935c218a7c55b3709d54800d037d9e",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "prompt": "Use case: precise-object-edit.\nImage 1 is the only edit target: the portrait bronze-tier Guan Yu mounted pursuit scene. Image 2 is ONLY the authoritative guandao design and weapon-to-body scale reference; do NOT copy its shoulder-carry pose, golden armor, horse, scene, or lighting.\n\nMake one tightly localized edit to Guan Yu's weapon and only the arm/wrist/shoulder movement necessary to show a natural, powerful TWO-HANDED DIAGONAL DOWNWARD CHOP WIND-UP while galloping. Keep his hips, legs and seat balanced exactly on the original horse. Raise the blade high above/beside his shoulder, ready to sweep down and forward at the fleeing enemy; the action must read as cutting, never a spear thrust or mandatory dragging pose.\n\nUse the guandao from image 2: the same broad-bellied, single smooth sweeping curved cutting blade, upward-curving pointed end, dragon-decorated socket, and substantial LONG straight cylindrical haft. Match this reference's blade-to-haft and weapon-to-rider proportions at image 1's rider scale. The haft must be visibly at least twice the blade-head length and continue a substantial distance beyond the lower/rear hand. Never shrink the weapon or shorten the tail to fit the frame. It is acceptable and preferable for the long haft tail or blade tip to continue naturally out of the frame if necessary. Do not produce a short-haft axe, oversized dagger, hooked crescent head, S-shaped head or double-edged spear. Keep bronze-tier material styling from image 1.\n\nShow both hands tightly wrapped around the SAME single rigid pole with sensible separated leverage grips, stable wrists, load-bearing bent elbows and shoulder torque. Follow ONE straight common centerline from blade socket through the segment above the upper hand, between both hands, behind each occlusion, and the long segment after the lower hand through the tail cap. Pole thickness, perspective and material must be continuous. No broken or bent shaft, no offset segment behind a hand, no fork, no duplicated pole, no stray shaft, no sparkle hiding geometry.\n\nCritical preservation: Zhang Fei at the left must retain his COMPLETE original long wavy snake-spear head visibly extending from his hands toward the central lower-left area. Do not shorten it, swallow it into Guan Yu's robe, erase it, merge it with Guan Yu's pole, or make it impale a friend. Preserve a readable spatial separation between the original snake-spear and Guan Yu; do not expand Guan Yu's robe over that spear. Keep Zhang Fei's pose and identity, Liu Bei and his swords, their horses and the three-rider pursuit arrangement unchanged.\n\nKeep Guan Yu's exact face, eyes, gaze, headgear, beard and identity, armor and costume design. Preserve his horse and lower body, mud and hooves, fleeing yellow-turban enemies, peach blossoms, green cloud dragon, mountains, flags, background, composition, original vivid detailed painted style, lighting, portrait aspect and resolution. Only Guan Yu's guandao and necessary upper-body articulation may change. No added effects, gold powder, text, UI or redesigned armor.",
+  "native_qa": {
+    "inspection": "Full output and unscaled original-pixel 960x750 crop visually inspected.",
+    "crop_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_223710_UTC+08/QA-native-脸手刀及配角矛.png",
+    "face": "面部身份、眼神、头饰大体保住；胡须飘动与上半身随动作变化，非像素级锁定。",
+    "hands_failure": "仅一只举起的手清晰包握刀杆，第二只手/前臂没有可辨持杆受力；不能满足双手有间距劈砍要求。",
+    "rigid_axis": "刀颈到握手前后及尾帽大体同轴，圆杆粗细连续，未见原断档；两手之间检验因缺失第二只手而不成立。",
+    "weapon_proportions": "长杆体量比候选1明显改善，约两倍刀头长度，尾段充分延伸；刀头为上翘单弧轮廓，比候选1接近正样，但未像素复制正样。",
+    "supporting_spear": "张飞原完整蛇矛外露头已恢复，无候选1吞矛短头问题；但矛尖仍与关羽膝甲/袍边相接重叠，不能通过友军空间安全检查。",
+    "other_invariants": "马、下半泥土、三骑与黄巾追击关系、桃花、龙云和大背景大体保持，无新增金粉或UI。",
+    "verdict": "失败，建议不采用。已通知root和UI worker不要替换。没有第三次生成，等待root决定。"
+  },
+  "untouched": "Source images, all UI, frozen illustrations and other hero queues not edited or resumed."
+}

@@ -1,0 +1,98 @@
+{
+  "tool": "builtin image_gen",
+  "created_timezone": "UTC+08",
+  "inputs": {
+    "ref": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "silver": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    "gold": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  },
+  "outputs": [
+    {
+      "file": "关羽-白银-刀型长杆局修-候选1.png",
+      "generator_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-0cd2ecf6-47d7-44ee-ab32-b4e90fd9394c.png",
+      "status": "Usable after independent visual QA: both grips and rear tail shaft continuous; believable force; broad single crescent blade slightly wide but not an oversized-head hard defect. Blank plaque retained.",
+      "qa": [
+        "full image viewed",
+        "100% rear hand and front hand shaft before/after viewed",
+        "100% blade viewed",
+        "256x384 thumbnail viewed"
+      ],
+      "sha256": "dff254be11906b4df09d4fcb38623a7c75ba133a195f295c571c4ed1fb9df556",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "关羽-黄金-刀型长杆局修-候选1.png",
+      "generator_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-88d8bd3b-954c-4222-b7c9-c12d9036456b.png",
+      "status": "Rejected as final: blade collar too close to hand; shaft proportion still short.",
+      "sha256": "ec7e712bdfad401366bf8e3ae2be929b4b82cef91a45356c3703a5f15a6aa9b3",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "关羽-黄金-刀颈下移长杆局修-候选2.png",
+      "generator_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-bff05e10-b0a2-4414-bf59-1969c88d677a.png",
+      "status": "Blade-to-shaft scale improved; full/100%/thumbnail inspected. Possible small upper/lower shaft misalignment at hand, targeted refinement made.",
+      "sha256": "0c7472fb8793bec3e31186802503a523396056aeac4b3d47cc53d9bebad6454b",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "file": "关羽-黄金-握手上段同轴局修-候选3.png",
+      "generator_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e00913d9-2e9b-4132-81de-3bdaecdc49d5.png",
+      "status": "Best gold repair candidate, NOT strict final-approved: lower long shaft, crescent blade scale, low dragging pose and clean matte red-brown tail pass. Independent visual QA confirms a small upper-shaft outward offset across hand occlusion remains; no visible gap or large kink, but cannot claim complete rigid-body coaxial continuity.",
+      "qa": [
+        "full image viewed",
+        "100% grip with shaft before/after viewed",
+        "100% full lower shaft viewed",
+        "100% blade viewed",
+        "256x384 thumbnail viewed",
+        "supplementary enlarged grip viewed"
+      ],
+      "sha256": "93f471c8ff85fc2b40238940cb285257d1acbce0ad63965f97060f3e79913d01",
+      "dimensions": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "invariants": "Only Guan Yu silver/gold local weapon work. No source overwrite, no Git, no other hero work. Silver remains blank plaque; gold existing 刘 flag retained.",
+  "prompts": [
+    "prompts.json",
+    "gold-candidate2-prompt.txt",
+    "gold-candidate3-prompt.txt"
+  ],
+  "independent_qa": {
+    "reviewer_task": "/root/inspect_guanyu_weapon_repairs",
+    "silver": "candidate1 usable",
+    "gold": "candidate3 preferable to candidate2; small hand-occlusion shaft-axis defect remains; stop rather than blind iteration",
+    "time_UTC+08": "2026-10-18 22:48"
+  }
+}

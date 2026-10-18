@@ -1,0 +1,59 @@
+{
+  "mode": "builtin image_gen__imagegen; one precise-object-edit call",
+  "prompt_file": "prompt.txt",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+  ],
+  "files": {
+    "edit_target": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+      "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "weapon_reference": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    "candidate": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_weapon_local_20261018_223538_UTC+08/温酒请战-v14-长杆局修候选.png",
+      "sha256": "d91a732a63a5aff0010d704359473d0972b0bba1d6e3fefe1c29138bff938781",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  },
+  "original_generation_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-58bae22f-adab-4a9d-b7ac-a2d6ace6cb60.png",
+  "qa": {
+    "result": "FAIL / do not promote to final",
+    "inspection": "Full 1536x1024 image and native-pixel weapon/hand crops inspected; original files unchanged.",
+    "preserved_visually": [
+      "Guan Yu face, beard, hat and costume identity",
+      "Frontal horse advancing calmly from camp",
+      "Cao Cao, Liu Bei, Zhang Fei / camp background",
+      "Azure dragon",
+      "Natural horse-tail appearance; no new gold dust"
+    ],
+    "weapon_findings": [
+      "Lower weapon shaft is substantially longer and straight across the existing left-hand grip.",
+      "Lower shaft disappears near rein-holding right hand; upper shaft reappears near beard on an incompatible centerline. Visual extrapolation shows approximately 50–60 pixels upward offset around x=1050, so body occlusion conceals an impossible joint.",
+      "Upper butt extends too far toward the upper-right corner and appears overly long versus the approved reference proportions.",
+      "Crescent blade retained; no new hand or new attack pose."
+    ],
+    "native_crops": [
+      "before-weapon-native-crop.png",
+      "reference-weapon-native-crop.png",
+      "after-weapon-native-crop.png",
+      "after-hand-and-tail-100pct.png"
+    ],
+    "next_action": "Report failed candidate and residuals to root. No further generation, no user send, no Git."
+  }
+}
