@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-18T23:10:33.750203+08:00",
+  "verified_asset_commit": "02217b37590bcb0ba06b277bfd03183b61dcdcf6",
+  "independent_checkout": "threeKing-remote-verify",
+  "fetch_and_lfs_pull": "PASS",
+  "git_lfs_fsck": "PASS",
+  "resolved_paths_verified": 4480,
+  "sequential_copy_sha256_checked": true,
+  "new_archived_paths": 269,
+  "scope": "Guan Yu and Zhang Fei only; other production paused; delivered candidates not user accepted."
+}
