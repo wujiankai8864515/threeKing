@@ -1,0 +1,18 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-03-白银-瓦口寻径.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_a28bc2b16bc88191921bfedd73567d21",
+      "expected_current_version": 0,
+      "version_reason": "恢复通用UI底部锚点，银卡受力手局部移至安全区；更新总览"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/张郃-全套七图总览.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_fcfbb2a1e5f4819180b17b9655912d33",
+      "expected_current_version": 0,
+      "version_reason": "恢复通用UI底部锚点，银卡受力手局部移至安全区；更新总览"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "hero": "张郃",
+  "status": "candidate_awaiting_user",
+  "tool": "built-in image_gen",
+  "faction": "收藏统一蓝底魏；事件旗袁→曹→魏",
+  "skills_draft": {
+    "主动 巧变": "选一近旁友军移至身旁安全空位，然后向其原方向作一次防护枪击",
+    "轻履": "移动速度提高",
+    "应变": "主动冷却缩短",
+    "援途": "主动选择友军距离提高"
+  },
+  "failure": "银卡首版含错误水域战船，定向重绘远景为山地木寨，原图保留；银卡原受力手与UI冲突，局部移至左侧安全区，原图保留",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-01-黑铁-河北枪锋.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "f7567b462039461912a3556b4277c6f59fadce78a360651dcbb007d935a633a5"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-02-青铜-转旗受命.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "4f6da945b4d9ede451fc23b20974c93d9035eddf07037141686af8fa712c3cdc"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-03-白银-瓦口寻径.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "b6cdcd604dc50b5771774706950c728235ce01418b3b076cd0257dfeeb8b3d5a"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-04-黄金-街亭截援.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "1a5ef7c867472291807424865be8925784ef8a6a880562c537f4a9c1e5d48383"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-05-传记-谗言断归路.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "94972943da61aa8e1a733b0f7b7e7db222fc245e31e883a471c030a2673374c6"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-06-传记-从败阵走出.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "4aa21c6dddd0c4c2a2695d2f646e8b348f8fd2b90e4222575b6471cb06cc0c3f"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-07-传记-截住援路.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "082c787095376724577ebedca5cb0754e5cf98490615ca6a9c6fcfbd01761670"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/张郃-全套七图总览.png",
+      "size": [
+        1800,
+        1380
+      ],
+      "sha256": "7b9042be77b13b62359151fcad701b4363c4318794a5c5440d16a023aa7bbe13"
+    }
+  ],
+  "source_map": [
+    {
+      "asset": "01-黑铁-河北枪锋",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/card01.png",
+      "generated_original": "generated_images/exec-117e0d31-c88c-46ed-806f-fa4388d62326.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-01-黑铁-河北枪锋.png"
+    },
+    {
+      "asset": "02-青铜-转旗受命",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/card02.png",
+      "generated_original": "generated_images/exec-d4375d9c-bb65-4731-9d01-4c7d911a5e71.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-02-青铜-转旗受命.png"
+    },
+    {
+      "asset": "03-白银-瓦口寻径",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/card03.png",
+      "generated_original": "generated_images/exec-c4ff2a52-c41b-4402-ae63-81d5739a5194.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-03-白银-瓦口寻径.png"
+    },
+    {
+      "asset": "04-黄金-街亭截援",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/card04.png",
+      "generated_original": "generated_images/exec-16972f1b-7130-43b7-b193-7f44f7df1c96.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-04-黄金-街亭截援.png"
+    },
+    {
+      "asset": "05-传记-谗言断归路",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/story01.png",
+      "generated_original": "generated_images/exec-f0942e7f-86c0-44f7-85f8-8f53171dc948.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-05-传记-谗言断归路.png"
+    },
+    {
+      "asset": "06-传记-从败阵走出",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/story02.png",
+      "generated_original": "generated_images/exec-70f6d220-24c0-48f1-bf9e-431316f15369.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-06-传记-从败阵走出.png"
+    },
+    {
+      "asset": "07-传记-截住援路",
+      "raw": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/raw/story03.png",
+      "generated_original": "generated_images/exec-f221e7e2-eeca-4893-9beb-d090dae21685.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-07-传记-截住援路.png"
+    }
+  ],
+  "ui_anchor": "通用961/1045/1129，底边1172；四卡一致"
+}

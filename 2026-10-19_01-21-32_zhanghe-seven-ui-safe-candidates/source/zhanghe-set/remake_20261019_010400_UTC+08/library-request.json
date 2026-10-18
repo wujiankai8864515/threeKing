@@ -1,0 +1,44 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-01-黑铁-河北枪锋.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-02-青铜-转旗受命.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-03-白银-瓦口寻径.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-04-黄金-街亭截援.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-05-传记-谗言断归路.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-06-传记-从败阵走出.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/candidates/张郃-07-传记-截住援路.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/remake_20261019_010400_UTC+08/张郃-全套七图总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}
