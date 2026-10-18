@@ -1,0 +1,384 @@
+{
+  "hero_id": "xuhuang",
+  "name": "徐晃",
+  "faction": "wei",
+  "core_personality": "稳、硬、讲分寸，抓敌军供给与营垒连接处，一层一层拆开。",
+  "myth_symbol_proposal": {
+    "name": "断路玄獬",
+    "origin": "原创独角重兽，借獬豸的刚正视觉联想但不是演义配兽",
+    "reason": "额角像斧背、厚颈低身，强调截断；与于禁整列防守、典韦巫族巨躯分开。",
+    "growth": "斧影独角→半身玄獬→低身完整→压住粮道的巨影"
+  },
+  "differentiation": "五子中的斧将与资源压制者：宽肩横向受力、粗斧、粮道辎重断面。玩法仅削减敌方能量恢复，不顺手追加减疗减攻速。",
+  "identity": {
+    "face": "原创：宽方脸、沉眉、短宽鼻、厚而修整的须，额角有一处旧浅疤（原创）。",
+    "hair": "原创：低结髻加白灰头巾；白巾只作项目可辨设计，不声称本次原文固定。",
+    "body": "宽肩厚背、重心稳，低于典韦的夸张巨躯，高于乐进；上臂受力明显。",
+    "clothes": "灰白袍、黑铁甲、烟褐皮带；斧面少量暗银；蓝只肩绳。",
+    "weapons_fact": "第14回徐晃一斧斩李乐，又与许褚刀斧交锋，斧类别可核。",
+    "weapons_design": "实心长柄单刃大斧，宽斧面加短背脊，非双刃巨玩具；不擅命“开山斧”原著专名。",
+    "mount_fact": "相关段骑马，无所核专属马名。",
+    "mount_design": "黄褐厚实体型军马，速度适中；斧头低于肩线时避马腿。",
+    "reference_version": "WEI-XH-identity-text-v1，待身份样。"
+  },
+  "modern_game_reference": {
+    "version": "三国杀OL2016林包徐晃攻略",
+    "url": "https://www.sanguosha.com/news/20161026_4323_2512",
+    "verified": "断粮转化兵粮寸断，控制对方获取手牌资源。",
+    "use": "只转译为敌方能量恢复抑制；不是原著吸法神力，也不混后版其他技能。"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 14,
+      "chronology_key": "014-a",
+      "title": "护驾斩李乐",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "在杨奉部下，骑马以斧斩李乐，护车驾过箕关。",
+      "selection": "card1",
+      "selection_reason": "低阶已有勇力与护行，与后期断粮差别足。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 14,
+      "chronology_key": "014-b",
+      "title": "刀斧斗许褚",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "迁驾途中阻曹，许褚与其战五十余合不分胜败。",
+      "selection": "alternate",
+      "selection_reason": "证明武器与力度，因与初阶同段选择不独占一阶。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 14,
+      "chronology_key": "014-c",
+      "title": "满宠夜说归曹",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "秉烛被甲听劝，拒杀旧主作为投名礼，带数十骑归曹。",
+      "selection": "card2+bio1",
+      "selection_reason": "改变归属但保留底线，独有性格。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 30,
+      "chronology_key": "030-d",
+      "title": "截韩猛粮车",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "史涣获细作，徐晃上报；奉命截粮，徐晃战韩猛，史涣焚车，韩猛败走。",
+      "selection": "card3+bio2",
+      "selection_reason": "断粮玩法最直接证据；人与火的分工清楚。",
+      "misreading_to_avoid": "韩猛未被斩；不把乌巢曹操主战搬给徐晃。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 76,
+      "chronology_key": "076-e",
+      "title": "沔水绕后破连营",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "以副将旗号诱关平出战，自率五百精兵绕沔水取偃城，继破联营。",
+      "selection": "card4+bio3",
+      "selection_reason": "成熟的稳步拆线，不只是对关羽拼武力。",
+      "misreading_to_avoid": "关羽有箭伤；不把交锋写成徐晃无条件武力碾压健康关羽。"
+    },
+    {
+      "event_id": "f",
+      "chapter": 76,
+      "chronology_key": "076-f",
+      "title": "与关羽对阵",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "叙旧后各为其主交战。",
+      "selection": "alternate",
+      "selection_reason": "经典但会变成另一张正面单挑，本卡改抓拆防线核心。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "箕关护行",
+      "camera": "地面稍低的侧前机位，斧横在身前",
+      "action": "骑马收斧护住身后车驾，动作停在胜后戒备",
+      "environment": "荒路、简陋车驾与关隘；不豪华巡幸",
+      "myth_growth": "岩壁上一笔独角兽影",
+      "structure_check": "长斧中后段握持，斧面离车轴与马腿有间隙",
+      "must_retain": "宽肩同脸、质朴黑铁甲",
+      "must_not_inherit": "不画魏王旌旗或皇帝给斧加持",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "c",
+      "title": "夜别旧营",
+      "camera": "眼平三分之二正面，站姿",
+      "action": "出帐回首，斧垂低侧，满宠在前带路",
+      "environment": "烛光从帐口照一半脸，数十骑在暗处候行",
+      "myth_growth": "半身玄獬随着帐布影折出",
+      "structure_check": "单手垂斧需手靠重心且刃不悬远；可双手接握",
+      "must_retain": "拒杀旧主的节制表情",
+      "must_not_inherit": "不是刺杀夜行者，不画血淋淋投名状",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "d",
+      "title": "截断粮道",
+      "camera": "路面低机位，横向斧轴占构图",
+      "action": "稳坐马上挡韩猛，斧横劈前蓄力，后方史涣焚车",
+      "environment": "山谷粮车横列、火局限木车；逃兵远景",
+      "myth_growth": "完整玄獬低头横断路面，角与斧势呼应",
+      "structure_check": "双手有间距，杆不弯；火在后不能照亮所有布面成金属",
+      "must_retain": "粗斧宽面、灰白袍边、辎重用途明确",
+      "must_not_inherit": "不画斩韩猛首级，不冒称火神攻击",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "e",
+      "title": "沔水拆垒",
+      "camera": "河滩斜上俯看近全身，主角大但保地图空间",
+      "action": "下马踏浅滩持斧指进路，精兵从侧后营门穿过",
+      "environment": "河岸、鹿角寨柵与断开的营线有前后层次",
+      "myth_growth": "巨玄獬压在被截断的营线外侧，实体战场仍占大半",
+      "structure_check": "斧头有重量，脚涉水深度一致；鹿角不能穿兵",
+      "must_retain": "沉稳统帅、战术与斧的双重辨识",
+      "must_not_inherit": "不把吴军取荆州算他独功；不强画万人大阵",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "c",
+      "title": "不以弑主换新途",
+      "camera": "横幅帐内二人对坐，主角脸最清",
+      "action": "满宠劝说，徐晃伸手拒绝杀旧主之议，斧倚架清楚",
+      "target_connection": "青铜卡夜离旧营正承这一原则选择",
+      "first_person_line_original": "择主，我可以走；杀旧主邀功，我不做。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "烛台/手掌/斧架分层；不把双方画成拔刀争执",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "xuhuang_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "d",
+      "title": "细作与粮车",
+      "camera": "横幅营内侧视，史涣带细作在后，徐晃面向曹操",
+      "action": "徐晃报告粮运线，荀攸示意可截；次要道具为无字简图",
+      "target_connection": "银卡截粮的真实情报和命令前因，不虚构徐晃自创全部计策",
+      "first_person_line_original": "粮车必经此路。我去拦住前头，叫他补不上来。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "四人主次清楚；简图不含伪文；不将曹操与荀攸糊掉",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "xuhuang_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "e",
+      "title": "借旗绕沔水",
+      "camera": "横幅双层道路景，前景徐晃与两副将",
+      "action": "徐晃把显眼旗号交徐商、吕建，自己率少数精兵沿岸隐进",
+      "target_connection": "直连黄金绕后拆营；同战役的调度与结果分镜",
+      "first_person_line_original": "旗号留在正面。我从水边过去，把那几座营接开的地方截住。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "旗杆长直且交接只两双手；两路兵不能错画成互相逃亡",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xuhuang_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "xuhuang_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第076回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "斧击一个敌人并使其能量恢复速率短时降低；资源轴只选能量。",
+    "active": {
+      "skill_id": "xuhuang_a1",
+      "name": "断辎重斩",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "斧击一个敌人并使其能量恢复速率短时降低；资源轴只选能量。",
+      "extra_effect": "无额外减疗、降攻速或偷能；三星只可把同一抑制施及紧邻一敌，范围待测。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "xuhuang_p1",
+        "name": "重斧",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "普通攻击伤害提高",
+        "trigger": "普攻命中",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xuhuang_p2",
+        "name": "截脉",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "能量恢复抑制的持续时间提高",
+        "trigger": "主动抑制生效",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xuhuang_p3",
+        "name": "稳进",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "攻击被本技能抑制的敌人时自身受伤降低",
+        "trigger": "与受抑制者交战时",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xuhuang_p4",
+        "name": "断援",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "主动的能量恢复抑制幅度提高",
+        "trigger": "主动抑制生效",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "独角重兽沿斧痕截断一段简洁能量纹；不是实际烧粮的火法。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "xuhuang_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "xuhuang_p1",
+          "xuhuang_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "xuhuang_p1",
+          "xuhuang_p2",
+          "xuhuang_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "xuhuang_p1",
+          "xuhuang_p2",
+          "xuhuang_p3",
+          "xuhuang_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved",
+  "research_readiness": {
+    "selected_scenes_verified": true,
+    "selected_scenes_count": 7,
+    "identity_sample_required": true,
+    "can_start_identity_sample": true,
+    "can_mass_generate_without_reference": false,
+    "user_final_approval": false
+  },
+  "reference_attachment_requirements": {
+    "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+    "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+    "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+    "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+  }
+}

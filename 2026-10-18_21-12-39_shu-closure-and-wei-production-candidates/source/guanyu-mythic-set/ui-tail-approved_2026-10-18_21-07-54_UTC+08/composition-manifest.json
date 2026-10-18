@@ -1,0 +1,112 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "source_status": "QA_pass_candidate",
+      "source_sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+1"
+          }
+        ]
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+      "source_status": "QA_pass_candidate",
+      "source_sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+1"
+          }
+        ]
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "source_status": "QA_pass_candidate",
+      "source_sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+2"
+          },
+          {
+            "name": "斩将",
+            "level": "+2"
+          }
+        ]
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "source_status": "root_approved_independent_QA_passed",
+      "source_sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "真·关羽",
+        "level": "1",
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "蓄势",
+            "level": "+2"
+          },
+          {
+            "name": "斩将",
+            "level": "+2"
+          },
+          {
+            "name": "武圣",
+            "level": "+2"
+          }
+        ]
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

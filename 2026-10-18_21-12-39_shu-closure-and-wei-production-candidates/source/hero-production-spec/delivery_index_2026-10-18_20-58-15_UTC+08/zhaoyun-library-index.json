@@ -1,0 +1,162 @@
+{
+  "status": "technical_candidates_pending_user_acceptance",
+  "native_portrait": [
+    1024,
+    1536
+  ],
+  "native_story": [
+    1536,
+    1024
+  ],
+  "complete_UI": [
+    1190,
+    1786
+  ],
+  "ui_note": "art pasted1:1; frame raster enlarged; text independent; skill names and numbers proposed demonstrations",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000b85081f9987fad2f7c290b2c",
+      "library_file_id": "libfile_6aeed98340708191b35ff541b6f8962e",
+      "file_name": "02-青铜-新框完整UI候选1190(5).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(5).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/framesafe_library_2026-10-18_20-55-30_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000014e081f9a2bc15de029d62ef",
+      "library_file_id": "libfile_bbeea9c4dabc8191b8db323aebe7b7f1",
+      "file_name": "04-黄金-新框完整UI候选1190(5).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(5).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/framesafe_library_2026-10-18_20-55-30_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a47481f9b88129788da5ba86",
+      "library_file_id": "libfile_9a33574aa25c819191192d7bf0eaeb00",
+      "file_name": "四阶新框完整UI-候选总览(5).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(5).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/framesafe_library_2026-10-18_20-55-30_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000001e5c81f9bbd457a96ead54e0",
+      "library_file_id": "libfile_5782f3f1613481919c0e16e79faa57d2",
+      "file_name": "赵云-青铜-龙首入框-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-青铜-龙首入框-局修1.png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/framesafe_library_2026-10-18_20-55-30_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000000fc81f98c4f3205092469b4",
+      "library_file_id": "libfile_e5d09edd457481919163011dd07b4760",
+      "file_name": "赵云-黄金-龙首入框-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-黄金-龙首入框-局修1.png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/framesafe_library_2026-10-18_20-55-30_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000af1c81f69de43bf8f14c7411",
+      "library_file_id": "libfile_44822025793c81918b9cdd66ae71876a",
+      "file_name": "赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记-卧牛相认-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e69481f6be469d09717254ea",
+      "library_file_id": "libfile_4134d4e025ac81919e2bb7801d3fb4c4",
+      "file_name": "赵云-黑铜传记-卧牛相认-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-黑铜传记-卧牛相认-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d1e881f683de0b2c44951950",
+      "library_file_id": "libfile_63cd498d44d081918e6e8a3b48cd6a83",
+      "file_name": "赵云-白银-v1-长坂扶危候选.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-白银-v1-长坂扶危候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记-v1-乱军寻主候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c8cc81f6a2b709e5a435038a",
+      "library_file_id": "libfile_f8da047779108191be3575f290b18c83",
+      "file_name": "赵云-白银传记-v1-乱军寻主候选.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-白银传记-v1-乱军寻主候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a4a0820c921d6d7118c1919d",
+      "library_file_id": "libfile_78eadca2e6588191973416ea5205303a",
+      "file_name": "赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+      "local_metadata_applied": true,
+      "path": "/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-25-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008130820c81a10d0a19df515f",
+      "library_file_id": "libfile_a301421b81fc81918ec41b4a53d7d666",
+      "file_name": "01-黑铁-新框完整UI候选1190(4).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(4).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002610820ca04d15adf6957755",
+      "library_file_id": "libfile_99482f7877e0819197851a443ac21ab1",
+      "file_name": "03-白银-新框完整UI候选1190(3).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(3).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "status": "technical_candidates_pending_user_acceptance",
+  "native_portrait": [
+    1024,
+    1536
+  ],
+  "native_story": [
+    1536,
+    1024
+  ],
+  "complete_UI": [
+    1190,
+    1786
+  ],
+  "ui_note": "art pasted1:1; frame raster enlarged; text independent; skill names and numbers proposed demonstrations",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000061ac81f6b56ebf12fa3eef2c",
+      "library_file_id": "libfile_e4337f704aac8191a7697c81971b1bfc",
+      "file_name": "黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000fe0081f6b57e1a6f8fd00c68",
+      "library_file_id": "libfile_06d5330a192481918594961975f707f3",
+      "file_name": "黄忠-青铜-v1-一箭报义候选.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-青铜-v1-一箭报义候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2-箭向局修候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003de881f6a1485854ecf7b068",
+      "library_file_id": "libfile_eda629c4ddf08191aed2fa7ad946f45c",
+      "file_name": "黄忠-青铜传记-v2-箭向局修候选.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-青铜传记-v2-箭向局修候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e8cc81f68f7b83b0b0676b32",
+      "library_file_id": "libfile_e0ffa965c96481918be793795aebb537",
+      "file_name": "黄忠-白银-v1-老骥出关候选.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-白银-v1-老骥出关候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ee3c81f6b28912f496879fec",
+      "library_file_id": "libfile_7beafe38c4b88191a462433cf4e2c4fb",
+      "file_name": "黄忠-白银传记-v2-无箭演示局修候选.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-白银传记-v2-无箭演示局修候选.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记-定军乘势刀击-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000023b481f69a9dc6964dce8e41",
+      "library_file_id": "libfile_c6bbb31ca36c8191815536629eecbccb",
+      "file_name": "黄忠-银金传记-定军乘势刀击-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-银金传记-定军乘势刀击-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000667c81f68847270107630806",
+      "library_file_id": "libfile_a727bc2d3458819180ec66b90a70b9f4",
+      "file_name": "黄忠-黄金-定军持弓警戒-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/黄忠-黄金-定军持弓警戒-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000adec81f5907ce04707351816",
+      "library_file_id": "libfile_16d9c6782028819191066985e19573aa",
+      "file_name": "01-黑铁-新框完整UI候选1190(5).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(5).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000bc4081f5ad1fef1f9e0f479d",
+      "library_file_id": "libfile_f058bb1feb0c8191a4d67c8c49a38417",
+      "file_name": "02-青铜-新框完整UI候选1190(4).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(4).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000589081f586efec0a63aba04a",
+      "library_file_id": "libfile_e2af0d21db888191a032d7110f67b2eb",
+      "file_name": "03-白银-新框完整UI候选1190(4).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(4).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000099cc81f5a7fb3bb08ec97fe2",
+      "library_file_id": "libfile_a824672fb9488191b46be0ea1eb9eaaf",
+      "file_name": "04-黄金-新框完整UI候选1190(4).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(4).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000633481f59853102eb143001e",
+      "library_file_id": "libfile_a9ea9372be708191aa78fb02979ae753",
+      "file_name": "四阶新框完整UI-候选总览(4).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(4).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    }
+  ]
+}

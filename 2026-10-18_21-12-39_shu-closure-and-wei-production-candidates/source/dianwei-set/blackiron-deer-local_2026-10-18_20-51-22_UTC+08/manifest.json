@@ -1,0 +1,96 @@
+{
+  "hero_id": "dianwei",
+  "asset_id": "dianwei_card_1_deer_local1",
+  "status": "root_and_independent_candidate_pass",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/典韦-黑铁-山涧巨影-身份候选1.png",
+      "role": "sole edit target, whole deer relocation only",
+      "sha256": "a9ce7cfc1d066ea9c66d4c2c1b84dbabb20c2b6da8503e206fb4c9d6755c8c83",
+      "size": [
+        1024,
+        1536
+      ],
+      "actually_viewed_before_generation": true
+    }
+  ],
+  "source_generated": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a2dc87e4-fa90-477a-a90e-3e3469f23743.png",
+  "method": "builtin image_gen one root-authorized local edit",
+  "prompt": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/prompt.txt",
+  "qa": {
+    "deer": {
+      "box": [
+        700,
+        320,
+        1024,
+        740
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/deer-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "face": {
+      "box": [
+        400,
+        195,
+        610,
+        430
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/face-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "rear-hand": {
+      "box": [
+        0,
+        440,
+        145,
+        590
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/rear-hand-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "front-arm-hand": {
+      "box": [
+        510,
+        375,
+        785,
+        835
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/front-arm-hand-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "landing-foot": {
+      "box": [
+        315,
+        1030,
+        600,
+        1320
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/landing-foot-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    },
+    "water": {
+      "box": [
+        0,
+        1130,
+        1024,
+        1480
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/qa/water-before-after-native100.png",
+      "scale": "native100% left before right after, no resize"
+    }
+  },
+  "resize_count": 0,
+  "creative_postprocessing": "none",
+  "delivery": "not uploaded",
+  "creator_review": "Full image and all six native100% before/after pairs personally viewed. Deer head-neck-body connection coherent after inward move; face, both hands and landing foot show no new hard error. Deer antlers/head still approach conservative x830 margin: actual frozen frame check required, not claiming overlap solved.",
+  "independent_review": "Full/native deer head-neck-body and frozen actual black frame pass: head and antlers fully visible. Both hands unchanged, conservative x830 is not an actual occlusion. Parent confirms root accepted and expansion authorized."
+}

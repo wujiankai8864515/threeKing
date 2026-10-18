@@ -1,0 +1,132 @@
+{
+  "results": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/blackiron-local-material-20261018_184509.png",
+      "file_id": "file_00000000e0d0823092f22823c8fba2a1",
+      "library_file_id": "libfile_83bb9f74fa308191adf8e2253bcf69ff",
+      "file_name": "blackiron-local-material-20261018_184509.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2523309
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/青铜-下半泥腿局修-候选1.png",
+      "file_id": "file_00000000db588230a6a7e3a6e98f5a0a",
+      "library_file_id": "libfile_3e8c931819008191af8dcfa0b05b2a64",
+      "file_name": "青铜-下半泥腿局修-候选1.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3017510
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/白银-神话材质源重生空匾-候选1.png",
+      "file_id": "file_00000000b68481f8a04ff0d3e3c7e99c",
+      "library_file_id": "libfile_88eb52e0e9708191860df80dd0b075f7",
+      "file_name": "白银-神话材质源重生空匾-候选1.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3010665
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "file_id": "file_00000000f94081fdacf1c87fdfe8d3fb",
+      "library_file_id": "libfile_cc0db89e91708191a7642645a734d79e",
+      "file_name": "关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2766679
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-tail-approved_2026-10-18_21-07-54_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "operation": "replace_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-新框完整UI候选1190.png",
+      "file_id": "file_00000000e05c81f685377e3cf2b6aee2",
+      "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+      "file_name": "04-黄金-新框完整UI候选1190.png",
+      "current_version_number": 5,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "5"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3714101,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-tail-approved_2026-10-18_21-07-54_UTC+08/四阶新框完整UI-候选总览.png",
+      "operation": "replace_library_file",
+      "status": "succeeded",
+      "path": "/四阶新框完整UI-候选总览.png",
+      "file_id": "file_000000001d4081fdac2c3b77ad59b439",
+      "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+      "file_name": "四阶新框完整UI-候选总览.png",
+      "current_version_number": 5,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "5"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2701857,
+      "external_connectors_accessed": false
+    }
+  ]
+}

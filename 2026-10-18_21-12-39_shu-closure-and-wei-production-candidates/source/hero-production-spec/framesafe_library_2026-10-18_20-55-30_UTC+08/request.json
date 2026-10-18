@@ -1,0 +1,39 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_6aeed98340708191b35ff541b6f8962e",
+      "expected_current_version": 0,
+      "version_reason": "龙首局部移入UI安全域，主角及直枪保留，独立QA通过；待用户验收候选"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_bbeea9c4dabc8191b8db323aebe7b7f1",
+      "expected_current_version": 0,
+      "version_reason": "龙首局部移入UI安全域，主角及直枪保留，独立QA通过；待用户验收候选"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_9a33574aa25c819191192d7bf0eaeb00",
+      "expected_current_version": 0,
+      "version_reason": "龙首局部移入UI安全域，主角及直枪保留，独立QA通过；待用户验收候选"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_5782f3f1613481919c0e16e79faa57d2",
+      "expected_current_version": 0,
+      "version_reason": "龙首安全域定向修订，纯图候选"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_e5d09edd457481919163011dd07b4760",
+      "expected_current_version": 0,
+      "version_reason": "龙首安全域定向修订，纯图候选"
+    }
+  ]
+}

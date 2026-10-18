@@ -1,0 +1,70 @@
+[
+  {
+    "asset_type": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金-宛门不退-候选1.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "749c18a3c362944f7b026509b537294b45d144611aa703a37a065f9a84d30e4a",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8e19acbd-6bf5-4c20-8178-c8485ca588f6.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+        "role": "root and independent approved Dian Wei face/body and drawing language only; no deer/running/wet forest inheritance",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+        "personally_viewed": true
+      }
+    ],
+    "method": "builtin_image_gen",
+    "retouch_resize": "none; native copy",
+    "status": "creator_structure_candidate_pass_actual_frame_and_independent_pending",
+    "user_final_approved": false,
+    "creator_native_review": "full image and thumbnail; native face/hands/weapon/feet/material/guardian crops personally inspected",
+    "creator_observations": [
+      "原生脸与批准黑铁连贯；仅两臂、双脚落地、短刀横守及空手五指可读。",
+      "缺口步刀为短柄单刃，护手/握手/刀身连接成立；无甲，无失盗双戟重现。",
+      "祖影眼鼻中央而偏高：眼约y80–110，未严格执行y120–330安全盒，等待冻结金框姓名栏实际复核。",
+      "皮肤暗石纹、布低对比磨损保留；火源局限草车/营门，未见跨材质随机金粉。近敌剪影与矛虚为卡牌景深。"
+    ]
+  },
+  {
+    "asset_type": "bio",
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-银金传记-失戟取步刀-候选1.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "41834f660eef200ec93ac965647901f809d6b4cad098b2f0d35dcf8d479cb0c2",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e93a3af4-435e-473a-8e9b-e48e185b0379.png",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+        "role": "root and independent approved Dian Wei face/body and drawing language only; no deer/running/wet forest inheritance",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+        "personally_viewed": true
+      }
+    ],
+    "method": "builtin_image_gen",
+    "retouch_resize": "none; native copy",
+    "status": "creator_structure_candidate_pass_actual_frame_and_independent_pending",
+    "user_final_approved": false,
+    "creator_native_review": "full image and thumbnail; native face/hands/weapon/feet/material/guardian crops personally inspected",
+    "creator_observations": [
+      "主脸、拿刀手、空手、近步卒脸与扶鞘手均原生可读，空架无双戟，脚贴地。",
+      "刀已完全出鞘而转向，刀鞘口和刃不共轴是已出鞘瞬间，不是仍插在鞘中弯刀；刀柄/刀身自身连续。",
+      "前景人物清楚。最右箱子约边缘12%图像明显虚，作为非关键边缘道具记录待独审，而非整前景虚。",
+      "祖影次位、背景火光比需求局部略多，但没有扑满人物的随机发光颗粒。"
+    ]
+  }
+]

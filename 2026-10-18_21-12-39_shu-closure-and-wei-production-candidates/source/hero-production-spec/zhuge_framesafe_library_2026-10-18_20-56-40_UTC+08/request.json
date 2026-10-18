@@ -1,0 +1,39 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_3ea2f038e65881919f621478860bb4b6",
+      "expected_current_version": 0,
+      "version_reason": "龙眼鼻嘴移入安全域，独立与根QA通过的候选；不代表用户定稿"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_e3672d52ea748191b0c7be1337265f53",
+      "expected_current_version": 0,
+      "version_reason": "龙眼鼻嘴移入安全域，独立与根QA通过的候选；不代表用户定稿"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_9c5c34648b248191a4a3117485711019",
+      "expected_current_version": 0,
+      "version_reason": "龙眼鼻嘴移入安全域，独立与根QA通过的候选；不代表用户定稿"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_f636639ba83c8191ad0fcd07a495401b",
+      "expected_current_version": 0,
+      "version_reason": "天空卧龙安全域局修，琴手人物保留；候选"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_76e9cd02e0e4819187a98a5f7632b0d5",
+      "expected_current_version": 0,
+      "version_reason": "天空卧龙安全域局修，琴手人物保留；候选"
+    }
+  ]
+}

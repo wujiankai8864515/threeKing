@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+    "status": "independent_content_candidate_pass_frame_QA_pending"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+    "status": "independent_content_candidate_pass_frame_QA_pending"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+    "status": "dragon_frame_safe_local_QA_pending"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+    "status": "dragon_frame_safe_local_QA_pending"
+  }
+}

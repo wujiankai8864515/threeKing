@@ -1,0 +1,393 @@
+{
+  "hero": {
+    "hero_id": "dianwei",
+    "name": "典韦",
+    "faction": "wei",
+    "core_personality": "凶悍外貌下是极直接的护主意志；身体可以受伤，守住的门不能轻易让开。",
+    "myth_symbol_proposal": {
+      "name": "上古巨巫祖影",
+      "origin": "依用户要求的纯幻想“上古巫族巨力”设计；不是典韦历史民族、血统、宗教或真实族群身份声明",
+      "reason": "古之恶来的雄异感转为大地巨力、石纹与祖影；不再用虎，避免与许褚和张飞撞形。",
+      "growth": "臂上极少暗纹→身后石面祖影→双戟力场中的半身巨巫→站在门后的巨大祖影；身体始终只有两臂"
+    },
+    "differentiation": "近身护卫与代价承伤，横向宽巨、双铁戟、门形轮廓。许褚是虎痴单体重斩，典韦是把自己钉在护卫位置。",
+    "identity": {
+      "face": "原创：宽额方颌、重眉深眼、短粗须，鼻梁宽硬，凶悍而有人的表情；不套真实族群刻板外貌。",
+      "hair": "原创：短发束结或紧绑小髻，额带厚实，不用猛虎鬃发。",
+      "body": "原著容貌魁梧、勇力过人；本项目夸张为比其他武将高壮一档的巨汉，约2.3米只作可调视觉比例，绝非史籍身高。",
+      "clothes": "土褐、炭黑、旧铜扣与厚皮革，少量石纹护臂；蓝限腰结。最终宛城按原文无甲，不能因黄金自动重装。",
+      "weapons_fact": "第10回双铁戟合叙重八十斤，驭使如飞；第11回另有短戟投掷；第16回双戟被盗，临时取步卒腰刀，刀缺后弃之。",
+      "weapons_design": "两柄独立直柄铁戟，刃与侧枝连接可信，长度依骑步可操作；短戟和长戟不能混成同一尺寸。黄金画缺口步刀或弃刀后空手，不让失盗双戟回来。",
+      "mount_fact": "第10回获赐骏马雕鞍，未给专属名；第16回守门在步战。",
+      "mount_design": "前中阶普通壮马能承体型；最终不骑马。",
+      "reference_version": "WEI-DW-identity-text-v1，待身份样；巫族只限幻想设定。"
+    },
+    "modern_game_reference": {
+      "version": "三国杀OL2016火包典韦攻略",
+      "url": "https://www.sanguosha.com/news/20161026_1535_1311",
+      "verified": "强袭以武器或体力为代价换近距离伤害；只取机制概念。",
+      "use": "本项目选护主承担代价，非复制游戏规则；官方文章的史料/小说混叙不作为原著证据。"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 10,
+        "chronology_key": "010-a",
+        "title": "逐鹿过涧",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "夏侯惇说打猎时见典韦逐鹿过涧，收于军中。",
+        "selection": "card1",
+        "selection_reason": "未入曹营的巨力起点，最直接避开虎意象。",
+        "misreading_to_avoid": "原文是逐鹿，不是逐虎。"
+      },
+      {
+        "event_id": "b",
+        "chapter": 10,
+        "chronology_key": "010-b",
+        "title": "风中执旗受用",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "演双铁戟，一手扶定众军难持的大旗，被赞古之恶来，任帐前都尉。",
+        "selection": "card2+bio1",
+        "selection_reason": "巨力被看见且获得明确职责。",
+        "misreading_to_avoid": "古之恶来是人物比拟，巫族设计是原创，二者不可混成史实。"
+      },
+      {
+        "event_id": "c",
+        "chapter": 11,
+        "chronology_key": "011-c",
+        "title": "五步飞戟救曹",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "下马取短戟，等敌近至五步连续投掷，再上马持双铁戟救曹。",
+        "selection": "card3+bio2",
+        "selection_reason": "精准控制巨力，非单纯越画越大。",
+        "misreading_to_avoid": "短戟为多个投掷物；不能把双长戟同时飞出去再凭空回来。"
+      },
+      {
+        "event_id": "d",
+        "chapter": 12,
+        "chronology_key": "012-d",
+        "title": "濮阳往复寻主",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "已出围又数次返回火中找曹操。",
+        "selection": "alternate",
+        "selection_reason": "同样护主但火中救人与最终宛城视觉太近，留备用。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "e",
+        "chapter": 16,
+        "chronology_key": "016-e",
+        "title": "失戟守宛城门",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "醉卧遭盗戟，惊醒取步卒腰刀，无甲守门，刀缺后仍战，最终死于乱军。",
+        "selection": "card4+bio3",
+        "selection_reason": "职责至极的最终形象；黄金是精神与神话显现，不改结局。",
+        "misreading_to_avoid": "不画复活或战后荣归；不画双戟重新在手；不靠碎尸强化凶猛。"
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "山涧巨影",
+        "camera": "低位远中景，人物全身与溪石有比例参照",
+        "action": "跨过浅涧追鹿，手臂前后摆，目标鹿在远处坡上",
+        "environment": "真实林地、湿石、树根；鹿不是被残杀特写",
+        "myth_growth": "皮肤与岩壁间仅两条暗石纹",
+        "structure_check": "落脚石面、腾身重心与另一脚有合理轨迹；无六臂",
+        "must_retain": "魁梧凶脸、简皮束、自然皮肤",
+        "must_not_inherit": "不是追虎，不用兽头兜帽抢许褚",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "一手定大旗",
+        "camera": "略低全身，巨大旗杆竖直，主角偏侧",
+        "action": "双足张稳，一手在合理高度压住旗杆，另一手空闲平衡",
+        "environment": "曹营风大，军士退开，旗底扎在坚实地面",
+        "myth_growth": "半尊石面祖影与背部相合，几乎不发光",
+        "structure_check": "旗有地面支点；手臂不反折；风力方向与旗褶一致",
+        "must_retain": "短粗须、厚臂、土黑衣甲",
+        "must_not_inherit": "不凭单手举整支无支点巨旗；不把祖影生出额外实手",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "五步掷锋",
+        "camera": "侧前低机位中全身，步战，肩向前旋",
+        "action": "一手刚投出一枚短戟，另一手握其余短戟束；双长戟已插在身后",
+        "environment": "荒路箭矢稀疏有方向、曹操退于后景",
+        "myth_growth": "半身巨巫影沿肩背伸展，石纹只沿受力肌群",
+        "structure_check": "投掷手腕跟随肩肘；剩余短戟数清楚；长戟直插有支点",
+        "must_retain": "精准狠劲而非乱挥",
+        "must_not_inherit": "不可同时双长戟在手；不让箭矢穿脸却无伤",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "e",
+        "title": "宛门不退",
+        "camera": "门外低机位，人物胸肩占强轮廓，门后留逃路",
+        "action": "无甲，紧握已缺口的步刀横挡，伤处非血腥，双脚仍稳",
+        "environment": "宛城营门、局部燃烧草车，曹操退路从门后延伸",
+        "myth_growth": "巨大祖影立在门后，轮廓似一扇不能推开的石门",
+        "structure_check": "短刀按短柄受力，肌肉不乱长；门框与肩不粘连",
+        "must_retain": "凶悍人脸、无甲、缺刀、两臂",
+        "must_not_inherit": "无双铁戟，无战后凯旋，无尸体当兵器特写、无满屏金粉",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "夏侯引荐",
+        "camera": "横幅曹营阅武场，夏侯惇侧前，典韦近景",
+        "action": "典韦演戟后回身看将倒的大旗，曹操正在观察",
+        "target_connection": "青铜定旗动作的直接前因，强调被任用于帐前",
+        "first_person_line_original": "这旗若倒了，我便扶住。既站在帐前，就不叫人轻易过去。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "双戟尚未扶旗时分置地面架上，避免同手三物",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "dianwei_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "再近五步",
+        "camera": "横幅从典韦肩后望敌骑，随从在近侧报距离",
+        "action": "典韦把长戟插地，掌中分好短戟，等敌人近",
+        "target_connection": "直接承银卡掷锋前一瞬；不是跨年英雄合集",
+        "first_person_line_original": "再近些。我的手里，每一枝都要落在该落的地方。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "长短戟尺寸明显；敌我距离需可读，非两张脸贴近",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "dianwei_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "e",
+        "title": "找不到双戟之后",
+        "camera": "横幅营帐到门口纵深，典韦由暗走向火光",
+        "action": "空兵器架在后，主角从步卒手边取腰刀，门外敌影逼近",
+        "target_connection": "传记讲失去惯用兵器仍守门，黄金卡接上实际步刀状态",
+        "first_person_line_original": "戟不在，门还在。我在这里，便让他们从后面走。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "取刀与转身分一个清楚动作；不把盗戟胡车儿画成帮手",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "dianwei_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "dianwei_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "指定近旁一名友军，替其承受下一次来袭的一部分伤害；典韦在原地护住该方向。",
+      "active": {
+        "skill_id": "dianwei_a1",
+        "name": "恶来拒关",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "指定近旁一名友军，替其承受下一次来袭的一部分伤害；典韦在原地护住该方向。",
+        "extra_effect": "三星起：完成一次代承后向攻击者作一次近距离戟击；没有攻击者在范围内则不追击。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "dianwei_p1",
+          "name": "巨躯",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "最大生命提高",
+          "trigger": "常驻",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "dianwei_p2",
+          "name": "固骨",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "承接给自己的伤害降低",
+          "trigger": "代承伤害结算",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "dianwei_p3",
+          "name": "卫距",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "可护卫友军的选择距离提高",
+          "trigger": "施放主动",
+          "target": "友军",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "dianwei_p4",
+          "name": "拒关",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "护卫期间自身受到的击退距离减少",
+          "trigger": "护卫状态遭击退",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石门祖影贴背压住原位，受击纹从护卫方向聚入地面；不牺牲队友、不无限锁血。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "dianwei_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "dianwei_p1",
+            "dianwei_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "dianwei_p1",
+            "dianwei_p2",
+            "dianwei_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "dianwei_p1",
+            "dianwei_p2",
+            "dianwei_p3",
+            "dianwei_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved",
+    "research_readiness": {
+      "selected_scenes_verified": true,
+      "selected_scenes_count": 7,
+      "identity_sample_required": true,
+      "can_start_identity_sample": true,
+      "can_mass_generate_without_reference": false,
+      "user_final_approval": false
+    },
+    "reference_attachment_requirements": {
+      "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+      "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+      "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+      "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+    }
+  },
+  "common": {
+    "scope": "研究文本制作包，不含生成图片、成图验收、UI实现或仓库同步；10英雄×4卡+3传记=70张规划主图。",
+    "canon": "以本包逐章核验的毛本《三国演义》文本为故事主轴。只证明小说叙述，不自动等同三国史实。现代游戏玩法另列，不用于证明原著事件。",
+    "status": "所有神话象征、面貌造型、第一人称短词、技能名和机制均为本项目原创提案，未获用户最终批准。",
+    "style": "原创英雄化神话插画，地面世界有具体营地、城池、山路、木石泥土；不摄影写实、不统一天宫，不以绿色/蓝色滤镜制造幻想感。",
+    "faction": "魏只在独立UI徽章和少量衣带/结饰/内衬使用蓝色。各人的袍甲主色独立；早期吕布、袁绍、杨奉部队按事件旗号，不把魏字战旗塞入前期场景。",
+    "materials": "皮肤自然骨相；布哑光大褶；马毛定向与肌肉面；木土各自纹理；金属只在有形体依据处反光。禁随机金粉、白黄针点、满脸闪粒和跨材质金属化。",
+    "tiers": "1黑铁、2青铜、3白银、4黄金；黄金是收藏成熟表现，不等同称帝或道德无瑕，也不强制画到人物晚年。属性1/2/4/8仅沿用未平衡的基础属性方向，不扩张为技能、攻速和控制一起翻倍。",
+    "skill_rules": "暂拟每星累计1/2/3/4条被动，每条两汉字且一个关键效果；主动保留同一核心操作，最多添加一个直接辅助效果；所有数值、冷却、持续、容量与敌人豁免规则待系统验证。无五星、复杂连锁、复活树或全能技能。",
+    "reference_gate": "本轮没有新英雄获批身份样图。每图actual_reference_files为空是诚实缺口；生成前须先做身份/材质样并获检查，再实际附身份、动作兵器与场景参考，不能靠一句“沿用参考”假装已附。",
+    "structural_qa": "长杆各可见段共一直轴；刀斧头、杆、双手和尾帽有真实连接；拇指对向包握、腕肘肩受力可行。骑乘须查鞍位、人马重心、缰绳与兵器不穿插；不可为装入框把长兵缩短。",
+    "delivery_gate": "七主图、四阶UI与总览分计；插画不烧文字；脸、手、武器轴、坐骑、材质保存100%裁切。原生尺寸按实际记录，不把放大标原生4K。技术通过不等于用户审美批准。",
+    "generation_specs": {
+      "card": "竖幅2:3，无字；暂按可得1024×1536源，不承诺原生4K",
+      "biography": "横幅3:2，无字；暂按1536×1024源",
+      "composition": "脸手兵器在UI安全区内，长杆和坐骑允许合理出画；传记前清后柔，关键配角不能糊成无身份。"
+    }
+  },
+  "verified_primary": "https://zh.wikisource.org/zh/三國演義/第010回",
+  "primary_event": "演双戟后下马一手执定风旗，被任为帐前都尉。两图描绘扶旗前因与扶旗状态；架上收戟/场地/服装/祖影是原创安排。"
+}

@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+2"
+      },
+      {
+        "name": "引燎",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+2"
+      },
+      {
+        "name": "引燎",
+        "level": "+2"
+      },
+      {
+        "name": "凤策",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics"
+  }
+}

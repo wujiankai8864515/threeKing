@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-10-18T21:14:17.222463+08:00",
+  "asset_delta": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
+  "new_or_changed_entries": 382,
+  "resolved_paths_verified": 3321,
+  "historical_checksum_records_verified": 3148,
+  "checksum_manifests_verified": 41,
+  "current_source_hashes_verified": 73,
+  "UI_and_overview_hashes_verified": 45,
+  "UI_source_input_hashes_verified": 32,
+  "observed_Wei_primary_version_hashes_verified": 22,
+  "library_exact_versions_verified": 96,
+  "project_text_files_security_scanned": 123,
+  "recovery_method": "Sequential restore-all.py --copy-check, every path copied and SHA256 compared; historical checksums and current source/UI/Library version refs separately verified.",
+  "remote_verified_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
+  "remote_verified_paths": 2950,
+  "current_delta_uploaded": false,
+  "this_worker_network_operations": false,
+  "count_scope": "Checksum totals exclude this new verification receipt."
+}

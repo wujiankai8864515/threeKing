@@ -1,0 +1,13 @@
+{
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/典韦-黑铁-山涧巨影-身份候选1.png"
+  ],
+  "role": "only edit target; move whole deer inward to escape star overlap; preserve hero and water/stone",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "a9ce7cfc1d066ea9c66d4c2c1b84dbabb20c2b6da8503e206fb4c9d6755c8c83",
+  "actually_viewed_before_generation": true,
+  "authorization": "root via lead approved one deer-only local reposition; leave rear hand and physical water/stone highlights"
+}

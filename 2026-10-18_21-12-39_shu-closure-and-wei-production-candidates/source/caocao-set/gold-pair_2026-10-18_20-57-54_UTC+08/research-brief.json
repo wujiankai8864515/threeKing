@@ -1,0 +1,398 @@
+{
+  "hero_id": "caocao",
+  "name": "曹操",
+  "faction": "wei",
+  "core_personality": "敢在危局中押注，也能借人才与军令把局势转为主动；雄心与失误同时保留。",
+  "myth_symbol_proposal": {
+    "name": "玄纹螣蛇",
+    "origin": "原创神话方案；曹操《龟虽寿》有螣蛇乘雾的文学意象，不是演义自带召唤兽",
+    "literary_source": "https://zh.wikisource.org/zh-hant/龜雖壽",
+    "reason": "轻翼、蛇躯与旗令曲线对应迂回调度；避免再做一条刘备/关羽换色龙。",
+    "growth": "刀鞘蛇纹→旗影小翼→完整螣蛇绕军令→江雾中大翼而短盘，绝不细蛇盘满天空"
+  },
+  "differentiation": "魏阵营的统帅反攻。黑红袍、短壮骨架、审视目光与军令；与刘备群体治疗、孙权资源取舍、董卓压榨厚体都分开。",
+  "identity": {
+    "face": "原创：较宽短脸、深眼窝、上扬眉尾、短密髯；细笑与警觉能共存，不靠白脸油彩表现奸雄。",
+    "hair": "束髻窄冠，早期髭短，后期髯逐渐浓但同一发际线。",
+    "body": "中等身高而结实，衣袍下有军旅体态，不拔高成吕布。",
+    "clothes": "墨黑与沉赭红主色，少量暗铜边；蓝只徽章与结饰背面。高阶是更整饬、厚重的织物和护肩，不满身黄金。",
+    "weapons_fact": "第4回七星宝刀长尺余、七宝嵌饰；第48回横槊。两者是不同事件实物，不能强行全生涯同刀。",
+    "weapons_design": "统一识别靠冠、脸和袍扣；普通佩剑用原创朴素汉式直剑，不在未核阶段命为倚天；第48回长槊依长杆结构设计。",
+    "mount_fact": "第4回借试董卓所赐马脱身；本次所选各段无统一专属马名。",
+    "mount_design": "早期普通栗马，官渡选黑褐军马；船上黄金不画马。",
+    "reference_version": "WEI-CC-identity-text-v1，待身份样。"
+  },
+  "modern_game_reference": {
+    "version": "三国杀OL官网标准曹操页，2026-10-18检索正文核验",
+    "url": "https://www.sanguosha.com/hero/15",
+    "verified": "奸雄受伤后可取得造成伤害的牌，护驾借同势力响应。",
+    "use": "仅取承压后反攻与统御思路；不把受伤抽牌或全场牌效照搬，不把生平栏当小说章回。"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 4,
+      "chronology_key": "004-a",
+      "title": "献刀脱险",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "借王允七星宝刀刺董卓，被镜中发现，改称献刀，借试马脱身。",
+      "selection": "card1",
+      "selection_reason": "机变与胆识起点，非一出场就帝王。",
+      "misreading_to_avoid": "行刺未成功，不画董卓已死。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 4,
+      "chronology_key": "004-b",
+      "title": "误杀吕伯奢一家",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "逃亡途中猜疑杀人，随后故意杀吕伯奢。",
+      "selection": "rejected_with_disclosure",
+      "selection_reason": "保留人物复杂性，但不把杀无辜作升级奖励。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 5,
+      "chronology_key": "005-c",
+      "title": "陈留募义",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "卫弘资助，曹操散资招募，建立军队。",
+      "selection": "card2+bio1",
+      "selection_reason": "由个人冒险转向组织力量，铜卡直接承接。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 14,
+      "chronology_key": "014-d",
+      "title": "迎奉天子移许",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "经荀彧、董昭等建议，护驾并掌握大权。",
+      "selection": "alternate",
+      "selection_reason": "政治代表性强，但本四阶保留官渡和横槊的军事/文学轮廓。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "e",
+      "chapter": 30,
+      "chronology_key": "030-e",
+      "title": "纳许攸夜袭乌巢",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "粮困中跣足迎许攸，听劫粮计，安排守营后亲率五千夜行。",
+      "selection": "card3+bio2",
+      "selection_reason": "接受情报并承担风险，反攻核心最清楚。",
+      "misreading_to_avoid": "乌巢非郭嘉献计；不可吞掉许攸与其他谋士功劳。"
+    },
+    {
+      "event_id": "f",
+      "chapter": 30,
+      "chronology_key": "030-f",
+      "title": "焚烧通袁书信",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "获胜后烧掉军中与袁绍暗通书信。",
+      "selection": "alternate",
+      "selection_reason": "表现容人可作替换传记，但本次要与乌巢卡直接相连。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "g",
+      "chapter": 48,
+      "chronology_key": "048-g",
+      "title": "江上横槊赋诗",
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "大船宴诸将、饮酒、横槊作歌；随后酒怒杀刘馥，醒后悔。",
+      "selection": "card4+bio3",
+      "selection_reason": "雄心与诗人气质达顶点，最高阶不是称帝。",
+      "misreading_to_avoid": "需说明赤壁战前且此后败北；不能描绘已统一江南，刘馥之死不作为荣耀。"
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "献刀瞬变",
+      "camera": "紧凑近中景，曹操三分之二侧脸，镜子只在侧后",
+      "action": "刚将刺势改为双手献刀，眼神在刀与门外之间转换",
+      "environment": "董卓小阁、卧榻、衣镜和帘门，木地真实",
+      "myth_growth": "刀鞘边一线蛇翼纹暗示，未实体化",
+      "structure_check": "两手托短刀非长剑，刃向远离手掌，镜像角度能见拔刀",
+      "must_retain": "短髯、机警、黑赭简袍",
+      "must_not_inherit": "不把七星宝刀画成长柄大刀；不画董卓死伤",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第004回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "c",
+      "title": "陈留举义",
+      "camera": "略低全身，站在土台一侧",
+      "action": "一手扶佩剑鞘，一手展臂受将士响应",
+      "environment": "村营招募、装备与粮车正在入场；白招兵旗文字后置",
+      "myth_growth": "一段小翼螣蛇藏在旗影中",
+      "structure_check": "剑未出鞘，手势舒展但肩肘真实；旗不穿身体",
+      "must_retain": "黑红袍开始有军甲，普通营地",
+      "must_not_inherit": "不画称帝祭天或十八路已全奉他为盟主",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "e",
+      "title": "乌巢决进",
+      "camera": "马侧前中景，视角稍低而不仰成天神",
+      "action": "亲率夜行队伍，垂剑指前路，身体前倾",
+      "environment": "官渡外野道，军士负草薪、旗号伪装，远处粮屯微光",
+      "myth_growth": "完整螣蛇贴近夜雾低行，翼不遮兵",
+      "structure_check": "剑与缰各手明晰，马步与后军同向",
+      "must_retain": "有风险的果断，非狂笑",
+      "must_not_inherit": "不把许攸画前线武将；不把所有衣物涂金火光",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "g",
+      "title": "横槊江天",
+      "camera": "甲板稍低机位，半身至膝，江面留开阔负空间",
+      "action": "长槊横持在身前，一手靠近重心，另一手托后段；酒已放下",
+      "environment": "大船真实栏杆、远水寨月光与层叠灯火",
+      "myth_growth": "大翼螣蛇沿江雾展开，短盘实体体段连贯",
+      "structure_check": "长槊双手受力，甲板足距稳；不能一手同时托酒又横长槊",
+      "must_retain": "成熟深髯、黑红厚袍、昂扬中带思虑",
+      "must_not_inherit": "不画龙袍帝冠；不称赤壁凯旋，不使用已割短须的后期造型",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "c",
+      "title": "招募有人应",
+      "camera": "横幅堂屋到院落纵深，卫弘近景，曹操起身",
+      "action": "卫弘表示资助，门外首批将士与衣甲车可见，曹操拱手受助",
+      "target_connection": "青铜组织力量的直接前因，不跳到多年后的求贤令",
+      "first_person_line_original": "我一人能做的有限。这面旗竖起来，就要让愿意同行的人有处可来。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "主角手礼清楚；金帛不变成金粉，不虚构卫弘称臣",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "caocao_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "e",
+      "title": "跣足迎故友",
+      "camera": "横幅帐门，近景赤足曹操向许攸迎出",
+      "action": "衣未整、履留帐内；许攸持书，后方参谋欲随",
+      "target_connection": "直接解释银卡决进乌巢的情报和决断",
+      "first_person_line_original": "粮已将尽，我不能再等。子远既来，便请把破局之策说透。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "脚趾地面接触真实；两人握手不能多指；保留许攸身份",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "caocao_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "g",
+      "title": "置酒会诸将",
+      "camera": "横幅江上甲板斜透视，曹操居前，文武环坐向后递柔",
+      "action": "主角起身取槊，众人停杯看他，江月开阔",
+      "target_connection": "同场宴会到横槊的直接过场；不伪造战后加冕",
+      "first_person_line_original": "走到这江边，我仍有未竟之事。今夜举杯，明日再看天下。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "取槊与持酒不同瞬间，栏杆与船体透视一致",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "caocao_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "caocao_card_4",
+      "event_source_url": "https://zh.wikisource.org/wiki/三國演義/第048回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "己方受敌方命中可取得少量军令筹（有严格上限）；主动消耗军令筹，强化指定一名友军的下一次普通攻击。",
+    "active": {
+      "skill_id": "caocao_a1",
+      "name": "令下反攻",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "己方受敌方命中可取得少量军令筹（有严格上限）；主动消耗军令筹，强化指定一名友军的下一次普通攻击。",
+      "extra_effect": "不加治疗/复活/全队无敌；一至四星只完善军令筹与一次反击。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "caocao_p1",
+        "name": "应势",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "己方受到敌方命中时获得一枚军令筹",
+        "trigger": "同次攻击仅计一次，防多段刷筹",
+        "target": "自身军令资源",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "caocao_p2",
+        "name": "令威",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "军令强化的下一次普攻伤害提高",
+        "trigger": "友军消耗军令强化",
+        "target": "该友军下一次普攻",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "caocao_p3",
+        "name": "远御",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动可选择友军的距离提高",
+        "trigger": "选择目标时",
+        "target": "友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "caocao_p4",
+        "name": "雄略",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "军令筹储存上限提高",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "螣蛇翼纹从将令向受令者收拢一次；不模仿青龙蓄战永久成长。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "caocao_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "caocao_p1",
+          "caocao_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "caocao_p1",
+          "caocao_p2",
+          "caocao_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "caocao_p1",
+          "caocao_p2",
+          "caocao_p3",
+          "caocao_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved",
+  "research_readiness": {
+    "selected_scenes_verified": true,
+    "selected_scenes_count": 7,
+    "identity_sample_required": true,
+    "can_start_identity_sample": true,
+    "can_mass_generate_without_reference": false,
+    "user_final_approval": false
+  },
+  "reference_attachment_requirements": {
+    "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+    "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+    "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+    "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+  }
+}

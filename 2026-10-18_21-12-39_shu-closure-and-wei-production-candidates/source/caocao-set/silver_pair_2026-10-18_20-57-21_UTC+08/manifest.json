@@ -1,0 +1,86 @@
+{
+  "hero_id": "caocao",
+  "chapter": 30,
+  "actual_original_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+    "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "PNG",
+    "mode": "RGB"
+  },
+  "reference_role": "approved Cao identity/planar style only, not Dong Zhuo or knife scene",
+  "assets": [
+    {
+      "asset_id": "caocao_card_3",
+      "title": "乌巢决进",
+      "current": {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_mythsafe_2026-10-18_21-07-39_UTC+08/曹操-白银-v2-螣蛇安全区局修候选.png",
+        "sha256": "dd331da280e1e27230ff98d2631aabdd18457340f686e4b7519714467bb3f3ea",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "mode": "RGB"
+      },
+      "previous": {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银-v1-乌巢决进候选.png",
+        "sha256": "659df98dc386044baa72ed097ddea4b00cf125d64e5d077f1b0e33bed1c85eb2",
+        "size": [
+          1024,
+          1536
+        ],
+        "format": "PNG",
+        "mode": "RGB"
+      },
+      "status": "self_qa_passed_pending_independent",
+      "checks": [
+        "separate straight sword grip and reins grip",
+        "natural same-direction military horse/straw-bearing troops",
+        "serpent head now approxx507..633,y150..208 in latest safe zone and clear of crown",
+        "face and clothing identity preserved"
+      ],
+      "notes": [
+        "v1 serpent at far left superseded for safe placement",
+        "sword hand lower edge near y890, outside ideal y850 but not actual right passive or top star regions; recorded instead of claiming all ideal coordinates achieved",
+        "distant camp has visible flames/lights; no completed victory claimed"
+      ]
+    },
+    {
+      "asset_id": "caocao_bio_2",
+      "title": "跣足迎故友",
+      "current": {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银传记-v1-跣足迎故友候选.png",
+        "sha256": "94635f06d5b5d3f2aed9fb78c77d823b71bee84155f85d9aa6e0c98fbf8f8863",
+        "size": [
+          1536,
+          1024
+        ],
+        "format": "PNG",
+        "mode": "RGB"
+      },
+      "status": "self_qa_passed_pending_independent",
+      "checks": [
+        "Cao greeting Xu You, footwear inside tent",
+        "bare feet grounded, toe shapes coherent",
+        "Cao open palms separate from visitor scroll hands",
+        "faces and original broad-plane identity readable"
+      ],
+      "notes": [
+        "foreground damp soil has localized lamplight reflections, not random cross-material gold speckle",
+        "bottom-left nearest rock edge soft; non-key perimeter only",
+        "visitor hands partly overlap around scroll naturally, no claim all 10 fingers unobscured"
+      ]
+    }
+  ],
+  "counts": {
+    "original_builtin": 2,
+    "targeted_builtin_edit": 1
+  },
+  "crop_resize_count": 0,
+  "qa": "pair qa-100pct 12 crops and fix qa-100pct 5 native comparisons all actually viewed",
+  "upload_status": "not_uploaded"
+}

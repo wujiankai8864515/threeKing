@@ -1,0 +1,21 @@
+{
+  "operation": "create_library_file",
+  "status": "succeeded",
+  "path": "/马超-全套素材-Library清单.json",
+  "file_id": "file_00000000d8bc8230bdf878bef75c64e9",
+  "library_file_id": "libfile_8b8b22cada2481918012865faf92567b",
+  "file_name": "马超-全套素材-Library清单.json",
+  "current_version_number": 0,
+  "restored_from_version_number": null,
+  "xattrs": [
+    {
+      "name": "user.library-file-version",
+      "value": "0"
+    }
+  ],
+  "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+  "mime_type": "application/json",
+  "library_artifact_type": "other",
+  "file_size_bytes": 11927,
+  "external_connectors_accessed": false
+}

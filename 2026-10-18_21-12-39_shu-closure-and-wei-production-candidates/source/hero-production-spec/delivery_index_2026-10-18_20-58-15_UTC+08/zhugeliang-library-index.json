@@ -1,0 +1,162 @@
+{
+  "status": "technical_candidates_pending_user_acceptance",
+  "native_portrait": [
+    1024,
+    1536
+  ],
+  "native_story": [
+    1536,
+    1024
+  ],
+  "complete_UI": [
+    1190,
+    1786
+  ],
+  "ui_note": "art pasted1:1; frame raster enlarged; text independent; skill names and numbers proposed demonstrations",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000401881f6ae06f762ec506805",
+      "library_file_id": "libfile_1c88e85420dc8191acb1775960fc2c56",
+      "file_name": "诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000065b081f6a83dd24154653c02",
+      "library_file_id": "libfile_0e1b096603748191961c8d2cee75bfe0",
+      "file_name": "诸葛亮-青铜-出庐定策-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-青铜-出庐定策-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记-三顾定志-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000504081f6b9cf9efbea436512",
+      "library_file_id": "libfile_8bed8e9f471081919e3a7f42b30a9d2f",
+      "file_name": "诸葛亮-传记-三顾定志-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-传记-三顾定志-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c48081f5853d26c7d62905d6",
+      "library_file_id": "libfile_f636639ba83c8191ad0fcd07a495401b",
+      "file_name": "诸葛亮-白银-龙首入框-局修1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-白银-龙首入框-局修1.png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/zhuge_framesafe_library_2026-10-18_20-56-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记-风起江上-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000753881f6982cf9e8823855b1",
+      "library_file_id": "libfile_bd339bcb0ff081919127a7d8bc958289",
+      "file_name": "诸葛亮-传记-风起江上-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-传记-风起江上-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-传记-虚实之间-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002d0c81f6bb90e3e70b9ccec3",
+      "library_file_id": "libfile_76345aa84c8c8191a3a2c4c261104544",
+      "file_name": "诸葛亮-传记-虚实之间-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-传记-虚实之间-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000260481f58ba23259c1f28ebd",
+      "library_file_id": "libfile_76e9cd02e0e4819187a98a5f7632b0d5",
+      "file_name": "诸葛亮-黄金-龙首明确左收-局修2.png",
+      "local_metadata_applied": true,
+      "path": "/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/zhuge_framesafe_library_2026-10-18_20-56-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000042a081f5a5eeaa6400d33518",
+      "library_file_id": "libfile_d33a294f62a48191a4e615343412971c",
+      "file_name": "01-黑铁-新框完整UI候选1190(3).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(3).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008c3481f9851d18ab14836cbe",
+      "library_file_id": "libfile_e86cc459e4908191b0642ced891ddf5e",
+      "file_name": "02-青铜-新框完整UI候选1190(20261018-123635).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(20261018-123635).png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ce1881f58ba645294188b13a",
+      "library_file_id": "libfile_3ea2f038e65881919f621478860bb4b6",
+      "file_name": "03-白银-新框完整UI候选1190(6).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(6).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/zhuge_framesafe_library_2026-10-18_20-56-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ff9c81f59d672071aff9a886",
+      "library_file_id": "libfile_e3672d52ea748191b0c7be1337265f53",
+      "file_name": "04-黄金-新框完整UI候选1190(7).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(7).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/zhuge_framesafe_library_2026-10-18_20-56-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000096d081f5a8b648bd164604f2",
+      "library_file_id": "libfile_9c5c34648b248191a4a3117485711019",
+      "file_name": "四阶新框完整UI-候选总览(7).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(7).png",
+      "current_version_number": 1,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/zhuge_framesafe_library_2026-10-18_20-56-40_UTC+08/results.json"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "purpose": "move only mythic beast head into UI visible safe region, preserve protagonist and equipment",
+  "tool": "builtin_imagegen",
+  "historical_candidates_retained": true,
+  "user_final_approval": false,
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png",
+      "sha256": "679ca467bc8b8566c44043e64c438915273133eefbca324cfe0229db516c6881",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "pending_independent_root_QA"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/ui_newframe_2026-10-18_20-53-40_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/ui_newframe_2026-10-18_20-53-40_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/ui_newframe_2026-10-18_20-53-40_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/ui_newframe_2026-10-18_20-53-40_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/ui_newframe_2026-10-18_20-53-40_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_7fbd4403f63c8191ae7eab8504c04cce",
+      "expected_current_version": 0,
+      "version_reason": "凤首安全域局修通过；原身份地图双手保，待用户验收候选"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "source_status": "independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "诸葛亮",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "候风",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+      "source_status": "independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "诸葛亮",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "候风",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+      "source_status": "dragon_frame_safe_local_QA_pending",
+      "source_sha256": "1b917bd3565c6d18594eaaf86cbdcc8963e03c4b3158d430253fa74c87a9f418",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "诸葛亮",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "候风",
+            "level": "+2"
+          },
+          {
+            "name": "审势",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "source_status": "dragon_frame_safe_local_QA_pending",
+      "source_sha256": "440335d4acd737e3d8cde76a8640a7912faf1aa94562d57f03963c7cffb62bb3",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "诸葛亮",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "候风",
+            "level": "+2"
+          },
+          {
+            "name": "审势",
+            "level": "+2"
+          },
+          {
+            "name": "定局",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

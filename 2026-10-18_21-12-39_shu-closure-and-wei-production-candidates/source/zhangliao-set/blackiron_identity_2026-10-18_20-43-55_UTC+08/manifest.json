@@ -1,0 +1,32 @@
+{
+  "hero_id": "zhangliao",
+  "asset_id": "zhangliao_card_1",
+  "candidate": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_identity_2026-10-18_20-43-55_UTC+08/张辽-黑铁-v1-濮阳横锋身份候选.png",
+    "sha256": "8cab05e382d9cb8c8747e956849d28b39eec6e4c327dcd6b95cced34a89acf7b",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  "status": "superseded_by_local_edit_but_axis_not_yet_resolved",
+  "style_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  "actual_reference_role": "style only",
+  "successor": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_axisfix_2026-10-18_20-53-38_UTC+08/张辽-黑铁-v2-直杆收握局修候选.png",
+  "main_failures": [
+    "curved shaft",
+    "image-right hand outside x790 key safe boundary"
+  ],
+  "generation_count": 1,
+  "native_resolution": [
+    1024,
+    1536
+  ]
+}

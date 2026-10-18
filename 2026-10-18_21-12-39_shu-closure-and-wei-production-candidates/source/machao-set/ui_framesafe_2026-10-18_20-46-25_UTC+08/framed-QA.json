@@ -1,0 +1,47 @@
+{
+  "status": "corrected_framed_candidates_pending_root_and_independent_review",
+  "canvas": [
+    1190,
+    1786
+  ],
+  "native_art": [
+    1024,
+    1536
+  ],
+  "art_offset": [
+    84,
+    145
+  ],
+  "art_scale": 1.0,
+  "uncovered_pixel_checks": {
+    "iron": {
+      "checked": 1252024,
+      "changed": 0
+    },
+    "bronze": {
+      "checked": 1232786,
+      "changed": 0
+    },
+    "silver": {
+      "checked": 1235846,
+      "changed": 0
+    },
+    "gold": {
+      "checked": 1201095,
+      "changed": 0
+    }
+  },
+  "gold_pure_unchanged_hash": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+  "gold_frame_changes_outside_authorized_panel_old_new_regions": 0,
+  "visual_checks": {
+    "blackiron": "Candidate-only wolf moved inward. Framed ears/eyes/nose/mouth all visible, still weak apparition. Main face/hands remain clear. Root selection pending.",
+    "silver": "Rear grip moved inward; full hand and wrist now visible inside frame. Both grips and main shaft coaxis checked native; face/horse unchanged in composition. Independent review pending.",
+    "gold": "Pure art retained20:26 cloak-clean candidate. Passive panels copied as one group down200 native frame pixels, with text baseline moved200 native units. Horse nostrils/mouth now readable; tiny chin/base sits tight above top bar. Lowest bar sits against the upper decoration/rim of troop badge; icon itself and all skill names/levels remain readable. Root spacing review pending.",
+    "unchanged": "Bronze unchanged. Black/gold spear tip crop behind faction badge intentionally retained under latest instruction. Macro frame materials and rim unchanged."
+  },
+  "ui_fields": "马超; 先驱/摧锋/震阵 proposed; level and1/1/2/3 slot counts illustrative, not gameplay approval",
+  "no_upload": true,
+  "evidence": "QA critical framed native crops; composition source pixel checks; ui-change-spec.json records exact panel transform",
+  "root_final_review": "passed 2026-10-18 20:51 UTC+08 via parent",
+  "independent_QA": "passed 2026-10-18 20:53 UTC+08 direct audit; compact gold bar boundary retained"
+}

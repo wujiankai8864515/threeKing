@@ -1,0 +1,26 @@
+{
+  "purpose": "move only mythic beast head into UI visible safe region, preserve protagonist and equipment",
+  "tool": "builtin_imagegen",
+  "historical_candidates_retained": true,
+  "user_final_approval": false,
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+      "sha256": "6e6ee9acd7c7a971081b348eb126d21b11862d5c4fe1677881d76c357fc9318f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "independent_and_root_candidate_pass"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+      "sha256": "ad6fc465b2f2aca11896569644e3e94c2a4b3687632efcdf9a0e6c68dd7db6b2",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "independent_and_root_candidate_pass"
+    }
+  ]
+}

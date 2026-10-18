@@ -1,0 +1,309 @@
+{
+  "hero": "马超",
+  "approved_by_root": true,
+  "independent_QA": "passed; compact gold skill bar boundary explicitly allowed",
+  "native_portrait_pixels": [
+    1024,
+    1536
+  ],
+  "native_story_pixels": [
+    1536,
+    1024
+  ],
+  "UI_pixels": [
+    1190,
+    1786
+  ],
+  "art_native_offset": [
+    84,
+    145
+  ],
+  "skill_names_status": "proposed, levels illustrative",
+  "all_seven_sources_and_five_UI_assets_persisted": true,
+  "results": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记-西凉起兵-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000f8c881f6846f1499007eb793",
+      "library_file_id": "libfile_fd4111360ce08191b2b22eaefccf4aaf",
+      "file_name": "马超-传记-西凉起兵-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/马超-传记-西凉起兵-候选1.png",
+      "current_version_number": 0,
+      "sha256": "1fca663488e18b4a2289eec7edda50f76d3f9fbac18658a51170326dfabeefbc",
+      "actual_pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000a35481f68158df0ed6f98deb",
+      "library_file_id": "libfile_3b4c4c7636848191b70e6fc93e6f4cac",
+      "file_name": "马超-青铜-潼关怒骑-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/马超-青铜-潼关怒骑-候选1.png",
+      "current_version_number": 0,
+      "sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+      "actual_pixels": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记-换马举火-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002444820c8b95e2383c4577a1",
+      "library_file_id": "libfile_4a06e84bd1788191b73a04810eb0a9bf",
+      "file_name": "马超-铜银传记-换马举火-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/马超-铜银传记-换马举火-候选1.png",
+      "current_version_number": 0,
+      "sha256": "edc3f562a6a5114de747979299c1ed547572a454b8508a48ff7771170cc24967",
+      "actual_pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "operation": "replace_library_file",
+      "status": "succeeded",
+      "path": "/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "file_id": "file_00000000076881f88cadf145f977f7ed",
+      "library_file_id": "libfile_bb046f31adc8819181dcb0563679ce7f",
+      "file_name": "马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "current_version_number": 1,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "1"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2920887,
+      "external_connectors_accessed": false,
+      "sha256": "129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5",
+      "actual_pixels": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "operation": "replace_library_file",
+      "status": "succeeded",
+      "path": "/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "file_id": "file_00000000080481f890b4530f414d3b6e",
+      "library_file_id": "libfile_675427d391c081919839356146737b36",
+      "file_name": "马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "current_version_number": 1,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "1"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2887142,
+      "external_connectors_accessed": false,
+      "sha256": "e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f",
+      "actual_pixels": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+      "file_id": "file_00000000926c81fd9971c9a9bb7b5496",
+      "library_file_id": "libfile_b20ddf6f21a4819190fb59da840c5b0e",
+      "file_name": "马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2960833,
+      "sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+      "actual_pixels": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+      "file_id": "file_00000000bd5881f6951f4ce8b6dc64d8",
+      "library_file_id": "libfile_2b1d8fad2c2081919134ba4d1a88eb72",
+      "file_name": "马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2719454,
+      "sha256": "3cbd2523001c744ce66c1df3e39bda437e77e283f26162ab76b0975ca4edd232",
+      "actual_pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-新框完整UI候选1190(6).png",
+      "file_id": "file_0000000061f0823091f1ea327bc011e8",
+      "library_file_id": "libfile_2509278813b881919fda6a0287fefb10",
+      "file_name": "01-黑铁-新框完整UI候选1190(6).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3726101,
+      "sha256": "9897d95c1581afadf4634be31300bb7d3514cb0361a2e8f3f1ed2d34f1a12022",
+      "actual_pixels": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-新框完整UI候选1190(3).png",
+      "file_id": "file_00000000995c81fd82ce7cc16ac58b99",
+      "library_file_id": "libfile_fb656ae71e4c819181f991299bb1f964",
+      "file_name": "02-青铜-新框完整UI候选1190(3).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3866427,
+      "sha256": "2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24",
+      "actual_pixels": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/03-白银-新框完整UI候选1190.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-新框完整UI候选1190(5).png",
+      "file_id": "file_000000003b8481f6bb4900173bdc3b57",
+      "library_file_id": "libfile_1fefbcb0c91c8191a36dcf101da84be9",
+      "file_name": "03-白银-新框完整UI候选1190(5).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3689842,
+      "sha256": "8efaf831bdc8bb16e0efc857b1205c07472dbb896f1291b9c069ecfee45ae423",
+      "actual_pixels": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-新框完整UI候选1190(6).png",
+      "file_id": "file_00000000419c81f8bf2633bb3ef4ceb6",
+      "library_file_id": "libfile_be503611c0b08191a306e814d0b0ea8e",
+      "file_name": "04-黄金-新框完整UI候选1190(6).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3811556,
+      "sha256": "d9e8ef2eae7b0e931fabb25958cd93542ead9b2f0d186ec5575ff9a44e850a00",
+      "actual_pixels": [
+        1190,
+        1786
+      ]
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/四阶新框完整UI-候选总览.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/四阶新框完整UI-候选总览(6).png",
+      "file_id": "file_00000000488c81f8a73bd95b90c1c55d",
+      "library_file_id": "libfile_554fd88eb7c48191bab0b7ae221e67c7",
+      "file_name": "四阶新框完整UI-候选总览(6).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2648627,
+      "sha256": "ff5169de6ba23f49cff2d841e940b762ecb4722093fa4425e41fa1a1c2f5bae8",
+      "actual_pixels": [
+        1920,
+        775
+      ]
+    }
+  ]
+}

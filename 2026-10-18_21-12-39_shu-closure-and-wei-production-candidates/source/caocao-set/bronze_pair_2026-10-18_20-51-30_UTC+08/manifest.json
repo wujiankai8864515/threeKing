@@ -1,0 +1,50 @@
+{
+  "assets": [
+    {
+      "path": "caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+      "sha256": "a8a040cc42bc9c499a79af601e85dd46c74f45bf4d3970d276cef1f12ad63dfc",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "method": "builtin_image_gen",
+      "prompt": "prompt-0.txt",
+      "actual_reference_files": [
+        {
+          "path": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+          "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+          "role": "Cao Cao identity and clean material style"
+        }
+      ],
+      "status": "technical_candidate_pass",
+      "user_final": false,
+      "independent_qa_at": "2026-10-18T21:00:25+08:00"
+    },
+    {
+      "path": "caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-铜传记-招募有人应-候选1.png",
+      "sha256": "c6eee2943f2c3c7078225eee5b10211c300c39a9bc7db0883f313bba99d31746",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "method": "builtin_image_gen",
+      "prompt": "prompt-1.txt",
+      "actual_reference_files": [
+        {
+          "path": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+          "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+          "role": "Cao Cao identity and clean material style"
+        }
+      ],
+      "status": "technical_candidate_pass",
+      "user_final": false,
+      "independent_qa_at": "2026-10-18T21:00:25+08:00"
+    }
+  ],
+  "source": "Romance chapter 5; original costumes/imagery",
+  "notes": [
+    "Two images generated concurrently, one call each.",
+    "Card foreground peripheral backs softened; main protagonist and earth clear.",
+    "Story near table/cloth, hands and protagonist clear; background banners decorative original motifs, not historical verified flags."
+  ]
+}

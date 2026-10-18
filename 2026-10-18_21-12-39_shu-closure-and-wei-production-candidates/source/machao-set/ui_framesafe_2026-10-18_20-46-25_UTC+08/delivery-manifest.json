@@ -1,0 +1,276 @@
+{
+  "hero_id": "machao",
+  "status": "root_approved_and_independent_QA_passed",
+  "library_uploaded": true,
+  "files": [
+    {
+      "name": "01-黑铁-新框完整UI候选1190.png",
+      "bytes": 3726101,
+      "sha256": "9897d95c1581afadf4634be31300bb7d3514cb0361a2e8f3f1ed2d34f1a12022",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "02-青铜-新框完整UI候选1190.png",
+      "bytes": 3866427,
+      "sha256": "2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "03-白银-新框完整UI候选1190.png",
+      "bytes": 3689842,
+      "sha256": "8efaf831bdc8bb16e0efc857b1205c07472dbb896f1291b9c069ecfee45ae423",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "04-黄金-新框完整UI候选1190.png",
+      "bytes": 3811556,
+      "sha256": "d9e8ef2eae7b0e931fabb25958cd93542ead9b2f0d186ec5575ff9a44e850a00",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "art-native-slot-mask.png",
+      "bytes": 6922,
+      "sha256": "8e3fe2eabccea8d2600c25fb5d654138f20b21cc761d06d9cd3b29d823502f54",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "L"
+    },
+    {
+      "name": "bronze-complete-480.png",
+      "bytes": 751017,
+      "sha256": "fc0fe326620daa2ecc41993208cf023e2255dea3a006d0520275ccf718d3011a",
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-empty-generated-1024.png",
+      "bytes": 1764323,
+      "sha256": "864a53c5422dba1c07b00c6c62915dfd47a635c8086e88fdb251951616933c02",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-text-overlay-1190.png",
+      "bytes": 46126,
+      "sha256": "7ff5d56f662594e026e44b5b56cd778f791563da63efa496f0e1a99efda2c6cb",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "bronze-text-overlay.svg",
+      "bytes": 3478,
+      "sha256": "29534201252d4d8386eb343c4e1aded1bb8dbeb8e5f72ee21ab74000cb1a0e87"
+    },
+    {
+      "name": "build_text.py",
+      "bytes": 2404,
+      "sha256": "574be9475b48f6246e449da3cf67d637a4ed13826c7cdd07d4b80a01d1c3fd34"
+    },
+    {
+      "name": "compose_cards.py",
+      "bytes": 4524,
+      "sha256": "bbb34d4e46064004ce338a1877646adbf70b19a9700af5bc5d575a056150286b"
+    },
+    {
+      "name": "composition-manifest.json",
+      "bytes": 4071,
+      "sha256": "9f94043d562bdba18fb3db2686de0fd8d0996ec475154a8172e469d1830c13ec"
+    },
+    {
+      "name": "framed-QA.json",
+      "bytes": 1930,
+      "sha256": "e906329acc6c994ff74465775de136464bf9199271c5fcfcfd6f499410040396"
+    },
+    {
+      "name": "gold-complete-480.png",
+      "bytes": 749176,
+      "sha256": "765ca39f0b1953a745819813efb6a9d81a39a8cf51a20f6e487d381e5e03ae8c",
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-empty-generated-1024.png",
+      "bytes": 1826577,
+      "sha256": "e42e3d1b05be01559fc538f32ff4d7a117f749932b82eb48977d58146ffe05b9",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-frame-panels-lowered-1024.png",
+      "bytes": 1753200,
+      "sha256": "3e5fd790ce75435ed556abcbb8f34dccdebe43235e232e66fdb869eee837b276",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-frame-without-passive-panels-1024.png",
+      "bytes": 1654526,
+      "sha256": "47323ece136b9e77666ed539b982d6fb857bf62673ec8f90bcc4b19f2dab501f",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-passive-panels-lowered-layer-1024.png",
+      "bytes": 157752,
+      "sha256": "47ccbb94b02084a56022e8c929a0c3bdabda02e16ef8d57dd84c8693c596a7ba",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-text-overlay-1190.png",
+      "bytes": 63438,
+      "sha256": "4a6125135ade7bc123534b4af960408da443cbf379b1b4274e84b7714e8e4dac",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "gold-text-overlay.svg",
+      "bytes": 5034,
+      "sha256": "594367682a98365259e1ac4736fb987a85da7386d8d20c451a7cd43483bfee05"
+    },
+    {
+      "name": "iron-complete-480.png",
+      "bytes": 731005,
+      "sha256": "2da2b5b7ab0232d92265edf572300d17648da819ff69a1beb70fd0f9d6f5ca60",
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-empty-generated-1024.png",
+      "bytes": 1678402,
+      "sha256": "04d219407e9713dca1d647ec3138a2f23ef72551977f92940f13bef5b81a897d",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-text-overlay-1190.png",
+      "bytes": 46126,
+      "sha256": "7ff5d56f662594e026e44b5b56cd778f791563da63efa496f0e1a99efda2c6cb",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "iron-text-overlay.svg",
+      "bytes": 3478,
+      "sha256": "29534201252d4d8386eb343c4e1aded1bb8dbeb8e5f72ee21ab74000cb1a0e87"
+    },
+    {
+      "name": "silver-complete-480.png",
+      "bytes": 731823,
+      "sha256": "6f123568b4ce0bb105c1b2a2b1280f808ea909f73206df167a46853e925224cc",
+      "pixels": [
+        480,
+        720
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-empty-cleanalpha-1024.png",
+      "bytes": 1733860,
+      "sha256": "c36b4ec2addd4a05393da377e186d4ff7635b055adeba1f4d86d5b2631f2e92d",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-text-overlay-1190.png",
+      "bytes": 56363,
+      "sha256": "f8740e203eeaf57c1e8c1747e305f9f1bf2093010c0d41d166a0ab8c5cddb07c",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "mode": "RGBA"
+    },
+    {
+      "name": "silver-text-overlay.svg",
+      "bytes": 4256,
+      "sha256": "fff46472a74ae068655ebf76841104dd20f7511d36cd22c22efab9e2ac641bf4"
+    },
+    {
+      "name": "source-map.json",
+      "bytes": 1335,
+      "sha256": "8660b12b2da1cd3c0e5655590c5a2836e1cea0f2048b6e123e1cac139223d3fc"
+    },
+    {
+      "name": "ui-change-spec.json",
+      "bytes": 862,
+      "sha256": "b6d91fcdeac55f06311817b8fbb80b5116ea528b24d36f4c4dca2d02a29188c9"
+    },
+    {
+      "name": "ui-config.json",
+      "bytes": 1337,
+      "sha256": "f5921b917f638f5ce3a6db3968dae424c7b64dc1f75bf4fd93774cea3f51f78c"
+    },
+    {
+      "name": "四阶新框完整UI-候选总览.png",
+      "bytes": 2648627,
+      "sha256": "ff5169de6ba23f49cff2d841e940b762ecb4722093fa4425e41fa1a1c2f5bae8",
+      "pixels": [
+        1920,
+        775
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "source_mapping": "source-map.json",
+  "native_verification": "composition-manifest.json",
+  "framed_checks": "framed-QA.json",
+  "library_manifest": "/workspace/scratch/3f82ff2b3f81/machao-set/library-complete_2026-10-18_20-56-19_UTC+08/马超-全套素材-Library清单.json"
+}

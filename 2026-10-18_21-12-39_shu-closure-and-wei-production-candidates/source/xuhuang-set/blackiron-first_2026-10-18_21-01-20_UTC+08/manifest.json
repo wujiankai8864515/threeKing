@@ -1,0 +1,17 @@
+{
+  "hero": "徐晃",
+  "stage": 1,
+  "status": "identity_candidate_independent_QA_pending",
+  "source": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+  "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+  "native_dimensions": [
+    1024,
+    1536
+  ],
+  "actual_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+    "role": "broad planar clean painting/material only; no identity, mount, weapon, scene copying"
+  },
+  "self_QA": "Independent new wide bearded face, both axe grips read and continuous shaft; left axe partly outside source deliberately; horse left muzzle may be too close to lower-left frame, actual-frame check pending. Armour highlights mostly rivets and edges; patterned horse planes risk recorded."
+}

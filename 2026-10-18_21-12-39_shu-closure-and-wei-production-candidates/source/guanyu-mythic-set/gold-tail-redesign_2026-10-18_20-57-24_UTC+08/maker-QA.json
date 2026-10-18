@@ -1,0 +1,14 @@
+{
+  "status": "maker_QA_pass_candidate_pending_independent_review",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "native_crops_no_resampling": true,
+  "tool": "built-in image_gen once",
+  "tail": "Whole old tangled glossy tail replaced with deep red-brown broad flowing locks. Old white/yellow bead string absent in native crop; hair retains narrow directional fibers but no isolated bright glitter observed. Silhouette intentionally calmer under new authorization.",
+  "invariants": "Full view and native face/hand, complete weapon-axis, horse body/hoof, dragon reviewed. Mature face/back-turn, visible dragging grip and other hand, straight continuous guandao, body posture and giant hoof, green dragon and caravan gate narrative retained without new hard structural issue.",
+  "limits": "Original body stylization and legitimate metal highlights retained. No claim of global material cleanup, pixel-perfect identity or resolution improvement.",
+  "uploaded": false,
+  "additional_calls_authorized_or_executed": false
+}

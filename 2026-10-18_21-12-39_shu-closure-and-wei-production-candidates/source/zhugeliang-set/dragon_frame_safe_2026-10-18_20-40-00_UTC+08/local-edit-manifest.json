@@ -1,0 +1,35 @@
+{
+  "purpose": "move only mythic beast head into UI visible safe region, preserve protagonist and equipment",
+  "tool": "builtin_imagegen",
+  "historical_candidates_retained": true,
+  "user_final_approval": false,
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "sha256": "440335d4acd737e3d8cde76a8640a7912faf1aa94562d57f03963c7cffb62bb3",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "independent_and_root_candidate_pass"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+      "sha256": "1b917bd3565c6d18594eaaf86cbdcc8963e03c4b3158d430253fa74c87a9f418",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "independent_and_root_candidate_pass"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-卧龙升阶入框-局修1.png",
+      "sha256": "41656e71ae3394bc61c80082a1053770d69139aa2a0ff0666a7475f454b396a1",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "rejected_UI_muzzle_covered_superseded_by_local2"
+    }
+  ]
+}

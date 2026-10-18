@@ -1,0 +1,59 @@
+{
+  "hero": "dianwei",
+  "files": [
+    {
+      "type": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜-一手定大旗-候选1.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "bcb5cd23548648258ce33c169507b599f46c3b62af1bb8b17ddc6eba7545a84b",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+          "role": "approved Dian Wei identity/build and painting language; different stage/pose/scene",
+          "actually_viewed": true,
+          "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae"
+        }
+      ],
+      "prompt": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/bronze-prompt.txt",
+      "status": "pending_independent_QA",
+      "library_uploaded": false
+    },
+    {
+      "type": "story",
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-黑铜传记-夏侯引荐-候选1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "982bc79c98421ee8ce9fdd6ef82b8de08a32e04c08d4bc328547b410e474e0bc",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+          "role": "approved Dian Wei identity/build and painting language; different stage/pose/scene",
+          "actually_viewed": true,
+          "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+          "role": "story only, Cao Cao main foreground face identity for secondary Cao; pose/palace/Dong Zhuo excluded",
+          "actually_viewed": true,
+          "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53"
+        }
+      ],
+      "prompt": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/story-prompt.txt",
+      "status": "pending_independent_QA",
+      "library_uploaded": false
+    }
+  ],
+  "maker_QA": {
+    "method": "built-in image_gen, one call each; no additional repair calls",
+    "chapter_source": "https://zh.wikisource.org/zh/三國演義/第010回",
+    "original_adaptation": "costume, camp court layout, grounded socket/rack and mythic stone ancestor; no historical ethnic lineage claim",
+    "card_observed": "Full image and native face, grip/free hand, pole/base, materials viewed. Face/build consistent, 2 hands, solid socket and stable stance. Straight pole segments appear continuous. Actual grip x~780..870 was checked against real bronze frame; full grip remains visible. Stone ancestor central, no extra physical arms.",
+    "story_observed": "Full image and native hero face/hands, halberds/rack, Cao/flag viewed. Empty hero hands, 2 racked halberds, two soldiers resisting whole leaning straight pole, Cao observes. Foreground wood rack clear but nearest bottom soil/rocks visibly defocused: fails requested foreground clarity. Xiahou and Cao faces may be too similar due supporting reference; sent independent audit for judgment.",
+    "notes": "Native card1024x1536 and story1536x1024, no upscaling. Original stone ancestor can be visually strong; lower-tier intensity subject to root aesthetic approval. No autonomous extra image generation."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "status": "technical_candidates_pending_user_acceptance",
+  "native_portrait": [
+    1024,
+    1536
+  ],
+  "native_story": [
+    1536,
+    1024
+  ],
+  "complete_UI": [
+    1190,
+    1786
+  ],
+  "ui_note": "art pasted1:1; frame raster enlarged; text independent; skill names and numbers proposed demonstrations",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000fe7c81f5a66d95e0674c423e",
+      "library_file_id": "libfile_de295a32279c8191bb55dc198b7bcb2c",
+      "file_name": "庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000035a081f58a17a83c035a97a7",
+      "library_file_id": "libfile_695083b1b4b48191b429beb3a7330e8d",
+      "file_name": "庞统-青铜-连环定计-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-青铜-连环定计-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-传记-连舟献策-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000000b881f593d8f2de4a8863de",
+      "library_file_id": "libfile_137c49173ba8819185e76c48306aa932",
+      "file_name": "庞统-传记-连舟献策-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-传记-连舟献策-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000084a881f58d33c27844f08680",
+      "library_file_id": "libfile_1becc6f583f081919e34343359bef998",
+      "file_name": "庞统-白银-百里展才-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-白银-百里展才-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c91881f5bb761dedabb1435f",
+      "library_file_id": "libfile_45119efc1f7481918a9e962bb8fb770b",
+      "file_name": "庞统-铜银传记-前景陈情人局修-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-铜银传记-前景陈情人局修-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-黄金-凤策开蜀-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004a8c81f583de6762d9069a5e",
+      "library_file_id": "libfile_7fbd4403f63c8191ae7eab8504c04cce",
+      "file_name": "庞统-黄金-凤策开蜀-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-黄金-凤策开蜀-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-传记-三策取蜀-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000cd9481f5a5a6af0daaf643d2",
+      "library_file_id": "libfile_722c3da7d36c8191a016d097ff813a06",
+      "file_name": "庞统-传记-三策取蜀-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/庞统-传记-三策取蜀-候选1.png",
+      "current_version_number": 0,
+      "receipt": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/source_library_2026-10-18_20-53-40_UTC+08/results.json"
+    }
+  ]
+}

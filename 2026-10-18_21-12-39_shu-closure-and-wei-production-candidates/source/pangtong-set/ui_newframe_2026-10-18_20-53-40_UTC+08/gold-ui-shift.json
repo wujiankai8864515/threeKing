@@ -1,0 +1,18 @@
+{
+  "panel_bbox_native": [
+    660,
+    915,
+    939,
+    1170
+  ],
+  "translation_native": [
+    0,
+    -230
+  ],
+  "target_translation_px": [
+    0,
+    -267.3
+  ],
+  "reason": "Reveal cylinder gripping hand; keep panel sizes and right edge join; root authorized approximate300 targetpx",
+  "pure_unchanged": true
+}

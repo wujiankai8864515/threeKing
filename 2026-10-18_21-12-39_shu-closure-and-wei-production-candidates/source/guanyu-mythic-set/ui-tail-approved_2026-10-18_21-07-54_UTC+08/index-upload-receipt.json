@@ -1,0 +1,21 @@
+{
+  "operation": "create_library_file",
+  "status": "succeeded",
+  "path": "/关羽-全套素材-Library索引.json",
+  "file_id": "file_00000000fe4081fdbe3b0c629655b672",
+  "library_file_id": "libfile_1e8c15753efc8191be3facb7d85cd6e4",
+  "file_name": "关羽-全套素材-Library索引.json",
+  "current_version_number": 0,
+  "restored_from_version_number": null,
+  "xattrs": [
+    {
+      "name": "user.library-file-version",
+      "value": "0"
+    }
+  ],
+  "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+  "mime_type": "application/json",
+  "library_artifact_type": "other",
+  "file_size_bytes": 12155,
+  "external_connectors_accessed": false
+}

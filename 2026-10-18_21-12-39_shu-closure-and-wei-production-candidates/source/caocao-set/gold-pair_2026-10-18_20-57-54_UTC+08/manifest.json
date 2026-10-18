@@ -1,0 +1,71 @@
+[
+  {
+    "asset_type": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-黄金-横槊江天-候选1.png",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-7484eddf-b3b6-4a78-a6e9-076e808a4cf5.png",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "f3b08e4d53b02e45e25fc910c842b20cea3d991be22a620c54881bce2781e6c2",
+    "method": "builtin_image_gen",
+    "rescale_or_retouch": "none; native copy",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+        "role": "approved Cao identity and clean planar drawing language only; no short-knife/pose/scene inheritance",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass_root_selection_pending",
+    "user_final_approved": false,
+    "creator_native_review": "full image, thumbnail, face, both grips/full pole, cloth, creature and foreground personally inspected",
+    "creator_observations": [
+      "脸身份延续，髯较黑铁略浓；双握横槊全轴原生连续，无分叉。",
+      "螣蛇头鼻靠右星栏区域需实际框检查；并未执行像素安全坐标到位。",
+      "衣低对比斜细纹仍在，水面亮部对应月光和灯火，未见跨面白黄闪粒。近桌浅虚为卡牌景深。"
+    ],
+    "independent_review": "Both main spear straight single axis and two grips pass; story rear horizontal rod independently attaches ship rail/lantern area. Actual frozen gold frame leaves serpent eye nose mouth visible, approximately ten-plus pixels mouth clearance. Conservative new safety box not met but no actual overlap; no additional generation recommended."
+  },
+  {
+    "asset_type": "bio",
+    "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-银金传记-置酒会诸将-候选1.png",
+    "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-108b13aa-8234-4e58-b013-486b3b7c50ef.png",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "dc61cdfa5875dd4b61f70f91944d8261eb8d1dc258f5f2f3a96d868364fc7c17",
+    "method": "builtin_image_gen",
+    "rescale_or_retouch": "none; native copy",
+    "actual_references": [
+      {
+        "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+        "role": "approved Cao identity and clean planar drawing language only; no short-knife/pose/scene inheritance",
+        "dimensions": [
+          1024,
+          1536
+        ],
+        "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+        "personally_viewed": true
+      }
+    ],
+    "status": "independent_technical_candidate_pass_root_selection_pending",
+    "user_final_approved": false,
+    "creator_native_review": "full image, thumbnail, face, both grips/full pole, cloth, creature and foreground personally inspected",
+    "creator_observations": [
+      "双握主槊从左下尾帽到右上刃尖为一条直轴；取槊升起与卡横持完成状态不同。",
+      "左后带铜环横杆是孤立背景杆件，疑船边装饰栏杆而非主槊；留audit辨认，不隐瞒。",
+      "近位文武脸双手可读，前方脚/甲板清；最左边桌裙与最右边柱浅虚，需按非关键边缘道具审留。",
+      "衣低对比细纹保留；神兽后景更弱，双翼/短盘但头型鸟化感留给root审美。"
+    ],
+    "independent_review": "Both main spear straight single axis and two grips pass; story rear horizontal rod independently attaches ship rail/lantern area. Actual frozen gold frame leaves serpent eye nose mouth visible, approximately ten-plus pixels mouth clearance. Conservative new safety box not met but no actual overlap; no additional generation recommended."
+  }
+]

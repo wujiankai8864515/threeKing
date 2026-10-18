@@ -1,0 +1,45 @@
+{
+  "hero_id": "zhangliao",
+  "asset_id": "zhangliao_card_1",
+  "title": "濮阳横锋",
+  "chapter": 11,
+  "current_candidate": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+    "sha256": "3f5e3a0a886a05bdd123d049191657ed732339ce79986245af6bead7f91aba27",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "PNG",
+    "mode": "RGB"
+  },
+  "parent_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_axisfix_2026-10-18_20-53-38_UTC+08/张辽-黑铁-v2-直杆收握局修候选.png",
+    "sha256": "f6a6e7196623ea5ea2748480b8963e6c1d071f2cc9bfa2ffdc94a766bae11f51",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "PNG",
+    "mode": "RGB"
+  },
+  "reference_role": "same identity, horse, armor and scene; invalid diagonal weapon pose explicitly not inherited",
+  "builtin_calls_in_this_directory": 1,
+  "source_history": "v1 original shaft curved/right hand unsafe; v2 one local edit hand safe but shaft still curved; v3 separately authorized near-horizontal new pose",
+  "status": "self_qa_passed_pending_independent",
+  "geometry_observation": "socket approx(326,511) through both grips to tail shaft(966,523) forms continuous straight shallow slope; independent butt cap; no curved middle",
+  "key_hands": "left approxx408..465,y488..536; rightx684..744,y495..541; both in safe area",
+  "qa": "full native image and 7 native crops plus read-only axis diagnostic actually viewed",
+  "retained": [
+    "rectangular mature face/short straight beard",
+    "grey lamellar/purple-brown cloak",
+    "chestnut horse and separate reins",
+    "Lu Bu period Puyang no Wei lettering",
+    "stage1 faint feather clouds"
+  ],
+  "residual_notes": [
+    "topknot slightly above y150 but far from badge/right star; no full strict head-box claim",
+    "horse/weapon natural edge crop; no image resizing"
+  ],
+  "uploaded": false
+}

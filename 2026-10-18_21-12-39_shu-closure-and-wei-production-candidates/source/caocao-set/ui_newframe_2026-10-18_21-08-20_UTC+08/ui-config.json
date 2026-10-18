@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "曹操",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "应势",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "曹操",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "应势",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "曹操",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "应势",
+        "level": "+2"
+      },
+      {
+        "name": "令威",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "曹操",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "应势",
+        "level": "+2"
+      },
+      {
+        "name": "令威",
+        "level": "+2"
+      },
+      {
+        "name": "远御",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

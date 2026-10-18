@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+    "status": "independent_content_candidate_pass_frame_QA_pending"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+    "status": "independent_content_candidate_pass_frame_QA_pending"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+    "status": "independent_content_candidate_pass_frame_QA_pending"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png",
+    "status": "phoenix_frame_safe_candidate_QA_pending"
+  }
+}

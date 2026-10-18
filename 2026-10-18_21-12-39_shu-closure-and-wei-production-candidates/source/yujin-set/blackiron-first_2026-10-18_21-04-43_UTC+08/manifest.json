@@ -1,0 +1,140 @@
+{
+  "hero_id": "yujin",
+  "name": "于禁",
+  "asset_type": "black_iron_identity_candidate",
+  "status": "candidate_pending_independent_audit_not_user_approved",
+  "tool": "builtin image_gen.imagegen",
+  "mode": "generate_with_style_reference",
+  "requested_dimensions": [
+    1024,
+    1536
+  ],
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a69e4e31-3f3d-4c8e-934e-b99a017d61ce.png",
+  "source_sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+  "saved_path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+  "saved_sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+  "source_identical_to_saved": true,
+  "prompt_file": "prompt.txt",
+  "prompt_sha256": "b453f2817e9a01d8e1ad27d14388b436de05d8f831d49279f15926da838f4690",
+  "research_file": "research-brief.json",
+  "research_sha256": "599ce881878ece8f0790e1c9bdfa508f0cb2c9321876ccc738ab45a3ae79b871",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+      "role": "Painting style and materials only; identity explicitly excluded"
+    }
+  ],
+  "inspected_layout_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/01-黑铁-新框完整UI候选1190.png",
+    "sha256": "882e701fadf0dcbb8ef318dc5285aee13f6a1ea0151502654d8180c5550f74a8",
+    "attached_to_generation": false,
+    "role": "Frozen UI safety inspected before prompt; not used for character identity"
+  },
+  "saved_at_beijing": "2026-10-18T21:04:43+08:00",
+  "independent_audit_requested_from": [
+    "/root/generate_black_iron_guanyu",
+    "/root/audit_image_quality_causes"
+  ],
+  "derivatives": [
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/face-native100.png",
+      "xywh": [
+        350,
+        115,
+        190,
+        235
+      ],
+      "native_scale": 1,
+      "sha256": "b615b14a69f8ac259bd2716456784ec40e7c1d4ac7cee0e895bff3eadc7b63d8"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/both-hands-roster-native100.png",
+      "xywh": [
+        400,
+        505,
+        350,
+        165
+      ],
+      "native_scale": 1,
+      "sha256": "3736306a842d0a8acadcbba4baa08ee3e6aaaf60c4e16b8901f159f710a63c29"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/weapon-full-axis-native100.png",
+      "xywh": [
+        807,
+        30,
+        115,
+        1240
+      ],
+      "native_scale": 1,
+      "sha256": "85b47155f9f55add319e958b980d9bc0c2bf8baed8ee7612066e2b8772e7fc48"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/weapon-head-native100.png",
+      "xywh": [
+        815,
+        30,
+        105,
+        315
+      ],
+      "native_scale": 1,
+      "sha256": "6d688f9ca42a20e08d33dcbe46ca5b8b75e588fae374e636de1b0616e9b7ada4"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/weapon-rack-native100.png",
+      "xywh": [
+        755,
+        675,
+        250,
+        665
+      ],
+      "native_scale": 1,
+      "sha256": "5b9e8d170dd79bad465b004ca2d3f05b20e86f70fd48dd71c2f1b674c79e3185"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/cloth-native100.png",
+      "xywh": [
+        135,
+        870,
+        510,
+        365
+      ],
+      "native_scale": 1,
+      "sha256": "bead07255ceb4f5c3c3c0dcc9940a4804fe3e97d3b6ff70c4f628d30cddb21f0"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/armor-native100.png",
+      "xywh": [
+        260,
+        325,
+        365,
+        210
+      ],
+      "native_scale": 1,
+      "sha256": "f5dca2ec3044e618fbdefb89930ab0a4024d7514c46751bb733fc05f941ab327"
+    },
+    {
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/feet-native100.png",
+      "xywh": [
+        245,
+        1190,
+        430,
+        240
+      ],
+      "native_scale": 1,
+      "sha256": "151009e38041143f0289a06c2ca4078ae23c2dfefce19c79645d6531ea0b1fb8"
+    }
+  ],
+  "image_manipulation": "Only unscaled rectangular inspection crops using ImageMagick; main art source bytes unchanged.",
+  "initial_watchpoints": [
+    "Actual spear is closer to side and higher than specified; frozen frame may cover blade or shaft.",
+    "Matte cloth still has many fine scuff lines inherited from style reference; needs material audit."
+  ],
+  "approval_notes": "Technical inspection is not aesthetic approval. No further six images generated."
+}

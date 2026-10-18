@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "source_status": "independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "庞统",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "伏焰",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+      "source_status": "independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "f1368aed3c3970239d5ba6a9d393e7105844fd0f5ff6f7f928977f4208d41c98",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "庞统",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "伏焰",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+      "source_status": "independent_content_candidate_pass_frame_QA_pending",
+      "source_sha256": "423de2dab5765a40395274ebcef40efda272bafebf981bb8c233fe581941f230",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "庞统",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "伏焰",
+            "level": "+2"
+          },
+          {
+            "name": "引燎",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png",
+      "source_status": "phoenix_frame_safe_candidate_QA_pending",
+      "source_sha256": "679ca467bc8b8566c44043e64c438915273133eefbca324cfe0229db516c6881",
+      "uncovered_native_pixels_checked": 1195928,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "庞统",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "伏焰",
+            "level": "+2"
+          },
+          {
+            "name": "引燎",
+            "level": "+2"
+          },
+          {
+            "name": "凤策",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI example names and values, not approved mechanics"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}
