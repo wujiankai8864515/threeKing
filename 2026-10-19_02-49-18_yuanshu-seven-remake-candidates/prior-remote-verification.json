@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "e0d5c6416d8c07258036cc968aaecae55d450dca",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9783,
+  "sequential_copy_sha256_checked": true,
+  "hero": "zuoci"
+}

@@ -1,0 +1,130 @@
+{
+  "hero": "袁术",
+  "faction": "群",
+  "status": "候选待审，非用户通过",
+  "engine": "built-in image_gen",
+  "sources": [
+    "https://zh.wikisource.org/zh/三國演義/第005回",
+    "https://zh.wikisource.org/zh/三國演義/第015回",
+    "https://zh.wikisource.org/zh/三國演義/第017回"
+  ],
+  "art_resampling": "none; cards 1024x1536 at1:1 offset84,145 on1190x1786",
+  "assets": [
+    {
+      "id": "01-黑铁-南阳督粮",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/01-黑铁-南阳督粮.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "74b534298a3e0dfa50ae8712960f1041a9ce9baa3c4032b5eee7e7d872d9b28e",
+      "target_card": null,
+      "library_file_id": "libfile_1df6dd614bcc8191b72665810b6e9899"
+    },
+    {
+      "id": "02-青铜-玉玺入掌",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/02-青铜-玉玺入掌.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "733cf0d0a391d03ac5de1b5f3e673663b218c9d93a74b6fba0141fc0a8a773d8",
+      "target_card": null,
+      "library_file_id": "libfile_1c94d01d662c819186b1fcda42dd8030"
+    },
+    {
+      "id": "03-白银-仲氏僭号",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/03-白银-仲氏僭号.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "29bf4dc726f4418cd40925484cbe8b3c82e148063b171c267a66665904e8dd77",
+      "target_card": null,
+      "library_file_id": "libfile_2dd560a7b6688191941473aea6f7960e"
+    },
+    {
+      "id": "04-黄金-七军帝胄",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/04-黄金-七军帝胄.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "5858ca20165ddef6bac3636a011a7099919c40fc93d5f80013bffc943a4b4aba",
+      "target_card": null,
+      "library_file_id": "libfile_69f8716573b88191aea47505898ec663"
+    },
+    {
+      "id": "05-传记-印换江东兵",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/05-传记-印换江东兵.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "ccc0da05267f2602babec43618e89a40d710b7942c394e679ccbb0a71a5ab6e9",
+      "target_card": "card02",
+      "library_file_id": "libfile_8945a04e5d14819180212e4522daa9d5"
+    },
+    {
+      "id": "06-传记-一意称尊",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/06-传记-一意称尊.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "056870e8bd1a3411c46dad3377aa909c9f21eb2461b8b471647c330ca58b3dcb",
+      "target_card": "card03",
+      "library_file_id": "libfile_3e6104f7a74881918e7f3e5ac33c0f94"
+    },
+    {
+      "id": "07-传记-七路发兵",
+      "raw": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/yuanshu-set/remake_20261019_023209_UTC+08/candidates/07-传记-七路发兵.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "a53c09e141cbcd7310bb31d827b49e6a31387e9efd77d1f3d1fe21a4de770546",
+      "target_card": "card04",
+      "library_file_id": "libfile_e4ac2e3bdbc08191b66f4a9ddeb6ec2a"
+    }
+  ],
+  "overview": {
+    "path": "yuanshu-set/remake_20261019_023209_UTC+08/袁术-四阶三传记-重做总览.png",
+    "library_file_id": "libfile_abeb2cf9179c81919cacd1166c95634b"
+  }
+}
