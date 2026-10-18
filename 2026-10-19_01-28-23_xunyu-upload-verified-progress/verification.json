@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T01:28:23.443921+08:00",
+  "verified_asset_commit": "ce6439cf6498f448be7eaf510ebbbfbd0a3640e5",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 7254,
+  "sequential_copy_sha256_checked": true,
+  "hero": "xunyu",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
