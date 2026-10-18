@@ -1,0 +1,89 @@
+{
+  "archived_at": "2026-10-19T02:59:43.955424+08:00",
+  "entries": [
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/README-小包下载说明.txt",
+      "original_name": "README-小包下载说明.txt",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/README-小包下载说明.txt",
+      "sha256": "564f7bfa43f8511b2eeb41758fda72dd6291d0f81f88c4871276658f29d206fb",
+      "original_sha256": "564f7bfa43f8511b2eeb41758fda72dd6291d0f81f88c4871276658f29d206fb",
+      "bytes": 3941,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
+      "original_name": "CURRENT40.json",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
+      "sha256": "bda2d4d9f8b3eeb8474f91d4af8adb99593b34589e741738e50be3787548c5c5",
+      "original_sha256": "bda2d4d9f8b3eeb8474f91d4af8adb99593b34589e741738e50be3787548c5c5",
+      "bytes": 582317,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/rebuild-downloads.py",
+      "original_name": "rebuild-downloads.py",
+      "repository_path": "2026-10-19_02-54-38_CURRENT40-final-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/git-delivery-catalog/rebuild-downloads.py",
+      "sha256": "43cf3e1cb86ad18423c9be041750a885aac90e20d18a25ab2bc04ee48885ddd1",
+      "original_sha256": "43cf3e1cb86ad18423c9be041750a885aac90e20d18a25ab2bc04ee48885ddd1",
+      "bytes": 1570,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/四十英雄-280图-小包总清单.json",
+      "original_name": "四十英雄-280图-小包总清单.json",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/四十英雄-280图-小包总清单.json",
+      "sha256": "8dbd5dde4696d5567e8699d9768c48b71727da9d852c95d9b421d1b164eed0f2",
+      "original_sha256": "8dbd5dde4696d5567e8699d9768c48b71727da9d852c95d9b421d1b164eed0f2",
+      "bytes": 235754,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/README.md",
+      "original_name": "README.md",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/README.md",
+      "sha256": "6671babf4c9a772880fd95d3cbfb630bed35a483c25a9053fb4948b63bdbb643",
+      "original_sha256": "6671babf4c9a772880fd95d3cbfb630bed35a483c25a9053fb4948b63bdbb643",
+      "bytes": 729,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/小包核验结果.json",
+      "original_name": "小包核验结果.json",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/小包核验结果.json",
+      "sha256": "aa2e6a994103387caf23ced8f011a67247d74286bdb364c073e22aa4c1d74c78",
+      "original_sha256": "aa2e6a994103387caf23ced8f011a67247d74286bdb364c073e22aa4c1d74c78",
+      "bytes": 17895,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/小包交付-Library索引.json",
+      "original_name": "小包交付-Library索引.json",
+      "repository_path": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/小包交付-Library索引.json",
+      "sha256": "d744485f487036c5407195e8ac4e3cc6704d5f99c0c7638a594310b8c92b28b1",
+      "original_sha256": "d744485f487036c5407195e8ac4e3cc6704d5f99c0c7638a594310b8c92b28b1",
+      "bytes": 17996,
+      "archived_at": "2026-10-19T02:59:43.955424+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}
