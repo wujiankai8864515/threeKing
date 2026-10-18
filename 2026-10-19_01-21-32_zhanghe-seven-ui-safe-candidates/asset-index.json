@@ -1550,30 +1550,6 @@
       "supersedes": []
     },
     {
-      "original_path": "zhanghe-set/remake_20261019_010400_UTC+08/library_helpers/__pycache__/library_hosted_apps.cpython-312.pyc",
-      "original_name": "library_hosted_apps.cpython-312.pyc",
-      "repository_path": "2026-10-19_01-21-32_zhanghe-seven-ui-safe-candidates/source/zhanghe-set/remake_20261019_010400_UTC+08/library_helpers/__pycache__/library_hosted_apps.cpython-312.pyc",
-      "sha256": "ebd4ac28bc0e5913ad273cbd3207bed39537b4a751dcbb9e93a09762836fc90e",
-      "original_sha256": "ebd4ac28bc0e5913ad273cbd3207bed39537b4a751dcbb9e93a09762836fc90e",
-      "bytes": 17518,
-      "archived_at": "2026-10-19T01:21:32.262958+08:00",
-      "source_bytes_preserved": true,
-      "status": "candidate_or_process_artifact_pending_user_review",
-      "supersedes": []
-    },
-    {
-      "original_path": "zhanghe-set/remake_20261019_010400_UTC+08/library_helpers/__pycache__/library_file_transfer.cpython-312.pyc",
-      "original_name": "library_file_transfer.cpython-312.pyc",
-      "repository_path": "2026-10-19_01-21-32_zhanghe-seven-ui-safe-candidates/source/zhanghe-set/remake_20261019_010400_UTC+08/library_helpers/__pycache__/library_file_transfer.cpython-312.pyc",
-      "sha256": "759fc3291739b880b4081f3e72656de55e67cff9cd0712b3a990bb498103e51c",
-      "original_sha256": "759fc3291739b880b4081f3e72656de55e67cff9cd0712b3a990bb498103e51c",
-      "bytes": 17688,
-      "archived_at": "2026-10-19T01:21:32.262958+08:00",
-      "source_bytes_preserved": true,
-      "status": "candidate_or_process_artifact_pending_user_review",
-      "supersedes": []
-    },
-    {
       "original_path": "generated_images/exec-117e0d31-c88c-46ed-806f-fa4388d62326.png",
       "original_name": "exec-117e0d31-c88c-46ed-806f-fa4388d62326.png",
       "repository_path": "2026-10-19_01-21-32_zhanghe-seven-ui-safe-candidates/assets/sha256/6d300173d3a988a021ffa95037c3d999e5bcb1d05ece47d791d30fe2808980c9.png",
@@ -1657,5 +1633,7 @@
       "status": "candidate_or_process_artifact_pending_user_review",
       "supersedes": []
     }
-  ]
+  ],
+  "excluded_runtime_cache_count": 2,
+  "correction": "Python runtime caches excluded from project asset archive; original source files preserved. Prior erroneous index remains in Git history."
 }
