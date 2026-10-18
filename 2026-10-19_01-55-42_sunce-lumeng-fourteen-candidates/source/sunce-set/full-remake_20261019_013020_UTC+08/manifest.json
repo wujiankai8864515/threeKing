@@ -1,0 +1,132 @@
+{
+  "hero": "孙策",
+  "status": "candidate_awaiting_user_review",
+  "tool": "built-in image_gen",
+  "source_urls": [
+    "https://zh.wikisource.org/zh/三國演義/第007回",
+    "https://zh.wikisource.org/zh/三國演義/第015回"
+  ],
+  "story_links": {
+    "bio01": "card02",
+    "bio02": "card03",
+    "bio03": "card04"
+  },
+  "native_sizes": {
+    "cards": [
+      1024,
+      1536
+    ],
+    "stories": [
+      1536,
+      1024
+    ],
+    "ui": [
+      1190,
+      1786
+    ]
+  },
+  "ui": {
+    "faction": "吴",
+    "badge": "fixed orange-red",
+    "slots": [
+      961,
+      1045,
+      1129
+    ],
+    "counts": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "troop_icon": "cavalry horse silhouette",
+    "passives": {
+      "锐意": "首次伤害新目标提高",
+      "敏枪": "换目标后短时攻速提高",
+      "开疆": "对新目标主动能量消耗降低"
+    },
+    "active_draft": "对近身单敌直刺一次；本场首次伤害该目标时提高威力。"
+  },
+  "adaptations": [
+    "22岁以上统一成年面貌，非原文当时年龄",
+    "腾潮狻猊为原创神兽，不是演义典故",
+    "黄骠战马和宽叶枪为原创造型，无原著专名",
+    "金卡最终竖枪迎归以保证刚体连续"
+  ],
+  "assets": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-01-黑铁·父阵初锋.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "9febd4fd8068b056019553ab24a089a4eca281ff17f09e951640c867116a6bbe"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-02-青铜·借兵渡江.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "7ed9213188de0bbd06638b370e06f154cddffc7e8966042573a0c4912bb256ba"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-03-白银·神亭争锋.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "a3cb8e47b9995fd14db71a1bd49dd6d5e45d8ff7f29ff07865c77f69a53199e1"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-04-黄金·孙郎开疆.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "e9f5a37a0c459037df0516f2ea06ad01e98f8575262d60d075daa228ad9bc7f8"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-传记01-质玺换前路.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "135be2cc48c61d69e5111e6fcf8cbb0155f9f2b32e17256cddfc266efa92fd7a"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-传记02-十三骑上神亭.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8413d7cbc24075c77aefac5429152ef2b9ff6c045bb25c48f1fbfaf198efd80f"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-传记03-日中归约.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e33b990e4292796ac100f8b24359602b05eec8e1faa6f29ffde3702fe11625e7"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/full-remake_20261019_013020_UTC+08/孙策-七图总览.png",
+      "size": [
+        1600,
+        1290
+      ],
+      "sha256": "8828dca5849cd89f9dce9f5133194686991c22e61b38fa171fd0bbd7e5bc090b"
+    }
+  ],
+  "library_file_ids": [
+    "libfile_e3293bc6e09c81918a1f58e545233e8c",
+    "libfile_94abdc16d29c8191aeb24ea9d31f3f09",
+    "libfile_25ba055cbfa48191b8c402d0a7f21ea7",
+    "libfile_4e72dafc87d4819192386074f3325deb",
+    "libfile_bceab14a998081919e33f056e6027e18",
+    "libfile_3412ec55d59c81919ff2be084b37aeee",
+    "libfile_181427cf62a0819189721db0c7877564",
+    "libfile_6210f37ab1888191a0a9aabaa3936321"
+  ]
+}

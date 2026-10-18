@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "吕蒙",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "敛息",
+        "level": "+1"
+      }
+    ],
+    "status": "吕蒙技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "吕蒙",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "敛息",
+        "level": "+1"
+      }
+    ],
+    "status": "吕蒙技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "吕蒙",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "敛息",
+        "level": "+2"
+      },
+      {
+        "name": "伏甲",
+        "level": "+2"
+      }
+    ],
+    "status": "吕蒙技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "吕蒙",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "敛息",
+        "level": "+3"
+      },
+      {
+        "name": "伏甲",
+        "level": "+3"
+      },
+      {
+        "name": "缴刃",
+        "level": "+3"
+      }
+    ],
+    "status": "吕蒙技能草案，单关键效果，候选待审"
+  }
+}

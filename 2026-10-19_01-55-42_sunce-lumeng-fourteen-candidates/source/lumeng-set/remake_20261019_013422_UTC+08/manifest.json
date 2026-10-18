@@ -1,0 +1,131 @@
+{
+  "hero": "吕蒙",
+  "faction": "吴",
+  "status": "候选，等待用户审阅；非通过",
+  "engine": "built-in image_gen",
+  "raw_native_card_size": [
+    1024,
+    1536
+  ],
+  "raw_native_story_size": [
+    1536,
+    1024
+  ],
+  "ui_card_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none, raw at 1:1 offset (84,145)",
+  "sources": [
+    "https://zh.wikisource.org/zh/三國演義/第038回",
+    "https://zh.wikisource.org/zh/三國演義/第067回",
+    "https://zh.wikisource.org/zh/三國演義/第075回"
+  ],
+  "assets": [
+    {
+      "id": "01-黑铁-江夏自棹",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/01-黑铁-江夏自棹.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "f202c302287e4c704b9555c4a89997175b27ae9d4fb444873c297616d99e3700",
+      "story_target": null
+    },
+    {
+      "id": "02-青铜-皖城催鼓",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/02-青铜-皖城催鼓.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "3fa2201df303eca58eedffd1d253cb42097e3572e84d96b5bc9f56821e4eb7de",
+      "story_target": null
+    },
+    {
+      "id": "03-白银-藏锋称病",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/03-白银-藏锋称病.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "a7c3de03c04915831f727513981b01d92808255a71f2c51706eecdad48ca4948",
+      "story_target": null
+    },
+    {
+      "id": "04-黄金-白衣断烽",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/04-黄金-白衣断烽.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "21f06abd5018fbbcdca0b8f0a8fb7520ed4ced3abb60abd10e678c852541376f",
+      "story_target": null
+    },
+    {
+      "id": "05-传记-等不起土山",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/05-传记-等不起土山.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "796aeee0d7002125878ab0501a1b94506c40670213d771f250cd4f23e69dd1cd",
+      "story_target": "card02"
+    },
+    {
+      "id": "06-传记-病帐听良策",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/06-传记-病帐听良策.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "eeb1f5fc16c7334feb082c8fa22077013d4fa7b4ae2be28f2367b91585ac2ad2",
+      "story_target": "card03"
+    },
+    {
+      "id": "07-传记-烽台未燃",
+      "raw": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lumeng-set/remake_20261019_013422_UTC+08/candidates/07-传记-烽台未燃.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "b23b00be92b00481c38fa3e1607ecf09e92de03c18573113870081471dbd784f",
+      "story_target": "card04"
+    }
+  ]
+}

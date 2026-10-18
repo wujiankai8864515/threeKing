@@ -1,0 +1,162 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-01-黑铁·父阵初锋.png",
+    "file_id": "file_00000000f34881fdbc6c878e0aceee6a",
+    "library_file_id": "libfile_e3293bc6e09c81918a1f58e545233e8c",
+    "file_name": "孙策-01-黑铁·父阵初锋.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3606176
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-02-青铜·借兵渡江.png",
+    "file_id": "file_00000000dbac81fd94b483d943bb3bc9",
+    "library_file_id": "libfile_94abdc16d29c8191aeb24ea9d31f3f09",
+    "file_name": "孙策-02-青铜·借兵渡江.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3835910
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-03-白银·神亭争锋.png",
+    "file_id": "file_00000000eb7081fdb8e26042551ca3d7",
+    "library_file_id": "libfile_25ba055cbfa48191b8c402d0a7f21ea7",
+    "file_name": "孙策-03-白银·神亭争锋.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3857903
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-04-黄金·孙郎开疆.png",
+    "file_id": "file_000000002cd881fd9811f7568d83026e",
+    "library_file_id": "libfile_4e72dafc87d4819192386074f3325deb",
+    "file_name": "孙策-04-黄金·孙郎开疆.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3714649
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-传记01-质玺换前路.png",
+    "file_id": "file_000000000f1081f5beffe9e98ea6d41d",
+    "library_file_id": "libfile_bceab14a998081919e33f056e6027e18",
+    "file_name": "孙策-传记01-质玺换前路.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2333821
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-传记02-十三骑上神亭.png",
+    "file_id": "file_00000000230081f8a02cbe1882733cd1",
+    "library_file_id": "libfile_3412ec55d59c81919ff2be084b37aeee",
+    "file_name": "孙策-传记02-十三骑上神亭.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3240459
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-传记03-日中归约.png",
+    "file_id": "file_00000000ead481fd8f583a8c56be8f7d",
+    "library_file_id": "libfile_181427cf62a0819189721db0c7877564",
+    "file_name": "孙策-传记03-日中归约.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2995675
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/孙策-七图总览.png",
+    "file_id": "file_00000000ae2881f8807b99028064452f",
+    "library_file_id": "libfile_6210f37ab1888191a0a9aabaa3936321",
+    "file_name": "孙策-七图总览.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2985378
+  }
+]

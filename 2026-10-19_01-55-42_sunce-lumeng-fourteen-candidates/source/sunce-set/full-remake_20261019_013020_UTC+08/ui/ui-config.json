@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "孙策",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "锐意",
+        "level": "+1"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "孙策",
+    "level": "1",
+    "advancement": "勇",
+    "skills": [
+      {
+        "name": "锐意",
+        "level": "+1"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "孙策",
+    "level": "1",
+    "advancement": "烈",
+    "skills": [
+      {
+        "name": "锐意",
+        "level": "+2"
+      },
+      {
+        "name": "敏枪",
+        "level": "+2"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "孙策",
+    "level": "1",
+    "advancement": "雄",
+    "skills": [
+      {
+        "name": "锐意",
+        "level": "+3"
+      },
+      {
+        "name": "敏枪",
+        "level": "+3"
+      },
+      {
+        "name": "开疆",
+        "level": "+3"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  }
+}
