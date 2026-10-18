@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-01-黑铁-濮阳横锋.png",
+      "file_id": "file_00000000581081fdb258771c6e991275",
+      "library_file_id": "libfile_39c67f7301608191846d704e49d83dc1",
+      "file_name": "张辽-01-黑铁-濮阳横锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3609342
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-02-青铜-解缚新途.png",
+      "file_id": "file_000000009a5c81f698e632f3de90fbd1",
+      "library_file_id": "libfile_639ea4b1152481919df8cf31ffe8a6fb",
+      "file_name": "张辽-02-青铜-解缚新途.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3583590
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-03-白银-合肥定乱.png",
+      "file_id": "file_00000000973881fd905d3b3c8b674be8",
+      "library_file_id": "libfile_7327a71c46808191aeda81178cc1dc26",
+      "file_name": "张辽-03-白银-合肥定乱.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3467702
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-04-黄金-逍遥夺势.png",
+      "file_id": "file_0000000038f081fd8d53d19a888c55c6",
+      "library_file_id": "libfile_9a523683959c819194dbc429bd3223f7",
+      "file_name": "张辽-04-黄金-逍遥夺势.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3821034
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-05-传记-白门解缚.png",
+      "file_id": "file_00000000817081fd9daf0bfdc69b0024",
+      "library_file_id": "libfile_e84b3e89df448191a7b8f1b55d83c6e8",
+      "file_name": "张辽-05-传记-白门解缚.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2488217
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-06-传记-胜夜不卸甲.png",
+      "file_id": "file_00000000201c81f8a30201e6b2769335",
+      "library_file_id": "libfile_d2ff3053fe7c81918bfb5c948eee3391",
+      "file_name": "张辽-06-传记-胜夜不卸甲.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2603558
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-07-传记-解嫌出奇兵.png",
+      "file_id": "file_00000000be9881f88f02b6ebb420d659",
+      "library_file_id": "libfile_b503bc08809081919e98de2b0a328d69",
+      "file_name": "张辽-07-传记-解嫌出奇兵.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2673978
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张辽-四阶三传记-新候选总览.png",
+      "file_id": "file_00000000886482309b337d76ad4b8ff6",
+      "library_file_id": "libfile_89e4abab34b881918473a0bfc3e61fa0",
+      "file_name": "张辽-四阶三传记-新候选总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 2720900
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

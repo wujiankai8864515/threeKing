@@ -1,0 +1,108 @@
+{
+  "hero": "张辽",
+  "generator": "built-in image_gen",
+  "native_portraits": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; native art 1:1 independent UI",
+  "myth": "苍隼为原创象征，非原著神兽",
+  "assets": [
+    {
+      "asset": "01-黑铁-濮阳横锋",
+      "output": "candidates/张辽-01-黑铁-濮阳横锋.png",
+      "source": "ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "ad11f4a7f43c4ef5333ca2acb3c9946c4400eb61bae48703af1d29464afd46a8",
+      "status": "candidate_awaiting_user",
+      "promotion_target": null
+    },
+    {
+      "asset": "02-青铜-解缚新途",
+      "output": "candidates/张辽-02-青铜-解缚新途.png",
+      "source": "ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "8c45954e793c2cfc2d4b473521f498da294f2b060144256c58dca44ac4d1efa4",
+      "status": "candidate_awaiting_user",
+      "promotion_target": null
+    },
+    {
+      "asset": "03-白银-合肥定乱",
+      "output": "candidates/张辽-03-白银-合肥定乱.png",
+      "source": "ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "d078ad4a443834bcb1d2d0a4f80fc86a8e6d0829569c0df7448bf2ed902fd038",
+      "status": "candidate_awaiting_user",
+      "promotion_target": null
+    },
+    {
+      "asset": "04-黄金-逍遥夺势",
+      "output": "candidates/张辽-04-黄金-逍遥夺势.png",
+      "source": "ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "92046e2dfb423671228ded638ef1533ec48e165d4bbae9258d9e1b65e15de243",
+      "status": "candidate_awaiting_user",
+      "promotion_target": null
+    },
+    {
+      "asset": "05-传记-白门解缚",
+      "output": "candidates/张辽-05-传记-白门解缚.png",
+      "source": "raw/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "0ae83ae07ccdeb399d1a460aaa104fcfa5db52ac56d272bfeb7ce5c0c0f4d247",
+      "status": "candidate_awaiting_user",
+      "promotion_target": 2
+    },
+    {
+      "asset": "06-传记-胜夜不卸甲",
+      "output": "candidates/张辽-06-传记-胜夜不卸甲.png",
+      "source": "raw/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2e72b77970f3a16ccdb34a16b6b5dac25282630e8d933b84bad8360dc65b76c4",
+      "status": "candidate_awaiting_user",
+      "promotion_target": 3
+    },
+    {
+      "asset": "07-传记-解嫌出奇兵",
+      "output": "candidates/张辽-07-传记-解嫌出奇兵.png",
+      "source": "raw/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "3b20355b6204c9670f591721b6c9c3a6a9c99ed2571c0ed39427ac81736a4802",
+      "status": "candidate_awaiting_user",
+      "promotion_target": 4
+    }
+  ],
+  "library_results": "library-results.json",
+  "qa": "qa/QA.md",
+  "research": "research/source-verification.md",
+  "status": "seven_candidates_and_overview_uploaded_awaiting_user"
+}
