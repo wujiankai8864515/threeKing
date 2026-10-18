@@ -1,0 +1,9 @@
+{
+  "full_image_reviewed": true,
+  "native_face_hands_weapon_cloth_reviewed": true,
+  "actual_silver_frame_grip_reviewed": true,
+  "grip": "Bow hand now x~730,y350 and completely inside actual star-column edge; all visible digits remain clear",
+  "mechanics": "Single taut string and straight arrow meet nock at draw hand, no obvious wrist/finger failure. Body and identity preserved.",
+  "remaining_risk": "Bow lower endpoint now higher (about y800 vs y1000 source); prompt forbade shrinking but output changed visible bow extent. Still reads as a full-size recurve, independent reviewer to judge. Shooting direction still right while background gate left.",
+  "status": "candidate_pending_independent_review"
+}

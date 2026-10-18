@@ -1,0 +1,63 @@
+{
+  "hero_id": "xuchu",
+  "tier": "bronze",
+  "created_at": "2026-10-18T22:04:50.171089+08:00",
+  "calls": 2,
+  "canonical_source": "https://zh.wikisource.org/zh/三國演義/第012回",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/许褚-青铜-初刀入军-候选1.png",
+      "sha256": "3b750f62322c838139cf50d6bd548f0be85e9452267cb54a6bb057f3ba4a4890",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "kind": "card",
+      "status": "not_pass_Y_branched_weapon_superseded",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-583b4530-4b3f-49d0-8663-f32d459a7148.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/card-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+          "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+          "actually_viewed": true
+        }
+      ]
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/许褚-黑铜传记-解缚入帐-候选1.png",
+      "sha256": "bf9fddef7984dff2d30c73a20a5d26d57d38873c114914921b4eca52ac72473c",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "kind": "story",
+      "status": "independent_QA_pass_candidate",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e838e2c0-151c-4133-bd36-a31af2973dbe.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/story-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+          "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+          "actually_viewed": true
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+          "sha256": "a8a040cc42bc9c499a79af601e85dd46c74f45bf4d3970d276cef1f12ad63dfc",
+          "actually_viewed": true
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+          "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+          "actually_viewed": true
+        }
+      ]
+    }
+  ],
+  "reference_roles_record": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/actual-inputs.json",
+  "native_QA_directory": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/QA",
+  "native_crops_no_resampling": true,
+  "not_claimed": "No source upscaling or pixel-frozen identity; content QA is not final root approval"
+}

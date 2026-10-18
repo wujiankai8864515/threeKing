@@ -1,0 +1,116 @@
+{
+  "asset_id": "lejin_bio_2",
+  "hero_id": "yuejin",
+  "stage": 2,
+  "kind": "bio",
+  "title": "伏兵齐起",
+  "status": "independent_structure_pass_edge_blur_root_decision_pending",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fbabec60-66f5-42b9-9f66-893b3c583c27.png",
+  "source_sha256": "cdd1cdc74e2bbdd901dd87560574ae164a886fa170fa6b8a16356ac8399fe4b9",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-传记1-伏兵齐起-候选1.png",
+  "saved_sha256": "cdd1cdc74e2bbdd901dd87560574ae164a886fa170fa6b8a16356ac8399fe4b9",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T21:30:25.125514+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/bio-prompt.txt",
+  "prompt_sha256": "c32ae35c96ec52d72b1165b1f649d862b6504d9575734d5b53d25065d7ce7037",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+      "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+      "role": "accepted hero identity"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean broad matte fabric painting ONLY; do not copy identity or location"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/bio-face-native100.png",
+      "xywh": [
+        490,
+        80,
+        245,
+        250
+      ],
+      "native_scale": 1,
+      "sha256": "6aaaaa9b15b3d2973e68884f550262e591c17b09d39a2508005e77d1d8c99dca"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/bio-bow_hand-native100.png",
+      "xywh": [
+        135,
+        190,
+        150,
+        180
+      ],
+      "native_scale": 1,
+      "sha256": "43dbaf8d35681fe46917badfdf6031e588606dddc9cefbfc8147abdbf7ffa640"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/bio-reins_hand-native100.png",
+      "xywh": [
+        575,
+        495,
+        180,
+        190
+      ],
+      "native_scale": 1,
+      "sha256": "e528c5231a51d85a3b4bbe49034ceed3bd65b7fbebf33d31ab8cac61a25ff9fa"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/bio-horse_reins-native100.png",
+      "xywh": [
+        825,
+        450,
+        420,
+        500
+      ],
+      "native_scale": 1,
+      "sha256": "05cdaa7c116b0b664e5eda616b601ffe004e8d82bb5e30c0437257ce2ee098d8"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/bio-cloth-native100.png",
+      "xywh": [
+        320,
+        560,
+        280,
+        190
+      ],
+      "native_scale": 1,
+      "sha256": "2bc467dfe35c0e780867e5d4965b2e50cec60bddd6f44491e878d8b009dd26e6"
+    }
+  ],
+  "original_art_modified": false,
+  "self_review": {
+    "reviewed_full_image": true,
+    "reviewed_native_crops": [
+      "face",
+      "both hands",
+      "weapon mechanics",
+      "cloth"
+    ],
+    "identity": "same facial identity and silhouette remain readable",
+    "hands_weapons": "No obvious digit or wrist failure found; bow release/arrow or command baton coherent at native crop",
+    "cloth": "Visible brown inherited crackle/mottling remains, not approved clean broad-cloth result; no claim of completely clean texture",
+    "frame_risk": "Lejin lower-right badger face and upper bow edge; Yujin upper-left rhino head need actual external frame check",
+    "status": "candidate_pending_independent_review"
+  },
+  "review_note": "Face, bow hand and reins hand pass; near dirt slope lower-left quarter strongly soft, root decision pending.",
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Face, bow hand and reins hand pass; near dirt slope lower-left quarter strongly soft, root decision pending.",
+    "candidate_only": true
+  }
+}

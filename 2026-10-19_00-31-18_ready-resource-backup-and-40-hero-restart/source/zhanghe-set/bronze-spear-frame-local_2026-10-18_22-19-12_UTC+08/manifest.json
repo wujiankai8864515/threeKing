@@ -1,0 +1,40 @@
+{
+  "asset_id": "zhanghe_card_2",
+  "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-spear-frame-local_2026-10-18_22-19-12_UTC+08/张郃-青铜-整枪入窗局修1.png",
+  "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-33456fdf-7425-42a1-b698-fc33a4785290.png",
+  "parent": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-青铜-转旗受命-候选1.png",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "bb828a1bc2add8c697ec5ad89beba5fc3251a9ebd905273a4e104a6bd7dbc85a",
+  "status": "creator_native_QA_pass_actual_frame_pending",
+  "rescale_count": 0,
+  "user_final_approval": false,
+  "crop_boxes": {
+    "face": [
+      420,
+      210,
+      720,
+      440
+    ],
+    "spear-grip": [
+      665,
+      640,
+      850,
+      860
+    ],
+    "whole-spear": [
+      600,
+      65,
+      880,
+      1536
+    ],
+    "receiving-hands": [
+      165,
+      665,
+      450,
+      830
+    ]
+  }
+}

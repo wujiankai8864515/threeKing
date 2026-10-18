@@ -1,0 +1,12 @@
+{
+  "output": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-story-pole-local_2026-10-18_22-14-18_UTC+08/许褚-银金传记-长柄战刀重建-局修1.png",
+  "pixels": [
+    1536,
+    1024
+  ],
+  "sha256": "3eaa1846da04c8151cbc7b6eaca6de53b332f8e5add46ee99afa1a35988e4375",
+  "status": "maker_QA_pending_independent",
+  "edit": "weapon-only shaft length and polearm reconstruction",
+  "prior_source": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/许褚-银金传记-卸甲再战-候选1.png",
+  "native_crops": "QA"
+}

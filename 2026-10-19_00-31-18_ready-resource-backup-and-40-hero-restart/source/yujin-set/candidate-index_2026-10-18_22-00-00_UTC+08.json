@@ -1,0 +1,119 @@
+{
+  "hero_id": "yujin",
+  "candidate_only": true,
+  "initial_identity": {
+    "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+    "technical_review": "independent technical pass and root accepted for expansion; cloth texture risk recorded",
+    "user_final_approval": false
+  },
+  "generated_expansion_assets_and_revisions": [
+    {
+      "asset_id": "yujin_card_2",
+      "hero_id": "yujin",
+      "stage": 2,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-青铜-登高察寨-候选1.png",
+      "sha256": "711e593d9edf6993858ed42fcbd06f04123dd8cc462d715a4cc6de840e28c3a0",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "independent_technical_pass_style_risk",
+      "final_approval": false
+    },
+    {
+      "asset_id": "yujin_bio_2",
+      "hero_id": "yujin",
+      "stage": 2,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-传记1-西寨可取-候选1.png",
+      "sha256": "8be593bf385ff5b988c0ae464dec345768c52ca55d99a1b9e09df9b794ce1713",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    },
+    {
+      "asset_id": "yujin_card_3",
+      "hero_id": "yujin",
+      "stage": 3,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/于禁-白银-先营后辩-候选1.png",
+      "sha256": "ddd734896b90f604d49550626d14ad75f6fef0a70f43204d82aa6de728e672cf",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    },
+    {
+      "asset_id": "yujin_bio_3",
+      "hero_id": "yujin",
+      "stage": 3,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/于禁-传记2-军务在前-候选1.png",
+      "sha256": "e39ace62bb62209a6eb6b812b3c2cc4fea24c8959697f6fac614b4ea2c637d77",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    },
+    {
+      "asset_id": "yujin_card_4",
+      "hero_id": "yujin",
+      "stage": 4,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/于禁-黄金-官渡整进-候选1.png",
+      "sha256": "49165d95fc68a2327035936a0f8cd478648af54e3b568ba0ceb2f2770600f7eb",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "independent_content_pass_pending_UI_reposition_review",
+      "final_approval": false
+    },
+    {
+      "asset_id": "yujin_bio_4",
+      "hero_id": "yujin",
+      "stage": 4,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/于禁-传记3-号令入阵-候选1.png",
+      "sha256": "3c83da14d37a9cb806970c9e80e0a1e28d4f12face7d48d664cf5e7a9da468a1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    }
+  ],
+  "cancelled_before_generation": [
+    {
+      "asset_id": "yujin_card_4_fix1",
+      "reason": "Lead will move independent UI skill strips to reveal animal faces; do not change pure illustration"
+    }
+  ],
+  "preferred_silver_card": "yujin_card_3",
+  "risk_summary": [
+    "Bronze fabric retains brown crackle style risk",
+    "Lejin bronze story near slope blur awaits root decision",
+    "Lejin silver story latest string and gold axis fixes await independent review",
+    "Gold skill strips independently repositioned by lead, pure animal illustrations not regenerated"
+  ],
+  "integrity_check": {
+    "assets_checked": 6,
+    "all_source_copies_byte_identical": true,
+    "issues": []
+  }
+}

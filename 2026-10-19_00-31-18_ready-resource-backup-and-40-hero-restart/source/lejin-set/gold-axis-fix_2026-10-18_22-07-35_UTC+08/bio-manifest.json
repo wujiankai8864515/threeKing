@@ -1,0 +1,110 @@
+{
+  "asset_id": "lejin_bio_4_axisfix1",
+  "hero_id": "yuejin",
+  "stage": 4,
+  "kind": "bio",
+  "title": "以退引敌",
+  "status": "strict_axis_QA_not_passed_root_decision_pending",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5b158742-feee-4531-a988-27d1dc920f68.png",
+  "source_sha256": "72fccf6d9de3bf03ae1fde66aaeda6489816b62a42ca990713764be7d59fe7b0",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-传记3-刃杆共轴-局修1.png",
+  "saved_sha256": "72fccf6d9de3bf03ae1fde66aaeda6489816b62a42ca990713764be7d59fe7b0",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T22:11:00.319597+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/bio-prompt.txt",
+  "prompt_sha256": "d34234ad522b8ef1e79a443780aebc20d7eeae02d7a495e3bbdd8afd3cb1b07c",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/乐进-传记3-以退引敌-候选1.png",
+      "sha256": "e105d342227dd297ebabcc3b75e868c12c11bb5db85b5c23f6abb45ec465b6b2",
+      "role": "exact preceding pure illustration for targeted built-in imagegen edit"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [
+    {
+      "asset_id": "lejin_bio_4_axisfix1",
+      "type": "remaining_blade_axis_deviation",
+      "observation": "Independent guide shows substantial improvement but blade tip remains about10+px off projected shaft axis; do not claim strict axis pass. One authorized correction completed; root decision pending."
+    }
+  ],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/bio-face-native100.png",
+      "xywh": [
+        390,
+        25,
+        210,
+        220
+      ],
+      "native_scale": 1,
+      "sha256": "f7424c4ab7cff965bb6bf019fcb81824debdb0519e130f2d5acab90859a16704"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/bio-reins_hand-native100.png",
+      "xywh": [
+        325,
+        400,
+        100,
+        120
+      ],
+      "native_scale": 1,
+      "sha256": "a1b45bf7ae9ac46295b1116cd31ebf754c6c61d360f410b898a3459ab54b4924"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/bio-spear_hand-native100.png",
+      "xywh": [
+        730,
+        520,
+        150,
+        115
+      ],
+      "native_scale": 1,
+      "sha256": "cb75cf6299e12797ef850bd7f275c79fd419e83a1e334b9829bd2fab51134549"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/bio-spear_axis-native100.png",
+      "xywh": [
+        460,
+        450,
+        740,
+        365
+      ],
+      "native_scale": 1,
+      "sha256": "5302955daf5c8f230e5ffdbcc1cf86d6bb5573de6d3bfbf0a433a35c13ec86c7"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/bio-cloth-native100.png",
+      "xywh": [
+        650,
+        315,
+        155,
+        180
+      ],
+      "native_scale": 1,
+      "sha256": "9d64f5eae5194a694432495952e8dffac9bd0ae5ae2e3e040313d880f172e009"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "review_note": "Independent guide shows substantial improvement but blade tip remains about10+px off projected shaft axis; do not claim strict axis pass. One authorized correction completed; root decision pending.",
+  "native_self_reviewed": true,
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Independent guide shows substantial improvement but blade tip remains about10+px off projected shaft axis; do not claim strict axis pass. One authorized correction completed; root decision pending.",
+    "candidate_only": true
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+      "source_status": "pending_independent",
+      "source_sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "于禁",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "整列",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed_not_final"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-青铜-登高察寨-候选1.png",
+      "source_status": "pending_independent",
+      "source_sha256": "711e593d9edf6993858ed42fcbd06f04123dd8cc462d715a4cc6de840e28c3a0",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "于禁",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "整列",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed_not_final"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/于禁-白银-先营后辩-候选1.png",
+      "source_status": "pending_independent",
+      "source_sha256": "ddd734896b90f604d49550626d14ad75f6fef0a70f43204d82aa6de728e672cf",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "于禁",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "整列",
+            "level": "+2"
+          },
+          {
+            "name": "镇足",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed_not_final"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/yujin-set/gold-pair_2026-10-18_21-25-51_UTC+08/于禁-黄金-官渡整进-候选1.png",
+      "source_status": "pending_independent",
+      "source_sha256": "49165d95fc68a2327035936a0f8cd478648af54e3b568ba0ceb2f2770600f7eb",
+      "uncovered_native_pixels_checked": 1195788,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "于禁",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "整列",
+            "level": "+2"
+          },
+          {
+            "name": "镇足",
+            "level": "+2"
+          },
+          {
+            "name": "严令",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed_not_final"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

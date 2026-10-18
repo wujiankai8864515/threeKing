@@ -1,0 +1,167 @@
+[
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-face-native100.png",
+    "box": [
+      350,
+      315,
+      560,
+      510
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-left-grip-native100.png",
+    "box": [
+      160,
+      640,
+      330,
+      800
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-right-grip-native100.png",
+    "box": [
+      610,
+      680,
+      800,
+      840
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-whole-spear-native100.png",
+    "box": [
+      0,
+      660,
+      1024,
+      850
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-crane-head-native100.png",
+    "box": [
+      395,
+      0,
+      760,
+      270
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-cloth-armor-native100.png",
+    "box": [
+      180,
+      440,
+      670,
+      1050
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-黄金-街亭截援-候选1.png",
+    "crop": "card-feet-ground-native100.png",
+    "box": [
+      60,
+      1080,
+      820,
+      1450
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-face-native100.png",
+    "box": [
+      480,
+      210,
+      675,
+      375
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-spear-grip-native100.png",
+    "box": [
+      270,
+      565,
+      415,
+      760
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-signal-hand-native100.png",
+    "box": [
+      815,
+      320,
+      1005,
+      460
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-whole-spear-native100.png",
+    "box": [
+      300,
+      0,
+      405,
+      1024
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-officer-face-native100.png",
+    "box": [
+      65,
+      290,
+      235,
+      450
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-officer-hands-native100.png",
+    "box": [
+      160,
+      380,
+      290,
+      670
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-cloth-stone-native100.png",
+    "box": [
+      470,
+      650,
+      1100,
+      1024
+    ],
+    "scale": 1
+  },
+  {
+    "file": "张郃-银金传记-截住援路-候选1.png",
+    "crop": "bio-crane-head-native100.png",
+    "box": [
+      1100,
+      30,
+      1335,
+      245
+    ],
+    "scale": 1
+  }
+]

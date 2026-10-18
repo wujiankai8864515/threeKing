@@ -1,0 +1,127 @@
+{
+  "asset_id": "yujin_card_2",
+  "hero_id": "yujin",
+  "stage": 2,
+  "kind": "card",
+  "title": "登高察寨",
+  "status": "independent_technical_pass_style_risk",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6e0e2a46-98da-4869-b524-5879799b4aa7.png",
+  "source_sha256": "711e593d9edf6993858ed42fcbd06f04123dd8cc462d715a4cc6de840e28c3a0",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/于禁-青铜-登高察寨-候选1.png",
+  "saved_sha256": "711e593d9edf6993858ed42fcbd06f04123dd8cc462d715a4cc6de840e28c3a0",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T21:29:17.170849+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/card-prompt.txt",
+  "prompt_sha256": "63b483720672e18abc597508697ef4d237ead28c515c4885ae8f5c49017f1042",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/research-brief.json",
+  "research_brief_sha256": "599ce881878ece8f0790e1c9bdfa508f0cb2c9321876ccc738ab45a3ae79b871",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+      "sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+      "role": "accepted hero identity"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean broad matte fabric painting ONLY; do not copy identity or location"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-face-native100.png",
+      "xywh": [
+        295,
+        135,
+        200,
+        240
+      ],
+      "native_scale": 1,
+      "sha256": "d8fc179647dc1120dc61c58713da305a9ed86e74381f2a2837ee17d3cc12a8f0"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-baton_hand-native100.png",
+      "xywh": [
+        575,
+        585,
+        250,
+        190
+      ],
+      "native_scale": 1,
+      "sha256": "6b1606f5cd8d938af4f91b93d3adc6950cd7e058945af93287f9871a16865956"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-free_hand-native100.png",
+      "xywh": [
+        70,
+        665,
+        150,
+        150
+      ],
+      "native_scale": 1,
+      "sha256": "a71ddbe8647b5a131a4b5fae492af8f49909894fae7b9baf748cca10932e6def"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-cloth-native100.png",
+      "xywh": [
+        145,
+        850,
+        400,
+        355
+      ],
+      "native_scale": 1,
+      "sha256": "9ac683b69de966e94da564945e40682e471533ebfdf3e4544102ab54d367d698"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-rhino_face-native100.png",
+      "xywh": [
+        0,
+        75,
+        290,
+        290
+      ],
+      "native_scale": 1,
+      "sha256": "6943884c079fa829f10f7b259b7f36d11b3a2a3bceaf245ee94dff3a53ba5d6a"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/QA/card-feet-native100.png",
+      "xywh": [
+        65,
+        1200,
+        550,
+        240
+      ],
+      "native_scale": 1,
+      "sha256": "be6dbe3be5283bc926c47bd26b0d67bc8eec192651b1f5437447e19e93042148"
+    }
+  ],
+  "original_art_modified": false,
+  "self_review": {
+    "reviewed_full_image": true,
+    "reviewed_native_crops": [
+      "face",
+      "both hands",
+      "weapon mechanics",
+      "cloth"
+    ],
+    "identity": "same facial identity and silhouette remain readable",
+    "hands_weapons": "No obvious digit or wrist failure found; bow release/arrow or command baton coherent at native crop",
+    "cloth": "Visible brown inherited crackle/mottling remains, not approved clean broad-cloth result; no claim of completely clean texture",
+    "frame_risk": "Lejin lower-right badger face and upper bow edge; Yujin upper-left rhino head need actual external frame check",
+    "status": "candidate_pending_independent_review"
+  },
+  "review_note": "Actual bronze frame eye/nose/hands clear; horn upper edge slight cut accepted. Dense brown cloth crackle remains.",
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Actual bronze frame eye/nose/hands clear; horn upper edge slight cut accepted. Dense brown cloth crackle remains.",
+    "candidate_only": true
+  }
+}

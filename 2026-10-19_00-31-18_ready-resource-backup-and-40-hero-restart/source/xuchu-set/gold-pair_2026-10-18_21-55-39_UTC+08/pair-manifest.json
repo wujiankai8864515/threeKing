@@ -1,0 +1,63 @@
+{
+  "hero_id": "xuchu",
+  "tier": "gold",
+  "created_at": "2026-10-18T22:04:50.171089+08:00",
+  "calls": 2,
+  "canonical_source": "https://zh.wikisource.org/zh/三國演義/第059回",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/许褚-黄金-虎痴裸衣-候选1.png",
+      "sha256": "a4f974f389b2a3e353ad2388026ccb33193096933b56aaefaaf8fee030ad8da0",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "kind": "card",
+      "status": "independent_QA_pass_candidate",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a34a9f49-a87f-4b35-922d-2a13e738295c.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/card-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+          "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+          "actually_viewed": true
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/machao-face-reference-native.png",
+          "sha256": "13aa69714ffbdc627e36f63bddb1e026554ddebbf6901856f1d32a7f7347c6f5",
+          "actually_viewed": true
+        }
+      ]
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/许褚-银金传记-卸甲再战-候选1.png",
+      "sha256": "7b88f23fc27fc8bc11bccdba66d098a73a023b85ea84f695d7969084948b7447",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "kind": "story",
+      "status": "independent_structure_QA_pass_weapon_design_continuity_root_decision_pending",
+      "generated_file": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-2cfa8236-7f5a-49e3-95c7-1ee29faad96e.png",
+      "prompt": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/story-prompt.txt",
+      "actual_reference_files": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+          "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+          "actually_viewed": true
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/machao-face-reference-native.png",
+          "sha256": "13aa69714ffbdc627e36f63bddb1e026554ddebbf6901856f1d32a7f7347c6f5",
+          "actually_viewed": true
+        }
+      ]
+    }
+  ],
+  "reference_roles_record": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/actual-inputs.json",
+  "native_QA_directory": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/QA",
+  "native_crops_no_resampling": true,
+  "not_claimed": "No source upscaling or pixel-frozen identity; content QA is not final root approval"
+}

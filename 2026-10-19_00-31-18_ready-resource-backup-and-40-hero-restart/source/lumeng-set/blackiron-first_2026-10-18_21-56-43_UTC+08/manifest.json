@@ -1,0 +1,60 @@
+{
+  "hero_id": "lumeng",
+  "asset_id": "lumeng_card_1_v1",
+  "tier": "黑铁",
+  "title": "江夏自棹",
+  "chapter": 38,
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第038回",
+  "design_class": "原著事件上的原创神话身份/构图/服装提案",
+  "path": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/吕蒙-黑铁-江夏自棹-身份候选1.png",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4dcc3154-7945-4640-b3cb-e1904ab37b4d.png",
+  "sha256": "d4479b005fed434dd9ad45b3540db19c62c2182a507757a6f3ea2cac5c9d50ad",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "method": "builtin_imagegen",
+  "actual_input_files": [
+    "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/GuoJia-clean-cloth-style-only-nativecrop.png"
+  ],
+  "actual_reference_roles": [
+    "Only Guo Jia clean planar cloth/skin painting crop; no face/body identity borrow."
+  ],
+  "reference_sha256": "5284e6b62dc8632cce8c03fd7a5e6f737d44f2fee710364df021ae5dc69be68e",
+  "parent_style_source": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+  "crop_bbox": [
+    70,
+    490,
+    845,
+    1120
+  ],
+  "crop_resize_count": 0,
+  "source_resize_count": 0,
+  "status": "superseded_v2_pending_verification_old_oar_failure_retained",
+  "root_approved": false,
+  "user_final_approval": false,
+  "qa_evidence": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/qa-100pct",
+  "actual_frame_check": "1190x1786;source1024x1536 unscaled at84,145;existing blackiron frame resized only;faces and two hands visible",
+  "reported_risks": [
+    "Oar bends downward after support/pivot toward blade neck; not the requested single straight oar axis. Independent assessment pending.",
+    "Skin pores/vein and wood-grain painting more realistic and granular than clean broad-plane target; cloth has broad heavy weathering patterns.",
+    "Actual action uses BOTH hands rowing same oar rather than one hand on gunwale; no simultaneous sword wielding; deviation recorded."
+  ],
+  "acceptable_details": [
+    "Fully sheathed short saber; no killing scene.",
+    "No horse, no large early myth head; only pale dorsal scutes in water.",
+    "Water foam is spatially tied to ripples and blade, not automatically treated as random gold dust."
+  ],
+  "uploaded": false,
+  "updated_at": "2026-10-18T22:01:45.802046+08:00",
+  "independent_qa_at": "2026-10-18T22:08:42+08:00",
+  "independent_qa_findings": {
+    "identity": "Wide face, short beard, headcloth and two grips suitable as identity reference; not final approval.",
+    "hard_failure": "Two grips to inner oarlock straight; outer neck clearly bends downward, original native evidence confirms.",
+    "style_risk": "Skin/wood/water semi-realistic rather than clean broad-plane target.",
+    "actual_frame": "Main two hands and face remain visible.",
+    "recommended_next": "Only if root authorizes: preserve face/pose, one broad-plane source rebuild with an entirely straight oar. Do not patch the same curved line."
+  },
+  "next_generation_authorized": true,
+  "authorized_followup_completed": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron_straightoar_2026-10-18_22-11-27_UTC+08/吕蒙-黑铁-v2-直棹宽面修正候选.png"
+}

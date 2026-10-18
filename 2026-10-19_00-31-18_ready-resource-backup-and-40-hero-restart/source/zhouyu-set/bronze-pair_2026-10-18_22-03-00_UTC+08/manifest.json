@@ -1,0 +1,30 @@
+{
+  "assets": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/bronze-pair_2026-10-18_22-03-00_UTC+08/周瑜-青铜-江东新托-候选1.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "66399638d4f025c9041cd432ee92feb0015720708a11a0db5d04edca847b1662",
+      "status": "self_viewed_pending_independent"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/bronze-pair_2026-10-18_22-03-00_UTC+08/周瑜-黑铜传记-灵前再受重托-候选1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "a677cbe9c2c7874eca1bede02dc0366c647732bd5c278133c50d3112d26630ad",
+      "status": "self_viewed_pending_independent"
+    }
+  ],
+  "references": [
+    "/workspace/scratch/3f82ff2b3f81/zhouyu-set/blackiron-first_2026-10-18_21-46-00_UTC+08/周瑜-黑铁-历阳知交-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/sunquan-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙权-黑铁-印绶初承-身份候选1.png"
+  ],
+  "notes": [
+    "传记实际采取俯身立揖，衣摆接地；最近器皿有景深柔化待审。",
+    "卡半翼实际扩为低透明完整羽影，主体与朱雀层级待全阶比较。"
+  ]
+}

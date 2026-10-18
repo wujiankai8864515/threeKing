@@ -1,0 +1,71 @@
+{
+  "recorded_at": "2026-10-18T22:17:59+08:00",
+  "user_request": {
+    "id": "Sentinel_e1ee0d57232c8191ae5b1db1b1b8c6d9",
+    "text": "我看看"
+  },
+  "approval_status": "Preview sent; no owner final acceptance",
+  "events": [
+    {
+      "message_id": "Sentinel_45d79ae0bcb8819180f4d73be591c3b0",
+      "at": "2026-10-18T22:16:44+08:00",
+      "status": "accepted",
+      "assets": "Eight Shu four-stage overview images",
+      "versions": "Guan5, Liu0, Zhang0, Zhao1, Ma0, Huang0, Zhuge1, Pang0"
+    },
+    {
+      "message_id": "Sentinel_a0a4b29e52288191a3037db3c7ae67bd",
+      "at": "2026-10-18T22:17:12+08:00",
+      "status": "accepted",
+      "assets": "Cao Cao, Dian Wei, Xu Huang, Xun Yu, Guo Jia, Zhang Liao four-stage overviews",
+      "versions": "All0"
+    },
+    {
+      "message_id": "Sentinel_fa6c307af3808191be5e66a521a4f49f",
+      "at": "2026-10-18T22:17:36+08:00",
+      "status": "accepted",
+      "assets": [
+        {
+          "slot": "Guan iron UI",
+          "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+          "version": 3
+        },
+        {
+          "slot": "Guan bronze UI",
+          "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+          "version": 4
+        },
+        {
+          "slot": "Guan silver UI",
+          "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+          "version": 4
+        },
+        {
+          "slot": "Guan gold UI",
+          "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+          "version": 5
+        },
+        {
+          "slot": "Peach oath",
+          "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+          "version": 6
+        },
+        {
+          "slot": "Wine departure",
+          "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+          "version": 10
+        },
+        {
+          "slot": "Escort",
+          "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+          "version": 7
+        }
+      ]
+    }
+  ],
+  "disclosures": [
+    "Skill names and numbers are proposals.",
+    "Overview is reduced comparison, individual UI1190x1786 and story1536x1024.",
+    "All34 not complete; continuing autonomous production."
+  ]
+}

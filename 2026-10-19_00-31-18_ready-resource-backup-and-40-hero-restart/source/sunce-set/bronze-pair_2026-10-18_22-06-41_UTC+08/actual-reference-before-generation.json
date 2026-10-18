@@ -1,0 +1,17 @@
+{
+  "actual_reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙策-黑铁-持弓手入窗-局修1.png",
+      "role": "Approved hand-in-window Sun Ce adult identity/body/costume/horse/spear only; personally viewed. Exclude bow pose and SunJian background.",
+      "sha256": "d26be74015dca6deff615fd83e9b7bc02793f87c69edd6a04a76d28b6ae35e2f",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "tool": "builtin image_gen",
+  "candidate_count_per_asset": 1,
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+  "source_verified": "Read125-132. Seal pledged, YuanShu loans3000men500horses, ZhouYu encountered later. Neither borrowed army counts nor inscriptions baked into art."
+}

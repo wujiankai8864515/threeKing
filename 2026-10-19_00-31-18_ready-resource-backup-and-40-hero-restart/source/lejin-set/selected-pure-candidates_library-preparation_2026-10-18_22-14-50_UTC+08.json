@@ -1,0 +1,99 @@
+{
+  "hero": "乐进",
+  "research_id": "yuejin",
+  "planned_assets": 7,
+  "selection": [
+    {
+      "slot": "blackiron_card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+      "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review_status": "independent_technical_pass_root_accepted_identity",
+      "candidate_only": true
+    },
+    {
+      "slot": "bronze_card",
+      "asset_id": "lejin_card_2",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-青铜-一箭追锋-候选1.png",
+      "sha256": "ea5ff0f534cd9c05b3ef2b6c51c9e5967d355bf52679bb88768601af0025706f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review_status": "independent_technical_pass_style_risk",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "candidate_only": true
+    },
+    {
+      "slot": "biography_1",
+      "asset_id": "lejin_bio_2",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-传记1-伏兵齐起-候选1.png",
+      "sha256": "cdd1cdc74e2bbdd901dd87560574ae164a886fa170fa6b8a16356ac8399fe4b9",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review_status": "independent_structure_pass_edge_blur_root_decision_pending",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "candidate_only": true
+    },
+    {
+      "slot": "silver_card",
+      "asset_id": "lejin_card_3_fix1",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/乐进-白银-握弓入安全区-局修1.png",
+      "sha256": "15a79d9bd3ca6c73d02c4b2fa7c54dbcefc8b33e8cde39018564984b1e3a791a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review_status": "independent_technical_pass",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/card-manifest.json",
+      "candidate_only": true
+    },
+    {
+      "slot": "biography_2",
+      "asset_id": "lejin_bio_3_fix2",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/乐进-传记2-弦扣双梢-局修2.png",
+      "sha256": "cedbf3dd7a1e1e4d097c61b5a7d97c1419c46d9dd0a14a7c230547032392082f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review_status": "independent_technical_pass",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/bio-manifest.json",
+      "candidate_only": true
+    },
+    {
+      "slot": "gold_card",
+      "asset_id": "lejin_card_4_axisfix1",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-黄金-刃杆共轴-局修1.png",
+      "sha256": "290e3faaf8fa84cdfeaa41678fe115ef6144ca1fb72d072cb65524e242585a23",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "review_status": "strict_axis_QA_not_passed_root_decision_pending",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/card-manifest.json",
+      "candidate_only": true
+    },
+    {
+      "slot": "biography_3",
+      "asset_id": "lejin_bio_4_axisfix1",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-传记3-刃杆共轴-局修1.png",
+      "sha256": "72fccf6d9de3bf03ae1fde66aaeda6489816b62a42ca990713764be7d59fe7b0",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "review_status": "strict_axis_QA_not_passed_root_decision_pending",
+      "manifest_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/bio-manifest.json",
+      "candidate_only": true
+    }
+  ],
+  "library_delivery_state": "prepared_manifest_only_not_uploaded_or_sent",
+  "instructions": "Pure image candidates only. Root owns batch Library delivery/Git. Gold frame UI managed independently by lead. Do not treat pending reviews as approved.",
+  "user_final_approval": false
+}

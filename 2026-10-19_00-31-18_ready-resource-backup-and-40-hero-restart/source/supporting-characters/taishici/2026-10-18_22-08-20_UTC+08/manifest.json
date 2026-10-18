@@ -1,0 +1,25 @@
+{
+  "character": "taishici",
+  "role": "supporting identity reference for Sun Ce stories, not an additional four-card/three-story hero set",
+  "source": "supporting-characters/taishici/2026-10-18_22-08-20_UTC+08/太史慈-配角身份参考-候选1.png",
+  "sha256": "85a35768db023b0d81c69714de3af7d43f573e7b3dff7af8f4a4af4180876c04",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "method": "builtin_image_gen",
+  "actual_reference_files": [
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean stylized material only, not identity"
+    }
+  ],
+  "novel_source": "https://zh.wikisource.org/zh-hant/三國演義/第011回",
+  "verified_novel_scope": "Chapter11 depicts iron spear and bow use; chapter15 duel/recruitment context comes from Sun Ce reviewed brief.",
+  "original_design": "All face, facial hair, costume palette and armor silhouette are original proposals, not quoted novel description.",
+  "prompt": "prompt.txt",
+  "status": "technical_supporting_identity_candidate_pass",
+  "user_final": false,
+  "independent_qa_at": "2026-10-18T22:13:34+08:00"
+}

@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "乐进",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "短兵",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "乐进",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "短兵",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "乐进",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "短兵",
+        "level": "+2"
+      },
+      {
+        "name": "紧迫",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "乐进",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "短兵",
+        "level": "+2"
+      },
+      {
+        "name": "紧迫",
+        "level": "+2"
+      },
+      {
+        "name": "骁锐",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  }
+}

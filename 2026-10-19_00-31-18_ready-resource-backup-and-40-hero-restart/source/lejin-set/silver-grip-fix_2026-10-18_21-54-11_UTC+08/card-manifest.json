@@ -1,0 +1,124 @@
+{
+  "asset_id": "lejin_card_3_fix1",
+  "hero_id": "yuejin",
+  "stage": 3,
+  "kind": "card",
+  "title": "南皮断逃-握弓安全区局修1",
+  "status": "independent_technical_pass",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-936d178b-35cc-4805-a47c-781e4f47cb44.png",
+  "source_sha256": "15a79d9bd3ca6c73d02c4b2fa7c54dbcefc8b33e8cde39018564984b1e3a791a",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/乐进-白银-握弓入安全区-局修1.png",
+  "saved_sha256": "15a79d9bd3ca6c73d02c4b2fa7c54dbcefc8b33e8cde39018564984b1e3a791a",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T21:57:06.569787+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/card-prompt.txt",
+  "prompt_sha256": "0130e311b4e29eb10abcc999feba16f413c003fe9aaa00a5b3e8a102a3959c60",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/乐进-白银-南皮断逃-候选1.png",
+      "sha256": "98233175d78901fcf44ffcac4c8d33e6cc6227fdaba3b03c5c84d70674e21660",
+      "role": "exact preceding pure illustration for targeted built-in imagegen edit"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/card-face-native100.png",
+      "xywh": [
+        380,
+        130,
+        210,
+        250
+      ],
+      "native_scale": 1,
+      "sha256": "e828eb49a74f6741f5d8468f0f6f240b6941fa0035c05f8392bbcf3c85cbf0d4"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/card-draw_hand-native100.png",
+      "xywh": [
+        310,
+        310,
+        155,
+        110
+      ],
+      "native_scale": 1,
+      "sha256": "ee65717d29b4d3c8d1805805add18dc66c15041bedb2c11f2f1d11e7f625cb63"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/card-bow_grip-native100.png",
+      "xywh": [
+        670,
+        270,
+        135,
+        170
+      ],
+      "native_scale": 1,
+      "sha256": "80afe9fde694f587c2f1b6ff63e92fa7c81772a6dda4da9c769e088f839e4cb2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/card-bow_string-native100.png",
+      "xywh": [
+        390,
+        0,
+        510,
+        820
+      ],
+      "native_scale": 1,
+      "sha256": "b08e90e32837a747951649b4977050f2388038589ea0bfe9afdd9a624cdf195d"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/card-cloth-native100.png",
+      "xywh": [
+        580,
+        390,
+        200,
+        180
+      ],
+      "native_scale": 1,
+      "sha256": "d34d5bf47386a60cd70a716b8788b20f76539e7fa335e5a98136d12445a0d2b7"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "self_review": {
+    "full_image_reviewed": true,
+    "native_face_hands_weapon_cloth_reviewed": true,
+    "actual_silver_frame_grip_reviewed": true,
+    "grip": "Bow hand now x~730,y350 and completely inside actual star-column edge; all visible digits remain clear",
+    "mechanics": "Single taut string and straight arrow meet nock at draw hand, no obvious wrist/finger failure. Body and identity preserved.",
+    "remaining_risk": "Bow lower endpoint now higher (about y800 vs y1000 source); prompt forbade shrinking but output changed visible bow extent. Still reads as a full-size recurve, independent reviewer to judge. Shooting direction still right while background gate left.",
+    "status": "candidate_pending_independent_review"
+  },
+  "parent_asset_id": "lejin_card_3",
+  "frame_diagnostic": {
+    "path": "lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/QA/silver-actual-frame.png",
+    "native_art_scale": 1,
+    "art_offset": [
+      84,
+      145
+    ],
+    "frame_template": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/silver-empty-cleanalpha-1024.png",
+    "purpose": "diagnostic only; pure illustration untouched"
+  },
+  "review_note": "Actual silver frame all bow fingers clear. Nock and two string segments join correctly; lower tip connects; upper tip outside source cannot fully verify. Visible bow span changed but still real full-size bow, acceptable changed pose candidate, not exact unchanged proportions.",
+  "native_self_reviewed": true,
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Actual silver frame all bow fingers clear. Nock and two string segments join correctly; lower tip connects; upper tip outside source cannot fully verify. Visible bow span changed but still real full-size bow, acceptable changed pose candidate, not exact unchanged proportions.",
+    "candidate_only": true
+  }
+}

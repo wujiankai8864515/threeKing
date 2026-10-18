@@ -1,0 +1,48 @@
+{
+  "hero_id": "lumeng",
+  "asset_id": "lumeng_card_1_v2",
+  "title": "江夏自棹",
+  "chapter": 38,
+  "path": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron_straightoar_2026-10-18_22-11-27_UTC+08/吕蒙-黑铁-v2-直棹宽面修正候选.png",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c6cd5f35-e6c3-4d8e-9524-19c8ab1628d3.png",
+  "sha256": "244383fe245698204af1009cc7db58399518942adf62ff29600d59fcf5999f59",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "method": "builtin_imagegen",
+  "actual_reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/吕蒙-黑铁-江夏自棹-身份候选1.png",
+      "sha256": "d4479b005fed434dd9ad45b3540db19c62c2182a507757a6f3ea2cac5c9d50ad",
+      "role": "edit target; preserve exact new Lu Meng face/stance and story, do not inherit bent oar or half-realistic material"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/GuoJia-clean-cloth-style-only-nativecrop.png",
+      "sha256": "5284e6b62dc8632cce8c03fd7a5e6f737d44f2fee710364df021ae5dc69be68e",
+      "role": "native face-excluded Guo Jia crop; clean plane/material only"
+    }
+  ],
+  "authorization": "Lead at2026-10-18T22:10:13+08:00 explicitly restated standing SOP one targeted correction: preserve face/stance, rebuild straight oar, broad-plane skin/wood/water and reduce cloth old patterns. Expand only after pass.",
+  "status": "independent_qa_failed_small_axis_kink_style_passed_identity_reference_only",
+  "self_qa": [
+    "Face and stance retained; two gripping hands natural and frame-safe.",
+    "Broad material language cleaner, pores and scattered cloth/wood marks reduced.",
+    "Large former hooked oar neck removed; square broad paddle stays visible below blackiron panel.",
+    "Need independent endpoint/hand-exit line verification before asserting full rigid-axis pass."
+  ],
+  "qa_evidence": "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron_straightoar_2026-10-18_22-11-27_UTC+08/qa-100pct",
+  "source_resize_count": 0,
+  "actual_frame": "Existing1190x1786 blackiron overlay, art1:1 at84,145, no source upscale",
+  "user_final_approval": false,
+  "uploaded": false,
+  "updated_at": "2026-10-18T22:16:22.361813+08:00",
+  "independent_qa_at": "2026-10-18T22:19:57+08:00",
+  "independent_qa_findings": {
+    "structure": "Inner visible shaft line through both hands runs along upper edge of outer shaft and upper side of blade; blade center displaced downward several tens of pixels. Small kink remains.",
+    "material_identity": "Cleaner broad planes confirmed, face and two grips preserved.",
+    "stop_condition": "One localized edit consumed; do not repeat same pose/axis patch. Await root choice of simpler new paddle pose or explicitly accepted designed curved oar.",
+    "evidence": "hero_quality_audit_20261018_191500_UTC+08/inspection/lumeng-v2-independent-oar-axis-native100.png"
+  },
+  "may_expand_six": false
+}

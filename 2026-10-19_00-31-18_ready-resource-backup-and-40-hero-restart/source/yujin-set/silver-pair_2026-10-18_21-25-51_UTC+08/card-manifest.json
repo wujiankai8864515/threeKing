@@ -1,0 +1,123 @@
+{
+  "asset_id": "yujin_card_3",
+  "hero_id": "yujin",
+  "stage": 3,
+  "kind": "card",
+  "title": "先营后辩",
+  "status": "independent_technical_pass",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5e618865-9ade-4a2a-b3f7-691b7f4e0e03.png",
+  "source_sha256": "ddd734896b90f604d49550626d14ad75f6fef0a70f43204d82aa6de728e672cf",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/于禁-白银-先营后辩-候选1.png",
+  "saved_sha256": "ddd734896b90f604d49550626d14ad75f6fef0a70f43204d82aa6de728e672cf",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T21:41:38.392190+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/card-prompt.txt",
+  "prompt_sha256": "0d814530d6e7189521b5e2854bfd13d72deb1eebbfef87f89e2f7b9c547b8f25",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/research-brief.json",
+  "research_brief_sha256": "599ce881878ece8f0790e1c9bdfa508f0cb2c9321876ccc738ab45a3ae79b871",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/QA/face-native100.png",
+      "sha256": "b615b14a69f8ac259bd2716456784ec40e7c1d4ac7cee0e895bff3eadc7b63d8",
+      "role": "accepted hero identity"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean broad matte fabric painting ONLY; do not copy identity or location"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/QA/card-face-native100.png",
+      "xywh": [
+        245,
+        185,
+        185,
+        235
+      ],
+      "native_scale": 1,
+      "sha256": "2fec8fb52c3a95581ca457ea49556ad6ea3fd912fb72aca18daa2180ebd772d1"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/QA/card-baton_hand-native100.png",
+      "xywh": [
+        220,
+        440,
+        325,
+        185
+      ],
+      "native_scale": 1,
+      "sha256": "632aea9a3973175b87af1788835e73efeb5d1367ec1ad2d8a90888c4d0052f05"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/QA/card-free_hand-native100.png",
+      "xywh": [
+        625,
+        585,
+        155,
+        130
+      ],
+      "native_scale": 1,
+      "sha256": "4d20f029a441be87d9d93d68b071925bf026a5e1ac75c5f6426bf59168d33783"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/QA/card-cloth-native100.png",
+      "xywh": [
+        455,
+        535,
+        190,
+        200
+      ],
+      "native_scale": 1,
+      "sha256": "30aa23a71b2b2fa50bcf6d8c398e3015d483de36ef5cba8ee78dcec0b797f021"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/silver-pair_2026-10-18_21-25-51_UTC+08/QA/card-rhino_face-native100.png",
+      "xywh": [
+        580,
+        690,
+        215,
+        260
+      ],
+      "native_scale": 1,
+      "sha256": "24d3effed1918c3b01e724fb9e69f3a70320922fd6998db4d8149794ab36893f"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+    "sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "self_review": {
+    "reviewed_full_image": true,
+    "reviewed_native_crops": [
+      "face",
+      "both hands",
+      "weapon mechanics",
+      "cloth"
+    ],
+    "identity": "Face-crop identity reference preserves recognizable face; body proportions specified in prompt",
+    "hands_weapons": "No obvious native digit/wrist failure. Lejin card nock/arrow/string junction coherent, but bowstring passes across left temple; grip on far right needs frame audit. Other grips/reins and batons separated.",
+    "cloth": "Broad color planes substantially cleaner than bronze with no dense crackle; sparse scuffs remain and Yujin card lower hem has scene-consistent mud. Not absolutely textureless.",
+    "frame_risk": "Lejin card bow grip x~890,y330 close to reserved right stars, badger face low; need actual-frame judgment. Yujin card face/hands/rhino central and clear.",
+    "narrative_risk": "Lejin card arrow aims right while visible gate is background left; distant retreat path may require reviewer judgment.",
+    "status": "candidate_pending_independent_review"
+  },
+  "review_note": "Both hands/baton natural; actual silver frame main face and rhino eyes/nose clear. Cloth cleaner, contextual mud/scuffs retained.",
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Both hands/baton natural; actual silver frame main face and rhino eyes/nose clear. Cloth cleaner, contextual mud/scuffs retained.",
+    "candidate_only": true
+  }
+}

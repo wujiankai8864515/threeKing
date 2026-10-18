@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+2"
+      },
+      {
+        "name": "镇足",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+2"
+      },
+      {
+        "name": "镇足",
+        "level": "+2"
+      },
+      {
+        "name": "严令",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  }
+}

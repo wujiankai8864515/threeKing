@@ -1,0 +1,59 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/张辽-青铜-v2-后位曹操身份局修候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_straightshaft_2026-10-18_21-41-08_UTC+08/张辽-白银-v2-长杆直轴局修候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/gold_pair_2026-10-18_21-45-11_UTC+08/张辽-黄金-v1-逍遥夺势候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜传记-v1-白门解缚候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银传记-v1-胜夜不卸甲候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/gold_pair_2026-10-18_21-45-11_UTC+08/张辽-黄金传记-v1-解嫌出奇兵候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/ui_newframe_2026-10-18_21-51-40_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/ui_newframe_2026-10-18_21-51-40_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/ui_newframe_2026-10-18_21-51-40_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/ui_newframe_2026-10-18_21-51-40_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/ui_newframe_2026-10-18_21-51-40_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

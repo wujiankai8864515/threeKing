@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-19T00:05:35.492650+08:00",
+  "commit": "7d656069d9e4090f8a88d318bc7e5fc20fe4eb42",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 4876,
+  "sequential_copy_sha256_checked": true,
+  "archived_entries": 250,
+  "new_paths": 249,
+  "updated_paths": 1,
+  "status": "21 candidate images sent; service accepted; user final acceptance pending. Local masked compositing explicitly approved."
+}

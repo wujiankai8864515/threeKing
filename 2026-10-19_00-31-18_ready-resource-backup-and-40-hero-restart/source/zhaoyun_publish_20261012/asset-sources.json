@@ -1,0 +1,129 @@
+[
+  {
+    "file": "official_1.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "asset_url": "https://img-tc.tapimg.com/market/images/2d3fa062bea1d7cb46c4c15488211111.png/_tap_screenshot.jpg",
+    "kind": "官方发布游戏画面，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知",
+    "version": "未知",
+    "sha256": "eb7b24ea4c9beff71bc3e27139cfecf44d8e073f5b0db66a7e564ac01864a377"
+  },
+  {
+    "file": "official_2.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "asset_url": "https://img-tc.tapimg.com/market/images/b7b77333c277870093e5fb508ba20304.png/_tap_screenshot.jpg",
+    "kind": "官方发布游戏画面，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知",
+    "version": "未知",
+    "sha256": "376d876da07175d22eaaa8c141bb0ac09ef26f3d6e9dabfae284545a33dd26dd"
+  },
+  {
+    "file": "official_3.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "asset_url": "https://img-tc.tapimg.com/market/images/0321dcfda4b996a2a734d1905bb9fe17.png/_tap_screenshot.jpg",
+    "kind": "官方发布游戏画面，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知",
+    "version": "未知",
+    "sha256": "48d800b1df64af7440a89f656d9a831d9911d49adee9d9b00a004fb239fc67ca"
+  },
+  {
+    "file": "official_4.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "asset_url": "https://img-tc.tapimg.com/market/images/1f86cc8a99851aa6eb09ea7e3feebfc1.png/_tap_screenshot.jpg",
+    "kind": "官方发布游戏画面，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知",
+    "version": "未知",
+    "sha256": "35b3c38cdbf3c668a87d0829adb62c259c52c2a468c6c6cd842decf9cdbca765"
+  },
+  {
+    "file": "official_5.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "asset_url": "https://img-tc.tapimg.com/market/images/a491a38968b8b5f6ad2fb263ab5f4bf9.png/_tap_screenshot.jpg",
+    "kind": "官方发布游戏画面，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知",
+    "version": "未知",
+    "sha256": "5482a59a4ab2b7ece96389ab5510daf0c56b7a4e007b780df4a166a014bc9010"
+  },
+  {
+    "file": "demo_82s.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "video_id": "5698027",
+    "timecode_seconds": 82,
+    "kind": "官方演示视频真实取帧，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知，小程序样式控件",
+    "version": "未知",
+    "sha256": "6482c075b483fc8d5cf30777cb81c7ce2e04ff29271de56a1602150db56c3e95"
+  },
+  {
+    "file": "demo_84s.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "video_id": "5698027",
+    "timecode_seconds": 84,
+    "kind": "官方演示视频真实取帧，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知，小程序样式控件",
+    "version": "未知",
+    "sha256": "286b4424e44665095a6dd035f3118eaaec04ac220150ee16c44384fd11f62841"
+  },
+  {
+    "file": "demo_100s.jpg",
+    "source_page": "https://www.taptap.cn/app/865519",
+    "video_id": "5698027",
+    "timecode_seconds": 100,
+    "kind": "官方演示视频真实取帧，非本人实测",
+    "captured": "2026-10-12",
+    "published": "未知",
+    "platform": "未知，小程序样式控件",
+    "version": "未知",
+    "sha256": "f7351f2d56eb5fcd4600cdec5729ac6d517184f53ec0531edb8899c4212635d1"
+  },
+  {
+    "file": "wx_play_sep.png",
+    "source_page": "https://www.10100.com/article/152896367",
+    "kind": "DataEye×引力引擎榜图，经转载，人工核读",
+    "data_period": "2026-09",
+    "published": "2026-10-02",
+    "captured": "2026-10-12",
+    "sha256": "9763c7568ee600d4158985689ac9fd0ddfa7a57cf5334525cf60b05117ae62f6"
+  },
+  {
+    "file": "wx_sales_sep.png",
+    "source_page": "https://www.10100.com/article/152896367",
+    "kind": "DataEye×引力引擎榜图，经转载，人工核读",
+    "data_period": "2026-09",
+    "published": "2026-10-02",
+    "captured": "2026-10-12",
+    "sha256": "2cf90a8c75431a6f1801285c75b0ca9597fb8753836e874301bfc5e4e4e0c2dd"
+  },
+  {
+    "file": "dy_sales_sep.png",
+    "source_page": "https://www.10100.com/article/152896367",
+    "kind": "DataEye×引力引擎榜图，经转载，人工核读",
+    "data_period": "2026-09",
+    "published": "2026-10-02",
+    "captured": "2026-10-12",
+    "sha256": "41de5fb87c967d6a95706d678aa5fdc0451a7100c61aa88492e97ef09213ee58"
+  },
+  {
+    "file": "cocos_replica_20260916.jpeg",
+    "source_page": "https://forum.cocos.org/t/topic/177383",
+    "asset_url": "https://forum.cocos.org/uploads/default/original/3X/a/7/a7d6e230f4d7f5801e91fa64bf92e76a8a7e4633.jpeg",
+    "kind": "作者开发预览，非研究者实测",
+    "published": "2026-09-16",
+    "captured": "2026-10-12",
+    "sha256": "2685bf2c4c504a5ae4bc1971be311d03a678b9415fae3079b35e9964881285d7"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "actual_reference_files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunce-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙策-黑铁-持弓手入窗-局修1.png",
+      "role": "Sun Ce primary adult identity, horse/costume/spear only; approved hand-in-window version",
+      "sha256": "d26be74015dca6deff615fd83e9b7bc02793f87c69edd6a04a76d28b6ae35e2f",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/supporting-characters/taishici/2026-10-18_22-08-20_UTC+08/太史慈-配角身份参考-候选1.png",
+      "role": "Root approved Taishi Ci secondary mature bearded face/body/costume, not same person as Sun; personally viewed",
+      "sha256": "85a35768db023b0d81c69714de3af7d43f573e7b3dff7af8f4a4af4180876c04",
+      "size": [
+        1024,
+        1536
+      ]
+    }
+  ],
+  "tool": "builtin image_gen",
+  "candidate_count_per_asset": 1,
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第015回",
+  "source_verified": "Read139-145. Thirteen riders, warning, Taishi+one minor rider, mounted evenly matched duel before dismount; not captured atShenting."
+}

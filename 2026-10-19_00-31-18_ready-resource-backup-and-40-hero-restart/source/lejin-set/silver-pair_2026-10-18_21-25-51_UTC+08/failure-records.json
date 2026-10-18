@@ -1,0 +1,12 @@
+[
+  {
+    "type": "critical_frame_occlusion",
+    "observation": "right star strip masks outer bow-hand fingertip area about20-30px",
+    "action": "one coordinated bow/forearm/arrow/string inward edit generated; awaiting review"
+  },
+  {
+    "asset_id": "lejin_bio_3",
+    "type": "unphysical_idle_bowstring",
+    "observation": "Two string sections vanish behind clothing into unsupported V; neither hand draws string."
+  }
+]

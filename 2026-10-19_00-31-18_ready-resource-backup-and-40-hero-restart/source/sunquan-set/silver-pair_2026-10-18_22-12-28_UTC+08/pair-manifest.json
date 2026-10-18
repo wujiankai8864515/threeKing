@@ -1,0 +1,29 @@
+{
+  "images": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/silver-pair_2026-10-18_22-12-28_UTC+08/孙权-白银-一剑定战-候选1.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "eb44ec9f0dbf5e1d1136df9bedb4617cbcbe6637753a19fab7f6571468838827",
+      "status": "maker_QA_pending_independent"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/silver-pair_2026-10-18_22-12-28_UTC+08/孙权-铜银传记-把剑交给周郎-候选1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "1df7c982176920dc3de87b24f67248b4212247ea47e58fd9383f85cbc7d431ea",
+      "status": "maker_QA_pending_independent"
+    }
+  ],
+  "actual_inputs": "actual-inputs.json",
+  "prompts": [
+    "card-prompt.txt",
+    "story-prompt.txt"
+  ],
+  "native_QA": "QA",
+  "no_upscale": true
+}

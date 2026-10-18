@@ -1,0 +1,103 @@
+{
+  "hero_id": "xuchu",
+  "created_at": "2026-10-18T22:04:50.171089+08:00",
+  "root_final_approval": "pending",
+  "assets": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+      "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "key": "card_blackiron",
+      "status": "root_and_audit_pass_identity"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-waist-local_2026-10-18_22-00-59_UTC+08/许褚-青铜-腰间孤杆净除-局修2.png",
+      "sha256": "f94a1a18fa5fb55f8973b2d17b066b148d4a486012f7013e67013c9a18fc7cae",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "key": "card_bronze",
+      "status": "independent_QA_pass_candidate"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/silver-pair_2026-10-18_21-50-31_UTC+08/许褚-白银-举鞍渡险-候选1.png",
+      "sha256": "433b0f33962a02b475d58038a0469a204486718d1cfb811be7bb580151f86b18",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "key": "card_silver",
+      "status": "independent_QA_pass_candidate"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/许褚-黄金-虎痴裸衣-候选1.png",
+      "sha256": "a4f974f389b2a3e353ad2388026ccb33193096933b56aaefaaf8fee030ad8da0",
+      "actual_pixels": [
+        1024,
+        1536
+      ],
+      "library_uploaded": false,
+      "key": "card_gold",
+      "status": "independent_QA_pass_candidate"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/许褚-黑铜传记-解缚入帐-候选1.png",
+      "sha256": "bf9fddef7984dff2d30c73a20a5d26d57d38873c114914921b4eca52ac72473c",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "key": "story_blackiron_to_bronze",
+      "status": "independent_QA_pass_candidate"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/silver-pair_2026-10-18_21-50-31_UTC+08/许褚-铜银传记-一跃上舟-候选1.png",
+      "sha256": "d8627e66548b2c0067d9e5daa7aa911371c015addb5a817d5e5f2a9e3f2158c2",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "key": "story_bronze_to_silver",
+      "status": "independent_QA_pass_candidate"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/gold-pair_2026-10-18_21-55-39_UTC+08/许褚-银金传记-卸甲再战-候选1.png",
+      "sha256": "7b88f23fc27fc8bc11bccdba66d098a73a023b85ea84f695d7969084948b7447",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_uploaded": false,
+      "key": "story_silver_to_gold",
+      "status": "independent_structure_QA_pass_weapon_design_continuity_root_decision_pending"
+    }
+  ],
+  "superseded_retained": [
+    "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-pair_2026-10-18_21-44-25_UTC+08/许褚-青铜-初刀入军-候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/xuchu-set/bronze-local_2026-10-18_21-48-24_UTC+08/许褚-青铜-单刀控缰与虎首内收-局修1.png"
+  ],
+  "generation_counts": {
+    "this_worker_initial": 6,
+    "this_worker_bounded_repairs": 2
+  },
+  "UI_notes": {
+    "bronze": "One low passive panel cuts horse lower mouth. Shift independent panel down, preserve pure art. Face/hand/tiger all readable.",
+    "silver": "Only tiger right ear trimmed by star column; eyes/nose/mouth complete. Parent/root explicitly allows endpoint crop, no edit.",
+    "gold": "Tiger left ear clipped by source/emblem, face eyes/nose/mouth complete. Parent/root explicitly allows endpoint crop, no edit; rear weapon hand inside frame."
+  },
+  "maker_QA": {
+    "bronze": "Old Y branch removed by single-hand recovery plus rein grip; first repair left tiny cylinder at waist. Second authorized cleanup removes wooden cap/wrap, replaced broad cloth fold; pending audit. Main pole, grip, reins native viewed. Story four hands/rope clear and independent pass.",
+    "silver": "Card saddle grasp and straight punting pole each one hand, Cao separately crouched below; native pole/water and boat grip/foot contacts viewed. Story piggyback four hands and grounded takeoff stance clear. Foreground ship rail/rope edge soft retained as audit-approved noncritical edge.",
+    "gold": "Card near-horizontal straight shaft through both hands, real single blade, horse head and source face native checked. Story transfer armor and separate upright blade hand checked. Story blade longer and haft shorter than card, flagged to audit not concealed. Main feet soil clear, extreme edge softer."
+  },
+  "not_claimed": "No super-resolution; no exact pixel lock; no final content/UI approval inferred."
+}

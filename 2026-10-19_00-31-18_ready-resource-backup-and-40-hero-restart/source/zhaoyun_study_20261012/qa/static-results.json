@@ -1,0 +1,91 @@
+{
+  "checks": [
+    {
+      "name": "Unique IDs",
+      "pass": true
+    },
+    {
+      "name": "All section links resolve",
+      "pass": true
+    },
+    {
+      "name": "All local paths resolve",
+      "pass": true
+    },
+    {
+      "name": "All images have meaningful alternative text",
+      "pass": true
+    },
+    {
+      "name": "No external scripts or font dependencies",
+      "pass": true
+    },
+    {
+      "name": "No private paths or secrets",
+      "pass": true
+    },
+    {
+      "name": "No audio or video autoplay",
+      "pass": true
+    },
+    {
+      "name": "No blank content placeholders",
+      "pass": true
+    },
+    {
+      "name": "All 12 evidence images decode",
+      "pass": true
+    }
+  ],
+  "images": [
+    {
+      "file": "cocos_replica_20260916.jpeg",
+      "bytes": 164772
+    },
+    {
+      "file": "official_1.jpg",
+      "bytes": 88367
+    },
+    {
+      "file": "official_3.jpg",
+      "bytes": 113786
+    },
+    {
+      "file": "official_5.jpg",
+      "bytes": 104335
+    },
+    {
+      "file": "demo_100s.jpg",
+      "bytes": 52963
+    },
+    {
+      "file": "official_4.jpg",
+      "bytes": 103632
+    },
+    {
+      "file": "wx_sales_sep.png",
+      "bytes": 106810
+    },
+    {
+      "file": "demo_82s.jpg",
+      "bytes": 51048
+    },
+    {
+      "file": "official_2.jpg",
+      "bytes": 89328
+    },
+    {
+      "file": "dy_sales_sep.png",
+      "bytes": 120370
+    },
+    {
+      "file": "demo_84s.jpg",
+      "bytes": 51354
+    },
+    {
+      "file": "wx_play_sep.png",
+      "bytes": 94076
+    }
+  ],
+  "browser_validation": "BLOCKED: installed Chromium cannot start; socket() Operation not permitted. No screenshots/visual/real keyboard validation completed."
+}

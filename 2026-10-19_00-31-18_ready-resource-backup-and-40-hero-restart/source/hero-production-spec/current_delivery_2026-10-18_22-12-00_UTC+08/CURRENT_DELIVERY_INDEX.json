@@ -1,0 +1,30 @@
+{
+  "created_at": "2026-10-18T22:12:00+08:00",
+  "complete_heroes": 14,
+  "complete_primary_images": 98,
+  "complete_UI_cards": 56,
+  "overviews": 14,
+  "user_final": false,
+  "status": "technical_candidates_saved_pending_user_acceptance",
+  "exact_indices": [
+    "/workspace/scratch/3f82ff2b3f81/hero-production-spec/shu8_delivery_2026-10-18_21-05-20_UTC+08/CURRENT_SHU_CANDIDATE_INDEX.json",
+    "/workspace/scratch/3f82ff2b3f81/caocao-set/library-complete_2026-10-18_21-17-50_UTC+08/曹操-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/dianwei-set/library-complete_2026-10-18_21-24-45_UTC+08/典韦-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/library-complete_2026-10-18_21-43-15_UTC+08/徐晃-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/xunyu-set/library-complete_2026-10-18_21-45-35_UTC+08/荀彧-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/guojia-set/library-complete_2026-10-18_21-52-50_UTC+08/郭嘉-全套素材-Library索引.json",
+    "/workspace/scratch/3f82ff2b3f81/zhangliao-set/library-complete_2026-10-18_22-01-00_UTC+08/张辽-全套素材-Library索引.json"
+  ],
+  "in_progress": [
+    "张郃",
+    "许褚",
+    "乐进",
+    "于禁",
+    "周瑜",
+    "孙权",
+    "孙策",
+    "吕蒙",
+    "甘宁",
+    "孙尚香首样已过待扩"
+  ]
+}

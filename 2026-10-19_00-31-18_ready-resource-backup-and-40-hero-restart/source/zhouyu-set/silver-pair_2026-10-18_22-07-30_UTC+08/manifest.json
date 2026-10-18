@@ -1,0 +1,27 @@
+{
+  "assets": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/silver-pair_2026-10-18_22-07-30_UTC+08/周瑜-铜银传记-四忌决战-候选1.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2955a02eba4086d6a224a1731a4ee4bce60f5908ed8b0d997f7b48dbc5bc7a69",
+      "status": "pending_independent"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/silver-pair_2026-10-18_22-07-30_UTC+08/周瑜-白银-手与朱雀入窗-局修1.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "acf6a806a2c425ae2b8ec3a86b992f1cf60d5d544189f6b5368d12175ad5b78d",
+      "status": "pending_independent"
+    }
+  ],
+  "superseded": "白银候选1:手指及朱雀原位会被星栏遮",
+  "reference_mapping": [
+    "/workspace/scratch/3f82ff2b3f81/zhouyu-set/blackiron-first_2026-10-18_21-46-00_UTC+08/周瑜-黑铁-历阳知交-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/sunquan-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙权-黑铁-印绶初承-身份候选1.png"
+  ]
+}

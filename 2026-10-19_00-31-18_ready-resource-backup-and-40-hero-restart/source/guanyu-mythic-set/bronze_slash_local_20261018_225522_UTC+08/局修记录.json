@@ -1,0 +1,35 @@
+{
+  "status": "candidate_4_explicitly_rejected_by_user_do_not_use",
+  "method": "builtin image_gen",
+  "generated_call_count_this_followup": 1,
+  "generated_call_count_task_total": 4,
+  "started_at_utc": "2026-10-18T14:55:22Z",
+  "reference_paths_actually_passed": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225217_UTC+08/青铜-蛇矛避让局修-候选3.png"
+  ],
+  "reference_sha256": "af8f0f17bbbed4cb765fd1b6c68ed5f770883e67472e71c351d37b60cbd98c7d",
+  "generated_original_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b036a22c-b517-429b-9e42-e56b4b4eb8fe.png",
+  "candidate_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225522_UTC+08/青铜-蛇矛直轴局修-候选4.png",
+  "candidate_sha256": "9832ee7fe8ec34a3e6585ed50803e1fbc4169f78e21e470ca39dabe6d8cbc1df",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "prompt": "Use case: precise-object-edit.\nEdit ONLY the small black-armored rider Zhang Fei's two spear grips and the short spear shaft around them in the LEFT side of this exact image. Keep the spearhead's new safe direction toward the lower-left edge. Keep the ENTIRE central Guan Yu and his long overhead guandao exactly unchanged, including face, raised arm, single-hand grip, shaft, blade, pose, clothes and horse.\n\nThere is one specific mechanical error to repair: Zhang Fei's upper/forward hand holds a shaft slanting down-left toward the wavy spearhead, but his lower/right hand holds an old residual segment slanting down-right. That creates an impossible V-shaped bent spear. Remove the obsolete right-slanting residual segment completely. Continue the spearhead's shaft in ONE perfectly straight rigid axis through the forward hand and diagonally UP-RIGHT toward the rear grip and tail. Move Zhang Fei's rear hand, wrist and necessary forearm ONTO that straight continuation; do NOT preserve the old hand position if that would bend the shaft. His two fists must be separated along the same single cylindrical pole, both palms and fingers visibly wrapping it naturally, elbows bent and wrists credible. His rear hand may rise in front of his chest beside his shoulder, leaving his face clear. Maintain consistent rod thickness and perspective. No branching, angled joint, second pole, disconnected stump, floating hand or hidden discontinuity. Show an adequate straight rear tail, safely distinct from Guan Yu's separate guandao.\n\nKeep the long wavy snake-spear blade pointing toward lower-left open/off-frame space with clear separation from Guan Yu's body, robe, knee and horse. Preserve the same blade design and long polearm scale; do not shorten the weapon just to fit. Keep Zhang Fei's face, identity, torso, armor and horse fixed except necessary forearm and hand articulation.\n\nEvery other part must remain unchanged: Guan Yu's complete cutting wind-up and long guandao, Liu Bei and swords, all three horses, enemies, mud, peach blossoms, cloud dragon, background, composition, lighting, original vivid detailed painted style, portrait framing and aspect ratio. Do not redesign anyone, add effects, gold powder, text or UI. This is only a small straight-shaft-and-grips repair.",
+  "native_qa": {
+    "inspection": "Original-pixel unscaled supporting spear/grip crop and Guan Yu face/hand/guandao crop visually inspected.",
+    "crop_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225522_UTC+08/QA-native-张飞双手矛轴.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225522_UTC+08/QA-native-关羽脸手刀.png"
+    ],
+    "guanyu": "Long guandao, single-hand overhead cutting wind-up and shoulder-elbow-wrist load path retained, face/identity/horse largely preserved.",
+    "supporting_hands": "Both Zhang Fei hands now wrap the same apparent shaft at separated points. Previous major V-shaped branch and residual rod removed.",
+    "supporting_clearance": "Wavy spearhead faces lower-left outside frame, clearly away from Guan Yu knee, robe and horse.",
+    "remaining_axis_concern": "Rear upper segment above Zhang Fei's raised hand appears slightly steeper than the inter-hand/main shaft, leaving a subtle angle change at the occluded grip. Strict straight-axis continuity not verified.",
+    "remaining_tail_concern": "Blunt tail visually approaches/abuts the white horse muzzle/cheek in the background. No sharp blade hits a friend, but this projected contact remains visually awkward.",
+    "other_invariants": "Composition, main horse, enemy, mud, blossoms and dragon largely retained. No gold powder or UI.",
+    "verdict": "Superseded by explicit user rejection. Do not use for delivery or positive identity/pose reference."
+  },
+  "untouched": "Source images, UI and other standalone hero sets not changed.",
+  "latest_user_rejection": "2026-10-18 23:12 UTC+08: 用户通过root明确否决三人脸型表情畸形扭曲、三人骑马持武器均糟糕；不再可用，也不得作为正向脸/动作参考。"
+}

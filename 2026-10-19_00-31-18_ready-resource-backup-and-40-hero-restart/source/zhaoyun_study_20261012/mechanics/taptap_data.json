@@ -1,0 +1,1481 @@
+[
+  [
+    "ShallowReactive",
+    1
+  ],
+  {
+    "data": 2,
+    "state": 401,
+    "once": 416,
+    "_errors": 417,
+    "serverRendered": 14,
+    "path": 419,
+    "pinia": 420
+  },
+  [
+    "ShallowReactive",
+    3
+  ],
+  {
+    "1fakesJ4e2KI2DnnTfFcXJ8XKqRqgEFzFDqxlDxci2o": 4,
+    "XzCiaDKvRcJ2Est4oHUHFxNv35ww4lodFZp391397_Q": 6,
+    "ZKXaH1uzrGHzgrSc6W6QgNmh9EUFBdmbZtsMQqybsO8": 105,
+    "Mq-WUX9BFKx_sP2AsEd7iqf1Vh33GkR4gQcF63iKkb0": 160,
+    "Kf8RBZR4TGpYLjRdSUFhSOgx_N-5lF2I2yABXKzw5zQ": 163
+  },
+  {
+    "test_plan": 5
+  },
+  null,
+  {
+    "list": 7
+  },
+  [
+    8
+  ],
+  {
+    "id": 9,
+    "identifier": 10,
+    "list": 11,
+    "itunes_id": 104
+  },
+  865519,
+  "com.zyyad.game",
+  [
+    12
+  ],
+  {
+    "type": 13,
+    "is_primary": 14,
+    "flag": 15,
+    "download": 16
+  },
+  "default",
+  true,
+  5,
+  {
+    "apk_id": 17,
+    "apk": 18,
+    "apk_permissions": 26,
+    "api_level": 101,
+    "is_force": 102,
+    "target_sdk_version": 103
+  },
+  1061624,
+  {
+    "native_code": 19,
+    "name": 22,
+    "size": 23,
+    "md5": 24,
+    "version_code": 15,
+    "version_name": 25
+  },
+  [
+    20,
+    21
+  ],
+  "arm64-v8a",
+  "armeabi-v7a",
+  "com.zyyad.game-5.apk",
+  124514411,
+  "9e4284f38306a1a676f27dba8f62e546",
+  "1.0.59",
+  [
+    27,
+    54
+  ],
+  {
+    "label": 28,
+    "data": 29
+  },
+  "隐私敏感权限",
+  [
+    30,
+    34,
+    38,
+    42,
+    46,
+    50
+  ],
+  {
+    "label": 31,
+    "permission": 32,
+    "description": 33
+  },
+  "只能在前台获取精确的位置信息",
+  "android.permission.ACCESS_FINE_LOCATION",
+  "此应用只有在前台运行时才能获取你的精确位置信息。你的手机必须支持并开启这些位置信息服务，此应用才能使用这些服务。这可能会增加耗电量。",
+  {
+    "label": 35,
+    "permission": 36,
+    "description": 37
+  },
+  "只能在前台获取大概位置（基于网络）",
+  "android.permission.ACCESS_COARSE_LOCATION",
+  "此应用只能在前台根据网络来源（例如手机信号塔和WLAN网络）获取你的位置信息。你的设备必须支持并开启这些位置信息服务，此应用才能使用这些服务。",
+  {
+    "label": 39,
+    "permission": 40,
+    "description": 41
+  },
+  "读取手机状态和身份",
+  "android.permission.READ_PHONE_STATE",
+  "允许该应用访问设备的电话功能。此权限可让该应用确定本机号码和设备 ID、是否正处于通话状态以及拨打的号码。",
+  {
+    "label": 43,
+    "permission": 44,
+    "description": 45
+  },
+  "读取你的SD卡中的内容",
+  "android.permission.READ_EXTERNAL_STORAGE",
+  "允许应用读取您SD卡的内容。",
+  {
+    "label": 47,
+    "permission": 48,
+    "description": 49
+  },
+  "修改或删除你的SD卡中的内容",
+  "android.permission.WRITE_EXTERNAL_STORAGE",
+  "允许写入SD卡。",
+  {
+    "label": 51,
+    "permission": 52,
+    "description": 53
+  },
+  "检索正在运行的应用",
+  "android.permission.GET_TASKS",
+  "允许该应用检索近期运行的和当前正在运行的任务的相关信息。此权限可让该应用了解设备上使用了哪些应用。",
+  {
+    "label": 55,
+    "data": 56
+  },
+  "常规权限",
+  [
+    57,
+    61,
+    65,
+    69,
+    73,
+    77,
+    81,
+    85,
+    89,
+    93,
+    97
+  ],
+  {
+    "label": 58,
+    "permission": 59,
+    "description": 60
+  },
+  "查看网络连接",
+  "android.permission.ACCESS_NETWORK_STATE",
+  "允许该应用查看网络连接的相关信息，例如存在和连接的网络。",
+  {
+    "label": 62,
+    "permission": 63,
+    "description": 64
+  },
+  "查看WLAN连接",
+  "android.permission.ACCESS_WIFI_STATE",
+  "允许该应用查看WLAN网络的相关信息，例如是否启用了WLAN以及连接的WLAN设备的名称。",
+  {
+    "label": 66,
+    "permission": 67,
+    "description": 68
+  },
+  "更改网络连接性",
+  "android.permission.CHANGE_NETWORK_STATE",
+  "允许应用更改网络连接的状态。",
+  {
+    "label": 70,
+    "permission": 71,
+    "description": 72
+  },
+  "连接WLAN网络和断开连接",
+  "android.permission.CHANGE_WIFI_STATE",
+  "允许该应用与WLAN接入点建立和断开连接，以及更改WLAN网络的设备配置。",
+  {
+    "label": 74,
+    "permission": 75,
+    "description": 76
+  },
+  "完全的网络访问权限",
+  "android.permission.INTERNET",
+  "允许应用程序打开网络套接字。浏览器和其他某些应用提供了向互联网发送数据的途径，因此应用无需该权限即可向互联网发送数据。",
+  {
+    "label": 78,
+    "permission": 79,
+    "description": 80
+  },
+  "更改你的音频设置",
+  "android.permission.MODIFY_AUDIO_SETTINGS",
+  "允许该应用修改全局音频设置，例如音量和用于输出的扬声器。",
+  {
+    "label": 82,
+    "permission": 83,
+    "description": 84
+  },
+  "开机启动",
+  "android.permission.RECEIVE_BOOT_COMPLETED",
+  "允许应用在系统完成引导后立即自动启动。这样可能会延长设备的启动时间，并允许应用始终运行，从而导致设备总体运行速度减慢。",
+  {
+    "label": 86,
+    "permission": 87,
+    "description": 88
+  },
+  "对正在运行的应用重新排序",
+  "android.permission.REORDER_TASKS",
+  "允许该应用将任务移动到前台和后台。该应用可能不经你的命令自行执行此操作。",
+  {
+    "label": 90,
+    "permission": 91,
+    "description": 92
+  },
+  "控制振动",
+  "android.permission.VIBRATE",
+  "允许应用控制振动器。",
+  {
+    "label": 94,
+    "permission": 95,
+    "description": 96
+  },
+  "防止手机休眠",
+  "android.permission.WAKE_LOCK",
+  "允许应用阻止设备进入休眠状态。",
+  {
+    "label": 98,
+    "permission": 99,
+    "description": 100
+  },
+  "请求安装文件包",
+  "android.permission.REQUEST_INSTALL_PACKAGES",
+  "允许应用请求安装文件包。",
+  22,
+  false,
+  36,
+  6755426265,
+  {
+    "description": 106,
+    "developer_note": 108,
+    "information": 110
+  },
+  {
+    "text": 107
+  },
+  "《赵云与阿斗》是一款文字合成策略塔防类游戏。核心玩法是文字配对升级各类士兵、合成三国武将，来抵御汹涌来袭的敌军，保卫我方阿斗，游戏内两方占据游戏页面上下两部分，游戏战斗直至对方保卫阿斗失败，我方即游戏胜利。",
+  {
+    "text": 109
+  },
+  "",
+  [
+    111,
+    117,
+    122,
+    125,
+    128,
+    133,
+    136,
+    139,
+    142,
+    145,
+    148,
+    152,
+    156
+  ],
+  {
+    "type": 112,
+    "title": 113,
+    "text": 114,
+    "link": 115,
+    "web_url": 116
+  },
+  "text_link",
+  "厂商",
+  "蜜獾工坊",
+  "taptap://taptap.com/developer?developer_id=30252",
+  "/developer/30252",
+  {
+    "type": 118,
+    "key": 119,
+    "title": 120,
+    "text": 121
+  },
+  "text",
+  "developer_legal_name",
+  "供应商",
+  "北京蜜獾工坊科技有限公司",
+  {
+    "type": 118,
+    "title": 123,
+    "text": 124
+  },
+  "统一社会信用代码",
+  "91110106MA0045NY72",
+  {
+    "type": 118,
+    "title": 126,
+    "text": 127
+  },
+  "Android 正式上线日期",
+  "2026-06-05",
+  {
+    "type": 129,
+    "title": 130,
+    "text": 131,
+    "list": 132
+  },
+  "text_list",
+  "支持语言",
+  "简体中文",
+  [
+    131
+  ],
+  {
+    "type": 118,
+    "title": 134,
+    "text": 135
+  },
+  "适龄分级",
+  "12周岁+",
+  {
+    "type": 118,
+    "title": 137,
+    "text": 138
+  },
+  "系统版本要求",
+  "无系统要求",
+  {
+    "type": 118,
+    "key": 140,
+    "title": 141
+  },
+  "apk_size",
+  "游戏大小",
+  {
+    "type": 118,
+    "key": 143,
+    "title": 144
+  },
+  "version_name",
+  "当前版本",
+  {
+    "type": 118,
+    "title": 146,
+    "text": 147
+  },
+  "更新时间",
+  "2026-10-09",
+  {
+    "type": 118,
+    "key": 149,
+    "title": 150,
+    "text": 151
+  },
+  "internet_app",
+  "联网 App",
+  "否",
+  {
+    "type": 153,
+    "key": 154,
+    "title": 155
+  },
+  "no_text_link",
+  "apk_permissions",
+  "所需权限",
+  {
+    "type": 153,
+    "key": 157,
+    "title": 158,
+    "link": 159
+  },
+  "privacy_policy",
+  "隐私政策",
+  "https://www.mihuangame.com/privacypolicy.html",
+  {
+    "list": 161,
+    "status": 162
+  },
+  [],
+  {
+    "has_announcement": 102,
+    "has_activity": 102,
+    "has_game_number": 102
+  },
+  {
+    "app": 164
+  },
+  {
+    "id": 9,
+    "identifier": 10,
+    "itunes_id": 165,
+    "title": 166,
+    "flag": 167,
+    "title_labels": 168,
+    "icon": 171,
+    "style": 180,
+    "update_time": 181,
+    "hidden_button": 102,
+    "has_game_guide": 102,
+    "is_exclusive": 102,
+    "hide_score": 102,
+    "hide_review": 102,
+    "app_videos": 182,
+    "banner": 225,
+    "screenshots": 235,
+    "description": 271,
+    "developer_note": 272,
+    "tags": 273,
+    "log": 279,
+    "event_log": 302,
+    "stat": 303,
+    "awards": 312,
+    "information_bar": 313,
+    "badges": 328,
+    "seo": 330,
+    "sharing": 337,
+    "complaint": 346,
+    "whats_news": 350,
+    "compliance_info": 353,
+    "enable_widget": 102,
+    "enable_stats": 14,
+    "platform_info": 357,
+    "apk_whats_new": 364,
+    "developer_bar": 368,
+    "uri": 371,
+    "developers": 373,
+    "released_time": 334,
+    "is_level": 102,
+    "level_rating_enabled": 102,
+    "miniapp": 391,
+    "client_uri": 393,
+    "tap_platform_services": 394
+  },
+  "6755426265",
+  "赵云与阿斗",
+  2,
+  [
+    169
+  ],
+  {
+    "label": 170
+  },
+  "测试",
+  {
+    "url": 172,
+    "medium_url": 173,
+    "small_url": 174,
+    "original_url": 175,
+    "original_format": 176,
+    "width": 177,
+    "height": 177,
+    "color": 178,
+    "original_size": 179,
+    "large_url": 172
+  },
+  "https://img-tc.tapimg.com/market/images/26a5fced3fe802f3347f8bc2e991dffe.jpg/_tap_appicon.jpg",
+  "https://img-tc.tapimg.com/market/images/26a5fced3fe802f3347f8bc2e991dffe.jpg/_tap_appicon_m.jpg",
+  "https://img-tc.tapimg.com/market/images/26a5fced3fe802f3347f8bc2e991dffe.jpg/_tap_appicon_s.jpg",
+  "https://img-tc.tapimg.com/market/images/26a5fced3fe802f3347f8bc2e991dffe.jpg",
+  "jpeg",
+  270,
+  "0x998336",
+  64789,
+  0,
+  1791547954,
+  [
+    183
+  ],
+  {
+    "type": 184,
+    "video": 185
+  },
+  "app_trial",
+  {
+    "video_id": 186,
+    "play_url": 187,
+    "info": 191,
+    "thumbnail": 194,
+    "raw_cover": 204,
+    "trace_log": 214,
+    "play_log": 216,
+    "preview_animation": 218,
+    "status": 224
+  },
+  5698027,
+  {
+    "url": 188,
+    "url_h265": 189,
+    "url_expires": 190
+  },
+  "https://pl.taptap.cn/hls/lubwo-dGwM0GAXjMBVmLoLB8Ok8z.m3u8?device_id=54b8173c-53ed-46ec-8a2c-0e47448b10ed&sign=20ea175e6b43fce6f2afc5094904debaac62d042&ts=1791811051",
+  "https://pl.taptap.cn/hls/lubwo-dGwM0GAXjMBVmLoLB8Ok8z.h265.m3u8?device_id=54b8173c-53ed-46ec-8a2c-0e47448b10ed&sign=47712c56591de435aca37a1399d0b5e2adfd0993&ts=1791811051",
+  1791811051,
+  {
+    "aspect_ratio": 192,
+    "best_format_name": 109,
+    "duration": 193
+  },
+  "0.5625",
+  261,
+  {
+    "url": 195,
+    "medium_url": 196,
+    "small_url": 197,
+    "original_url": 198,
+    "original_format": 199,
+    "width": 200,
+    "height": 200,
+    "color": 201,
+    "original_size": 202,
+    "large_url": 203
+  },
+  "https://img-tc.tapimg.com/market/images/d9ecd302c0a7733b773d7dc3c03564d5.png/_tap_banner.jpg",
+  "https://img-tc.tapimg.com/market/images/d9ecd302c0a7733b773d7dc3c03564d5.png/_tap_banner_m.jpg",
+  "https://img-tc.tapimg.com/market/images/d9ecd302c0a7733b773d7dc3c03564d5.png/_tap_banner_s.jpg",
+  "https://img-tc.tapimg.com/market/images/d9ecd302c0a7733b773d7dc3c03564d5.png",
+  "png",
+  1440,
+  "0xffffff",
+  2543284,
+  "https://img-tc.tapimg.com/market/images/d9ecd302c0a7733b773d7dc3c03564d5.png/_tap_banner_l.jpg",
+  {
+    "url": 205,
+    "medium_url": 206,
+    "small_url": 207,
+    "original_url": 208,
+    "original_format": 176,
+    "width": 209,
+    "height": 210,
+    "color": 211,
+    "original_size": 212,
+    "large_url": 213
+  },
+  "https://img-tc.tapimg.com/video-picture/tid-6a22af82089d79dcd298719e/first.jpg/_tap_banner.jpg",
+  "https://img-tc.tapimg.com/video-picture/tid-6a22af82089d79dcd298719e/first.jpg/_tap_banner_m.jpg",
+  "https://img-tc.tapimg.com/video-picture/tid-6a22af82089d79dcd298719e/first.jpg/_tap_banner_s.jpg",
+  "https://img-tc.tapimg.com/video-picture/tid-6a22af82089d79dcd298719e/first.jpg",
+  720,
+  1280,
+  "0x998a78",
+  109265,
+  "https://img-tc.tapimg.com/video-picture/tid-6a22af82089d79dcd298719e/first.jpg/_tap_banner_l.jpg",
+  {
+    "video_id": 186,
+    "subjectId": 9,
+    "subjectType": 215
+  },
+  "appDetail",
+  {
+    "video_id": 186,
+    "paramId": 186,
+    "paramType": 217,
+    "subjectId": 9,
+    "subjectType": 215
+  },
+  "videoDetail",
+  {
+    "url": 219,
+    "medium_url": 220,
+    "small_url": 221,
+    "original_url": 222,
+    "color": 201,
+    "large_url": 223
+  },
+  "https://img.tapimg.com/video-preview/anim-FpOWSl9nwZ2suXwcNQH-HVpdmIq-.webp",
+  "https://img.tapimg.com/video-preview/anim-FnOO8pO4ZUm2B2HMfazIe_Av2Lwc.webp",
+  "https://img-tc.tapimg.com/video-preview/anim-Fr2Ji01D4h09hFKNtNdD13KDpLhx.webp/_tap_banner_s.jpg",
+  "https://img-tc.tapimg.com/video-preview/anim-Fr2Ji01D4h09hFKNtNdD13KDpLhx.webp",
+  "https://img-tc.tapimg.com/video-preview/anim-Fr2Ji01D4h09hFKNtNdD13KDpLhx.webp/_tap_banner_l.jpg",
+  {
+    "can_play": 14
+  },
+  {
+    "url": 226,
+    "medium_url": 227,
+    "small_url": 228,
+    "original_url": 229,
+    "original_format": 176,
+    "width": 230,
+    "height": 231,
+    "color": 232,
+    "original_size": 233,
+    "large_url": 234
+  },
+  "https://img-tc.tapimg.com/market/images/5be0da129f4972abbe297a26bde58e27.jpg/_tap_banner.jpg",
+  "https://img-tc.tapimg.com/market/images/5be0da129f4972abbe297a26bde58e27.jpg/_tap_banner_m.jpg",
+  "https://img-tc.tapimg.com/market/images/5be0da129f4972abbe297a26bde58e27.jpg/_tap_banner_s.jpg",
+  "https://img-tc.tapimg.com/market/images/5be0da129f4972abbe297a26bde58e27.jpg",
+  1920,
+  1080,
+  "0x877769",
+  277423,
+  "https://img-tc.tapimg.com/market/images/5be0da129f4972abbe297a26bde58e27.jpg/_tap_banner_l.jpg",
+  [
+    236,
+    243,
+    250,
+    257,
+    264
+  ],
+  {
+    "url": 237,
+    "medium_url": 238,
+    "small_url": 239,
+    "original_url": 240,
+    "original_format": 199,
+    "width": 231,
+    "height": 230,
+    "color": 241,
+    "original_size": 242,
+    "large_url": 237
+  },
+  "https://img-tc.tapimg.com/market/images/2d3fa062bea1d7cb46c4c15488211111.png/_tap_screenshot.jpg",
+  "https://img-tc.tapimg.com/market/images/2d3fa062bea1d7cb46c4c15488211111.png/_tap_screenshot_m.jpg",
+  "https://img-tc.tapimg.com/market/images/2d3fa062bea1d7cb46c4c15488211111.png/_tap_screenshot_s.jpg",
+  "https://img-tc.tapimg.com/market/images/2d3fa062bea1d7cb46c4c15488211111.png",
+  "0x998b7b",
+  609045,
+  {
+    "url": 244,
+    "medium_url": 245,
+    "small_url": 246,
+    "original_url": 247,
+    "original_format": 199,
+    "width": 231,
+    "height": 230,
+    "color": 248,
+    "original_size": 249,
+    "large_url": 244
+  },
+  "https://img-tc.tapimg.com/market/images/b7b77333c277870093e5fb508ba20304.png/_tap_screenshot.jpg",
+  "https://img-tc.tapimg.com/market/images/b7b77333c277870093e5fb508ba20304.png/_tap_screenshot_m.jpg",
+  "https://img-tc.tapimg.com/market/images/b7b77333c277870093e5fb508ba20304.png/_tap_screenshot_s.jpg",
+  "https://img-tc.tapimg.com/market/images/b7b77333c277870093e5fb508ba20304.png",
+  "0x8b8e85",
+  460464,
+  {
+    "url": 251,
+    "medium_url": 252,
+    "small_url": 253,
+    "original_url": 254,
+    "original_format": 199,
+    "width": 231,
+    "height": 230,
+    "color": 255,
+    "original_size": 256,
+    "large_url": 251
+  },
+  "https://img-tc.tapimg.com/market/images/0321dcfda4b996a2a734d1905bb9fe17.png/_tap_screenshot.jpg",
+  "https://img-tc.tapimg.com/market/images/0321dcfda4b996a2a734d1905bb9fe17.png/_tap_screenshot_m.jpg",
+  "https://img-tc.tapimg.com/market/images/0321dcfda4b996a2a734d1905bb9fe17.png/_tap_screenshot_s.jpg",
+  "https://img-tc.tapimg.com/market/images/0321dcfda4b996a2a734d1905bb9fe17.png",
+  "0x998285",
+  469567,
+  {
+    "url": 258,
+    "medium_url": 259,
+    "small_url": 260,
+    "original_url": 261,
+    "original_format": 199,
+    "width": 231,
+    "height": 230,
+    "color": 262,
+    "original_size": 263,
+    "large_url": 258
+  },
+  "https://img-tc.tapimg.com/market/images/1f86cc8a99851aa6eb09ea7e3feebfc1.png/_tap_screenshot.jpg",
+  "https://img-tc.tapimg.com/market/images/1f86cc8a99851aa6eb09ea7e3feebfc1.png/_tap_screenshot_m.jpg",
+  "https://img-tc.tapimg.com/market/images/1f86cc8a99851aa6eb09ea7e3feebfc1.png/_tap_screenshot_s.jpg",
+  "https://img-tc.tapimg.com/market/images/1f86cc8a99851aa6eb09ea7e3feebfc1.png",
+  "0x99948a",
+  459545,
+  {
+    "url": 265,
+    "medium_url": 266,
+    "small_url": 267,
+    "original_url": 268,
+    "original_format": 199,
+    "width": 231,
+    "height": 230,
+    "color": 269,
+    "original_size": 270,
+    "large_url": 265
+  },
+  "https://img-tc.tapimg.com/market/images/a491a38968b8b5f6ad2fb263ab5f4bf9.png/_tap_screenshot.jpg",
+  "https://img-tc.tapimg.com/market/images/a491a38968b8b5f6ad2fb263ab5f4bf9.png/_tap_screenshot_m.jpg",
+  "https://img-tc.tapimg.com/market/images/a491a38968b8b5f6ad2fb263ab5f4bf9.png/_tap_screenshot_s.jpg",
+  "https://img-tc.tapimg.com/market/images/a491a38968b8b5f6ad2fb263ab5f4bf9.png",
+  "0x7a6d5b",
+  417420,
+  {
+    "text": 107
+  },
+  {
+    "text": 109
+  },
+  [
+    274
+  ],
+  {
+    "id": 275,
+    "value": 276,
+    "uri": 277,
+    "web_url": 278
+  },
+  1151818,
+  "策略",
+  "taptap://taptap.com/library?tag=%E7%AD%96%E7%95%A5",
+  "/tag/%E7%AD%96%E7%95%A5",
+  {
+    "follow": 280,
+    "open": 284,
+    "page_view": 287,
+    "play": 290,
+    "reserve": 293,
+    "unfollow": 296,
+    "unreserved": 299
+  },
+  {
+    "params": 281
+  },
+  {
+    "type": 282,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "follow",
+  "0.6.0",
+  {
+    "params": 285
+  },
+  {
+    "type": 286,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "open",
+  {
+    "params": 288
+  },
+  {
+    "type": 289,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "pageView",
+  {
+    "params": 291
+  },
+  {
+    "type": 292,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "appRedirect",
+  {
+    "params": 294
+  },
+  {
+    "type": 295,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "appReserve",
+  {
+    "params": 297
+  },
+  {
+    "type": 298,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "unfollow",
+  {
+    "params": 300
+  },
+  {
+    "type": 301,
+    "APIVersion": 283,
+    "paramId": 9,
+    "paramType": 215
+  },
+  "appUnreserved",
+  {
+    "paramId": 9,
+    "paramType": 215
+  },
+  {
+    "rating": 304,
+    "hits_total": 308,
+    "review_count": 309,
+    "fans_count": 310,
+    "wish_count": 311,
+    "level_like_count": 180
+  },
+  {
+    "score": 305,
+    "max": 306,
+    "latest_score": 307,
+    "latest_review_count": 180,
+    "latest_version_review_count": 180
+  },
+  "6.0",
+  10,
+  "7.7",
+  494818,
+  1683,
+  423352,
+  16,
+  [],
+  [
+    314,
+    317,
+    321,
+    322,
+    326
+  ],
+  {
+    "type": 118,
+    "key": 315,
+    "title": 316
+  },
+  "download_count",
+  "热度",
+  {
+    "type": 118,
+    "key": 318,
+    "title": 319,
+    "text": 320
+  },
+  "age_grade",
+  "适用年龄",
+  "12+",
+  {
+    "type": 118,
+    "key": 140,
+    "title": 141
+  },
+  {
+    "type": 323,
+    "key": 324,
+    "title": 325
+  },
+  "follow_button",
+  "follow_count",
+  "关注",
+  {
+    "type": 118,
+    "title": 327,
+    "text": 127
+  },
+  "上线日期",
+  {
+    "has_official": 14,
+    "has_tap_real_name": 14,
+    "has_tap_login": 14,
+    "age_grade": 329
+  },
+  12,
+  {
+    "title": 331,
+    "keywords": 332,
+    "description": 333,
+    "index": 14,
+    "release_time": 334,
+    "mobile_adapt_info": 335
+  },
+  "赵云与阿斗官服下载-官网论坛-TapTap",
+  "赵云与阿斗官服下载,赵云与阿斗非渠道服下载,赵云与阿斗官网,蜜獾工坊官方入驻",
+  "「赵云与阿斗的开发者蜜獾工坊官方已入驻TapTap，打开官网论坛查看最新攻略视频!」 赵云与阿斗官服正版免费下载最新版，非渠道服 《赵云与阿斗》是一款文字合成策略塔防类游戏。核心玩法是文字配对升级各类士兵、合成三国武将，来抵御汹涌来袭的敌军，保卫我方阿斗，游戏内两方占据游戏页面上下两部分，游戏战斗直至对方保卫阿斗失败，我方即游戏胜利。",
+  1780665097,
+  {
+    "zh_CN": 336
+  },
+  "https://www.taptap.cn/app/%E8%B5%B5%E4%BA%91%E4%B8%8E%E9%98%BF%E6%96%97-865519",
+  {
+    "url": 338,
+    "title": 166,
+    "description": 339,
+    "image": 340,
+    "message_params": 343
+  },
+  "https://www.taptap.cn/app/865519",
+  " (1,683 人评价)\r\n策略",
+  {
+    "url": 341,
+    "medium_url": 341,
+    "small_url": 341,
+    "original_url": 175,
+    "original_format": 176,
+    "width": 342,
+    "height": 342,
+    "color": 178,
+    "original_size": 179,
+    "large_url": 341
+  },
+  "https://img-tc.tapimg.com/market/images/26a5fced3fe802f3347f8bc2e991dffe.jpg/_tap_sharing.jpg",
+  512,
+  {
+    "obj_type": 344,
+    "obj_id": 345
+  },
+  "app",
+  "865519",
+  {
+    "uri": 347,
+    "web_url": 348,
+    "url": 349
+  },
+  "taptap://taptap.com/to?url=https%3A%2F%2Fwww.taptap.cn%2Fcomplaint%3Fid%3D865519%26type%3Dapp",
+  "/complaint?id=865519&type=app",
+  "https://www.taptap.cn/complaint?id=865519&type=app",
+  {
+    "list": 351,
+    "status": 352
+  },
+  [],
+  {
+    "has_announcement": 102,
+    "has_activity": 102,
+    "has_game_number": 102
+  },
+  {
+    "developer_legal_name": 121,
+    "privacy_policy": 159,
+    "list": 354
+  },
+  [
+    355,
+    356
+  ],
+  {
+    "type": 118,
+    "key": 149,
+    "title": 150,
+    "text": 151
+  },
+  {
+    "type": 118,
+    "title": 144,
+    "text": 25
+  },
+  {
+    "current_platform": 358,
+    "supported_platforms": 360
+  },
+  {
+    "key": 359
+  },
+  "android",
+  [
+    361,
+    362
+  ],
+  {
+    "key": 359
+  },
+  {
+    "key": 363
+  },
+  "ios",
+  {
+    "version_label": 365,
+    "update_date": 181,
+    "whatsnew": 366,
+    "version_code": 15
+  },
+  "1.0.59 (5)",
+  {
+    "text": 367
+  },
+  "<div>新增隐藏武将；<br/>新增武器。</div>",
+  [
+    369
+  ],
+  {
+    "type": 112,
+    "key": 370,
+    "title": 113,
+    "text": 114,
+    "link": 115,
+    "web_url": 116
+  },
+  "developer",
+  {
+    "google": 109,
+    "google_play": 109,
+    "apple": 372,
+    "download_site": 109
+  },
+  "https://apps.apple.com/app/id6755426265?ct=Tap865519",
+  [
+    374
+  ],
+  {
+    "id": 375,
+    "type": 370,
+    "label": 113,
+    "name": 114,
+    "website": 376,
+    "is_online": 14,
+    "highlight_tags": 377,
+    "avatar": 384
+  },
+  30252,
+  "https://www.mihuangame.com/",
+  [
+    378,
+    381
+  ],
+  {
+    "type": 379,
+    "value": 380
+  },
+  "app_scale",
+  "1",
+  {
+    "type": 382,
+    "value": 383
+  },
+  "developer_veteran_years",
+  "8",
+  {
+    "url": 385,
+    "medium_url": 386,
+    "small_url": 387,
+    "original_url": 388,
+    "original_format": 176,
+    "width": 342,
+    "height": 342,
+    "color": 389,
+    "original_size": 390,
+    "large_url": 385
+  },
+  "https://img-tc.tapimg.com/market/images/fb4d35a6dcf36a91105d4dc74069572c.jpg/_tap_avatar.jpg",
+  "https://img-tc.tapimg.com/market/images/fb4d35a6dcf36a91105d4dc74069572c.jpg/_tap_avatar_m.jpg",
+  "https://img-tc.tapimg.com/market/images/fb4d35a6dcf36a91105d4dc74069572c.jpg/_tap_avatar_s.jpg",
+  "https://img-tc.tapimg.com/market/images/fb4d35a6dcf36a91105d4dc74069572c.jpg",
+  "0x998a36",
+  28575,
+  {
+    "miniapp_id": 392
+  },
+  "tapmc0jmopxwdmj1mb",
+  "taptap://taptap.com/app?app_id=865519",
+  [
+    395,
+    397,
+    399
+  ],
+  {
+    "type": 396
+  },
+  "official",
+  {
+    "type": 398
+  },
+  "tap_login",
+  {
+    "type": 400
+  },
+  "tap_real_name",
+  [
+    "Reactive",
+    402
+  ],
+  {
+    "$scloud-game-backend-queue-state": 14,
+    "$slayout-header-spotlight-now": 403,
+    "$ssidebar-redesign-gray-feature-enabled": 102,
+    "$ssidebar-redesign-gray-preference": 5,
+    "$sbff": 404,
+    "$sapp-review-aside-compose-865519": 180,
+    "$spcGameDownloadInfoMap": 410,
+    "$spcGameDownloadInfoPendingMap": 411,
+    "$sapp-id": -1,
+    "$sis-page-loading": 14,
+    "$spage-loading-error-msg": -1,
+    "$sactive-ranking-tab": 412,
+    "$spublic-ranking-data": -1,
+    "$sis-loading-public-ranking": 102,
+    "$sis-loading-public-ranking-next-page": 102,
+    "$sis-loading-friend-ranking": 102,
+    "$sfriend-ranking-data": -1,
+    "$sranking-config": -1,
+    "$sselected-ranking-config": -1,
+    "$sbanner-avg-color": 413,
+    "$sgame-event-theme-color": 414,
+    "$sapp-aside-overview-visible-tag-layout": 415
+  },
+  1791796651201,
+  [
+    405,
+    406,
+    407,
+    408,
+    409
+  ],
+  "http://www.taptap.cn/webapiv2/app/v6/detail?X-UA=V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D54b8173c-53ed-46ec-8a2c-0e47448b10ed%26DT%3DPC&id=865519",
+  "http://www.taptap.cn/webapiv2/app/v2/whats-new?X-UA=V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D247c5760-2f61-40cc-813f-aebf27bfdc04%26DT%3DPC&app_id=865519&preview=false",
+  "http://www.taptap.cn/webapiv2/app/v5/information?X-UA=V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D44bc4a69-f65f-407b-9382-0b46ed5367cc%26DT%3DPC&app_id=865519",
+  "http://www.taptap.cn/webapiv2/app/v3/button-flag?X-UA=V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3DAndroid%26UID%3D5b78ef06-64bc-460a-bacf-ff7a8cbfbb3e%26DT%3DPC&ids=865519",
+  "http://www.taptap.cn/webapiv2/app/v1/test?X-UA=V%3D1%26PN%3DWebApp%26LANG%3Dzh_CN%26VN_CODE%3D100000000%26LOC%3DCN%26PLT%3DPC%26DS%3D%26UID%3Dfc1440dd-7130-461d-9cb4-bbd8f42f36ed%26DT%3DPC&app_id=865519",
+  {},
+  {},
+  "public",
+  "#6b717b",
+  "#ffffff",
+  {},
+  [
+    "Set"
+  ],
+  [
+    "ShallowReactive",
+    418
+  ],
+  {
+    "Kf8RBZR4TGpYLjRdSUFhSOgx_N-5lF2I2yABXKzw5zQ": 5,
+    "ZKXaH1uzrGHzgrSc6W6QgNmh9EUFBdmbZtsMQqybsO8": 5,
+    "app-game-event-865519": 5,
+    "XzCiaDKvRcJ2Est4oHUHFxNv35ww4lodFZp391397_Q": 5,
+    "1fakesJ4e2KI2DnnTfFcXJ8XKqRqgEFzFDqxlDxci2o": 5,
+    "pvo9yWf-HKcfUAleZi6T-em9ML4YZPOwy4DZ_XA1fxQ": 5,
+    "Mq-WUX9BFKx_sP2AsEd7iqf1Vh33GkR4gQcF63iKkb0": 5,
+    "IbuGsOPTXDofXtRgqmEsFTPBnfpJjWtcrNZNnzL_Nhk": 5,
+    "eeqB0CHsHjjPZcXX8y4PfnrTKFosrotJriOXIWoknUk": 5,
+    "mjc5qMyadvod_aI5qlFfd1CybpnwT6YDnIE0CCtjVu0": 5,
+    "msZlZGS2Qrcbm93aO5MqLTuI3u5135ZpFYlq9Rub6cU": 5,
+    "sWPdJ7rCIKahhkIONOrB3PHQbaMousGMFLxrtLY1i78": 5,
+    "cm6tTdPZxwmRcKphAQaOOTMAHg2WkVi9Q3T1oQxiAkY": 5,
+    "u6UdOgo4SCD8WW-0Dy4I4IZRccZddKwZn3VaUKNTuzs": 5,
+    "r7UQu84jCgCLAKCFpVTDNKPzAyUOLCRGMssvdP084ZU": 5,
+    "CnqXUpwQfrQsoeJTGVrXovOTgU5Rt2MLB8rkVoQ_oAQ": 5,
+    "7L1p-Xh9qJXtptsYY0yd9DBFlD3d8mr5dkQYWcVJIH8": 5,
+    "OdEbu_8ZHHiywv_tV49CllAwrikpYG_wubi9glDTtQY": 5
+  },
+  "/app/865519",
+  [
+    "Reactive",
+    421
+  ],
+  {
+    "layout": 422,
+    "datasource": 452,
+    "theme": 456,
+    "account": 461,
+    "behavior": 463,
+    "favorite": 470,
+    "friendship": 477,
+    "vote": 481,
+    "global_config": 488,
+    "app": 489,
+    "wishlist": 502
+  },
+  {
+    "mediaQueryMatchMobile": 423,
+    "mediaQueryMatchPad": 425,
+    "mediaQueryMatchNoSidebar": 426,
+    "mediaQueryMatchSearchFullPage": 427,
+    "mediaQueryMatchVideoMobile": 428,
+    "mediaQueryMatchContentMobile": 429,
+    "mediaQueryMatchPortrait": 430,
+    "mediaQueryMatchForumNoAside": 431,
+    "mediaQueryReady": 432,
+    "isShowOpenAppButton": 433,
+    "isInWechat": 434,
+    "showFeedEditorModal": 435,
+    "showFeedEditorPageName": 436,
+    "FeedEditorMdodalMoment": 438,
+    "forumHeaderSearch": 440,
+    "asideHeight": 443,
+    "asideMinHeight": 445,
+    "isForumSidebarManageMenuOpen": 446,
+    "forumGroupItems": 447,
+    "forumGroupsReady": 450,
+    "forumGroupExpanded": 451
+  },
+  [
+    "EmptyRef",
+    424
+  ],
+  "false",
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    437
+  ],
+  "\"\"",
+  [
+    "EmptyRef",
+    439
+  ],
+  "null",
+  [
+    "Ref",
+    441
+  ],
+  [
+    "Reactive",
+    442
+  ],
+  {
+    "active": 102
+  },
+  [
+    "EmptyRef",
+    444
+  ],
+  "0",
+  [
+    "EmptyRef",
+    444
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "Ref",
+    448
+  ],
+  [
+    "Reactive",
+    449
+  ],
+  [],
+  [
+    "EmptyRef",
+    424
+  ],
+  [
+    "EmptyRef",
+    424
+  ],
+  {
+    "dataSource": 453,
+    "defaultAppButtonDataSource": 455
+  },
+  [
+    "Ref",
+    454
+  ],
+  "Android",
+  [
+    "Ref",
+    454
+  ],
+  {
+    "theme": 457,
+    "themeMode": 459
+  },
+  [
+    "Ref",
+    458
+  ],
+  "light",
+  [
+    "Ref",
+    460
+  ],
+  "auto",
+  {
+    "userInfo": 462
+  },
+  [
+    "EmptyRef",
+    439
+  ],
+  {
+    "myReviewList": 464,
+    "unreadTotal": 467
+  },
+  [
+    "Ref",
+    465
+  ],
+  [
+    "Reactive",
+    466
+  ],
+  [],
+  [
+    "Ref",
+    468
+  ],
+  [
+    "Reactive",
+    469
+  ],
+  {},
+  {
+    "favoriteStatusList": 471,
+    "favoriteDataMap": 474
+  },
+  [
+    "Ref",
+    472
+  ],
+  [
+    "Reactive",
+    473
+  ],
+  [],
+  [
+    "Ref",
+    475
+  ],
+  [
+    "Reactive",
+    476
+  ],
+  {},
+  {
+    "friendshipList": 478
+  },
+  [
+    "Ref",
+    479
+  ],
+  [
+    "Reactive",
+    480
+  ],
+  [],
+  {
+    "voteStatusList": 482,
+    "voteDataMap": 485
+  },
+  [
+    "Ref",
+    483
+  ],
+  [
+    "Reactive",
+    484
+  ],
+  [],
+  [
+    "Ref",
+    486
+  ],
+  [
+    "Reactive",
+    487
+  ],
+  {},
+  {},
+  {
+    "buttonStatusList": 490,
+    "clientUriInfo": 501
+  },
+  [
+    "Ref",
+    491
+  ],
+  [
+    "Reactive",
+    492
+  ],
+  {
+    "android": 493,
+    "ios": 494,
+    "pc": 495,
+    "steam": 496,
+    "psn": 497,
+    "epic": 498,
+    "xbox": 499,
+    "ps": 500
+  },
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "Map"
+  ],
+  [
+    "EmptyRef",
+    439
+  ],
+  {
+    "wishlistMap": 503
+  },
+  [
+    "Ref",
+    504
+  ],
+  [
+    "Reactive",
+    505
+  ],
+  [
+    "Map"
+  ]
+]

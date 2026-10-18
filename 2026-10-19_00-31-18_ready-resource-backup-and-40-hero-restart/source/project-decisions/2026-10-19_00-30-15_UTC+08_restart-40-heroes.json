@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-19T00:30:15.058865+08:00",
+  "user_messages": [
+    "Sentinel_91fe250572048191af8b8a7ffadd5acc",
+    "Sentinel_6b9268e76a108191901ecb3eb9b7ce1e"
+  ],
+  "request": "Commit current project resources and documents to the established public GitHub repository, then proceed with complete hero sets: ten each for Wei, Shu, Wu, Qun. Do not interrupt with routine questions; upload progress promptly.",
+  "scope": {
+    "factions": {
+      "Wei": 10,
+      "Shu": 10,
+      "Wu": 10,
+      "Qun": 10
+    },
+    "total_heroes": 40,
+    "images_each": 7,
+    "total_images": 280,
+    "existing_Liu_Guan_Zhang_included": true
+  },
+  "current_21": "Preserve latest delivered Liu Bei, Guan Yu and Zhang Fei candidate source map and history; no new claim of user final acceptance.",
+  "requirements": "hero-production-spec/restart_20261019_002737_UTC+08/LATEST_REQUIREMENTS.md",
+  "backup_gate": "Archive ready current resources and requirements first. Exclude active new Zhao Yun, Huang Zhong and Ma Chao production directories until manifests are ready; never snapshot partially written files.",
+  "privacy": "Only project resources, feedback and constraints; exclude credentials and private internal notes."
+}

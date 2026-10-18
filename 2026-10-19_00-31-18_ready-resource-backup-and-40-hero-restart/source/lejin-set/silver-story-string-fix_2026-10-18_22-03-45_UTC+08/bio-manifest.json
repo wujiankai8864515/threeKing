@@ -1,0 +1,114 @@
+{
+  "asset_id": "lejin_bio_3_fix1",
+  "hero_id": "yuejin",
+  "stage": 3,
+  "kind": "bio",
+  "title": "壕前追箭-静弓直弦修正",
+  "status": "failed_candidate_preserved",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-88d1abee-ee2d-4c50-a1fd-c2e9208dc069.png",
+  "source_sha256": "9ed857cb3e3cf47dba9213c8a37d26577e2739f0776acc72b02773faacc773f4",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/乐进-传记2-静弓直弦-局修1.png",
+  "saved_sha256": "9ed857cb3e3cf47dba9213c8a37d26577e2739f0776acc72b02773faacc773f4",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T22:05:04.008440+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/bio-prompt.txt",
+  "prompt_sha256": "2fc515df8880664482f4a10b5a608c984753bab8924c3f080060585dfc780be7",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/乐进-传记2-壕前追箭-候选1.png",
+      "sha256": "38a4b9a6d2fa88c69dcba80a2a6391ae851cbbe5f0d8a2e7921d539592bbfcf6",
+      "role": "accepted hero identity"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [
+    {
+      "asset_id": "lejin_bio_3_fix1",
+      "type": "lower_string_wrong_connection",
+      "observation": "Removed old V but replacement lower end attaches mid-limb rather than actual lower nock; failed native inspection."
+    }
+  ],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-face-native100.png",
+      "xywh": [
+        515,
+        45,
+        225,
+        255
+      ],
+      "native_scale": 1,
+      "sha256": "a39a2ec3c0c4f53d8a028ebd83190c813d241b0f3bc3df00b7ba398805f47981"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-reins_hand-native100.png",
+      "xywh": [
+        340,
+        380,
+        150,
+        115
+      ],
+      "native_scale": 1,
+      "sha256": "feff371de3fbed8cf77f84a128948109a4cd5d6c3627e10dc4610e45dd457684"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-bow_hand-native100.png",
+      "xywh": [
+        830,
+        645,
+        175,
+        115
+      ],
+      "native_scale": 1,
+      "sha256": "c90e719eac5d18858f4dfb2c6405fa5e9cd7fac58c23eea4c063134ba183ee89"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-cloth-native100.png",
+      "xywh": [
+        740,
+        415,
+        160,
+        155
+      ],
+      "native_scale": 1,
+      "sha256": "1e07976657f8a6dc4b2dbc9e4f539a4c59e6d58fcc5909e7dc27f5d6ebbc0eec"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-whole_bow-native100.png",
+      "xywh": [
+        750,
+        420,
+        450,
+        500
+      ],
+      "native_scale": 1,
+      "sha256": "54a2d50640a761cd3a514deb3e0cbd8bfeea0ba99f78e1bb7c12542812532763"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/QA/bio-lower_string-native100.png",
+      "xywh": [
+        1000,
+        690,
+        170,
+        220
+      ],
+      "native_scale": 1,
+      "sha256": "c86d263672bc5bfed3d4efcf661501c543ba5c08e2ae3d518c713e81eac00ee1"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  }
+}

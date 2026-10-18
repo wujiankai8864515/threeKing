@@ -1,0 +1,12 @@
+[
+  {
+    "asset_id": "lejin_card_4_axisfix1",
+    "type": "remaining_blade_axis_deviation",
+    "observation": "Independent guide confirms blade tip remains about20px below projected straight shaft axis; do not claim fully coaxial. One authorized correction completed; no further generation pending root decision."
+  },
+  {
+    "asset_id": "lejin_bio_4_axisfix1",
+    "type": "remaining_blade_axis_deviation",
+    "observation": "Independent guide shows substantial improvement but blade tip remains about10+px off projected shaft axis; do not claim strict axis pass. One authorized correction completed; root decision pending."
+  }
+]

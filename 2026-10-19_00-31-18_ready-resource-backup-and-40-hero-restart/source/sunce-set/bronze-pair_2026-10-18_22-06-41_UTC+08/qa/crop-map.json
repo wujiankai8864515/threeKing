@@ -1,0 +1,167 @@
+[
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-face-native100.png",
+    "box": [
+      410,
+      255,
+      620,
+      465
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-spear-grip-native100.png",
+    "box": [
+      265,
+      495,
+      390,
+      655
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-signal-hand-native100.png",
+    "box": [
+      805,
+      495,
+      1000,
+      650
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-whole-spear-native100.png",
+    "box": [
+      245,
+      0,
+      425,
+      1180
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-lion-head-native100.png",
+    "box": [
+      405,
+      90,
+      690,
+      345
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-foot-plank-native100.png",
+    "box": [
+      365,
+      1000,
+      820,
+      1420
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-horse-handler-native100.png",
+    "box": [
+      5,
+      590,
+      310,
+      1080
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-青铜-借兵渡江-候选1.png",
+    "crop": "card-cloth-native100.png",
+    "box": [
+      380,
+      460,
+      710,
+      930
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-sun-face-native100.png",
+    "box": [
+      390,
+      115,
+      610,
+      330
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-sun-waist-hand-native100.png",
+    "box": [
+      180,
+      560,
+      365,
+      725
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-exchange-native100.png",
+    "box": [
+      710,
+      640,
+      1150,
+      830
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-yuanshu-face-native100.png",
+    "box": [
+      1280,
+      285,
+      1536,
+      535
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-yuanshu-rest-hand-native100.png",
+    "box": [
+      1260,
+      700,
+      1480,
+      820
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-lvfan-face-hands-native100.png",
+    "box": [
+      610,
+      210,
+      795,
+      600
+    ],
+    "scale": 1
+  },
+  {
+    "file": "孙策-黑铜传记-质玺换前路-候选1.png",
+    "crop": "bio-table-cloth-native100.png",
+    "box": [
+      430,
+      770,
+      1040,
+      1024
+    ],
+    "scale": 1
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-19T00:31:18.255890+08:00",
+  "previous_status": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/status-overrides.json",
+  "current_summary": "Current ready resources and latest requirements archived first. Resume remaining heroes toward 40 total (10 each Wei/Shu/Wu/Qun), 280 images including the existing Liu/Guan/Zhang 21 candidates.",
+  "scope": "Remaining hero production resumed, superseding prior pause. Existing 21 delivered candidates preserved unchanged pending user review.",
+  "user_message_ids": [
+    "Sentinel_91fe250572048191af8b8a7ffadd5acc",
+    "Sentinel_6b9268e76a108191901ecb3eb9b7ce1e"
+  ],
+  "workflow": "Proceed without routine questions; back up progress promptly. Active newly written production folders withheld until manifests are ready.",
+  "method_permission": "Existing explicit local masked-compositing approval remains in force within approved scope.",
+  "effective_source_map": "2026-10-19_00-31-18_ready-resource-backup-and-40-hero-restart/effective-source-map.json",
+  "requirements": "hero-production-spec/restart_20261019_002737_UTC+08/LATEST_REQUIREMENTS.md",
+  "excluded_inflight_directories": [
+    "huangzhong-set/remake_20261019_002900_UTC+08",
+    "huangzhong-set/remake_20261019_002900_UTC+08/prompts",
+    "huangzhong-set/remake_20261019_002900_UTC+08/raw",
+    "machao-set/full-remake_20261019_002921_UTC+08",
+    "machao-set/full-remake_20261019_002921_UTC+08/prompts",
+    "zhaoyun-set/full-remake_20261019_002848_UTC+08",
+    "zhaoyun-set/full-remake_20261019_002848_UTC+08/prompts"
+  ],
+  "excluded_nonproject_content": "One legacy QA helper with internal-only references excluded; no credentials or private internal notes collected."
+}

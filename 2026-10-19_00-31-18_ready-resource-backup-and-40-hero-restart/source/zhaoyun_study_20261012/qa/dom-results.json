@@ -1,0 +1,69 @@
+{
+  "scope": "Minimal DOM harness: verifies data/handlers only, not real browser/visual/keyboard behavior",
+  "checks": [
+    {
+      "name": "Default correct monthly rows",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset wx_sales_sep",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset wx_play_sep",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset dy_sales_sep",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset wx_sales_daily",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset wx_popular_daily",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset wx_play_daily",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset dy_sales_daily",
+      "pass": true
+    },
+    {
+      "name": "Exact isolated dataset dy_popular_daily",
+      "pass": true
+    },
+    {
+      "name": "Unsupported combo no synthetic list",
+      "pass": true
+    },
+    {
+      "name": "Modal opens correct image caption",
+      "pass": true
+    },
+    {
+      "name": "Close restores focus",
+      "pass": true
+    },
+    {
+      "name": "Manual demonstration advances",
+      "pass": true
+    },
+    {
+      "name": "Auto has explicit pause",
+      "pass": true
+    },
+    {
+      "name": "Pause clears timer",
+      "pass": true
+    },
+    {
+      "name": "Reset works",
+      "pass": true
+    }
+  ]
+}

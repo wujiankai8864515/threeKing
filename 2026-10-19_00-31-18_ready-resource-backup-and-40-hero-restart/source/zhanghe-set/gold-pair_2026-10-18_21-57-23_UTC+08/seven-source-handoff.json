@@ -1,0 +1,115 @@
+{
+  "hero_id": "zhanghe",
+  "art_count": 7,
+  "new_expansion_art_count": 6,
+  "native_size_portrait": [
+    1024,
+    1536
+  ],
+  "native_size_biography": [
+    1536,
+    1024
+  ],
+  "source_rescale_count": 0,
+  "UI_baked": false,
+  "assets": [
+    {
+      "asset_id": "zhanghe_card_1",
+      "tier": "黑铁",
+      "title": "河北枪锋",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "f3c9349c19f2279564ef09bd1198c40df0b31b89436dad2282705d5d7256e81b",
+      "status": "root_and_auditor_identity_candidate_pass",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_card_2",
+      "tier": "青铜",
+      "title": "转旗受命",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-青铜-转旗受命-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "88ba4c77337a4b7fcbb4254716d3e2317e8e6e32b36ba14179390bf2a3504768",
+      "status": "independent_pending",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_bio_1",
+      "tier": "青铜解锁",
+      "title": "谗言断归路",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-黑铜传记-谗言断归路-候选1.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "d03a9cf9508233ebd0283de1f829cc25f013e485eab9a2beafcc7ca12b4ff50b",
+      "status": "independent_pending",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_card_3",
+      "tier": "白银",
+      "title": "瓦口寻径",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/silver-pair_2026-10-18_21-52-16_UTC+08/张郃-白银-瓦口寻径-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "712ecedd7256a0b1d58556ea95c161adfe41600ee1ca5c5cf4cd93993178f0b6",
+      "status": "independent_frame_pending",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_bio_2",
+      "tier": "白银解锁",
+      "title": "从败阵走出",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/silver-pair_2026-10-18_21-52-16_UTC+08/张郃-铜银传记-从败阵走出-候选1.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e157fd4af362ab15f54096a3b40b3807cded765449765ab34c319c91c2d74e0b",
+      "status": "independent_pending",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_card_4",
+      "tier": "黄金",
+      "title": "街亭截援",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/gold-pair_2026-10-18_21-57-23_UTC+08/张郃-黄金-街亭截援-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "23ce30a02e5b076dbdcd55d5a7e17e3d20c08e99b098f79037cc033f4740eeeb",
+      "status": "independent_frame_pending",
+      "user_final_approval": false
+    },
+    {
+      "asset_id": "zhanghe_bio_3",
+      "tier": "黄金解锁",
+      "title": "截住援路",
+      "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/gold-pair_2026-10-18_21-57-23_UTC+08/张郃-银金传记-截住援路-候选1.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "e6690722b21accb134474dedfcac1c58ae56911f7fa38f7e713949bf4c5d1072",
+      "status": "independent_pending",
+      "user_final_approval": false
+    }
+  ],
+  "limitations": [
+    "Same right-facing head bias persists across cards despite left-facing prompts.",
+    "Similar narrow facial template to Xun remains disclosed; root accepted production candidate, not user final.",
+    "Silver crane did not fold one wing; left hand/source-edge and bird/frame safety awaiting actual-frame audit.",
+    "Gold older age shown subtly.",
+    "Independent UI compositor must use final selected source 1:1 in1190frame; no native4K claim."
+  ]
+}

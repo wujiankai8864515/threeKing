@@ -1,0 +1,32 @@
+{
+  "assets": [
+    {
+      "asset_id": "sunce_card_3",
+      "file": "/workspace/scratch/3f82ff2b3f81/sunce-set/silver-pair_2026-10-18_22-13-00_UTC+08/孙策-白银-神亭争锋-候选1.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-080568d6-e705-4380-9a44-4893e1a0852c.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "5cbf91641b6b9e7487d3e1eaa44179e37943c6ac956633cc252e8f7840d43c5c",
+      "status": "failed_Taishi_Ci_disconnected_double_axis_one_local_rebuild_authorized",
+      "rescale_count": 0,
+      "final_art_postprocessing": "none"
+    },
+    {
+      "asset_id": "sunce_bio_2",
+      "file": "/workspace/scratch/3f82ff2b3f81/sunce-set/silver-pair_2026-10-18_22-13-00_UTC+08/孙策-铜银传记-十三骑上神亭-候选1.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fdd60523-c80c-4993-ac42-d9c8a71297cd.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "908985c9d64453493e2c7eeb2e07f0f2e64e3e9d76645958ff0c6df095bc3931",
+      "status": "creator_native_QA_pass_independent_pending",
+      "rescale_count": 0,
+      "final_art_postprocessing": "none"
+    }
+  ],
+  "references_file": "actual-reference-before-generation.json",
+  "user_final_approval": false
+}

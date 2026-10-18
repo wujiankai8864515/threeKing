@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "周瑜",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "英略",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "周瑜",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "英略",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "周瑜",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "英略",
+        "level": "+2"
+      },
+      {
+        "name": "远筹",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "周瑜",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "英略",
+        "level": "+2"
+      },
+      {
+        "name": "远筹",
+        "level": "+2"
+      },
+      {
+        "name": "炎余",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  }
+}

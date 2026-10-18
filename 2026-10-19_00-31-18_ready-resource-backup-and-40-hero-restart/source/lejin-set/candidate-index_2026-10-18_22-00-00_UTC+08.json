@@ -1,0 +1,194 @@
+{
+  "hero_id": "yuejin",
+  "candidate_only": true,
+  "initial_identity": {
+    "path": "lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "technical_review": "independent technical pass and root accepted for expansion; cloth texture risk recorded",
+    "user_final_approval": false
+  },
+  "generated_expansion_assets_and_revisions": [
+    {
+      "asset_id": "lejin_card_2",
+      "hero_id": "yuejin",
+      "stage": 2,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-青铜-一箭追锋-候选1.png",
+      "sha256": "ea5ff0f534cd9c05b3ef2b6c51c9e5967d355bf52679bb88768601af0025706f",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "independent_technical_pass_style_risk",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_2",
+      "hero_id": "yuejin",
+      "stage": 2,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/乐进-传记1-伏兵齐起-候选1.png",
+      "sha256": "cdd1cdc74e2bbdd901dd87560574ae164a886fa170fa6b8a16356ac8399fe4b9",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/bronze-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "independent_structure_pass_edge_blur_root_decision_pending",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_card_3",
+      "hero_id": "yuejin",
+      "stage": 3,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/乐进-白银-南皮断逃-候选1.png",
+      "sha256": "98233175d78901fcf44ffcac4c8d33e6cc6227fdaba3b03c5c84d70674e21660",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "candidate_frame_grip_occlusion_fix_available_pending_review",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_3",
+      "hero_id": "yuejin",
+      "stage": 3,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/乐进-传记2-壕前追箭-候选1.png",
+      "sha256": "38a4b9a6d2fa88c69dcba80a2a6391ae851cbbe5f0d8a2e7921d539592bbfcf6",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/silver-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "failed_candidate_preserved",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_card_4",
+      "hero_id": "yuejin",
+      "stage": 4,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/乐进-黄金-退一步再进-候选1.png",
+      "sha256": "e48497f17d40782f6e7787b86cc887cb9ed8b46b07ec428f7f74a764bb4370e9",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/card-manifest.json",
+      "status": "failed_candidate_preserved",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_4",
+      "hero_id": "yuejin",
+      "stage": 4,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/乐进-传记3-以退引敌-候选1.png",
+      "sha256": "e105d342227dd297ebabcc3b75e868c12c11bb5db85b5c23f6abb45ec465b6b2",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/bio-manifest.json",
+      "status": "failed_candidate_preserved",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_card_3_fix1",
+      "hero_id": "yuejin",
+      "stage": 3,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/乐进-白银-握弓入安全区-局修1.png",
+      "sha256": "15a79d9bd3ca6c73d02c4b2fa7c54dbcefc8b33e8cde39018564984b1e3a791a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "lejin-set/silver-grip-fix_2026-10-18_21-54-11_UTC+08/card-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_3_fix1",
+      "hero_id": "yuejin",
+      "stage": 3,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/乐进-传记2-静弓直弦-局修1.png",
+      "sha256": "9ed857cb3e3cf47dba9213c8a37d26577e2739f0776acc72b02773faacc773f4",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/bio-manifest.json",
+      "status": "failed_candidate_preserved",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_3_fix2",
+      "hero_id": "yuejin",
+      "stage": 3,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/乐进-传记2-弦扣双梢-局修2.png",
+      "sha256": "cedbf3dd7a1e1e4d097c61b5a7d97c1419c46d9dd0a14a7c230547032392082f",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/bio-manifest.json",
+      "status": "independent_technical_pass",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_card_4_axisfix1",
+      "hero_id": "yuejin",
+      "stage": 4,
+      "kind": "card",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-黄金-刃杆共轴-局修1.png",
+      "sha256": "290e3faaf8fa84cdfeaa41678fe115ef6144ca1fb72d072cb65524e242585a23",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "manifest": "lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/card-manifest.json",
+      "status": "strict_axis_QA_not_passed_root_decision_pending",
+      "final_approval": false
+    },
+    {
+      "asset_id": "lejin_bio_4_axisfix1",
+      "hero_id": "yuejin",
+      "stage": 4,
+      "kind": "bio",
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-传记3-刃杆共轴-局修1.png",
+      "sha256": "72fccf6d9de3bf03ae1fde66aaeda6489816b62a42ca990713764be7d59fe7b0",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "manifest": "lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/bio-manifest.json",
+      "status": "strict_axis_QA_not_passed_root_decision_pending",
+      "final_approval": false
+    }
+  ],
+  "cancelled_before_generation": [
+    {
+      "asset_id": "lejin_card_4_fix1",
+      "reason": "Lead will move independent UI skill strips to reveal animal faces; do not change pure illustration"
+    }
+  ],
+  "preferred_silver_card": "lejin_card_3_fix1",
+  "risk_summary": [
+    "Bronze fabric retains brown crackle style risk",
+    "Lejin bronze story near slope blur awaits root decision",
+    "Lejin silver story latest string and gold axis fixes await independent review",
+    "Gold skill strips independently repositioned by lead, pure animal illustrations not regenerated"
+  ],
+  "integrity_check": {
+    "assets_checked": 11,
+    "all_source_copies_byte_identical": true,
+    "issues": []
+  }
+}

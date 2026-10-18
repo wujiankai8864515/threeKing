@@ -1,0 +1,18 @@
+{
+  "card": [
+    "/workspace/scratch/3f82ff2b3f81/sunquan-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙权-黑铁-印绶初承-身份候选1.png"
+  ],
+  "story": [
+    "/workspace/scratch/3f82ff2b3f81/sunquan-set/blackiron-first_2026-10-18_21-47-20_UTC+08/孙权-黑铁-印绶初承-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/ganning-set/blackiron-first_2026-10-18_21-54-20_UTC+08/甘宁-黑铁-锦帆旧客-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/lumeng-set/blackiron-first_2026-10-18_21-56-43_UTC+08/吕蒙-黑铁-江夏自棹-身份候选1.png"
+  ],
+  "actually_viewed": true,
+  "reference_status": {
+    "sunquan": "root_and_audit_pass_identity",
+    "ganning": "root_accepted_face_audit_pending_at_call",
+    "lumeng": "current_candidate_face_parent_authorized_cameo_not_final"
+  },
+  "source": "https://zh.wikisource.org/zh/三國演義/第038回",
+  "status": "prepared_not_yet_called"
+}

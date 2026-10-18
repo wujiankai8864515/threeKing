@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "许褚",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "蛮力",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "许褚",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "蛮力",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "许褚",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "蛮力",
+        "level": "+2"
+      },
+      {
+        "name": "悍击",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "许褚",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "蛮力",
+        "level": "+2"
+      },
+      {
+        "name": "悍击",
+        "level": "+2"
+      },
+      {
+        "name": "虎骨",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  }
+}

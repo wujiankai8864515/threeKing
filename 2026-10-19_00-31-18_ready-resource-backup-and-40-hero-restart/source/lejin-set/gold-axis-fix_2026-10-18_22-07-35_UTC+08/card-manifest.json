@@ -1,0 +1,110 @@
+{
+  "asset_id": "lejin_card_4_axisfix1",
+  "hero_id": "yuejin",
+  "stage": 4,
+  "kind": "card",
+  "title": "退一步再进",
+  "status": "strict_axis_QA_not_passed_root_decision_pending",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ac86ea32-ca2d-4e9b-98f3-42d29db5cb7d.png",
+  "source_sha256": "290e3faaf8fa84cdfeaa41678fe115ef6144ca1fb72d072cb65524e242585a23",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/乐进-黄金-刃杆共轴-局修1.png",
+  "saved_sha256": "290e3faaf8fa84cdfeaa41678fe115ef6144ca1fb72d072cb65524e242585a23",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1024,
+    1536
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T22:11:00.290970+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/card-prompt.txt",
+  "prompt_sha256": "6e7fec49b633a5a61d1c4497c9a91758e5f6649457d4fe7a646a517498e00a0a",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-pair_2026-10-18_21-25-51_UTC+08/乐进-黄金-退一步再进-候选1.png",
+      "sha256": "e48497f17d40782f6e7787b86cc887cb9ed8b46b07ec428f7f74a764bb4370e9",
+      "role": "exact preceding pure illustration for targeted built-in imagegen edit"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [
+    {
+      "asset_id": "lejin_card_4_axisfix1",
+      "type": "remaining_blade_axis_deviation",
+      "observation": "Independent guide confirms blade tip remains about20px below projected straight shaft axis; do not claim fully coaxial. One authorized correction completed; no further generation pending root decision."
+    }
+  ],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/card-face-native100.png",
+      "xywh": [
+        375,
+        125,
+        185,
+        230
+      ],
+      "native_scale": 1,
+      "sha256": "354eb8391a2fed3a8329ea511fc3b94862a2c73d37eb3e01a6da39578efaa204"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/card-reins_hand-native100.png",
+      "xywh": [
+        290,
+        390,
+        125,
+        120
+      ],
+      "native_scale": 1,
+      "sha256": "b04cc7bf7973d2c0c2e57a3b83f847989fa1ce2a1ef1da39c2e0223b84bfce8c"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/card-spear_hand-native100.png",
+      "xywh": [
+        640,
+        625,
+        140,
+        125
+      ],
+      "native_scale": 1,
+      "sha256": "c92b3435b96fdb97e9074f98352180c2b62e2eb86f80234ce3cab626bc0b850f"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/card-spear_axis-native100.png",
+      "xywh": [
+        490,
+        530,
+        534,
+        480
+      ],
+      "native_scale": 1,
+      "sha256": "050f8a2a91b11c0bc466e30906ab65f7b5e157dc6f03b3ce5bb804bec09600ed"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/gold-axis-fix_2026-10-18_22-07-35_UTC+08/QA/card-cloth-native100.png",
+      "xywh": [
+        500,
+        620,
+        150,
+        160
+      ],
+      "native_scale": 1,
+      "sha256": "72b0c29fe593d912df722fb81311eecce0dc5144d012d04ae4d888e88551c092"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "review_note": "Independent guide confirms blade tip remains about20px below projected straight shaft axis; do not claim fully coaxial. One authorized correction completed; no further generation pending root decision.",
+  "native_self_reviewed": true,
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Independent guide confirms blade tip remains about20px below projected straight shaft axis; do not claim fully coaxial. One authorized correction completed; no further generation pending root decision.",
+    "candidate_only": true
+  }
+}

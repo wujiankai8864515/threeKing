@@ -1,0 +1,12 @@
+{
+  "edit_target": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-青铜-转旗受命-候选1.png",
+  "role": "Only actual edit target; full image personally viewed after generation",
+  "sha256": "88ba4c77337a4b7fcbb4254716d3e2317e8e6e32b36ba14179390bf2a3504768",
+  "size": [
+    1024,
+    1536
+  ],
+  "authorized_scope": "Parent22:18 root standing SOP: one whole rigid spear reposition to reveal blade in actual frame; preserve receivinghand/narrative",
+  "method": "builtin image_gen precise local edit",
+  "candidate_count": 1
+}

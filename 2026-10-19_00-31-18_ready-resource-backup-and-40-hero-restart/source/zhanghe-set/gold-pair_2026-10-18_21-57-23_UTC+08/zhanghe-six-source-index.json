@@ -1,0 +1,119 @@
+{
+  "hero_id": "zhanghe",
+  "user_final_approval": false,
+  "identity": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png",
+  "identity_note": "root and audit accepted production candidate; similarity to Xun remains, not user final",
+  "pair_manifests": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/manifest.json",
+      "contents": {
+        "assets": [
+          {
+            "asset_id": "zhanghe_card_2",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-青铜-转旗受命-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a5731bcf-ce3b-4474-81b1-bd53a1e728ef.png",
+            "size": [
+              1024,
+              1536
+            ],
+            "mode": "RGB",
+            "sha256": "88ba4c77337a4b7fcbb4254716d3e2317e8e6e32b36ba14179390bf2a3504768",
+            "status": "creator_native_QA_pass_independent_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          },
+          {
+            "asset_id": "zhanghe_bio_1",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/bronze-pair_2026-10-18_21-47-41_UTC+08/张郃-黑铜传记-谗言断归路-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c5de2b76-e8ce-41cd-9e90-b4ee17888a9a.png",
+            "size": [
+              1536,
+              1024
+            ],
+            "mode": "RGB",
+            "sha256": "d03a9cf9508233ebd0283de1f829cc25f013e485eab9a2beafcc7ca12b4ff50b",
+            "status": "creator_native_QA_pass_independent_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          }
+        ],
+        "references_file": "actual-reference-before-generation.json",
+        "user_final_approval": false
+      }
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/silver-pair_2026-10-18_21-52-16_UTC+08/manifest.json",
+      "contents": {
+        "assets": [
+          {
+            "asset_id": "zhanghe_card_3",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/silver-pair_2026-10-18_21-52-16_UTC+08/张郃-白银-瓦口寻径-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-2f24d300-7327-4b7d-b7a0-425b2e5c8606.png",
+            "size": [
+              1024,
+              1536
+            ],
+            "mode": "RGB",
+            "sha256": "712ecedd7256a0b1d58556ea95c161adfe41600ee1ca5c5cf4cd93993178f0b6",
+            "status": "creator_native_QA_structural_pass_independent_frame_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          },
+          {
+            "asset_id": "zhanghe_bio_2",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/silver-pair_2026-10-18_21-52-16_UTC+08/张郃-铜银传记-从败阵走出-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c5c25b76-fbe6-483e-853a-2f0a6d1f805c.png",
+            "size": [
+              1536,
+              1024
+            ],
+            "mode": "RGB",
+            "sha256": "e157fd4af362ab15f54096a3b40b3807cded765449765ab34c319c91c2d74e0b",
+            "status": "creator_native_QA_structural_pass_independent_frame_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          }
+        ],
+        "references_file": "actual-reference-before-generation.json",
+        "user_final_approval": false
+      }
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/gold-pair_2026-10-18_21-57-23_UTC+08/manifest.json",
+      "contents": {
+        "assets": [
+          {
+            "asset_id": "zhanghe_card_4",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/gold-pair_2026-10-18_21-57-23_UTC+08/张郃-黄金-街亭截援-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-0e844191-9495-4e8a-8464-253d8f8dd42d.png",
+            "size": [
+              1024,
+              1536
+            ],
+            "mode": "RGB",
+            "sha256": "23ce30a02e5b076dbdcd55d5a7e17e3d20c08e99b098f79037cc033f4740eeeb",
+            "status": "creator_native_QA_pass_independent_and_frame_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          },
+          {
+            "asset_id": "zhanghe_bio_3",
+            "file": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/gold-pair_2026-10-18_21-57-23_UTC+08/张郃-银金传记-截住援路-候选1.png",
+            "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a0257785-33d1-4ec0-afff-c9f6235fe8b8.png",
+            "size": [
+              1536,
+              1024
+            ],
+            "mode": "RGB",
+            "sha256": "e6690722b21accb134474dedfcac1c58ae56911f7fa38f7e713949bf4c5d1072",
+            "status": "creator_native_QA_pass_independent_and_frame_pending",
+            "rescale_count": 0,
+            "final_art_postprocessing": "none"
+          }
+        ],
+        "references_file": "actual-reference-before-generation.json",
+        "user_final_approval": false
+      }
+    }
+  ]
+}

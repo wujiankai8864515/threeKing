@@ -1,0 +1,115 @@
+{
+  "asset_id": "lejin_bio_3_fix2",
+  "hero_id": "yuejin",
+  "stage": 3,
+  "kind": "bio",
+  "title": "壕前追箭-静弓直弦修正",
+  "status": "independent_technical_pass",
+  "tool": "builtin image_gen.imagegen",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8f9ffe91-c4e7-48e6-9581-f57f35df6e0c.png",
+  "source_sha256": "cedbf3dd7a1e1e4d097c61b5a7d97c1419c46d9dd0a14a7c230547032392082f",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/乐进-传记2-弦扣双梢-局修2.png",
+  "saved_sha256": "cedbf3dd7a1e1e4d097c61b5a7d97c1419c46d9dd0a14a7c230547032392082f",
+  "source_identical_to_saved": true,
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "native_4k": false,
+  "saved_at_beijing": "2026-10-18T22:11:00.287976+08:00",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/bio-prompt.txt",
+  "prompt_sha256": "8fd42fde9eb06db23c300587df442556e63c5b1b3551598e2436931352795f13",
+  "research_brief_path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/research-brief.json",
+  "research_brief_sha256": "18a370f90d1eecb7a1edd4d741d53ae8cdcea485cb649fa7c2838d4699029d9d",
+  "actual_referenced_image_paths": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-03-45_UTC+08/乐进-传记2-静弓直弦-局修1.png",
+      "sha256": "9ed857cb3e3cf47dba9213c8a37d26577e2739f0776acc72b02773faacc773f4",
+      "role": "exact preceding pure illustration for targeted built-in imagegen edit"
+    }
+  ],
+  "user_final_approval": false,
+  "failures": [],
+  "qa_crops": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-face-native100.png",
+      "xywh": [
+        515,
+        45,
+        225,
+        255
+      ],
+      "native_scale": 1,
+      "sha256": "8aae3af0e67f1d8e54686b954eda779194eb2b0f35e81b425e150e3fa6263ee4"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-reins_hand-native100.png",
+      "xywh": [
+        340,
+        380,
+        150,
+        115
+      ],
+      "native_scale": 1,
+      "sha256": "fa5daff5a5527305d454dc42446369c713f2aa097198412b06d765e56c7354a1"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-bow_hand-native100.png",
+      "xywh": [
+        830,
+        645,
+        175,
+        115
+      ],
+      "native_scale": 1,
+      "sha256": "6b9026683004e66c36c3c3dd977f180a62184b90d063430e3fb1aa03222a5b71"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-cloth-native100.png",
+      "xywh": [
+        740,
+        415,
+        160,
+        155
+      ],
+      "native_scale": 1,
+      "sha256": "31807f5d3e47a2c3374e23b75a7c7c2a21efe2cc53fd866dc69cc0a6745682a8"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-whole_bow-native100.png",
+      "xywh": [
+        750,
+        420,
+        450,
+        500
+      ],
+      "native_scale": 1,
+      "sha256": "fb3674b8d480814f336e5ee4ee0abba999d71db2b5b7fdc8cb80d0566b45f2c3"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/silver-story-string-fix_2026-10-18_22-06-50_UTC+08/QA/bio-lower_string-native100.png",
+      "xywh": [
+        1000,
+        690,
+        170,
+        220
+      ],
+      "native_scale": 1,
+      "sha256": "fd6da4b04bad7f8db2dcf1261ed2192ce5173ec36943886b41a1271cea37c8c4"
+    }
+  ],
+  "original_art_modified": false,
+  "identity_full_source_provenance": {
+    "path": "/workspace/scratch/3f82ff2b3f81/lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+    "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+    "actual_tool_reference": false,
+    "role": "face crop parent, not attached to avoid clothing texture propagation"
+  },
+  "review_note": "Full scene and native whole bow passed: one straight string connects both true tip nocks.",
+  "native_self_reviewed": true,
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "note": "Full scene and native whole bow passed: one straight string connects both true tip nocks.",
+    "candidate_only": true
+  }
+}
