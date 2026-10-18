@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T02:13:28.714608+08:00",
+  "verified_asset_commit": "2f191de647f00f7a85c00e74f1ebed332cf05adf",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 8558,
+  "sequential_copy_sha256_checked": true,
+  "hero": "taishici",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
