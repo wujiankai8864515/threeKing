@@ -1,0 +1,64 @@
+{
+  "asset_id": "machao_card_01_identity_candidate_1",
+  "status": "candidate_pending_root_and_independent_QA_not_identity_approved",
+  "title": "马超 黑铁 西凉少锋",
+  "created_local": "2026-10-18T19:34:03+08:00",
+  "tool": "builtin image_gen.imagegen",
+  "generation_count": 1,
+  "scope": "Only blackiron first identity/material sample; no remaining six images generated or authorized here.",
+  "output": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.prompt.txt",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "role": "PAINTING LANGUAGE only: clean Chinese-anime planar material rendering. Explicitly NOT identity, outfit, pose, beard, hair or scene.",
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e"
+    }
+  ],
+  "identity": "New original young-adult Ma Chao candidate: clean-shaven handsome angular face, long loose hair/forehead band, broad shoulders tight waist. No existing Ma Chao identity reference used.",
+  "brief_path": "/workspace/scratch/3f82ff2b3f81/hero-roster-research/2026-10-18_19-19-26_UTC+08/next_five_shu_briefs.json",
+  "SOP_path": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/2026-10-18_18-54-40_UTC+08/单英雄全素材制作与验收规范_v1.md",
+  "cultural_sources": [
+    {
+      "id": "N010",
+      "url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "actual_read": true,
+      "use": "Early western-army service under Ma Teng, youthful heroic build, long spear, fine horse, reining back after combat. Novel gives17; the picture deliberately adapts to a young adult around20 rather than a child face."
+    },
+    {
+      "id": "N065",
+      "url": "https://zh.wikisource.org/zh/三國演義/第065回",
+      "actual_read": true,
+      "use": "Later lion helmet/ornate martial recognition is a cultural motif only. Hanging small lion helmet, loose hair, early iron-bronze palette and chestnut mount are project reinterpretations, not a claim of exact chapter10 costume."
+    }
+  ],
+  "original_designs": [
+    "Faint gray wolf is project mythic symbol, not a claimed historical/novel wolf god.",
+    "Deep chestnut black-maned horse is unnamed project design, not a claimed named legendary mount."
+  ],
+  "QA": {
+    "inspected": "Full native image and nine native crops: face/hair, lance hand, rein hand, all visible spear, bridle, saddle/thigh/boot/stirrup, horse muscles/forelegs, armor/cloth, wolf cloud.",
+    "passes": [
+      "Distinct new clean-shaven youthful handsome face, no copied Liu Bei beard/identity; loose long hair differs from tied-up Zhao Yun direction.",
+      "One hand firmly grips lance and other naturally holds reins; no obvious extra hand/finger or inverted wrist.",
+      "Visible dark shaft from socket through grip to red helmet plume appears collinear; approximate centerline x~0.285*y+43, not an asserted subpixel measurement.",
+      "Seated hip/thigh/knee, boot stirrup and saddle contact plausible; reins connect to bit; normal chestnut horse head/chest/foreleg structure.",
+      "Cloth broad matte folds, skin connected planes, horse coat large muscle-plane painting; metal highlights mostly structural bevels/rivets, no all-material glitter pattern.",
+      "Gray cloud creature is clearly wolf long muzzle/pointed ears, not tiger/dragon; far army remains subordinate."
+    ],
+    "limitations": [
+      "Lower shaft tail disappears behind saddle-side helmet/red plume and rider leg; no re-emerging butt is visible, so complete total length cannot be fully certified from this view.",
+      "Full wolf head is more legible and larger than brief's almost-unformed ear outline; blackiron myth strength requires root decision.",
+      "Spear tip has only roughly10px top margin; final UI frame could cover it.",
+      "Horse hindlegs and lower hooves are outside the crop, not four-leg full-body proof. No claim all legs visible.",
+      "Armor has visible wear/small scratches and normal rivets; no claim every tiny bright mark removed."
+    ]
+  },
+  "further_calls": "One generation budget used; no repairs or expansion without new authorization.",
+  "output_sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89"
+}

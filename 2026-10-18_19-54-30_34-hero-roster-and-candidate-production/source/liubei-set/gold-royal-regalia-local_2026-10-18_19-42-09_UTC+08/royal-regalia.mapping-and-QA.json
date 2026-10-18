@@ -1,0 +1,31 @@
+{
+  "status": "candidate_pending_independent_review",
+  "asset": "liubei_card_04",
+  "tool": "builtin imagegen",
+  "calls_this_authorization": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+  "output": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "sha256": "a3b5321ff40d66080434c9f7743d6ce59f6e052233f8ce0de93455be1e4c7e9e",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+      "role": "sole edit target; retain identity, hands, jade tablet, yellow dragon, composition"
+    }
+  ],
+  "authorized_change": "Only royal ritual crown, collar/shoulder robe hierarchy and red royal sash; no global redraw.",
+  "observations": {
+    "identity": "Before/after native face crop inspected. Same bone structure, expression and beard; no visible drift.",
+    "hands_and_jade": "Both hands and jade tablet remain readable; no added fingers or changed pose observed.",
+    "regalia": "Black flat-board crown, short front bluegreen bead strands, charcoal ritual panels with large clean motifs and deep-red sash now make the ritual status much clearer.",
+    "materials": "Matte cloth and restrained metal/jade highlights; no new all-surface glitter. Source fine crosshatch remains.",
+    "dragon": "Source yellow dragon unchanged in design; original top-antler cropping remains, not within this edit scope.",
+    "cultural_precision": "Prompt requested seven front strands, but actual output visibly shows about five. Do not label accurate seven-strand royal reconstruction. This is an original mythic ritual adaptation with broad textual support only."
+  },
+  "qa_crops": "QA/*-100pct.png are native unscaled crops; crop-boxes.json records coordinates",
+  "approval": "Needs root/audit and framed review. No additional generation authorized."
+}

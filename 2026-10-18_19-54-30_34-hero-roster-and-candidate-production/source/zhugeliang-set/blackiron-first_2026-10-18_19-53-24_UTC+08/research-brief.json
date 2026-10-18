@@ -1,0 +1,265 @@
+{
+  "id": "zhugeliang",
+  "name": "诸葛亮",
+  "faction": "shu",
+  "brief_status": "research_complete_proposal",
+  "production_status": "not_started",
+  "approval_status": "人物在已授权范围；以下事件取舍、技能与细化造型为待审提案",
+  "personality": "把纷乱看成可推演的局，临大变仍有分寸。",
+  "symbol": {
+    "design": "卧龙、风、雷",
+    "status": "本轮给定幻想方向；具体形体为原创提案",
+    "form": "苍墨靛蓝的卧龙，伏于云山的宽弧体态，角枝平展、长眉与云纹鳞，尾部收在云中；不穿银甲，不作关羽式武龙咆哮。",
+    "boundary": "卧龙称号和借风可据演义；雷霆法术与实体现龙是本项目幻想。"
+  },
+  "battle_core": "先布局减缓一组敌人的节奏，再于指定目标落雷。核心是可预见的控场与时间选择，不复制庞统持续火伤，也不做张角全场天灾。",
+  "identity_design": {
+    "face": "清瘦长脸、沉静眉目、渐长胡须，四阶段保同一骨相，黄金可显成熟疲色但不病重。",
+    "body": "文士修长，姿态克制，不靠巨大重甲表现升级。",
+    "hair": "常态纶巾或束发；借风阶段可按第49回散发道衣处理，不将此推广为全阶披发。",
+    "palette": "月白、墨青、靛蓝，羽扇白羽有结构；雷光偏冷紫且局部使用。"
+  },
+  "weapon_and_mount_evidence": {
+    "novel": "第38回隆中对；第49回七星坛作法借风且有道衣、散发；第95回西城城楼抚琴。",
+    "project_original": "羽扇作为角色象征可用，但不能将任何商业扇名/法杖直接列为原著武器。风雷符阵与卧龙显形属项目原创。",
+    "mount": "不需要每阶骑马；出山可步行或车旁，避免统一骑将构图。",
+    "key_correction": "空城计属于演义情节；不作为已证史事，不画成诸葛亮靠雷劈退司马懿。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhugeliang_card_01",
+      "type": "card",
+      "star": 1,
+      "rank": "黑铁",
+      "proposed_title": "隆中高卧",
+      "event": "第37—38回隐居阶段",
+      "source_ids": [
+        "N037",
+        "N038"
+      ],
+      "scene": "草庐案边读卷，窗外山势伏卧；屋舍要有生活质感。",
+      "pose_and_camera": "坐姿侧面，未展羽扇置于案侧，目光抬起。",
+      "myth_growth": "远山云形仅暗示伏龙。",
+      "must_avoid": "不一开始天宫祭台、不满身星点。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_02",
+      "type": "card",
+      "star": 2,
+      "rank": "青铜",
+      "proposed_title": "出庐定策",
+      "event": "第38回隆中对后应刘备而出",
+      "source_ids": [
+        "N038"
+      ],
+      "scene": "草庐门前，诸葛亮携卷与羽扇迈步，刘备退为关系背景。",
+      "pose_and_camera": "站姿正侧，手中地图折卷不写烘焙小字。",
+      "myth_growth": "卧龙头部自山云抬起，体量尚小。",
+      "must_avoid": "不把刘备三顾主视角图换脸复用，不凭此编造精确年份。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_03",
+      "type": "card",
+      "star": 3,
+      "rank": "白银",
+      "proposed_title": "七星借风",
+      "event": "第49回七星坛借东南风",
+      "source_ids": [
+        "N049"
+      ],
+      "scene": "江边地面祭坛、旌旗朝同一东南风方向，江面舰队远小。",
+      "pose_and_camera": "仰角三分面，散发道衣，手势克制，足踏台面。",
+      "myth_growth": "卧龙沿风云上升，少量雷光为幻想装饰，不能遮坛。",
+      "must_avoid": "不把他画成亲自放火烧船的唯一赤壁胜者；不令火鸟替代卧龙。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_04",
+      "type": "card",
+      "star": 4,
+      "rank": "黄金",
+      "proposed_title": "空城定局",
+      "event": "第95回西城退敌",
+      "source_ids": [
+        "N095"
+      ],
+      "scene": "城楼抚琴、城门开敞，童子与洒扫者在应有位置，山外魏军停疑。",
+      "pose_and_camera": "正面偏侧稳坐，琴、双手和羽扇放置互不冲突。",
+      "myth_growth": "巨大卧龙伏于城后层云，风雷收敛成可读阵势，非毁城攻击。",
+      "must_avoid": "不要空城被神龙实际杀敌，避免失去智谋成立条件；不照抄赵云营门独骑。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    }
+  ],
+  "biographies": [
+    {
+      "asset_id": "zhugeliang_bio_to_02",
+      "type": "biography",
+      "target_card_id": "zhugeliang_card_02",
+      "target_star": 2,
+      "title": "三顾定志",
+      "event": "刘备第三顾，隆中对与应邀出山",
+      "source_ids": [
+        "N038"
+      ],
+      "scene": "以孔明案侧视角看刘备听策，门外关张只是次要见证。",
+      "first_person_transition_draft": "天下虽乱，路还没有断。我愿与使君一同走下去。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_bio_to_03",
+      "type": "biography",
+      "target_card_id": "zhugeliang_card_03",
+      "target_star": 3,
+      "title": "风起江上",
+      "event": "七星坛准备、祈风与吴军待令",
+      "source_ids": [
+        "N049"
+      ],
+      "scene": "近景孔明勘坛与旗位，远江火船待发，呈现借风卡的前因。",
+      "first_person_transition_draft": "火计已有，只待这一阵东南风。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_bio_to_04",
+      "type": "biography",
+      "target_card_id": "zhugeliang_card_04",
+      "target_star": 4,
+      "title": "虚实之间",
+      "event": "街亭失守后，西城兵少而设空城计",
+      "source_ids": [
+        "N095"
+      ],
+      "scene": "孔明安排开门洒扫与转运，童子抱琴上楼，魏军烟尘渐近。",
+      "first_person_transition_draft": "兵少，更不能先乱了心。开城门，把琴取来。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    }
+  ],
+  "skills": [
+    {
+      "skill_id": "zhugeliang_a1",
+      "name_draft": "风雷定局",
+      "kind": "active",
+      "stages_proposed": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "在指定敌方目标落下一次雷击。",
+      "trigger": "主动施放",
+      "target": "单目标起步，范围待系统定义",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "雷击沿清楚单一方向，落点可读",
+      "growth": "升级提高雷击效力，四星至多小范围。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "zhugeliang_p1",
+      "name_draft": "候风",
+      "kind": "passive",
+      "stages_proposed": [
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "主动施放前对指定敌方施加短暂迟滞。",
+      "trigger": "进入施法准备",
+      "target": "指定目标或小组，待定",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "风带形成方向明确的阵区",
+      "growth": "延迟/减速仅选择本系统支持的一种。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "zhugeliang_p2",
+      "name_draft": "审势",
+      "kind": "passive",
+      "stages_proposed": [
+        4
+      ],
+      "single_core_effect": "雷击对迟滞目标提高伤害。",
+      "trigger": "主动命中迟滞目标",
+      "target": "该目标",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "云中龙目对准落点",
+      "growth": "只连动一个状态，不叠封印、沉默、净化和回能。",
+      "decision_status": "原创提案，未定案"
+    }
+  ],
+  "event_candidates": [
+    {
+      "event": "隆中隐居",
+      "source": "N037",
+      "order": 1,
+      "reason": "卧龙伏藏的自然起点。"
+    },
+    {
+      "event": "隆中对出山",
+      "source": "N038",
+      "order": 2,
+      "reason": "人格与使命的明确转折。"
+    },
+    {
+      "event": "七星借风",
+      "source": "N049",
+      "order": 3,
+      "reason": "风元素有演义依据，雷另标幻想。"
+    },
+    {
+      "event": "空城退敌",
+      "source": "N095",
+      "order": 4,
+      "reason": "成熟谋略与静姿高阶，和借风祭坛轮廓差异大。"
+    }
+  ],
+  "rejected_or_reserve": [
+    "博望初用兵可替换青铜，但本批优先保隆中对与出山直接对应。",
+    "五丈原与禳星不设为默认黄金奖励，死亡不等于升级。"
+  ],
+  "modern_game_comparison": {
+    "sanguosha": "标准诸葛亮是预判牌序/空城防御，提炼的是掌控节奏；本作不使用其牌堆公式。",
+    "musou7": "羽扇的智将动作类别可参考，不把扇发射光束当古典依据。",
+    "sources": [
+      "G_ZHUGE",
+      "D_ZHUGE"
+    ]
+  },
+  "production_notes": [
+    "三位既有龙与本角色先做剪影比较：颜色拿掉后仍须分清卧龙、青龙、黄龙、银白龙。",
+    "琴有弦序、双手不穿琴；羽扇不能同时又握在弹琴的手中。"
+  ],
+  "gates_remaining": [
+    "确定并实际附加脸体身份参考",
+    "武器/骑乘或弓弦姿态参考核验",
+    "技能数值与战斗目标规则定义",
+    "一张身份与材质样张独立检查",
+    "扩量后四卡三传记、原生裁切与UI复检"
+  ]
+}

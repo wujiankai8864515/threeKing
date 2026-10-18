@@ -1,0 +1,24 @@
+[
+  {
+    "file": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+    "reference": "machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "reference_role": "same face costume and clean planar language; new composition",
+    "status": "card-audit-pass"
+  },
+  {
+    "file": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记-西凉起兵-候选1.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "1fca663488e18b4a2289eec7edda50f76d3f9fbac18658a51170326dfabeefbc",
+    "reference": "machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+    "reference_role": "same face costume and clean planar language; new composition",
+    "status": "story-audit-pending"
+  }
+]

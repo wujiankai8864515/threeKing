@@ -1,0 +1,37 @@
+{
+  "asset_id": "huangzhong_blackiron_v2",
+  "status": "material_passed_lower_string_connection_still_unresolved",
+  "asset": {
+    "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_fix_2026-10-18_19-43-00_UTC+08/黄忠-黑铁-v2-弦端与材质局修候选.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "format": "PNG",
+    "sha256": "8316c5f8f51933d13c5d200572c4efa98c109f58f6eb75aa954f602d39cf4d17"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/blackiron_identity_2026-10-18_19-31-29_UTC+08/黄忠-黑铁-v1-长沙老将身份候选.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "sha256": "0ee552ecd9a8a9f88c8198118726d7b76d83d10e8800923f458ebf92f732e744",
+      "role": "Edit target: preserve identity/pose; authorized string endpoint and material repairs only"
+    }
+  ],
+  "generated_with": "builtin image_gen",
+  "candidate_count_this_round": 1,
+  "prompt": "prompt-local-repair.txt",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3e7f0fee-40cb-4ed4-8232-6ae93eae07ec.png",
+  "resize_count": 0,
+  "creative_postprocessing": "none",
+  "qa_native_crops": 8,
+  "next_step": "Root authorized a new open-space bow-carry composition, not another same-position endpoint patch",
+  "updated": "2026-10-18T19:53:53.768864+08:00",
+  "delivery": "not_uploaded"
+}

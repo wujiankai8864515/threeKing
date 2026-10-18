@@ -1,0 +1,283 @@
+{
+  "id": "machao",
+  "name": "马超",
+  "faction": "shu",
+  "brief_status": "research_complete_proposal",
+  "production_status": "not_started",
+  "approval_status": "人物在已授权范围；以下事件取舍、技能与细化造型为待审提案",
+  "personality": "锋芒炽烈，从家仇与流离走向有所归属的力量。",
+  "symbol": {
+    "design": "西凉天狼",
+    "status": "本研究选定的推荐方案，仍为项目原创提案",
+    "form": "苍灰巨狼，尖耳、长吻、厚颈鬃、四肢疾奔；不加虎纹，不用另一条白龙。",
+    "reason": "狼群奔袭与骑兵冲阵方向一致；与赵云清整银龙、张飞猛虎的形体明显区别。天狼只是本作象征，不主张马超史传有狼神。"
+  },
+  "battle_core": "抢开局节奏、正面冲击防线与破盾。主动冲阵造成伤害并短促打断，后续稳定追击；不堆越战越强，不承担赵云护救。",
+  "identity_design": {
+    "face": "仍是英俊锐利的锦马超，眉眼更凌厉、下颌紧实，不能把狂野画成兽人或无差别狰狞。",
+    "body": "肩宽、腰紧、骑乘力量感强于赵云；保原著少年英武的根。",
+    "hair": "按本轮要求长发披散、成束迎风。护额/发根可固定，狮盔移挂鞍侧或局部开放式改造；明确这是对原著狮盔形象的改编。",
+    "palette": "铁灰、暗铜、骨白、枣红衬布与沙金环境；少量银甲保锦马超辨识，但不可复制赵云银白甲披。"
+  },
+  "weapon_and_mount_evidence": {
+    "novel": "第10回明确长枪、骏马；第65回明确纵马提枪、狮盔兽带、银甲白袍，并写夜战换马。",
+    "project_original": "不命名虎头湛金枪、龙骑枪等为原著兵器。推荐粗壮深色直枪杆、精整钢刃与暗红缨，材质配合狂野西凉方案。",
+    "mount": "深栗/黑鬃战马为本作区别化设定，均不加未经核验的里飞沙等专名。",
+    "chronology": "潼关复仇动机按演义第57—58回讲述，不能将其父子遇害先后当正史年表。"
+  },
+  "cards": [
+    {
+      "asset_id": "machao_card_01",
+      "type": "card",
+      "star": 1,
+      "rank": "黑铁",
+      "proposed_title": "西凉少锋",
+      "event": "第10回随马腾征战，少年初显勇武",
+      "source_ids": [
+        "N010"
+      ],
+      "scene": "风硬草短的军阵，少年马超刚完成突击，身后父辈阵旗远收。",
+      "pose_and_camera": "侧面勒马转身，枪收回肩髋一致的轴线。",
+      "myth_growth": "远处砂云浮出极淡狼耳轮廓。",
+      "must_avoid": "不画成年沧桑脸，不提前出现蜀军战旗；蜀徽仅可在收藏UI。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "machao_card_02",
+      "type": "card",
+      "star": 2,
+      "rank": "青铜",
+      "proposed_title": "潼关怒骑",
+      "event": "第58回西凉军战曹操",
+      "source_ids": [
+        "N058"
+      ],
+      "scene": "潼关外旷野，马超率骑突入曹军侧前，追击动势清楚。",
+      "pose_and_camera": "低侧机位、前倾骑姿、枪贴马侧前刺；握点与鞍位可检。",
+      "myth_growth": "苍狼前躯与骑队同向，沙尘形成宽面而非闪粉。",
+      "must_avoid": "曹操割须弃袍只为传记信息，不能让逃者抢主角；不塞满乱舞长枪。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "machao_card_03",
+      "type": "card",
+      "star": 3,
+      "rank": "白银",
+      "proposed_title": "葭萌夜烈",
+      "event": "第65回与张飞挑灯夜战",
+      "source_ids": [
+        "N065"
+      ],
+      "scene": "关下火把成两条阵线，马超披发回枪，汗与尘形成大面。",
+      "pose_and_camera": "三分之二背侧回看，双手换把有明确间距；对手只保必要局部。",
+      "myth_growth": "天狼轮廓在夜空显出厚颈与双前爪，色光偏苍灰。",
+      "must_avoid": "不复制张飞虎牢战吕布镜头；两杆接触时必须真实交点与反作用。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "machao_card_04",
+      "type": "card",
+      "star": 4,
+      "rank": "黄金",
+      "proposed_title": "归蜀定锋",
+      "event": "第65回归刘备后在成都城下劝降",
+      "source_ids": [
+        "N065"
+      ],
+      "scene": "成都城楼前骑阵整齐，马超以马鞭示意城上，长枪稳置在另一侧，威力开始收束。",
+      "pose_and_camera": "侧正面静骑，马头微侧，披发仍自由但眼神沉着。",
+      "myth_growth": "完整天狼俯身守住军阵，非狂吼；体积增大而面部克制。",
+      "must_avoid": "不把刘璋投降画成马超独自攻陷城池，不把归降或他人的灾难当轻浮庆典。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    }
+  ],
+  "biographies": [
+    {
+      "asset_id": "machao_bio_to_02",
+      "type": "biography",
+      "target_card_id": "machao_card_02",
+      "target_star": 2,
+      "title": "西凉起兵",
+      "event": "马岱报难、马超与韩遂举兵，接潼关战",
+      "source_ids": [
+        "N057",
+        "N058"
+      ],
+      "scene": "军帐门外列骑待命，马超接报后紧握枪杆，马岱与将佐构成关系叙事。",
+      "first_person_transition_draft": "此仇压在胸口，我要亲自去问曹操。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "machao_bio_to_03",
+      "type": "biography",
+      "target_card_id": "machao_card_03",
+      "target_star": 3,
+      "title": "挑灯争锋",
+      "event": "葭萌关日战未决，换马举火再战",
+      "source_ids": [
+        "N065"
+      ],
+      "scene": "从马超阵线望向关隘与张飞，火把、换马者和观阵者交代时间转折。",
+      "first_person_transition_draft": "天色已晚，我这一枪，还没有收。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "machao_bio_to_04",
+      "type": "biography",
+      "target_card_id": "machao_card_04",
+      "target_star": 4,
+      "title": "雾开有归",
+      "event": "李恢入营说服，马超归刘备后助劝成都",
+      "source_ids": [
+        "N065"
+      ],
+      "scene": "马超与李恢相对而坐，刀斧手退到帐外；帐门光线打开，预示后续收束锋芒。",
+      "first_person_transition_draft": "漂泊至此，我也该替这身本领寻一条长路。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    }
+  ],
+  "skills": [
+    {
+      "skill_id": "machao_a1",
+      "name_draft": "踏阵横锋",
+      "kind": "active",
+      "stages_proposed": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "以骑枪冲击一组明确的前列目标。",
+      "trigger": "主动施放",
+      "target": "目标数量/前列定义待战斗规则确定",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "宽而短的骑阵推进，苍狼四足与马同向",
+      "growth": "从单目标起步，最多扩到小组；不默认全屏。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "machao_p1",
+      "name_draft": "先驱",
+      "kind": "passive",
+      "stages_proposed": [
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "开战首次主动更早就绪。",
+      "trigger": "每场首次技能准备",
+      "target": "自身",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "开战缨带拉直，狼影前跃一次",
+      "growth": "仅调整首次准备时间，不变成持续加速叠层。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "machao_p2",
+      "name_draft": "摧锋",
+      "kind": "passive",
+      "stages_proposed": [
+        3,
+        4
+      ],
+      "single_core_effect": "对护盾目标的主动冲击增强。",
+      "trigger": "主动击中有护盾目标",
+      "target": "该目标护盾",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "护盾出现有方向的裂纹",
+      "growth": "比例待定，不等于无视护甲或真实伤害。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "machao_p3",
+      "name_draft": "震阵",
+      "kind": "passive",
+      "stages_proposed": [
+        4
+      ],
+      "single_core_effect": "主动命中造成一次短促打断。",
+      "trigger": "主动命中",
+      "target": "受击目标",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "尘浪单次横推，不附沉默/眩晕/击退三重叠加",
+      "growth": "持续与免疫规则待定；若系统无打断机制，先不实施。",
+      "decision_status": "原创提案，未定案"
+    }
+  ],
+  "event_candidates": [
+    {
+      "event": "少年勤王",
+      "source": "N010",
+      "order": 1,
+      "reason": "马腾麾下初显武艺，能与成年复仇区别。"
+    },
+    {
+      "event": "潼关战曹",
+      "source": "N058",
+      "order": 2,
+      "reason": "西凉骑将最鲜明阶段。"
+    },
+    {
+      "event": "葭萌夜战",
+      "source": "N065",
+      "order": 3,
+      "reason": "成熟武力，火把夜景与前两阶不同。"
+    },
+    {
+      "event": "归蜀劝成都",
+      "source": "N065",
+      "order": 4,
+      "reason": "同回后段明确发生在夜战之后，成长是收束锋芒。"
+    }
+  ],
+  "rejected_or_reserve": [
+    "第59回许褚裸衣战与离间败走作为候选，不连续安排两张潼关/渭水混战。",
+    "不把马超落难自动包装成荣耀晋升；白银至黄金以归属与节制变化表达。"
+  ],
+  "modern_game_comparison": {
+    "sanguosha": "标准马超的距离与强命说明骑将进攻标签；界版额外压制技能是另一版本，不照抄。",
+    "musou7": "官网把马超列枪、性格热烈；正好支撑与赵云沉静救援的动作气质对照。",
+    "sources": [
+      "G_MA",
+      "G_MA_JIE",
+      "D_MA"
+    ]
+  },
+  "production_notes": [
+    "马鬃与披发不得融合成同一团；裸露手臂不是狂野必需条件，避免破坏护具受力。",
+    "狮盔兽带是原著证据，天狼不是把狮盔误读成狼；所有新轮廓另作原创。"
+  ],
+  "gates_remaining": [
+    "确定并实际附加脸体身份参考",
+    "武器/骑乘或弓弦姿态参考核验",
+    "技能数值与战斗目标规则定义",
+    "一张身份与材质样张独立检查",
+    "扩量后四卡三传记、原生裁切与UI复检"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "id": "huangzhong",
+  "name": "黄忠",
+  "faction": "shu",
+  "brief_status": "research_complete_proposal",
+  "production_status": "not_started",
+  "approval_status": "人物在已授权范围；以下事件取舍、技能与细化造型为待审提案",
+  "personality": "老而不衰，能发百步之箭，也能收住不该杀的一箭。",
+  "symbol": {
+    "design": "烈日、金轮与贯日箭势",
+    "status": "后羿般神射气势为给定视觉方向；烈日金轮为原创推荐",
+    "form": "以巨弓轮廓、太阳圆弧和一条干净箭光为主，不再加与庞统重复的火鸟。",
+    "boundary": "人物始终是汉升，不穿后羿身份服饰，不把射九日写入黄忠传记。"
+  },
+  "battle_core": "远程选择关键目标并持续锁定破绽，单点精确重击。与关羽残血终结不同，黄忠重在准与远；不以敌方当前生命比例重复张飞。",
+  "identity_design": {
+    "face": "四阶段均为同一老将，白须、清晰颧骨和鹰隼般专注眼神；升级靠精神与装备，不从青年突然变老。",
+    "body": "背肩宽厚、拉弓侧背发力明确，年老仍能稳住重弓。",
+    "hair": "白发收束，须有重力与风向。",
+    "palette": "深褐、暗红、旧铜，金色只集中弓端、少量甲边与日轮。"
+  },
+  "weapon_and_mount_evidence": {
+    "novel": "第53回有刀与二石力弓，并有韩玄换给黄忠青马；第70回以强弓与大刀显示老当益壮；第71回定军山斩夏侯渊用刀。",
+    "project_original": "神弓可放大造型，但不宣称某一华丽弓名是原著专名；不将石折算成未经考据的现代公斤。",
+    "mount": "青铜如用骑马，青马有第53回局部依据；其他阶段使用普通战马，不虚构固定名马。",
+    "key_correction": "黄金传记斩夏侯渊须画刀；黄金卡选战后高地持弓警戒，属于同阶段状态凝练，不伪造射箭杀夏侯渊。"
+  },
+  "cards": [
+    {
+      "asset_id": "huangzhong_card_01",
+      "type": "card",
+      "star": 1,
+      "rank": "黑铁",
+      "proposed_title": "长沙老将",
+      "event": "第53回迎战前的长沙守将状态",
+      "source_ids": [
+        "N053"
+      ],
+      "scene": "城墙与军械木架，黄忠低持强弓，仍带旧甲。",
+      "pose_and_camera": "站姿三分侧，未满弓，右手检箭；脸与手清楚。",
+      "myth_growth": "远空只有弱暖圆弧。",
+      "must_avoid": "不能画成衰败无力或年轻新兵；不用九日背景。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_02",
+      "type": "card",
+      "star": 2,
+      "rank": "青铜",
+      "proposed_title": "一箭报义",
+      "event": "第53回只射关羽盔缨",
+      "source_ids": [
+        "N053"
+      ],
+      "scene": "吊桥附近，黄忠开弓而留一线仁义，目标留在远处。",
+      "pose_and_camera": "骑青马回身射箭或落地稳定射姿二选一；先做可靠弓术参考再定。",
+      "myth_growth": "弓背出现清楚日弧，箭光短而集中。",
+      "must_avoid": "不射中关羽头部；弓弦必须连接双梢，箭尾扣弦。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_03",
+      "type": "card",
+      "star": 3,
+      "rank": "白银",
+      "proposed_title": "老骥出关",
+      "event": "第70回与严颜取天荡山阶段",
+      "source_ids": [
+        "N070"
+      ],
+      "scene": "崎岖山路与粮寨，黄忠在高处持弓掩护部队推进。",
+      "pose_and_camera": "立足岩台开弓，画面左上指向右下，稳健大三角。",
+      "myth_growth": "完整但低亮日轮半隐云后，仍有地面战争背景。",
+      "must_avoid": "该开弓镜头为同段原创凝练，不声称原文逐字描写；不抢严颜攻营功劳。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_04",
+      "type": "card",
+      "star": 4,
+      "rank": "黄金",
+      "proposed_title": "定军神射",
+      "event": "第71回定军山胜后掌控山势",
+      "source_ids": [
+        "N071"
+      ],
+      "scene": "攻克高地后的黄忠持神弓戒备，远处战旗与山口可读，副刀归鞘。",
+      "pose_and_camera": "正面低机位，弓横出大轮廓但不全满拉，以胜后沉着对比白银。",
+      "myth_growth": "巨大烈日金轮与单箭轨迹，气势如神射，实体脸甲仍清楚。",
+      "must_avoid": "不能把夏侯渊画成中箭而亡；金光不得覆满皮肤、石头和白须。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    }
+  ],
+  "biographies": [
+    {
+      "asset_id": "huangzhong_bio_to_02",
+      "type": "biography",
+      "target_card_id": "huangzhong_card_02",
+      "target_star": 2,
+      "title": "受义还义",
+      "event": "跌马获关羽放过，次日决定只射盔缨",
+      "source_ids": [
+        "N053"
+      ],
+      "scene": "黄忠牵新马从门内望向关羽阵线，手握弓而未射，远近交代昨日与今日关系。",
+      "first_person_transition_draft": "他饶我一命，我这支箭，便只取他的盔缨。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_bio_to_03",
+      "type": "biography",
+      "target_card_id": "huangzhong_card_03",
+      "target_star": 3,
+      "title": "白首请缨",
+      "event": "强弓请战，与严颜合谋取天荡山",
+      "source_ids": [
+        "N070"
+      ],
+      "scene": "堂前黄忠演示强弓，严颜在侧响应；武将的质疑与老将气势构成前因。",
+      "first_person_transition_draft": "鬓发虽白，这双臂，还能替主公开路。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_bio_to_04",
+      "type": "biography",
+      "target_card_id": "huangzhong_card_04",
+      "target_star": 4,
+      "title": "定军乘势",
+      "event": "法正据高举旗，黄忠下击夏侯渊",
+      "source_ids": [
+        "N071"
+      ],
+      "scene": "法正在高处举旗，黄忠提刀下山，镜头以黄忠为主、旗号为决胜依据。",
+      "first_person_transition_draft": "等的就是这一刻。随我下山，夺了定军！",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    }
+  ],
+  "skills": [
+    {
+      "skill_id": "huangzhong_a1",
+      "name_draft": "贯日一矢",
+      "kind": "active",
+      "stages_proposed": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "对选定敌人进行一次重箭打击。",
+      "trigger": "主动施放",
+      "target": "单个敌人，射程/前后排限制待定义",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "一箭一轨，弓弦回弹可读",
+      "growth": "伤害与目标选择稳定成长，不额外叠群控。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "huangzhong_p1",
+      "name_draft": "定弦",
+      "kind": "passive",
+      "stages_proposed": [
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "连续攻击同一目标时提高对该目标的命中稳定性。",
+      "trigger": "再次攻击锁定目标",
+      "target": "锁定目标",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "目标处小而清楚的箭痕标记",
+      "growth": "命中规则若不存在，改为有限破绽伤害，二选一不能同时强塞。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "huangzhong_p2",
+      "name_draft": "破翎",
+      "kind": "passive",
+      "stages_proposed": [
+        4
+      ],
+      "single_core_effect": "主动对已锁定目标提高伤害。",
+      "trigger": "重箭命中已锁定目标",
+      "target": "同一目标",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "箭痕与重箭重合，日轮收束",
+      "growth": "不参考目标残血百分比，不变成处决。",
+      "decision_status": "原创提案，未定案"
+    }
+  ],
+  "event_candidates": [
+    {
+      "event": "长沙守将",
+      "source": "N053",
+      "order": 1,
+      "reason": "晚出场不等于黑铁必须少年。"
+    },
+    {
+      "event": "射盔缨报义",
+      "source": "N053",
+      "order": 2,
+      "reason": "神射与人格同时成立。"
+    },
+    {
+      "event": "请缨与天荡山",
+      "source": "N070",
+      "order": 3,
+      "reason": "老将主动争取战机并用谋。"
+    },
+    {
+      "event": "定军山",
+      "source": "N071",
+      "order": 4,
+      "reason": "代表战绩；刀杀与弓手主题分镜处理。"
+    }
+  ],
+  "rejected_or_reserve": [
+    "夷陵晚年伤亡留后续悲剧传记，不当黄金提升。",
+    "不因三国杀烈弓条件而把本作黄忠做成另一名当前生命压制者。"
+  ],
+  "modern_game_comparison": {
+    "sanguosha": "风包黄忠以射程/强命建立射手辨识，旧新版分开记录；不抄手牌比较公式。",
+    "musou7": "官网直接把弓列为得意武器，可支持远程动作类别，但不采用其弓形。",
+    "sources": [
+      "G_HUANG",
+      "D_HUANG"
+    ]
+  },
+  "production_notes": [
+    "弓弦、箭杆、拉弦手与瞄准眼必须一并核验；不能只看弓华丽。",
+    "原著定军战刀具不可为统一主题删除。"
+  ],
+  "gates_remaining": [
+    "确定并实际附加脸体身份参考",
+    "武器/骑乘或弓弦姿态参考核验",
+    "技能数值与战斗目标规则定义",
+    "一张身份与材质样张独立检查",
+    "扩量后四卡三传记、原生裁切与UI复检"
+  ]
+}

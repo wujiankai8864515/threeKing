@@ -1,0 +1,62 @@
+{
+  "status": "candidate_pending_independent_review",
+  "asset_id": "zhaoyun_card_04",
+  "stage": "gold",
+  "event": "Chapter 71, still mounted outside wide-open camp gates after rescue",
+  "tool": "builtin imagegen",
+  "calls": 1,
+  "source_dimensions": [
+    [
+      1024,
+      1536
+    ],
+    [
+      1024,
+      1536
+    ]
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/gold-hanshui_2026-10-18_19-50-46_UTC+08/赵云-黄金-汉水龙胆-候选1-2026-10-18_19-50-46_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "sha256": "b84aa20d3f337092cf35ad2c29004a796314d72c37b1d6b1a9338dd97ba2b605",
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png"
+  ],
+  "reference_roles": [
+    "Approved blackiron locks adult face/body and clean planar painting only; do not copy charge.",
+    "Bronze supplies white-blue cloth/armor/horse lineage only, not pose or cut spear."
+  ],
+  "inspected_native": [
+    "face",
+    "grip",
+    "rein_hand",
+    "weapon_whole",
+    "horse_head",
+    "saddle_legs",
+    "hooves_ground",
+    "armor_cloth",
+    "dragon"
+  ],
+  "observations": {
+    "identity": "Clean-shaven face, brows/cheek/jaw and tied hair consistent with primary reference; independent likeness judgment pending.",
+    "hands": "One hand wraps shaft, other holds reins, no extra hands or reverse wrists observed.",
+    "weapon": "Shaft from distinct left butt to the socket is visibly straight and long. Whole blade and butt are inside the pure image. HOWEVER blade point falls lower than projected shaft centerline by roughly 50-70px in this view; possible socket/blade angular kink, needs independent hard-structure judgment. Do not mark full axis passed.",
+    "rider_horse": "Saddle, thigh, boot and stirrup contact coherent; calm horse with natural muscle planes. Forefeet are cropped at lower edge so not all hoof contacts are verifiable.",
+    "materials": "Cloth and horse have broad continuous matte planes; ornate silver metal highlights follow carved relief and plate edges. No obvious cross-material random glitter at inspected areas.",
+    "story": "Quiet rider and wide-open wooden gate read. Side crossbowmen visible, but upright banners contradict requested lowered banners/source detail.",
+    "dragon_and_frame": "Silver-white dragon has coherent thick neck/chest and forelimb; head/muzzle visible. Upper antlers cut by image top, nose roughlyx940 and could be occluded by frame sidebars. Needs actual framed review."
+  },
+  "known_risks": [
+    "possible blade-vs-shaft angle",
+    "upright flags despite order to lower flags",
+    "dragon face right-side frame safety",
+    "upper antler crop"
+  ],
+  "source_note": "Novel chapter71 rescue of Huang Zhong and Zhang Zhu, then dusk still mounted at open camp; silver dragon, plate design, white mount and no-name silver spear are project original.",
+  "source_url": "https://zh.wikisource.org/zh/三國演義/第071回",
+  "next_action": "Independent audit + root frame/story decision. No additional call without authorization."
+}

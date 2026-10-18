@@ -1,0 +1,144 @@
+{
+  "asset_id": "zhaoyun_bio_to_02",
+  "target_card_id": "zhaoyun_card_02",
+  "event": "Woniu reunion after separation, respectful Zhao greeting and Liu welcome; chapter28 direct cause of bronze choice of lord",
+  "method": "one builtin reference-derived landscape; copied unmodified; no upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+      "role": "approved Zhao original identity/body/costume-family/broad-plane materials; exclude mounted river battle"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "role": "approved Peach Garden v10 LEFT Liu Bei only for identity; exclude Guan/Zhang, oath story/composition, armor texture and old highlights"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记-卧牛相认-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "sha256": "247b355018d1b7bc8e5f40c121b75fae84ee5b6afa1583ab77f6b8430d17cbc1"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/biography-prompt.txt",
+  "qa": {
+    "zhao-face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-zhao-face-native100.png",
+      "box": [
+        820,
+        155,
+        1010,
+        345
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "liu-face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-liu-face-native100.png",
+      "box": [
+        360,
+        135,
+        550,
+        330
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "zhao-greeting-hands": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-zhao-greeting-hands-native100.png",
+      "box": [
+        755,
+        295,
+        910,
+        425
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "liu-welcoming-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-liu-welcoming-hand-native100.png",
+      "box": [
+        520,
+        310,
+        675,
+        420
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "liu-relaxed-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-liu-relaxed-hand-native100.png",
+      "box": [
+        570,
+        495,
+        640,
+        610
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "horse": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-horse-native100.png",
+      "box": [
+        1120,
+        185,
+        1450,
+        820
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "resting-lance": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-resting-lance-native100.png",
+      "box": [
+        1300,
+        140,
+        1536,
+        900
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "foreground-rock": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-foreground-rock-native100.png",
+      "box": [
+        0,
+        650,
+        500,
+        1024
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "feet-road": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-feet-road-native100.png",
+      "box": [
+        395,
+        780,
+        1130,
+        1024
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "cloth-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bio-cloth-armor-native100.png",
+      "box": [
+        690,
+        330,
+        1210,
+        805
+      ],
+      "scale": "native100% 1:1 no resize"
+    }
+  },
+  "status": "creator native QA archived; independent and root review pending",
+  "creator_review": "QA-bronze-biography-review.md"
+}

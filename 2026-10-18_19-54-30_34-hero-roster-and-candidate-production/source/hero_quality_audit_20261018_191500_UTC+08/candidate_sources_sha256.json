@@ -1,0 +1,208 @@
+{
+  "updated_utc": "2026-10-18T11:42:32.051154+00:00",
+  "scope": "Independent artwork QA only; not user final approval and not native higher-resolution claim.",
+  "candidates": [
+    {
+      "hero": "zhangfei",
+      "asset": "blackiron",
+      "path": "zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "bronze",
+      "path": "zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Weapon endpoints cropped; root explicitly accepts."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "silver",
+      "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Blade scuffs/dust remain intentional material detail."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "gold",
+      "path": "zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+      "qa_status": "candidate_passed_frame_pending",
+      "residual_or_scope": "Blade tip ~4px from right edge; final frame must not cover."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_bronze",
+      "path": "zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Peripheral volunteer shoulders soft; accepted."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_silver",
+      "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-传记-虎牢争锋-戟岩局修2.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_gold",
+      "path": "zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Tiger at top edge unchanged; important foreground fixed."
+    },
+    {
+      "hero": "liubei",
+      "asset": "blackiron",
+      "path": "liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "gold",
+      "path": "liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7adb15ed85818e263d0951c8160b84828086221e07f600bc5fa3bb6bf0dc3c84",
+      "qa_status": "candidate_passed_frame_pending",
+      "residual_or_scope": "Dragon touches top/right image boundary; verify final frame coverage."
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_bronze",
+      "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Small peripheral basket soft; accepted."
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_silver",
+      "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_gold",
+      "path": "liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Root accepts soft peripheral left props; principal map/rocks sharp."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "blackiron",
+      "path": "zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+      "qa_status": "direction_candidate_passed",
+      "residual_or_scope": "New original identity; root/user final recognition and batch authorization separate."
+    },
+    {
+      "hero": "liubei",
+      "asset": "bronze",
+      "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-青铜-引导掌入框局修.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "fb6467efa62162a2e725575cade929f33611fe7c38f68e80edd7d9510f11a05b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Final frame coverage pending."
+    },
+    {
+      "hero": "liubei",
+      "asset": "silver",
+      "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-白银-曹操位置入框局修.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ba347f26856c115d22ab50f8076bc64f273fd598ca1b2fc81b5dc87dc47f3c2b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Final frame coverage pending."
+    },
+    {
+      "hero": "machao",
+      "asset": "blackiron",
+      "path": "machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "qa_status": "direction_candidate_passed",
+      "residual_or_scope": "Spear tip ~10px top margin; hidden tail accepted as occlusion."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "bronze",
+      "path": "zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Spear tip cropped at original top; large low-contrast dragon."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "blackiron",
+      "path": "huangzhong-set/blackiron_identity_2026-10-18_19-31-29_UTC+08/黄忠-黑铁-v1-长沙老将身份候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0ee552ecd9a8a9f88c8198118726d7b76d83d10e8800923f458ebf92f732e744",
+      "qa_status": "not_passed",
+      "residual_or_scope": "Lower bowstring fails to meet visible lower bow tip; excessive cross-material distress."
+    }
+  ],
+  "superseded_candidates": [
+    {
+      "hero": "liubei",
+      "asset": "bronze",
+      "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "87974332bce7a72a6ef8d21b19e4490468953572f3b5bc83260a28277cac2e56",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "silver",
+      "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "27518ed894116121a3aa6d7ef15274563ac3c853cd08aa9fef0e8a8c8c9b8e36",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    }
+  ]
+}

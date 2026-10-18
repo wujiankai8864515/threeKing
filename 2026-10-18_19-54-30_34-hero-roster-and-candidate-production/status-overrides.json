@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-10-18T19:54:30.229786+08:00",
+  "previous_status": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/status-overrides.json",
+  "user_feedback": {
+    "message_id": "Sentinel_5d1588eb952c8191be738485de1238a1",
+    "text": "防止你云端丢失"
+  },
+  "remote_recovery": {
+    "commit": "e78e2c4be5aed1be5f86e5201fc6c7011c231d0a",
+    "verified_paths": 1884,
+    "independent_download_lfs_and_copy_sha256_pass": true,
+    "receipt_commit": "2630c3a"
+  },
+  "production": {
+    "liubei": "Seven source candidates and four-card UI reviewed; Library saves finishing; not user final.",
+    "zhangfei": "Seven source candidates and four UI saved; not user final.",
+    "guanyu": "Gold tail remains failed. Other source candidates and UI saved; no new complete delivery.",
+    "zhaoyun": "Black, bronze, silver and two biographies candidate QA passed; gold and final biography in progress.",
+    "machao": "Black, bronze and bronze biography candidate QA passed; silver batch in progress.",
+    "huangzhong": "Identity established; lower bowstring failed first local repair, changing pose.",
+    "zhugeliang": "Ló ngzhong identity sample in progress.",
+    "wei": "Five generals 20 cards / 15 stories research ready; remaining five research ongoing."
+  },
+  "delivery": "No new art-bundle delivery. User prefers completion notification."
+}

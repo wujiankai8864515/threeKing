@@ -1,0 +1,36 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png",
+      "purpose": "replace_library_file",
+      "library_file_id": "libfile_86a0ba17beb08191aa573913ccfeaf05",
+      "expected_current_version": 0,
+      "version_reason": "汉中王礼冠仪服局修，根与独立QA通过候选；礼仪美术改编非精确复原"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

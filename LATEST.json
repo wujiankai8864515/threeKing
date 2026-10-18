@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/asset-index.json",
+  "asset_index": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "34 heroes / 8 batches persisted. Liu and Zhang 7 source candidates each passed; UI pending. Guan gold failed. Zhao first identity/style review pending. Local only; no new art bundle delivery confirmed.",
-  "latest_delta": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production",
-  "current_status": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/status-overrides.json",
+  "note": "Production continues. Previous batch independently restored from GitHub, 1884 paths verified. Current asset maps are snapshots; newest per-hero source maps and QA are included in incremental source records.",
+  "latest_delta": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production",
+  "current_status": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -22,7 +22,8 @@
     "2026-10-18_18-01-27_material-diagnostics-control-and-ui-straight-join",
     "2026-10-18_18-13-35_controlled-material-repair-candidates",
     "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec",
-    "2026-10-18_19-34-21_34-hero-roster-and-candidate-production"
+    "2026-10-18_19-34-21_34-hero-roster-and-candidate-production",
+    "2026-10-18_19-54-30_34-hero-roster-and-candidate-production"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -55,7 +56,8 @@
     "2026-10-18_18-13-35_controlled-material-repair-candidates",
     "2026-10-18_18-14-27_material-bundle-delivery-confirmed",
     "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec",
-    "2026-10-18_19-34-21_34-hero-roster-and-candidate-production"
+    "2026-10-18_19-34-21_34-hero-roster-and-candidate-production",
+    "2026-10-18_19-54-30_34-hero-roster-and-candidate-production"
   ],
   "backup_verification": "2026-10-18_16-03-19_remote-restore-verified-receipt/verification.json",
   "feedback_log": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/FEEDBACK-LOG.json",
@@ -63,5 +65,7 @@
   "sop_addendum": "2026-10-18_17-50-27_weapon-load-path-and-flat-ui-extension-feedback/SOP-ADDENDUM.md",
   "current_asset_map": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_19-35-59_local-recovery-verification/verification.json",
-  "current_production_queue": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/CURRENT-PRODUCTION-QUEUE.json"
+  "current_production_queue": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/CURRENT-PRODUCTION-QUEUE.json",
+  "remote_verified_commit": "e78e2c4be5aed1be5f86e5201fc6c7011c231d0a",
+  "remote_verification": "2026-10-18_19-51-31_remote-recovery-verification/verification.json"
 }

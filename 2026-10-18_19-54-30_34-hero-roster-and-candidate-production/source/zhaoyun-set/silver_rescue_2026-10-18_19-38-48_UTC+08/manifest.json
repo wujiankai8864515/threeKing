@@ -1,0 +1,89 @@
+{
+  "hero": "赵云",
+  "assets": [
+    {
+      "asset_id": "zhaoyun_silver_card_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+        "size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+          "role": "Approved identity/clean planar rendering; no pose/composition reuse"
+        }
+      ],
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a1b782f6-aaba-48c6-82ab-ff7b62082d82.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-silver-card.txt",
+      "status": "producer_QA_complete_pending_independent_QA",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded"
+    },
+    {
+      "asset_id": "zhaoyun_silver_biography_v1",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记-v1-乱军寻主候选.png",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "RGB",
+        "format": "PNG",
+        "sha256": "f5e1f517abf3ea5b593cd804476ffdc2ef29936b92c5a0db4c48b37e209bb580"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+          "role": "Approved identity/clean planar rendering"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057",
+          "role": "Current candidate silver gear and infant swaddle appearance ONLY; not pose/weapon geometry"
+        }
+      ],
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9603ce82-0b8a-4734-a27f-3dfd97ab745e.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "prompt": "prompt-silver-biography.txt",
+      "status": "producer_QA_complete_pending_independent_QA",
+      "resize_count": 0,
+      "creative_postprocessing": "none",
+      "delivery": "not_uploaded"
+    }
+  ],
+  "qa_native_crops": 18,
+  "qa_evidence": "qa-100pct",
+  "updated": "2026-10-18T19:53:53.768864+08:00",
+  "open_item": "Silver card spear tail obscured behind near thigh armor; independent QA to assess whether valid occlusion or needs clear cap repair",
+  "brief": "赵云-白银卡与传记制作brief.md"
+}

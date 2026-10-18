@@ -1,0 +1,114 @@
+{
+  "asset_id": "zhaoyun_card_02",
+  "target_stage": "bronze",
+  "event": "Woniu reunion and choice to follow Liu Bei, chapter28; dismounted settled resolve",
+  "method": "one builtin reference-derived generation, copied unmodified, no upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "role": "approved Zhao first-tier identity/body/palette and coherent broad-plane material reference only; exclude river scene and mounted pose",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/bronze-prompt.txt",
+  "qa": {
+    "face": {
+      "box": [
+        470,
+        185,
+        680,
+        410
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-face-native100.png",
+      "scale": "native100% no resize"
+    },
+    "spear-hand": {
+      "box": [
+        275,
+        480,
+        405,
+        625
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-spear-hand-native100.png",
+      "scale": "native100% no resize"
+    },
+    "rein-hand": {
+      "box": [
+        660,
+        715,
+        780,
+        870
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-rein-hand-native100.png",
+      "scale": "native100% no resize"
+    },
+    "full-spear-axis": {
+      "box": [
+        275,
+        0,
+        400,
+        1340
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-full-spear-axis-native100.png",
+      "scale": "native100% no resize"
+    },
+    "clothes-armor": {
+      "box": [
+        360,
+        375,
+        780,
+        1125
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-clothes-armor-native100.png",
+      "scale": "native100% no resize"
+    },
+    "horse": {
+      "box": [
+        0,
+        275,
+        440,
+        1175
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-horse-native100.png",
+      "scale": "native100% no resize"
+    },
+    "feet-ground": {
+      "box": [
+        260,
+        1120,
+        820,
+        1450
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-feet-ground-native100.png",
+      "scale": "native100% no resize"
+    },
+    "dragon": {
+      "box": [
+        500,
+        0,
+        1024,
+        360
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/qa/bronze-dragon-native100.png",
+      "scale": "native100% no resize"
+    }
+  },
+  "status": "creator native QA archived; independent and root review pending",
+  "creator_review": "QA-bronze-biography-review.md"
+}
