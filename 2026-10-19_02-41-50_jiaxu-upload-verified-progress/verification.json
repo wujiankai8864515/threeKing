@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-19T02:41:50.849759+08:00",
+  "verified_asset_commit": "47be20a1d41c03ec25f63eb569a2f6cafab77c50",
+  "independent_fetch": "PASS",
+  "lfs_pull": "new objects fetched by checkout",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9666,
+  "sequential_copy_sha256_checked": true,
+  "hero": "jiaxu",
+  "seven_candidates": "uploaded_verified_not_user_accepted",
+  "lfs_fsck_scope": "0f3222373322f2b89166812806472de0105a3f84..47be20a1d41c03ec25f63eb569a2f6cafab77c50"
+}

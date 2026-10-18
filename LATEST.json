@@ -152,7 +152,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "7665284cd22aab2b041af658cc4cff4fcbc3818a",
+  "remote_verified_commit": "47be20a1d41c03ec25f63eb569a2f6cafab77c50",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -160,7 +160,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/prior-remote-verification.json",
+  "remote_verification_receipt": "2026-10-19_02-41-50_jiaxu-upload-verified-progress/verification.json",
   "effective_source_map": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/production-progress.json"
+  "production_progress": "2026-10-19_02-41-50_jiaxu-upload-verified-progress/production-progress.json"
 }
