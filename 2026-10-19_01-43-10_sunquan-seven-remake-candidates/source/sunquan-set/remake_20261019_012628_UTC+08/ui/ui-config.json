@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "孙权",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "筹度",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "孙权",
+    "level": "1",
+    "advancement": "勇",
+    "skills": [
+      {
+        "name": "筹度",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "孙权",
+    "level": "1",
+    "advancement": "烈",
+    "skills": [
+      {
+        "name": "筹度",
+        "level": "+2"
+      },
+      {
+        "name": "审势",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "孙权",
+    "level": "1",
+    "advancement": "神",
+    "skills": [
+      {
+        "name": "筹度",
+        "level": "+2"
+      },
+      {
+        "name": "审势",
+        "level": "+2"
+      },
+      {
+        "name": "固业",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  }
+}

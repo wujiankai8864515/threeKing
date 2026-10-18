@@ -1,0 +1,280 @@
+{
+  "hero": "孙权",
+  "status": "新候选待用户审核",
+  "generator": "built-in imagegen",
+  "native_cards": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; 1:1",
+  "myth": "负日赑屃是原创神话组合，不是演义配兽",
+  "skills_status": "全部拟案",
+  "active": "消耗自身一份能量，将一名友军可转换的短期攻击增益转为等价值护盾",
+  "passives": {
+    "筹度": "主动能量消耗降低",
+    "审势": "主动选择友军距离提高",
+    "固业": "本主动护盾容量提高"
+  },
+  "files": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/01-黑铁-印绶初承.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "d2d460c417df163c65e4e17b20973062e9d37d7f258f05c9d42d29bde9c352e6"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/02-青铜-江夏纳策.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "8db04c61f669a0494b0b0560061cb5d0687e62a975e64102b7b23e35cc7d95a3"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/03-白银-一剑定战.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "8143537e8d65bd1ed8b12defa957890cbd906b700d477e0b02f759d258dece5e"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/04-黄金-濡须持衡.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "6340ca2e4fad691e6d8eb6e3d094da94108b21efb3bb8cdf0e719a4970bb675c"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/05-传记-不记旧怨.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/raw/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "472bfb823c207f5e45db10cdcc789418da718a75cce091ad91fbd2a58ad26e81"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/06-传记-把剑交给周郎.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/raw/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "b845ed07e5647053e4dd104a224d6db1627b3e50c67f667d1517135e1f0a711d"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/07-传记-春水与书信.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/raw/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "79a4672da6556223a5454e633cb94c8e3efe6f166636348f15e9e26025ae8a06"
+    }
+  ],
+  "repairs": [
+    "青铜手从右下栏杆移至中央腰带避开UI",
+    "授剑传记去除左端多余剑柄，保留单柄带鞘剑"
+  ],
+  "sources": [
+    "https://zh.wikisource.org/zh/三國演義/第029回",
+    "https://zh.wikisource.org/zh/三國演義/第038回",
+    "https://zh.wikisource.org/zh/三國演義/第044回",
+    "https://zh.wikisource.org/zh/三國演義/第061回"
+  ],
+  "library": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/01-黑铁-印绶初承.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-印绶初承.png",
+      "file_id": "file_000000008a1481fd980b7828e1e51e8e",
+      "library_file_id": "libfile_3df245f520b881918fe35889f370d32f",
+      "file_name": "01-黑铁-印绶初承.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3105699,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/02-青铜-江夏纳策.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-江夏纳策.png",
+      "file_id": "file_00000000fe1081fdb69cc5bca2a70e5c",
+      "library_file_id": "libfile_96d76cbd905c8191929c470f8da7c851",
+      "file_name": "02-青铜-江夏纳策.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3519993,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/03-白银-一剑定战.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-一剑定战.png",
+      "file_id": "file_00000000a3e48243a9998b1d9bf7c07e",
+      "library_file_id": "libfile_af10633002a08191b976225d096e1b11",
+      "file_name": "03-白银-一剑定战.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3566370,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/04-黄金-濡须持衡.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-濡须持衡.png",
+      "file_id": "file_000000000be881f6b158a5bbda458361",
+      "library_file_id": "libfile_aba522b74a488191b74d838a1e15330c",
+      "file_name": "04-黄金-濡须持衡.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3875137,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/05-传记-不记旧怨.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-传记-不记旧怨.png",
+      "file_id": "file_00000000562881f8bc37b4cd4ca85f39",
+      "library_file_id": "libfile_738ba99140dc8191b214e660e0421671",
+      "file_name": "05-传记-不记旧怨.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2559331,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/06-传记-把剑交给周郎.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/06-传记-把剑交给周郎.png",
+      "file_id": "file_0000000017f881f5bae1eae8b103101e",
+      "library_file_id": "libfile_461b8bd83d4c8191aa64224a134b55c6",
+      "file_name": "06-传记-把剑交给周郎.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2395362,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/07-传记-春水与书信.png",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/07-传记-春水与书信.png",
+      "file_id": "file_00000000ceb881fd99cf136749ead2d9",
+      "library_file_id": "libfile_da594b076c588191a0762b0958e2470b",
+      "file_name": "07-传记-春水与书信.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2709405,
+      "external_connectors_accessed": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/sunquan-set/remake_20261019_012628_UTC+08/deliverables/08-孙权-七图总览.jpg",
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/08-孙权-七图总览.jpg",
+      "file_id": "file_00000000ac3481f595186d72df24055f",
+      "library_file_id": "libfile_e5bf683e57c48191b9f798013431ad16",
+      "file_name": "08-孙权-七图总览.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 916652,
+      "external_connectors_accessed": false
+    }
+  ],
+  "qa_open_item": "黄金赑屃兽首受右上卡框遮挡，可读性偏弱；后续仅局部内收兽首，勿重画人物"
+}

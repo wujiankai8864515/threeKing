@@ -1,0 +1,1 @@
+Keep image composition, all face identity, clothes, fleet and style exactly. Only correct the LOWER right-side resting arm: bend this arm so its hand rests on the CENTRAL belt at x550 y850, clearly above y900. Remove former hand on rail entirely and reconstruct plain empty wood there. This leaves lower-right area free for card UI. Do not alter other raised hand.
