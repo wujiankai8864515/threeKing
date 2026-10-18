@@ -1,0 +1,67 @@
+{
+  "identity_reference": "../guanyu-selected-blackiron-round4-10/illustration.png",
+  "approved_frame_reference": "../guanyu-selected-blackiron-round4-10/frame.png",
+  "original_blackiron_library_file_id": "libfile_31b3cbeb0ff081918248b6f41b648eb9",
+  "blackiron_revision": "Sky-only dragon edit; new comparison Library copy preserves selected original",
+  "cards": [
+    {
+      "tier": "blackiron",
+      "stars": 1,
+      "pure": "pure/blackiron.png",
+      "frame": "frames/blackiron.png",
+      "dynamic_ui": "frames/blackiron-dynamic-ui.png"
+    },
+    {
+      "tier": "bronze",
+      "stars": 2,
+      "pure": "pure/bronze-action-v3.png",
+      "frame": "frames/bronze-fullmetal-v2.png",
+      "dynamic_ui": "frames/bronze-dynamic-ui.png"
+    },
+    {
+      "tier": "silver",
+      "stars": 3,
+      "pure": "pure/silver-action-v3.png",
+      "frame": "frames/silver-fullmetal-v2.png",
+      "dynamic_ui": "frames/silver-dynamic-ui.png"
+    },
+    {
+      "tier": "gold",
+      "stars": 4,
+      "pure": "pure/gold-action-v3.png",
+      "frame": "frames/gold-fullmetal-v2.png",
+      "dynamic_ui": "frames/gold-dynamic-ui.png"
+    }
+  ],
+  "stories": [
+    "stories/01-桃园结义-v2-衣着整洁.png",
+    "stories/02-温酒斩华雄-幻想-v3.png",
+    "stories/03-过关寻兄-幻想-v3.png"
+  ],
+  "composition": "compose.py",
+  "caption_drafts": "过场词草案-v2.txt",
+  "qa": "All four pure images, three stories and composites viewed. Same mature face/beard continuity, bronze simple armor and blade, silver fuller armor no horse, gold Red Hare and gold armor. Story1 three main people. No bloody heads. Card framing partially occludes left blade tip on bronze and silver; all heads complete. Sky dragon faint with frame partly covering top. Materials remain semi-realistic, not claimed exact original-game style.",
+  "story_production_standard": {
+    "confirmed_user_rule": "传记要用最经典的画面，而不是前缀事件。前置叙述写入第一人称文案。",
+    "date": "2026-10-18",
+    "revision_scope": "Only three biography illustrations; four rank cards unchanged",
+    "planned_scenes": [
+      "桃园结义；仅刘备张飞衣服朴素整洁",
+      "关羽骑普通战马持偃月刀交锋华雄",
+      "关羽骑赤兔持偃月刀代表性一关闯关交锋"
+    ]
+  },
+  "stories_previous_v0": [
+    "stories/01-桃园结义.png",
+    "stories/02-温酒扬名.png",
+    "stories/03-挂印辞曹.png"
+  ],
+  "story_revision_qa": "All three revised images personally viewed. Oath Liu/Zhang tidy intact civilian clothes; same three figures. Hua Xiong duel on ordinary dapple-gray horse, armies and fortress. Pass breakthrough on Red Hare, one gate and single action. Same Guan Yu face continuity, no bloody heads. Four cards unchanged.",
+  "current_revision_requests": {
+    "cards": "Same identity and new dynamic poses, Japanese fantasy warrior directional slash energy, bronze restrained silver stronger gold strongest mounted rush; blackiron unchanged",
+    "frames": "Full metal planes and medallions, not edges alone. Same approved structure. No green inserts on bronze silver gold",
+    "stories": "Hua Xiong visibly defeated outside Sishui; ordinary horse; dramatic fantasy. Golden pass breakthrough with long distant winding road and escort hints, no five-scene collage",
+    "pending": false
+  },
+  "composition_qa_v3": "All revised pure cards and composites viewed. Heads intact, 2/3/4 stars, blank faction. Whole inset planes metal. Silver upper blade partially hidden behind star rail, lower blade readable. Blackiron bytes unchanged. Outer transparency preserved."
+}

@@ -1,0 +1,13 @@
+{
+  "timezone": "UTC+08:00",
+  "approved_frozen": [
+    "blackiron-grounded-v2",
+    "peach-grove-v2",
+    "all four frames and star icon"
+  ],
+  "bronze": "approved composition; cyan effects small edit pending",
+  "silver": "rejected static pose; dynamic reconstruction pending",
+  "gold": "rejected; await specific reasons, no generation",
+  "hua_story": "single saber and waiting trio edit pending; exact plaque 汜水关 to compose",
+  "naming_rule": "All new files or directories include UTC+08 date_HHMMSS; preserve originals and source mapping"
+}

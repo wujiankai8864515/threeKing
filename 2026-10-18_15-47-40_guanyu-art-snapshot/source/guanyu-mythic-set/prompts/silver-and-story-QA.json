@@ -1,0 +1,20 @@
+{
+  "story": {
+    "path": "./guanyu-mythic-set/stories/02-天降斩华雄.png",
+    "qa": "Personally viewed whole scene and enlarged shaft/grips crop. Suspended twisting Guan Yu descending with huge fantasy crescent blade, elegant antlered long-whiskered Eastern dragon integrated with attack, Hua Xiong below resisting under pressure, impossible gate islands in cloud ocean. No horses, blood or lettering. Mature identity broadly maintained but stylized more sharply in new mythic design. Physical shaft from rear hand through front hand into enlarged socket lies on a consistent straight diagonal; no offset joint seen. Blade head natural extension, single head. Supporting opponent has separate distinct weapon.",
+    "calls": 1,
+    "size": [
+      1536,
+      1024
+    ]
+  },
+  "silver": {
+    "path": "./guanyu-mythic-set/pure/silver.png",
+    "qa": "Personally viewed whole card and enlarged weapon crop after correction. Same mythic face/armor/ribbon/draconic world as story, airborne twisted pose. Main head around y480 safe for top UI. Initial generation had unwanted second blade at shaft tail; one local edit replaced it with short cylindrical continuation and blunt round pommel. Final two grips and blade socket align on one straight clearly visible shaft, no branch or bend, one crescent head. Hand anatomy usable with individual fingers wrapping or curling around shaft. Dragon large and integrated with arc, no horse, text or frame. Costume has gold edging despite silver rank; silver-jade dark body and green dominance remain.",
+    "calls": 2,
+    "size": [
+      1024,
+      1536
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "07": {
+    "path": "./guanyu-round2/pure/07.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visually_inspected": true,
+    "notes": "Diagonal close lean-forward riverside washing, bright face. Model washes a cloth rather than only hands. Warm dawn dominates instead of subdued cool green. Fairly realistic polished illustration rendering.",
+    "no_UI_text_armor_weapons_horse_obvious_dragon": true
+  },
+  "08": {
+    "path": "./guanyu-round2/pure/08.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visually_inspected": true,
+    "notes": "Dynamic grain sack lift, three-quarter sturdy body, diagonal leg and arms; background market. Bright readable green civilian robe. Fairly realistic polished illustration rendering.",
+    "no_UI_text_armor_weapons_horse_obvious_dragon": true
+  },
+  "09": {
+    "path": "./guanyu-round2/pure/09.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visually_inspected": true,
+    "notes": "Distinct full seated low-view folded-arms figure on inn step. Strong cool blue courtyard and warm face illumination. Simple broad green robe folds; both shoes visible. Fairly realistic polished illustration rendering.",
+    "no_UI_text_armor_weapons_horse_obvious_dragon": true
+  }
+}

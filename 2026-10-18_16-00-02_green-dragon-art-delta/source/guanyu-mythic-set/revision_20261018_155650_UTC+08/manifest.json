@@ -1,0 +1,77 @@
+{
+  "timezone": "UTC+08",
+  "sources": [
+    "./guanyu-mythic-set/pure/blackiron-grounded-v2.png",
+    "./guanyu-mythic-set/pure/bronze-grounded-puregreen_20261018_155320_UTC+08.png",
+    "./guanyu-mythic-set/revision_20261018_155650_UTC+08/silver-pure-with-plaque.png",
+    "./guanyu-mythic-set/pure/gold-green-dragon-20261018_155405.png"
+  ],
+  "blackiron": "frozen unchanged",
+  "frames": "frozen unchanged",
+  "status": "root QA passed; delivered for user review, not final user approval",
+  "story": "hilt two hands behind guard; independent exact 汜水關 label",
+  "qa": "Viewed 3 pure cards, all3 framed cards, overview and final story. Pure-green dragons; copper retains mud/peach/Yellow Turban; silver dynamic twist with two connected hands/boots and straight shaft; plaque exactly 汜水關 on separate layer; gold retains huge hoof plus passes and convoy. Hua latest has two hands behind guard, single blade; rejected three-hand attempt archived. Root QA pending.",
+  "hua_edit_prompt": "Tiny precise edit lower-right Hua Xiong saber geometry only: move guard left of both original hands and extend wrapped handle beneath both, exactly two hands, one blade left and round pommel right. Preserve all other composition. Built-in imagegen.",
+  "source_hua": "stories/02-天降斩华雄-v3-刀具修正_20261018_155105.png",
+  "generated_hua": "generated_images/exec-3b949c44-2533-4e3b-820a-1b85b2306346.png",
+  "upload_results": {
+    "results": [
+      {
+        "local_path": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/00-四阶总览.png",
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000006b6081f698fcf708bb1deb42",
+        "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+        "file_name": "00-四阶总览.png",
+        "local_metadata_applied": true,
+        "path": "/00-四阶总览.png",
+        "current_version_number": 2
+      },
+      {
+        "local_path": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/02-青铜·黄巾初征.png",
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000735881f6a7d5c2644355160d",
+        "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+        "file_name": "02-青铜·黄巾初征.png",
+        "local_metadata_applied": true,
+        "path": "/02-青铜·黄巾初征.png",
+        "current_version_number": 2
+      },
+      {
+        "local_path": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/03-白银·关前扬威.png",
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000ca7081f6adb518b77dd5b4bc",
+        "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+        "file_name": "03-白银·关前扬威.png",
+        "local_metadata_applied": true,
+        "path": "/03-白银·关前扬威.png",
+        "current_version_number": 2
+      },
+      {
+        "local_path": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/04-黄金·过关寻兄.png",
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000bd3c81f6a86d6812c47af854",
+        "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+        "file_name": "04-黄金·过关寻兄.png",
+        "local_metadata_applied": true,
+        "path": "/04-黄金·过关寻兄.png",
+        "current_version_number": 2
+      },
+      {
+        "local_path": "./guanyu-mythic-set/revision_20261018_155650_UTC+08/02-汜水關斩华雄.png",
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000002abc81f6812aab3769024036",
+        "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+        "file_name": "02-汜水關斩华雄.png",
+        "local_metadata_applied": true,
+        "path": "/02-汜水關斩华雄.png",
+        "current_version_number": 2
+      }
+    ]
+  },
+  "caveat": "Gold distant journey clues less evident in thumbnail; do not claim perfectly meets passage recognition"
+}

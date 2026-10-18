@@ -1,0 +1,43 @@
+{
+  "version": "gold-green-dragon-20261018_155405",
+  "saved_at_beijing": "2026-10-18T15:54:05.445315+08:00",
+  "timezone": "UTC+08:00",
+  "status": "pending_parent_review",
+  "method": "built-in image_gen edit",
+  "source_image": "./guanyu-mythic-set/pure/gold-grounded-v2.png",
+  "generated_source": "./generated_images/exec-79cc9b93-2734-4ebf-9974-fe62da18cb18.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-green-dragon-20261018_155405.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-green-dragon-20261018_155405.prompt.txt",
+  "requested_changes": [
+    "Supernatural dragon recolored from blue to pure green",
+    "Layered grounded mountain passes and winding ancient road",
+    "Subtle escort wagon and guards"
+  ],
+  "invariants": [
+    "Guan Yu face, pose, clothing, armor and hands",
+    "Rigid straight weapon shaft",
+    "Red horse pose and exaggerated foreground hoof",
+    "Portrait pure artwork without frame or text"
+  ],
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "d26b4ff7d1d993bcf45849be8ba237e7bd34fdea3019f6a6441fdbd2bb1c8e6b",
+  "visual_review": {
+    "status": "worker_visual_review_complete_pending_parent_approval",
+    "inspected_with": "view_image on saved output",
+    "checks": {
+      "guan_yu_identity_pose_face": "Visually preserved from source; head and face intact",
+      "hands": "Same gripping poses retained; no new visible hand or finger distortion",
+      "weapon_axis": "Rigid, straight, continuous visible axis retained from left hand through right hand to blade fitting",
+      "red_horse": "Original face, mane, armor, pose and intentional giant foreground hoof retained",
+      "dragon_color": "Unambiguously grass/forest green with yellow-green highlights; no blue/cyan hue in supernatural dragon",
+      "ground_story": "Two distant mountain gates plus existing near gateway; successive grounded winding road and small covered escort wagon visible",
+      "style": "Original stylized mythic commercial-card painting retained",
+      "layout": "Portrait 1024x1536 pure art, no border, no lettering",
+      "source_preservation": "Original source and generated original left in place"
+    },
+    "caution": "Preservation is a visual review, not a pixel-identical foreground guarantee; final approval remains with parent/user."
+  }
+}

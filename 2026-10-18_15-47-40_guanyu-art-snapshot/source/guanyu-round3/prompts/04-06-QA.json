@@ -1,0 +1,29 @@
+{
+  "04": {
+    "qa": "Folded arms, low viewpoint medium-full; clearly illustrated sculpted face and folds; bright readable civilian. Mung bean stall explicit. Headwrap y248 approx. Initial dragon too visible; local built-in edit removed creature leaving almost imperceptible thin cyan curve. No armor/weapons/UI/text.",
+    "calls": 2,
+    "path": "./guanyu-round3/pure/04.png",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  "05": {
+    "qa": "Forward leaning transaction with bowl reaching to customer, close-medium three-quarter side angle. Complete face, headwrap y194 approx. Smooth designed face and grouped folds; strong bean selling read. Dragon only blurred partial cyan wisps. No armor/weapons/UI/text. Some photographic depth blur on foreground beans remains.",
+    "calls": 1,
+    "path": "./guanyu-round3/pure/05.png",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  "06": {
+    "qa": "Full-body crouching basket arrangement with wide market context, headwrap y504 approx. Character bright/readable. Strong illustrated face and folds. Dragon is very faint but longer identifiable outline; parent personally accepted its faintness and requested no revision. One foot clearly visible, other obscured by robe/basket. No armor/weapons/UI/text.",
+    "calls": 1,
+    "path": "./guanyu-round3/pure/06.png",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+}

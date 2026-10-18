@@ -1,0 +1,6 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": false,
+  "reference": "./guanyu-selected-four/stories/01-桃园结义.png",
+  "prompt": "PRECISE LOCAL CLOTHING EDIT ONLY. Edit ONLY the clothes of the LEFT man Liu Bei and RIGHT man Zhang Fei in this existing Peach Garden oath illustration. LEFT Liu Bei: same pale muted ochre-green robe, make its fabric plain, neat, intact, modest and clean, no frayed or torn hem/cuffs, no distressed patchy ragged pieces, preserve existing folds and shape. RIGHT Zhang Fei: keep same dark earthy brown-gray palette, replace tattered distressed clothes with plain clean intact well-fitted sturdy cloth robe and neat simple waist sash, robust practical and tidy, no holes, torn strips, ragged edges, patchwork or loose flapping scraps. Zhang Fei remains strong and broad, not shabby. CRITICAL INVARIANTS: center Guan Yu remains exactly unchanged including all his clothes and armor; ALL THREE faces, facial expressions, beards, hairstyles, body proportions, hands, bowls and kneeling poses unchanged. Composition, garden, peach blossoms, altar, fruit, smoke, light, color style and viewpoint unchanged. Exactly three men. Do not beautify or change identity. Only two side men's clothing cleanliness and intactness change. Landscape 1536x1024 pure illustration, no words/frame/UI."
+}

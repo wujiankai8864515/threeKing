@@ -1,0 +1,46 @@
+{
+  "direction": "原创异次元神话三国，演义为根神话为表现",
+  "history": "All prior selected images and sets preserved; new Library identities",
+  "cards": [
+    {
+      "tier": "blackiron",
+      "pure": "pure/blackiron.png",
+      "frame": "frames/blackiron.png",
+      "ui": "frames/blackiron-stars-ui.png",
+      "stars": 1
+    },
+    {
+      "tier": "bronze",
+      "pure": "pure/bronze.png",
+      "frame": "frames/bronze.png",
+      "ui": "frames/bronze-stars-ui.png",
+      "stars": 2
+    },
+    {
+      "tier": "silver",
+      "pure": "pure/silver.png",
+      "frame": "frames/silver.png",
+      "ui": "frames/silver-stars-ui.png",
+      "stars": 3
+    },
+    {
+      "tier": "gold",
+      "pure": "pure/gold.png",
+      "frame": "frames/gold.png",
+      "ui": "frames/gold-stars-ui.png",
+      "stars": 4
+    }
+  ],
+  "stories": [
+    "stories/01-桃园神誓.png",
+    "stories/02-天降斩华雄.png",
+    "stories/03-神路过关.png"
+  ],
+  "production_rules": [
+    "Classic defining story moment rather than preface event",
+    "Rigid single straight steel pole, hands and blade root same axis; effects separate",
+    "Same Guan Yu identity; Chinese Romance cultural base not generic western fantasy",
+    "No baked labels, base frames have no stars; independent runtime labels and star UI"
+  ],
+  "qa": "All 7 art and 4 base frames plus star and all 4 composites viewed. Heads intact, star counts1-4, no baked name/faction text. All four frame center/exterior alpha0. Blade poles inspected for common straight axis; silver secondary tail blade corrected. Horse rear limbs partly occluded by pose, no obvious duplicate limbs. Bronze and silver blade tips partially cropped or covered by rail, full attachment remains readable. Blackiron retains quiet potential, but sky dragon more visible than barely perceptible. Not a final user-approved design."
+}

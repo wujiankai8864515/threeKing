@@ -1,0 +1,19 @@
+{
+  "bronze": {
+    "path": "./guanyu-selected-four/pure/bronze.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visual_qa": "Personally compared to selected black-iron illustration: same mature angular face, thick brows, phoenix eyes, beard and build. Simple dark iron armor and green robe; standing with guandao, peach grove and distant march. Headwrap top about y186. No obvious anatomy error or identity change. Minor limitation: cloth retains fine chipped brush texture; weapon modestly decorated."
+  },
+  "story01": {
+    "path": "./guanyu-selected-four/stories/01-桃园结义.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "visual_qa": "Personally viewed: exactly three principal figures, Liu Bei left, same mature Guan Yu center, Zhang Fei right. All holding wine bowls in oath pose before incense altar under peach blossoms. Same face and bronze outfit continuity. No UI/text/frame. Solemn narrative, single scene, no collage.",
+    "voiceover_draft": "我曾隐于市井，却不敢忘天下之苦。今日桃园立誓，愿与兄弟共赴国难，不负苍生。"
+  }
+}

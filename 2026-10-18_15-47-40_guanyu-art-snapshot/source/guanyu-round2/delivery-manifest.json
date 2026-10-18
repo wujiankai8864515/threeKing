@@ -1,0 +1,184 @@
+{
+  "overview": {
+    "local_path": "./guanyu-round2/00-第二轮总览.png",
+    "purpose": "create_library_file",
+    "status": "succeeded",
+    "file_id": "file_00000000a17481f5800e345a705811f0",
+    "library_file_id": "libfile_436928993d308191b6c59986e61c7f20",
+    "file_name": "00-第二轮总览.png",
+    "local_metadata_applied": true,
+    "path": "/00-第二轮总览.png",
+    "current_version_number": 0
+  },
+  "cards": [
+    {
+      "local_path": "./guanyu-round2/cards/01-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000747481f5b88ec5e1799abe1c",
+      "library_file_id": "libfile_08156ad3159c8191ad679e4389a506bd",
+      "file_name": "01-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/02-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000053c81f5a8ebe55bcc02d9e7",
+      "library_file_id": "libfile_82880b6279ec819180d0a4bc8bc88a2e",
+      "file_name": "02-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/02-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/03-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e8f481f5a1a91295afa79b43",
+      "library_file_id": "libfile_0904ab18106481919d86fe2380acd024",
+      "file_name": "03-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/03-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/04-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000fb2481f599dec91341bf2894",
+      "library_file_id": "libfile_472b3cba26a48191b98a5b8c20ac3a00",
+      "file_name": "04-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/04-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/05-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004cf081f5a747598a4f981893",
+      "library_file_id": "libfile_64dc78c50ed48191ab1de70552176e0d",
+      "file_name": "05-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/05-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/06-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003ff881f5a3d43a5a7669cdf5",
+      "library_file_id": "libfile_c3f9724d0dd08191a1b86691a806fc1d",
+      "file_name": "06-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/06-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/07-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000742c81f5beb1f2485f3b73ac",
+      "library_file_id": "libfile_b653aeabc7808191906ec455c893cb83",
+      "file_name": "07-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/07-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/08-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005cf081f59739736fadffd4ee",
+      "library_file_id": "libfile_4de10eba28e881918230c6c67a1f90be",
+      "file_name": "08-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/08-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/09-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000720881f5b41a28b2d040bedd",
+      "library_file_id": "libfile_e55df5a31ab88191b6a8a3862d19f229",
+      "file_name": "09-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/09-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "./guanyu-round2/cards/10-黑铁关羽-第二轮.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000049c881f58e6c967238c65b87",
+      "library_file_id": "libfile_1a40d23a79808191b419cef6d5fffe35",
+      "file_name": "10-黑铁关羽-第二轮.png",
+      "local_metadata_applied": true,
+      "path": "/10-黑铁关羽-第二轮.png",
+      "current_version_number": 0
+    }
+  ],
+  "concepts": [
+    {
+      "number": 1,
+      "label": "雨桥行旅",
+      "path": "./guanyu-round2/pure/01.png"
+    },
+    {
+      "number": 2,
+      "label": "茶舍侧望",
+      "path": "./guanyu-round2/pure/02.png"
+    },
+    {
+      "number": 3,
+      "label": "竹路援手",
+      "path": "./guanyu-round2/pure/03.png"
+    },
+    {
+      "number": 4,
+      "label": "渡口整靴",
+      "path": "./guanyu-round2/pure/04.png"
+    },
+    {
+      "number": 5,
+      "label": "灯巷回首",
+      "path": "./guanyu-round2/pure/05.png"
+    },
+    {
+      "number": 6,
+      "label": "古祠暂歇",
+      "path": "./guanyu-round2/pure/06.png"
+    },
+    {
+      "number": 7,
+      "label": "河岸洗尘",
+      "path": "./guanyu-round2/pure/07.png"
+    },
+    {
+      "number": 8,
+      "label": "粮市助人",
+      "path": "./guanyu-round2/pure/08.png"
+    },
+    {
+      "number": 9,
+      "label": "夜院守候",
+      "path": "./guanyu-round2/pure/09.png"
+    },
+    {
+      "number": 10,
+      "label": "城门避雨",
+      "path": "./guanyu-round2/pure/10.png"
+    }
+  ],
+  "qa": {
+    "pure_images_inspected": "01-10",
+    "composite_review": "overview all ten plus full-size08",
+    "frame": "shared approved blackiron asset; blank faction medallion; separate name layer",
+    "limitation": "Rendering remains semi-realistic; no visible dragon;01 headwear partly covered by top frame",
+    "variation": "walking, seated drinking, palm-up assistance, boot tying, shoulder portrait, full-body shrine, washing cloth, lifting sack, seated watch, leaning gate"
+  }
+}

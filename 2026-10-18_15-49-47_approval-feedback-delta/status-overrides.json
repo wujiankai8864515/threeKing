@@ -1,0 +1,65 @@
+{
+  "recorded_at": "2026-10-18T15:49:47.739934+08:00",
+  "feedback_at": "2026-10-18T07:48:00+00:00",
+  "feedback_time_precision": "minute, supplied by parent; seconds not asserted",
+  "base_snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
+  "type": "status_only_delta",
+  "new_binary_assets": [],
+  "status_overrides": [
+    {
+      "original_path": "guanyu-mythic-set/cards/01-黑铁·市井潜龙.png",
+      "sha256": "d39b0f13cbe3745286693ab281b29bf98692bc115b34d954c2ef9e98b0f4c497",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/d39b0f13cbe3745286693ab281b29bf98692bc115b34d954c2ef9e98b0f4c497.png",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/cards/02-青铜·桃园初征.png",
+      "sha256": "1265c6b70aca7f32b86a48a0a9c2488b67f37f88036b5106851322abf9cb1deb",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/1265c6b70aca7f32b86a48a0a9c2488b67f37f88036b5106851322abf9cb1deb.png",
+      "status": "partial_approval_localized_revision_required"
+    },
+    {
+      "original_path": "guanyu-mythic-set/cards/03-白银·天降龙斩.png",
+      "sha256": "194ab7555ee062b308f1a53e09b492ef49cd05a1ab49179b403a2a615999f876",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/194ab7555ee062b308f1a53e09b492ef49cd05a1ab49179b403a2a615999f876.png",
+      "status": "rejected_revision_required"
+    },
+    {
+      "original_path": "guanyu-mythic-set/cards/04-黄金·神路寻兄.png",
+      "sha256": "8efdc4310418cc1dbdb6623085d525b06cbb40b721ea59e2693998014c87e2a9",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/8efdc4310418cc1dbdb6623085d525b06cbb40b721ea59e2693998014c87e2a9.png",
+      "status": "dissatisfied_awaiting_user_details"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/blackiron-grounded-v2.png",
+      "sha256": "896296ea6bf09d9749e64b65df496d0c5176df58a15962bad5af7c5fc55a1190",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/896296ea6bf09d9749e64b65df496d0c5176df58a15962bad5af7c5fc55a1190.png",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/bronze-grounded-v2.png",
+      "sha256": "fee15c7ea0386c9806e3c3fc73edf57fadafd1a2c8892e81f1a2cef984d9aff2",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/fee15c7ea0386c9806e3c3fc73edf57fadafd1a2c8892e81f1a2cef984d9aff2.png",
+      "status": "partial_approval_localized_revision_required"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/gold-grounded-v2.png",
+      "sha256": "8d4358a8bd40247c62cac35d91ade988dfd2ac3bd75dd4a7824c6970e0dad167",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/8d4358a8bd40247c62cac35d91ade988dfd2ac3bd75dd4a7824c6970e0dad167.png",
+      "status": "dissatisfied_awaiting_user_details"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/silver-grounded-v2.png",
+      "sha256": "0a19dcbe366ad584394e42c2c6186b5e24fcd5165796efa306e3195454eb450a",
+      "binary_reference": "2026-10-18_15-47-40_guanyu-art-snapshot/assets/sha256/0a19dcbe366ad584394e42c2c6186b5e24fcd5165796efa306e3195454eb450a.png",
+      "status": "rejected_revision_required"
+    }
+  ],
+  "instructions": {
+    "blackiron": "Current grounded version 1 approved and frozen.",
+    "bronze": "Composition, peach blossoms, muddy ground and Yellow Turban narrative approved; only blue effect should become green-robe-toned emerald dragon energy with faint dragon form.",
+    "silver": "Current grounded version 1 rejected: stiff pose and unreadable/missing 汜水关. Substantial dynamic revision is pending.",
+    "gold": "Dissatisfied; details unfinished. Wait for user direction, no unrequested edit.",
+    "unchanged": "Peach grove and frames remain approved; Hua Xiong physique alone approved; weapon, three-person wine subplot and clear gate label remain pending."
+  }
+}

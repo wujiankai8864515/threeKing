@@ -1,0 +1,32 @@
+{
+  "04": {
+    "narrative": "Crouched Guan Yu pauses with hand on bean basket, looks up toward mother and child walking away with travel bundles. Concern for people beyond his work.",
+    "qa": "Face fully visible, gaze to right matches secondary travelers; abundant mung beans and humble stall. Illustrated face, broad robe folds, background somewhat brighter/warmer than requested. Full body obscures one foot behind basket. No obvious dragon. Headwrap begins approx y280.",
+    "path": "./guanyu-round4/pure/04.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "calls": 1
+  },
+  "05": {
+    "narrative": "Seated Guan Yu stops hand at open bean sack, intently listens to elderly traveling man gesturing about distant events.",
+    "qa": "Strongest explicit listening eye contact and concerned expression. Face clear, thoughtful brows, stall and green beans unmistakable, elder secondary dim profile. Cloak/cloth textures somewhat busy but face sculptural. No obvious dragon. Headwrap begins approx y260.",
+    "path": "./guanyu-round4/pure/05.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "calls": 1
+  },
+  "06": {
+    "narrative": "Guan Yu half-rises with wooden bean scoop still in hand, bracing on stall, turning after running messenger.",
+    "qa": "Strong interrupted-labor action and outward alert attention. Clear green beans and trade counter. Complete headwrap approx y223. Face is a little realistically textured, broader cartoon-like cloth shapes still present. No obvious dragon. Messenger at right visible running away.",
+    "path": "./guanyu-round4/pure/06.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "calls": 1
+  }
+}

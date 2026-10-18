@@ -1,0 +1,12 @@
+{
+  "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
+  "asset_index": "2026-10-18_16-00-02_green-dragon-art-delta/asset-index.json",
+  "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
+  "note": "Base snapshot and two status deltas preserved. Current three colored cards and Hua Xiong v2 pending user approval; blackiron, peach grove and frames frozen.",
+  "latest_delta": "2026-10-18_16-00-02_green-dragon-art-delta",
+  "current_status": "2026-10-18_16-00-02_green-dragon-art-delta/README.md",
+  "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
+  "asset_deltas": [
+    "2026-10-18_16-00-02_green-dragon-art-delta"
+  ]
+}

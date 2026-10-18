@@ -1,0 +1,20 @@
+{
+  "story": {
+    "path": "./guanyu-mythic-set/stories/02-天降斩华雄-v2-叙事聚焦.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "qa": "Whole image and enlarged shaft/wine viewed. Same airborne Guan Yu mature identity and straight shaft through both grip points to blade root. Hua Xiong now thick muscular loose-haired rugged black/red armored strongman, with broad single-edged saber, no Lu Bu crown/plumes/halberd. Strong backward losing posture. Dragon enlarged thick jade-green body/neck and mane/antlers, neon clutter removed. Floating celestial city replaced by a clearly legible Chinese stone mountain gate/walls. Small lower-left continuous-space Cao Cao with one attendant and visibly steaming wine table. Wine is visible in enlarged corner. No horse, text or gore.",
+    "source": "https://ancient-china-books.github.io/sanguoyanyi/OEBPS/Text/381.html",
+    "source_note": "Chapter 5 describes Guanxi Hua Xiong nine chi tall with tiger torso/wolf waist/leopard head/ape arms, uses saber in killing Bao Zhong/Zu Mao. Sishui precedes separate Hulao-Lu Bu battle. Loose hair remains artistic choice."
+  },
+  "silver": {
+    "path": "./guanyu-mythic-set/pure/silver-grounded-v2.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "qa": "Full image personally viewed: both arms now shoulder-linked with visible sleeves/forearms, lower grip at waist; no hand growing from knee. Two armored legs and boots visibly grounded, gate and rocky ground replace floating islands. One straight rigid shaft with two aligned grips, natural blade socket, single head and blunt pommel. Mature face and fantasy silhouette retained. Dragon remains bright cyan-blue rather than story jade-green; disclosed to parent."
+  }
+}

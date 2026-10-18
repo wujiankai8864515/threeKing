@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-18T15:52:32.229703+08:00",
+  "feedback_at": "2026-10-18T07:51:00Z",
+  "feedback_time_precision": "minute",
+  "previous_delta": "2026-10-18_15-49-47_approval-feedback-delta",
+  "base_snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
+  "type": "instructions_and_status_only",
+  "new_binary_assets": [],
+  "directions": {
+    "blackiron": "Approved and frozen.",
+    "bronze": "Localized edit now authorized: PURE GREEN dragon-shaped blade energy; preserve all other elements.",
+    "silver": "Substantial dynamic pose redo authorized; PURE GREEN energy, clearly readable 汜水關, and Dong Zhuo/allied-army flag narrative.",
+    "gold": "Editing now authorized: preserve horse pose, use PURE GREEN dragon and five-passes narrative.",
+    "unchanged": "Peach grove and frames approved. Hua Xiong partial approval only; weapon, wine-waiters and gate label pending."
+  },
+  "remote_backup_status": "User completed device approval, but server API blocked by policy and escalation environment failed. No verified login, remote repository or push. No network workaround attempted."
+}

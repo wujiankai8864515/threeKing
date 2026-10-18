@@ -1,0 +1,6 @@
+{
+  "mode": "built-in image_gen",
+  "transparent_background": false,
+  "reference": "guanyu-round3/pure/04-before-dragon-edit.png",
+  "prompt": "Edit only the cyan dragon drawing in the blue sky background of this illustration. Erase 95 percent of its visible shape, including its whole large head. Restore the surrounding ordinary blue sky haze. Leave only ONE very short, tiny almost imperceptible cyan-green thin curve and tiny whisker fragment in the far background, opacity below 3%, so viewers would barely notice anything on first glance. No identifiable complete creature, no eyes or face, no coil. Keep the Guan Yu character, pose, face, costume, lighting, mung beans, stall, architecture, exact composition and all foreground pixels visually unchanged. Preserve illustrated nonphotorealistic style and 1024x1536 dimensions. No text or border."
+}

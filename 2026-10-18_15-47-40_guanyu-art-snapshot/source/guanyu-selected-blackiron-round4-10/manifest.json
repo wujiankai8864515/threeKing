@@ -1,0 +1,72 @@
+{
+  "selection": {
+    "round": 4,
+    "number": 10,
+    "title": "听事望远",
+    "library_file_id": "libfile_31b3cbeb0ff081918248b6f41b648eb9",
+    "file_id": "file_00000000d4f081f9860c7b5c90531b6f",
+    "current_version_number": 0,
+    "status": "user selected; no new generation or upload"
+  },
+  "assets": {
+    "pure/10.png": "illustration.png",
+    "cards/10-黑铁关羽-第四轮.png": "selected-card.png",
+    "shared-blackiron-frame.png": "frame.png",
+    "shared-dynamic-labels.png": "dynamic-labels.png",
+    "card-outer-mask.png": "art-clip-mask.png",
+    "compose.py": "original-batch-compose.py",
+    "prompts/10.txt": "generation-prompt.txt"
+  },
+  "reference_roles": {
+    "gold_style": "references/image(20261018-044056).png",
+    "set_style": "references/image(20261018-052728).png",
+    "approved_common_frame": "references/image(20261018-055904).png"
+  },
+  "generation": {
+    "engine": "built-in imagegen",
+    "initial_output": "./generated_images/exec-34ad991d-e0f3-4f9c-a4c1-5f8b6184fc4e.png",
+    "final_pure_source": "./generated_images/exec-d0570bb8-820e-4b82-88f6-ab3635ec0fae.png",
+    "prompt": "generation-prompt.txt",
+    "local_edit_prompt": "dragon-edit-prompt.txt"
+  },
+  "composition": {
+    "canvas": [
+      1024,
+      1536
+    ],
+    "art_offset": [
+      0,
+      0
+    ],
+    "art_scale": 1,
+    "clip_rect": [
+      80,
+      125,
+      943,
+      1425
+    ],
+    "mask_note": "art clipping rectangle; transparent external boundary provided by frame alpha",
+    "frame": "frame.png",
+    "labels": "dynamic-labels.png",
+    "name": "天·关羽",
+    "faction_label": "blank, runtime dynamic",
+    "star": "one star in shared frame asset",
+    "rebuild_script": "compose-selected.py"
+  },
+  "analysis_not_individually_user_confirmed": [
+    "Hands remain with bean bag and scoop while gaze turns outward",
+    "Foreground traveler gesture and distant travelers/gate support concern beyond trade",
+    "Seated steady posture, alert brows and eyes, restrained emotion",
+    "Worn green clothing, cool blue environment, warm face/hands",
+    "More restrained than rising06 or giving08; style not claimed completely matched"
+  ],
+  "sha256": {
+    "illustration.png": "3c9940b0d96ba07373049869d0adb2ff359772283c4ee183837e8d7215b7762e",
+    "selected-card.png": "64db2f9433cbe713b53e8f6ea4ce643747ee8651d828ad048369a7a312e04139",
+    "frame.png": "48b261f786b2dda0983351280329d0d89be813b71836e4d5804163ea31e773da",
+    "dynamic-labels.png": "d32985bab6436086f1279e6dbbf3f197e3a9f140119e233758bfc201068e6949",
+    "art-clip-mask.png": "68731d7af06c21fde84c9314fcaffa735ee18264fd95087cfbe74ec92ff3c63c",
+    "original-batch-compose.py": "7a84253a99e14daee46ba781f554b95f33821478bfad9cb6d66362ad21979645",
+    "generation-prompt.txt": "11e8b41078c4645ab2a38121ae1ba4a5d91fc4dce4176059d6a5dd8c86458f81"
+  }
+}

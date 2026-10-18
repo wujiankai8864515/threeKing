@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "label": "停秤听事",
+    "path": "./guanyu-round4/pure/01.png"
+  },
+  {
+    "number": 2,
+    "label": "摊前望榜",
+    "path": "./guanyu-round4/pure/02.png"
+  },
+  {
+    "number": 3,
+    "label": "忧望行人",
+    "path": "./guanyu-round4/pure/03.png"
+  },
+  {
+    "number": 4,
+    "label": "忧看流民",
+    "path": "./guanyu-round4/pure/04.png"
+  },
+  {
+    "number": 5,
+    "label": "侧耳问讯",
+    "path": "./guanyu-round4/pure/05.png"
+  },
+  {
+    "number": 6,
+    "label": "闻讯欲起",
+    "path": "./guanyu-round4/pure/06.png"
+  },
+  {
+    "number": 7,
+    "label": "远望招募",
+    "path": "./guanyu-round4/pure/07.png"
+  },
+  {
+    "number": 8,
+    "label": "赠豆悲悯",
+    "path": "./guanyu-round4/pure/08.png"
+  },
+  {
+    "number": 9,
+    "label": "夜听行商",
+    "path": "./guanyu-round4/pure/09.png"
+  },
+  {
+    "number": 10,
+    "label": "听事望远",
+    "path": "./guanyu-round4/pure/10.png"
+  }
+]

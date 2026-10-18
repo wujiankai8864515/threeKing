@@ -1,0 +1,19 @@
+{
+  "silver": {
+    "path": "./guanyu-selected-four/pure/silver.png",
+    "qa": "Personally compared to selected blackiron face: mature broad cheek, heavy arched brows, narrow eyes, long dark beard and robust body preserved. Complete restrained iron/silver armor over green clothes, full diagonal crescent blade and fortress military camp. Headwrap y214 approx leaves room. Blade tip near top edge, face unobstructed. No horse, text, frame or gore. One built-in generation, no correction.",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  "silver_story": {
+    "path": "./guanyu-selected-four/stories/02-温酒扬名.png",
+    "qa": "Personally viewed: same mature face, green headwrap, armor and distinctive blade. Single continuous tent return moment, reaching toward prominently steaming bronze wine cup, two surprised secondary hosts. Independent wide scene, no montage or bloody head. Gaze directed outside rather than cup/host, but return and warm-wine narrative strong. One built-in generation.",
+    "first_person_draft": "华雄已伏诛，这杯酒，尚有余温。关某所求，岂止阵前一时之名。",
+    "size": [
+      1536,
+      1024
+    ]
+  }
+}

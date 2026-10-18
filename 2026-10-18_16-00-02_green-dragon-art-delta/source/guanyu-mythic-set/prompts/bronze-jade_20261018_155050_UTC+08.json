@@ -1,0 +1,11 @@
+{
+  "tool": "built-in image_gen",
+  "transparent_background": false,
+  "original_name": "bronze-grounded-v2.png",
+  "original_path": "./guanyu-mythic-set/pure/bronze-grounded-v2.png",
+  "new_path": "./guanyu-mythic-set/pure/bronze-grounded-jade_20261018_155050_UTC+08.png",
+  "version_status": "待验：已完成生成和工作者视觉QA，待主线程套冻结框与用户验收",
+  "timestamp_timezone": "UTC+08:00 Asia/Shanghai",
+  "prompt": "PRECISE LOCAL EFFECT-ONLY EDIT. User approves this exact image. Change ONLY the EXISTING spiraling blue blade-energy ribbon surrounding Guan Yu: recolor its bright icy sky-blue to luminous JADE GREEN / CYAN-GREEN / emerald-teal, clearly green-dominant harmonious with his green robe, retaining light pale jade highlights. Keep the same ribbon location, sweep, thickness and flow. Within a SMALL PART of this existing curved ribbon add a VERY SUBTLE semi-abstract eastern azure-green dragon suggestion, only a faint tapered horn/whisker contour and tiny scale-like curvature integrated into the energy stroke, barely discernible; not a separate creature, not a large visible dragon head, not a full dragon filling sky. The energy should still primarily read as flowing sword qi. ABSOLUTELY PRESERVE ALL OTHER PIXELS as closely as possible: same mature face, eyes, beard, body action, hands and feet, exact green cloth and iron armor, guandao blade and perfectly straight steel shaft and two-hand grip alignment, peach blossoms, dirt ground, dust, yellow-turban enemy soldiers, yellow flags, sky, clouds, mountains, lighting and framing. Do not recolor sky, blade material or clothes; ONLY blue energy ribbon. Do not alter composition or add new background elements. Pure 1024x1536, no text/frame/UI.",
+  "visual_qa": "Personally viewed input and output. Blue qi changed to green-dominant luminous jade/emerald; subtle scale texture within arc, no distinct huge dragon or sky monster. Face/action/armor/clothing, physical straight pole and hand axis, peach trees, earth and Yellow Turban army preserved visually. Dragon recognition is subtle, primarily reads as scaled green qi rather than explicit head."
+}

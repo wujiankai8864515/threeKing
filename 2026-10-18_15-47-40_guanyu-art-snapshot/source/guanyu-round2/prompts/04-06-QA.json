@@ -1,0 +1,32 @@
+{
+  "04": {
+    "concept": "Dusk ferry dock; seated boot tying; medium-full",
+    "visual_qa": "Distinct seated diagonal action and both boots visible. Warm readable face, simple green civilian garments, travel bundle present. No dragon, armor, weapons, text or UI. One hand pulls boot tie, other rests near knee instead of both tying. Rendering leans realistic despite illustrated prompt.",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "path": "./guanyu-round2/pure/04.png"
+  },
+  "05": {
+    "concept": "Lantern alley; chest-up half-turn over shoulder",
+    "visual_qa": "Strongly distinct very close portrait crop and shoulder turn. Warm legible phoenix eyes and long dark beard, quiet blue alley. Plain broad green shoulder folds. No dragon, armor, weapons, text or UI. Skin and cloth rendering lean realistic despite illustrated prompt.",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "path": "./guanyu-round2/pure/05.png"
+  },
+  "06": {
+    "concept": "Cool morning shrine; full-body standing hand on column",
+    "visual_qa": "Entire figure and both boots visible, strong upright stance with one hand on stone column. Bright green robe with large grouped folds, mature face and beard. No dragon, armor, weapons, text or UI. Stronger stylized fold design, but robe is more voluminous and background lighter than restrained blue-dark brief.",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "path": "./guanyu-round2/pure/06.png"
+  }
+}

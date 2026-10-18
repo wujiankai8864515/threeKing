@@ -1,0 +1,34 @@
+{
+  "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
+  "source_files": 413,
+  "binary_aliases": 284,
+  "unique_binary_objects": 243,
+  "binary_bytes": 550713831,
+  "source_original_bytes": 599582512,
+  "largest_binary_bytes": 3773330,
+  "python_source_files": [
+    "guanyu-blackiron-v2/layout.py",
+    "guanyu-calibration-v3/layout.py",
+    "guanyu-calibration-v4/compose.py",
+    "guanyu-calibration-v5/compose.py",
+    "guanyu-calibration-v6/compose.py",
+    "guanyu-card-draft-1018/build_doc.py",
+    "guanyu-mythic-set/compose-v0.py",
+    "guanyu-mythic-set/compose.py",
+    "guanyu-original-frame-v7/compose.py",
+    "guanyu-round2/compose.py",
+    "guanyu-round3/compose.py",
+    "guanyu-round4/compose.py",
+    "guanyu-selected-blackiron-round4-10/compose-selected.py",
+    "guanyu-selected-blackiron-round4-10/original-batch-compose.py",
+    "guanyu-selected-four/compose-before-action-v2.py",
+    "guanyu-selected-four/compose.py",
+    "guanyu-ten-options/compose.py"
+  ],
+  "excluded": [
+    "Unrelated woodfish/Cocos/Zhao Yun projects",
+    "Unattributed generated_images files",
+    "Credentials, .git, .aws, .codex, caches, private assistant notes",
+    "Separate Godot starter awaiting extraction"
+  ]
+}

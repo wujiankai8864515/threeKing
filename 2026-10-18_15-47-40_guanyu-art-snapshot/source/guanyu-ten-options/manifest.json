@@ -1,0 +1,52 @@
+[
+  {
+    "number": 1,
+    "label": "分面明暗",
+    "path": "./generated_images/exec-ba8ceddd-26fb-4d70-8d21-8e27562372a7.png"
+  },
+  {
+    "number": 2,
+    "label": "清楚线边",
+    "path": "./generated_images/exec-16b439ea-3cc2-403f-82c8-db61bfcb2d04.png"
+  },
+  {
+    "number": 3,
+    "label": "柔和体积",
+    "path": "./generated_images/exec-32691be7-1b2e-4ff1-a96b-04b43e4f4606.png"
+  },
+  {
+    "number": 4,
+    "label": "冷影暖肤",
+    "path": "./generated_images/exec-50fa5489-54ca-4027-9910-e1d198430048.png"
+  },
+  {
+    "number": 5,
+    "label": "冷灰背景",
+    "path": "./generated_images/exec-13730c33-72a7-4d22-b7c0-2f2a59478c0f.png"
+  },
+  {
+    "number": 6,
+    "label": "绿色焦点",
+    "path": "./generated_images/exec-165b0f1d-1c97-4232-9a48-fed98d90626b.png"
+  },
+  {
+    "number": 7,
+    "label": "大衣褶",
+    "path": "./generated_images/exec-372e3c42-1ef9-43aa-9df6-602954ef40af.png"
+  },
+  {
+    "number": 8,
+    "label": "局部细节",
+    "path": "./generated_images/exec-c13ba809-90fb-4dad-9382-df503cf8c558.png"
+  },
+  {
+    "number": 9,
+    "label": "暗场轮廓",
+    "path": "./generated_images/exec-9332e126-fee8-4646-9e08-0491791d7568.png"
+  },
+  {
+    "number": 10,
+    "label": "均衡塑形",
+    "path": "./generated_images/exec-2b64c9bc-3486-425d-bae5-a361c55d6052.png"
+  }
+]

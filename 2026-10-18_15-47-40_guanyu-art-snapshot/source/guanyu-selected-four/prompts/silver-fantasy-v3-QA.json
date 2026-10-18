@@ -1,0 +1,20 @@
+{
+  "story": {
+    "path": "./guanyu-selected-four/stories/02-温酒斩华雄-幻想-v3.png",
+    "qa": "Personally viewed. Same mature Guan Yu face/green silver equipment and ordinary dapple-gray horse. Hua Xiong now loose-haired Xiliang interpretation, plainly thrown back with arms open and polearm falling aside; no equal lock. Cyan directional slash drives left-upper toward right-lower. Armies and pass clear, no written gate sign, blood or severed head. Caveat: dragon spirit became a prominent translucent cyan head/body across upper-left instead of subtle hint; notified parent.",
+    "size": [
+      1536,
+      1024
+    ],
+    "calls": 1
+  },
+  "card": {
+    "path": "./guanyu-selected-four/pure/silver-action-v3.png",
+    "qa": "Personally viewed. Mature face, two hands on one continuous diagonal pole, armor and pose retained. Dramatic navy-blue illustrated background and bright cyan blade arc sweeping to lower-left. Strong anime fantasy contrast, no horse or gore, no text/frame. Complete headwrap approx y193. No distinct dragon creature. Arc occupies substantial border/foreground but face clear.",
+    "size": [
+      1024,
+      1536
+    ],
+    "calls": 1
+  }
+}

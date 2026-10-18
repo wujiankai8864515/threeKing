@@ -1,0 +1,29 @@
+[
+  {
+    "id": "01",
+    "path": "./guanyu-round2/pure/01.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visual_qa": "Personally inspected. Distinct action and crop; mature phoenix-eyed Guan Yu with long dark beard, humble green civilian robe and headwrap. Bright readable subject. No dragon, armor, weapon, horse, UI or text. Clean anatomy. Rendering leans polished semireal dimensional illustration; 02 especially has realistic skin/material detail."
+  },
+  {
+    "id": "02",
+    "path": "./guanyu-round2/pure/02.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visual_qa": "Personally inspected. Distinct action and crop; mature phoenix-eyed Guan Yu with long dark beard, humble green civilian robe and headwrap. Bright readable subject. No dragon, armor, weapon, horse, UI or text. Clean anatomy. Rendering leans polished semireal dimensional illustration; 02 especially has realistic skin/material detail."
+  },
+  {
+    "id": "03",
+    "path": "./guanyu-round2/pure/03.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "visual_qa": "Personally inspected. Distinct action and crop; mature phoenix-eyed Guan Yu with long dark beard, humble green civilian robe and headwrap. Bright readable subject. No dragon, armor, weapon, horse, UI or text. Clean anatomy. Rendering leans polished semireal dimensional illustration; 02 especially has realistic skin/material detail."
+  }
+]

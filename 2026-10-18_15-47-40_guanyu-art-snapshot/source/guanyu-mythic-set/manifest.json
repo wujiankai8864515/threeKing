@@ -1,0 +1,62 @@
+{
+  "direction": "原创异次元神话三国，演义为根神话为表现",
+  "history": "All prior selected images and sets preserved; new Library identities",
+  "cards": [
+    {
+      "tier": "blackiron",
+      "pure": "pure/blackiron-grounded-v2.png",
+      "frame": "frames/blackiron.png",
+      "ui": "frames/blackiron-stars-ui.png",
+      "stars": 1,
+      "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+      "display_label": "市井潜龙"
+    },
+    {
+      "tier": "bronze",
+      "pure": "pure/bronze-grounded-v2.png",
+      "frame": "frames/bronze.png",
+      "ui": "frames/bronze-stars-ui.png",
+      "stars": 2,
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "display_label": "黄巾初征"
+    },
+    {
+      "tier": "silver",
+      "pure": "pure/silver-grounded-v2.png",
+      "frame": "frames/silver.png",
+      "ui": "frames/silver-stars-ui.png",
+      "stars": 3,
+      "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+      "display_label": "关前扬威"
+    },
+    {
+      "tier": "gold",
+      "pure": "pure/gold-grounded-v2.png",
+      "frame": "frames/gold.png",
+      "ui": "frames/gold-stars-ui.png",
+      "stars": 4,
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "display_label": "过关寻兄"
+    }
+  ],
+  "stories": [
+    "stories/01-桃园神誓-v2-桃林.png",
+    "stories/02-天降斩华雄-v2-叙事聚焦.png",
+    "stories/03-过关寻兄-v2-古道.png"
+  ],
+  "production_rules": [
+    "Classic defining story moment rather than preface event",
+    "Rigid single straight steel pole, hands and blade root same axis; effects separate",
+    "Same Guan Yu identity; Chinese Romance cultural base not generic western fantasy",
+    "No baked labels, base frames have no stars; independent runtime labels and star UI",
+    "Approved frames and stars frozen; no redesign",
+    "Earthbound markets, armies, Chinese gates and ancient roads; supernatural power retained",
+    "Peach grove revision approved by user and frozen",
+    "Hua Xiong latest user correction requires readable 汜水关, stocky loose-haired warrior with single-backed saber, Cao Cao/Liu Bei/Zhang Fei waiting subplot; v3 pending"
+  ],
+  "qa": "All 7 art and 4 base frames plus star and all 4 composites viewed. Heads intact, star counts1-4, no baked name/faction text. All four frame center/exterior alpha0. Blade poles inspected for common straight axis; silver secondary tail blade corrected. Horse rear limbs partly occluded by pose, no obvious duplicate limbs. Bronze and silver blade tips partially cropped or covered by rail, full attachment remains readable. Blackiron retains quiet potential, but sky dragon more visible than barely perceptible. Not a final user-approved design.",
+  "qa_grounded": "All four pure edits and composites viewed; root approved overview and silver anatomy. Silver two hands and two boots connected; straight shaft inspected. Gold huge foreshortened front hoof retained. Road story viewed and root approved for user review; old versions retained.",
+  "grounded_upload_receipt": "grounded-upload-results.json",
+  "card_library_version": 1,
+  "gold_story_library_version": 1
+}
