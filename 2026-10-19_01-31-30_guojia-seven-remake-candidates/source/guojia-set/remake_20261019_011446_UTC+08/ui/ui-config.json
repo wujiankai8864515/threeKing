@@ -1,0 +1,97 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "stars": 1,
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "达识",
+        "level": "+1",
+        "effect": "自身术伤提高"
+      }
+    ],
+    "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+    "active": {
+      "name": "谋记",
+      "effect": "目标下次主动完成后结算一次术伤并消失"
+    },
+    "status": "全部技能与数值为草案"
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "stars": 2,
+    "advancement": "策",
+    "skills": [
+      {
+        "name": "达识",
+        "level": "+1",
+        "effect": "自身术伤提高"
+      }
+    ],
+    "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+    "active": {
+      "name": "谋记",
+      "effect": "目标下次主动完成后结算一次术伤并消失"
+    },
+    "status": "全部技能与数值为草案"
+  },
+  "silver": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "stars": 3,
+    "advancement": "谋",
+    "skills": [
+      {
+        "name": "达识",
+        "level": "+2",
+        "effect": "自身术伤提高"
+      },
+      {
+        "name": "深谋",
+        "level": "+2",
+        "effect": "谋记存在时间延长"
+      }
+    ],
+    "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+    "active": {
+      "name": "谋记",
+      "effect": "目标下次主动完成后结算一次术伤并消失"
+    },
+    "status": "全部技能与数值为草案"
+  },
+  "gold": {
+    "country": "魏",
+    "title": "郭嘉",
+    "level": "1",
+    "stars": 4,
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "达识",
+        "level": "+2",
+        "effect": "自身术伤提高"
+      },
+      {
+        "name": "深谋",
+        "level": "+2",
+        "effect": "谋记存在时间延长"
+      },
+      {
+        "name": "远虑",
+        "level": "+2",
+        "effect": "主动施放距离提高"
+      }
+    ],
+    "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+    "active": {
+      "name": "谋记",
+      "effect": "目标下次主动完成后结算一次术伤并消失"
+    },
+    "status": "全部技能与数值为草案"
+  }
+}

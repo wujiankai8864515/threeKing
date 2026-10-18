@@ -1,0 +1,114 @@
+[
+  {
+    "asset": "card01",
+    "source_generated_path": "generated_images/exec-40b7de7b-0f2c-4c1f-84b2-ebeb4ae7c230.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/card01.png",
+    "raw_sha256": "2b0ec55c1d9b93a9ba4523fee5e96b3bc3e710eca6f866f470983a1516302c63",
+    "native_dimensions": [
+      1024,
+      1536
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/card01.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/card01.png",
+    "chapter": 10,
+    "target_card": null,
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "card02",
+    "source_generated_path": "generated_images/exec-6976f385-a560-4b54-8460-6c0d62950cb4.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/card02.png",
+    "raw_sha256": "31724bc32bd2204d8b826ac2b37286f1f6d8707fd1b96ff4760c088788c78fec",
+    "native_dimensions": [
+      1024,
+      1536
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/card02.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/card02.png",
+    "chapter": 18,
+    "target_card": null,
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "card03",
+    "source_generated_path": "generated_images/exec-bff24812-6b21-499a-b0ac-8ebd8f1dbe8b.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/card03.png",
+    "raw_sha256": "84cad6d506323e57820bd53f337f3ab354fed48ef3e7d9efa5ee477c437a8a40",
+    "native_dimensions": [
+      1024,
+      1536
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/card03.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/card03.png",
+    "chapter": 19,
+    "target_card": null,
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "card04",
+    "source_generated_path": "generated_images/exec-340f1b17-a9e8-43ae-8afb-156bc0d62ffe.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/card04.png",
+    "raw_sha256": "97ab395d7b0ba6fa8d359ad28a87cf437a80e3108683505e4270fbfa163cc9d9",
+    "native_dimensions": [
+      1024,
+      1536
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/card04.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/card04.png",
+    "chapter": 33,
+    "target_card": null,
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "story02",
+    "source_generated_path": "generated_images/exec-069fe01a-f125-40b7-8153-b62fa12b6dd2.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/story02.png",
+    "raw_sha256": "a833ddae9a4c955a65637e7c90024b59084b5d883d92baccafbdbbef87a14857",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/story02.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/story02.png",
+    "chapter": 18,
+    "target_card": "card02",
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "story03",
+    "source_generated_path": "generated_images/exec-60fc550d-9309-444b-8f50-079db27aa9b9.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/story03.png",
+    "raw_sha256": "3761a840a57cb519a9829339de9d5f0867750e2a38afa6b88c1b1e94d4a6d5f8",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/story03.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/story03.png",
+    "chapter": 19,
+    "target_card": "card03",
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  },
+  {
+    "asset": "story04",
+    "source_generated_path": "generated_images/exec-a300ccce-e22e-469c-851b-48ac76b8157c.png",
+    "raw": "guojia-set/remake_20261019_011446_UTC+08/raw/story04.png",
+    "raw_sha256": "861a22c327b031a2966ab43221b81a48bcc566442cef9d1e1c57fbfe3642ea5c",
+    "native_dimensions": [
+      1536,
+      1024
+    ],
+    "prompt": "guojia-set/remake_20261019_011446_UTC+08/prompts/story04.txt",
+    "candidate": "guojia-set/remake_20261019_011446_UTC+08/candidates/story04.png",
+    "chapter": 33,
+    "target_card": "card04",
+    "generator": "built-in image_gen",
+    "status": "candidate awaiting user"
+  }
+]

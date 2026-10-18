@@ -1,0 +1,757 @@
+{
+  "native_card_art": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "canvas": [
+    1190,
+    1786
+  ],
+  "resampling": "Art pasted 1:1; existing 1024x1536 frame enlarged; typography rendered at output size. Not 4K.",
+  "status": "candidate awaiting user",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/raw/card01.png",
+      "sha256": "2b0ec55c1d9b93a9ba4523fee5e96b3bc3e710eca6f866f470983a1516302c63",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/candidates/card01.png",
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "stars": 1,
+        "advancement": "初",
+        "skills": [
+          {
+            "name": "达识",
+            "level": "+1",
+            "effect": "自身术伤提高"
+          }
+        ],
+        "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+        "active": {
+          "name": "谋记",
+          "effect": "目标下次主动完成后结算一次术伤并消失"
+        },
+        "status": "全部技能与数值为草案"
+      },
+      "glyph_metrics": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            132,
+            119,
+            202,
+            188
+          ],
+          "ink_center": [
+            167.0,
+            153.5
+          ],
+          "target_center": [
+            167.34375,
+            153.484375
+          ],
+          "max_center_error_px": 0.34375
+        },
+        {
+          "text": "郭嘉",
+          "ink_bbox": [
+            681,
+            80,
+            783,
+            130
+          ],
+          "ink_center": [
+            732.0,
+            105.0
+          ],
+          "target_center": [
+            732.12890625,
+            104.6484375
+          ],
+          "max_center_error_px": 0.3515625
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1042,
+            111,
+            1071,
+            134
+          ],
+          "ink_center": [
+            1056.5,
+            122.5
+          ],
+          "target_center": [
+            1056.357421875,
+            122.08984375000001
+          ],
+          "max_center_error_px": 0.4101562499999858
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1044,
+            152,
+            1068,
+            193
+          ],
+          "ink_center": [
+            1056.0,
+            172.5
+          ],
+          "target_center": [
+            1056.357421875,
+            172.08854166666669
+          ],
+          "max_center_error_px": 0.4114583333333144
+        },
+        {
+          "text": "初",
+          "ink_bbox": [
+            136,
+            1566,
+            224,
+            1652
+          ],
+          "ink_center": [
+            180.0,
+            1609.0
+          ],
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "max_center_error_px": 0.26041666666674246
+        },
+        {
+          "text": "达识",
+          "ink_bbox": [
+            911,
+            1292,
+            996,
+            1333
+          ],
+          "ink_center": [
+            953.5,
+            1312.5
+          ],
+          "target_center": [
+            953.8203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        },
+        {
+          "text": "+1",
+          "ink_bbox": [
+            1008,
+            1298,
+            1050,
+            1328
+          ],
+          "ink_center": [
+            1029.0,
+            1313.0
+          ],
+          "target_center": [
+            1029.3203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        }
+      ],
+      "art_pixels_changed": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/raw/card02.png",
+      "sha256": "31724bc32bd2204d8b826ac2b37286f1f6d8707fd1b96ff4760c088788c78fec",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/candidates/card02.png",
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "stars": 2,
+        "advancement": "策",
+        "skills": [
+          {
+            "name": "达识",
+            "level": "+1",
+            "effect": "自身术伤提高"
+          }
+        ],
+        "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+        "active": {
+          "name": "谋记",
+          "effect": "目标下次主动完成后结算一次术伤并消失"
+        },
+        "status": "全部技能与数值为草案"
+      },
+      "glyph_metrics": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            132,
+            119,
+            202,
+            188
+          ],
+          "ink_center": [
+            167.0,
+            153.5
+          ],
+          "target_center": [
+            167.34375,
+            153.484375
+          ],
+          "max_center_error_px": 0.34375
+        },
+        {
+          "text": "郭嘉",
+          "ink_bbox": [
+            681,
+            80,
+            783,
+            130
+          ],
+          "ink_center": [
+            732.0,
+            105.0
+          ],
+          "target_center": [
+            732.12890625,
+            104.6484375
+          ],
+          "max_center_error_px": 0.3515625
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1042,
+            111,
+            1071,
+            134
+          ],
+          "ink_center": [
+            1056.5,
+            122.5
+          ],
+          "target_center": [
+            1056.357421875,
+            122.08984375000001
+          ],
+          "max_center_error_px": 0.4101562499999858
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1044,
+            152,
+            1068,
+            193
+          ],
+          "ink_center": [
+            1056.0,
+            172.5
+          ],
+          "target_center": [
+            1056.357421875,
+            172.08854166666669
+          ],
+          "max_center_error_px": 0.4114583333333144
+        },
+        {
+          "text": "策",
+          "ink_bbox": [
+            137,
+            1566,
+            224,
+            1653
+          ],
+          "ink_center": [
+            180.5,
+            1609.5
+          ],
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "max_center_error_px": 0.373046875
+        },
+        {
+          "text": "达识",
+          "ink_bbox": [
+            911,
+            1292,
+            996,
+            1333
+          ],
+          "ink_center": [
+            953.5,
+            1312.5
+          ],
+          "target_center": [
+            953.8203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        },
+        {
+          "text": "+1",
+          "ink_bbox": [
+            1008,
+            1298,
+            1050,
+            1328
+          ],
+          "ink_center": [
+            1029.0,
+            1313.0
+          ],
+          "target_center": [
+            1029.3203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        }
+      ],
+      "art_pixels_changed": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/raw/card03.png",
+      "sha256": "84cad6d506323e57820bd53f337f3ab354fed48ef3e7d9efa5ee477c437a8a40",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/candidates/card03.png",
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "stars": 3,
+        "advancement": "谋",
+        "skills": [
+          {
+            "name": "达识",
+            "level": "+2",
+            "effect": "自身术伤提高"
+          },
+          {
+            "name": "深谋",
+            "level": "+2",
+            "effect": "谋记存在时间延长"
+          }
+        ],
+        "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+        "active": {
+          "name": "谋记",
+          "effect": "目标下次主动完成后结算一次术伤并消失"
+        },
+        "status": "全部技能与数值为草案"
+      },
+      "glyph_metrics": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            132,
+            119,
+            202,
+            188
+          ],
+          "ink_center": [
+            167.0,
+            153.5
+          ],
+          "target_center": [
+            167.34375,
+            153.484375
+          ],
+          "max_center_error_px": 0.34375
+        },
+        {
+          "text": "郭嘉",
+          "ink_bbox": [
+            681,
+            80,
+            783,
+            130
+          ],
+          "ink_center": [
+            732.0,
+            105.0
+          ],
+          "target_center": [
+            732.12890625,
+            104.6484375
+          ],
+          "max_center_error_px": 0.3515625
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1042,
+            111,
+            1071,
+            134
+          ],
+          "ink_center": [
+            1056.5,
+            122.5
+          ],
+          "target_center": [
+            1056.357421875,
+            122.08984375000001
+          ],
+          "max_center_error_px": 0.4101562499999858
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1044,
+            152,
+            1068,
+            193
+          ],
+          "ink_center": [
+            1056.0,
+            172.5
+          ],
+          "target_center": [
+            1056.357421875,
+            172.08854166666669
+          ],
+          "max_center_error_px": 0.4114583333333144
+        },
+        {
+          "text": "谋",
+          "ink_bbox": [
+            137,
+            1566,
+            224,
+            1652
+          ],
+          "ink_center": [
+            180.5,
+            1609.0
+          ],
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "max_center_error_px": 0.373046875
+        },
+        {
+          "text": "达识",
+          "ink_bbox": [
+            911,
+            1195,
+            996,
+            1236
+          ],
+          "ink_center": [
+            953.5,
+            1215.5
+          ],
+          "target_center": [
+            953.3203125,
+            1215.0846354166667
+          ],
+          "max_center_error_px": 0.41536458333325754
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1200,
+            1051,
+            1231
+          ],
+          "ink_center": [
+            1029.5,
+            1215.5
+          ],
+          "target_center": [
+            1029.3203125,
+            1215.0846354166667
+          ],
+          "max_center_error_px": 0.41536458333325754
+        },
+        {
+          "text": "深谋",
+          "ink_bbox": [
+            910,
+            1292,
+            996,
+            1334
+          ],
+          "ink_center": [
+            953.0,
+            1313.0
+          ],
+          "target_center": [
+            953.3203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1297,
+            1051,
+            1328
+          ],
+          "ink_center": [
+            1029.5,
+            1312.5
+          ],
+          "target_center": [
+            1029.8203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        }
+      ],
+      "art_pixels_changed": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/raw/card04.png",
+      "sha256": "97ab395d7b0ba6fa8d359ad28a87cf437a80e3108683505e4270fbfa163cc9d9",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/guojia-set/remake_20261019_011446_UTC+08/candidates/card04.png",
+      "fields": {
+        "country": "魏",
+        "title": "郭嘉",
+        "level": "1",
+        "stars": 4,
+        "advancement": "真",
+        "skills": [
+          {
+            "name": "达识",
+            "level": "+2",
+            "effect": "自身术伤提高"
+          },
+          {
+            "name": "深谋",
+            "level": "+2",
+            "effect": "谋记存在时间延长"
+          },
+          {
+            "name": "远虑",
+            "level": "+2",
+            "effect": "主动施放距离提高"
+          }
+        ],
+        "troop_icon": "原创卷册与令旗图标（谋士兵种草案）",
+        "active": {
+          "name": "谋记",
+          "effect": "目标下次主动完成后结算一次术伤并消失"
+        },
+        "status": "全部技能与数值为草案"
+      },
+      "glyph_metrics": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            132,
+            119,
+            202,
+            188
+          ],
+          "ink_center": [
+            167.0,
+            153.5
+          ],
+          "target_center": [
+            167.34375,
+            153.484375
+          ],
+          "max_center_error_px": 0.34375
+        },
+        {
+          "text": "郭嘉",
+          "ink_bbox": [
+            681,
+            80,
+            783,
+            130
+          ],
+          "ink_center": [
+            732.0,
+            105.0
+          ],
+          "target_center": [
+            732.12890625,
+            104.6484375
+          ],
+          "max_center_error_px": 0.3515625
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1042,
+            111,
+            1071,
+            134
+          ],
+          "ink_center": [
+            1056.5,
+            122.5
+          ],
+          "target_center": [
+            1056.357421875,
+            122.08984375000001
+          ],
+          "max_center_error_px": 0.4101562499999858
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1044,
+            152,
+            1068,
+            193
+          ],
+          "ink_center": [
+            1056.0,
+            172.5
+          ],
+          "target_center": [
+            1056.357421875,
+            172.08854166666669
+          ],
+          "max_center_error_px": 0.4114583333333144
+        },
+        {
+          "text": "真",
+          "ink_bbox": [
+            137,
+            1566,
+            223,
+            1653
+          ],
+          "ink_center": [
+            180.0,
+            1609.5
+          ],
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "max_center_error_px": 0.23958333333325754
+        },
+        {
+          "text": "达识",
+          "ink_bbox": [
+            911,
+            1097,
+            996,
+            1138
+          ],
+          "ink_center": [
+            953.5,
+            1117.5
+          ],
+          "target_center": [
+            953.3203125,
+            1117.4127604166667
+          ],
+          "max_center_error_px": 0.1796875
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1102,
+            1051,
+            1133
+          ],
+          "ink_center": [
+            1029.5,
+            1117.5
+          ],
+          "target_center": [
+            1029.3203125,
+            1117.4127604166667
+          ],
+          "max_center_error_px": 0.1796875
+        },
+        {
+          "text": "深谋",
+          "ink_bbox": [
+            910,
+            1194,
+            996,
+            1236
+          ],
+          "ink_center": [
+            953.0,
+            1215.0
+          ],
+          "target_center": [
+            953.3203125,
+            1215.0846354166667
+          ],
+          "max_center_error_px": 0.3203125
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1200,
+            1051,
+            1231
+          ],
+          "ink_center": [
+            1029.5,
+            1215.5
+          ],
+          "target_center": [
+            1029.8203125,
+            1215.0846354166667
+          ],
+          "max_center_error_px": 0.41536458333325754
+        },
+        {
+          "text": "远虑",
+          "ink_bbox": [
+            910,
+            1292,
+            996,
+            1333
+          ],
+          "ink_center": [
+            953.0,
+            1312.5
+          ],
+          "target_center": [
+            953.3203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1297,
+            1051,
+            1328
+          ],
+          "ink_center": [
+            1029.5,
+            1312.5
+          ],
+          "target_center": [
+            1029.8203125,
+            1312.7565104166667
+          ],
+          "max_center_error_px": 0.3203125
+        }
+      ],
+      "art_pixels_changed": 0
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/card01(1).png",
+        "file_id": "file_000000004fac81f59d0ee9f4a7686ecc",
+        "library_file_id": "libfile_48100b80be5c81918fb0c186c020187d",
+        "file_name": "card01(1).png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3077249
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/card02.png",
+        "file_id": "file_00000000a16481f4a8c8b6f033c1108b",
+        "library_file_id": "libfile_efaee5cd7d148191a12a3d75a8fc6a00",
+        "file_name": "card02.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3261977
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/card03.png",
+        "file_id": "file_0000000014e881f58c4f8c0ef9f3db71",
+        "library_file_id": "libfile_d5e424dfad5c8191bec22046b25d77e8",
+        "file_name": "card03.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3716620
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/card04.png",
+        "file_id": "file_000000007bb88230a1b042a6055d2859",
+        "library_file_id": "libfile_d3d17f3d131c8191af6c167ff50c9a06",
+        "file_name": "card04.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3507119
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/story02.png",
+        "file_id": "file_00000000d2e881f6a834b9f3ccad2c4d",
+        "library_file_id": "libfile_4d5822ea78808191bfd8042eb9e1d6ba",
+        "file_name": "story02.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2365256
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/story03.png",
+        "file_id": "file_00000000a83c81fd934a8349e425f573",
+        "library_file_id": "libfile_ea67cea2bfa0819194017460f5cc5db9",
+        "file_name": "story03.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2887201
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/story04.png",
+        "file_id": "file_000000000a6c81fd8f647c1a6d16af3e",
+        "library_file_id": "libfile_00a01f5321b88191aba5188f6a7bad00",
+        "file_name": "story04.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2324889
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/郭嘉-四阶三传记-总览.png",
+        "file_id": "file_00000000efb081f88aabdb305a70afec",
+        "library_file_id": "libfile_00397c06bffc81919ef9aafe5e162aa2",
+        "file_name": "郭嘉-四阶三传记-总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3843161
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}
