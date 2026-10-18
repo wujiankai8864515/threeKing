@@ -1,0 +1,14 @@
+[
+  {
+    "step": "intermediate UI QA",
+    "issue": "Old Pang Tong gold SVG had raised passive text outside the template clearing box, leaving two duplicate labels.",
+    "resolution": "Removed old skill text nodes from independent SVG before inserting measured compact labels; no source artwork altered.",
+    "status": "corrected and visually verified"
+  },
+  {
+    "step": "tool output handling",
+    "issue": "First image generation result was accidentally printed including image data; subsequent six calls logged output_hint only.",
+    "resolution": "Native first result copied and verified; no artifact loss.",
+    "status": "resolved"
+  }
+]

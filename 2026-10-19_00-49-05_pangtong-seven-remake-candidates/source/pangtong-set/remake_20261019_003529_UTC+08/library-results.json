@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-01-黑铁.png",
+        "file_id": "file_00000000fc9481fd8084091979f04364",
+        "library_file_id": "libfile_2d820c912fa8819184318c2c0e8bc481",
+        "file_name": "庞统-01-黑铁.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3547236
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-02-青铜.png",
+        "file_id": "file_00000000aa20820cb9e260bfa700a9f5",
+        "library_file_id": "libfile_57a09ee5c83c81918e747c12145e0ce7",
+        "file_name": "庞统-02-青铜.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3565618
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-03-白银.png",
+        "file_id": "file_00000000349081fd96d4e597c6746b11",
+        "library_file_id": "libfile_70fea77921708191a7546fe59e3909c2",
+        "file_name": "庞统-03-白银.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3402905
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-04-黄金.png",
+        "file_id": "file_00000000ebb881fda9d4bbbaea4877fc",
+        "library_file_id": "libfile_dad0b59cb3788191a33d62e41eb0ec6b",
+        "file_name": "庞统-04-黄金.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3798657
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-05-传记-连舟献策.png",
+        "file_id": "file_0000000011f081fdae0b4d4e41da8428",
+        "library_file_id": "libfile_1c3355ef8ac48191954278ffaf5bdc8e",
+        "file_name": "庞统-05-传记-连舟献策.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2568529
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-06-传记-耒阳理事.png",
+        "file_id": "file_000000008e2881f5a60608931a9e9df0",
+        "library_file_id": "libfile_094ab52b0c348191a0ce9a654a38c2fa",
+        "file_name": "庞统-06-传记-耒阳理事.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2407188
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-07-传记-三策取蜀.png",
+        "file_id": "file_00000000037481f8bf72f38f9cd06e14",
+        "library_file_id": "libfile_212096d35324819183393c274946cd7f",
+        "file_name": "庞统-07-传记-三策取蜀.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2798074
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/庞统-08-完整七图总览.jpg",
+        "file_id": "file_00000000b03c81fd84b1da142db12e80",
+        "library_file_id": "libfile_b651a8237c208191a178ff7984748bb1",
+        "file_name": "庞统-08-完整七图总览.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1102991
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

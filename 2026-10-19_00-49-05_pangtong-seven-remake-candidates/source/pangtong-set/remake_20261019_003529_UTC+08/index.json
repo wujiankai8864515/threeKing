@@ -1,0 +1,143 @@
+{
+  "hero": "庞统",
+  "built_in_image_gen": true,
+  "no_native_4K_claim": true,
+  "raw_sources": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d48ce18b0ce7b6bfee3f2d923f09d31dc12dbac173a41fd1e139b3f3b9c7a5c5"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "681e31743a07285288d28ae3fd6dc9990147b2c0919df025886fa737abb2e2e0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "cc75bb1255e72beefd70d1931024b83b1e667683c26259aba9f43a0763c923d0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "dd934837bb075ebeead7aa19b76f932c5f418155fc40b0da72d07983dab8cce0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "6f991d113f5cc0d216c84302cd9f338f015e84e4b048b3c87a476cac8625fb6e"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "6df8a9c0a57f8037f830311f92327e7869a56ea50c62b494616d160f2b7012d8"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "e5c8e9132d1ada0e84afc8c7383a94af8aefc7dec2ce6a760977a1072a9742de"
+    }
+  ],
+  "deliverables": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "1ed0254b428875429c82682ede7871bf7aa531a451faf0239aa2836ab4ac27ac",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0755a1cd438938a866d57145ff303f2a9b5f66cb0544f16ddf31bb51a0c6df7c",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0af1e196bcb89b79a3864f836a010af2db452fa708fc12cb8a722f0658b153a4",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "fbc3d311d51cafdbcb1c6699428aa8eb792a37c3c9a97bf560f52d039bd8d980",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-05-传记-连舟献策.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d48ce18b0ce7b6bfee3f2d923f09d31dc12dbac173a41fd1e139b3f3b9c7a5c5",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-06-传记-耒阳理事.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "681e31743a07285288d28ae3fd6dc9990147b2c0919df025886fa737abb2e2e0",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-07-传记-三策取蜀.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "cc75bb1255e72beefd70d1931024b83b1e667683c26259aba9f43a0763c923d0",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/pangtong-set/remake_20261019_003529_UTC+08/candidates/庞统-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "87d0faa70b4ebd80af31253a1d7c632b3885fa26cae755bf4cf01e4dc6f997d7",
+      "status": "candidate awaiting user"
+    }
+  ],
+  "ui_manifest": "ui/composition-manifest.json",
+  "research": "RESEARCH.md",
+  "qa": "QA.md",
+  "library_results": "library-results.json",
+  "parent_review": "Seven-image overview accepted as this-round candidate; not user final approval",
+  "advancement_field": "一二三四: temporary tier placeholders, not user-approved advancement names"
+}

@@ -1,0 +1,70 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names; replace through shared data configuration"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names; replace through shared data configuration"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+2"
+      },
+      {
+        "name": "引燎",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names; replace through shared data configuration"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "庞统",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "伏焰",
+        "level": "+2"
+      },
+      {
+        "name": "引燎",
+        "level": "+2"
+      },
+      {
+        "name": "凤策",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed UI example names and values, not approved mechanics",
+    "advancement_status": "temporary tier placeholder only; 一二三四 are not user-approved advancement names; replace through shared data configuration"
+  }
+}

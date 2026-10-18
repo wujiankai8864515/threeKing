@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-10-19T00:49:05.932430+08:00",
+  "previous_status": "2026-10-19_00-44-18_machao-seven-remake-candidates/status-overrides.json",
+  "current_summary": "Pang Tong seven newly remade candidates and overview complete; pending user acceptance. Ma Chao previously uploaded and verified. Wei Yan joins Zhao Yun, Huang Zhong, Zhuge Liang and Jiang Wei in active generation/QA.",
+  "scope": "Remaining hero production resumed, superseding prior pause. Existing 21 delivered candidates preserved unchanged pending user review.",
+  "user_message_ids": [
+    "Sentinel_91fe250572048191af8b8a7ffadd5acc",
+    "Sentinel_6b9268e76a108191901ecb3eb9b7ce1e"
+  ],
+  "workflow": "Proceed without routine questions; back up progress promptly. Active newly written production folders withheld until manifests are ready.",
+  "method_permission": "Existing explicit local masked-compositing approval remains in force within approved scope.",
+  "effective_source_map": "2026-10-19_00-49-05_pangtong-seven-remake-candidates/effective-source-map.json",
+  "requirements": "hero-production-spec/restart_20261019_002737_UTC+08/LATEST_REQUIREMENTS.md",
+  "excluded_inflight_directories": [
+    "huangzhong-set/remake_20261019_002900_UTC+08",
+    "huangzhong-set/remake_20261019_002900_UTC+08/prompts",
+    "huangzhong-set/remake_20261019_002900_UTC+08/raw",
+    "machao-set/full-remake_20261019_002921_UTC+08",
+    "machao-set/full-remake_20261019_002921_UTC+08/prompts",
+    "zhaoyun-set/full-remake_20261019_002848_UTC+08",
+    "zhaoyun-set/full-remake_20261019_002848_UTC+08/prompts"
+  ],
+  "excluded_nonproject_content": "One legacy QA helper with internal-only references excluded; no credentials or private internal notes collected.",
+  "research_pack": {
+    "path": "hero-roster-research/2026-10-19_00-30-15_UTC+08",
+    "ready_marker": "hero-roster-research/2026-10-19_00-30-15_UTC+08/READY_FOR_BACKUP.md",
+    "manifest": "hero-roster-research/2026-10-19_00-30-15_UTC+08/MANIFEST.json",
+    "heroes": 37,
+    "card_briefs": 148,
+    "biography_briefs": 111,
+    "planned_scenes": 259,
+    "semantic_revision": "Yuan Shu gold: chapter 17 seven-army imperial force scene, replacing temporary Jiangting decline concept."
+  },
+  "machao_manifest": "machao-set/full-remake_20261019_002921_UTC+08/manifest.json",
+  "pangtong_index": "pangtong-set/remake_20261019_003529_UTC+08/index.json",
+  "pangtong_badge": "一二三四 placeholders, not finalized advancement names."
+}
