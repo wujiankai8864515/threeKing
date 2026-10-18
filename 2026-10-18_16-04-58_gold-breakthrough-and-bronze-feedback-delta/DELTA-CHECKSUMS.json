@@ -1,0 +1,13 @@
+{
+  "status-overrides.json": "4bb5f7c6ef5210bcedcd24ee8427dd8d1763c30ba0e9dd3008bb558b8c9c125b",
+  "asset-index.json": "4af84bcde53c553d535503df0d7ae9cbb5472a5dcbdb1551197851bfda979d31",
+  "restore-all.py": "f77179ca5967221af1599c580637d679254ec82b31be7c18dd9b01f2ce0baf56",
+  "README.md": "6f06cc3edb8deef5737ff4605f6cf7500f599a7650270e125a3713050fb1934b",
+  "source/guanyu-mythic-set/revision_20261018_160305_UTC+08/compose.py": "61e268e85177d9a96c9ce5b36ab10a06fcdb743ce365f348d120813997cb9756",
+  "source/guanyu-mythic-set/revision_20261018_160305_UTC+08/upload-results.json": "81d2638070fb0cea07c4e47314b51958142778890cddbc3a50bdcfcd6bbbe621",
+  "source/guanyu-mythic-set/revision_20261018_160305_UTC+08/manifest.json": "9eae524d7884ea6202d84274799dc085f116f176398f90db10cb6a54277f564c",
+  "source/guanyu-mythic-set/revision_20261018_160305_UTC+08/uploads.json": "f6d27383062188e4859ff84e34617e1469d60e053c08cc94320de86a9f1f3d01",
+  "assets/sha256/b79620ff72bb7dadda8825b2272862f3df672a26b088ae339186ebe6667f9dcd.png": "b79620ff72bb7dadda8825b2272862f3df672a26b088ae339186ebe6667f9dcd",
+  "assets/sha256/eea807a9e74295365917f4b3c11ceeecf5c77696134b495d6bedf4a92db9e15c.png": "eea807a9e74295365917f4b3c11ceeecf5c77696134b495d6bedf4a92db9e15c",
+  "assets/sha256/de1e4c98a2e395a1599ac08fe46ea56cc22745cc12d7773018ff2c6a07fb605f.png": "de1e4c98a2e395a1599ac08fe46ea56cc22745cc12d7773018ff2c6a07fb605f"
+}

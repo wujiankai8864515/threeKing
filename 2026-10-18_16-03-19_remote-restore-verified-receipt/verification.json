@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-18T16:03:19.266132+08:00",
+  "repository": "https://github.com/wujiankai8864515/threeKing",
+  "branch": "main",
+  "verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "verification_source": "Parent operator independently cloned remote and reported successful results",
+  "checks": {
+    "independent_clone": "passed",
+    "git_lfs_pull": "passed",
+    "restore_all_resolved_source_paths": 450,
+    "git_lfs_fsck": "OK",
+    "local_HEAD_matches_remote_ls_remote": true,
+    "repository_README_API_read": "passed"
+  },
+  "scope": "Initial commit only. Subsequent local status/art deltas require a later push and verification.",
+  "new_binary_assets": []
+}

@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-18T16:04:58.980746+08:00",
+  "feedback_at": "2026-10-18T08:03:00Z",
+  "feedback_time_precision": "minute",
+  "bronze_v2": {
+    "status": "partial_approval_revision_required",
+    "overrides_previous_approval": true,
+    "request": "Correct swinging motion, hands and blade trajectory. Remove coiled ring-shaped dragon. Pure-green dragon head fully visible outside frame occlusion, thicker dragon while retaining tier progression.",
+    "source": "guanyu-mythic-set/revision_20261018_155650_UTC+08/02-青铜·黄巾初征.png"
+  },
+  "frozen": [
+    "blackiron_v1",
+    "silver_v2",
+    "peach_grove",
+    "four_frames",
+    "star_ui"
+  ],
+  "gold_v3": {
+    "status": "qa_passed_pending_user_approval",
+    "library_version": 3,
+    "request_result": "Preserved hero/horse; strengthened broken gate/barricade, defeated defender, carriage escort and distant winding-road narrative."
+  },
+  "hua_xiong_v2": "pending_user_approval",
+  "backup_verification": "2026-10-18_16-03-19_remote-restore-verified-receipt/verification.json",
+  "new_gold_delta_pushed": false
+}

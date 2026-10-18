@@ -1,0 +1,116 @@
+{
+  "archived_at": "2026-10-18T16:04:58.980746+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/00-四阶总览.png",
+      "original_name": "00-四阶总览.png",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/assets/sha256/eea807a9e74295365917f4b3c11ceeecf5c77696134b495d6bedf4a92db9e15c.png",
+      "sha256": "eea807a9e74295365917f4b3c11ceeecf5c77696134b495d6bedf4a92db9e15c",
+      "original_sha256": "eea807a9e74295365917f4b3c11ceeecf5c77696134b495d6bedf4a92db9e15c",
+      "bytes": 1617527,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "qa_passed_pending_user_approval",
+      "supersedes": [
+        "guanyu-mythic-set/revision_20261018_155650_UTC+08/00-四阶总览.png"
+      ],
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000a6ac81f5beab1c72d871243e",
+        "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+        "file_name": "00-四阶总览.png",
+        "local_metadata_applied": true,
+        "path": "/00-四阶总览.png",
+        "current_version_number": 3
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/04-黄金·过关寻兄.png",
+      "original_name": "04-黄金·过关寻兄.png",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/assets/sha256/de1e4c98a2e395a1599ac08fe46ea56cc22745cc12d7773018ff2c6a07fb605f.png",
+      "sha256": "de1e4c98a2e395a1599ac08fe46ea56cc22745cc12d7773018ff2c6a07fb605f",
+      "original_sha256": "de1e4c98a2e395a1599ac08fe46ea56cc22745cc12d7773018ff2c6a07fb605f",
+      "bytes": 3275791,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "qa_passed_pending_user_approval",
+      "supersedes": [
+        "guanyu-mythic-set/revision_20261018_155650_UTC+08/04-黄金·过关寻兄.png"
+      ],
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000007d2c81f59f66c3f1c1be2136",
+        "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+        "file_name": "04-黄金·过关寻兄.png",
+        "local_metadata_applied": true,
+        "path": "/04-黄金·过关寻兄.png",
+        "current_version_number": 3
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/compose.py",
+      "original_name": "compose.py",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/source/guanyu-mythic-set/revision_20261018_160305_UTC+08/compose.py",
+      "sha256": "61e268e85177d9a96c9ce5b36ab10a06fcdb743ce365f348d120813997cb9756",
+      "original_sha256": "61e268e85177d9a96c9ce5b36ab10a06fcdb743ce365f348d120813997cb9756",
+      "bytes": 1234,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/gold-pure-breakthrough.png",
+      "original_name": "gold-pure-breakthrough.png",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/assets/sha256/b79620ff72bb7dadda8825b2272862f3df672a26b088ae339186ebe6667f9dcd.png",
+      "sha256": "b79620ff72bb7dadda8825b2272862f3df672a26b088ae339186ebe6667f9dcd",
+      "original_sha256": "b79620ff72bb7dadda8825b2272862f3df672a26b088ae339186ebe6667f9dcd",
+      "bytes": 3443179,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "qa_passed_pending_user_approval",
+      "supersedes": [
+        "guanyu-mythic-set/pure/gold-green-dragon-20261018_155405.png"
+      ]
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/source/guanyu-mythic-set/revision_20261018_160305_UTC+08/manifest.json",
+      "sha256": "9eae524d7884ea6202d84274799dc085f116f176398f90db10cb6a54277f564c",
+      "original_sha256": "9eae524d7884ea6202d84274799dc085f116f176398f90db10cb6a54277f564c",
+      "bytes": 782,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/upload-results.json",
+      "original_name": "upload-results.json",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/source/guanyu-mythic-set/revision_20261018_160305_UTC+08/upload-results.json",
+      "sha256": "81d2638070fb0cea07c4e47314b51958142778890cddbc3a50bdcfcd6bbbe621",
+      "original_sha256": "a9b843680ff26426f40d1bc3fefbdc7b6d410229f188489e0992bf78e3421335",
+      "bytes": 890,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_160305_UTC+08/uploads.json",
+      "original_name": "uploads.json",
+      "repository_path": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/source/guanyu-mythic-set/revision_20261018_160305_UTC+08/uploads.json",
+      "sha256": "f6d27383062188e4859ff84e34617e1469d60e053c08cc94320de86a9f1f3d01",
+      "original_sha256": "e276bb6370bf2d04709d00dd3f0951063c8acae842112e1c5dff36441e6d6fb2",
+      "bytes": 765,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:04:58.980746+08:00",
+      "status": "production_support",
+      "supersedes": []
+    }
+  ],
+  "note": "Source manifest frozen-bronze phrase predates latest feedback. Current status override reopens bronze for revision."
+}

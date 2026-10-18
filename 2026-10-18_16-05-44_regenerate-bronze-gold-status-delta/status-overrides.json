@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-18T16:05:44.098579+08:00",
+  "feedback_at": "2026-10-18T08:04:00Z",
+  "feedback_time_precision": "minute",
+  "type": "status_only_delta",
+  "new_binary_assets": [],
+  "fixed_no_change": [
+    "blackiron_v1",
+    "silver_v2"
+  ],
+  "other_frozen": [
+    "peach_grove",
+    "four_frames",
+    "star_ui"
+  ],
+  "bronze": {
+    "current_v2": "partially_approved_revision_required",
+    "next_action": "Regenerate with mechanically correct swing, hands and blade motion; no ring-shaped dragon; full pure-green dragon head visible within frame. Camera/action direction must clearly differ from fixed silver."
+  },
+  "gold": {
+    "v3_status": "saved_candidate_not_delivered_not_accepted",
+    "next_action": "Regenerate with a camera/action clearly different from fixed silver and bronze. Avoid all images moving left-to-right. Preserve hero/horse quality and strong pass-breakthrough narrative, but a new pose is authorized."
+  },
+  "supersedes": "Earlier pose-preservation-only restriction for upcoming gold revision; previous delivery wording for gold v3 corrected. Gold v3 remains archived, not accepted or delivered.",
+  "workflow": "Deliver art first, then quietly sync GitHub; alert only on sync failure."
+}

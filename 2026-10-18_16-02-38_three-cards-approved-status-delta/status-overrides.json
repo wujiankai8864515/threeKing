@@ -1,0 +1,67 @@
+{
+  "recorded_at": "2026-10-18T16:02:38.698807+08:00",
+  "feedback_at": "2026-10-18T08:01:00Z",
+  "feedback_time_precision": "minute",
+  "type": "status_only_delta",
+  "new_binary_assets": [],
+  "status_overrides": [
+    {
+      "original_path": "guanyu-mythic-set/cards/01-黑铁·市井潜龙.png",
+      "sha256": "d39b0f13cbe3745286693ab281b29bf98692bc115b34d954c2ef9e98b0f4c497",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/blackiron-grounded-v2.png",
+      "sha256": "896296ea6bf09d9749e64b65df496d0c5176df58a15962bad5af7c5fc55a1190",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/bronze-grounded-puregreen_20261018_155320_UTC+08.png",
+      "sha256": "574a10b0775a51b111ae126ea3c1c11303e9fa5414e0701e5567d25014ebada8",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/gold-green-dragon-20261018_155405.png",
+      "sha256": "d26b4ff7d1d993bcf45849be8ba237e7bd34fdea3019f6a6441fdbd2bb1c8e6b",
+      "status": "partial_approval_hero_and_horse_revision_required"
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/silver-green-dynamic-20261018_155216.png",
+      "sha256": "a4f33ee45a36f06a90f443e2f37759b8a9f41704fec9e148cace2dc348dbbb8d",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_155650_UTC+08/02-青铜·黄巾初征.png",
+      "sha256": "9f4ef9f49c262a24820888ed5d43e2be86e4b90444ea83a1fb4486c64d890492",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_155650_UTC+08/03-白银·关前扬威.png",
+      "sha256": "8716362e5ddd59307b732a8c82c00f3f78ba73a9166b23e21b6fbd15eba90661",
+      "status": "approved_frozen"
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_155650_UTC+08/04-黄金·过关寻兄.png",
+      "sha256": "7f64679f24643ea902db17639f5a5bf8518e4f3612d85afa24d55897bbf8982b",
+      "status": "partial_approval_hero_and_horse_revision_required"
+    },
+    {
+      "original_path": "guanyu-mythic-set/revision_20261018_155650_UTC+08/silver-pure-with-plaque.png",
+      "sha256": "bbc597bf2918aa9ffbd3ed4ec8ed1db9e415af3cc4df63eed202c92a74e862a2",
+      "status": "approved_frozen"
+    }
+  ],
+  "gold_revision_request": "Preserve approved hero and horse. Strengthen breaking through gate, defeated gate guard, road and escort narrative; revision 3 underway but no new output included.",
+  "frozen_other_assets": "Peach grove, four frames and star UI remain frozen.",
+  "hua_xiong": "Latest version 2 remains pending user approval.",
+  "delivery_workflow": "Deliver finished art first. Then quietly sync authorized project backup to GitHub. Notify user only on sync failure; do not hold art delivery for upload.",
+  "backup_status": {
+    "repository": "https://github.com/wujiankai8864515/threeKing",
+    "branch": "main",
+    "pushed_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+    "lfs_objects": 265,
+    "reported_lfs_bytes_approx": "605 MB",
+    "independent_remote_restore": "in progress, not yet verified",
+    "this_delta_pushed": false
+  }
+}
