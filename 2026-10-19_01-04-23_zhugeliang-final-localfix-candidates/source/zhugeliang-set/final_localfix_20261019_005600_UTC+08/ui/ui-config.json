@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "静虑",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "静虑",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "静虑",
+        "level": "+2"
+      },
+      {
+        "name": "候风",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "诸葛亮",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "静虑",
+        "level": "+2"
+      },
+      {
+        "name": "候风",
+        "level": "+2"
+      },
+      {
+        "name": "审势",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

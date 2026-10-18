@@ -1,0 +1,293 @@
+{
+  "hero": "诸葛亮",
+  "generator": "built-in image_gen",
+  "native_portraits": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; native portrait 1:1 under independent UI",
+  "assets": [
+    {
+      "asset": "01-黑铁-隆中高卧",
+      "output": "candidates/诸葛亮-01-黑铁-隆中高卧.png",
+      "source": "ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "5b49a9f5633ca4349fbec0d1c2bd65081f30873e986d3edb86c4dc98adda95d0",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "02-青铜-出庐定策",
+      "output": "candidates/诸葛亮-02-青铜-出庐定策.png",
+      "source": "ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "966af72ae0bc4ac2f0e6a5cf2038bd5f70c73e08e083242778be10f50e0ccfde",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "03-白银-七星借风",
+      "output": "candidates/诸葛亮-03-白银-七星借风.png",
+      "source": "ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "367bfe091a7f7659a591d626bb94e4d0f14816f3c924d546327a65355496a809",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "04-黄金-空城定局",
+      "output": "candidates/诸葛亮-04-黄金-空城定局.png",
+      "source": "ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "e78e9a2e8083b7d78e8b77b7c669dcc61d0931b7b1d4a32e9718152dbae6bd1a",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "05-传记-三顾定志",
+      "output": "candidates/诸葛亮-05-传记-三顾定志.png",
+      "source": "raw/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "05f37e01369ca8b4f00210e2d609ce8279799829bef65d3b42f0cc6a7d087dbd",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "06-传记-风起江上",
+      "output": "candidates/诸葛亮-06-传记-风起江上.png",
+      "source": "raw/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c2962c9a5a32d50fdc5107686b941db29ec58eec1e070d15b310f448b2894944",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "07-传记-虚实之间",
+      "output": "candidates/诸葛亮-07-传记-虚实之间.png",
+      "source": "raw/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "b7170159c3f403dddfdbf5e4e302c2134c92a1c0954a61d1d5a0e139c8cb6470",
+      "status": "candidate_awaiting_user"
+    }
+  ],
+  "previous_directory": "/workspace/scratch/3f82ff2b3f81/zhugeliang-set/full_remake_20261019_003250_UTC+08",
+  "library": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-01-黑铁-隆中高卧.png",
+      "file_id": "file_00000000506481f593a985c0b84c06fd",
+      "library_file_id": "libfile_ed6b5f913be481918062f46e4c3ca3cc",
+      "file_name": "诸葛亮-01-黑铁-隆中高卧.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3207364
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-02-青铜-出庐定策.png",
+      "file_id": "file_000000004fa081fd99f2059838e25ca7",
+      "library_file_id": "libfile_5446a244c758819193f3dfd21538f30a",
+      "file_name": "诸葛亮-02-青铜-出庐定策.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3525780
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-03-白银-七星借风(1).png",
+      "file_id": "file_0000000013c481f5b35eab1667760665",
+      "library_file_id": "libfile_7889c54cce408191ac90570b8c28af0a",
+      "file_name": "诸葛亮-03-白银-七星借风(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3624111
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-04-黄金-空城定局(1).png",
+      "file_id": "file_00000000f32081fd94663bd7e5bfec20",
+      "library_file_id": "libfile_97acda2f0e488191bb7ee5e88d02b13e",
+      "file_name": "诸葛亮-04-黄金-空城定局(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3657303
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-05-传记-三顾定志(1).png",
+      "file_id": "file_00000000dde481f59bcadf6b2aba0e8f",
+      "library_file_id": "libfile_beb926562a588191a8cbe09990b1cd56",
+      "file_name": "诸葛亮-05-传记-三顾定志(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2318046
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-06-传记-风起江上.png",
+      "file_id": "file_00000000386c81f8a3e13e87eba64aeb",
+      "library_file_id": "libfile_8a440888d6488191a47eff52ed9a65ab",
+      "file_name": "诸葛亮-06-传记-风起江上.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2578579
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-07-传记-虚实之间.png",
+      "file_id": "file_0000000089b481f88dccc7869cad3b51",
+      "library_file_id": "libfile_4f04a3d9077c8191a8acc3f1c95f5834",
+      "file_name": "诸葛亮-07-传记-虚实之间.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2603971
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-四阶三传记-新候选总览(1).png",
+      "file_id": "file_00000000cb78820cb7e368a0de2cca9a",
+      "library_file_id": "libfile_ac307b5aa4808191bd5dfa8240b350d6",
+      "file_name": "诸葛亮-四阶三传记-新候选总览(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2753202
+    }
+  ],
+  "selected_portrait_sources": [
+    "raw/card01final-safe.png",
+    "raw/card02-safe.png",
+    "raw/card03-safe.png",
+    "raw/card04-safe.png"
+  ],
+  "revision_scope": "Liu Bei green-white clothing; controlled violet lightning in silver and gold sky; all other regions preserved by masks",
+  "preservation_checks": [
+    {
+      "asset": "card03",
+      "outside_mask_changed": 0,
+      "mask_box": [
+        560,
+        60,
+        810,
+        420
+      ]
+    },
+    {
+      "asset": "card04",
+      "outside_mask_changed": 0,
+      "mask_box": [
+        700,
+        180,
+        880,
+        420
+      ]
+    },
+    {
+      "asset": "bio01",
+      "outside_mask_changed": 0,
+      "scope": "Liu Bei clothing only; Zhuge entire figure, map and fan preserved"
+    }
+  ]
+}

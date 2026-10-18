@@ -1,0 +1,272 @@
+{
+  "hero": "诸葛亮",
+  "generator": "built-in image_gen",
+  "native_portraits": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; native portrait 1:1 under independent UI",
+  "assets": [
+    {
+      "asset": "01-黑铁-隆中高卧",
+      "output": "candidates/诸葛亮-01-黑铁-隆中高卧.png",
+      "source": "ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "5b49a9f5633ca4349fbec0d1c2bd65081f30873e986d3edb86c4dc98adda95d0",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "02-青铜-出庐定策",
+      "output": "candidates/诸葛亮-02-青铜-出庐定策.png",
+      "source": "ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "966af72ae0bc4ac2f0e6a5cf2038bd5f70c73e08e083242778be10f50e0ccfde",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "03-白银-七星借风",
+      "output": "candidates/诸葛亮-03-白银-七星借风.png",
+      "source": "ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "256c84c259623245ce0c5d6ec96e8636dab01d3b9d03d4b86d0bf07789949507",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "04-黄金-空城定局",
+      "output": "candidates/诸葛亮-04-黄金-空城定局.png",
+      "source": "ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "3e194bacaaff0e29a2c23058d9c859b3f16c07c4908744dda65895f9abbc4da4",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "05-传记-三顾定志",
+      "output": "candidates/诸葛亮-05-传记-三顾定志.png",
+      "source": "raw/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "81fd51f389bf23d0bc0ddb2580533d8ab1788c4e004b705aa61642af1992a108",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "06-传记-风起江上",
+      "output": "candidates/诸葛亮-06-传记-风起江上.png",
+      "source": "raw/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c2962c9a5a32d50fdc5107686b941db29ec58eec1e070d15b310f448b2894944",
+      "status": "candidate_awaiting_user"
+    },
+    {
+      "asset": "07-传记-虚实之间",
+      "output": "candidates/诸葛亮-07-传记-虚实之间.png",
+      "source": "raw/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "b7170159c3f403dddfdbf5e4e302c2134c92a1c0954a61d1d5a0e139c8cb6470",
+      "status": "candidate_awaiting_user"
+    }
+  ],
+  "selected_portrait_sources": [
+    "raw/card01final-safe.png",
+    "raw/card02-safe.png",
+    "raw/card03-safe.png",
+    "raw/card04-safe.png"
+  ],
+  "failures_retained": {
+    "raw/card01.png": "photographic material rejected",
+    "raw/card01-stylefix.png": "before background and jade adjustment",
+    "raw/card01final.png": "dragon muzzle under UI",
+    "raw/card02.png": "dragon muzzle under UI",
+    "raw/card03.png": "dragon muzzle under UI",
+    "raw/card04.png": "dragon and right hand under UI"
+  },
+  "library": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-01-黑铁-隆中高卧.png",
+      "file_id": "file_00000000506481f593a985c0b84c06fd",
+      "library_file_id": "libfile_ed6b5f913be481918062f46e4c3ca3cc",
+      "file_name": "诸葛亮-01-黑铁-隆中高卧.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3207364
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-02-青铜-出庐定策.png",
+      "file_id": "file_000000004fa081fd99f2059838e25ca7",
+      "library_file_id": "libfile_5446a244c758819193f3dfd21538f30a",
+      "file_name": "诸葛亮-02-青铜-出庐定策.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3525780
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-03-白银-七星借风.png",
+      "file_id": "file_0000000095e481fd918e317b4d540252",
+      "library_file_id": "libfile_a004d4f6b9cc819196b264cd6fc823fc",
+      "file_name": "诸葛亮-03-白银-七星借风.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3622050
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-04-黄金-空城定局.png",
+      "file_id": "file_00000000c7d481f9a575276a56e54b88",
+      "library_file_id": "libfile_b43f37af7d7c8191bc6a328f1961f88c",
+      "file_name": "诸葛亮-04-黄金-空城定局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3654261
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-05-传记-三顾定志.png",
+      "file_id": "file_00000000c16c81fd87abc4441161c701",
+      "library_file_id": "libfile_b932754a13288191b466d534c80a4220",
+      "file_name": "诸葛亮-05-传记-三顾定志.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2405353
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-06-传记-风起江上.png",
+      "file_id": "file_00000000386c81f8a3e13e87eba64aeb",
+      "library_file_id": "libfile_8a440888d6488191a47eff52ed9a65ab",
+      "file_name": "诸葛亮-06-传记-风起江上.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2578579
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-07-传记-虚实之间.png",
+      "file_id": "file_0000000089b481f88dccc7869cad3b51",
+      "library_file_id": "libfile_4f04a3d9077c8191a8acc3f1c95f5834",
+      "file_name": "诸葛亮-07-传记-虚实之间.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2603971
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-四阶三传记-新候选总览.png",
+      "file_id": "file_000000002d3881f4989963a0522ffe70",
+      "library_file_id": "libfile_b823408f0e5881919aa2baffd1b80e7e",
+      "file_name": "诸葛亮-四阶三传记-新候选总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2751077
+    }
+  ]
+}

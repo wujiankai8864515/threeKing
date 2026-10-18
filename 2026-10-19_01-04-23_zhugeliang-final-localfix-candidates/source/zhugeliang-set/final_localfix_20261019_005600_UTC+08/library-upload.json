@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-03-白银-七星借风(1).png",
+      "file_id": "file_0000000013c481f5b35eab1667760665",
+      "library_file_id": "libfile_7889c54cce408191ac90570b8c28af0a",
+      "file_name": "诸葛亮-03-白银-七星借风(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3624111
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-04-黄金-空城定局(1).png",
+      "file_id": "file_00000000f32081fd94663bd7e5bfec20",
+      "library_file_id": "libfile_97acda2f0e488191bb7ee5e88d02b13e",
+      "file_name": "诸葛亮-04-黄金-空城定局(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3657303
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-05-传记-三顾定志(1).png",
+      "file_id": "file_00000000dde481f59bcadf6b2aba0e8f",
+      "library_file_id": "libfile_beb926562a588191a8cbe09990b1cd56",
+      "file_name": "诸葛亮-05-传记-三顾定志(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2318046
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/诸葛亮-四阶三传记-新候选总览(1).png",
+      "file_id": "file_00000000cb78820cb7e368a0de2cca9a",
+      "library_file_id": "libfile_ac307b5aa4808191bd5dfa8240b350d6",
+      "file_name": "诸葛亮-四阶三传记-新候选总览(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2753202
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

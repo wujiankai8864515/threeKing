@@ -1,0 +1,27 @@
+[
+  {
+    "asset": "card03",
+    "outside_mask_changed": 0,
+    "mask_box": [
+      560,
+      60,
+      810,
+      420
+    ]
+  },
+  {
+    "asset": "card04",
+    "outside_mask_changed": 0,
+    "mask_box": [
+      700,
+      180,
+      880,
+      420
+    ]
+  },
+  {
+    "asset": "bio01",
+    "outside_mask_changed": 0,
+    "scope": "Liu Bei clothing only; Zhuge entire figure, map and fan preserved"
+  }
+]
