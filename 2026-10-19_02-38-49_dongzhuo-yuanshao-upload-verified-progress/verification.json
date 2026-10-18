@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-19T02:38:49.638467+08:00",
+  "verified_asset_commit": "7665284cd22aab2b041af658cc4cff4fcbc3818a",
+  "independent_fetch": "PASS",
+  "lfs_pull": "new objects fetched by checkout",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9539,
+  "sequential_copy_sha256_checked": true,
+  "hero": "dongzhuo,yuanshao",
+  "seven_candidates": "uploaded_verified_not_user_accepted",
+  "lfs_fsck_scope": "466c811745bd1cef03c85e9b9dec6cb25e6b5360..7665284cd22aab2b041af658cc4cff4fcbc3818a",
+  "cache_note": "Only previously remote-verified independent LFS cache removed after matching main-repository object hashes; worktree and all 9539 resolved paths independently SHA-verified."
+}
