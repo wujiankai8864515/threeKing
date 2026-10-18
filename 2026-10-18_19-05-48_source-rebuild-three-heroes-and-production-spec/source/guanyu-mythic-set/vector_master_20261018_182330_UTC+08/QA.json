@@ -1,0 +1,20 @@
+{
+  "gold": {
+    "render_size": [
+      3072,
+      4608
+    ],
+    "center_alpha": 0,
+    "outermost_canvas_nontransparent_pixels": 0,
+    "svg_embedded_raster_images": 0
+  },
+  "iron": {
+    "render_size": [
+      3072,
+      4608
+    ],
+    "center_alpha": 0,
+    "outermost_canvas_nontransparent_pixels": 0,
+    "svg_embedded_raster_images": 0
+  }
+}

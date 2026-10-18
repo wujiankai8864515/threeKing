@@ -1,0 +1,20 @@
+{
+  "status": "Latest 512×768 structural candidate awaiting review; aesthetic gap remains versus selected original frame. No four-tier rollout.",
+  "geometry": "deterministic curves and planar profiles, stepped ring terraces, narrow bevel faces, cut pentagram facets, straight passive joins",
+  "metal_surface": "procedural directional machined micro-surface; no image textures/no old frame pixels",
+  "native_render": "Current geometry scalable; current latest raster is 512×768 test only. Earlier 2048 renders are obsolete rejected lighting versions.",
+  "renderer": "Cycles 128 samples, 25 percent of 2048×3072 camera canvas for structural iteration",
+  "source_files": [
+    "render.py",
+    "gold-frame-native.blend",
+    "text-overlay.svg",
+    "compose_preview.py"
+  ],
+  "artwork": "transparent slot; no illustration included and no claim about illustration resolution",
+  "dynamic_text": "SVG typography in independent layer, Noto CJK fonts, exact name and separate level placeholders",
+  "lighting": "Reduced key and strip, broad front fill; Standard view transform exposure -1.0",
+  "pending": "No full-size render running. Root review required before further work.",
+  "geometry_revision": "Raised star boundaries above structural frame; increased flat cloud ribbon width and thickness",
+  "latest_preview": "structure-complete-preview.png",
+  "comparison": "original-vs-native-structure.png"
+}

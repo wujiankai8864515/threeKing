@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "刘备",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "仁德",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "刘备",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "仁德",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "刘备",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "仁德",
+        "level": "+2"
+      },
+      {
+        "name": "龙佑",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "刘备",
+    "level": "1",
+    "advancement": "",
+    "skills": [
+      {
+        "name": "仁德",
+        "level": "+2"
+      },
+      {
+        "name": "龙佑",
+        "level": "+2"
+      },
+      {
+        "name": "济世",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

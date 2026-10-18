@@ -1,0 +1,87 @@
+{
+  "method": "one builtin imagegen precise-object-edit invocation; no API; artwork copied unmodified",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-青铜-独矛破黄巾-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-青铜-独矛破黄巾-候选1.png",
+      "role": "sole edit target; freeze all except entire rigid shaft and minimal two grip adjustment",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "db7a783efb0a04b3f454a2f7827d20b421d975b9cace86259ff22d8078e1aace"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/张飞-青铜-全杆双握局修-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "d561edfd04aba162f3f05dbd2c4b108dc619a92b594681c69ecf4aa5e3ea4443"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/prompt.txt",
+  "qa": {
+    "face": {
+      "box": [
+        275,
+        260,
+        520,
+        515
+      ],
+      "before": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/face-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/face-after-native100.png",
+      "scale": "1:1 no resize"
+    },
+    "upper-grip": {
+      "box": [
+        635,
+        280,
+        805,
+        485
+      ],
+      "before": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/upper-grip-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/upper-grip-after-native100.png",
+      "scale": "1:1 no resize"
+    },
+    "lower-grip": {
+      "box": [
+        75,
+        640,
+        280,
+        820
+      ],
+      "before": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/lower-grip-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/lower-grip-after-native100.png",
+      "scale": "1:1 no resize"
+    },
+    "full-shaft": {
+      "box": [
+        0,
+        25,
+        1024,
+        870
+      ],
+      "before": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/full-shaft-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/full-shaft-after-native100.png",
+      "scale": "1:1 no resize"
+    },
+    "cloth-armor": {
+      "box": [
+        175,
+        405,
+        690,
+        940
+      ],
+      "before": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/cloth-armor-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-shaft-local_2026-10-18_19-07-03_UTC+08/qa/cloth-armor-after-native100.png",
+      "scale": "1:1 no resize"
+    }
+  },
+  "diagnostic_guide": "cyan approximate butt cap (59,827) to blade socket (850,217); diagnostic only, never fed to generator",
+  "status": "failed: root judged shaft still bowed after one local repair; stop repairing this composition",
+  "successor_candidate": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png"
+}

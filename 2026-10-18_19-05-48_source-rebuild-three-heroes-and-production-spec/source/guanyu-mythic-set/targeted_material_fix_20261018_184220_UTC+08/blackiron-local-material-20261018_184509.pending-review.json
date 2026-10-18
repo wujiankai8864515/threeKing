@@ -1,0 +1,33 @@
+{
+  "timezone": "UTC+08",
+  "method": "built-in image_gen localized edit",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "native_crops_no_resampling": true,
+  "uploaded": false,
+  "old_versions_preserved": true,
+  "no_superresolution": true,
+  "status": "passed_and_frozen_by_root",
+  "created_at": "2026-10-18T18:45:09+08:00",
+  "source": "./guanyu-mythic-set/rebuild_gold_black_20261018_183154_UTC+08/blackiron-mythic-source-rebuild-20261018_183717.png",
+  "output": "./guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+  "generated_source": "./generated_images/exec-047eb632-c9ff-4e84-a772-733e795f7a96.png",
+  "prompt": "./guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.prompt.txt",
+  "qa_crops": "QA/black-source-* and QA/black-candidate-*",
+  "scope": "Only non-structural yellow flecks in right-sleeve/headwrap/awning green planes and isolated bright needles on dark crate faces.",
+  "self_QA": "Full image and six native regions viewed. Target yellow flecks substantially reduced, worn patches/frayed edges/wood grain/sack weave/legitimate bean sphere highlights retained. Face and both hands/bean-selling gesture and composition retained.",
+  "independent_QA": {
+    "reviewer": "audit_image_quality_causes",
+    "result": "PASS; freeze blackiron; no new repair need",
+    "findings": "Cloth yellow needle points clearly cleaned. Remaining wood-grain/nailhead highlights reasonable. Face, both hands, scoop, beans and sacks preserved; no new hard defects.",
+    "reported_to_root_and_lead": true
+  },
+  "verified_pixels": [
+    1024,
+    1536
+  ],
+  "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+  "root_confirmation_recorded_at": "2026-10-18T18:52:11.234271+08:00"
+}

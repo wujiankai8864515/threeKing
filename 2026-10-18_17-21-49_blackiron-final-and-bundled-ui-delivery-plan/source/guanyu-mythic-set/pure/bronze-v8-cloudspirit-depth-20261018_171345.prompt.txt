@@ -1,0 +1,20 @@
+Use case: precise-object-edit.
+INPUT ROLES:
+Image 1 is the exact approved BRONZE card artwork to EDIT.
+Image 2 is a reference ONLY for the Eastern dragon's heroic head/antler/mane anatomy and how its massive ghostlike body disappears into clouds. Do not borrow the second image's rider, horse, armor, weapon, landscape, caravan, flag, story, layout or horizontal composition.
+
+Make ONLY the following two localized corrections in Image 1.
+
+1. SKY DRAGON ANATOMY AND CLOUD RELATION
+Replace the current small narrow spectral dragon head with a more noble, imposing Eastern Chinese dragon head based directly on Image 2: broad authoritative brow, proud powerful muzzle, natural crownlike branching antlers, long layered flowing mane, dignified fierce eyes and strong jaw. It should feel like the visible face of a vast dragon spirit concealed in the sky, not a tiny pet or a little snake. Let its head occupy the same upper-right sky region, with enough broad head-and-mane volume to read as majestic, without covering any rider or peach branch.
+At the same time this is BRONZE-tier spectral manifestation: retain a low-contrast translucent PURE GREEN apparition, visibly much less solid and less luminous than a gold/silver battle dragon. No neon outline, no bright laser eyes, no electric lightning. Use grass/forest-green transparent shading and pale green mist, never cyan or turquoise.
+Match Image 2's cloud integration: soft natural white clouds pass IN FRONT OF and THROUGH the neck and most of its huge body. Hide at least three-quarters of the body. Only a broad short ghostlike neck and a few widely separated, faint scaled hints may emerge between clouds. Do NOT draw a long traceable snake body, full circular loop, exposed thin coil or strongly solid dragon. Keep its noble face recognizable while its lower neck and rear mane dissolve naturally into cloud. The cloud-hidden enormous presence matters more than brightness.
+Keep all dragon facial features and antlers inside the upper sky, not cropped, and do not obscure Guan Yu's head or the other two riders.
+
+2. CONSISTENT SUBJECT-TO-DISTANCE SHARPNESS
+Guan Yu's existing face/eyes, main armor, long straight polearm and his horse remain the clearest, crispest focal subject exactly as Image 1.
+The nearest fleeing Yellow Turban in the lower-right foreground should be only slightly out of focus: his existing facial identity, headwear and clothing remain recognizable, but quieter than Guan Yu. The much farther Liu Bei and Zhang Fei riders at the left must be MORE softly focused and lower-contrast than that near enemy, while still identifiable as the same two men in the same costumes on their horses. Keep their current faces and geometry; adjust depth-of-field/contrast only. Do not allow far supporting figures to appear sharper than the near enemy. Keep the difference tasteful and painterly, not smeared anonymous faces. No global blur.
+
+ABSOLUTELY PRESERVE ALL OTHER CONTENT:
+Every human face identity, expression, body, pose, clothing, horse, hand, weapon, mud splash, peach blossom, Yellow Turban position, flag, mountain and chase composition stays as in Image 1. Do NOT change Guan Yu at all, do not change his front riding pose, do not change either hand/grip or the newly extended rear shaft. That physical guandao remains ONE rigid perfectly straight shaft running from the long exposed upper-left butt through both original hands to the unchanged original blade; preserve the added handle length, blade size and exact weapon axis.
+No new people, no deleted characters, no moved horses, no swapped clothes, no new story, no new composition, no extra objects. Do not import any character or object from Image 2. Keep the original bronze portrait aspect ratio, rich stylized mythic commercial painting quality, lighting and color relationships. No frame, border, stars, text, logo or watermark.

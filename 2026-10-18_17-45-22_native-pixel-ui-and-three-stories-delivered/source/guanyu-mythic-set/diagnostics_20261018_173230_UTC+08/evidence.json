@@ -1,0 +1,150 @@
+{
+  "iron": {
+    "pure": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+    "pure_size": [
+      1024,
+      1536
+    ],
+    "card_size": [
+      1024,
+      1536
+    ],
+    "ui_size": [
+      1024,
+      1536
+    ],
+    "thumbnail_size": [
+      480,
+      720
+    ],
+    "ui_uncovered_changed_pixels": 0,
+    "ui_uncovered_total_pixels": 1507429,
+    "mask_at_face_crop_values": [
+      255
+    ],
+    "card_vs_resized_pure_uncovered_differing_pixels": 0,
+    "face_pure_crop": [
+      400,
+      320,
+      590,
+      510
+    ],
+    "face_card_crop": [
+      416,
+      400,
+      580,
+      564
+    ]
+  },
+  "gold": {
+    "pure": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+    "pure_size": [
+      1024,
+      1536
+    ],
+    "card_size": [
+      1024,
+      1536
+    ],
+    "ui_size": [
+      1024,
+      1536
+    ],
+    "thumbnail_size": [
+      480,
+      720
+    ],
+    "ui_uncovered_changed_pixels": 0,
+    "ui_uncovered_total_pixels": 1460807,
+    "mask_at_face_crop_values": [
+      255
+    ],
+    "card_vs_resized_pure_uncovered_differing_pixels": 587,
+    "face_pure_crop": [
+      500,
+      180,
+      680,
+      360
+    ],
+    "face_card_crop": [
+      502,
+      280,
+      657,
+      435
+    ]
+  },
+  "silver": {
+    "pure": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/silver-pure-lettering.png",
+    "pure_size": [
+      1024,
+      1536
+    ],
+    "card_size": [
+      1024,
+      1536
+    ],
+    "ui_size": [
+      1024,
+      1536
+    ],
+    "thumbnail_size": [
+      480,
+      720
+    ],
+    "ui_uncovered_changed_pixels": 0,
+    "ui_uncovered_total_pixels": 1484118,
+    "mask_at_face_crop_values": [
+      255
+    ],
+    "card_vs_resized_pure_uncovered_differing_pixels": 0,
+    "face_pure_crop": [
+      500,
+      430,
+      680,
+      610
+    ],
+    "face_card_crop": [
+      502,
+      495,
+      657,
+      650
+    ]
+  },
+  "bronze": {
+    "pure": "./guanyu-mythic-set/pure/bronze-v8-frame-safe-depth-20261018_172023.png",
+    "pure_size": [
+      1024,
+      1536
+    ],
+    "card_size": [
+      1024,
+      1536
+    ],
+    "ui_size": [
+      1024,
+      1536
+    ],
+    "thumbnail_size": [
+      480,
+      720
+    ],
+    "ui_uncovered_changed_pixels": 0,
+    "ui_uncovered_total_pixels": 1507429,
+    "mask_at_face_crop_values": [
+      255
+    ],
+    "card_vs_resized_pure_uncovered_differing_pixels": 0,
+    "face_pure_crop": [
+      540,
+      310,
+      720,
+      490
+    ],
+    "face_card_crop": [
+      537,
+      392,
+      691,
+      546
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "status": "candidate_pending_independent_QA_with_residual_foreground_softness",
+  "title": "刘备 黄金晋升传记 汉中之战",
+  "created_local": "2026-10-18T19:13:18+08:00",
+  "tool": "builtin image_gen.imagegen",
+  "generation_count": 1,
+  "output": "/workspace/scratch/3f82ff2b3f81/liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.prompt.txt",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "role": "Approved identity/build and clean planar painting only; no shoemaking scene/clothing/pose.",
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e"
+    }
+  ],
+  "story_relation": "Hanzhong campaign command directly precedes/grounds the King of Hanzhong gold card; no unrelated event or other hero killing scene.",
+  "QA": {
+    "inspected": "Full native plus face, pointing hand, map hand, armor/robe, map/near props, rocks, army routes and dragon.",
+    "passes": [
+      "Approved Liu Bei face remains recognizable, no replacement by Guan Yu/Zhang Fei.",
+      "Two hands with one pointing action and one supported on map; shoulders/wrists anatomically plausible.",
+      "Army routes, pass and river create coherent Hanzhong command narrative, Liu Bei dominant.",
+      "White/ivory cloth broad matte planes, structured metal rivets and borders; no blanket gold glitter.",
+      "Map, central foreground rocks and hand clear; distance progressively less detailed."
+    ],
+    "limitations": [
+      "Bottom-left nearest sword pommel/scroll props still defocused, some extreme-bottom rocks softer. Cannot claim strict all-foreground clarity fully met.",
+      "Upper dragon antler tip contacts/crops top edge slightly; face and mouth complete.",
+      "Uniform tiny gold marks remain at structural lamellar rivets; treated as rivet details, not blanket forbidden points.",
+      "Green edging is more extensive than a tiny insignia but ivory remains principal color."
+    ]
+  },
+  "further_calls": "No further Liu Bei revision authorized or attempted.",
+  "output_sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307"
+}

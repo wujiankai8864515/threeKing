@@ -1,0 +1,120 @@
+{
+  "kind": "bronze",
+  "method": "one built-in image_gen invocation, no API/postprocessing/upscaling",
+  "actual_referenced_image_paths": [
+    "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+  ],
+  "references": [
+    {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "role": "Approved black-iron Zhang Fei identity/body and tidy matte material language; exclude shop, pose and pale tiger"
+    },
+    {
+      "path": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "role": "Approved Peach Garden v10 rightmost Zhang identity only; exclude other brothers, composition and glitter"
+    }
+  ],
+  "output": {
+    "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-青铜-独矛破黄巾-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "db7a783efb0a04b3f454a2f7827d20b421d975b9cace86259ff22d8078e1aace"
+  },
+  "prompt": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/bronze-prompt.txt",
+  "qa": {
+    "bronze-face": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-face-100pct.png",
+      "box": [
+        275,
+        260,
+        520,
+        515
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-upper-grip": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-upper-grip-100pct.png",
+      "box": [
+        635,
+        280,
+        805,
+        485
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-lower-grip": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-lower-grip-100pct.png",
+      "box": [
+        75,
+        640,
+        280,
+        820
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-full-shaft": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-full-shaft-100pct.png",
+      "box": [
+        0,
+        25,
+        1024,
+        870
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-body-legs": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-body-legs-100pct.png",
+      "box": [
+        0,
+        700,
+        800,
+        1240
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-cloth-armor": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-cloth-armor-100pct.png",
+      "box": [
+        175,
+        405,
+        690,
+        940
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-ground-wood": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-ground-wood-100pct.png",
+      "box": [
+        70,
+        1100,
+        785,
+        1470
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bronze-tiger": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bronze-tiger-100pct.png",
+      "box": [
+        0,
+        0,
+        460,
+        335
+      ],
+      "scale": "native 1:1 no resize"
+    }
+  },
+  "status": "candidate under review; no UI/frame baked"
+}

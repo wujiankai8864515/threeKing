@@ -1,0 +1,10 @@
+{
+  "name": "01-桃园神誓-hierarchy_20261018_170352_UTC+08",
+  "prompt": "Postproduction background hierarchy ONLY of this approved Peach Garden oath landscape. Keep ALL THREE men equally CRISP as co-protagonists: Liu Bei left, Guan Yu center, Zhang Fei right. Preserve their exact mature faces, eyes, expressions, identities, bodies, hands, bowls, poses, clothing/armor/fold designs, hair, colors, placement and existing light. Do NOT soften Liu Bei or Zhang Fei; do NOT make only Guan Yu the focus. Preserve altar and offerings and oath composition. Change ONLY peach grove background: moderately reduce saturation and contrast of pink blossoms and tree bark, reduce distant foliage microtexture and edge sharpness, add subtle atmospheric depth/selective softening to distant woods. Big peach tree remains obvious and beautiful but lower competing bark and blossom contrast; small overhead oath symbol retains form, quietly subordinate. Main trio faces, eyes, hands and clothes stay clearest and highest effective contrast. Not global blur, not excessive fog, no bloom overlay on people, no artificial sharpening, no new rendering style. Do not move anything or redesign costume or alter any face. Three equal protagonists, calm legible peach garden background, original stylized mythic illustration. Same landscape1536x1024 no text/frame.",
+  "source": "guanyu-mythic-set/stories/01-桃园神誓-v2-桃林.png",
+  "qa": "实看三人均清楚，成熟同脸/衣甲/姿势/酒碗保持，桃树桃林背景对比锐度减弱，誓约符号保留，未糊刘张。",
+  "output": "stories/01-桃园神誓-hierarchy_20261018_170352_UTC+08.png",
+  "tool": "builtin image_gen",
+  "resolution": "1536x1024",
+  "status": "pending root QA"
+}

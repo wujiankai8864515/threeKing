@@ -1,0 +1,49 @@
+{
+  "asset_id": "liubei_blackiron_v2",
+  "status": "producer_and_independent_QA_passed_root_identity_anchor_accepted",
+  "generated_with": "builtin image_gen",
+  "candidate_count_this_round": 1,
+  "asset": {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+    "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "format": "PNG"
+  },
+  "actual_references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "role": "Delivered Taoyuan Library v5 left Liu Bei face identity and planar illustration language; no scene reuse"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-黑铁-v1-织席编履身份候选.png",
+      "sha256": "14e1c7ab9bcd328342ab1e3262939cc7820b14611bd99c0feaf9c39a63787a27",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "format": "PNG",
+      "role": "Rejected Liu v1 only shoe-weaving hand action and town composition; no realistic skin/fabric/wood or large dragon style"
+    }
+  ],
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5e948e40-a673-4f42-bd07-1c349be0e6b6.png",
+  "source_brief": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-四卡三传记制作brief.md",
+  "prompt": "prompt-and-references.md",
+  "qa_directory": "qa-100pct",
+  "crop_resize_count": 0,
+  "creative_postprocessing": "none",
+  "delivery": "not_uploaded",
+  "updated": "2026-10-18T19:08:07.591539+08:00",
+  "independent_QA": "audit_image_quality_causes confirmed no hard identity/style/anatomy issues; expansion approved by root/lead"
+}

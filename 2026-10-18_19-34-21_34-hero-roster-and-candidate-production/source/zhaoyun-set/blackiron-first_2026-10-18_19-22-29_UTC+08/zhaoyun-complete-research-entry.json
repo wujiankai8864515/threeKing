@@ -1,0 +1,263 @@
+{
+  "id": "zhaoyun",
+  "name": "赵云",
+  "faction": "shu",
+  "brief_status": "research_complete_proposal",
+  "production_status": "not_started",
+  "approval_status": "人物在已授权范围；以下事件取舍、技能与细化造型为待审提案",
+  "personality": "临危不乱，以回身救人为勇。",
+  "symbol": {
+    "design": "银白龙",
+    "status": "本轮给定设计方向",
+    "form": "修长但不蛇化，银白鬃、流线角、四肢有力；龙身沿救援方向折回，体态清劲。"
+  },
+  "battle_core": "单点枪击后护住一人，承接一次来击，再以回锋反击；核心是攻守转换与救援，不做关羽的越战越强、马超的骑兵开阵。",
+  "identity_design": {
+    "face": "成年初期至壮年的同一张沉静端正面孔，浓眉清目，四阶段保骨相；第7回的阔面重颐仅作文本核对，不强行复制既有商业脸。",
+    "body": "修长结实，肩背舒展，不做张飞式厚重躯干。",
+    "hair": "束发清整，少量战中散发；与马超的大束披发形成轮廓差。",
+    "palette": "银白、冷灰、低饱和蓝，少量蜀绿识别点。白布哑光，银甲有分区反射。"
+  },
+  "weapon_and_mount_evidence": {
+    "novel": "第7、28、41、71回均可确认枪/长枪骑战；第41回明确夺得青釭剑。",
+    "project_original": "亮银枪的命名与银白枪形是本项目设计。可画直杆、细长柳叶状枪刃与克制白缨；不称原著专名。",
+    "mount": "本批采用无专名白/浅灰战马作为设计选择；第7回白马军背景不能推成赵云专属命名坐骑证据。长坂与汉水原文有骑马，不据此写夜照玉狮子。",
+    "chronology": "青釭剑只从长坂阶段起可见，黑铁与青铜不可提前携带。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhaoyun_card_01",
+      "type": "card",
+      "star": 1,
+      "rank": "黑铁",
+      "proposed_title": "磐河初锋",
+      "event": "第7回救公孙瓒、战文丑",
+      "source_ids": [
+        "N007"
+      ],
+      "scene": "草坡与磐河战场，年轻赵云从侧面切入，受救者退在后景。",
+      "pose_and_camera": "三分之二侧面，马向画面左前，长枪直指来敌，保完整可检轴线。",
+      "myth_growth": "远云仅一段未成形银白龙脊。",
+      "must_avoid": "不画阿斗、不带青釭剑，不穿黄金重甲。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_02",
+      "type": "card",
+      "star": 2,
+      "rank": "青铜",
+      "proposed_title": "择主归心",
+      "event": "第28回卧牛山重逢刘备后归队",
+      "source_ids": [
+        "N028"
+      ],
+      "scene": "归队山路，赵云整装领骑随刘备而行；卡面只抓本人安定的决心。",
+      "pose_and_camera": "下马立姿，枪尾着地，正面偏转，马在后侧。",
+      "myth_growth": "银白龙首初现于山岚，目光同向。",
+      "must_avoid": "不做桃园结拜，不复用刘关张群像镜头。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_03",
+      "type": "card",
+      "star": 3,
+      "rank": "白银",
+      "proposed_title": "长坂扶危",
+      "event": "第41回护阿斗突围",
+      "source_ids": [
+        "N041"
+      ],
+      "scene": "废村与撤离人流后退，阿斗稳妥护在胸甲布束内，赵云不恋战而开路。",
+      "pose_and_camera": "低机位前侧骑冲，枪轴斜贯画面，另一手与缰绳/护襁褓动作不超人体手数。",
+      "myth_growth": "银龙沿骑行方向护住后方，冷光集中枪锋与龙体。",
+      "must_avoid": "不悬空抱婴单手乱舞巨枪，不把糜夫人投井当英雄奖励，不用夸张血腥。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_04",
+      "type": "card",
+      "star": 4,
+      "rank": "黄金",
+      "proposed_title": "汉水龙胆",
+      "event": "第71回救黄忠张著后据营拒曹",
+      "source_ids": [
+        "N071"
+      ],
+      "scene": "暮色汉水营门大开，赵云独骑持枪临门，阵后伏弩的秩序可读。",
+      "pose_and_camera": "近正面静骑，枪平斜收于马侧，与长坂冲刺反差。",
+      "myth_growth": "完整银白龙昂首护营，留云层断面而非密盘细蛇。",
+      "must_avoid": "不混成诸葛亮弹琴空城；不写赵云一声吼退曹军。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "identity_reference_version": null,
+      "source_dimensions": null,
+      "generated": false
+    }
+  ],
+  "biographies": [
+    {
+      "asset_id": "zhaoyun_bio_to_02",
+      "type": "biography",
+      "target_card_id": "zhaoyun_card_02",
+      "target_star": 2,
+      "title": "四海择主",
+      "event": "卧牛山相认与随刘备赴古城",
+      "source_ids": [
+        "N028"
+      ],
+      "scene": "山道上赵云下马相拜，刘备伸手相迎；留独立大场景叙事。",
+      "first_person_transition_draft": "我奔走四方，今日终于知道，这杆枪该护着谁。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_bio_to_03",
+      "type": "biography",
+      "target_card_id": "zhaoyun_card_03",
+      "target_star": 3,
+      "title": "乱军寻主",
+      "event": "长坂反身寻救，承接护阿斗突围",
+      "source_ids": [
+        "N041"
+      ],
+      "scene": "断墙与退民之间，赵云接护阿斗，远处敌骑迫近；镜头以救援而非杀敌数量为中心。",
+      "first_person_transition_draft": "既受了托付，我便要把他平安带回。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_bio_to_04",
+      "type": "biography",
+      "target_card_id": "zhaoyun_card_04",
+      "target_star": 4,
+      "title": "一身是胆",
+      "event": "汉水救黄忠与张著，撤回后大开营门",
+      "source_ids": [
+        "N071"
+      ],
+      "scene": "赵云领受困同袍越过壕沟回营，后景曹军逼近，显示静守卡的直接前因。",
+      "first_person_transition_draft": "该救的人还在阵中，我就不能独自回营。",
+      "status": "researched_draft",
+      "actual_reference_files": [],
+      "generated": false
+    }
+  ],
+  "skills": [
+    {
+      "skill_id": "zhaoyun_a1",
+      "name_draft": "银龙回锋",
+      "kind": "active",
+      "stages_proposed": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "对一个敌人作一次枪击。",
+      "trigger": "主动施放",
+      "target": "单个敌人",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "一束直线银白枪势",
+      "growth": "先建立枪击；升星只提高伤害/节奏的已定义部分。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "zhaoyun_p1",
+      "name_draft": "回护",
+      "kind": "passive",
+      "stages_proposed": [
+        2,
+        3,
+        4
+      ],
+      "single_core_effect": "枪击后赋予一名己方一次减伤护势。",
+      "trigger": "主动枪击完成",
+      "target": "黑铁不启用；青铜起自身或选定一名己方，目标规则待定",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "一次连续的银龙回环，光只落在受护对象边界",
+      "growth": "护势额度成长，不附带治疗、净化或全队护盾。",
+      "decision_status": "原创提案，未定案"
+    },
+    {
+      "skill_id": "zhaoyun_p2",
+      "name_draft": "返锋",
+      "kind": "passive",
+      "stages_proposed": [
+        4
+      ],
+      "single_core_effect": "护势承接攻击后触发一次反击。",
+      "trigger": "护势消耗",
+      "target": "攻击者",
+      "duration_or_cooldown": "待系统与平衡定义",
+      "value_basis": "待定；不默认真实伤害、无视护甲或全部逐星翻倍",
+      "visual_feedback": "单次回枪，不连环无限反击",
+      "growth": "次数上限与是否受控可触发待定。",
+      "decision_status": "原创提案，未定案"
+    }
+  ],
+  "event_candidates": [
+    {
+      "event": "磐河救公孙瓒",
+      "source": "N007",
+      "order": 1,
+      "reason": "起点已有勇名，重点是救援而非草根弱小。"
+    },
+    {
+      "event": "卧牛重逢",
+      "source": "N028",
+      "order": 2,
+      "reason": "明确择主转折，静态卡丰富姿态。"
+    },
+    {
+      "event": "长坂护主",
+      "source": "N041",
+      "order": 3,
+      "reason": "最强辨识事件，卡与传记同段。"
+    },
+    {
+      "event": "汉水救援与拒营",
+      "source": "N071",
+      "order": 4,
+      "reason": "从单骑胆勇到有组织的救援指挥。"
+    }
+  ],
+  "rejected_or_reserve": [
+    "截江夺斗可作额外收藏传记，主线不重复两次护幼。",
+    "老年北伐暂留后续，不让黄金自动等同临终。"
+  ],
+  "modern_game_comparison": {
+    "sanguosha": "标准赵云的攻防转化提供灵活守护方向；不照搬杀闪互换。SP与界版不混入标准结论。",
+    "musou7": "官网将赵云列龙枪并强调沉静忠勇；只借动作类别区别，不采用其商业龙枪造型或模型。",
+    "sources": [
+      "G_ZHAO",
+      "D_ZHAO"
+    ]
+  },
+  "production_notes": [
+    "白马毛束须连续，不得均匀撒银粒；枪杆遮挡前后保持共轴。",
+    "本批四卡的动势为切入、立定、冲出、静守，禁止四张同角度扬枪。"
+  ],
+  "gates_remaining": [
+    "确定并实际附加脸体身份参考",
+    "武器/骑乘或弓弦姿态参考核验",
+    "技能数值与战斗目标规则定义",
+    "一张身份与材质样张独立检查",
+    "扩量后四卡三传记、原生裁切与UI复检"
+  ]
+}

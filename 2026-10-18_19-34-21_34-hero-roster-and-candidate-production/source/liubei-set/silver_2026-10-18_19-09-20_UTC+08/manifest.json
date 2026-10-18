@@ -1,0 +1,26 @@
+[
+  {
+    "file": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+    "sha256": "27518ed894116121a3aa6d7ef15274563ac3c853cd08aa9fef0e8a8c8c9b8e36",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "reference": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+    "ref_role": "identity and planar rendering; new composition of same silver wine conversation",
+    "status": "candidate_pending_audit",
+    "builtin_imagegen": true
+  },
+  {
+    "file": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-候选1.png",
+    "sha256": "8acafce184595489219a6d712827be2d1e9f087d25df2e49b5ee187d3491a394",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "reference": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+    "ref_role": "identity and planar rendering; new composition of same silver wine conversation",
+    "status": "candidate_pending_audit",
+    "builtin_imagegen": true
+  }
+]

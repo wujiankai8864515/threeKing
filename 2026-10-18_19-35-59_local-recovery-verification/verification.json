@@ -1,0 +1,18 @@
+{
+  "verified_at": "2026-10-18T19:35:59.338513+08:00",
+  "asset_delta": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production",
+  "resolved_paths_verified": 1884,
+  "historical_checksum_records_verified": 1844,
+  "checksum_manifests_verified": 33,
+  "selected_source_paths_verified": 22,
+  "roster_heroes_verified": 34,
+  "bounded_batches_verified": 8,
+  "new_or_changed_asset_entries": 271,
+  "recovery_method": "Every resolved file independently copied to a one-file temporary target and SHA256 checked, sequentially. No second full-tree duplicate. Temporary verification copy removed. Historical archive unchanged.",
+  "capture_consistency": "Stable reads and byte hashes verified for new copies. An in-progress diagnostic crop changed during an initial attempt; that incomplete build was preserved outside the archive, and the current batch was rebuilt with stable source reads.",
+  "security_scan": "No credential/private-key/signed-transfer-URL/private-assistant-note patterns found in newly archived text. Hidden paths, caches and Library helper scripts excluded.",
+  "verification_count_scope": "Counts refer to the archive before this verification receipt was created.",
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "network_operations": false,
+  "remote_increment_synced": false
+}

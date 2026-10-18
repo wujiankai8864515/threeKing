@@ -1,0 +1,36 @@
+{
+  "status": "mockup-only, all skill names are placeholders",
+  "base_sha256": "cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b",
+  "layout_reference": "user-images-1018/image(20261018-044056).png",
+  "placements": [
+    {
+      "name": "蓄势",
+      "bounds": [
+        665,
+        1018,
+        277,
+        76
+      ]
+    },
+    {
+      "name": "斩将",
+      "bounds": [
+        665,
+        1109,
+        277,
+        76
+      ]
+    },
+    {
+      "name": "武圣",
+      "bounds": [
+        665,
+        1200,
+        277,
+        76
+      ]
+    }
+  ],
+  "library_file_id": "libfile_9cde671bbad08191b7ce7f59a234cfdc",
+  "rejected_v0": "../passive_ui_20261018_170000_UTC+08/"
+}

@@ -1,0 +1,471 @@
+{
+  "created_at": "2026-10-18T19:19:26.654898+08:00",
+  "sources": [
+    {
+      "id": "N007",
+      "title": "《三国演义》第7回：赵云磐河救公孙瓒、初识刘备",
+      "url": "https://zh.wikisource.org/zh/三國演義/第007回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N010",
+      "title": "《三国演义》第10回：马超少年随父征战、长枪与骏马",
+      "url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N028",
+      "title": "《三国演义》第28回：赵云卧牛山重逢刘备、归往古城",
+      "url": "https://zh.wikisource.org/zh/三國演義/第028回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N035",
+      "title": "《三国演义》第35回：水镜荐伏龙凤雏；庞统早期背景",
+      "url": "https://zh.wikisource.org/zh/三國演義/第035回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N037",
+      "title": "《三国演义》第37回：隆中隐士与三顾前因",
+      "url": "https://zh.wikisource.org/zh/三國演義/第037回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N038",
+      "title": "《三国演义》第38回：隆中对、出山",
+      "url": "https://zh.wikisource.org/zh/三國演義/第038回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N039",
+      "title": "《三国演义》第39回：博望初用兵，候选备用",
+      "url": "https://zh.wikisource.org/zh/三國演義/第039回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N041",
+      "title": "《三国演义》第41回：赵云长坂寻救、夺青釭剑、护阿斗突围",
+      "url": "https://zh.wikisource.org/zh/三國演義/第041回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N047",
+      "title": "《三国演义》第47回：庞统献连环计",
+      "url": "https://zh.wikisource.org/zh/三國演義/第047回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N049",
+      "title": "《三国演义》第49回：诸葛亮七星坛借东南风、吴军火攻准备",
+      "url": "https://zh.wikisource.org/zh/三國演義/第049回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N053",
+      "title": "《三国演义》第53回：黄忠长沙斗关羽、射盔缨、青马与强弓",
+      "url": "https://zh.wikisource.org/zh/三國演義/第053回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N057",
+      "title": "《三国演义》第57回：庞统耒阳理事；马腾受害前因",
+      "url": "https://zh.wikisource.org/zh/三國演義/第057回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N058",
+      "title": "《三国演义》第58回：马超兴兵、潼关战与割须弃袍",
+      "url": "https://zh.wikisource.org/zh/三國演義/第058回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N059",
+      "title": "《三国演义》第59回：渭水再战与离间失利，候选备用",
+      "url": "https://zh.wikisource.org/zh/三國演義/第059回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N062",
+      "title": "《三国演义》第62回：庞统取蜀三策、涪关用计",
+      "url": "https://zh.wikisource.org/zh/三國演義/第062回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N063",
+      "title": "《三国演义》第63回：庞统落凤坡之死，界定非复活原著",
+      "url": "https://zh.wikisource.org/zh/三國演義/第063回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N065",
+      "title": "《三国演义》第65回：马超葭萌夜战、李恢说降、成都城下劝降",
+      "url": "https://zh.wikisource.org/zh/三國演義/第065回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N070",
+      "title": "《三国演义》第70回：黄忠严颜出征、天荡山取粮",
+      "url": "https://zh.wikisource.org/zh/三國演義/第070回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N071",
+      "title": "《三国演义》第71回：黄忠定军山；赵云汉水救援与空营退敌",
+      "url": "https://zh.wikisource.org/zh/三國演義/第071回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N083",
+      "title": "《三国演义》第83回：黄忠晚年征吴，候选备用",
+      "url": "https://zh.wikisource.org/zh/三國演義/第083回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N095",
+      "title": "《三国演义》第95回：诸葛亮西城空城计",
+      "url": "https://zh.wikisource.org/zh/三國演義/第095回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "G_ZHAO",
+      "title": "三国杀OL：标准版赵云攻略（2016-10-25）",
+      "url": "https://www.sanguosha.com/news/20161025_7664_2416",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "攻防转化型参考；不采用旧攻略强度评分，不作为演义年表。"
+    },
+    {
+      "id": "G_MA",
+      "title": "三国杀OL：马超武将页，标准马超",
+      "url": "https://www.sanguosha.com/hero/6",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "距离优势与强命参考；不能用其金枪修辞给原著兵器定名。"
+    },
+    {
+      "id": "G_MA_JIE",
+      "title": "三国杀OL：界马超发布（2014-09-19）",
+      "url": "https://www.sanguosha.com/news/20140919_1231_0511",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅用来区分标准与界版本；不合并成一个不存在的技能版本。"
+    },
+    {
+      "id": "G_HUANG",
+      "title": "三国杀OL：风包黄忠攻略（2016-10-26，分列旧、新版）",
+      "url": "https://sanguosha.com/news/20161026_7095_5710",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "定向强命与射程参考；只用规则段，不将攻略中的历史评论当史料。"
+    },
+    {
+      "id": "G_ZHUGE",
+      "title": "三国杀OL：诸葛亮武将页，观星/空城",
+      "url": "https://www.sanguosha.com/hero/4",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "预判与防御控制参考，不照抄牌堆操作。"
+    },
+    {
+      "id": "G_PANG",
+      "title": "三国杀OL：火包庞统攻略（2016-10-26）",
+      "url": "https://www.sanguosha.com/news/20161026_9867_1611",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "关联伤害与有限自救参考；涅槃是游戏创作，不是原著复生情节。"
+    },
+    {
+      "id": "G_ROSTER",
+      "title": "三国杀：一将成名官网武将池公告（页面所列2026-10-08将池）",
+      "url": "https://x.sanguosha.com/",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "2026年10月8日站内将池公告可核验所选阵营名单；动态首页会更新，不单独证明早期扩展包归属或旧版技能。"
+    },
+    {
+      "id": "G_ZUOCI",
+      "title": "三国杀OL：左慈武将页",
+      "url": "https://www.sanguosha.com/hero/56",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "核对群雄左慈及现代幻化定位。"
+    },
+    {
+      "id": "D_ZHAO",
+      "title": "光荣特库摩《真·三国无双7》赵云",
+      "url": "https://www.gamecity.ne.jp/smusou7/window/chouun.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "角色性格与动作武器类别参考；不搬用模型、纹样、专属武器名或故事断言。"
+    },
+    {
+      "id": "D_MA",
+      "title": "光荣特库摩《真·三国无双7》马超",
+      "url": "https://www.gamecity.ne.jp/smusou7/window/bachou.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "角色性格与动作武器类别参考；不搬用模型、纹样、专属武器名或故事断言。"
+    },
+    {
+      "id": "D_HUANG",
+      "title": "光荣特库摩《真·三国无双7》黄忠",
+      "url": "https://www.gamecity.ne.jp/smusou7/window/kouchu.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "角色性格与动作武器类别参考；不搬用模型、纹样、专属武器名或故事断言。"
+    },
+    {
+      "id": "D_PANG",
+      "title": "光荣特库摩《真·三国无双7》庞统",
+      "url": "https://www.gamecity.ne.jp/smusou7/window/houtou.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "角色性格与动作武器类别参考；不搬用模型、纹样、专属武器名或故事断言。"
+    },
+    {
+      "id": "D_ZHUGE",
+      "title": "光荣特库摩《真·三国无双7》诸葛亮",
+      "url": "https://www.gamecity.ne.jp/smusou7_original/window/syokatsuryou.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "羽扇智将的现代动作化参考。"
+    },
+    {
+      "id": "G_GUO2013",
+      "title": "2013国战官方武将牌目录与乐进骁果",
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wei/2013/0126/47.html",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_ZHANGLIAO",
+      "title": "三国杀OL张辽：突袭",
+      "url": "https://www.sanguosha.com/hero/18",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_YUJIN2014",
+      "title": "2014于禁调整：毅重改为节钺",
+      "url": "https://www.sanguosha.com/news/20141113_6631_0514",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_YUJIN_NOW",
+      "title": "三国杀OL于禁现行介绍页：镇军",
+      "url": "https://www.sanguosha.com/hero/160",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_ZHANGHE",
+      "title": "三国杀OL张郃：巧变",
+      "url": "https://www.sanguosha.com/hero/50",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_XUHUANG2016",
+      "title": "2016林包徐晃：断粮",
+      "url": "https://www.sanguosha.com/news/20161026_4323_2512",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_FIVEZI2016",
+      "title": "2016官方列传讨论五子玩法差异",
+      "url": "https://www.sanguosha.com/news/20160217_9678_2311",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_SUNCE2016",
+      "title": "2016山包孙策攻略",
+      "url": "https://www.sanguosha.com/news/20161026_5541_3812",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_JIAXU2016",
+      "title": "2016林包贾诩攻略",
+      "url": "https://www.sanguosha.com/news/20161026_1482_3412",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_ZUOCI2014",
+      "title": "2014山包左慈攻略",
+      "url": "https://www.sanguosha.com/news/20140521_8678_1419",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "G_POOL2021",
+      "title": "2021官方排位将池：标准、神话再临及其他扩展",
+      "url": "https://sanguosha.com/news/20210527_1480_2517",
+      "source_class": "modern_game_primary",
+      "verified_on": "2026-10-18",
+      "use_scope": "仅作游戏名单、版本和玩法参照；不作史实或原著情节证据。"
+    },
+    {
+      "id": "N001",
+      "title": "《三国演义》第1回：张角太平要术与黄巾起事",
+      "url": "https://zh.wikisource.org/zh/三國演義/第001回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N003",
+      "title": "《三国演义》第3回：董卓入京、吕布与赤兔",
+      "url": "https://zh.wikisource.org/zh/三國演義/第003回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N008",
+      "title": "《三国演义》第8回：王允与貂蝉连环计",
+      "url": "https://zh.wikisource.org/zh/三國演義/第008回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N009",
+      "title": "《三国演义》第9回：董卓败亡及贾诩建言",
+      "url": "https://zh.wikisource.org/zh/三國演義/第009回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N015",
+      "title": "《三国演义》第15回：孙策江东创业与神亭争斗",
+      "url": "https://zh.wikisource.org/zh/三國演義/第015回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N016",
+      "title": "《三国演义》第16回：吕布辕门射戟、宛城与于禁整军立营",
+      "url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N030",
+      "title": "《三国演义》第30回：官渡与乌巢",
+      "url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N044",
+      "title": "《三国演义》第44回：孙权定抗曹、周瑜督军",
+      "url": "https://zh.wikisource.org/zh/三國演義/第044回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N054",
+      "title": "《三国演义》第54回：孙夫人婚姻与持械侍婢",
+      "url": "https://zh.wikisource.org/zh/三國演義/第054回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N068",
+      "title": "《三国演义》第68回：甘宁百骑劫营、左慈戏曹操",
+      "url": "https://zh.wikisource.org/wiki/三國演義/第068回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N075",
+      "title": "《三国演义》第75回：华佗刮骨疗毒与吕蒙白衣渡江",
+      "url": "https://zh.wikisource.org/zh/三國演義/第075回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N078",
+      "title": "《三国演义》第78回：华佗治曹操与青囊书",
+      "url": "https://zh.wikisource.org/zh/三國演義/第078回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    },
+    {
+      "id": "N084",
+      "title": "《三国演义》第84回：陆逊火烧连营",
+      "url": "https://zh.wikisource.org/zh/三國演義/第084回",
+      "source_class": "novel_text",
+      "verified_on": "2026-10-18",
+      "use_scope": "只证明演义情节与本版本文字，不等同史实。公版原著，现代校录载于维基文库。"
+    }
+  ],
+  "method": "演义原文用于事件与武器；游戏官方网站仅用于玩法/动作类别。未把游戏角色生平栏当正史。所有设计词与新技能均独立标为项目提案。",
+  "updated_at": "2026-10-18T19:29:02.165236+08:00"
+}

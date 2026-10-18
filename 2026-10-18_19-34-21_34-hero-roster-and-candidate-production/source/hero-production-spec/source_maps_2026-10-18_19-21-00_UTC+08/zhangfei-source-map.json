@@ -1,0 +1,100 @@
+[
+  {
+    "asset": "card01",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+    "status": "technical_candidate_pass_frame_QA_pending",
+    "user_final": false,
+    "library_file_id": "libfile_de82bbbcbbbc81919ec8dfd4fdd3db07",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card02",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+    "status": "technical_candidate_pass_frame_QA_pending",
+    "user_final": false,
+    "library_file_id": "libfile_0989d75102588191af36a14b960c89b5",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card03",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+    "status": "technical_candidate_pass_frame_QA_pending",
+    "user_final": false,
+    "library_file_id": "libfile_ac3479fc807481919791a160519b4702",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "card04",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+    "native_size": [
+      1024,
+      1536
+    ],
+    "sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+    "status": "technical_candidate_pass_frame_QA_pending",
+    "user_final": false,
+    "library_file_id": "libfile_83dedf219dbc8191baa17e057215f0d6",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio02",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_f3fcbf01f8808191a007c45b6bdf0e3f",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio03",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-传记-虎牢争锋-戟岩局修2.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_dd9b5ff5788c8191b8267cf231a97272",
+    "library_version": 0,
+    "local_metadata_applied": true
+  },
+  {
+    "asset": "bio04",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+    "native_size": [
+      1536,
+      1024
+    ],
+    "sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+    "status": "technical_candidate_pass",
+    "user_final": false,
+    "library_file_id": "libfile_4e707f8351bc81919ea663b08dee61c8",
+    "library_version": 0,
+    "local_metadata_applied": true
+  }
+]

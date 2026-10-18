@@ -1,0 +1,34 @@
+[
+  {
+    "label": "approved gold source",
+    "path": "./guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "label": "latest gold pure",
+    "path": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "label": "framed gold",
+    "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/04-\u9ec4\u91d1\u00b7\u62a4\u884c\u62d6\u5200.png",
+    "size": [
+      1024,
+      1536
+    ]
+  },
+  {
+    "label": "UI gold",
+    "path": "./guanyu-mythic-set/ui_display_20261018_171500_UTC+08/04-\u9ec4\u91d1-\u5b8c\u6574UI\u793a\u610f.png",
+    "size": [
+      1024,
+      1536
+    ]
+  }
+]

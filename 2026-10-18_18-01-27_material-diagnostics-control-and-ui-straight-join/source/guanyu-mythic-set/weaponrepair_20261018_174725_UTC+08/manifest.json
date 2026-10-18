@@ -1,0 +1,19 @@
+{
+  "status": "candidate_pending_root_QA",
+  "library_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+  "prior_version": 8,
+  "intended_version": 9,
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "native_imagegen": true,
+  "superresolution": false,
+  "prior_defect": "Short pole stopped beneath fist; weapon length and grip lacked polearm weight",
+  "reference_roles": {
+    "edit_target": "stories/02-温酒请战-骑马出营-v2-20261018_174009.png",
+    "primary_length_rigidity_grip": "pure/story-huxing-frontclear-20261018_173541.png",
+    "blade_shape": "silver-natural-depth_20261018_171734_UTC+08/silver-pure-lettering.png"
+  },
+  "QA": "Viewed whole image and native100 grip crop. Lower shaft substantially extended outside rider boot, holding arm extended slightly, reins hand preserved. Root review pending; not claim perfect anatomical or axis accuracy."
+}

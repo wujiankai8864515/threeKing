@@ -1,0 +1,47 @@
+{
+  "timezone": "UTC+08",
+  "status": "root QA passed, pending user acceptance",
+  "scope": "3 biographies for final 4 UI cards + 3 story batch",
+  "pixels": [
+    1536,
+    1024
+  ],
+  "super_resolution": false,
+  "size_limit": "builtin observed native1536x1024 landscape; no controllable size/quality parameter, no 2K/4K claim",
+  "library_results": [
+    {
+      "local_path": "./guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/01-桃园神誓.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000068c81f6962c34f74ee78bb5",
+      "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      "file_name": "01-桃园神誓.png",
+      "local_metadata_applied": true,
+      "path": "/01-桃园神誓.png",
+      "current_version_number": 4
+    },
+    {
+      "local_path": "./guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/02-温酒请战.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000df8c81f5a2cd1804d38aa7d6",
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "file_name": "02-温酒请战.png",
+      "local_metadata_applied": true,
+      "path": "/02-温酒请战.png",
+      "current_version_number": 8
+    },
+    {
+      "local_path": "./guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/03-千里护行.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c95481f5a59fc6af52049993",
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "file_name": "03-千里护行.png",
+      "local_metadata_applied": true,
+      "path": "/03-千里护行.png",
+      "current_version_number": 5
+    }
+  ],
+  "old_approved_preserved": true
+}

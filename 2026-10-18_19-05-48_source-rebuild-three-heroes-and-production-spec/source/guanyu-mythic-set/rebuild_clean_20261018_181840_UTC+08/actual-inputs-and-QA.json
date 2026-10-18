@@ -1,0 +1,19 @@
+{
+  "project": "原创异次元神话三国武将卡与晋升传记；演义人物关系/忠义故事为根，中式幻想塑形为表现；未来游戏使用独立框/UI和纯画",
+  "scope_latest": "四卡三传记均重建无金粉源，先千里护行验证，其余不启动",
+  "references_actually_used_for_this_call": {
+    "qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png": "face identity and measured human proportions only, not materials",
+    "pure/story-huxing-frontclear-20261018_173541.png": "escort composition, identity, shoulder-carry long polearm and dragon only, not materials"
+  },
+  "late_change": "latest7 images must each be real references on later generation; instruction arrived during this call, no claim it was already applied",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "status": "pending root and independentQA, not Library uploaded",
+  "observed_limitations": [
+    "more natural historical illustration than mythic exaggeration",
+    "closest left rock soft",
+    "armor simplification; no claim exact design preservation"
+  ]
+}

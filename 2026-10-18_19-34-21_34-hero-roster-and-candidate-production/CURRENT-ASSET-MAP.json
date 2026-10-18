@@ -1,0 +1,477 @@
+{
+  "recorded_at": "2026-10-18T19:34:21.738948+08:00",
+  "schema_version": "2.0",
+  "heroes": {
+    "guanyu": {
+      "sources": [
+        {
+          "path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+          "status": "QA_pass_candidate",
+          "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+          "asset_id": "blackiron",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+          "status": "QA_pass_candidate",
+          "sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+          "asset_id": "bronze",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+          "status": "QA_pass_candidate",
+          "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+          "asset_id": "silver",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/gold-tail-reflection-local-20261018_184748.png",
+          "status": "NOT_PASS_tail_speckle_residual_stop_edits",
+          "sha256": "9929959f4a2965184aa10e16b833ea63b2ed75d84a1802c900fe02f4e3002fd5",
+          "asset_id": "gold",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+          "status": "QA_pass_candidate",
+          "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+          "asset_id": "peach",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+          "status": "QA_pass_candidate",
+          "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+          "asset_id": "assembly",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+          "status": "QA_pass_candidate",
+          "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+          "asset_id": "escort",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "library_stories_saved": {
+        "peach": [
+          "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+          6
+        ],
+        "assembly": [
+          "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+          10
+        ],
+        "escort": [
+          "libfile_a7413186b4d4819198c2756c536786ff",
+          7
+        ]
+      },
+      "ui_candidates": [
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "882e701fadf0dcbb8ef318dc5285aee13f6a1ea0151502654d8180c5550f74a8",
+          "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+          "library_version": 3,
+          "status": "saved_ui_candidate",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "f136b02f8ce653cb5599c4afef08421231837961e8623dd65c0d74a69db2a011",
+          "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+          "library_version": 4,
+          "status": "saved_ui_candidate",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "07cbbf67c320fb34cb55d05df2c6a8628d4d562bd6e7c64637e2054ef50f48b1",
+          "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+          "library_version": 4,
+          "status": "saved_ui_candidate",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "4050a73201d789295d6b5a119f1ae7d1e60a35324c30ff6c3cbecf0cff303584",
+          "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+          "library_version": 4,
+          "status": "saved_ui_candidate",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "d25a0efe8aba259cd06db5c64b5fb3d9028278b68b39358d49b7c9cf405f4827",
+          "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+          "library_version": 4,
+          "status": "saved_ui_candidate",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "gold_blocker": "Tail speckle residual failed; preserve as failed source. Stop repeated edits. UI composition does not cure source failure."
+    },
+    "zhangfei": {
+      "sources": [
+        {
+          "asset": "card01",
+          "path": "zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_de82bbbcbbbc81919ec8dfd4fdd3db07",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card01",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card02",
+          "path": "zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_0989d75102588191af36a14b960c89b5",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card02",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card03",
+          "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_ac3479fc807481919791a160519b4702",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card03",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card04",
+          "path": "zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_83dedf219dbc8191baa17e057215f0d6",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card04",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio02",
+          "path": "zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_f3fcbf01f8808191a007c45b6bdf0e3f",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio02",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio03",
+          "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-传记-虎牢争锋-戟岩局修2.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_dd9b5ff5788c8191b8267cf231a97272",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio03",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio04",
+          "path": "zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_4e707f8351bc81919ea663b08dee61c8",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio04",
+          "hero_id": "zhangfei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "source_map": "hero-production-spec/source_maps_2026-10-18_19-21-00_UTC+08/zhangfei-source-map.json",
+      "ui_state": "composition_and_coverage_QA_pending",
+      "delivery_state": "not_confirmed_for_current_versions"
+    },
+    "liubei": {
+      "sources": [
+        {
+          "asset": "card01",
+          "path": "liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_e1c0b18049c081918c29efb5b1f72b03",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card01",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card02",
+          "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "87974332bce7a72a6ef8d21b19e4490468953572f3b5bc83260a28277cac2e56",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_49d1166bf618819183d8332599a00d52",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card02",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card03",
+          "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "27518ed894116121a3aa6d7ef15274563ac3c853cd08aa9fef0e8a8c8c9b8e36",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_4e3712ca13948191b082c632100b09f3",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card03",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "card04",
+          "path": "liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "sha256": "7adb15ed85818e263d0951c8160b84828086221e07f600bc5fa3bb6bf0dc3c84",
+          "status": "technical_candidate_pass_frame_QA_pending",
+          "user_final": false,
+          "library_file_id": "libfile_86a0ba17beb08191aa573913ccfeaf05",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "card04",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio02",
+          "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_3be8db00c0a48191bf741ffc6da3875f",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio02",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio03",
+          "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_f47b3b732ac8819195f31ca119ea0985",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio03",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "asset": "bio04",
+          "path": "liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307",
+          "status": "technical_candidate_pass",
+          "user_final": false,
+          "library_file_id": "libfile_a97eee23ed248191922b1f290c304f4a",
+          "library_version": 0,
+          "local_metadata_applied": true,
+          "asset_id": "bio04",
+          "hero_id": "liubei",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "source_map": "hero-production-spec/source_maps_2026-10-18_19-21-00_UTC+08/liubei-source-map.json",
+      "ui_state": "composition_and_coverage_QA_pending",
+      "delivery_state": "not_confirmed_for_current_versions"
+    },
+    "zhaoyun": {
+      "sources": [
+        {
+          "path": "zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/赵云-黑铁-磐河初锋-身份候选1.png",
+          "size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "sha256": "75d8c8d763d092e62d9294c9094c60192b781d916be4e757cb593079791936ec",
+          "asset_id": "card01",
+          "hero_id": "zhaoyun",
+          "source_sha256_verified": true,
+          "source_qa_state": "identity_and_style_review_pending",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "review": "Original identity candidate. Independent QA found more photoreal horse/grass, white-cloth markings and two spear grips rather than prescribed separate rein hand. Do not automatically expand remaining six.",
+      "ui_state": "not_started",
+      "delivery_state": "not_confirmed",
+      "qa_source": "hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md"
+    }
+  },
+  "state_definitions": {
+    "latest": "Current selected source or candidate; does not imply user approval, delivery, or finished hero.",
+    "final": "Requires explicit user final acceptance for that version. No current hero set has it.",
+    "failed": "Defect documented; retained for history and excluded from passed counts.",
+    "delivered": "Requires an actual delivery receipt for the exact Library version; saving is insufficient."
+  },
+  "native_dimensions": {
+    "cards": [
+      1024,
+      1536
+    ],
+    "stories": [
+      1536,
+      1024
+    ],
+    "guanyu_ui": [
+      1190,
+      1786
+    ]
+  },
+  "native_resolution_note": "No native 4K or new source-detail claim. UI canvas size is distinct from source resolution.",
+  "historical_approvals": {
+    "preserved_in_prior_status_deltas": true,
+    "current_batch_rejection_supersedes_historical_clean_control": true
+  }
+}

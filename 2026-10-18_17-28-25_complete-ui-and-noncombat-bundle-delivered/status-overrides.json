@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-18T17:28:25.595690+08:00",
+  "bundle": "4 complete UI cards + overview + 2 noncombat stories actually delivered; all previews/updated story versions pending user review",
+  "base_versions": {
+    "blackiron": 4,
+    "bronze": 8,
+    "silver": 5,
+    "gold": 9
+  },
+  "final_base": "blackiron v4 approved frozen; earlier approved gold v7 retained separately",
+  "story_versions": {
+    "温酒请战会盟": 7,
+    "千里护行": 4
+  },
+  "UI_versions": "Five new independent identities all v0; examples only",
+  "peach_v3": "optional candidate excluded from this delivered bundle",
+  "remote": "Only initial commit fe505a804d0e9c55aaa9816454aba9f6b357f48e verified. Later increments local; no external retry."
+}

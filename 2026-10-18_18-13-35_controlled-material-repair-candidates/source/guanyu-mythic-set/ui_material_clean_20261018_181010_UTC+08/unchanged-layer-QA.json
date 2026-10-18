@@ -1,0 +1,9 @@
+{
+  "black_final_exactly_unchanged": true,
+  "ui_overlays_identical": {
+    "iron": true,
+    "bronze": true,
+    "silver": true,
+    "gold": true
+  }
+}

@@ -1,0 +1,14 @@
+Use case: precise-object-edit.
+This is a VISUAL-HIERARCHY POST-PRODUCTION PASS ONLY on the exact approved bronze artwork. Do not redesign or rearrange anything.
+
+Create a clear selective focus hierarchy centered on GUAN YU in the middle-right:
+- Guan Yu's existing mature face, focused natural eyes, armor and physical guandao should have the highest effective local contrast and cleanest convincing fine-detail definition. Keep his exact face identity, expression, skin tone, eye direction, clothing and ornament design. Clarify existing forms only; no new face, glowing eyes, sharpening halos or invented detail.
+- Treat Guan Yu and his main horse as the coherent primary subject. Keep their forms clear and dimensional. Preserve the newly lengthened rigid straight rear pole, both grip positions, spacing and blade design exactly.
+- Reduce contrast, saturation, texture crispness and competing bright highlights modestly on the supporting Liu Bei and Zhang Fei riders at the left, their horses, the fleeing Yellow Turban enemies, distant flags and landscape. Introduce restrained painterly depth-of-field/atmospheric softness in these supporting regions so they read as secondary. All three riders' recognizable faces and the enemy-versus-hero story must remain readable. Do not blur them into anonymous blobs or change their faces.
+- Keep the ethereal, cloud-concealed dragon's approved head and subdued ghostlike effect exactly as present. Do not brighten, reshape, move or redraw the dragon. Preserve the newly added clouds that hide its long body; no continuous snake-like loop returns.
+- Background peach blossoms, hill textures and distant yellow flags can be slightly quieter in contrast/saturation, but their locations, silhouettes and colors remain recognizable. Preserve the lively mud and foreground splinters, with no new distractions.
+This is selective tonal/detail grading, not a global blur, vignette, spotlight, relighting, new camera or style transfer. Main subject stays sharply readable; supporting forms remain painterly and recognizable.
+
+ABSOLUTELY FROZEN GEOMETRY AND DESIGN:
+Every face identity, facial geometry, expression, body proportion, pose, hand, arm, horse, weapon, clothing detail layout, banner, blossom, enemy position, camera, crop and narrative arrangement stays exactly the same. Do not change the long rear shaft extension now running to the upper-left; it remains one physically straight pole through the same two hands. Do not move or enlarge the blade. Do not redraw the dragon head. Do not add or remove people, animals, clouds, limbs or props.
+Preserve original premium stylized mythic Three Kingdoms painting quality. No border, frame, stars, text, logo or watermark. Same portrait aspect ratio.

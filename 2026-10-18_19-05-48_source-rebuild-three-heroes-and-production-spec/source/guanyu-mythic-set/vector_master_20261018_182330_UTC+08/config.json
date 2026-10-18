@@ -1,0 +1,57 @@
+{
+  "geometry_viewbox": [
+    1024,
+    1536
+  ],
+  "native_render": [
+    3072,
+    4608
+  ],
+  "source": "100% code-native SVG geometry, gradients and typography; no existing frame image pixels",
+  "materials": {
+    "gold": [
+      "#fff8d6",
+      "#f8dd92",
+      "#d5a246",
+      "#8e5b1d",
+      "#36200d"
+    ],
+    "iron": [
+      "#bfcbd3",
+      "#8796a2",
+      "#46535f",
+      "#222e38",
+      "#0c131a"
+    ],
+    "bronze": [
+      "#ffedd4",
+      "#e8b78c",
+      "#b77743",
+      "#734329",
+      "#291910"
+    ],
+    "silver": [
+      "#ffffff",
+      "#e4edf1",
+      "#abbcc6",
+      "#637884",
+      "#25323c"
+    ]
+  },
+  "dynamic_fields": [
+    "country",
+    "title",
+    "level",
+    "advancement",
+    "troop_icon",
+    "skill_name",
+    "skill_level",
+    "skill_count",
+    "stars"
+  ],
+  "status": "structure and material prototype; artwork slot intentionally transparent; illustration quality not implied",
+  "fonts": [
+    "Noto Serif CJK SC Bold",
+    "Noto Sans CJK SC Medium"
+  ]
+}

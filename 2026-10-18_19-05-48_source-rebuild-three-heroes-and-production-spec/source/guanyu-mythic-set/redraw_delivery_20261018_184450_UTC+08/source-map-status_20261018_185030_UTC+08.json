@@ -1,0 +1,57 @@
+{
+  "sources": {
+    "blackiron": {
+      "path": "./guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "status": "QA_pass_candidate",
+      "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25"
+    },
+    "bronze": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+      "status": "QA_pass_candidate",
+      "sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9"
+    },
+    "silver": {
+      "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "status": "QA_pass_candidate",
+      "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117"
+    },
+    "gold": {
+      "path": "./guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/gold-tail-reflection-local-20261018_184748.png",
+      "status": "NOT_PASS_tail_speckle_residual_stop_edits",
+      "sha256": "9929959f4a2965184aa10e16b833ea63b2ed75d84a1802c900fe02f4e3002fd5"
+    },
+    "peach": {
+      "path": "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "status": "QA_pass_candidate",
+      "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68"
+    },
+    "assembly": {
+      "path": "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+      "status": "QA_pass_candidate",
+      "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95"
+    },
+    "escort": {
+      "path": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "status": "QA_pass_candidate",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0"
+    }
+  },
+  "stories_saved": {
+    "peach": [
+      "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      6
+    ],
+    "assembly": [
+      "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      10
+    ],
+    "escort": [
+      "libfile_a7413186b4d4819198c2756c536786ff",
+      7
+    ]
+  },
+  "UI_status": "new native frames pending own quality validation, no newly assembled fullset yet",
+  "native_dimensions": "portrait1024x1536 landscape1536x1024",
+  "gold_defect": "tail upper-right bright red locks retain isolated white/yellow pinpoint chain; last allowed single local edit failed; do not label accepted or continue looping",
+  "user_identity_reference_for_Liu_Zhang": "materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png (Library peachv5 seen by user, identity approved only)"
+}

@@ -1,0 +1,28 @@
+{
+  "version": "bronze-v7-cloud-longshaft-20261018_165911",
+  "saved_at_beijing": "2026-10-18T16:59:11.701822+08:00",
+  "timezone": "UTC+08:00",
+  "method": "built-in image_gen localized two-item edit",
+  "edit_target": "./guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/bronze-pure.png",
+  "generated_source": "./generated_images/exec-2e70bc18-82b3-4b3b-ba09-e4850b1c9c6e.png",
+  "output_image": "./guanyu-mythic-set/pure/bronze-v7-cloud-longshaft-20261018_165911.png",
+  "prompt_file": "./guanyu-mythic-set/pure/bronze-v7-cloud-longshaft-20261018_165911.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "d9ff55d3644544f0da01a4bb6ee6cb8824f8f9bfd0ba737e385853b5c0a4e622",
+  "status": "worker_visual_pass_pending_parent_frame_composition",
+  "visual_review": {
+    "method": "view_image used on source and generated result; visually compared.",
+    "dragon_head": "Approved translucent dragon head, face, horns and mane remain visually preserved in position, shape and subdued brightness.",
+    "dragon_body_cloud": "Added natural soft cloud masses interrupt and conceal the long body/coil; no readily traceable continuous snake loop remains.",
+    "actual_shaft_extension": "New exposed dark-steel rear shaft extends about 250px behind Guan Yu's rear grip toward x25,y325; both existing grip positions and spacing remain unchanged.",
+    "shaft_rigidity": "Extension follows the same straight axis through both hands toward the existing blade mount; no visible bend, kink or second stick.",
+    "blade_scale": "Original blade design, root location, apparent scale and forward position retained; blade was not enlarged to simulate a long handle.",
+    "foreground_preservation": "All three rider faces and clothing, horses, mud, peach blossoms, Yellow Turban story and fleeing foreground enemy visually preserved.",
+    "occlusion": "Extended shaft passes across nonfacial Liu Bei robe/white-horse neck area but does not obscure any rider's face.",
+    "frame_note": "Rear butt lies near left edge; parent should check it under frozen frame, while a long portion remains visible inside artwork.",
+    "resolution": "Native returned 1024x1536; no interpolation."
+  }
+}

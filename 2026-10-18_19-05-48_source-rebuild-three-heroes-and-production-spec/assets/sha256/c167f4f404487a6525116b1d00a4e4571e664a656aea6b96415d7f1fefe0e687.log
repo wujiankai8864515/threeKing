@@ -1,0 +1,944 @@
+Blender 4.3.2
+Fra:1 Mem:95.12M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | main structural frame
+Fra:1 Mem:95.16M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | outer polished narrow crest
+Fra:1 Mem:95.17M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | inner recessed line
+Fra:1 Mem:95.19M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | inner bevel lip
+Fra:1 Mem:95.21M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | header recess
+Fra:1 Mem:95.21M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | header rim
+Fra:1 Mem:95.22M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | header diamond groove
+Fra:1 Mem:95.23M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | header diamond rim
+Fra:1 Mem:95.23M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mitered outer bevel
+Fra:1 Mem:95.23M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | mitered inner bevel
+Fra:1 Mem:95.25M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | header diamond rim.001
+Fra:1 Mem:95.25M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower lozenge
+Fra:1 Mem:95.26M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower lozenge.001
+Fra:1 Mem:95.27M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower lozenge.002
+Fra:1 Mem:95.27M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country outer shoulder
+Fra:1 Mem:96.14M (Peak 96.36M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country outer mirror bevel
+Fra:1 Mem:97.00M (Peak 97.00M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country recessed separator
+Fra:1 Mem:97.87M (Peak 97.87M) | Time:00:00.08 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country inset terrace
+Fra:1 Mem:98.73M (Peak 98.73M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country inner lip
+Fra:1 Mem:99.60M (Peak 99.60M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | country enamel
+Fra:1 Mem:100.03M (Peak 100.03M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank outer shoulder
+Fra:1 Mem:100.89M (Peak 100.89M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank outer mirror bevel
+Fra:1 Mem:101.76M (Peak 101.76M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank recessed separator
+Fra:1 Mem:102.62M (Peak 102.62M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank inset terrace
+Fra:1 Mem:103.49M (Peak 103.49M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank inner lip
+Fra:1 Mem:104.35M (Peak 104.35M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | rank enamel
+Fra:1 Mem:104.78M (Peak 104.78M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop outer shoulder
+Fra:1 Mem:105.65M (Peak 105.65M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop outer mirror bevel
+Fra:1 Mem:106.51M (Peak 106.51M) | Time:00:00.09 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop recessed separator
+Fra:1 Mem:107.38M (Peak 107.38M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop inset terrace
+Fra:1 Mem:108.24M (Peak 108.24M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop inner lip
+Fra:1 Mem:109.11M (Peak 109.11M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | troop enamel
+Fra:1 Mem:109.54M (Peak 109.54M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud solid carved body
+Fra:1 Mem:109.92M (Peak 109.92M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud carved spiral groove
+Fra:1 Mem:109.99M (Peak 109.99M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud incision upper highlight
+Fra:1 Mem:110.06M (Peak 110.06M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud carved spiral groove.001
+Fra:1 Mem:110.14M (Peak 110.14M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud incision upper highlight.001
+Fra:1 Mem:110.21M (Peak 110.21M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud faceted border
+Fra:1 Mem:110.21M (Peak 110.21M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud carved spiral groove.002
+Fra:1 Mem:110.34M (Peak 110.34M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud incision upper highlight.002
+Fra:1 Mem:110.44M (Peak 110.44M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud carved spiral groove.003
+Fra:1 Mem:110.48M (Peak 110.48M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | cloud incision upper highlight.003
+Fra:1 Mem:110.52M (Peak 110.52M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud solid shoulder
+Fra:1 Mem:110.90M (Peak 110.90M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud cut edge
+Fra:1 Mem:110.90M (Peak 110.90M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud inset
+Fra:1 Mem:111.03M (Peak 111.03M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud inset.001
+Fra:1 Mem:111.13M (Peak 111.13M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud solid shoulder.001
+Fra:1 Mem:111.51M (Peak 111.51M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud cut edge.001
+Fra:1 Mem:111.51M (Peak 111.51M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud inset.002
+Fra:1 Mem:111.68M (Peak 111.68M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | lower cloud inset.003
+Fra:1 Mem:111.74M (Peak 111.74M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | level outer tier
+Fra:1 Mem:111.76M (Peak 111.76M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | level dark incision
+Fra:1 Mem:111.78M (Peak 111.78M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | level inner bevel
+Fra:1 Mem:111.80M (Peak 111.80M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | level central plane
+Fra:1 Mem:111.80M (Peak 111.80M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | five point cut star
+Fra:1 Mem:111.81M (Peak 111.81M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | five point cut star.002
+Fra:1 Mem:111.81M (Peak 111.81M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive same-frame extension
+Fra:1 Mem:111.85M (Peak 111.85M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | five point cut star.003
+Fra:1 Mem:111.87M (Peak 111.87M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive fine lower lip
+Fra:1 Mem:111.92M (Peak 111.92M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive top incision
+Fra:1 Mem:111.92M (Peak 111.92M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive bottom incision
+Fra:1 Mem:111.92M (Peak 111.92M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive same-frame extension.001
+Fra:1 Mem:111.98M (Peak 111.98M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive fine lower lip.001
+Fra:1 Mem:112.03M (Peak 112.03M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive top incision.001
+Fra:1 Mem:112.03M (Peak 112.03M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive bottom incision.001
+Fra:1 Mem:112.03M (Peak 112.03M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive same-frame extension.002
+Fra:1 Mem:112.09M (Peak 112.09M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive fine lower lip.002
+Fra:1 Mem:112.13M (Peak 112.13M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive top incision.002
+Fra:1 Mem:112.14M (Peak 112.14M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive bottom incision.002
+Fra:1 Mem:112.14M (Peak 112.14M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | unbroken right rail
+Fra:1 Mem:112.14M (Peak 112.14M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond
+Fra:1 Mem:112.15M (Peak 112.15M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond
+Fra:1 Mem:112.15M (Peak 112.15M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.001
+Fra:1 Mem:112.16M (Peak 112.16M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.001
+Fra:1 Mem:112.17M (Peak 112.17M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.002
+Fra:1 Mem:112.17M (Peak 112.17M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.002
+Fra:1 Mem:112.18M (Peak 112.18M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.003
+Fra:1 Mem:112.19M (Peak 112.19M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.003
+Fra:1 Mem:112.19M (Peak 112.19M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.004
+Fra:1 Mem:112.20M (Peak 112.20M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.004
+Fra:1 Mem:112.21M (Peak 112.21M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.005
+Fra:1 Mem:112.21M (Peak 112.21M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.005
+Fra:1 Mem:112.22M (Peak 112.22M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.006
+Fra:1 Mem:112.22M (Peak 112.22M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.006
+Fra:1 Mem:112.23M (Peak 112.23M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.007
+Fra:1 Mem:112.24M (Peak 112.24M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.007
+Fra:1 Mem:112.24M (Peak 112.24M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.008
+Fra:1 Mem:112.25M (Peak 112.25M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.008
+Fra:1 Mem:112.26M (Peak 112.26M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left etched diamond.009
+Fra:1 Mem:112.26M (Peak 112.26M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | left inset diamond.009
+Fra:1 Mem:112.27M (Peak 112.27M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond
+Fra:1 Mem:112.27M (Peak 112.27M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.001
+Fra:1 Mem:112.28M (Peak 112.28M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.002
+Fra:1 Mem:112.29M (Peak 112.29M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.003
+Fra:1 Mem:112.29M (Peak 112.29M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.004
+Fra:1 Mem:112.30M (Peak 112.30M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.005
+Fra:1 Mem:112.31M (Peak 112.31M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.006
+Fra:1 Mem:112.31M (Peak 112.31M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.007
+Fra:1 Mem:112.32M (Peak 112.32M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.008
+Fra:1 Mem:112.32M (Peak 112.32M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.009
+Fra:1 Mem:112.33M (Peak 112.33M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.010
+Fra:1 Mem:112.34M (Peak 112.34M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | right etched diamond.011
+Fra:1 Mem:112.34M (Peak 112.34M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice
+Fra:1 Mem:112.35M (Peak 112.35M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.001
+Fra:1 Mem:112.36M (Peak 112.36M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.002
+Fra:1 Mem:112.36M (Peak 112.36M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.003
+Fra:1 Mem:112.37M (Peak 112.37M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.004
+Fra:1 Mem:112.38M (Peak 112.38M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.005
+Fra:1 Mem:112.38M (Peak 112.38M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.006
+Fra:1 Mem:112.39M (Peak 112.39M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.007
+Fra:1 Mem:112.39M (Peak 112.39M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.008
+Fra:1 Mem:112.40M (Peak 112.40M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.009
+Fra:1 Mem:112.41M (Peak 112.41M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.010
+Fra:1 Mem:112.41M (Peak 112.41M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.011
+Fra:1 Mem:112.42M (Peak 112.42M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.012
+Fra:1 Mem:112.43M (Peak 112.43M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.013
+Fra:1 Mem:112.43M (Peak 112.43M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.014
+Fra:1 Mem:112.44M (Peak 112.44M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.015
+Fra:1 Mem:112.44M (Peak 112.44M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.016
+Fra:1 Mem:112.45M (Peak 112.45M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.017
+Fra:1 Mem:112.46M (Peak 112.46M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.018
+Fra:1 Mem:112.46M (Peak 112.46M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.019
+Fra:1 Mem:112.47M (Peak 112.47M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.020
+Fra:1 Mem:112.48M (Peak 112.48M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.021
+Fra:1 Mem:112.48M (Peak 112.48M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.022
+Fra:1 Mem:112.49M (Peak 112.49M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | passive engraved lattice.023
+Fra:1 Mem:112.50M (Peak 112.50M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow
+Fra:1 Mem:112.50M (Peak 112.50M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip
+Fra:1 Mem:112.51M (Peak 112.51M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.001
+Fra:1 Mem:112.51M (Peak 112.51M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.001
+Fra:1 Mem:112.52M (Peak 112.52M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.002
+Fra:1 Mem:112.52M (Peak 112.52M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.002
+Fra:1 Mem:112.53M (Peak 112.53M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.003
+Fra:1 Mem:112.53M (Peak 112.53M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.003
+Fra:1 Mem:112.54M (Peak 112.54M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.004
+Fra:1 Mem:112.54M (Peak 112.54M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.004
+Fra:1 Mem:112.55M (Peak 112.55M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.005
+Fra:1 Mem:112.55M (Peak 112.55M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.005
+Fra:1 Mem:112.56M (Peak 112.56M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.006
+Fra:1 Mem:112.56M (Peak 112.56M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.006
+Fra:1 Mem:112.57M (Peak 112.57M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.007
+Fra:1 Mem:112.57M (Peak 112.57M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.007
+Fra:1 Mem:112.58M (Peak 112.58M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.008
+Fra:1 Mem:112.58M (Peak 112.58M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.008
+Fra:1 Mem:112.59M (Peak 112.59M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.009
+Fra:1 Mem:112.59M (Peak 112.59M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.009
+Fra:1 Mem:112.60M (Peak 112.60M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.010
+Fra:1 Mem:112.60M (Peak 112.60M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.010
+Fra:1 Mem:112.61M (Peak 112.61M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.011
+Fra:1 Mem:112.62M (Peak 112.62M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.011
+Fra:1 Mem:112.62M (Peak 112.62M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.012
+Fra:1 Mem:112.63M (Peak 112.63M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.012
+Fra:1 Mem:112.63M (Peak 112.63M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.013
+Fra:1 Mem:112.64M (Peak 112.64M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.013
+Fra:1 Mem:112.64M (Peak 112.64M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.014
+Fra:1 Mem:112.65M (Peak 112.65M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.014
+Fra:1 Mem:112.65M (Peak 112.65M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.015
+Fra:1 Mem:112.66M (Peak 112.66M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.015
+Fra:1 Mem:112.66M (Peak 112.66M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.016
+Fra:1 Mem:112.67M (Peak 112.67M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.016
+Fra:1 Mem:112.67M (Peak 112.67M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.017
+Fra:1 Mem:112.68M (Peak 112.68M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.017
+Fra:1 Mem:112.68M (Peak 112.68M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.018
+Fra:1 Mem:112.69M (Peak 112.69M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.018
+Fra:1 Mem:112.69M (Peak 112.69M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.019
+Fra:1 Mem:112.70M (Peak 112.70M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.019
+Fra:1 Mem:112.70M (Peak 112.70M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.020
+Fra:1 Mem:112.71M (Peak 112.71M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.020
+Fra:1 Mem:112.71M (Peak 112.71M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.021
+Fra:1 Mem:112.72M (Peak 112.72M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.021
+Fra:1 Mem:112.72M (Peak 112.72M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.022
+Fra:1 Mem:112.73M (Peak 112.73M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.022
+Fra:1 Mem:112.73M (Peak 112.73M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.023
+Fra:1 Mem:112.74M (Peak 112.74M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.023
+Fra:1 Mem:112.74M (Peak 112.74M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.024
+Fra:1 Mem:112.75M (Peak 112.75M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.024
+Fra:1 Mem:112.75M (Peak 112.75M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.025
+Fra:1 Mem:112.76M (Peak 112.76M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.025
+Fra:1 Mem:112.76M (Peak 112.76M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.026
+Fra:1 Mem:112.77M (Peak 112.77M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.026
+Fra:1 Mem:112.77M (Peak 112.77M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.027
+Fra:1 Mem:112.78M (Peak 112.78M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.027
+Fra:1 Mem:112.78M (Peak 112.78M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.028
+Fra:1 Mem:112.79M (Peak 112.79M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.028
+Fra:1 Mem:112.79M (Peak 112.79M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.029
+Fra:1 Mem:112.80M (Peak 112.80M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.029
+Fra:1 Mem:112.80M (Peak 112.80M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.030
+Fra:1 Mem:112.81M (Peak 112.81M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.030
+Fra:1 Mem:112.81M (Peak 112.81M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.031
+Fra:1 Mem:112.82M (Peak 112.82M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.031
+Fra:1 Mem:112.82M (Peak 112.82M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.032
+Fra:1 Mem:112.83M (Peak 112.83M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.032
+Fra:1 Mem:112.83M (Peak 112.83M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.033
+Fra:1 Mem:112.84M (Peak 112.84M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.033
+Fra:1 Mem:112.84M (Peak 112.84M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.034
+Fra:1 Mem:112.85M (Peak 112.85M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.034
+Fra:1 Mem:112.85M (Peak 112.85M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.035
+Fra:1 Mem:112.86M (Peak 112.86M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.035
+Fra:1 Mem:112.86M (Peak 112.86M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.036
+Fra:1 Mem:112.87M (Peak 112.87M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.036
+Fra:1 Mem:112.87M (Peak 112.87M) | Time:00:00.10 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.037
+Fra:1 Mem:112.88M (Peak 112.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.037
+Fra:1 Mem:112.88M (Peak 112.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.038
+Fra:1 Mem:112.89M (Peak 112.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.038
+Fra:1 Mem:112.89M (Peak 112.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.039
+Fra:1 Mem:112.90M (Peak 112.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.039
+Fra:1 Mem:112.90M (Peak 112.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.040
+Fra:1 Mem:112.91M (Peak 112.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.040
+Fra:1 Mem:112.91M (Peak 112.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.041
+Fra:1 Mem:112.92M (Peak 112.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.041
+Fra:1 Mem:112.92M (Peak 112.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.042
+Fra:1 Mem:112.93M (Peak 112.93M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.042
+Fra:1 Mem:112.94M (Peak 112.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.043
+Fra:1 Mem:112.94M (Peak 112.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.043
+Fra:1 Mem:112.95M (Peak 112.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.044
+Fra:1 Mem:112.95M (Peak 112.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.044
+Fra:1 Mem:112.96M (Peak 112.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.045
+Fra:1 Mem:112.96M (Peak 112.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.045
+Fra:1 Mem:112.97M (Peak 112.97M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.046
+Fra:1 Mem:112.97M (Peak 112.97M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.046
+Fra:1 Mem:112.98M (Peak 112.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.047
+Fra:1 Mem:112.98M (Peak 112.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.047
+Fra:1 Mem:112.99M (Peak 112.99M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.048
+Fra:1 Mem:112.99M (Peak 112.99M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.048
+Fra:1 Mem:113.00M (Peak 113.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.049
+Fra:1 Mem:113.00M (Peak 113.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.049
+Fra:1 Mem:113.01M (Peak 113.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.050
+Fra:1 Mem:113.01M (Peak 113.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.050
+Fra:1 Mem:113.02M (Peak 113.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.051
+Fra:1 Mem:113.02M (Peak 113.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.051
+Fra:1 Mem:113.03M (Peak 113.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.052
+Fra:1 Mem:113.03M (Peak 113.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.052
+Fra:1 Mem:113.04M (Peak 113.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.053
+Fra:1 Mem:113.04M (Peak 113.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.053
+Fra:1 Mem:113.05M (Peak 113.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.054
+Fra:1 Mem:113.05M (Peak 113.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.054
+Fra:1 Mem:113.06M (Peak 113.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.055
+Fra:1 Mem:113.06M (Peak 113.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.055
+Fra:1 Mem:113.07M (Peak 113.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.056
+Fra:1 Mem:113.07M (Peak 113.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.056
+Fra:1 Mem:113.08M (Peak 113.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.057
+Fra:1 Mem:113.08M (Peak 113.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.057
+Fra:1 Mem:113.09M (Peak 113.09M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.058
+Fra:1 Mem:113.09M (Peak 113.09M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.058
+Fra:1 Mem:113.10M (Peak 113.10M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.059
+Fra:1 Mem:113.10M (Peak 113.10M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.059
+Fra:1 Mem:113.11M (Peak 113.11M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.060
+Fra:1 Mem:113.11M (Peak 113.11M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.060
+Fra:1 Mem:113.12M (Peak 113.12M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.061
+Fra:1 Mem:113.12M (Peak 113.12M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.061
+Fra:1 Mem:113.13M (Peak 113.13M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.062
+Fra:1 Mem:113.14M (Peak 113.14M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.062
+Fra:1 Mem:113.14M (Peak 113.14M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.063
+Fra:1 Mem:113.15M (Peak 113.15M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.063
+Fra:1 Mem:113.15M (Peak 113.15M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.064
+Fra:1 Mem:113.16M (Peak 113.16M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.064
+Fra:1 Mem:113.16M (Peak 113.16M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.065
+Fra:1 Mem:113.17M (Peak 113.17M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.065
+Fra:1 Mem:113.17M (Peak 113.17M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.066
+Fra:1 Mem:113.18M (Peak 113.18M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.066
+Fra:1 Mem:113.18M (Peak 113.18M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.067
+Fra:1 Mem:113.19M (Peak 113.19M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.067
+Fra:1 Mem:113.19M (Peak 113.19M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.068
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.068
+Fra:1 Mem:113.20M (Peak 113.20M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.069
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.069
+Fra:1 Mem:113.21M (Peak 113.21M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.070
+Fra:1 Mem:113.22M (Peak 113.22M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.070
+Fra:1 Mem:113.22M (Peak 113.22M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.071
+Fra:1 Mem:113.23M (Peak 113.23M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.071
+Fra:1 Mem:113.23M (Peak 113.23M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.072
+Fra:1 Mem:113.24M (Peak 113.24M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.072
+Fra:1 Mem:113.24M (Peak 113.24M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.073
+Fra:1 Mem:113.25M (Peak 113.25M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.073
+Fra:1 Mem:113.25M (Peak 113.25M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.074
+Fra:1 Mem:113.26M (Peak 113.26M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.074
+Fra:1 Mem:113.27M (Peak 113.27M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.075
+Fra:1 Mem:113.27M (Peak 113.27M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.075
+Fra:1 Mem:113.28M (Peak 113.28M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.076
+Fra:1 Mem:113.28M (Peak 113.28M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.076
+Fra:1 Mem:113.29M (Peak 113.29M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.077
+Fra:1 Mem:113.29M (Peak 113.29M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.077
+Fra:1 Mem:113.30M (Peak 113.30M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.078
+Fra:1 Mem:113.30M (Peak 113.30M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.078
+Fra:1 Mem:113.31M (Peak 113.31M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.079
+Fra:1 Mem:113.31M (Peak 113.31M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.079
+Fra:1 Mem:113.32M (Peak 113.32M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.080
+Fra:1 Mem:113.32M (Peak 113.32M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.080
+Fra:1 Mem:113.33M (Peak 113.33M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.081
+Fra:1 Mem:113.33M (Peak 113.33M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.081
+Fra:1 Mem:113.34M (Peak 113.34M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.082
+Fra:1 Mem:113.34M (Peak 113.34M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.082
+Fra:1 Mem:113.35M (Peak 113.35M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.083
+Fra:1 Mem:113.35M (Peak 113.35M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.083
+Fra:1 Mem:113.36M (Peak 113.36M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.084
+Fra:1 Mem:113.36M (Peak 113.36M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.084
+Fra:1 Mem:113.37M (Peak 113.37M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.085
+Fra:1 Mem:113.37M (Peak 113.37M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.085
+Fra:1 Mem:113.38M (Peak 113.38M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.086
+Fra:1 Mem:113.38M (Peak 113.38M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.086
+Fra:1 Mem:113.39M (Peak 113.39M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.087
+Fra:1 Mem:113.39M (Peak 113.39M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.087
+Fra:1 Mem:113.40M (Peak 113.40M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.088
+Fra:1 Mem:113.40M (Peak 113.40M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.088
+Fra:1 Mem:113.41M (Peak 113.41M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.089
+Fra:1 Mem:113.41M (Peak 113.41M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.089
+Fra:1 Mem:113.42M (Peak 113.42M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.090
+Fra:1 Mem:113.42M (Peak 113.42M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.090
+Fra:1 Mem:113.43M (Peak 113.43M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.091
+Fra:1 Mem:113.43M (Peak 113.43M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.091
+Fra:1 Mem:113.44M (Peak 113.44M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.092
+Fra:1 Mem:113.44M (Peak 113.44M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.092
+Fra:1 Mem:113.45M (Peak 113.45M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.093
+Fra:1 Mem:113.45M (Peak 113.45M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.093
+Fra:1 Mem:113.46M (Peak 113.46M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.094
+Fra:1 Mem:113.47M (Peak 113.47M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.094
+Fra:1 Mem:113.47M (Peak 113.47M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.095
+Fra:1 Mem:113.48M (Peak 113.48M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.095
+Fra:1 Mem:113.48M (Peak 113.48M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.096
+Fra:1 Mem:113.49M (Peak 113.49M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.096
+Fra:1 Mem:113.49M (Peak 113.49M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.097
+Fra:1 Mem:113.50M (Peak 113.50M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.097
+Fra:1 Mem:113.50M (Peak 113.50M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.098
+Fra:1 Mem:113.51M (Peak 113.51M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.098
+Fra:1 Mem:113.51M (Peak 113.51M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.099
+Fra:1 Mem:113.52M (Peak 113.52M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.099
+Fra:1 Mem:113.52M (Peak 113.52M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.100
+Fra:1 Mem:113.53M (Peak 113.53M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.100
+Fra:1 Mem:113.53M (Peak 113.53M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.101
+Fra:1 Mem:113.54M (Peak 113.54M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.101
+Fra:1 Mem:113.54M (Peak 113.54M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.102
+Fra:1 Mem:113.55M (Peak 113.55M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.102
+Fra:1 Mem:113.55M (Peak 113.55M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.103
+Fra:1 Mem:113.56M (Peak 113.56M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.103
+Fra:1 Mem:113.56M (Peak 113.56M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.104
+Fra:1 Mem:113.57M (Peak 113.57M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.104
+Fra:1 Mem:113.57M (Peak 113.57M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.105
+Fra:1 Mem:113.58M (Peak 113.58M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.105
+Fra:1 Mem:113.58M (Peak 113.58M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.106
+Fra:1 Mem:113.59M (Peak 113.59M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.106
+Fra:1 Mem:113.59M (Peak 113.59M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.107
+Fra:1 Mem:113.60M (Peak 113.60M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.107
+Fra:1 Mem:113.60M (Peak 113.60M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.108
+Fra:1 Mem:113.61M (Peak 113.61M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.108
+Fra:1 Mem:113.61M (Peak 113.61M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.109
+Fra:1 Mem:113.62M (Peak 113.62M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.109
+Fra:1 Mem:113.62M (Peak 113.62M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.110
+Fra:1 Mem:113.63M (Peak 113.63M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.110
+Fra:1 Mem:113.63M (Peak 113.63M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.111
+Fra:1 Mem:113.64M (Peak 113.64M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.111
+Fra:1 Mem:113.64M (Peak 113.64M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.112
+Fra:1 Mem:113.65M (Peak 113.65M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.112
+Fra:1 Mem:113.65M (Peak 113.65M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.113
+Fra:1 Mem:113.66M (Peak 113.66M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.113
+Fra:1 Mem:113.66M (Peak 113.66M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.114
+Fra:1 Mem:113.67M (Peak 113.67M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.114
+Fra:1 Mem:113.67M (Peak 113.67M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.115
+Fra:1 Mem:113.68M (Peak 113.68M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.115
+Fra:1 Mem:113.68M (Peak 113.68M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.116
+Fra:1 Mem:113.69M (Peak 113.69M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.116
+Fra:1 Mem:113.69M (Peak 113.69M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.117
+Fra:1 Mem:113.70M (Peak 113.70M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.117
+Fra:1 Mem:113.70M (Peak 113.70M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.118
+Fra:1 Mem:113.71M (Peak 113.71M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.118
+Fra:1 Mem:113.71M (Peak 113.71M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.119
+Fra:1 Mem:113.72M (Peak 113.72M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.119
+Fra:1 Mem:113.72M (Peak 113.72M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.120
+Fra:1 Mem:113.73M (Peak 113.73M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.120
+Fra:1 Mem:113.73M (Peak 113.73M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.121
+Fra:1 Mem:113.74M (Peak 113.74M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.121
+Fra:1 Mem:113.74M (Peak 113.74M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.122
+Fra:1 Mem:113.75M (Peak 113.75M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.122
+Fra:1 Mem:113.75M (Peak 113.75M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.123
+Fra:1 Mem:113.76M (Peak 113.76M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.123
+Fra:1 Mem:113.76M (Peak 113.76M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.124
+Fra:1 Mem:113.77M (Peak 113.77M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.124
+Fra:1 Mem:113.77M (Peak 113.77M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.125
+Fra:1 Mem:113.78M (Peak 113.78M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.125
+Fra:1 Mem:113.78M (Peak 113.78M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.126
+Fra:1 Mem:113.79M (Peak 113.79M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.126
+Fra:1 Mem:113.80M (Peak 113.80M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.127
+Fra:1 Mem:113.80M (Peak 113.80M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.127
+Fra:1 Mem:113.81M (Peak 113.81M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.128
+Fra:1 Mem:113.81M (Peak 113.81M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.128
+Fra:1 Mem:113.82M (Peak 113.82M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.129
+Fra:1 Mem:113.82M (Peak 113.82M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.129
+Fra:1 Mem:113.83M (Peak 113.83M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.130
+Fra:1 Mem:113.83M (Peak 113.83M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.130
+Fra:1 Mem:113.84M (Peak 113.84M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.131
+Fra:1 Mem:113.84M (Peak 113.84M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.131
+Fra:1 Mem:113.85M (Peak 113.85M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.132
+Fra:1 Mem:113.85M (Peak 113.85M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.132
+Fra:1 Mem:113.86M (Peak 113.86M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.133
+Fra:1 Mem:113.86M (Peak 113.86M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.133
+Fra:1 Mem:113.87M (Peak 113.87M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.134
+Fra:1 Mem:113.87M (Peak 113.87M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.134
+Fra:1 Mem:113.88M (Peak 113.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.135
+Fra:1 Mem:113.88M (Peak 113.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.135
+Fra:1 Mem:113.89M (Peak 113.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.136
+Fra:1 Mem:113.89M (Peak 113.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.136
+Fra:1 Mem:113.90M (Peak 113.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.137
+Fra:1 Mem:113.90M (Peak 113.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.137
+Fra:1 Mem:113.91M (Peak 113.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.138
+Fra:1 Mem:113.91M (Peak 113.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.138
+Fra:1 Mem:113.92M (Peak 113.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.139
+Fra:1 Mem:113.92M (Peak 113.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.139
+Fra:1 Mem:113.93M (Peak 113.93M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.140
+Fra:1 Mem:113.93M (Peak 113.93M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.140
+Fra:1 Mem:113.94M (Peak 113.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.141
+Fra:1 Mem:113.94M (Peak 113.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.141
+Fra:1 Mem:113.95M (Peak 113.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.142
+Fra:1 Mem:113.95M (Peak 113.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.142
+Fra:1 Mem:113.96M (Peak 113.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.143
+Fra:1 Mem:113.96M (Peak 113.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.143
+Fra:1 Mem:113.97M (Peak 113.97M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.144
+Fra:1 Mem:113.97M (Peak 113.97M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.144
+Fra:1 Mem:113.98M (Peak 113.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.145
+Fra:1 Mem:113.98M (Peak 113.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.145
+Fra:1 Mem:113.99M (Peak 113.99M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.146
+Fra:1 Mem:114.00M (Peak 114.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.146
+Fra:1 Mem:114.00M (Peak 114.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.147
+Fra:1 Mem:114.01M (Peak 114.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.147
+Fra:1 Mem:114.01M (Peak 114.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.148
+Fra:1 Mem:114.02M (Peak 114.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.148
+Fra:1 Mem:114.02M (Peak 114.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.149
+Fra:1 Mem:114.03M (Peak 114.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.149
+Fra:1 Mem:114.03M (Peak 114.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.150
+Fra:1 Mem:114.04M (Peak 114.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.150
+Fra:1 Mem:114.04M (Peak 114.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.151
+Fra:1 Mem:114.05M (Peak 114.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.151
+Fra:1 Mem:114.05M (Peak 114.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.152
+Fra:1 Mem:114.06M (Peak 114.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.152
+Fra:1 Mem:114.06M (Peak 114.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.153
+Fra:1 Mem:114.07M (Peak 114.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.153
+Fra:1 Mem:114.07M (Peak 114.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.154
+Fra:1 Mem:114.08M (Peak 114.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.154
+Fra:1 Mem:114.08M (Peak 114.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.155
+Fra:1 Mem:114.09M (Peak 114.09M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.155
+Fra:1 Mem:114.09M (Peak 114.09M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.156
+Fra:1 Mem:114.10M (Peak 114.10M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.156
+Fra:1 Mem:114.10M (Peak 114.10M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.157
+Fra:1 Mem:114.11M (Peak 114.11M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.157
+Fra:1 Mem:114.11M (Peak 114.11M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.158
+Fra:1 Mem:114.12M (Peak 114.12M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.158
+Fra:1 Mem:114.12M (Peak 114.12M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.159
+Fra:1 Mem:114.13M (Peak 114.13M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.159
+Fra:1 Mem:114.13M (Peak 114.13M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.160
+Fra:1 Mem:114.14M (Peak 114.14M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.160
+Fra:1 Mem:114.14M (Peak 114.14M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.161
+Fra:1 Mem:114.15M (Peak 114.15M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.161
+Fra:1 Mem:114.15M (Peak 114.15M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.162
+Fra:1 Mem:114.16M (Peak 114.16M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.162
+Fra:1 Mem:114.16M (Peak 114.16M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.163
+Fra:1 Mem:114.17M (Peak 114.17M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.163
+Fra:1 Mem:114.17M (Peak 114.17M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.164
+Fra:1 Mem:114.18M (Peak 114.18M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.164
+Fra:1 Mem:114.18M (Peak 114.18M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.165
+Fra:1 Mem:114.19M (Peak 114.19M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.165
+Fra:1 Mem:114.19M (Peak 114.19M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.166
+Fra:1 Mem:114.20M (Peak 114.20M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.166
+Fra:1 Mem:114.20M (Peak 114.20M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.167
+Fra:1 Mem:114.21M (Peak 114.21M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.167
+Fra:1 Mem:114.21M (Peak 114.21M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.168
+Fra:1 Mem:114.22M (Peak 114.22M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.168
+Fra:1 Mem:114.22M (Peak 114.22M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.169
+Fra:1 Mem:114.23M (Peak 114.23M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.169
+Fra:1 Mem:114.23M (Peak 114.23M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.170
+Fra:1 Mem:114.24M (Peak 114.24M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.170
+Fra:1 Mem:114.24M (Peak 114.24M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.171
+Fra:1 Mem:114.25M (Peak 114.25M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.171
+Fra:1 Mem:114.25M (Peak 114.25M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.172
+Fra:1 Mem:114.26M (Peak 114.26M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.172
+Fra:1 Mem:114.26M (Peak 114.26M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.173
+Fra:1 Mem:114.27M (Peak 114.27M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.173
+Fra:1 Mem:114.27M (Peak 114.27M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.174
+Fra:1 Mem:114.28M (Peak 114.28M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.174
+Fra:1 Mem:114.28M (Peak 114.28M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.175
+Fra:1 Mem:114.29M (Peak 114.29M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.175
+Fra:1 Mem:114.29M (Peak 114.29M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.176
+Fra:1 Mem:114.30M (Peak 114.30M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.176
+Fra:1 Mem:114.30M (Peak 114.30M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.177
+Fra:1 Mem:114.31M (Peak 114.31M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.177
+Fra:1 Mem:114.32M (Peak 114.32M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.178
+Fra:1 Mem:114.32M (Peak 114.32M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.178
+Fra:1 Mem:114.33M (Peak 114.33M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.179
+Fra:1 Mem:114.33M (Peak 114.33M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.179
+Fra:1 Mem:114.34M (Peak 114.34M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.180
+Fra:1 Mem:114.34M (Peak 114.34M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.180
+Fra:1 Mem:114.35M (Peak 114.35M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.181
+Fra:1 Mem:114.35M (Peak 114.35M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.181
+Fra:1 Mem:114.36M (Peak 114.36M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.182
+Fra:1 Mem:114.36M (Peak 114.36M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.182
+Fra:1 Mem:114.37M (Peak 114.37M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.183
+Fra:1 Mem:114.37M (Peak 114.37M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.183
+Fra:1 Mem:114.38M (Peak 114.38M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.184
+Fra:1 Mem:114.38M (Peak 114.38M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.184
+Fra:1 Mem:114.39M (Peak 114.39M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.185
+Fra:1 Mem:114.39M (Peak 114.39M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.185
+Fra:1 Mem:114.40M (Peak 114.40M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.186
+Fra:1 Mem:114.40M (Peak 114.40M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.186
+Fra:1 Mem:114.41M (Peak 114.41M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.187
+Fra:1 Mem:114.41M (Peak 114.41M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.187
+Fra:1 Mem:114.42M (Peak 114.42M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.188
+Fra:1 Mem:114.42M (Peak 114.42M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.188
+Fra:1 Mem:114.43M (Peak 114.43M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.189
+Fra:1 Mem:114.43M (Peak 114.43M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.189
+Fra:1 Mem:114.44M (Peak 114.44M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.190
+Fra:1 Mem:114.44M (Peak 114.44M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.190
+Fra:1 Mem:114.45M (Peak 114.45M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.191
+Fra:1 Mem:114.45M (Peak 114.45M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.191
+Fra:1 Mem:114.47M (Peak 114.47M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.192
+Fra:1 Mem:114.47M (Peak 114.47M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.192
+Fra:1 Mem:114.48M (Peak 114.48M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.193
+Fra:1 Mem:114.48M (Peak 114.48M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.193
+Fra:1 Mem:114.49M (Peak 114.49M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.194
+Fra:1 Mem:114.49M (Peak 114.49M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.194
+Fra:1 Mem:114.50M (Peak 114.50M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.195
+Fra:1 Mem:114.50M (Peak 114.50M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.195
+Fra:1 Mem:114.51M (Peak 114.51M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.196
+Fra:1 Mem:114.51M (Peak 114.51M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.196
+Fra:1 Mem:114.52M (Peak 114.52M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.197
+Fra:1 Mem:114.52M (Peak 114.52M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.197
+Fra:1 Mem:114.53M (Peak 114.53M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.198
+Fra:1 Mem:114.53M (Peak 114.53M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.198
+Fra:1 Mem:114.54M (Peak 114.54M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.199
+Fra:1 Mem:114.54M (Peak 114.54M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.199
+Fra:1 Mem:114.55M (Peak 114.55M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.200
+Fra:1 Mem:114.55M (Peak 114.55M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.200
+Fra:1 Mem:114.56M (Peak 114.56M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.201
+Fra:1 Mem:114.56M (Peak 114.56M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.201
+Fra:1 Mem:114.57M (Peak 114.57M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.202
+Fra:1 Mem:114.57M (Peak 114.57M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.202
+Fra:1 Mem:114.58M (Peak 114.58M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.203
+Fra:1 Mem:114.58M (Peak 114.58M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.203
+Fra:1 Mem:114.59M (Peak 114.59M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.204
+Fra:1 Mem:114.59M (Peak 114.59M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.204
+Fra:1 Mem:114.60M (Peak 114.60M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.205
+Fra:1 Mem:114.60M (Peak 114.60M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.205
+Fra:1 Mem:114.61M (Peak 114.61M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.206
+Fra:1 Mem:114.61M (Peak 114.61M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.206
+Fra:1 Mem:114.62M (Peak 114.62M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.207
+Fra:1 Mem:114.62M (Peak 114.62M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.207
+Fra:1 Mem:114.63M (Peak 114.63M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.208
+Fra:1 Mem:114.63M (Peak 114.63M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.208
+Fra:1 Mem:114.64M (Peak 114.64M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.209
+Fra:1 Mem:114.65M (Peak 114.65M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.209
+Fra:1 Mem:114.65M (Peak 114.65M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.210
+Fra:1 Mem:114.66M (Peak 114.66M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.210
+Fra:1 Mem:114.66M (Peak 114.66M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.211
+Fra:1 Mem:114.67M (Peak 114.67M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.211
+Fra:1 Mem:114.67M (Peak 114.67M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.212
+Fra:1 Mem:114.68M (Peak 114.68M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.212
+Fra:1 Mem:114.68M (Peak 114.68M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.213
+Fra:1 Mem:114.69M (Peak 114.69M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.213
+Fra:1 Mem:114.69M (Peak 114.69M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.214
+Fra:1 Mem:114.70M (Peak 114.70M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.214
+Fra:1 Mem:114.70M (Peak 114.70M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.215
+Fra:1 Mem:114.71M (Peak 114.71M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.215
+Fra:1 Mem:114.71M (Peak 114.71M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.216
+Fra:1 Mem:114.72M (Peak 114.72M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.216
+Fra:1 Mem:114.72M (Peak 114.72M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.217
+Fra:1 Mem:114.73M (Peak 114.73M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.217
+Fra:1 Mem:114.73M (Peak 114.73M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.218
+Fra:1 Mem:114.74M (Peak 114.74M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.218
+Fra:1 Mem:114.74M (Peak 114.74M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.219
+Fra:1 Mem:114.75M (Peak 114.75M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.219
+Fra:1 Mem:114.75M (Peak 114.75M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.220
+Fra:1 Mem:114.76M (Peak 114.76M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.220
+Fra:1 Mem:114.76M (Peak 114.76M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.221
+Fra:1 Mem:114.77M (Peak 114.77M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.221
+Fra:1 Mem:114.77M (Peak 114.77M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.222
+Fra:1 Mem:114.78M (Peak 114.78M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.222
+Fra:1 Mem:114.78M (Peak 114.78M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.223
+Fra:1 Mem:114.79M (Peak 114.79M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.223
+Fra:1 Mem:114.79M (Peak 114.79M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.224
+Fra:1 Mem:114.80M (Peak 114.80M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.224
+Fra:1 Mem:114.80M (Peak 114.80M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.225
+Fra:1 Mem:114.81M (Peak 114.81M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.225
+Fra:1 Mem:114.81M (Peak 114.81M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.226
+Fra:1 Mem:114.82M (Peak 114.82M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.226
+Fra:1 Mem:114.82M (Peak 114.82M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.227
+Fra:1 Mem:114.83M (Peak 114.83M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.227
+Fra:1 Mem:114.83M (Peak 114.83M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.228
+Fra:1 Mem:114.84M (Peak 114.84M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.228
+Fra:1 Mem:114.84M (Peak 114.84M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.229
+Fra:1 Mem:114.85M (Peak 114.85M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.229
+Fra:1 Mem:114.85M (Peak 114.85M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.230
+Fra:1 Mem:114.86M (Peak 114.86M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.230
+Fra:1 Mem:114.86M (Peak 114.86M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.231
+Fra:1 Mem:114.87M (Peak 114.87M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.231
+Fra:1 Mem:114.87M (Peak 114.87M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.232
+Fra:1 Mem:114.88M (Peak 114.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.232
+Fra:1 Mem:114.88M (Peak 114.88M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.233
+Fra:1 Mem:114.89M (Peak 114.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.233
+Fra:1 Mem:114.89M (Peak 114.89M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.234
+Fra:1 Mem:114.90M (Peak 114.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.234
+Fra:1 Mem:114.90M (Peak 114.90M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.235
+Fra:1 Mem:114.91M (Peak 114.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.235
+Fra:1 Mem:114.91M (Peak 114.91M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.236
+Fra:1 Mem:114.92M (Peak 114.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.236
+Fra:1 Mem:114.92M (Peak 114.92M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.237
+Fra:1 Mem:114.93M (Peak 114.93M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.237
+Fra:1 Mem:114.93M (Peak 114.93M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.238
+Fra:1 Mem:114.94M (Peak 114.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.238
+Fra:1 Mem:114.94M (Peak 114.94M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.239
+Fra:1 Mem:114.95M (Peak 114.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.239
+Fra:1 Mem:114.95M (Peak 114.95M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.240
+Fra:1 Mem:114.96M (Peak 114.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.240
+Fra:1 Mem:114.96M (Peak 114.96M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.241
+Fra:1 Mem:114.97M (Peak 114.97M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.241
+Fra:1 Mem:114.98M (Peak 114.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.242
+Fra:1 Mem:114.98M (Peak 114.98M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.242
+Fra:1 Mem:114.99M (Peak 114.99M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.243
+Fra:1 Mem:114.99M (Peak 114.99M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.243
+Fra:1 Mem:115.00M (Peak 115.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.244
+Fra:1 Mem:115.00M (Peak 115.00M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.244
+Fra:1 Mem:115.01M (Peak 115.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.245
+Fra:1 Mem:115.01M (Peak 115.01M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.245
+Fra:1 Mem:115.02M (Peak 115.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.246
+Fra:1 Mem:115.02M (Peak 115.02M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.246
+Fra:1 Mem:115.03M (Peak 115.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.247
+Fra:1 Mem:115.03M (Peak 115.03M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.247
+Fra:1 Mem:115.04M (Peak 115.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.248
+Fra:1 Mem:115.04M (Peak 115.04M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.248
+Fra:1 Mem:115.05M (Peak 115.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.249
+Fra:1 Mem:115.05M (Peak 115.05M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.249
+Fra:1 Mem:115.06M (Peak 115.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.250
+Fra:1 Mem:115.06M (Peak 115.06M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.250
+Fra:1 Mem:115.07M (Peak 115.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.251
+Fra:1 Mem:115.07M (Peak 115.07M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.251
+Fra:1 Mem:115.08M (Peak 115.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.252
+Fra:1 Mem:115.08M (Peak 115.08M) | Time:00:00.11 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.252
+Fra:1 Mem:115.09M (Peak 115.09M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.253
+Fra:1 Mem:115.09M (Peak 115.09M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.253
+Fra:1 Mem:115.10M (Peak 115.10M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.254
+Fra:1 Mem:115.10M (Peak 115.10M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.254
+Fra:1 Mem:115.11M (Peak 115.11M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.255
+Fra:1 Mem:115.11M (Peak 115.11M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.255
+Fra:1 Mem:115.12M (Peak 115.12M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.256
+Fra:1 Mem:115.12M (Peak 115.12M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.256
+Fra:1 Mem:115.13M (Peak 115.13M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.257
+Fra:1 Mem:115.13M (Peak 115.13M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.257
+Fra:1 Mem:115.14M (Peak 115.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.258
+Fra:1 Mem:115.14M (Peak 115.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.258
+Fra:1 Mem:115.15M (Peak 115.15M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.259
+Fra:1 Mem:115.15M (Peak 115.15M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.259
+Fra:1 Mem:115.16M (Peak 115.16M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.260
+Fra:1 Mem:115.16M (Peak 115.16M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.260
+Fra:1 Mem:115.17M (Peak 115.17M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.261
+Fra:1 Mem:115.18M (Peak 115.18M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.261
+Fra:1 Mem:115.18M (Peak 115.18M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.262
+Fra:1 Mem:115.19M (Peak 115.19M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.262
+Fra:1 Mem:115.19M (Peak 115.19M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.263
+Fra:1 Mem:115.20M (Peak 115.20M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.263
+Fra:1 Mem:115.20M (Peak 115.20M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.264
+Fra:1 Mem:115.21M (Peak 115.21M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.264
+Fra:1 Mem:115.21M (Peak 115.21M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.265
+Fra:1 Mem:115.22M (Peak 115.22M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.265
+Fra:1 Mem:115.22M (Peak 115.22M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.266
+Fra:1 Mem:115.23M (Peak 115.23M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.266
+Fra:1 Mem:115.23M (Peak 115.23M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.267
+Fra:1 Mem:115.24M (Peak 115.24M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.267
+Fra:1 Mem:115.24M (Peak 115.24M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.268
+Fra:1 Mem:115.25M (Peak 115.25M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.268
+Fra:1 Mem:115.25M (Peak 115.25M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.269
+Fra:1 Mem:115.26M (Peak 115.26M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.269
+Fra:1 Mem:115.26M (Peak 115.26M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.270
+Fra:1 Mem:115.27M (Peak 115.27M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.270
+Fra:1 Mem:115.27M (Peak 115.27M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.271
+Fra:1 Mem:115.28M (Peak 115.28M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.271
+Fra:1 Mem:115.28M (Peak 115.28M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.272
+Fra:1 Mem:115.29M (Peak 115.29M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.272
+Fra:1 Mem:115.29M (Peak 115.29M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.273
+Fra:1 Mem:115.30M (Peak 115.30M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.273
+Fra:1 Mem:115.30M (Peak 115.30M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.274
+Fra:1 Mem:115.31M (Peak 115.31M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.274
+Fra:1 Mem:115.31M (Peak 115.31M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.275
+Fra:1 Mem:115.32M (Peak 115.32M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.275
+Fra:1 Mem:115.32M (Peak 115.32M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.276
+Fra:1 Mem:115.33M (Peak 115.33M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.276
+Fra:1 Mem:115.33M (Peak 115.33M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.277
+Fra:1 Mem:115.34M (Peak 115.34M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.277
+Fra:1 Mem:115.34M (Peak 115.34M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.278
+Fra:1 Mem:115.35M (Peak 115.35M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.278
+Fra:1 Mem:115.35M (Peak 115.35M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.279
+Fra:1 Mem:115.36M (Peak 115.36M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.279
+Fra:1 Mem:115.36M (Peak 115.36M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.280
+Fra:1 Mem:115.37M (Peak 115.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.280
+Fra:1 Mem:115.37M (Peak 115.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.281
+Fra:1 Mem:115.38M (Peak 115.38M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.281
+Fra:1 Mem:115.38M (Peak 115.38M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.282
+Fra:1 Mem:115.39M (Peak 115.39M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.282
+Fra:1 Mem:115.39M (Peak 115.39M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.283
+Fra:1 Mem:115.40M (Peak 115.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.283
+Fra:1 Mem:115.40M (Peak 115.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.284
+Fra:1 Mem:115.41M (Peak 115.41M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.284
+Fra:1 Mem:115.41M (Peak 115.41M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.285
+Fra:1 Mem:115.42M (Peak 115.42M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.285
+Fra:1 Mem:115.42M (Peak 115.42M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.286
+Fra:1 Mem:115.43M (Peak 115.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.286
+Fra:1 Mem:115.43M (Peak 115.43M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.287
+Fra:1 Mem:115.44M (Peak 115.44M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.287
+Fra:1 Mem:115.44M (Peak 115.44M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.288
+Fra:1 Mem:115.45M (Peak 115.45M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.288
+Fra:1 Mem:115.45M (Peak 115.45M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.289
+Fra:1 Mem:115.46M (Peak 115.46M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.289
+Fra:1 Mem:115.46M (Peak 115.46M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.290
+Fra:1 Mem:115.47M (Peak 115.47M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.290
+Fra:1 Mem:115.47M (Peak 115.47M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.291
+Fra:1 Mem:115.48M (Peak 115.48M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.291
+Fra:1 Mem:115.48M (Peak 115.48M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.292
+Fra:1 Mem:115.49M (Peak 115.49M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.292
+Fra:1 Mem:115.49M (Peak 115.49M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.293
+Fra:1 Mem:115.50M (Peak 115.50M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.293
+Fra:1 Mem:115.51M (Peak 115.51M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.294
+Fra:1 Mem:115.51M (Peak 115.51M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.294
+Fra:1 Mem:115.52M (Peak 115.52M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.295
+Fra:1 Mem:115.52M (Peak 115.52M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.295
+Fra:1 Mem:115.53M (Peak 115.53M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.296
+Fra:1 Mem:115.53M (Peak 115.53M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.296
+Fra:1 Mem:115.54M (Peak 115.54M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.297
+Fra:1 Mem:115.54M (Peak 115.54M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.297
+Fra:1 Mem:115.55M (Peak 115.55M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.298
+Fra:1 Mem:115.55M (Peak 115.55M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.298
+Fra:1 Mem:115.56M (Peak 115.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.299
+Fra:1 Mem:115.56M (Peak 115.56M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.299
+Fra:1 Mem:115.57M (Peak 115.57M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.300
+Fra:1 Mem:115.57M (Peak 115.57M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.300
+Fra:1 Mem:115.58M (Peak 115.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.301
+Fra:1 Mem:115.58M (Peak 115.58M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.301
+Fra:1 Mem:115.59M (Peak 115.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.302
+Fra:1 Mem:115.59M (Peak 115.59M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.302
+Fra:1 Mem:115.60M (Peak 115.60M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.303
+Fra:1 Mem:115.60M (Peak 115.60M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.303
+Fra:1 Mem:115.61M (Peak 115.61M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.304
+Fra:1 Mem:115.61M (Peak 115.61M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.304
+Fra:1 Mem:115.62M (Peak 115.62M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.305
+Fra:1 Mem:115.62M (Peak 115.62M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.305
+Fra:1 Mem:115.63M (Peak 115.63M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.306
+Fra:1 Mem:115.63M (Peak 115.63M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.306
+Fra:1 Mem:115.64M (Peak 115.64M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.307
+Fra:1 Mem:115.64M (Peak 115.64M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.307
+Fra:1 Mem:115.65M (Peak 115.65M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.308
+Fra:1 Mem:115.65M (Peak 115.65M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.308
+Fra:1 Mem:115.66M (Peak 115.66M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.309
+Fra:1 Mem:115.66M (Peak 115.66M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.309
+Fra:1 Mem:115.67M (Peak 115.67M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.310
+Fra:1 Mem:115.67M (Peak 115.67M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.310
+Fra:1 Mem:115.68M (Peak 115.68M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.311
+Fra:1 Mem:115.68M (Peak 115.68M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.311
+Fra:1 Mem:115.69M (Peak 115.69M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.312
+Fra:1 Mem:115.69M (Peak 115.69M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.312
+Fra:1 Mem:115.70M (Peak 115.70M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.313
+Fra:1 Mem:115.71M (Peak 115.71M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.313
+Fra:1 Mem:115.71M (Peak 115.71M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.314
+Fra:1 Mem:115.72M (Peak 115.72M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.314
+Fra:1 Mem:115.72M (Peak 115.72M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.315
+Fra:1 Mem:115.73M (Peak 115.73M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.315
+Fra:1 Mem:115.73M (Peak 115.73M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.316
+Fra:1 Mem:115.74M (Peak 115.74M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.316
+Fra:1 Mem:115.74M (Peak 115.74M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.317
+Fra:1 Mem:115.75M (Peak 115.75M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.317
+Fra:1 Mem:115.75M (Peak 115.75M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.318
+Fra:1 Mem:115.76M (Peak 115.76M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.318
+Fra:1 Mem:115.76M (Peak 115.76M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.319
+Fra:1 Mem:115.77M (Peak 115.77M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.319
+Fra:1 Mem:115.77M (Peak 115.77M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.320
+Fra:1 Mem:115.78M (Peak 115.78M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.320
+Fra:1 Mem:115.78M (Peak 115.78M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.321
+Fra:1 Mem:115.79M (Peak 115.79M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.321
+Fra:1 Mem:115.79M (Peak 115.79M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.322
+Fra:1 Mem:115.80M (Peak 115.80M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.322
+Fra:1 Mem:115.80M (Peak 115.80M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.323
+Fra:1 Mem:115.81M (Peak 115.81M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.323
+Fra:1 Mem:115.81M (Peak 115.81M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.324
+Fra:1 Mem:115.82M (Peak 115.82M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.324
+Fra:1 Mem:115.82M (Peak 115.82M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.325
+Fra:1 Mem:115.83M (Peak 115.83M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.325
+Fra:1 Mem:115.83M (Peak 115.83M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.326
+Fra:1 Mem:115.84M (Peak 115.84M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.326
+Fra:1 Mem:115.84M (Peak 115.84M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.327
+Fra:1 Mem:115.85M (Peak 115.85M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.327
+Fra:1 Mem:115.85M (Peak 115.85M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.328
+Fra:1 Mem:115.86M (Peak 115.86M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.328
+Fra:1 Mem:115.86M (Peak 115.86M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.329
+Fra:1 Mem:115.87M (Peak 115.87M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.329
+Fra:1 Mem:115.87M (Peak 115.87M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.330
+Fra:1 Mem:115.88M (Peak 115.88M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.330
+Fra:1 Mem:115.88M (Peak 115.88M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.331
+Fra:1 Mem:115.89M (Peak 115.89M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.331
+Fra:1 Mem:115.89M (Peak 115.89M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.332
+Fra:1 Mem:115.90M (Peak 115.90M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.332
+Fra:1 Mem:115.90M (Peak 115.90M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.333
+Fra:1 Mem:115.91M (Peak 115.91M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.333
+Fra:1 Mem:115.91M (Peak 115.91M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.334
+Fra:1 Mem:115.92M (Peak 115.92M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.334
+Fra:1 Mem:115.92M (Peak 115.92M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.335
+Fra:1 Mem:115.93M (Peak 115.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.335
+Fra:1 Mem:115.93M (Peak 115.93M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.336
+Fra:1 Mem:115.94M (Peak 115.94M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.336
+Fra:1 Mem:115.94M (Peak 115.94M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.337
+Fra:1 Mem:115.95M (Peak 115.95M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.337
+Fra:1 Mem:115.95M (Peak 115.95M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.338
+Fra:1 Mem:115.96M (Peak 115.96M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.338
+Fra:1 Mem:115.96M (Peak 115.96M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.339
+Fra:1 Mem:115.97M (Peak 115.97M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.339
+Fra:1 Mem:115.97M (Peak 115.97M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.340
+Fra:1 Mem:115.98M (Peak 115.98M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.340
+Fra:1 Mem:115.98M (Peak 115.98M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.341
+Fra:1 Mem:115.99M (Peak 115.99M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.341
+Fra:1 Mem:115.99M (Peak 115.99M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.342
+Fra:1 Mem:116.00M (Peak 116.00M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.342
+Fra:1 Mem:116.00M (Peak 116.00M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.343
+Fra:1 Mem:116.01M (Peak 116.01M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.343
+Fra:1 Mem:116.01M (Peak 116.01M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.344
+Fra:1 Mem:116.02M (Peak 116.02M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.344
+Fra:1 Mem:116.03M (Peak 116.03M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.345
+Fra:1 Mem:116.03M (Peak 116.03M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.345
+Fra:1 Mem:116.04M (Peak 116.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.346
+Fra:1 Mem:116.04M (Peak 116.04M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.346
+Fra:1 Mem:116.05M (Peak 116.05M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.347
+Fra:1 Mem:116.05M (Peak 116.05M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.347
+Fra:1 Mem:116.06M (Peak 116.06M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.348
+Fra:1 Mem:116.06M (Peak 116.06M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.348
+Fra:1 Mem:116.07M (Peak 116.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.349
+Fra:1 Mem:116.07M (Peak 116.07M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.349
+Fra:1 Mem:116.08M (Peak 116.08M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.350
+Fra:1 Mem:116.08M (Peak 116.08M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.350
+Fra:1 Mem:116.09M (Peak 116.09M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.351
+Fra:1 Mem:116.09M (Peak 116.09M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.351
+Fra:1 Mem:116.10M (Peak 116.10M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.352
+Fra:1 Mem:116.10M (Peak 116.10M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.352
+Fra:1 Mem:116.11M (Peak 116.11M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.353
+Fra:1 Mem:116.11M (Peak 116.11M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.353
+Fra:1 Mem:116.12M (Peak 116.12M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.354
+Fra:1 Mem:116.12M (Peak 116.12M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.354
+Fra:1 Mem:116.13M (Peak 116.13M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.355
+Fra:1 Mem:116.13M (Peak 116.13M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.355
+Fra:1 Mem:116.14M (Peak 116.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.356
+Fra:1 Mem:116.14M (Peak 116.14M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.356
+Fra:1 Mem:116.15M (Peak 116.15M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.357
+Fra:1 Mem:116.15M (Peak 116.15M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.357
+Fra:1 Mem:116.16M (Peak 116.16M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.358
+Fra:1 Mem:116.16M (Peak 116.16M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.358
+Fra:1 Mem:116.17M (Peak 116.17M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.359
+Fra:1 Mem:116.17M (Peak 116.17M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.359
+Fra:1 Mem:116.18M (Peak 116.18M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.360
+Fra:1 Mem:116.18M (Peak 116.18M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.360
+Fra:1 Mem:116.19M (Peak 116.19M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.361
+Fra:1 Mem:116.19M (Peak 116.19M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.361
+Fra:1 Mem:116.20M (Peak 116.20M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.362
+Fra:1 Mem:116.20M (Peak 116.20M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.362
+Fra:1 Mem:116.21M (Peak 116.21M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.363
+Fra:1 Mem:116.21M (Peak 116.21M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.363
+Fra:1 Mem:116.22M (Peak 116.22M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.364
+Fra:1 Mem:116.22M (Peak 116.22M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.364
+Fra:1 Mem:116.23M (Peak 116.23M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.365
+Fra:1 Mem:116.24M (Peak 116.24M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.365
+Fra:1 Mem:116.24M (Peak 116.24M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.366
+Fra:1 Mem:116.25M (Peak 116.25M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.366
+Fra:1 Mem:116.25M (Peak 116.25M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.367
+Fra:1 Mem:116.26M (Peak 116.26M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.367
+Fra:1 Mem:116.26M (Peak 116.26M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.368
+Fra:1 Mem:116.27M (Peak 116.27M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.368
+Fra:1 Mem:116.27M (Peak 116.27M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.369
+Fra:1 Mem:116.28M (Peak 116.28M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.369
+Fra:1 Mem:116.28M (Peak 116.28M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.370
+Fra:1 Mem:116.29M (Peak 116.29M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.370
+Fra:1 Mem:116.29M (Peak 116.29M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.371
+Fra:1 Mem:116.30M (Peak 116.30M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.371
+Fra:1 Mem:116.30M (Peak 116.30M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.372
+Fra:1 Mem:116.31M (Peak 116.31M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.372
+Fra:1 Mem:116.31M (Peak 116.31M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.373
+Fra:1 Mem:116.32M (Peak 116.32M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.373
+Fra:1 Mem:116.32M (Peak 116.32M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.374
+Fra:1 Mem:116.33M (Peak 116.33M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.374
+Fra:1 Mem:116.33M (Peak 116.33M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.375
+Fra:1 Mem:116.34M (Peak 116.34M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.375
+Fra:1 Mem:116.34M (Peak 116.34M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.376
+Fra:1 Mem:116.35M (Peak 116.35M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.376
+Fra:1 Mem:116.35M (Peak 116.35M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.377
+Fra:1 Mem:116.36M (Peak 116.36M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.377
+Fra:1 Mem:116.36M (Peak 116.36M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.378
+Fra:1 Mem:116.37M (Peak 116.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.378
+Fra:1 Mem:116.37M (Peak 116.37M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.379
+Fra:1 Mem:116.38M (Peak 116.38M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.379
+Fra:1 Mem:116.38M (Peak 116.38M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.380
+Fra:1 Mem:116.39M (Peak 116.39M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.380
+Fra:1 Mem:116.39M (Peak 116.39M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.381
+Fra:1 Mem:116.40M (Peak 116.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.381
+Fra:1 Mem:116.40M (Peak 116.40M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.382
+Fra:1 Mem:116.41M (Peak 116.41M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.382
+Fra:1 Mem:116.41M (Peak 116.41M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field shadow.383
+Fra:1 Mem:116.42M (Peak 116.42M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Synchronizing object | engraved field upper lip.383
+Fra:1 Mem:116.42M (Peak 116.42M) | Time:00:00.12 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Initializing
+Fra:1 Mem:65.25M (Peak 116.42M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Waiting for render to start
+Fra:1 Mem:65.25M (Peak 116.42M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Loading render kernels (may take a few minutes the first time)
+Fra:1 Mem:65.25M (Peak 116.42M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Scene
+Fra:1 Mem:65.25M (Peak 116.42M) | Time:00:00.14 | Mem:0.00M, Peak:0.00M | Scene, ViewLayer | Updating Shaders
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Procedurals
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Background
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Camera
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Meshes Flags
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects
+Fra:1 Mem:65.34M (Peak 116.42M) | Time:00:00.14 | Mem:0.01M, Peak:0.01M | Scene, ViewLayer | Updating Objects | Copying Transformations to device
+Fra:1 Mem:65.55M (Peak 116.42M) | Time:00:00.14 | Mem:0.21M, Peak:0.21M | Scene, ViewLayer | Updating Objects | Applying Static Transformations
+Fra:1 Mem:65.55M (Peak 116.42M) | Time:00:00.14 | Mem:0.21M, Peak:0.21M | Scene, ViewLayer | Updating Particle Systems
+Fra:1 Mem:65.55M (Peak 116.42M) | Time:00:00.14 | Mem:0.21M, Peak:0.21M | Scene, ViewLayer | Updating Particle Systems | Copying Particles to device
+Fra:1 Mem:65.55M (Peak 116.42M) | Time:00:00.14 | Mem:0.21M, Peak:0.21M | Scene, ViewLayer | Updating Meshes
+Fra:1 Mem:69.56M (Peak 116.42M) | Time:00:00.15 | Mem:0.21M, Peak:0.21M | Scene, ViewLayer | Updating Mesh | Computing attributes
+Fra:1 Mem:71.46M (Peak 116.42M) | Time:00:00.15 | Mem:0.27M, Peak:0.27M | Scene, ViewLayer | Updating Mesh | Copying Attributes to device
+Fra:1 Mem:71.32M (Peak 116.42M) | Time:00:00.15 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Updating Scene BVH | Building
+Fra:1 Mem:71.34M (Peak 116.42M) | Time:00:00.15 | Mem:1.98M, Peak:1.98M | Scene, ViewLayer | Updating Scene BVH | Building BVH
+Fra:1 Mem:71.34M (Peak 116.42M) | Time:00:00.15 | Mem:9.99M, Peak:9.99M | Scene, ViewLayer | Updating Scene BVH | Building BVH 0%
+Fra:1 Mem:71.34M (Peak 116.42M) | Time:00:00.18 | Mem:18.71M, Peak:26.72M | Scene, ViewLayer | Updating Scene BVH | Copying BVH to device
+Fra:1 Mem:71.34M (Peak 116.42M) | Time:00:00.18 | Mem:18.71M, Peak:26.72M | Scene, ViewLayer | Updating Mesh | Computing normals
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:18.71M, Peak:26.72M | Scene, ViewLayer | Updating Mesh | Copying Mesh to device
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.29M, Peak:28.29M | Scene, ViewLayer | Updating Objects Flags
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.29M, Peak:28.29M | Scene, ViewLayer | Updating Primitive Offsets
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.30M, Peak:28.30M | Scene, ViewLayer | Updating Images
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.30M, Peak:28.30M | Scene, ViewLayer | Updating Camera Volume
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.30M, Peak:28.30M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.38M, Peak:28.38M | Scene, ViewLayer | Updating Lights
+Fra:1 Mem:80.92M (Peak 116.42M) | Time:00:00.19 | Mem:28.38M, Peak:28.38M | Scene, ViewLayer | Updating Lights | Computing tree
+Fra:1 Mem:80.93M (Peak 116.42M) | Time:00:00.19 | Mem:28.39M, Peak:28.39M | Scene, ViewLayer | Updating Integrator
+Fra:1 Mem:80.93M (Peak 116.42M) | Time:00:00.19 | Mem:28.39M, Peak:28.39M | Scene, ViewLayer | Updating Film
+Fra:1 Mem:80.93M (Peak 116.42M) | Time:00:00.19 | Mem:28.30M, Peak:28.39M | Scene, ViewLayer | Updating Lookup Tables
+Fra:1 Mem:80.93M (Peak 116.42M) | Time:00:00.19 | Mem:28.39M, Peak:28.39M | Scene, ViewLayer | Updating Baking
+Fra:1 Mem:80.93M (Peak 116.42M) | Time:00:00.19 | Mem:28.39M, Peak:28.39M | Scene, ViewLayer | Updating Device | Writing constant memory
+Fra:1 Mem:80.95M (Peak 116.42M) | Time:00:00.19 | Mem:28.39M, Peak:28.39M | Scene, ViewLayer | Sample 0/128
+Fra:1 Mem:94.47M (Peak 116.42M) | Time:00:00.25 | Remaining:00:08.37 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 1/128
+Fra:1 Mem:94.47M (Peak 116.42M) | Time:00:03.40 | Remaining:00:03.20 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 64/128
+Fra:1 Mem:94.47M (Peak 116.42M) | Time:00:03.99 | Remaining:00:02.27 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 80/128
+Fra:1 Mem:94.47M (Peak 116.42M) | Time:00:04.50 | Remaining:00:01.43 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 96/128
+Fra:1 Mem:94.47M (Peak 116.42M) | Time:00:04.95 | Remaining:00:00.68 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 112/128
+Fra:1 Mem:100.47M (Peak 116.42M) | Time:00:05.38 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Sample 128/128
+Fra:1 Mem:100.47M (Peak 116.42M) | Time:00:05.38 | Mem:41.89M, Peak:41.89M | Scene, ViewLayer | Finished
+Saved: '/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/vector_metalrelief_20261018_182900_UTC+08/structure-preview.png'
+Time: 00:05.42 (Saving: 00:00.03)
+
+Info: Saved "gold-frame-native.blend"
+
+Blender quit

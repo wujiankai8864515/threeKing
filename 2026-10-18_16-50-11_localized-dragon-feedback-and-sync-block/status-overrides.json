@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-18T16:50:11.984212+08:00",
+  "type": "status_only",
+  "new_binary_assets": [],
+  "bronze_v5": "overall accepted direction, dragon-only refinement required; not full final approval",
+  "gold_v6": "dragon head/horns revision required; other content retained",
+  "latest_local_commit": "fb511659ef59d0d4e580b1b3cf4ad2100e597f64",
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "latest_push": "Failed again due tool network policy github443 after ordinary-route read-only connectivity recheck. HTTP200 alone did not authorize/establish push availability.",
+  "next_push": "No further retry without changed permission/access conditions.",
+  "current_delta": "local only; not committed or pushed by this worker"
+}

@@ -1,0 +1,126 @@
+{
+  "updated_at": "2026-10-18T18:15:25.479384+08:00",
+  "scope": "six non-black-iron material candidates; full-image and native100 crop visual audit",
+  "black_iron": {
+    "path": "qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+    "sha256": "fb12c9c31d6ef127c25ad04def224446eae72a703b280139ea433eddf9f1bcc0",
+    "matches_original_manifest": true
+  },
+  "items": [
+    {
+      "name": "青铜",
+      "source": "pure/bronze-v8-frame-safe-depth-20261018_172023.png",
+      "candidate": "material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "39018f50204cc353cc1aca22f383312c3cff6d2533bcf4e1a9b3f8509f83151e",
+      "candidate_sha256": "756e8a78b4f32577e24ef33467ca2b76c0b98d430f5b743ba54f24a4c1377816",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    },
+    {
+      "name": "白银",
+      "source": "silver-natural-depth_20261018_171734_UTC+08/silver-blank-plaque-pure.png",
+      "candidate": "material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "fc76a81303c53f943ce0d762fd5ad950f3b8794176712111b553574683b96b44",
+      "candidate_sha256": "bbdf4baf63e08e845d2ce8ce72438fb824a604c25fed96865464b64dc79bd8ed",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    },
+    {
+      "name": "黄金",
+      "source": "materialrepair_20261018_180108_UTC+08/gold-materialrepair-20261018_180316.png",
+      "candidate": "materialrepair_20261018_180108_UTC+08/gold-horse-surface-repair-20261018_180829.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "32e9b063ef2ec7291d759ada90db9833545fec50f1b65d9b4a2532367613ba8c",
+      "candidate_sha256": "645b7b6978dde8cad260650f57566b9157bb89188edd0b95f1ca7cfb1dd473ba",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    },
+    {
+      "name": "桃园",
+      "source": "pure/story-taoyuan-frontclear-20261018_174122.png",
+      "candidate": "materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "source_sha256": "1473e780548af3b0f2bfd3a0cd97b2c08afd68ec9ea6e89bc0d52ae7493887cf",
+      "candidate_sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    },
+    {
+      "name": "温酒",
+      "source": "weaponrepair_20261018_174725_UTC+08/温酒请战-v9-长柄修复候选.png",
+      "candidate": "materialclean_20261018_180135_UTC+08/温酒请战-v10-分材质清理候选.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "source_sha256": "815ab031a47a7e16f63d3755d3fe305bab950d964c986b797f08b27a37191c63",
+      "candidate_sha256": "fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    },
+    {
+      "name": "护行",
+      "source": "materialcleanup_20261018_175410_UTC+08/护行-材质清理试样.png",
+      "candidate": "materialrepair_20261018_180108_UTC+08/huxing-materialrepair-20261018_180553.png",
+      "source_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "source_sha256": "c523b236bebf02156a3acf514070a49b1fe27cf93f5c93d5c34fe70324d65a2e",
+      "candidate_sha256": "08ba475082f70f310954d3da5b44e2c4a81cf8cad5b1cce6b3b56d3bf2692800",
+      "independent_qa": "passed_candidate_gate_pending_user_style_acceptance",
+      "higher_native_resolution": false
+    }
+  ],
+  "final_ui_assembly": {
+    "directory": "ui_material_clean_20261018_181010_UTC+08",
+    "full_ui_images_visually_checked": [
+      "bronze",
+      "silver",
+      "gold"
+    ],
+    "silver_plaque": "汜水關 restored and readable",
+    "gold_flag": "刘 restored and inside flag",
+    "uncovered_pixel_check": "zero differences recorded in composition manifest for all four cards",
+    "black_final": "exactly unchanged per layer verification; pure source SHA independently unchanged",
+    "status": "delivered_candidate_pending_user_acceptance"
+  }
+}

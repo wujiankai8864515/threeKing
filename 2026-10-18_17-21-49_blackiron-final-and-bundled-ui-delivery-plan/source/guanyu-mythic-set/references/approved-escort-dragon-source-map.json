@@ -1,0 +1,11 @@
+{
+  "source": "guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/03-千里护行.png",
+  "crop": "guanyu-mythic-set/references/approved-escort-dragon-reference_20261018_170955_UTC+08.png",
+  "bounds_xyxy": [
+    240,
+    0,
+    1536,
+    365
+  ],
+  "status": "user approved dragon frozen; future dragon reference only; not generation input for face edit"
+}

@@ -1,0 +1,24 @@
+{
+  "version": "bronze-hierarchy-20261018_170302",
+  "saved_at_beijing": "2026-10-18T17:03:02.875661+08:00",
+  "timezone": "UTC+08:00",
+  "method": "one built-in image_gen hierarchy-only edit",
+  "edit_target": "./guanyu-mythic-set/pure/bronze-v7-cloud-longshaft-20261018_165911.png",
+  "generated_source": "./generated_images/exec-6bd49ed9-03ef-4c7e-b94e-1af4467f7aab.png",
+  "output_image": "./guanyu-mythic-set/pure/bronze-hierarchy-20261018_170302.png",
+  "prompt_file": "./guanyu-mythic-set/pure/bronze-hierarchy-20261018_170302.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "07d3c4268f73a175d5ecf69326f7fda51399020aad40ca32dfefcf7743ca9586",
+  "status": "candidate_pending_parent_hierarchy_review",
+  "visual_review": {
+    "method": "Source and result viewed using view_image.",
+    "focal_hierarchy": "Guan Yu face/eyes, main armor and guandao now dominate selective sharpness and effective contrast; his horse remains part of same clear subject.",
+    "preserved": "Long rear pole shaft, grip spacing, blade, three-rider arrangement, ghost dragon head and cloud-hidden body, main poses and clothing, Yellow Turban chase and peach blossoms visually retained.",
+    "supporting_figures": "Liu Bei, Zhang Fei, their horses and Yellow Turban figures remain identifiable by position, silhouettes and costume but have markedly softer facial detail.",
+    "caution": "Selective depth of field is strong on supporting riders and enemies rather than merely a slight tonal adjustment; parent should judge whether this strength meets ensemble readability.",
+    "scope": "Only one candidate generated; no layout or design iteration, no frame changes."
+  }
+}

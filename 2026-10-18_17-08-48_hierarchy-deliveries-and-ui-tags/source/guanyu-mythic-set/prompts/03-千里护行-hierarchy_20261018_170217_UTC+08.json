@@ -1,0 +1,10 @@
+{
+  "name": "03-千里护行-hierarchy_20261018_170217_UTC+08",
+  "prompt": "Postproduction visual hierarchy edit ONLY, keep every identity, face/expression, pose, anatomy, clothing, armor, shoulder-carried straight guandao, horse, wagon, flag, escort, gates, pavilion/box/seal and placement EXACTLY unchanged. Keep landscape1536x1024. Guan Yu face/eyes/beard/armor/weapon and Red Hare must have highest effective local contrast and clearest crisp rendering, no oversharpening or artificial texture. The background currently competes: moderately lower contrast, saturation, microtexture and edge sharpness of distant landscape, gates, road, escort family wagon and guards, departure pavilion and gold box/hanging seal. Add tasteful atmospheric depth and selective softening only in secondary planes, without losing recognizability or turning surroundings into blur. The giant cloud-veiled green dragon stays SAME beautiful shape, position and cloud concealment but lower its local contrast and edge hardness a little so hero and horse stand out first. Preserve subtle green hue and impressive dragon expression, do not redesign or erase. Keep family wagon and protective escorts readable. Leave red flag BLANK, no writing added. No changes to main faces, structure, composition, lighting direction, palettes or story. Preserve all rigid pole geometry and shoulder support/hand grip. Not global blur, not new painting, only controlled main-versus-background hierarchy. No text/frame.",
+  "source": "generated_images/exec-4ccde4dd-5135-4037-b90d-837eb4581ee4.png",
+  "qa": "实看人物马刀清晰高对比，云龙远景/车队古道关隘柔化降密仍可辨。空旗保持，人物脸姿势甲马及直杆肩承关系保持。",
+  "output": "stories/03-千里护行-hierarchy_20261018_170217_UTC+08.png",
+  "tool": "builtin image_gen",
+  "resolution": "1536x1024",
+  "status": "pending root QA"
+}

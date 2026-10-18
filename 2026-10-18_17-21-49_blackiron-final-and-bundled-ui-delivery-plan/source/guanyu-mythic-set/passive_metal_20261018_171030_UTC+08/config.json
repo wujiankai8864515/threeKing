@@ -1,0 +1,28 @@
+{
+  "status": "visual mockup only; names and levels not final",
+  "skills": [
+    {
+      "name": "蓄势",
+      "level": 2
+    },
+    {
+      "name": "斩将",
+      "level": 2
+    },
+    {
+      "name": "武圣",
+      "level": 2
+    }
+  ],
+  "supports": "1–4 character name, separate numeric level, variable skill count",
+  "bounds": [
+    665,
+    1018,
+    277,
+    76
+  ],
+  "vertical_step": 91,
+  "rejected_v1": "../passive_tags_20261018_170340_UTC+08/",
+  "base": "./guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/04-黄金·护行拖刀.png",
+  "material": "layered bevels with restrained approved-frame gold texture"
+}

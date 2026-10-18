@@ -1,0 +1,23 @@
+{
+  "status-overrides.json": "daff566a901309e06ea360dd25ed171f330af92b7a49f6cfc6b4281e2cee9171",
+  "FEEDBACK-LOG.json": "725dd4f320117da16c31f3e967d96916c1ea35c7ad9dd548fb600ca9df3314cc",
+  "SOP-ADDENDUM.md": "62c3ccddb206383f96313921f8c2f71be34c2937bb1c144e6d80e8cf7e1a7b6c",
+  "asset-index.json": "7d09ba26996f9f84043080774f60be74ab82318ee9b656f9df644fe95a8495ea",
+  "restore-all.py": "f77179ca5967221af1599c580637d679254ec82b31be7c18dd9b01f2ce0baf56",
+  "README.md": "983f96e2331abdc9a5670bef409021c6d6b4c2cc96be0f74eab027fb06b85264",
+  "source/guanyu-mythic-set/prompts/03-breaking-gate-superseded_20261018_165544_UTC+08.json": "06630a1a204fd6c60bded88a25910d964d3b24215afdcf10bf42e72324fb969d",
+  "source/guanyu-mythic-set/prompts/关羽斩华雄-v6-20261018_165354.json": "bb432a9fa9b2fa683da5f4d07cb44b013ffa8a5b373db419561b75ed669bd9c4",
+  "source/guanyu-mythic-set/prompts/03-千里护行-candidatev3_20261018_165544_UTC+08.json": "f2dff3bd1947e6229bc506fbd5a2c2677e2a35066fabc39f96ca28133c9b0dcd",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/compose.py": "037d7b81ec262b973805eae903c9068d5ad59b2e1f14140a072fd5cb3a99ab99",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-request.json": "65bae2a9e1d442524bd2755773e68211f7db8c58b5124fb7c284d85e5d3ececc",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-results.json": "1a0eb7b0979f4489dd40dffbf43103fd0d619450360c4e09b747575898d7e46b",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/manifest.json": "99070344c32d6be537a0ad75f805223d4b81c21b13f8f5807f2373d6c29be4ed",
+  "source/guanyu-mythic-set/rejected/story-qualityv2-status.json": "acf646da074b27f6e6414ae4a3b2bbff5ece03659e5d7645eb20df44e78ec30d",
+  "assets/sha256/ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623.png": "ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623",
+  "assets/sha256/4a80c59d67b977050b26dd0dccbc981d902fe7fd433fe1b710512f626a1933a5.png": "4a80c59d67b977050b26dd0dccbc981d902fe7fd433fe1b710512f626a1933a5",
+  "assets/sha256/c68a501f3b183cbd35c3ebb49fe447033347de35d94e03a44aeb9fdc80417e4e.png": "c68a501f3b183cbd35c3ebb49fe447033347de35d94e03a44aeb9fdc80417e4e",
+  "assets/sha256/5eddb21c24c0f8e3a42a8f779d3fcb59591488ff3cdc41ecdeffc836d8c3c32d.png": "5eddb21c24c0f8e3a42a8f779d3fcb59591488ff3cdc41ecdeffc836d8c3c32d",
+  "assets/sha256/606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02.png": "606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02",
+  "assets/sha256/cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b.png": "cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b",
+  "assets/sha256/05b985db63e4d0d77682b4eca86c12b15d20f010886daafb301c91756fc681d1.png": "05b985db63e4d0d77682b4eca86c12b15d20f010886daafb301c91756fc681d1"
+}

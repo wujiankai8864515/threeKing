@@ -1,0 +1,26 @@
+{
+  "version": "bronze-v8-cloudspirit-depth-20261018_171345",
+  "saved_at_beijing": "2026-10-18T17:13:45.872015+08:00",
+  "timezone": "UTC+08:00",
+  "method": "One built-in image_gen localized dragon and depth edit with direct cloud-spirit reference",
+  "edit_target": "./guanyu-mythic-set/pure/bronze-hierarchy-20261018_170302.png",
+  "dragon_cloud_reference": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/03-千里护行.png",
+  "generated_source": "./generated_images/exec-dd2371f5-f822-418f-b7c2-80eee55da535.png",
+  "output_image": "./guanyu-mythic-set/pure/bronze-v8-cloudspirit-depth-20261018_171345.png",
+  "prompt_file": "./guanyu-mythic-set/pure/bronze-v8-cloudspirit-depth-20261018_171345.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "a59cf2e856ac9a8f3dbf1a312d8b3fee43c0efcccef498051c93fed587b1e44a",
+  "status": "candidate_pending_parent_depth_and_frame_review",
+  "visual_review": {
+    "method": "Target, reference and result actually viewed with view_image.",
+    "dragon_structure": "More imposing Eastern dragon with broad noble head, branching long antlers, layered mane and strong muzzle closely related to the supplied escort-story reference. Larger ghost-spirit presence rather than small petlike head.",
+    "dragon_visibility": "Low-contrast translucent grass/forest green, substantially fainter than solid silver/gold dragons; body is interrupted and hidden by multiple natural clouds, no clean long snake loop.",
+    "foreground_preservation": "Guan Yu identity, exact riding pose, clothing, horse and long extended straight shaft/blade/grips preserved visually; three-rider chase, mud, peach blossoms and Yellow Turbans unchanged in arrangement.",
+    "depth": "Main Guan Yu/horse/weapon clearly sharpest. Far Liu Bei/Zhang Fei remain visibly soft and lower contrast. Closest Yellow Turban is also quite soft; strict near-enemy sharper than all farther riders is not decisively demonstrated visually.",
+    "frame_caution": "New dragon is substantially larger and shifted toward right sky; nose near x965, whiskers near edge, highest long horn tips reach top edge. Parent must inspect frozen-frame visibility; not claiming full frame-safe pass.",
+    "scope": "Exactly one candidate generated as requested. Gold and silver untouched; no uploads."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "status-overrides.json": "2a90c4883b6702043ec901a49763098e7814c6aa4396cb26a431fa95916934d6",
+  "FEEDBACK-LOG.json": "053055fa795480e79ab11ed0bab450177684e121ee07b608509fd278e804abe9",
+  "asset-index.json": "14bdc26c5547fc66b113843ecdf043792c3809b10e4fb5f5c0f1df502a70a73f",
+  "restore-all.py": "f77179ca5967221af1599c580637d679254ec82b31be7c18dd9b01f2ce0baf56",
+  "README.md": "7e15883f93f298c917d2f1eb07aac0c717a69bce48f4e409c3bc08dbbc44f5d2",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/compose.py": "0785763206a29d0480be52e3d1e72fd582a95b217ea3f8f50212c83b158a3e52",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-request.json": "272010883c55785026fdaeb16170f9ec25b6438f223782880560cf6516c57114",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-results.json": "5478279c0edf8e8f8e3dd01562a90123aecebb84fd3c864187527ec85a3359c2",
+  "source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/manifest.json": "82095c56d299a2473780d459ec81706e8098581105675ca1aa17b66db9d490f4",
+  "source/guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.prompt.txt": "e81492759e3122543a97f38592d0dfaf629be378e09e96d52788659771019434",
+  "source/guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.pending-review.json": "54e00b7ea8abcde8dc9efc650d1b63dd91922d566b6af00521265feaa82eaffa",
+  "assets/sha256/188e96453528e3624b816fbfc6b5c19dee8b04fe04179b2d7f8bbd7ee68ac2d1.png": "188e96453528e3624b816fbfc6b5c19dee8b04fe04179b2d7f8bbd7ee68ac2d1",
+  "assets/sha256/da00676059d52fd0987582f87b64e37a962fcb687b73a76d966a29e4be3ee123.png": "da00676059d52fd0987582f87b64e37a962fcb687b73a76d966a29e4be3ee123",
+  "assets/sha256/532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a.png": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a"
+}

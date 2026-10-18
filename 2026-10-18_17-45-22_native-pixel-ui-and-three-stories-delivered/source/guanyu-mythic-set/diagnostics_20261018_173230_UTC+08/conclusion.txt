@@ -1,0 +1,9 @@
+Read-only diagnosis, 2026-10-18 UTC+08. No original asset modified or uploaded.
+All four final pure images: 1024x1536. All blank framed cards: 1024x1536. All complete UI files: 1024x1536. Separate thumbnails: 480x720.
+Art inserted into frame: one LANCZOS resize to 881x1321, offset (72,125). Scale x=86.035%, y=86.003%, area=73.993%. Thus small faces/details have fewer effective pixels despite same full-canvas resolution.
+Art mask at face regions is 255, no translucency wash. Frame composition adds no background blur. All uncovered card pixels exactly match resized source (gold checked after its authorized flag layer).
+UI script supersamples UI layers at 3x and downsamples those layers only. Base framed card is not resized in complete UI composition. Exhaustive pixel comparison on overlay-alpha-zero regions yields ZERO changed pixels for each card. Hence complete UI does not soften uncovered characters, horses or dragons.
+The 480x720 files are separate thumbnails. Upload request specifies full-size complete UI files, not these thumbnails. Client-side display scaling cannot be determined from local files.
+100% source/corresponding card crops inspected: bronze and gold horse muzzle/mane/tack show soft/fused rendering already in pure source; gold face and armor micro-edges also smooth. Silver face is comparatively clear. Bronze dragon deliberately cloud-veiled/low contrast; silver and gold dragon scales remain relatively legible. Cannot attribute all softness to UI or prove a particular prior editing operation caused it.
+One 14% linear downsample further reduces fine eye/beard/tack detail, but does not explain all existing painterly softness. No further generation or editing authorized/performed by this diagnosis.
+Evidence: evidence.json, check.py, individual 100%-pixel crops in this directory. Gold raw discrepancy 587 pixels was exactly the independent flag text; including same flag layer reduces discrepancy to zero.

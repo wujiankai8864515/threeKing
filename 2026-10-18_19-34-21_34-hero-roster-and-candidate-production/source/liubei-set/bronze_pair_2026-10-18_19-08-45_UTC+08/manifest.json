@@ -1,0 +1,127 @@
+{
+  "hero": "刘备",
+  "phase": "青铜卡与青铜解锁传记",
+  "updated": "2026-10-18T19:26:34.887592+08:00",
+  "source_brief": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-四卡三传记制作brief.md",
+  "formal_spec": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/2026-10-18_18-54-40_UTC+08/单英雄全素材制作与验收规范_v1.md",
+  "assets": [
+    {
+      "asset_id": "liubei_bronze_card_v1",
+      "type": "portrait_card",
+      "status": "frozen_root_and_independent_QA_passed",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+        "sha256": "87974332bce7a72a6ef8d21b19e4490468953572f3b5bc83260a28277cac2e56",
+        "native_size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB",
+        "format": "PNG"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+          "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "role": "Accepted Liu v2 identity and clean planar material; no seated craft composition"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+          "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "role": "Delivered Taoyuan v10 LEFT Liu identity only; no Guan/Zhang or oath composition"
+        }
+      ],
+      "prompt": "prompt-bronze-card.txt",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3110cbc9-9b1a-42ac-81f2-b16b15e0893b.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "creative_postprocessing": "none",
+      "resize_count": 0,
+      "crop_count_for_final_art": 0,
+      "delivery": {
+        "worker_upload": "none",
+        "external_delivery": "not_verified_by_this_worker"
+      },
+      "final_user_approval": "not_claimed"
+    },
+    {
+      "asset_id": "liubei_bronze_biography_v1",
+      "type": "landscape_biography",
+      "status": "frozen_root_and_independent_QA_passed",
+      "asset": {
+        "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+        "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+        "native_size": [
+          1536,
+          1024
+        ],
+        "mode": "RGB",
+        "format": "PNG"
+      },
+      "actual_inputs": [
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+          "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "role": "Accepted Liu v2 identity, ivory clothes and clean planar illustration"
+        },
+        {
+          "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+          "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+          "native_size": [
+            1536,
+            1024
+          ],
+          "mode": "RGB",
+          "format": "PNG",
+          "role": "Delivered Taoyuan v10 LEFT Liu, CENTER Guan, RIGHT Zhang identities/color cues; no oath pose/peach grove/altar/bowls"
+        }
+      ],
+      "prompt": "prompt-bronze-biography.txt",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-46ff730f-6119-403c-937a-1df8061f2dc9.png",
+      "generated_with": "builtin image_gen",
+      "candidate_count": 1,
+      "creative_postprocessing": "none",
+      "resize_count": 0,
+      "crop_count_for_final_art": 0,
+      "delivery": {
+        "library_file_id": "libfile_3be8db00c0a48191bf741ffc6da3875f",
+        "version": 0,
+        "storage_confirmed_by": "parent",
+        "user_message_delivery": "not_verified_by_this_worker"
+      },
+      "final_user_approval": "not_claimed"
+    }
+  ],
+  "qa_evidence": "qa-100pct",
+  "qa_crop_count": 22,
+  "qa_crops_native_unscaled": true,
+  "scope": "Exactly one built-in candidate per assigned asset; no silver/gold generation in this task",
+  "status": "frozen_root_and_independent_QA_passed",
+  "approval_evidence": {
+    "reported_by": "/root/generate_black_iron_guanyu",
+    "received_utc": "2026-10-18T11:26:13Z",
+    "message": "根与audit已准刘铜卡和城中调停，边篮可留，冻结候选。调停Library已存v0 libfile_3be8db00c0a48191bf741ffc6da3875f。"
+  },
+  "accepted_style_residuals": [
+    "Card nearest bottom stone edge softened",
+    "Biography lower-left foreground basket out of focus"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "method": "one built-in image_gen local edit, no API/no postprocessing",
+  "actual_referenced_image_paths": [
+    "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/张飞-黑铁-涿郡豪侠-首样1.png"
+  ],
+  "source": {
+    "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/张飞-黑铁-涿郡豪侠-首样1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cb91adbe4f22c6e2401fabbdf3d04c143ae45ca543abfd4fa25b798b4c24db76"
+  },
+  "output": {
+    "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3"
+  },
+  "original_identity_reference": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+  "scope": "Only faint tiger spirit and tidy intact black/red cloth; face/body/hands/shop locked; 酒 scene text explicitly retained",
+  "native_scale": "1024x1536 no upscaling",
+  "qa": {
+    "face": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/face-100pct.png",
+      "box": [
+        320,
+        105,
+        600,
+        390
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "hand-post": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/hand-post-100pct.png",
+      "box": [
+        50,
+        105,
+        245,
+        415
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "hand-bowl": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/hand-bowl-100pct.png",
+      "box": [
+        390,
+        500,
+        710,
+        680
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "clean-cloth": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/clean-cloth-100pct.png",
+      "box": [
+        220,
+        350,
+        640,
+        850
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "robe-hems": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/robe-hems-100pct.png",
+      "box": [
+        130,
+        790,
+        720,
+        1130
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "tiger": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/tiger-100pct.png",
+      "box": [
+        785,
+        0,
+        1024,
+        290
+      ],
+      "scale": "native 1:1 no resampling"
+    },
+    "shop-meat": {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/qa/shop-meat-100pct.png",
+      "box": [
+        630,
+        750,
+        1024,
+        1000
+      ],
+      "scale": "native 1:1 no resampling"
+    }
+  },
+  "prompt": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/local-prompt.txt",
+  "brief": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/四卡三传记-brief与reference职责-更新.md"
+}

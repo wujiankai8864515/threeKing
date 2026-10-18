@@ -1,0 +1,37 @@
+{
+  "status": "controlled six candidate editing authorized after sample review; no global regeneration",
+  "blackiron": "control FINAL v4 frozen all pixels",
+  "workers": {
+    "clean_bronze_silver_materials": [
+      "bronze",
+      "silver"
+    ],
+    "refine_gold_story_card": [
+      "gold face/material",
+      "escort sample refinement"
+    ],
+    "clean_peach_assembly_materials": [
+      "peach",
+      "assembly from v9 long shaft"
+    ]
+  },
+  "gates": [
+    "whole frame native100 compare",
+    "independent audit",
+    "root QA before Library",
+    "UI1190x1786 1:1 pure art with approved straight junction frame"
+  ],
+  "native_limits": {
+    "portrait": [
+      1024,
+      1536
+    ],
+    "landscape": [
+      1536,
+      1024
+    ]
+  },
+  "no_superresolution_claim": true,
+  "final_package": "4 UI cards plus3 stories",
+  "historical_approved_files": "preserved"
+}

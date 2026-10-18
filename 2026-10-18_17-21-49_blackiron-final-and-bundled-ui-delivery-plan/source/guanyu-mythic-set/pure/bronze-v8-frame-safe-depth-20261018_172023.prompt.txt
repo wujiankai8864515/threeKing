@@ -1,0 +1,14 @@
+Use case: precise-object-edit.
+Use this exact artwork as the EDIT TARGET. Two tightly localized corrections only, not a new composition.
+
+1. MOVE THE EXISTING CLOUD DRAGON INWARD TO FIT A FRAME
+The current dragon nose is at the far-right edge and long horns run out of the top. Keep this exact newly approved beautiful dragon face, skull, eyes, horns, mane, color, translucent ghostlike shading and cloud integration. Do not redesign it.
+Move the entire visible dragon apparition about 170 pixels LEFT within the upper sky and scale only the dragon to approximately 80–85% of its current size if needed to fit safely. Slightly lower it so all horn tips have at least 65 pixels of clear sky margin above them. The ENTIRE face, nose, open mouth and curled whiskers must end before x=850 in this 1024x1536 image, ideally nose around x=800; nothing important should project into the rightmost 17% of the sky. Place its main head in x=570..830, y=100..325. Keep the horns complete within the picture. This is a position/fit correction of the SAME dragon design, not a new dragon or a brighter manifestation.
+Restore the former far-right head location with matching blue sky and soft clouds. Keep most of the long dragon body hidden behind natural clouds, with no exposed continuous snake coil. Preserve the current low-contrast pure-green spectral look; no stronger glow, solid dragon or double head.
+Do not cover Guan Yu's head/face/headwear or either supporting rider. Do not move, resize or redraw any human or horse.
+
+2. TINY NEAR-VERSUS-FAR FOCUS CORRECTION
+Make the nearest Yellow Turban in the lower-right foreground modestly clearer than the far Liu Bei and Zhang Fei riders: recover a little of that SAME near enemy's existing eyes/nose/mouth, headwrap and clothing edge definition, while keeping him slightly soft and secondary to Guan Yu. Preserve his exact face identity and expression. Leave the far left riders softer and lower-contrast, with their identities still recognizable. No far figure should be sharper than this near enemy. Guan Yu, his armor, weapon and main horse remain by far the crispest focal subject. Do not increase sharpness everywhere and do not create new face features.
+
+FREEZE ALL OTHER PIXELS/GEOMETRY:
+Same three riders and every face identity, pose, costume, horse anatomy and placement; same newly lengthened straight guandao rear shaft, both hand grips, weapon axis, blade scale and shape; same peach blossoms, mud splashes, enemies, flags, landscape, light, crop and composition. Do not change the primary subject's scale or the chase story. No full-image reconstruction, no camera change, no frame/border/stars, no text, no labels, no logo, no watermark.

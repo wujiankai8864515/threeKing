@@ -1,0 +1,57 @@
+{
+  "timestamp": "20261018_180108",
+  "sources": {
+    "gold-source": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+    "gold-face-reference": "./guanyu-mythic-set/pure/gold-rear-dragging-20261018_160800.png",
+    "huxing-source": "./guanyu-mythic-set/pure/story-huxing-frontclear-20261018_173541.png",
+    "huxing-sample": "./guanyu-mythic-set/materialcleanup_20261018_175410_UTC+08/护行-材质清理试样.png"
+  },
+  "crop_boxes": {
+    "gold": {
+      "face": [
+        535,
+        170,
+        665,
+        355
+      ],
+      "blade": [
+        0,
+        630,
+        440,
+        1120
+      ],
+      "horse": [
+        430,
+        550,
+        820,
+        1000
+      ]
+    },
+    "huxing": {
+      "face": [
+        590,
+        150,
+        745,
+        340
+      ],
+      "blade": [
+        110,
+        75,
+        470,
+        255
+      ],
+      "horse": [
+        670,
+        350,
+        1020,
+        905
+      ],
+      "cloth": [
+        170,
+        295,
+        615,
+        580
+      ]
+    }
+  }
+}

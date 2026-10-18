@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "original_path": "guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-温酒请战.png",
+      "sha256": "50238507ef1b4fb66a48e24a3a367cdff591263628dd3630a618a5a7f2f66fac",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:06:06.248670Z",
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000033a4820dbac9eca3ee49141c",
+        "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+        "file_name": "02-温酒请战.png",
+        "local_metadata_applied": true,
+        "path": "/02-温酒请战.png",
+        "current_version_number": 6
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-青铜·三骑追黄巾.png",
+      "sha256": "deb48dd609a7ca57b25ae5bb5efc8f6e4a3853ba47e3f268ba94d04e77dbc0ee",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:06:06.248670Z",
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000004ba8820d81173274caf0ee64",
+        "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+        "file_name": "02-青铜·三骑追黄巾.png",
+        "local_metadata_applied": true,
+        "path": "/02-青铜·三骑追黄巾.png",
+        "current_version_number": 7
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/passive_tags_20261018_170340_UTC+08/关羽-黄金-被动技能上卡预览.png",
+      "sha256": "278659198e0c5abfe7d01769cae9626fedbff4584441a83b408a7f39b575522d",
+      "status": "delivered_ui_candidate_pending_review",
+      "delivered_at": "2026-10-18T09:05:39.255294Z",
+      "library_receipt": {
+        "library_file_id": "libfile_9cde671bbad08191b7ce7f59a234cfdc",
+        "file_id": "file_0000000063208230b56bbef54abc4402",
+        "current_version_number": 1,
+        "status": "succeeded"
+      }
+    }
+  ],
+  "recorded_at": "2026-10-18T17:08:48.331176+08:00"
+}

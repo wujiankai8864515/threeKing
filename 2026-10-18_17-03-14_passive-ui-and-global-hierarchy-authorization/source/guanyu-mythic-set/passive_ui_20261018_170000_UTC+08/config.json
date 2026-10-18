@@ -1,0 +1,13 @@
+{
+  "status": "UI mockup only; skill name is example, not final gameplay data",
+  "skill_name": "蓄势",
+  "type": "被动",
+  "canvas": [
+    1024,
+    1536
+  ],
+  "overlay": "passive-overlay.png",
+  "base": "./guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/04-黄金·护行拖刀.png",
+  "base_sha256": "cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b",
+  "placement": "bottom center; independent overlay, original base unchanged"
+}

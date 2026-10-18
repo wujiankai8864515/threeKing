@@ -1,0 +1,12 @@
+{
+  "prompt": "Precise FACE IDENTITY correction only. Image1 is the EDIT TARGET approved landscape escort illustration. Image2 gold card and Image3 silver card are ONLY identity references for the SAME mature Guan Yu face. Do not copy any other content from references2/3. In target1 the hero face is too narrow/slender, eyebrows too mild, nose/mouth finer than the approved reference person. Correct ONLY his facial features inside the existing head silhouette: match the reference mature broad cheekbone/jaw volume, thick sharply rising dark brows over narrow phoenix eyes, robust straight nose bridge and broader nasal volume, firm fuller mouth and dense mustache/beard roots. Preserve his existing calm dignified expression (not battle anger), same head angle and gaze, exact headwrap and long beard silhouette/length/flow, no young face, no head enlargement. It should read unmistakably the same mature powerful man as images2/3 under the story's existing lighting. ALL else in image1 is FROZEN: the beautiful cloud-veiled dragon head horns body scales and translucency MUST stay identical pixel placement and design, no dragon edits at all; preserve horse, armor, clothes, hands, shoulder-supported perfectly straight weapon, pose, reins, banner with simplified 刘 character, wagon/escort, distant gates, clouds, colors and hierarchy. No camera or layout changes. No beautification or photorealism, maintain illustrated sculptural facial forms. Edit only face identity; no other alterations. Same1536x1024.",
+  "tool": "builtin image_gen",
+  "output": "stories/03-千里护行-faceidentity_20261018_171131_UTC+08.png",
+  "sources": [
+    "hierarchy_20261018_170210_UTC+08/03-千里护行.png",
+    "pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+    "pure/silver-qualityrevision-20261018_164052.png"
+  ],
+  "status": "pending root face identity review",
+  "qa": "亲自view三输入与输出及脸crop。主构图、龙形马扛刀旗车保持；眉眼鼻口细调，幅度偏克制，未宣称严格身份一致。用户冻结龙原图crop与source map另存references。"
+}

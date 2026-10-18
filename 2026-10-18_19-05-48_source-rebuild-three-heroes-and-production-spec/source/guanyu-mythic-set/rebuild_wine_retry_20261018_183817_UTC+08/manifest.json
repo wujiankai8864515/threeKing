@@ -1,0 +1,30 @@
+{
+  "actual_image_inputs": [
+    "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/温酒请战-v11-神话拖刀源重绘候选.png"
+  ],
+  "source_sha256": "7c04e779684a4934a3f91ede6738c01755d0c120f31e2ffc1aa434833c2fded3",
+  "input_role": "identity, fantasy armor/tack design, horse, cast/story; exclude failed weapon geometry and old ground rendering",
+  "candidate": "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/温酒请战-v12-中段握持后拖源重绘候选.png",
+  "candidate_sha256": "436a2bfc35a48b1f728394aeaa9f18e04e8b9168d88fe70eef2889a322895ae1",
+  "generated_original": "./generated_images/exec-97ff4b96-2511-41d6-b0ae-d2d0c625b767.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "mode": "builtin image_gen fresh composition retry",
+  "candidates_generated": 1,
+  "super_resolution": false,
+  "status": "candidate with unresolved tail endpoint and near-rock focus concerns; independent QA pending; no upload",
+  "qa_crops": [
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/face-armor.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/face-identity-comparison.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/front-rock-grass.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/full-weapon-axis.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/grip-tail-rein-contact.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/ground-path.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/horse-anatomy.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/support-cast-comparison.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/supporting-cast.png",
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/qa-100pct/weapon-arm.png"
+  ]
+}

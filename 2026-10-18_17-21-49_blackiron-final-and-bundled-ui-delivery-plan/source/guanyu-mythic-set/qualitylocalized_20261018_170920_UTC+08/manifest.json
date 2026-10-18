@@ -1,0 +1,10 @@
+{
+  "status": "root QA passed, user review pending",
+  "source": "../hierarchy_20261018_170210_UTC+08/blackiron-pure.png",
+  "changes": "mungbeans only saturation specular granular sharpness reduced, no design changes",
+  "tool": "builtin imagegen",
+  "pixels": [
+    1024,
+    1536
+  ]
+}

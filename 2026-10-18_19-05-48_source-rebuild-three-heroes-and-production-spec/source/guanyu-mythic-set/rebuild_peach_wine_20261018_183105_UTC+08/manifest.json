@@ -1,0 +1,57 @@
+[
+  {
+    "story": "taoyuan",
+    "actual_image_inputs": [
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+    ],
+    "input_role": "identity, costume/design, story and macro-layout only; exclude surface rendering; wine also excludes upward weapon pose",
+    "source_sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+    "candidate": "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+    "candidate_sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+    "generated_original": "./generated_images/exec-2f294f98-0b1a-4f58-9bee-ec238f771462.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "builtin image_gen fresh rendering from source design",
+    "candidates_generated": 1,
+    "super_resolution": false,
+    "status": "independent QA passed with sparse bark edge-light style risk; pending root decision; no upload",
+    "qa_crops": [
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-bark-trunk.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-guan-face-hand.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-liu-face-hand.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-root-stone-grass.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-stone-metal-cloth.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/taoyuan-zhang-face-hand.png"
+    ]
+  },
+  {
+    "story": "wine",
+    "actual_image_inputs": [
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/温酒请战-v10-分材质清理候选.png"
+    ],
+    "input_role": "identity, costume/design, story and macro-layout only; exclude surface rendering; wine also excludes upward weapon pose",
+    "source_sha256": "fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f",
+    "candidate": "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/温酒请战-v11-神话拖刀源重绘候选.png",
+    "candidate_sha256": "7c04e779684a4934a3f91ede6738c01755d0c120f31e2ffc1aa434833c2fded3",
+    "generated_original": "./generated_images/exec-dc4d7a0e-d0d9-4dc5-a2c6-c38ce47dfef6.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "builtin image_gen fresh rendering from source design",
+    "candidates_generated": 1,
+    "super_resolution": false,
+    "status": "worker and independent QA rejected; no upload",
+    "qa_crops": [
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-cloth.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-ground-stone-grass.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-guan-face-reinhand.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-horse.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-liu-zhang-cao.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-new-full-blade-shaft-hand.png",
+      "./guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/qa-100pct/wine-weapon-arm.png"
+    ]
+  }
+]

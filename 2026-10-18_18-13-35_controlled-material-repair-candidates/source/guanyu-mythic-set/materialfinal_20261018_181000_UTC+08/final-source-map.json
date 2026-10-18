@@ -1,0 +1,54 @@
+{
+  "status": "independentQA and rootQA passed candidates pending user review",
+  "blackiron": "unchanged FINAL control",
+  "sources": {
+    "blackiron": {
+      "path": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+      "sha256": "fb12c9c31d6ef127c25ad04def224446eae72a703b280139ea433eddf9f1bcc0"
+    },
+    "bronze": {
+      "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+      "sha256": "756e8a78b4f32577e24ef33467ca2b76c0b98d430f5b743ba54f24a4c1377816"
+    },
+    "silver": {
+      "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+      "sha256": "bbdf4baf63e08e845d2ce8ce72438fb824a604c25fed96865464b64dc79bd8ed"
+    },
+    "gold": {
+      "path": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/gold-horse-surface-repair-20261018_180829.png",
+      "sha256": "645b7b6978dde8cad260650f57566b9157bb89188edd0b95f1ca7cfb1dd473ba"
+    },
+    "peach": {
+      "path": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef"
+    },
+    "assembly": {
+      "path": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/温酒请战-v10-分材质清理候选.png",
+      "sha256": "fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f"
+    },
+    "escort": {
+      "path": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/huxing-materialrepair-20261018_180553.png",
+      "sha256": "08ba475082f70f310954d3da5b44e2c4a81cf8cad5b1cce6b3b56d3bf2692800"
+    }
+  },
+  "layers": {
+    "silver": "silver-natural-depth_20261018_171734_UTC+08/silver-transparent-lettering.png",
+    "gold": "revision_20261018_163130_UTC+08/刘旗独立字层.png"
+  },
+  "UI": "ui_material_clean_20261018_181010_UTC+08",
+  "stories": {
+    "peach": [
+      "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      5
+    ],
+    "assembly": [
+      "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      9
+    ],
+    "escort": [
+      "libfile_a7413186b4d4819198c2756c536786ff",
+      6
+    ]
+  },
+  "limitations": "portrait native1024x1536; landscape1536x1024; UI1190x1786 preserves1:1 source pixels; no superresolution. Fine details generatively reinterpreted, no perfect pixel lock claim."
+}

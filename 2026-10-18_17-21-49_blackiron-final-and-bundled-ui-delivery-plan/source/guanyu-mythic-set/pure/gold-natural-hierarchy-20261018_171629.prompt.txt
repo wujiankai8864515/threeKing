@@ -1,0 +1,18 @@
+Use case: precise-object-edit.
+Use this exact original approved GOLD version 7 artwork as the sole edit target. Make a SMALL, NATURAL PAINTERLY VALUE-HIERARCHY FINISHING PASS. This is not a blur/depth-of-field effect and not a redesign.
+
+PRIMARY READING GROUP:
+Guan Yu's exact face, eyes, body and armor; Red Hare's head, muscular body, tack and huge hoof; and the ornate dragging blade form ONE coherent primary group. Retain and subtly clarify the original crispness and believable local contrast within this group, especially the existing warm face and focused eyes. Preserve all facial geometry and identity, pose, gesture, proportions and material designs exactly. Do not invent or sharpen new details. Natural small improvements in face/armor separation are enough; no spotlight, glow halo, cutout look or new lighting direction.
+
+QUIET DISTRACTIONS USING VALUES, NOT BLUR:
+Gently compress the brightest scattered highlights on mud, dust, broken wood, distant road, tiny convoy details and bright cloud patches so they compete less with the primary group. Keep every fragment and material structure in the same place with readable edges. This is a slight reduction of bright speckle contrast, not loss of texture or smearing.
+Keep the three-dimensional route, gates, riders, wagon and flag legible. Let distance produce a continuous, naturally graduated reduction in saturation and contrast from near ground to far mountains. Preserve the original local edge information: nearby wood still reads as wood, near people still have defined features, remote gates still have architecture. Avoid applying one uniform treatment to the whole background.
+
+APPROVED DRAGON:
+Keep the exact praised Eastern dragon from this image: same head, antlers, mane, mouth, eyes, neck, thick body, placement, scale and silhouette. It remains rich pure green and visibly majestic. Only lightly control its brightest glowing fringes and near-white scale highlights so it supports the human focal group; maintain the solid sculpted dragon volume, scale detail and strong presence. Do not make it muddy, dull, flat, cloudy, faint, less imposing or a different shape. No new dragon design or horns.
+
+MANDATORY NATURALNESS:
+Do not introduce ANY new lens blur, bokeh, smeared/frosted-glass areas, edge blur rings, selective blur masks, halo transitions or fake depth-of-field. Do not blur the background. Preserve the original natural painted detail and sharpness pattern. Use only subtle coherent tonal/color hierarchy and continuous atmospheric perspective. No artificial vignette or sharpening artifacts. The finishing should feel inherent in the painting, not a filter laid on top.
+
+EVERYTHING ELSE IS FROZEN:
+Same mature Guan Yu face, clothing, armor, hands, rear-three-quarter riding/low-dragging pose; same rigid single polearm and blade design; same Red Hare anatomy, mane, hoof and tack; same rear-facing escort convoy direction, blank red flag awaiting independent 刘 overlay, defeated officer, gates, road, mud and splintered foreground; same crop and camera. Do not move, resize, reshape, add or remove any subject or object. No frame, border, stars, lettering, labels, logo or watermark.

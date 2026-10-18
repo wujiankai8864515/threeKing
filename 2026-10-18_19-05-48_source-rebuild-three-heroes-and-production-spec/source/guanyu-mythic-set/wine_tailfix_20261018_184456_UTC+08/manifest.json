@@ -1,0 +1,27 @@
+{
+  "actual_image_inputs": [
+    "./guanyu-mythic-set/rebuild_wine_retry_20261018_183817_UTC+08/温酒请战-v12-中段握持后拖源重绘候选.png"
+  ],
+  "source_sha256": "436a2bfc35a48b1f728394aeaa9f18e04e8b9168d88fe70eef2889a322895ae1",
+  "candidate": "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+  "candidate_sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+  "generated_original": "./generated_images/exec-93e46943-e632-46ca-836b-41bdb0e85f8e.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "mode": "builtin image_gen minimal upper-tail endpoint edit",
+  "candidates_generated": 1,
+  "super_resolution": false,
+  "authorized_change": "20–30 native pixel earlier termination of upper pole tail into independently visible cap with robe gap before belt; all other composition/materials preserved",
+  "status": "worker and independent QA passed; pending root/user acceptance; no upload",
+  "qa_crops": [
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/face-reinhand.png",
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/front-ground.png",
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/full-axis.png",
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/grip-arm.png",
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/horse.png",
+    "./guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/qa-100pct/tail-end.png"
+  ],
+  "independent_qa_agent": "/root/audit_image_quality_causes"
+}

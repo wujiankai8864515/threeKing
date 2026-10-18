@@ -1,0 +1,60 @@
+{
+  "status": "independent_material_QA_failed_candidate_hold_not_final",
+  "timezone": "UTC+08",
+  "generation_mode": "built-in image_gen, new drawing/rendering requested from current source macro-design; no API, no deterministic image filter",
+  "bound": "one generation per image",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "no_superresolution": true,
+  "uploaded": false,
+  "old_versions_preserved": true,
+  "crops": "Native 100% crops, no resizing; source and candidate counterparts in QA/",
+  "created_at": "2026-10-18T18:37:17+08:00",
+  "output": "./guanyu-mythic-set/rebuild_gold_black_20261018_183154_UTC+08/blackiron-mythic-source-rebuild-20261018_183717.png",
+  "prompt": "./guanyu-mythic-set/rebuild_gold_black_20261018_183154_UTC+08/blackiron-mythic-source-rebuild-20261018_183717.prompt.txt",
+  "generated_source": "./generated_images/exec-dd9eee69-747b-4081-9f8a-4f036c84012c.png",
+  "actual_image_inputs": [
+    {
+      "path": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+      "role": "Mature broad-face identity, pose, worn old green clothing, bean stall, people/hero scale, faint latent dragon and composition only; surface gold flecks excluded."
+    }
+  ],
+  "viewed_but_not_passed_as_image_input": [
+    {
+      "path": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png",
+      "reason": "Observed large-plane anime-mythic language; not sent for blackiron to avoid accidental high-tier armor/horse/dragon transfer. Material rules supplied in written prompt."
+    }
+  ],
+  "qa": {
+    "full_view_and_native_crops": true,
+    "regions": [
+      "face",
+      "scoop hand",
+      "stall-resting hand",
+      "worn robe",
+      "beans/sacks/wood/baskets",
+      "awning/bamboo/tree",
+      "gate and crowd"
+    ],
+    "structure": "Same mature broad-faced bearded man, upward far gaze while selling beans, original damaged green robe, both hand actions, human/scene ratio and faint sky dragon preserved. No armor/horse/weapon added, no high-tier divinization. No new visible hand hard defect.",
+    "materials_improved": "Robe/headwrap/awning have cleaner broader matte planes and less luminous fine fragmentation. Facial structure and beard remain clear, no new obvious swollen highlight.",
+    "material_failures_or_residuals": "Small yellow short marks still occur on stall wood, and some muted small marks remain on cloth. Burlap sack has dense regular weave detail. Beans retain attached rounded shading highlights. These require strict independent judgment; no claim that every point is removed or all residuals are harmless dirt.",
+    "decision": "Hold for root and independent material verdict; no unapproved retry."
+  },
+  "verified_pixels": [
+    1024,
+    1536
+  ],
+  "sha256": "44fd1dc0040de691a94290944675a9d5720e6cf0c23856d1523740d632383f06",
+  "independent_QA": {
+    "reviewer": "audit_image_quality_causes",
+    "recorded_at": "2026-10-18T18:40:42.432166+08:00",
+    "reported_to_root_and_lead": true,
+    "structure": "Face, both hands, beans/sacks structure pass.",
+    "material": "FAIL: isolated small yellow marks remain in dark-green right sleeve/headwrap/awning; bright short needle marks remain in dark wooden crates.",
+    "minimum_suggestion": "Only repaint those surfaces; retain old cloth patches, wood-grain-aligned structure and legitimate bean form highlights."
+  },
+  "additional_generation": "None; waiting for explicit root/lead authorization."
+}

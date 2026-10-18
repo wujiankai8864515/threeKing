@@ -1,0 +1,23 @@
+{
+  "recorded_at": "2026-10-18T19:34:21.738948+08:00",
+  "supersedes_status": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/status-overrides.json",
+  "scope": "34 heroes: Shu 8, Wei 10, Wu 8, Qun 8; four cards and three stories each; 8 bounded batches.",
+  "research": "Five next Shu heroes have full source briefs. Other 26 selected heroes retain individual-research-needed status; supplementary differentiation is not full per-hero production research.",
+  "guanyu": "Six current source candidates passed; gold tail remains failed. New frame/UI candidates saved, not newly delivered or final.",
+  "zhangfei": "Seven source candidates passed; UI coverage QA and user final acceptance remain pending.",
+  "liubei": "Seven source candidates passed; UI coverage QA and user final acceptance remain pending.",
+  "zhaoyun": "First identity sample generated and reviewed, style/direction decision pending; remaining six not expanded.",
+  "crop_rulings": [
+    "Zhang Fei bronze new horizontal spear may crop both ends.",
+    "Liu Bei Hanzhong may retain soft noncritical edge props.",
+    "Zhang Fei gold blade margin and Liu Bei gold dragon edge must be checked in final UI."
+  ],
+  "specification_delivery": {
+    "at": "2026-10-18T11:02:43Z",
+    "document_pages": 9,
+    "message_id": "Sentinel_4599815ab4108191902350bfbfb066f2",
+    "directory": "hero-production-spec/2026-10-18_18-54-40_UTC+08"
+  },
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "remote_status": "Only initial commit verified; later increments local. No network or authentication attempted in this capture."
+}

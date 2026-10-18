@@ -1,0 +1,26 @@
+{
+  "version": "bronze-v8-frame-safe-depth-20261018_172023",
+  "saved_at_beijing": "2026-10-18T17:20:23.338066+08:00",
+  "timezone": "UTC+08:00",
+  "method": "One built-in image_gen localized sky-dragon fit and near/far focus correction",
+  "edit_target": "./guanyu-mythic-set/pure/bronze-v8-cloudspirit-depth-20261018_171345.png",
+  "generated_source": "./generated_images/exec-a742de04-1ba9-4a15-9abb-e02d49b00aa7.png",
+  "output_image": "./guanyu-mythic-set/pure/bronze-v8-frame-safe-depth-20261018_172023.png",
+  "prompt_file": "./guanyu-mythic-set/pure/bronze-v8-frame-safe-depth-20261018_172023.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "39018f50204cc353cc1aca22f383312c3cff6d2533bcf4e1a9b3f8509f83151e",
+  "status": "worker_visual_pass_pending_parent_frozen_frame",
+  "visual_review": {
+    "method": "Input and result actually viewed with view_image.",
+    "dragon_fit": "Existing approved Eastern head/antler/mane form moved left and modestly reduced within sky; nose approximately x830, open mouth entirely left of x850, far whisker about x865-870 (<900), upper horn tips around y50 and fully visible.",
+    "cloud_spirit": "Low-contrast pure-green translucent spirit retained; thick body hints remain interrupted and mostly concealed by natural clouds. No new bright solid dragon or snake loop.",
+    "occlusion": "All rider faces and Guan Yu headwear remain unobscured.",
+    "depth": "Near lower-right Yellow Turban face, headwrap and cloth are now more readable than soft lower-contrast far Liu Bei and Zhang Fei. Guan Yu/armor/weapon/horse remain most sharply defined.",
+    "frozen_content": "Main face identity, riding pose, all costume/horse scale and placement, long rear pole axis, two grips, blade, peach branches, mud and chase arrangement visually preserved.",
+    "frame_caution": "Need parent to verify actual fixed-frame composition; landmark positions are visual estimates and not a segmentation measurement.",
+    "scope": "One directed edit only; gold and silver untouched; no uploads."
+  }
+}

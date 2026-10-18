@@ -1,0 +1,237 @@
+{
+  "created_timezone": "UTC+08",
+  "method": "built-in image_gen only; one fresh full-render candidate per illustration, no retouch or postprocess of final art",
+  "candidate_count_each": 1,
+  "source_scale": "Native 1024x1536, no upscaling. 1190-wide framing is a separate 1:1 layout operation.",
+  "guidance_spec": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/逐图重建规范-最新有效_20261018_182230_UTC+08.md",
+  "items": [
+    {
+      "kind": "bronze",
+      "actual_referenced_image_paths": [
+        "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+        "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png"
+      ],
+      "references": [
+        {
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+          "role": "Image 1: identity, macro design, pose, story, composition only; excluded old glitter/plastic materials and blur",
+          "size": [
+            1024,
+            1536
+          ],
+          "sha256": "756e8a78b4f32577e24ef33467ca2b76c0b98d430f5b743ba54f24a4c1377816"
+        },
+        {
+          "path": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png",
+          "role": "Image 2: clean anime mythic material and broad-plane rendering only; excluded story, characters, pose, macro design and its known bent shaft",
+          "size": [
+            1536,
+            1024
+          ],
+          "sha256": "c66ebfc2abbdd93c4cffc033acd2c32d44a82b8ca99925b852dc5046a7819408"
+        }
+      ],
+      "candidate": {
+        "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/青铜-神话材质源重生-候选1.png",
+        "role": "New full-render candidate, not approved final",
+        "size": [
+          1024,
+          1536
+        ],
+        "sha256": "26ffb52f2db46e2405bc9b1f3bc51720c2f5ed1c6bace338715959e360a334a9"
+      },
+      "prompt_file": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/bronze-fresh-mythic-prompt.txt",
+      "qa_crops": {
+        "face": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-face-100pct.png",
+          "box": [
+            480,
+            285,
+            715,
+            540
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "whole-shaft-grips-blade-root": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-whole-shaft-grips-blade-root-100pct.png",
+          "box": [
+            0,
+            280,
+            760,
+            730
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "blade-face-edge": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-blade-face-edge-100pct.png",
+          "box": [
+            595,
+            625,
+            1024,
+            890
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "horse-head-muscle": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-horse-head-muscle-100pct.png",
+          "box": [
+            390,
+            690,
+            790,
+            1070
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "horse-legs-mud": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-horse-legs-mud-100pct.png",
+          "box": [
+            200,
+            990,
+            670,
+            1330
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "cloth-armor": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-cloth-armor-100pct.png",
+          "box": [
+            180,
+            510,
+            570,
+            930
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "nearest-ground": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-nearest-ground-100pct.png",
+          "box": [
+            0,
+            1190,
+            560,
+            1536
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "tree-dragon": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/bronze-tree-dragon-100pct.png",
+          "box": [
+            0,
+            0,
+            560,
+            285
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        }
+      }
+    },
+    {
+      "kind": "silver",
+      "actual_referenced_image_paths": [
+        "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+        "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png"
+      ],
+      "references": [
+        {
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+          "role": "Image 1: identity, macro design, pose, story, composition only; excluded old glitter/plastic materials and blur",
+          "size": [
+            1024,
+            1536
+          ],
+          "sha256": "bbdf4baf63e08e845d2ce8ce72438fb824a604c25fed96865464b64dc79bd8ed"
+        },
+        {
+          "path": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png",
+          "role": "Image 2: clean anime mythic material and broad-plane rendering only; excluded story, characters, pose, macro design and its known bent shaft",
+          "size": [
+            1536,
+            1024
+          ],
+          "sha256": "c66ebfc2abbdd93c4cffc033acd2c32d44a82b8ca99925b852dc5046a7819408"
+        }
+      ],
+      "candidate": {
+        "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+        "role": "New full-render candidate, not approved final",
+        "size": [
+          1024,
+          1536
+        ],
+        "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117"
+      },
+      "prompt_file": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/silver-fresh-mythic-prompt.txt",
+      "qa_crops": {
+        "face": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-face-100pct.png",
+          "box": [
+            440,
+            340,
+            700,
+            620
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "whole-shaft-grips-blade-root": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-whole-shaft-grips-blade-root-100pct.png",
+          "box": [
+            130,
+            455,
+            735,
+            940
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "blade-face-edge": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-blade-face-edge-100pct.png",
+          "box": [
+            545,
+            740,
+            1024,
+            1170
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "cloth-armor": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-cloth-armor-100pct.png",
+          "box": [
+            120,
+            740,
+            520,
+            1180
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "nearest-ground": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-nearest-ground-100pct.png",
+          "box": [
+            0,
+            1215,
+            600,
+            1536
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "gate-plaque": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-gate-plaque-100pct.png",
+          "box": [
+            685,
+            425,
+            955,
+            695
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        },
+        "dragon": {
+          "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/qa/silver-dragon-100pct.png",
+          "box": [
+            370,
+            45,
+            850,
+            385
+          ],
+          "artwork_scale": "1 input pixel = 1 crop pixel; no resampling"
+        }
+      }
+    }
+  ]
+}

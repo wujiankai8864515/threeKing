@@ -1,0 +1,28 @@
+{
+  "title": "温酒请战",
+  "variant": "骑马出营",
+  "mode": "builtin imagegen new composition",
+  "prompt": "Create a NEW 1536x1024 landscape illustration with a completely NEW mounted-departure composition. IMAGE 1 is ONLY Guan Yu identity, mature handsome phoenix-eyed long-bearded face, silver-dark scale armor/green-white robes and jade ornate broad-bellied crescent glaive reference. IMAGE 2 is ONLY the approved beautiful emerald guardian dragon design and coalition camp narrative. Do NOT copy the standing pavilion composition or standing pose.\nStory: 温酒请战, Guan Yu RIDES OUT OF THE COALITION CAMP toward Sishui Pass to volunteer for battle, watched off by friends. Camera is ON THE SISHUI PASS SIDE of the road, looking BACK TOWARD THE COALITION CAMP. Guan Yu and horse walk TOWARD THE VIEWER FROM the distant camp, frontal or front three-quarter view. This is DEPARTURE before fighting, NOT return after victory. No enemy, battle, blood or severed heads.\nLarge foreground mounted Guan Yu dominates the image, clear full head and mature face with concentrated dignified resolve, high actual face pixel area, silver-rank armor and green flowing robe, not gold-rank redesign. He rides an ORDINARY DARK BROWN/BLACK WARHORSE, NOT Red Hare, no red/fire mane, no supernatural horse. Slow purposeful forward walking gait with convincing saddle seating, hips/legs aligned around horse, knees bent and boots in stirrups. Horse anatomy coherent four legs and proper neck/body attachments, natural perspective, not jumping. One hand naturally holds reins, other securely holds ONE rigid perfectly straight green pole with ONE ornate broad crescent glaive at rest, blade clear and not touching horse or ground. Two arms/hands, single head, naturally seated torso.\nBehind him, the road leads visibly INTO the large coalition encampment with eighteen-contingent banners, ranks of tents, organized soldiers and pavilion seats. On the road shoulder BEHIND the rider, smaller Liu Bei and Zhang Fei stand watching him leave: slim refined Liu in green/ivory commander armor; stocky broad leopard-faced, thick eyebrow round-eyed bushy-bearded Zhang in dark green heavy armor. A smaller navy-armored Cao Cao near them holds one steaming warm wine cup awaiting his return. All are BEHIND Guan Yu, NOT ahead as if welcoming him back. Exactly one each, not equal-size portrait heads.\nBeautiful PURE GREEN dragon from Image 2 protects him in the sky, same magnificent thick head, a few natural continuous portions of body cloud-hidden, no dense snake rings, no attacking people. Keep mythic dimensional manga style and designed heroic forms.\nNatural integrated depth: front rider, face, horse, glaive, reins and near road stones are SHARP and coherent. Shared sunlight direction/color temperature, warm reflected dust light and physically grounded hoof shadows. Middle-distance companions remain recognizable but lower contrast. Far tents/flags/armies gradually soften through atmosphere, NOT uniformly frosted blur. Scene and rider in one coherent space, no cutout hero. Guan face > armor/glaive/horse > guardian dragon > camp and companions. No UI, frame, stars or written text. Landscape native1536x1024; no resolution-upgrade claim.",
+  "references": {
+    "identity": "pure/silver-qualityrevision-20261018_164052.png",
+    "dragon": "naturalhierarchy_20261018_171620_UTC+08/02-温酒请战.png"
+  },
+  "output": "stories/02-温酒请战-骑马出营-20261018_173655.png",
+  "actual_native_dimensions": [
+    1536,
+    1024
+  ],
+  "status": "PENDING_ROOT_QA",
+  "superseded_standing_candidate": "generated_images/exec-a57229cd-f707-475c-aee8-2c48ab369b33.png",
+  "qa": {
+    "narrative": "Guan rides ordinary dark warhorse toward camera, coalition tents and Liu/Zhang/Cao watching from behind left; Cao raises wine. No battle/return trophies.",
+    "identity": "Silver face/green-white armor and ornate crescent maintained. One rein hand, one pole hand, two booted rider legs in stirrups. Pole single straight shaft.",
+    "space": "Sunlight and dust unified across rider/road/camp. Ground hoof contact shadows visible, midground companions readable, distant camp softer. Large foreground face 100% crop personally viewed.",
+    "caveats": [
+      "Face in 1536x1024 scene remains modest actual pixel area; 100% crop provided, no HD claim.",
+      "Closest lower-left rock is still softly defocused rather than entirely crisp.",
+      "Horse has three clearly exposed legs with fourth partly occluded; no obvious extra limb found.",
+      "Dragon still strong/high contrast relative to face; returned composition retained its grandeur."
+    ]
+  }
+}

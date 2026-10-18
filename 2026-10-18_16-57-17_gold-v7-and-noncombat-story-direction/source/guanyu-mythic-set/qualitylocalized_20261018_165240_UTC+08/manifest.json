@@ -1,0 +1,10 @@
+{
+  "timezone": "UTC+08",
+  "source": "../pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+  "status": "root QA passed, pending user acceptance",
+  "changes": "Dragon only; approved silver dragon as direct visual lineage; more massive head/neck. Frame and independent Liu flag retained.",
+  "pixels": [
+    1024,
+    1536
+  ]
+}

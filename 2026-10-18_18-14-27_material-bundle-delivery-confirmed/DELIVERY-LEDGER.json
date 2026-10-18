@@ -1,0 +1,112 @@
+{
+  "delivered_at": "2026-10-18T10:12:57.260409Z",
+  "delivered_at_local": "2026-10-18T18:12:57.260409+08:00",
+  "items": [
+    {
+      "original_path": "guanyu-mythic-set/ui_straight_native_20261018_175130_UTC+08/01-黑铁-完整UI保源像素候选.png",
+      "repository_path": "2026-10-18_18-01-27_material-diagnostics-control-and-ui-straight-join/assets/sha256/bb752f7bd83300363f38ae233fa648023e766b79c7b33995a342b43541ed11f5.png",
+      "sha256": "bb752f7bd83300363f38ae233fa648023e766b79c7b33995a342b43541ed11f5",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_000000007b2c81f5bbe6f326aca1f6a4",
+        "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+        "file_name": "01-黑铁-完整UI保源像素候选.png",
+        "current_version_number": 2
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef.png",
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000429081f5913f158aa3c2f01b",
+        "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+        "file_name": "桃园结义-v10-分材质清理候选.png",
+        "current_version_number": 5
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/materialclean_20261018_180135_UTC+08/温酒请战-v10-分材质清理候选.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f.png",
+      "sha256": "fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_000000008a9481f5804beafe09adf5b7",
+        "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+        "file_name": "温酒请战-v10-分材质清理候选.png",
+        "current_version_number": 9
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/huxing-materialrepair-20261018_180553.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/08ba475082f70f310954d3da5b44e2c4a81cf8cad5b1cce6b3b56d3bf2692800.png",
+      "sha256": "08ba475082f70f310954d3da5b44e2c4a81cf8cad5b1cce6b3b56d3bf2692800",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_000000008b7881f5ae911d77137165a0",
+        "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+        "file_name": "huxing-materialrepair-20261018_180553.png",
+        "current_version_number": 6
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_material_clean_20261018_181010_UTC+08/02-青铜-完整UI保源像素候选.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/577bcd9756a75b23705071fe07c207ec290016faffa14c3dd77690b6b995cd18.png",
+      "sha256": "577bcd9756a75b23705071fe07c207ec290016faffa14c3dd77690b6b995cd18",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000240c81f5bef5b19c0867c1d7",
+        "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+        "file_name": "02-青铜-完整UI保源像素候选.png",
+        "current_version_number": 3
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_material_clean_20261018_181010_UTC+08/03-白银-完整UI保源像素候选.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/099b5e888a653316ba24948abdb958255308750c0c8a73adfe801c646c4b9bb7.png",
+      "sha256": "099b5e888a653316ba24948abdb958255308750c0c8a73adfe801c646c4b9bb7",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000b9b481f59340f12d6c1040ce",
+        "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+        "file_name": "03-白银-完整UI保源像素候选.png",
+        "current_version_number": 3
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_material_clean_20261018_181010_UTC+08/04-黄金-完整UI保源像素候选.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/37ca32252898d5f94ca15aba13b48b9a596b443d93f628a618210b605830b6b2.png",
+      "sha256": "37ca32252898d5f94ca15aba13b48b9a596b443d93f628a618210b605830b6b2",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_0000000019ac81f5aee88da32c23a8b1",
+        "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+        "file_name": "04-黄金-完整UI保源像素候选.png",
+        "current_version_number": 3
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_material_clean_20261018_181010_UTC+08/四阶关羽-框延伸UI保源像素总览.png",
+      "repository_path": "2026-10-18_18-13-35_controlled-material-repair-candidates/assets/sha256/33021e543eab2cda3fd71344821b12f5c9365e38cab194030ab5a251756174c2.png",
+      "sha256": "33021e543eab2cda3fd71344821b12f5c9365e38cab194030ab5a251756174c2",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000cb1c81f5afbd1c6def6f6462",
+        "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+        "file_name": "四阶关羽-框延伸UI保源像素总览.png",
+        "current_version_number": 3
+      },
+      "status": "delivered_pending_user_approval"
+    }
+  ],
+  "review": "all pending user acceptance, not final",
+  "limits": "Original ultra-high native zoom detail target not achieved; no superresolution claim"
+}

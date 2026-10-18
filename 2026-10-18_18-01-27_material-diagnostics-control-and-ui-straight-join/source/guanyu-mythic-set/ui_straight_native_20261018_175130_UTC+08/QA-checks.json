@@ -1,0 +1,38 @@
+{
+  "01-黑铁": {
+    "changed_bbox": [
+      770,
+      1372,
+      1124,
+      1507
+    ],
+    "changed_outside_passive_area": 0
+  },
+  "02-青铜": {
+    "changed_bbox": [
+      770,
+      1372,
+      1128,
+      1507
+    ],
+    "changed_outside_passive_area": 0
+  },
+  "03-白银": {
+    "changed_bbox": [
+      770,
+      1266,
+      1128,
+      1507
+    ],
+    "changed_outside_passive_area": 0
+  },
+  "04-黄金": {
+    "changed_bbox": [
+      770,
+      1160,
+      1128,
+      1507
+    ],
+    "changed_outside_passive_area": 0
+  }
+}

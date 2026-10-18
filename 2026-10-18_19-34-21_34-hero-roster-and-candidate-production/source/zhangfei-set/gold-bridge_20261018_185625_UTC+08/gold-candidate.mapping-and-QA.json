@@ -1,0 +1,41 @@
+{
+  "status": "candidate_pending_independent_QA",
+  "title": "张飞 黄金 长坂护众",
+  "created_local": "2026-10-18T18:58:00+08:00",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-bridge_20261018_185625_UTC+08/张飞-黄金-长坂护众-候选1-20261018_185800.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "generation_count": 1,
+  "tool": "builtin image_gen.imagegen",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "role": "Approved Zhang Fei identity and build only; do not inherit blackiron shop, pose or robe."
+    }
+  ],
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-bridge_20261018_185625_UTC+08/张飞-黄金-长坂护众-候选1-20261018_185800.prompt.txt",
+  "QA": {
+    "inspected": "Full image and native face, both grips, full shaft/blade, armor/cloth, bridge/stone/water and tiger crops.",
+    "passes": [
+      "Mature broad-faced tiger-bearded Zhang Fei identity and massive build retained.",
+      "Both hands wrap shaft with plausible fingers and wrists; all visible shaft segments straight and collinear.",
+      "On-foot bridge protection differs from Guan Yu mounted card; civilians behind to left and enemies beyond to right.",
+      "Continuous black/dark-red feline tiger, no dragon anatomy."
+    ],
+    "limitations": [
+      "Snake-spear blade tip exits the right canvas. Full weapon frame safety not achieved; no unapproved repair.",
+      "Tiger upper ear/body reaches top boundary; needs final-frame safety assessment.",
+      "Dark cloth/armor contains some irregular warm abrasion flecks. Broad planar treatment improved but cannot certify zero isolated warm marks.",
+      "Very near enemy shoulders deliberately defocused; this card is not the story foreground-clear requirement."
+    ],
+    "materials": "Metal bevel/engraving highlights largely structural, matte red fabric broad planes. Wood follows grain; river foam/spray is water. Fine warm marks on dark surfaces require independent material audit."
+  },
+  "independent_audit_1915": {
+    "source": "/workspace/scratch/3f82ff2b3f81/hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md",
+    "finding": "Independent audit: identity, both grips, long straight shaft, black-red tiger armor and bridge protection narrative passed; warm marks judged decoration/wear rather than cross-material gold dust. Original blade-tip and tiger-ear safety did not pass.",
+    "scope": "Original candidate before the subsequently saved single local correction."
+  }
+}

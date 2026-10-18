@@ -1,0 +1,58 @@
+{
+  "status": "independent_material_QA_failed_candidate_hold_not_final",
+  "timezone": "UTC+08",
+  "generation_mode": "built-in image_gen, new drawing/rendering requested from current source macro-design; no API, no deterministic image filter",
+  "bound": "one generation per image",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "no_superresolution": true,
+  "uploaded": false,
+  "old_versions_preserved": true,
+  "crops": "Native 100% crops, no resizing; source and candidate counterparts in QA/",
+  "created_at": "2026-10-18T18:33:33+08:00",
+  "output": "./guanyu-mythic-set/rebuild_gold_black_20261018_183154_UTC+08/gold-mythic-source-rebuild-20261018_183333.png",
+  "prompt": "./guanyu-mythic-set/rebuild_gold_black_20261018_183154_UTC+08/gold-mythic-source-rebuild-20261018_183333.prompt.txt",
+  "generated_source": "./generated_images/exec-12bb12ff-87c1-46db-8c4d-3458511d68c6.png",
+  "actual_image_inputs": [
+    {
+      "path": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/gold-horse-surface-repair-20261018_180829.png",
+      "role": "Identity, pose, macro armor/horse/weapon/dragon design, full composition and narrative only; surface glints explicitly excluded."
+    },
+    {
+      "path": "./guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png",
+      "role": "Clean anime-mythic form/material language only. Its shoulder-carried bent shaft, pose, composition, daylight and other design explicitly excluded."
+    }
+  ],
+  "qa": {
+    "full_view_and_native_crops": true,
+    "regions": [
+      "face and both hands",
+      "physical shaft and blade root/head",
+      "horse/huge hoof/armor",
+      "cape cloth",
+      "timber and dirt"
+    ],
+    "structure": "Mature turn-back identity, rear-view dragging pose, giant Red Hare hoof, broad high-tier armor, approved imposing dragon and traveling-away convoy visually retained. Single steel shaft visually straight; no obvious new hand or horse limb defect.",
+    "materials_improved": "Cape has more grouped quiet matte planes. Ground/wood reads more matte than old fragmented luminous surfaces. Broad silhouettes remain mythic.",
+    "material_failures_or_residuals": "Several small pale pinprick highlights remain in red tail/mane. Near leg retains rippled glossy modeling, and metal ornament still has beadlike highlight concentrations. Do not label fully clean or validated source-rebuild success. Rendering closely follows previous source despite new-drawing instruction.",
+    "foreground": "Near flying debris is more defined than source soft-dust version; actual dirt clumps do not appear as gold glitter but this change needs root judgment.",
+    "flags": "Generated red flag includes a Liu-like character; parent can reuse approved independent typography rather than rely on generated writing.",
+    "decision": "Hold for strict material acceptance by root and independent auditor; no unapproved retry."
+  },
+  "verified_pixels": [
+    1024,
+    1536
+  ],
+  "sha256": "13e44cbe3c00e4e09f2bbdbf51380077127c4afa4eea5007b6a83fc189486dc2",
+  "independent_QA": {
+    "reviewer": "audit_image_quality_causes",
+    "recorded_at": "2026-10-18T18:40:42.431071+08:00",
+    "reported_to_root_and_lead": true,
+    "structure": "Face, hands and physical guandao axis pass.",
+    "material": "FAIL: isolated white/yellow pinpricks remain in red tail shadows; dense wavy bright modeling remains on haunch/leg; scattered gold points remain between cape motifs.",
+    "minimum_suggestion": "Only repaint those material surfaces; retain luxurious macro armor design."
+  },
+  "additional_generation": "None; waiting for explicit root/lead authorization."
+}

@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  }
+}

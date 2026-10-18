@@ -1,0 +1,27 @@
+{
+  "version": "gold-natural-hierarchy-20261018_171629",
+  "saved_at_beijing": "2026-10-18T17:16:29.694486+08:00",
+  "timezone": "UTC+08:00",
+  "method": "One built-in image_gen natural tonal-hierarchy pass directly from approved final v7, not previous hierarchy image",
+  "edit_target": "./guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+  "generated_source": "./generated_images/exec-10880e5b-a0e0-4e41-95c3-73afe2eabbdf.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-natural-hierarchy-20261018_171629.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-natural-hierarchy-20261018_171629.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "5109330a333620a703b47d99e36daf03c780971934668a11a02a14dc16d00c09",
+  "status": "candidate_pending_parent_natural_hierarchy_review",
+  "visual_review": {
+    "method": "Original v7 and output actually viewed with view_image.",
+    "naturalness": "No obvious newly introduced frosted blur, uniform background defocus or edge blur halos. Original painterly depth/detail remains.",
+    "ground": "Distracting high-intensity dirt/wood sparkles noticeably restrained; foreground debris still crisp in shape and material.",
+    "main_group": "Face/body/armor, horse and guandao retain coherent clean detail and appear better separated from quieter ground/background.",
+    "dragon": "Praised exact silver-lineage dragon form, size, antlers, mane and continuous green volume preserved; remains brightly green and imposing rather than dull.",
+    "background": "Convoy, blank flag, winding road, gates and depth remain readable with lower microcontrast.",
+    "preservation": "No visible pose, face identity, clothing, weapon axis/design, horse anatomy or layout change.",
+    "caution": "This is a conservative natural hierarchy adjustment; large luminous dragon is still a strong secondary focal point, so parent should judge whether human group emphasis is sufficient.",
+    "scope": "One candidate only; no previous blurred hierarchy source used; source and silver untouched; no uploads."
+  }
+}

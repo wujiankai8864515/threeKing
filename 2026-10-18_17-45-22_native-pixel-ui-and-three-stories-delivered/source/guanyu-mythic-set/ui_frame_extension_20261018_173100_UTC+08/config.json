@@ -1,0 +1,68 @@
+{
+  "status": "visual presentation only; skill names, levels, and counts are not final mechanics",
+  "materials": {
+    "iron": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 1
+        }
+      ],
+      "overlay": "iron-overlay.png",
+      "source": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/01-黑铁·市井潜龙.png"
+    },
+    "bronze": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 1
+        }
+      ],
+      "overlay": "bronze-overlay.png",
+      "source": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-青铜·三骑追黄巾.png"
+    },
+    "silver": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 2
+        },
+        {
+          "name": "斩将",
+          "level": 2
+        }
+      ],
+      "overlay": "silver-overlay.png",
+      "source": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/03-白银·关前扬威.png"
+    },
+    "gold": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 2
+        },
+        {
+          "name": "斩将",
+          "level": 2
+        },
+        {
+          "name": "武圣",
+          "level": 2
+        }
+      ],
+      "overlay": "gold-overlay.png",
+      "source": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/04-黄金·护行拖刀.png"
+    }
+  },
+  "source_cards_preserved": true,
+  "passive_material_source": "Each matching approved frame left rail, rotated and fitted; curved return joins original right frame",
+  "rejected_previous": "../ui_display_20261018_171500_UTC+08/",
+  "display_fields": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": 1,
+    "advancement": "真",
+    "troop_icon": "example polearm infantry; not inferred from mounted art"
+  },
+  "note": "All added fields are independent display placeholders, not a mapping from rarity to advancement."
+}

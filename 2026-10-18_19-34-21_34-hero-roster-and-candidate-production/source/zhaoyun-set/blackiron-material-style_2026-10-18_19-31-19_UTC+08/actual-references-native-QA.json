@@ -1,0 +1,155 @@
+{
+  "hero_id": "zhaoyun",
+  "asset_id": "zhaoyun_card_01",
+  "rank": "blackiron",
+  "generation": "one builtin imagegen controlled material/style edit; no API; artwork copied unmodified; no upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/赵云-黑铁-磐河初锋-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/赵云-黑铁-磐河初锋-身份候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "75d8c8d763d092e62d9294c9094c60192b781d916be4e757cb593079791936ec",
+      "role": "exact Zhao Yun edit target; preserve original new identity, pose, weapon/mount structure and composition"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+      "role": "Liu Bei v2 reference ONLY for broad-plane anime-mythic painting and matte material language; exclude identity/costume/pose/scene"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/prompt.txt",
+  "qa": {
+    "face": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/face-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/face-after-native100.png",
+      "box": [
+        485,
+        145,
+        690,
+        385
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "forward-grip": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/forward-grip-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/forward-grip-after-native100.png",
+      "box": [
+        550,
+        450,
+        700,
+        560
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "rear-grip-rein": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/rear-grip-rein-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/rear-grip-rein-after-native100.png",
+      "box": [
+        735,
+        455,
+        910,
+        625
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "full-axis": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/full-axis-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/full-axis-after-native100.png",
+      "box": [
+        0,
+        395,
+        1024,
+        620
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "horse-head": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/horse-head-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/horse-head-after-native100.png",
+      "box": [
+        110,
+        565,
+        600,
+        1010
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "saddle-rider-leg": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/saddle-rider-leg-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/saddle-rider-leg-after-native100.png",
+      "box": [
+        570,
+        595,
+        1024,
+        1080
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "horse-legs": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/horse-legs-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/horse-legs-after-native100.png",
+      "box": [
+        315,
+        1050,
+        1024,
+        1536
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "cloth-armor": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/cloth-armor-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/cloth-armor-after-native100.png",
+      "box": [
+        390,
+        300,
+        950,
+        905
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "ground-grass-water": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/ground-grass-water-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/ground-grass-water-after-native100.png",
+      "box": [
+        0,
+        1040,
+        455,
+        1536
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "distant-dragon-spine": {
+      "before": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/distant-dragon-spine-before-native100.png",
+      "after": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/qa/distant-dragon-spine-after-native100.png",
+      "box": [
+        710,
+        0,
+        1024,
+        180
+      ],
+      "scale": "native100% 1:1 no resize"
+    }
+  },
+  "diagnostic_guide": "same approximate shaft endpoints (267,465) to (1023,572); cyan diagnostic only, not generation input",
+  "status": "one authorized style correction candidate; pending native creator QA and independent review; no six-image expansion",
+  "approval_scope_note": "root allows two-handed spear with leg control and accepts a subtle distant dragon head if first-tier weak; no forced one-hand reins change"
+}

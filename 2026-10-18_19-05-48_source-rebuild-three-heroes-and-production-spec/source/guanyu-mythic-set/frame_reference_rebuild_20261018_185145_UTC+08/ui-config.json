@@ -1,0 +1,62 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "蓄势",
+        "level": "+1"
+      }
+    ]
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "蓄势",
+        "level": "+1"
+      }
+    ]
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "蓄势",
+        "level": "+2"
+      },
+      {
+        "name": "斩将",
+        "level": "+2"
+      }
+    ]
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "蓄势",
+        "level": "+2"
+      },
+      {
+        "name": "斩将",
+        "level": "+2"
+      },
+      {
+        "name": "武圣",
+        "level": "+2"
+      }
+    ]
+  }
+}

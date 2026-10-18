@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+    "status": "technical_candidate_pass_frame_QA_pending"
+  }
+}

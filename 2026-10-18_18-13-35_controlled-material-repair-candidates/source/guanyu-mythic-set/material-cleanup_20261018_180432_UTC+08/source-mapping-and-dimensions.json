@@ -1,0 +1,123 @@
+{
+  "mode": "built-in image_gen edit; one candidate per source; no API fallback",
+  "timestamp_directory_timezone": "UTC+08",
+  "upscaling": "none; native 1024x1536 sources and outputs; frame integration outside this task",
+  "items": [
+    {
+      "kind": "bronze",
+      "source": "./guanyu-mythic-set/pure/bronze-v8-frame-safe-depth-20261018_172023.png",
+      "candidate": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "39018f50204cc353cc1aca22f383312c3cff6d2533bcf4e1a9b3f8509f83151e",
+      "candidate_sha256": "756e8a78b4f32577e24ef33467ca2b76c0b98d430f5b743ba54f24a4c1377816",
+      "prompt_file": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-prompt.txt",
+      "qa_crops": {
+        "face": {
+          "box": [
+            470,
+            270,
+            715,
+            550
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/bronze-face-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "blade": {
+          "box": [
+            550,
+            570,
+            1024,
+            880
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/bronze-blade-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "horse": {
+          "box": [
+            415,
+            680,
+            790,
+            1060
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/bronze-horse-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "cloth": {
+          "box": [
+            200,
+            525,
+            560,
+            850
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/bronze-cloth-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        }
+      }
+    },
+    {
+      "kind": "silver",
+      "source": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/silver-blank-plaque-pure.png",
+      "candidate": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+      "source_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1024,
+        1536
+      ],
+      "source_sha256": "fc76a81303c53f943ce0d762fd5ad950f3b8794176712111b553574683b96b44",
+      "candidate_sha256": "bbdf4baf63e08e845d2ce8ce72438fb824a604c25fed96865464b64dc79bd8ed",
+      "prompt_file": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-prompt.txt",
+      "qa_crops": {
+        "face": {
+          "box": [
+            450,
+            350,
+            690,
+            610
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/silver-face-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "blade": {
+          "box": [
+            540,
+            730,
+            1024,
+            1150
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/silver-blade-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "armor": {
+          "box": [
+            130,
+            810,
+            470,
+            1180
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/silver-armor-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        },
+        "cloth": {
+          "box": [
+            220,
+            690,
+            600,
+            1100
+          ],
+          "path": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/qa/silver-cloth-100pct-comparison.png",
+          "scale": "1 source pixel = 1 crop pixel"
+        }
+      }
+    }
+  ]
+}

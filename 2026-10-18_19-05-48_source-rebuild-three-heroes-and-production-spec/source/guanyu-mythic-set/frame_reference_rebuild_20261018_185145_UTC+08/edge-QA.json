@@ -1,0 +1,38 @@
+{
+  "iron": {
+    "canvas_edge_nontransparent_pixels": 0,
+    "bbox": [
+      20,
+      16,
+      1181,
+      1766
+    ]
+  },
+  "bronze": {
+    "canvas_edge_nontransparent_pixels": 0,
+    "bbox": [
+      19,
+      16,
+      1180,
+      1768
+    ]
+  },
+  "silver": {
+    "canvas_edge_nontransparent_pixels": 0,
+    "bbox": [
+      23,
+      16,
+      1179,
+      1758
+    ]
+  },
+  "gold": {
+    "canvas_edge_nontransparent_pixels": 0,
+    "bbox": [
+      17,
+      16,
+      1180,
+      1765
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "candidate; UI values are demonstration only",
+  "canvas": [
+    1190,
+    1786
+  ],
+  "native_art": [
+    1024,
+    1536
+  ],
+  "native_art_offset": [
+    84,
+    145
+  ],
+  "art_resampling": "NONE; source pixels pasted at 1:1 before normal edge masking/overlays",
+  "frame_resampling": "Original 1024×1536 frame, stars, and mask enlarged with Lanczos; frame is not native higher-resolution art",
+  "ui_resampling": "Text drawn at 3072×4608 and reduced once to target canvas; frame-derived UI metal uses original frame detail",
+  "original_art_ratio_note": "Original insertion was 881×1321 at72,125; new1190×1786 canvas fits native1024×1536 at84,145; subpixel rounding under1px. No 4K or newly generated art-detail claim.",
+  "cards": {
+    "iron": {
+      "source": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+      "sha256": "fb12c9c31d6ef127c25ad04def224446eae72a703b280139ea433eddf9f1bcc0",
+      "checked_uncovered_native_pixels": 1264331,
+      "changed_pixels_in_checked_region": 0,
+      "output": "01-黑铁-完整UI保源像素候选.png"
+    },
+    "bronze": {
+      "source": "./guanyu-mythic-set/pure/bronze-v8-frame-safe-depth-20261018_172023.png",
+      "sha256": "39018f50204cc353cc1aca22f383312c3cff6d2533bcf4e1a9b3f8509f83151e",
+      "checked_uncovered_native_pixels": 1249135,
+      "changed_pixels_in_checked_region": 0,
+      "output": "02-青铜-完整UI保源像素候选.png"
+    },
+    "silver": {
+      "source": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/silver-pure-lettering.png",
+      "sha256": "5b117df9b557e9f52bd63e724da172b1e65cfab95108809ec14c60368e638341",
+      "checked_uncovered_native_pixels": 1207257,
+      "changed_pixels_in_checked_region": 0,
+      "output": "03-白银-完整UI保源像素候选.png"
+    },
+    "gold": {
+      "source": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+      "sha256": "50dcbcf8acbe8419aa72e5fcde741ae01a0c75226fca3b286ad1c2ddc9f2bea4",
+      "checked_uncovered_native_pixels": 1186608,
+      "changed_pixels_in_checked_region": 0,
+      "output": "04-黄金-完整UI保源像素候选.png"
+    }
+  }
+}

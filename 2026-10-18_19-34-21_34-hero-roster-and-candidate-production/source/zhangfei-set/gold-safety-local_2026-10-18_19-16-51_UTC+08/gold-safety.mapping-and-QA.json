@@ -1,0 +1,28 @@
+{
+  "status": "candidate_partial_safety_improvement_pending_root_audit",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "tool": "builtin image_gen.imagegen",
+  "generation_count_this_revision": 1,
+  "parent_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-bridge_20261018_185625_UTC+08/张飞-黄金-长坂护众-候选1-20261018_185800.png",
+  "reference_role": "Edit target only; local blade-tip and tiger-ear safety repair, all other design locked.",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.prompt.txt",
+  "QA": {
+    "inspected": "Full image and native before/after face, both grips, entire shaft/blade, tiger head and blade endpoint.",
+    "passes": [
+      "Hero face, both hand grip anatomy and rigid straight shaft remain visually consistent.",
+      "Tiger ears and entire head now within image, about50px top margin; connected black/red tiger body preserved.",
+      "One complete sharp blade endpoint now visible."
+    ],
+    "residuals": [
+      "Blade endpoint is approximatelyx1020, only a few pixels from right boundary; requestedx900–930 margin not achieved. Cannot claim frame-safe until actual overlay QA.",
+      "Tiger head has become somewhat smaller/repositioned relative to original though imposing body remains. Root visual acceptance required.",
+      "Local-edit output includes small incidental repaint differences, not pixel-identical outside requested region."
+    ]
+  },
+  "stop": "One authorized repair used; no second call attempted."
+}

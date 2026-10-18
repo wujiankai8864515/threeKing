@@ -1,0 +1,121 @@
+{
+  "created_timezone": "UTC+08",
+  "scope": "Only Zhang Fei black-iron first sample; other three cards and three biographies are brief only; no Liu Bei production",
+  "method": "Built-in image_gen, one candidate, no API or image postprocessing",
+  "actual_referenced_image_paths": [
+    "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+  ],
+  "reference": {
+    "path": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef"
+  },
+  "reference_role": "User-approved Library Peach Garden v5 identity corresponding to local v10; RIGHTMOST Zhang Fei only, identity/body character. Not approval of materials. Exclude scene, armor, pose, other men, glitter.",
+  "excluded_source": "v11 viewed before identity-source correction but never passed to image_gen",
+  "output": {
+    "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/张飞-黑铁-涿郡豪侠-首样1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cb91adbe4f22c6e2401fabbdf3d04c143ae45ca543abfd4fa25b798b4c24db76"
+  },
+  "prompt": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/blackiron-prompt.txt",
+  "brief": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/四卡三传记-brief与reference职责.md",
+  "qa": {
+    "face": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/face-100pct.png",
+      "box": [
+        320,
+        105,
+        600,
+        390
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "hand-post": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/hand-post-100pct.png",
+      "box": [
+        50,
+        105,
+        245,
+        415
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "hand-bowl": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/hand-bowl-100pct.png",
+      "box": [
+        390,
+        500,
+        710,
+        680
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "cloth-belt": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/cloth-belt-100pct.png",
+      "box": [
+        220,
+        350,
+        640,
+        850
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "wood-jars": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/wood-jars-100pct.png",
+      "box": [
+        0,
+        70,
+        290,
+        420
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "meat-counter": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/meat-counter-100pct.png",
+      "box": [
+        630,
+        750,
+        1024,
+        1000
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "stone-boots": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/stone-boots-100pct.png",
+      "box": [
+        80,
+        1080,
+        750,
+        1450
+      ],
+      "scale": "1:1 native, no resizing"
+    },
+    "tiger-cloud": {
+      "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/tiger-cloud-100pct.png",
+      "box": [
+        785,
+        0,
+        1024,
+        290
+      ],
+      "scale": "1:1 native, no resizing"
+    }
+  },
+  "source_face_crop": {
+    "path": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/approved-v10-Zhang-identity-100pct.png",
+    "box": [
+      1100,
+      285,
+      1305,
+      480
+    ]
+  },
+  "identity_comparison": "./zhangfei-set/blackiron-first_20261018_184308_UTC+08/qa/identity-native-comparison.png",
+  "scale": "native 1024x1536; not 4K, no upscaling; no card frame/UI baked"
+}

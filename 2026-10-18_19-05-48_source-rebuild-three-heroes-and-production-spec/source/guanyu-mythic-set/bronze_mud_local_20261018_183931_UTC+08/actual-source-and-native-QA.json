@@ -1,0 +1,87 @@
+{
+  "method": "one built-in image_gen local edit, no API/no full rerender requested/no postprocessing",
+  "actual_referenced_image_paths": [
+    "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/青铜-神话材质源重生-候选1.png"
+  ],
+  "source": {
+    "path": "./guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/青铜-神话材质源重生-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "26ffb52f2db46e2405bc9b1f3bc51720c2f5ed1c6bace338715959e360a334a9"
+  },
+  "output": {
+    "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9"
+  },
+  "prompt": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/local-prompt.txt",
+  "qa": {
+    "leg-mud": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/leg-mud-100pct.png",
+      "box": [
+        230,
+        920,
+        690,
+        1320
+      ],
+      "scale": "1:1, no resize"
+    },
+    "left-mud": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/left-mud-100pct.png",
+      "box": [
+        0,
+        860,
+        425,
+        1290
+      ],
+      "scale": "1:1, no resize"
+    },
+    "ground": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/ground-100pct.png",
+      "box": [
+        300,
+        1200,
+        810,
+        1480
+      ],
+      "scale": "1:1, no resize"
+    },
+    "blade": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/blade-100pct.png",
+      "box": [
+        590,
+        615,
+        1024,
+        880
+      ],
+      "scale": "1:1, no resize"
+    },
+    "locked-face": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/locked-face-100pct.png",
+      "box": [
+        460,
+        280,
+        720,
+        550
+      ],
+      "scale": "1:1, no resize"
+    },
+    "locked-full-shaft-hands": {
+      "path": "./guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/qa/locked-full-shaft-hands-100pct.png",
+      "box": [
+        0,
+        285,
+        725,
+        720
+      ],
+      "scale": "1:1, no resize"
+    }
+  },
+  "native_scale": "1024x1536, no upscaling",
+  "scope": "lower mud bright net, dark foreleg pinpoints, small blade-edge stains only; silver frozen and untouched"
+}

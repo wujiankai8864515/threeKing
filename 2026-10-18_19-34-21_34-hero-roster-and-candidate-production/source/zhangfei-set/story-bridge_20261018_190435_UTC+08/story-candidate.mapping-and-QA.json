@@ -1,0 +1,55 @@
+{
+  "status": "candidate_not_pass_self_QA_pending_independent_review",
+  "title": "张飞 白银至黄金传记 桥后生路",
+  "created_local": "2026-10-18T19:04:35+08:00",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-bridge_20261018_190435_UTC+08/张飞-传记-桥后生路-候选1-20261018_190435.png",
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "generation_count": 1,
+  "tool": "builtin image_gen.imagegen",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-bridge_20261018_190435_UTC+08/张飞-传记-桥后生路-候选1-20261018_190435.prompt.txt",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "role": "Approved Zhang Fei identity/build only, no shop/clothing/pose inheritance.",
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-bridge_20261018_185625_UTC+08/张飞-黄金-长坂护众-候选1-20261018_185800.png",
+      "role": "New gold card macro armor/spear/tiger and same Changban event continuity only, NOT copied camera/cropping/surface flecks.",
+      "sha256": "154afd4aeb6d6e0adaabad490aafd03ff6d63c69e066795d72bb02b7ed877c6f"
+    }
+  ],
+  "brief_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-first_20261018_184308_UTC+08/四卡三传记-brief与reference职责.md",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/四卡三传记-brief与reference职责-更新.md"
+  ],
+  "authorization": "Parent new expansion supersedes earlier blackiron-only brief scope. One built-in candidate per image, no repair run authorized.",
+  "QA": {
+    "inspected": "Full native image plus native face, both grips, entire shaft/blade, armor/cloth, bridge, near wheel/soil, family hands and tiger crops.",
+    "passes": [
+      "Same mature Zhang Fei identity broadly retained, not Guan Yu/Liu Bei.",
+      "Both grips plausible; butt-to-blade entire straight rigid shaft aligned, one snake blade and endpoint visible inside canvas.",
+      "Civilians escape toward near-left safe bank; Zhang Fei blocks bridge behind them; pursuers beyond, coherent same Changban moment.",
+      "Timber deck, posts, stone abutments and river share readable continuous bridge structure.",
+      "Foreground family hands have no obvious major fusion/extra limb defect at native scale; main face and hands readable."
+    ],
+    "hard_or_visible_limitations": [
+      "Explicit foreground-clear instruction was missed: nearest wheel, bottom soil/stone and some foreground family areas are defocused. This is not passed.",
+      "Tiger upper ear/body cropped at top edge; main face remains visible.",
+      "Bridge dark wood has many short isolated warm/yellow marks rather than only continuous grain; material-cleanliness needs independent review.",
+      "Dark armor includes fine warm surface abrasion marks; no claim of all-material cleanup.",
+      "Camera is a new raised safe-bank view with extended civilians/route narrative, but Zhang Fei's frontal-side stance is still visually close to card; not a fully rear-view hero."
+    ],
+    "no_further_generation": "One candidate budget used. Kept originals, no upload or UI integration."
+  },
+  "output_sha256": "ad1cc5e292202d93ee507a865a70315f521cea952b6f834e97168bdb65c597b4",
+  "independent_audit_1915": {
+    "source": "/workspace/scratch/3f82ff2b3f81/hero_quality_audit_20261018_191500_UTC+08/INDEPENDENT_QA.md",
+    "finding": "Independent audit: same-stage gold armor, whole shaft and blade, both grips, bridge and retreat direction passed. No all-surface gold dust found. Mother-child faces/hands, near wheel and foot-ground were too soft; local clarity repair authorized. Tiger ear boundary secondary.",
+    "scope": "Original candidate before the subsequently saved single local correction."
+  }
+}

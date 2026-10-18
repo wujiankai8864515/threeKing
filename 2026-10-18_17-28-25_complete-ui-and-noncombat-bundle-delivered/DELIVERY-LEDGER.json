@@ -1,0 +1,95 @@
+{
+  "delivered_at": "2026-10-18T09:26:55.456083Z",
+  "delivered_at_local": "2026-10-18T17:26:55.456083+08:00",
+  "items": [
+    {
+      "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/01-黑铁-完整UI示意.png",
+      "sha256": "55c12038d231bf4af775519d79b44ea725005458b1edaabe943c5d82465fc467",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000cb9c820d8440c42435f4586c",
+        "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+        "file_name": "01-黑铁-完整UI示意.png",
+        "current_version_number": 0
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/02-青铜-完整UI示意.png",
+      "sha256": "43bb631272efccfc7aaa3549a3e5e44d2e66a889f3454f35e4f49909b4dcb340",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000219c820c80e49a866dc163c7",
+        "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+        "file_name": "02-青铜-完整UI示意.png",
+        "current_version_number": 0
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/03-白银-完整UI示意.png",
+      "sha256": "4070f00eb7be8b2ae800c66251d52565708ec5c23d2d82290fcdca518ec57dbb",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000ef1c81f9a2b2b2bb6e7ce7e1",
+        "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+        "file_name": "03-白银-完整UI示意.png",
+        "current_version_number": 0
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/04-黄金-完整UI示意.png",
+      "sha256": "ad5b385d68c55c0fc9b136c8601dc3692a5be7ea14217cdd88945e0c0737491a",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000e114820ca3a0004ffccc0944",
+        "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+        "file_name": "04-黄金-完整UI示意.png",
+        "current_version_number": 0
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/四阶关羽-完整UI总览.png",
+      "sha256": "48fd3a74eca1dd5b2e6d7a152a54169bc44b24da3ebed16dfabbc73669941e72",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "status": "succeeded",
+        "file_id": "file_00000000eb1481f99c567a46fe2f7d04",
+        "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+        "file_name": "四阶关羽-完整UI总览.png",
+        "current_version_number": 0
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-温酒请战.png",
+      "sha256": "983423a5d6f692dc9b79122b6a257495f0f6fba7eb0baa43a23434693855d0d1",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+        "current_version_number": 7
+      },
+      "binary_reference": "2026-10-18_17-21-49_blackiron-final-and-bundled-ui-delivery-plan/assets/sha256/983423a5d6f692dc9b79122b6a257495f0f6fba7eb0baa43a23434693855d0d1.png"
+    },
+    {
+      "original_path": "guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/03-千里护行.png",
+      "sha256": "b3f1a7fa1097eced74042ac33f74bc9e04fce4dfd6094e029767231c2c0fac83",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "library_receipt": {
+        "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+        "current_version_number": 4
+      },
+      "binary_reference": "2026-10-18_17-21-49_blackiron-final-and-bundled-ui-delivery-plan/assets/sha256/b3f1a7fa1097eced74042ac33f74bc9e04fce4dfd6094e029767231c2c0fac83.png"
+    }
+  ],
+  "review_status": "pending user approval",
+  "UI_data": "Names, stats, advancement and troop classes are examples, not finalized game data"
+}

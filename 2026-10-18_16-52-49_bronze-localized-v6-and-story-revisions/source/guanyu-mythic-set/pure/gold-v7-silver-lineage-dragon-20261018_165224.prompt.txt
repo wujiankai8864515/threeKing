@@ -1,0 +1,19 @@
+Use case: precise-object-edit, identity-preserve.
+Two input images have DIFFERENT roles:
+IMAGE 1 is the exact GOLD card ARTWORK TO EDIT.
+IMAGE 2 is a DRAGON-ANATOMY REFERENCE ONLY. Borrow ONLY its majestic Eastern Chinese dragon face, brow, jaw, mane and antler structure. Do not borrow its human, stance, clothes, weapon, gate, blue sky or composition. Do not modify image 2.
+
+Make ONE localized replacement of the supernatural dragon in image 1, concentrating on its HEAD, CONNECTED NECK, HORNS AND FACIAL MANE. Everything else in image 1 must remain unchanged.
+
+The requested dragon:
+Use the dragon in image 2 as the direct structural benchmark: a noble, fierce, unmistakably Eastern imperial dragon with a strong broad brow, sharp focused eyes, proud long powerful muzzle, muscular open jaw, correctly interlocking fangs, dense layered flowing facial mane and naturally branched crownlike deer antlers. Replace image 1's unattractive simple curved ox/ram-like horns and narrow head with this same heroic anatomical family as the reference. Make the GOLD dragon visibly MORE imposing than the silver reference through a broader and deeper skull, thicker neck, stronger jaw, heavier antler bases and richer layered mane, not through added light or noise.
+Retain the substantial solid continuous pure-green scaled torso and overall sweeping path already in image 1. The upgraded head/neck must connect smoothly into that heavy three-dimensional torso. No disconnected head, thin snake neck, circular snake loop, floating antlers, weird double horns, goat horns or demonic insect structure. Use pure grass-green and deep forest-green scales, green eyes, pale yellow-green mane highlights, and refined muted golden-green antlers like the reference. No cyan, turquoise or blue dragon.
+Match the established refined painted rendering; crisp credible scales and structures, not grotesque exaggeration. Keep its majestic controlled roar.
+
+FRAME SAFETY AND OCCLUSION:
+Keep the complete head, eyes, nose, mouth and both branched antlers inside the safe upper-middle sky. Nose and all critical face features must remain LEFT of x=815 in this 1024x1536 image; the head should be approximately x=640..805,y=170..360. All antler tips must remain BELOW y=75, with clear sky margin from the top edge, sweeping back inward around x=520..750 instead of up out of frame. Keep the dragon's size powerful through depth and width of skull/neck, not by letting the face run into the frame edge.
+Guan Yu's head, face and headwear around x=550..635,y=175..340 must stay completely unobscured with a visible gap. Do not obscure Red Hare's head or the lower-right convoy. Leave the distant journey story readable. Do not increase glow brightness, cover the picture with lightning, or add another dragon.
+
+FROZEN PARTS OF IMAGE 1:
+Exact same Guan Yu mature identity, gaze, expression, long beard, headwear, green robe, armor, arms, hands, body silhouette and low rear-three-quarter riding pose; exact same backward-dragging rigid straight single polearm and gold dragon blade design; exact same Red Hare, enormous foreshortened hoof, horse anatomy, mane, armor and tack; exact same rear-facing escort convoy traveling away to the gates, the blank red flag for separately applied 刘 lettering, muddy road, mountain passes, defeated officer, all mud and splintered wood, foreground corner details, background softness, warm sunset palette, crop, camera and portrait layout. Do not redraw or reimagine any of these elements. Change only the dragon.
+No border, frame, stars, new text, lettering, watermark, logo, new objects, additional characters or new story elements.

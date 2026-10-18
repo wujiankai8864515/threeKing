@@ -1,0 +1,25 @@
+{
+  "confirmed": [
+    "Gold point highlights exist in pure generated escort source, before card/UI overlays.",
+    "Prior card composition reduces1024x1536 to881x1321. New native-pixel canvas1190x1786 pastes source1:1; validated uncovered pixel differences zero.",
+    "Composition code applies resize/mask/frame/star/text, not sparkle effect or subject blur.",
+    "Native source detail can already be soft/fused. Blackiron control same source resolution is materially cleaner, so resolution alone insufficient.",
+    "Gold v7 and latest face differ in small rendering details; v7 already has broad orange cheek/forehead highlights. Cannot blame only last edit.",
+    "Single material cleanup candidate retains1536x1024, reduces cloth/mane sparkle but reinterprets small material detail."
+  ],
+  "hypotheses": [
+    "Repeated ornate/high-detail metal-art direction may be generalized by generator into excessive specular dots across unrelated materials; no causal prompt ablation performed.",
+    "Repeated generative edits can accumulate identity/material drift, but every defect onset not isolated."
+  ],
+  "unknown": [
+    "Client-side display interpolation/compression from screenshots alone.",
+    "Whether any one prompt token caused sparkle.",
+    "True built-in maximum native size beyond exposed tool controls; observed outputs fixed, no size control available."
+  ],
+  "repair_limits": [
+    "One controlled escort sample only, awaiting root QA. No batch started.",
+    "Blackiron design is control and explicitly frozen except clarity, do not clear nonexistent dots or alter face.",
+    "Future character clothing palette Liu green-white Guan green-black Zhang black-red little green.",
+    "Do not claim interpolation or same-size editing is super-resolution."
+  ]
+}

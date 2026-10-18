@@ -1,0 +1,8 @@
+{
+  "prompt": "Precise local edit ONLY the gigantic sky dragon's materialization in this approved landscape. Keep composition and all contours/positions of hero, face, armor, red horse, shoulder-carried straight guandao, hands, reins, convoy, banner lettering, wagon, road, mountains, distant gates, departure pavilion, sealed chest and hanging seal EXACTLY unchanged. Do not touch any lettering. The only edit: make the pure GREEN dragon a majestic spiritual apparition rather than a solid scaled creature. Soft natural clouds obscure MOST of the dragon's long scaled torso, about 65-75% of its body surface, in irregular layered cloud veils; body continuity remains traceable through softly translucent green hints and a few scale sections. Keep its existing mighty head and pose readable, but make head lightly transparent so sky/clouds subtly show through green cheek, neck and mane. Preserve strong expression, horns, eyes, mouth, existing head size/location and pure green color. Do not reduce dragon scale, move it, alter its anatomy, erase it entirely, or create additional heads. The feeling is a vast powerful protective divine presence sheltering convoy in clouds, not physical armored dragon. Cloud veils only around dragon in sky, never obscure Guan Yu or horse or road/convoy. No global mist or blur. Maintain crisp designed mythic manga rendering of main subjects. No other changes. Landscape1536x1024.",
+  "tool": "builtin image_gen",
+  "original": "stories/03-千里护行-candidatev3_20261018_165544_UTC+08.png",
+  "output": "stories/03-千里护行-cloudspirit_20261018_165843_UTC+08.png",
+  "status": "pending root QA; flag lettering retained",
+  "qa": "实看龙躯大部分云遮，头轻透威猛，头颈躯体轮廓仍连续；人马、直杆肩承单手握持、另一手缰绳、车队与山关、封箱悬印保持。原繁体劉保留，清字指令在生成已完成后收到。"
+}

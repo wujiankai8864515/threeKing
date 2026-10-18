@@ -1,0 +1,139 @@
+{
+  "archived_at": "2026-10-18T16:52:49.177545+08:00",
+  "entries": [
+    {
+      "original_path": "generated_images/exec-5351e515-1b7c-449a-b3b1-e298514fad29.png",
+      "original_name": "exec-5351e515-1b7c-449a-b3b1-e298514fad29.png",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/assets/sha256/532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a.png",
+      "sha256": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a",
+      "original_sha256": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a",
+      "bytes": 3093640,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.pending-review.json",
+      "original_name": "gold-v7-silver-lineage-dragon-20261018_165224.pending-review.json",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.pending-review.json",
+      "sha256": "54e00b7ea8abcde8dc9efc650d1b63dd91922d566b6af00521265feaa82eaffa",
+      "original_sha256": "f629be89677eaa9505e076dfe6b9540461ee2f92d37fb4dfd62ccc94703544b2",
+      "bytes": 2281,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+      "original_name": "gold-v7-silver-lineage-dragon-20261018_165224.png",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/assets/sha256/532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a.png",
+      "sha256": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a",
+      "original_sha256": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a",
+      "bytes": 3093640,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.prompt.txt",
+      "original_name": "gold-v7-silver-lineage-dragon-20261018_165224.prompt.txt",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.prompt.txt",
+      "sha256": "e81492759e3122543a97f38592d0dfaf629be378e09e96d52788659771019434",
+      "original_sha256": "e81492759e3122543a97f38592d0dfaf629be378e09e96d52788659771019434",
+      "bytes": 3642,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/02-青铜·三骑追黄巾.png",
+      "original_name": "02-青铜·三骑追黄巾.png",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/assets/sha256/da00676059d52fd0987582f87b64e37a962fcb687b73a76d966a29e4be3ee123.png",
+      "sha256": "da00676059d52fd0987582f87b64e37a962fcb687b73a76d966a29e4be3ee123",
+      "original_sha256": "da00676059d52fd0987582f87b64e37a962fcb687b73a76d966a29e4be3ee123",
+      "bytes": 3054580,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "delivered_pending_user_approval",
+      "supersedes": [
+        "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-青铜·三骑追黄巾.png"
+      ],
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_00000000e53881f78e3564d48312c252",
+        "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+        "file_name": "02-青铜·三骑追黄巾.png",
+        "local_metadata_applied": true,
+        "path": "/02-青铜·三骑追黄巾.png",
+        "current_version_number": 6
+      },
+      "delivered_at": "2026-10-18T08:50:51.035112Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/bronze-pure.png",
+      "original_name": "bronze-pure.png",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/assets/sha256/188e96453528e3624b816fbfc6b5c19dee8b04fe04179b2d7f8bbd7ee68ac2d1.png",
+      "sha256": "188e96453528e3624b816fbfc6b5c19dee8b04fe04179b2d7f8bbd7ee68ac2d1",
+      "original_sha256": "188e96453528e3624b816fbfc6b5c19dee8b04fe04179b2d7f8bbd7ee68ac2d1",
+      "bytes": 3044013,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/compose.py",
+      "original_name": "compose.py",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/compose.py",
+      "sha256": "0785763206a29d0480be52e3d1e72fd582a95b217ea3f8f50212c83b158a3e52",
+      "original_sha256": "0785763206a29d0480be52e3d1e72fd582a95b217ea3f8f50212c83b158a3e52",
+      "bytes": 474,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/manifest.json",
+      "sha256": "82095c56d299a2473780d459ec81706e8098581105675ca1aa17b66db9d490f4",
+      "original_sha256": "82095c56d299a2473780d459ec81706e8098581105675ca1aa17b66db9d490f4",
+      "bytes": 421,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-request.json",
+      "original_name": "upload-request.json",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-request.json",
+      "sha256": "272010883c55785026fdaeb16170f9ec25b6438f223782880560cf6516c57114",
+      "original_sha256": "e9c30755d8846846ae2326ca9246b8b8a826c24498c4b49b5ed5ee64fcf27b5e",
+      "bytes": 406,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-results.json",
+      "original_name": "upload-results.json",
+      "repository_path": "2026-10-18_16-52-49_bronze-localized-v6-and-story-revisions/source/guanyu-mythic-set/qualitylocalized_20261018_164940_UTC+08/upload-results.json",
+      "sha256": "5478279c0edf8e8f8e3dd01562a90123aecebb84fd3c864187527ec85a3359c2",
+      "original_sha256": "b5319830aff6efbda4a54e8e8fa029480e31c0588c437c9d653eb710c3c5bc16",
+      "bytes": 505,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:52:49.177545+08:00",
+      "status": "production_support",
+      "supersedes": []
+    }
+  ],
+  "note": "Bronze localized v6 delivered, pending review. Any in-progress source is not a finished or approved output."
+}

@@ -1,0 +1,121 @@
+{
+  "method": "one builtin imagegen reference-derived new composition; no API; output copied unmodified; no upscale",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-青铜-独矛破黄巾-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "role": "approved Zhang blackiron identity and body only; excludes civilian shop pose and pale tiger"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-青铜-独矛破黄巾-候选1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "db7a783efb0a04b3f454a2f7827d20b421d975b9cace86259ff22d8078e1aace",
+      "role": "original bronze costume/story/material/tiger design only; excludes old pose, crooked shaft and composition"
+    }
+  ],
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/prompt.txt",
+  "qa": {
+    "face": {
+      "box": [
+        365,
+        280,
+        610,
+        505
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/face-native100.png",
+      "scale": "native100% no resize"
+    },
+    "forward-grip": {
+      "box": [
+        390,
+        560,
+        530,
+        700
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/forward-grip-native100.png",
+      "scale": "native100% no resize"
+    },
+    "rear-grip": {
+      "box": [
+        795,
+        580,
+        940,
+        725
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/rear-grip-native100.png",
+      "scale": "native100% no resize"
+    },
+    "full-axis": {
+      "box": [
+        0,
+        550,
+        1024,
+        730
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/full-axis-native100.png",
+      "scale": "native100% no resize"
+    },
+    "cloth-armor": {
+      "box": [
+        285,
+        430,
+        810,
+        1000
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/cloth-armor-native100.png",
+      "scale": "native100% no resize"
+    },
+    "legs-feet": {
+      "box": [
+        155,
+        850,
+        1024,
+        1235
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/legs-feet-native100.png",
+      "scale": "native100% no resize"
+    },
+    "ground-wood": {
+      "box": [
+        160,
+        1120,
+        855,
+        1450
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/ground-wood-native100.png",
+      "scale": "native100% no resize"
+    },
+    "tiger": {
+      "box": [
+        550,
+        0,
+        1024,
+        335
+      ],
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/qa/tiger-native100.png",
+      "scale": "native100% no resize"
+    }
+  },
+  "qa_guide": "cyan line from approx shaft center (239,617) to right border center (1023,684), diagnostic only, not generation input",
+  "status": "new-pose candidate awaiting independent axis/grip/material/identity review; replaces failed bowed-shaft old compositions only if approved"
+}

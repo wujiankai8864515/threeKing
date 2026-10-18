@@ -1,0 +1,25 @@
+{
+  "status": "candidate_pending_parent_frame_QA",
+  "created_at": "2026-10-18T17:24:05+08:00",
+  "timezone": "UTC+08",
+  "method": "built-in image_gen, one localized edit",
+  "source": "./guanyu-mythic-set/pure/gold-natural-hierarchy-20261018_171629.png",
+  "generated_source": "./generated_images/exec-7e6f7074-c3c3-4807-accc-0c90a1394158.png",
+  "output": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+  "prompt": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.prompt.txt",
+  "qa": {
+    "viewed_source_and_output": true,
+    "nearest_foreground": "Visibly softer and quieter than input. Fine isolated grit highlights substantially reduced; closest broken wood and flying dust read as broader lower-contrast earth masses. Existing wood diagonals and muddy action retained.",
+    "farthest_distance": "Distant right-side mountains and gates now softer and lower-contrast with continuous atmospheric depth; route and convoy still readable.",
+    "locked_main_subjects": "Guan Yu face, expression, clothing, backward dragging pose, hand/rein, horse anatomy/giant hoof, weapon and approved dragon design visually retained. Main armor, face, blade and dragon remain crisp.",
+    "caveats": "Foreground change is deliberately noticeable. Some dirt against the hoof softens along with environmental dust, but armored hoof contour remains readable. No claim of pixel-identical preservation; visual comparison performed. Parent should inspect actual framed crop.",
+    "frame_or_text_edited": false,
+    "uploaded": false,
+    "old_versions_preserved": true
+  },
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "sha256": "50dcbcf8acbe8419aa72e5fcde741ae01a0c75226fca3b286ad1c2ddc9f2bea4"
+}

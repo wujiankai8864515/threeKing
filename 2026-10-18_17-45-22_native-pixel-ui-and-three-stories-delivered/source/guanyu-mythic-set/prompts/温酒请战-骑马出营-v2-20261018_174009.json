@@ -1,0 +1,12 @@
+{
+  "prompt": "Targeted correction ONLY of this approved mounted-departure illustration, same native 1536x1024. Freeze every character identity/face/pose/clothing, Guan Yu's silver armor and straight single crescent polearm, horse face/body/legs/tack, Liu Bei/Zhang Fei/Cao Cao positions and wine cup, camp/banners/road layout and lighting.\nChange ONLY TWO THINGS:\n1 The CLOSEST FOREGROUND lower-left rocks, earth, small grasses and road stones are currently blurry. Re-render these near rocks and ground in NATURAL CLEAN FOCUS at the same focal clarity as the horse/hero: legible rock planes and edges, soil clumps, sparse grass blades, coherent sunlight and shadows. All near ground across bottom edge should be in focus. No fake sharpen halos, no grain/noisy microtexture, no over-crunching. Preserve the existing rock positions and volumes and road perspective. Do not blur front foreground again. Mid/far camp still progressively softer with distance, not globally sharp.\n2 Preserve the beautiful LARGE GREEN DRAGON HEAD exactly, including expression, horns, mane, brightness and position. Make its huge currently solid, overly visible BODY/COILS more ethereal and CLOUD-HIDDEN: reveal only a few short continuous thick torso portions through atmospheric clouds, coherent implied connection to head, no dense bright ring all across sky. Reduce body's opacity/contrast more than head. Head remains main dragon focal point, body supports it subtly. Do NOT change dragon head or add/remove heads, do NOT alter sky/camp composition beyond clouds naturally obscuring body.\nEverything else unchanged. No new text/UI, no upscale claim, no extra characters, no scene re-layout.",
+  "input": "stories/02-温酒请战-骑马出营-20261018_173655.png",
+  "output": "stories/02-温酒请战-骑马出营-v2-20261018_174009.png",
+  "mode": "builtin imagegen",
+  "actual_native_dimensions": [
+    1536,
+    1024
+  ],
+  "status": "PENDING_ROOT_QA",
+  "qa": "Personally viewed full image and 100% lower-left foreground crop. Near rocks/grass/soil substantially restored to readable natural detail without halo sharpening. Extreme bottommost strip still mildly soft. Dragon head maintained, body much more cloud-hidden and subdued. Guan/horse/weapon/companions/layout visually stable; no new obvious limb/hand bug. Original preserved, no upscale."
+}

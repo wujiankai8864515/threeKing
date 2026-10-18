@@ -1,0 +1,13 @@
+{
+  "source": "materialrepair_20261018_180108_UTC+08/huxing-materialrepair-20261018_180553.png",
+  "source_role": "latestLibraryv6 design identity composition only, no texture/style inheritance",
+  "candidate": "千里护行-神话源重绘验证2.png",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "prompt": "prompt-second-mythic.txt",
+  "status": "root+independentQA pending",
+  "first_candidate": "not eligible: natural historical style, downgraded fantasy armor, foreground blur; shaft axis concern independently found",
+  "batch_started": false
+}

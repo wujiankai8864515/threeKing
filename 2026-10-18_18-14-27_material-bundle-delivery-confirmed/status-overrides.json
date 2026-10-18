@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-18T18:14:27.219047+08:00",
+  "delivered_bundle": {
+    "overview": 3,
+    "blackiron_UI": 2,
+    "bronze_UI": 3,
+    "silver_UI": 3,
+    "gold_UI": 3,
+    "peach": 5,
+    "warm_wine": 9,
+    "escort": 6
+  },
+  "status": "delivered_pending_user_review",
+  "changes": "Reduced material point highlights; adjusted gold face and horse lighting; long glaive/grip corrected; UI hooks removed and overflow fixed.",
+  "blackiron": "Approved original source unchanged, existing UI v2 reused",
+  "unmet_goal": "Extreme native zoom detail not achieved",
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "new_remote_sync": "not claimed, no external operation"
+}

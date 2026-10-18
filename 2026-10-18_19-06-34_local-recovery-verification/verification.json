@@ -1,0 +1,10 @@
+{
+  "verified_at": "2026-10-18T19:06:34.010830+08:00",
+  "asset_delta": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec",
+  "resolved_paths_verified": 1614,
+  "historical_checksum_records_verified": 1604,
+  "recovery_method": "Every resolved file independently copied to temporary storage and SHA256 checked, sequentially. Full-tree duplicate restore could not finish because disk was full; incomplete test copy removed. Source archive unchanged.",
+  "security_scan": "No credential-token/private-key/private-notes patterns found in new text assets. Hidden directories/cache and Library helper scripts excluded.",
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "network_operations": false
+}

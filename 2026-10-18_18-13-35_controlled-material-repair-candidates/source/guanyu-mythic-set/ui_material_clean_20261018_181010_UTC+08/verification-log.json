@@ -1,0 +1,53 @@
+{
+  "status": "candidate; UI values are demonstration only",
+  "canvas": [
+    1190,
+    1786
+  ],
+  "native_art": [
+    1024,
+    1536
+  ],
+  "native_art_offset": [
+    84,
+    145
+  ],
+  "art_resampling": "NONE; source pixels pasted at 1:1 before normal edge masking/overlays",
+  "frame_resampling": "Original 1024×1536 frame, stars, and mask enlarged with Lanczos; frame is not native higher-resolution art",
+  "ui_resampling": "Text drawn at 3072×4608 and reduced once to target canvas; frame-derived UI metal uses original frame detail",
+  "original_art_ratio_note": "Original insertion was 881×1321 at72,125; new1190×1786 canvas fits native1024×1536 at84,145; subpixel rounding under1px. No 4K or newly generated art-detail claim.",
+  "cards": {
+    "iron": {
+      "source": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/blackiron-pure.png",
+      "sha256": "fb12c9c31d6ef127c25ad04def224446eae72a703b280139ea433eddf9f1bcc0",
+      "checked_uncovered_native_pixels": 1265678,
+      "changed_pixels_in_checked_region": 0,
+      "output": "01-黑铁-完整UI保源像素候选.png",
+      "added_alpha_outside_base": 0
+    },
+    "bronze": {
+      "source": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/bronze-material-cleanup-candidate-1.png",
+      "sha256": "756e8a78b4f32577e24ef33467ca2b76c0b98d430f5b743ba54f24a4c1377816",
+      "checked_uncovered_native_pixels": 1250504,
+      "changed_pixels_in_checked_region": 0,
+      "output": "02-青铜-完整UI保源像素候选.png",
+      "added_alpha_outside_base": 0
+    },
+    "silver": {
+      "source": "./guanyu-mythic-set/material-cleanup_20261018_180432_UTC+08/silver-blank-plaque-material-cleanup-candidate-1.png",
+      "sha256": "bbdf4baf63e08e845d2ce8ce72438fb824a604c25fed96865464b64dc79bd8ed",
+      "checked_uncovered_native_pixels": 1210043,
+      "changed_pixels_in_checked_region": 0,
+      "output": "03-白银-完整UI保源像素候选.png",
+      "added_alpha_outside_base": 0
+    },
+    "gold": {
+      "source": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/gold-horse-surface-repair-20261018_180829.png",
+      "sha256": "645b7b6978dde8cad260650f57566b9157bb89188edd0b95f1ca7cfb1dd473ba",
+      "checked_uncovered_native_pixels": 1190448,
+      "changed_pixels_in_checked_region": 0,
+      "output": "04-黄金-完整UI保源像素候选.png",
+      "added_alpha_outside_base": 0
+    }
+  }
+}

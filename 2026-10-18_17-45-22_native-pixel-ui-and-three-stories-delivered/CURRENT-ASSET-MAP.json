@@ -1,0 +1,157 @@
+{
+  "current_delivery": {
+    "delivered_at": "2026-10-18T09:44:11.597795Z",
+    "delivered_at_local": "2026-10-18T17:44:11.597795+08:00",
+    "items": [
+      {
+        "original_path": "guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/01-桃园神誓.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/1473e780548af3b0f2bfd3a0cd97b2c08afd68ec9ea6e89bc0d52ae7493887cf.png",
+        "sha256": "1473e780548af3b0f2bfd3a0cd97b2c08afd68ec9ea6e89bc0d52ae7493887cf",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000068c81f6962c34f74ee78bb5",
+          "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+          "file_name": "01-桃园神誓.png",
+          "current_version_number": 4
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/02-温酒请战.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/da5431d210f231dc483510784f856044ea71bfd3afd0a2851f3b7901bac0a601.png",
+        "sha256": "da5431d210f231dc483510784f856044ea71bfd3afd0a2851f3b7901bac0a601",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000df8c81f5a2cd1804d38aa7d6",
+          "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+          "file_name": "02-温酒请战.png",
+          "current_version_number": 8
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/storyfinish_20261018_173730_UTC+08/03-千里护行.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/aee0f1ecf0f6fb1db7fdb31154dc02b7190b98531bf5922cc0a1b52147285b7b.png",
+        "sha256": "aee0f1ecf0f6fb1db7fdb31154dc02b7190b98531bf5922cc0a1b52147285b7b",
+        "dimensions": [
+          1536,
+          1024
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000c95481f5a59fc6af52049993",
+          "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+          "file_name": "03-千里护行.png",
+          "current_version_number": 5
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/ui_nativepixel_20261018_173720_UTC+08/01-黑铁-完整UI保源像素候选.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/f3f440fae93a90f0c6a456b193d73a6e126455d8fc3a8af09e09b1c5be0f49de.png",
+        "sha256": "f3f440fae93a90f0c6a456b193d73a6e126455d8fc3a8af09e09b1c5be0f49de",
+        "dimensions": [
+          1190,
+          1786
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_000000009bdc81f58f47839fc450649d",
+          "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+          "file_name": "01-黑铁-完整UI保源像素候选.png",
+          "current_version_number": 1
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/ui_nativepixel_20261018_173720_UTC+08/02-青铜-完整UI保源像素候选.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/a8ef81e0315df866783827eca006a8d0b707ba5b2fbe571819b643a79e294917.png",
+        "sha256": "a8ef81e0315df866783827eca006a8d0b707ba5b2fbe571819b643a79e294917",
+        "dimensions": [
+          1190,
+          1786
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000bc4081f58e0d92d8d9c6460f",
+          "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+          "file_name": "02-青铜-完整UI保源像素候选.png",
+          "current_version_number": 1
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/ui_nativepixel_20261018_173720_UTC+08/03-白银-完整UI保源像素候选.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/c11ad23183359caad6c212877786f78cedfe00abe5da3a2ffcc2b5f8b134c1fd.png",
+        "sha256": "c11ad23183359caad6c212877786f78cedfe00abe5da3a2ffcc2b5f8b134c1fd",
+        "dimensions": [
+          1190,
+          1786
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000ea8481f597485ccbec054939",
+          "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+          "file_name": "03-白银-完整UI保源像素候选.png",
+          "current_version_number": 1
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/ui_nativepixel_20261018_173720_UTC+08/04-黄金-完整UI保源像素候选.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/22aa8b72c9c8ba0d9adda121e69be2bb384ff9d3a7b10a905b2b19fff42b34bb.png",
+        "sha256": "22aa8b72c9c8ba0d9adda121e69be2bb384ff9d3a7b10a905b2b19fff42b34bb",
+        "dimensions": [
+          1190,
+          1786
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_000000003a4c81f591ded64d5e515339",
+          "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+          "file_name": "04-黄金-完整UI保源像素候选.png",
+          "current_version_number": 1
+        }
+      },
+      {
+        "original_path": "guanyu-mythic-set/ui_nativepixel_20261018_173720_UTC+08/四阶关羽-框延伸UI保源像素总览.png",
+        "repository_path": "2026-10-18_17-45-22_native-pixel-ui-and-three-stories-delivered/assets/sha256/884ef2a5080bb3f0567de73105f5f00406d0ba8b70c9c3c15fb98c5569e4cbdb.png",
+        "sha256": "884ef2a5080bb3f0567de73105f5f00406d0ba8b70c9c3c15fb98c5569e4cbdb",
+        "dimensions": [
+          1536,
+          670
+        ],
+        "status": "delivered_pending_user_approval",
+        "delivered_at": "2026-10-18T09:44:11.597795Z",
+        "library_receipt": {
+          "status": "succeeded",
+          "file_id": "file_00000000765481f5bd39afb0da9ac789",
+          "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+          "file_name": "四阶关羽-框延伸UI保源像素总览.png",
+          "current_version_number": 1
+        }
+      }
+    ],
+    "status": "delivered_pending_user_review",
+    "resolution": "UI cards1190x1786 with original1024x1536 illustration at1:1; frame/star interpolated, text rerendered. Stories1536x1024. Not4K or native new-detail claim."
+  },
+  "approved_originals": "Use preserved prior base/source mappings. UI candidate identities remain independent.",
+  "diagnostics_included": true,
+  "review_status": "pending"
+}

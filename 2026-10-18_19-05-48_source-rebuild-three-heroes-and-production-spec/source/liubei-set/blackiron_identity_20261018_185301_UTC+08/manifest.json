@@ -1,0 +1,31 @@
+{
+  "actual_image_inputs": [
+    "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+  ],
+  "source_sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+  "reference_role": "ONLY left Liu Bei facial identity from already delivered peach-garden image; no source composition/materials or Guan/Zhang identity",
+  "candidate": "./liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-黑铁-v1-织席编履身份候选.png",
+  "candidate_sha256": "14e1c7ab9bcd328342ab1e3262939cc7820b14611bd99c0feaf9c39a63787a27",
+  "generated_original": "./generated_images/exec-882e7903-3825-4d40-8c0e-4efaa0dee390.png",
+  "actual_native_size": [
+    1024,
+    1536
+  ],
+  "mode": "builtin image_gen one new black-iron identity/story candidate",
+  "candidates_generated": 1,
+  "super_resolution": false,
+  "status": "worker and independent QA reject as final series style anchor: semi-realistic material language and oversized explicit dragon; identity/story useful; not uploaded",
+  "brief": "./liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-四卡三传记制作brief.md",
+  "qa_crops": [
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/face.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/faint-dragon.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/finished-sandals.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/foreground-ground.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/hands-work-sandal.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/identity-native-comparison.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/robe-material.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/stool-wood-reed.png",
+    "./liubei-set/blackiron_identity_20261018_185301_UTC+08/qa-100pct/woven-mat-wall.png"
+  ],
+  "independent_qa_agent": "/root/audit_image_quality_causes"
+}

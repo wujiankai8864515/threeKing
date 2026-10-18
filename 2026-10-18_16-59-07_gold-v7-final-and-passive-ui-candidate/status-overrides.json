@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-18T16:59:07.625902+08:00",
+  "type": "status_only",
+  "new_binary_assets": [],
+  "gold_v7": {
+    "status": "final_approved_frozen",
+    "approved_at": "2026-10-18T08:57:08Z",
+    "delivered_at": "2026-10-18T08:55:27.256950Z",
+    "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+    "library_version": 7
+  },
+  "blackiron_quality_v2": "unchanged",
+  "silver_quality_v3": "unchanged",
+  "bronze": "cloud-coverage and longer actual shaft localized revision in progress",
+  "stories": "two noncombat biographies in progress",
+  "passive_skill_ui": {
+    "status": "candidate_in_progress",
+    "base": "final gold v7",
+    "separate_layer": true,
+    "replace_base_art": false,
+    "elements": [
+      "icon",
+      "short name",
+      "backing texture"
+    ],
+    "tentative_example": "蓄势",
+    "gameplay_parameters": "not determined"
+  },
+  "network": "No external operations"
+}

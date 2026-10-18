@@ -1,0 +1,120 @@
+{
+  "kind": "black-to-bronze biography",
+  "method": "one built-in image_gen invocation, no API/postprocessing/upscaling",
+  "actual_referenced_image_paths": [
+    "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+    "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+  ],
+  "references": [
+    {
+      "path": "./zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "role": "Approved black-iron Zhang Fei identity/body and tidy matte black/red material language; exclude shop pose"
+    },
+    {
+      "path": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+      "role": "Approved Peach Garden v10: right Zhang identity reinforcement, left Liu and center Guan supporting identity; exclude original oath scene/composition/armor/glitter"
+    }
+  ],
+  "output": {
+    "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf"
+  },
+  "prompt": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/biography-prompt.txt",
+  "qa": {
+    "bio-zhang-face": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-zhang-face-100pct.png",
+      "box": [
+        470,
+        70,
+        685,
+        315
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-liu-guan-faces": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-liu-guan-faces-100pct.png",
+      "box": [
+        780,
+        160,
+        1240,
+        390
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-open-palm": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-open-palm-100pct.png",
+      "box": [
+        30,
+        295,
+        280,
+        440
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-purse-handoff": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-purse-handoff-100pct.png",
+      "box": [
+        760,
+        475,
+        1015,
+        815
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-cloth-table-wood": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-cloth-table-wood-100pct.png",
+      "box": [
+        245,
+        300,
+        775,
+        800
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-jars-wood": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-jars-wood-100pct.png",
+      "box": [
+        0,
+        70,
+        450,
+        315
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-ground-foreground": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-ground-foreground-100pct.png",
+      "box": [
+        385,
+        740,
+        1150,
+        1024
+      ],
+      "scale": "native 1:1 no resize"
+    },
+    "bio-near-shoulders": {
+      "path": "./zhangfei-set/bronze_biography_20261018_185451_UTC+08/qa/bio-near-shoulders-100pct.png",
+      "box": [
+        0,
+        630,
+        450,
+        1024
+      ],
+      "scale": "native 1:1 no resize"
+    }
+  },
+  "status": "candidate under review; no UI/frame baked; directly pre-bronze Yellow Turban campaign fundraising"
+}

@@ -1,0 +1,26 @@
+{
+  "version": "gold-hierarchy-20261018_170534",
+  "saved_at_beijing": "2026-10-18T17:05:34.557779+08:00",
+  "timezone": "UTC+08:00",
+  "method": "one built-in image_gen hierarchy-only edit",
+  "edit_target": "./guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+  "approved_source_verification": "./guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/manifest.json",
+  "generated_source": "./generated_images/exec-af360937-0b08-4f60-b6c5-994e1967cf7a.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-hierarchy-20261018_170534.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-hierarchy-20261018_170534.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "21204d76a6ace75018ea70963554d36ba179d097c86d3b11f55bac1ba9f05aaf",
+  "status": "candidate_pending_parent_hierarchy_review",
+  "visual_review": {
+    "method": "Source and result viewed using view_image and visually compared.",
+    "focal_hierarchy": "Guan Yu face/eyes, armor, ornate dragging blade and Red Hare now read as the brightest, crispest integrated main subject.",
+    "dragon": "Exact approved silver-lineage head, branched horns, layered mane, thick continuous torso and silhouette preserved; emissive bloom and near-white green highlights substantially reduced, rich forest-green volume remains legible and massive.",
+    "background": "Convoy, winding road and gate silhouettes remain readable at lower contrast; blank red flag unchanged for independent 刘 overlay.",
+    "frozen_elements": "Main face identity, rear riding/dragging pose, hands, clothing, straight polearm, Red Hare/giant hoof, rear-facing convoy direction, fallen officer and muddy edge debris preserved visually.",
+    "caution": "The dragon's glow reduction is visibly substantial rather than subtle; parent should judge top-tier visual power when reviewing the set, although size and anatomy are unchanged.",
+    "scope": "One candidate generated; source approved artwork retained, no frame changes or other task edits."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "timezone": "UTC+08",
+  "created": "2026-10-18T17:26:33+08:00",
+  "final_delivery": "four NEW UI preview Library identities managed separately by design_passive_skill_overlay plus assembly and escort story identities below; do not overwrite blank card with UI",
+  "source_assets": [
+    {
+      "key": "blackiron",
+      "path": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/01-黑铁·市井潜龙.png",
+      "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+      "version": 4,
+      "status": "user FINAL"
+    },
+    {
+      "key": "bronze",
+      "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-青铜·三骑追黄巾.png",
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "version": 8,
+      "status": "root QA, user pending"
+    },
+    {
+      "key": "silver",
+      "path": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/03-白银·关前扬威.png",
+      "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+      "version": 5,
+      "status": "root QA, user pending"
+    },
+    {
+      "key": "gold",
+      "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/04-黄金·护行拖刀.png",
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "version": 9,
+      "status": "root QA, user pending; approved design v7 retained"
+    },
+    {
+      "key": "assembly",
+      "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-温酒请战.png",
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "version": 7,
+      "status": "root QA, user pending"
+    },
+    {
+      "key": "escort",
+      "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/03-千里护行.png",
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "version": 4,
+      "status": "root QA, user pending; dragon approved reference"
+    },
+    {
+      "key": "peach_optional",
+      "path": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/01-桃园神誓.png",
+      "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      "version": 3,
+      "status": "candidate archived; excluded final6 batch"
+    }
+  ],
+  "card_pixels": [
+    1024,
+    1536
+  ],
+  "story_pixels": [
+    1536,
+    1024
+  ],
+  "old_versions_preserved": true
+}

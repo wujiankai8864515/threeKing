@@ -1,0 +1,70 @@
+{
+  "status": "visual presentation only; skill names, levels, and counts are not final mechanics",
+  "materials": {
+    "iron": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 1
+        }
+      ],
+      "overlay": "iron-overlay.png",
+      "source": "./guanyu-mythic-set/qualitylocalized_20261018_170920_UTC+08/01-黑铁·市井潜龙.png",
+      "source_sha256": "a63c50ab850eed117604e0450190f2f806d670648ea0644b36f8dd029e7ecfe6"
+    },
+    "bronze": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 1
+        }
+      ],
+      "overlay": "bronze-overlay.png",
+      "source": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-青铜·三骑追黄巾.png",
+      "source_sha256": "41cf7163ba1b5b9b826ee9790b69fbed814a9cdad3ed37c7901503bab5ad0dfb"
+    },
+    "silver": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 2
+        },
+        {
+          "name": "斩将",
+          "level": 2
+        }
+      ],
+      "overlay": "silver-overlay.png",
+      "source": "./guanyu-mythic-set/silver-natural-depth_20261018_171734_UTC+08/03-白银·关前扬威.png",
+      "source_sha256": "c85d0db9befebe468487a6c515b7f1eef3f8353819decba4ece41a66b4795816"
+    },
+    "gold": {
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 2
+        },
+        {
+          "name": "斩将",
+          "level": 2
+        },
+        {
+          "name": "武圣",
+          "level": 2
+        }
+      ],
+      "overlay": "gold-overlay.png",
+      "source": "./guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/04-黄金·护行拖刀.png",
+      "source_sha256": "5845a7a432d823f4272e1675b56c601f4bef8cc0aefd8c75db723c6b847502d2"
+    }
+  },
+  "source_cards_preserved": true,
+  "display_fields": {
+    "country": "蜀",
+    "title": "真·关羽",
+    "level": 1,
+    "advancement": "真",
+    "troop_icon": "example polearm infantry; not inferred from mounted art"
+  },
+  "note": "All added fields are independent display placeholders, not a mapping from rarity to advancement."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "story": "taoyuan",
+    "source": "./guanyu-mythic-set/pure/story-taoyuan-frontclear-20261018_174122.png",
+    "source_sha256": "1473e780548af3b0f2bfd3a0cd97b2c08afd68ec9ea6e89bc0d52ae7493887cf",
+    "candidate": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png",
+    "candidate_sha256": "8480350bdc45c3e6d18780e2986172b6de21f0765dbff199ba1d8cc2fac2baef",
+    "generated_original": "./generated_images/exec-ea1fe7bd-d56f-4c7c-b9e0-01fee873d16d.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "builtin image_gen edit",
+    "candidates_generated": 1,
+    "super_resolution": false,
+    "status": "independent QA passed; pending user confirmation; not uploaded",
+    "qa_crops": [
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-bark-roots.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-bark-trunk.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-cloth.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-guan-face.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-liu-face.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-stone-and-metal.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/taoyuan-zhang-face.png"
+    ],
+    "independent_qa_agent": "/root/audit_image_quality_causes"
+  },
+  {
+    "story": "wine",
+    "source": "./guanyu-mythic-set/weaponrepair_20261018_174725_UTC+08/温酒请战-v9-长柄修复候选.png",
+    "source_sha256": "815ab031a47a7e16f63d3755d3fe305bab950d964c986b797f08b27a37191c63",
+    "candidate": "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/温酒请战-v10-分材质清理候选.png",
+    "candidate_sha256": "fdc249dee76499fe23a7c4b40ae073995b6711edff3d1ec198178a518abde87f",
+    "generated_original": "./generated_images/exec-81566fc0-ad9d-47cf-a761-9a0ea478e699.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "builtin image_gen edit",
+    "candidates_generated": 1,
+    "super_resolution": false,
+    "status": "independent QA passed; pending user confirmation; not uploaded",
+    "qa_crops": [
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/wine-cloth.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/wine-full-blade-shaft-hand.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/wine-guan-face.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/wine-horse.png",
+      "./guanyu-mythic-set/materialclean_20261018_180135_UTC+08/qa-100pct/wine-liu-zhang-cao.png"
+    ],
+    "independent_qa_agent": "/root/audit_image_quality_causes"
+  }
+]

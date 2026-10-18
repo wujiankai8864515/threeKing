@@ -1,0 +1,30 @@
+{
+  "status": "candidate_pending_independent_and_root_QA",
+  "created_at": "2026-10-18T18:03:16+08:00",
+  "method": "one built-in image_gen edit",
+  "source": "./guanyu-mythic-set/pure/gold-local-depth-finish-20261018_172405.png",
+  "face_reference": "./guanyu-mythic-set/pure/gold-rear-dragging-20261018_160800.png",
+  "generated_source": "./generated_images/exec-0c1fd5d2-a9c8-42cb-89bb-25290af50fc8.png",
+  "output": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/gold-materialrepair-20261018_180316.png",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "qa": {
+    "full_and_100pct_face_blade_horse_viewed": true,
+    "improvement": "Random glitter noticeably reduced in cloth and mane; coherent material highlights retained in carved metal. Facial cheek highlight is less round/glowing; angular bone-structure change is subtle.",
+    "preservation": "Rear dragging pose, weapon, huge hoof, approved dragon and traveling-away convoy visually retained. Soft near dust/far atmospheric depth retained.",
+    "limitations": "Horse still retains strong irregular curved form highlights inherited from approved source. Material improvement is not a claim of anatomically perfect photorealism. Face was not wholly replaced. Independent QA requested.",
+    "no_uniform_new_texture_observed": true
+  },
+  "qa_crops_dir": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/QA",
+  "prompt": "./guanyu-mythic-set/materialrepair_20261018_180108_UTC+08/gold-materialrepair-20261018_180316.prompt.txt",
+  "uploaded": false,
+  "old_versions_preserved": true,
+  "no_superresolution": true,
+  "independent_QA": {
+    "reviewer": "audit_image_quality_causes",
+    "result": "passes candidate structural/identity threshold",
+    "findings": "Cloth/mane point light reduced. Hand, shaft, blade engraving and dragon no new hard defects. Face correction limited. Old horse haunch/leg scalloped plastic-like highlights remain; do not claim fully fixed or exact 16:08 face. Parent separately authorized one subsequent horse-surface correction."
+  }
+}

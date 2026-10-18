@@ -1,0 +1,104 @@
+{
+  "timezone": "UTC+08",
+  "status": "root QA passed; sent for user acceptance, not automatic approval",
+  "scope": "4 cards + 3 stories + overview hierarchy revision; prior approved retained",
+  "card_pixels": [
+    1024,
+    1536
+  ],
+  "story_pixels": [
+    1536,
+    1024
+  ],
+  "library_results": [
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/01-黑铁·市井潜龙.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000968881f6805467dae77c0b16",
+      "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+      "file_name": "01-黑铁·市井潜龙.png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁·市井潜龙.png",
+      "current_version_number": 3
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/03-千里护行.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000003b7481f6b70f1579f7387772",
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "file_name": "03-千里护行.png",
+      "local_metadata_applied": true,
+      "path": "/03-千里护行.png",
+      "current_version_number": 3
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-青铜·三骑追黄巾.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000004ba8820d81173274caf0ee64",
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "file_name": "02-青铜·三骑追黄巾.png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜·三骑追黄巾.png",
+      "current_version_number": 7
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-温酒请战.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000033a4820dbac9eca3ee49141c",
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "file_name": "02-温酒请战.png",
+      "local_metadata_applied": true,
+      "path": "/02-温酒请战.png",
+      "current_version_number": 6
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/03-白银·关前扬威.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000497c81f99ea14229b355b508",
+      "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+      "file_name": "03-白银·关前扬威.png",
+      "local_metadata_applied": true,
+      "path": "/03-白银·关前扬威.png",
+      "current_version_number": 4
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/01-桃园神誓.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008abc81f9b5a821c80e1bd70e",
+      "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      "file_name": "01-桃园神誓.png",
+      "local_metadata_applied": true,
+      "path": "/01-桃园神誓.png",
+      "current_version_number": 2
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/04-黄金·护行拖刀.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000020c881f6a8f6090ed3d40a05",
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "file_name": "04-黄金·护行拖刀.png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金·护行拖刀.png",
+      "current_version_number": 8
+    },
+    {
+      "local_path": "./guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/00-四阶层级总览.png",
+      "purpose": "replace_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000008c5c81f698cb9ec841bc3082",
+      "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+      "file_name": "00-四阶层级总览.png",
+      "local_metadata_applied": true,
+      "path": "/00-四阶层级总览.png",
+      "current_version_number": 6
+    }
+  ],
+  "current_pending_changes": "blackiron beans-only v4 candidate; 千里护行 face-only v4 candidate. User specifically approved new护行dragon as reference; gold design v7 remains approved prior to hierarchy v8."
+}

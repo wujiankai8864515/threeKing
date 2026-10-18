@@ -1,0 +1,21 @@
+{
+  "status": "gold frame art-quality candidate for root QA, not four-tier approval",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "generation": "built-in image_gen; original gold frame reference, deterministic draft for layout only",
+  "alpha_extrema": [
+    0,
+    254
+  ],
+  "center_alpha": 0,
+  "corner_alpha": 0,
+  "transparent_pixels": 1085193,
+  "opaque_pixels": 0,
+  "stars": 4,
+  "text": "none; later independent native SVG",
+  "illustration": "none",
+  "limitation": "1024x1536 raster native, not a resolution breakthrough or scalable frame",
+  "source": "generated_images/exec-c49ca8eb-fc8b-4d59-b2f3-8d78c50591ab.png"
+}

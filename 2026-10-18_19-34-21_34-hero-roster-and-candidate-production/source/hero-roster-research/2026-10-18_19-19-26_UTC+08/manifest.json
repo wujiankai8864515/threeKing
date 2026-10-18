@@ -1,0 +1,53 @@
+{
+  "created_at": "2026-10-18T19:19:26.654898+08:00",
+  "status": "research_only",
+  "files": [
+    {
+      "path": "next_five_shu_briefs.json",
+      "bytes": 59952,
+      "sha256": "d1cb3102343e47dcfc8e7776fae2496c0daff1074bbdbf1209ca2975dbaf3a6f"
+    },
+    {
+      "path": "roster_status_queue.json",
+      "bytes": 23383,
+      "sha256": "0e8e313e6786b37b7151d9e7d1c5a30cbb6f41e8faaf8dfa496fe434a18e383f"
+    },
+    {
+      "path": "sources.json",
+      "bytes": 21736,
+      "sha256": "bd09d87f0818e4bdbed7b0d52382bc4ae0c28c92be64dec52fe21d7bba70f64a"
+    },
+    {
+      "path": "wei_wu_qun_selection_briefs.json",
+      "bytes": 10249,
+      "sha256": "53c0dbf415384bf0850d2bb2eb5e33a4f68c51b74505e60c87b8fba5a938b699"
+    },
+    {
+      "path": "zhaoyun_identity_sample_preparation.json",
+      "bytes": 4272,
+      "sha256": "a635cc774006317cfaada3d5b0da42a2e707e68e0dd09598caeb6bcf151d5d11"
+    },
+    {
+      "path": "下一批英雄名单与五名蜀将制作提案.md",
+      "bytes": 40969,
+      "sha256": "be593bc11567b3eb60589ad6283456308d11b8e1e769d47c355699d46cdc3e0a"
+    },
+    {
+      "path": "魏五子差异与吴群选角补充.md",
+      "bytes": 13308,
+      "sha256": "6d17b361a3c2c8ed9024dba993903ccb303129c02baa135cbd7fc088e3ab1b6a"
+    }
+  ],
+  "checks": [
+    "34 unique heroes; Shu8/Wei10/Wu8/Qun8",
+    "5 briefs each with four cards and three linked biographies",
+    "All passive draft names two Chinese characters",
+    "Source ids resolve",
+    "No image generation; all image counts zero",
+    "8 bounded batches cover all 34 heroes exactly once",
+    "Wei five role versions separated; Wu/Qun selection sources linked",
+    "Zhao identity sample text prepared; no image generated"
+  ],
+  "remote_backup_status": "not_attempted_in_this_research_task",
+  "updated_at": "2026-10-18T19:29:02.196478+08:00"
+}

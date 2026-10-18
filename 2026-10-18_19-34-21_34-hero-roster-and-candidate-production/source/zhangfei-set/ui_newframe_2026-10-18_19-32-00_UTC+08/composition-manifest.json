@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "source_status": "technical_candidate_pass_frame_QA_pending",
+      "source_sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "张飞",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "虎胆",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+      "source_status": "technical_candidate_pass_frame_QA_pending",
+      "source_sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "张飞",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "虎胆",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "source_status": "technical_candidate_pass_frame_QA_pending",
+      "source_sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "张飞",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "虎胆",
+            "level": "+2"
+          },
+          {
+            "name": "破军",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+      "source_status": "technical_candidate_pass_frame_QA_pending",
+      "source_sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "蜀",
+        "title": "张飞",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "虎胆",
+            "level": "+2"
+          },
+          {
+            "name": "破军",
+            "level": "+2"
+          },
+          {
+            "name": "断喝",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

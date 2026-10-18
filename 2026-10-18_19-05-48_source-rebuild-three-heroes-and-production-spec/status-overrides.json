@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-10-18T19:05:48.472078+08:00",
+  "supersedes_status": "2026-10-18_18-14-27_material-bundle-delivery-confirmed/status-overrides.json",
+  "previous_material_batch": "User rejected residual global gold speckles; prior production QA pass is not user acceptance. Blackiron absolute-clean-control premise withdrawn; historical final remains archived.",
+  "guanyu_sources": {
+    "blackiron": "QA_pass_candidate",
+    "bronze": "QA_pass_candidate",
+    "silver": "QA_pass_candidate",
+    "gold": "NOT_PASS_tail_speckle_residual_stop_edits",
+    "peach": "QA_pass_candidate",
+    "assembly": "QA_pass_candidate",
+    "escort": "QA_pass_candidate"
+  },
+  "guanyu_gold": "Residual tail speckles failed QA; edits stopped, not approved.",
+  "new_frames": "In progress, no complete new card bundle delivery established.",
+  "zhangfei": "Four cards and three stories authorized; candidate production in progress. Identity from previously user-seen peach v5. Black clothing with limited red/green.",
+  "liubei": "First blackiron sample/style correction in progress, subsequent four-card three-story scope authorized. Yellow dragon, benevolence and team buffs/healing.",
+  "specification_delivery": {
+    "at": "2026-10-18T11:02:43Z",
+    "document_pages": 9,
+    "directory": "hero-production-spec/2026-10-18_18-54-40_UTC+08"
+  },
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "remote_note": "Only initial commit verified. Later increments local; no network operations in this capture."
+}

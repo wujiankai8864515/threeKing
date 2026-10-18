@@ -1,0 +1,270 @@
+{
+  "created_at": "2026-10-18T19:29:02.165236+08:00",
+  "status": "selection_and_differentiation_brief_complete_not_full_individual_production_briefs",
+  "wei_five": [
+    {
+      "hero_id": "zhangliao",
+      "name": "张辽",
+      "reference_version": "官网标准张辽页面，核验2026-10-18",
+      "game_reading": "突袭以改变摸牌方式取得他人手牌，侧重资源与节奏控制。",
+      "original_role": "切入后排，压制关键敌人的下一次行动；精兵奇袭，不做纯厚甲前排。",
+      "visual": "紧凑束发、折线披风，前倾快切；少量精锐而非铺满骑兵。",
+      "boundary": "与马超正面开阵区分；不把三国杀抽牌规则直接搬到即时战斗。",
+      "source_ids": [
+        "G_ZHANGLIAO",
+        "G_FIVEZI2016"
+      ]
+    },
+    {
+      "hero_id": "yuejin",
+      "name": "乐进",
+      "reference_version": "国战2013骁果；不冒称所有版本通用",
+      "game_reading": "回合外施压，迫使对方付装备成本或受伤。",
+      "original_role": "短周期主动压迫、追着敌人进攻间隙补击；小体型也有正面锐气。",
+      "visual": "紧身短甲、低重心、短促步伐；第68回持枪与凌统交战可作兵器考证起点。",
+      "boundary": "不开局一次冲完，不与马超抢同一种骑阵爆发；不把身材画成儿童。",
+      "source_ids": [
+        "G_GUO2013",
+        "N068"
+      ]
+    },
+    {
+      "hero_id": "yujin",
+      "name": "于禁",
+      "reference_version": "2014毅重→节钺；现官网镇军，分开记录",
+      "game_reading": "早版重防守，节钺加入控制与防御转换，现页面镇军偏控制辅助。",
+      "original_role": "整队守阵、抑制敌方突破；以第16回先筑营后辩谤的纪律为主轴。",
+      "visual": "方正闭合甲片、竖直旗令、沉稳正面；营寨和队列秩序清楚。",
+      "boundary": "守阵是本项目选择，不称为现版三国杀技能原样；不以水淹败降作唯一人格。",
+      "source_ids": [
+        "G_YUJIN2014",
+        "G_YUJIN_NOW",
+        "N016"
+      ]
+    },
+    {
+      "hero_id": "zhanghe",
+      "name": "张郃",
+      "reference_version": "官网巧变页面，核验2026-10-18",
+      "game_reading": "牺牲或跳过阶段来转移场上牌，强调位置、时机和弹性。",
+      "original_role": "变阵移位，扰乱敌方阵形或把队友调离危险；操作空间区别于直接伤害。",
+      "visual": "修长、转身观察、横向衣摆，脚下山地斜线；原创军阵纹而非现代游戏蝶翼。",
+      "boundary": "不照搬无双张郃的爪刃、蝶舞造型；专属兵器名未考证前不写。",
+      "source_ids": [
+        "G_ZHANGHE",
+        "G_FIVEZI2016"
+      ]
+    },
+    {
+      "hero_id": "xuhuang",
+      "name": "徐晃",
+      "reference_version": "2016林包断粮；后版新增内容不混入",
+      "game_reading": "干扰敌方获取资源，克制持续依赖补给的对手。",
+      "original_role": "持续压制恢复或能量补给，稳步拆防线；具体只选一个资源轴定稿。",
+      "visual": "宽肩厚实、横向受力、粗大斧形轮廓可作待核造型方向；粮道、辎重断面构图。",
+      "boundary": "不默认同时减疗、减能、减攻速；斧与演义具体阶段需个人考证后定。",
+      "source_ids": [
+        "G_XUHUANG2016",
+        "G_FIVEZI2016"
+      ]
+    }
+  ],
+  "wu_selection": [
+    {
+      "hero_id": "sunquan",
+      "name": "孙权",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "主君组织与资源调度",
+      "novel_anchor": "第44回定抗曹与用周瑜：取决断、用人，不套刘备治疗。",
+      "source_ids": [
+        "G_GUO2013",
+        "G_POOL2021",
+        "N044"
+      ]
+    },
+    {
+      "hero_id": "sunce",
+      "name": "孙策",
+      "classic_basis": "山包，官方2016攻略明示",
+      "original_role": "短程强攻与进取成长",
+      "novel_anchor": "第15回小霸王创业和神亭交锋，保留吴阵营前期创业线。",
+      "source_ids": [
+        "G_SUNCE2016",
+        "N015"
+      ]
+    },
+    {
+      "hero_id": "zhouyu",
+      "name": "周瑜",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "大范围火攻与统军",
+      "novel_anchor": "第44、49回督军、赤壁火攻；大面水战焰幕，与庞统火印、陆逊推进火线分开。",
+      "source_ids": [
+        "G_GUO2013",
+        "N044",
+        "N049"
+      ]
+    },
+    {
+      "hero_id": "lumeng",
+      "name": "吕蒙",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "隐藏意图后的定点突破",
+      "novel_anchor": "第75回白衣渡江，伪装、纪律和突然控制；不与甘宁夜袭混成同一镜头。",
+      "source_ids": [
+        "G_GUO2013",
+        "N075"
+      ]
+    },
+    {
+      "hero_id": "luxun",
+      "name": "陆逊",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "耐心部署后推进火线",
+      "novel_anchor": "第84回等待敌疲与连营火攻，清俊书生将领；火线按地形推进，不做凤凰。",
+      "source_ids": [
+        "G_GUO2013",
+        "N084"
+      ]
+    },
+    {
+      "hero_id": "ganning",
+      "name": "甘宁",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "高速袭扰与冒险切入",
+      "novel_anchor": "第68回百骑劫营有白鹅翎标记；锦帆、水盗背景作为后续四阶段考证方向。",
+      "source_ids": [
+        "G_GUO2013",
+        "N068"
+      ]
+    },
+    {
+      "hero_id": "huanggai",
+      "name": "黄盖",
+      "classic_basis": "标准核心；早期国战目录可核验",
+      "original_role": "主动付代价后突破",
+      "novel_anchor": "第47、49回苦肉与火船，老将船战；与黄忠弓手区分，不复制低血斩杀。",
+      "source_ids": [
+        "G_GUO2013",
+        "N047",
+        "N049"
+      ]
+    },
+    {
+      "hero_id": "sunshangxiang",
+      "name": "孙尚香",
+      "classic_basis": "标准核心，通名来自现代人物传统/三国杀",
+      "original_role": "轻装机动与武装协同",
+      "novel_anchor": "第54回孙夫人及持械侍婢提供尚武背景。小说称孙夫人，不能把孙尚香当原文姓名；弓/双刃专名另待核。",
+      "source_ids": [
+        "G_GUO2013",
+        "G_POOL2021",
+        "N054"
+      ]
+    }
+  ],
+  "qun_selection": [
+    {
+      "hero_id": "lubu",
+      "name": "吕布",
+      "classic_basis": "用户明确；标准核心",
+      "original_role": "正面极强武勇与单挑压制",
+      "novel_anchor": "第3回赤兔与戟、第16回辕门射戟。后续避免只复制关羽横刀姿态。",
+      "source_ids": [
+        "G_GUO2013",
+        "N003",
+        "N016"
+      ]
+    },
+    {
+      "hero_id": "diaochan",
+      "name": "貂蝉",
+      "classic_basis": "用户明确；标准核心",
+      "original_role": "离间目标关系与受击转移",
+      "novel_anchor": "第8、9回连环计，心计与抉择而非单纯美人肖像。技能转移是原创提案。",
+      "source_ids": [
+        "G_GUO2013",
+        "N008",
+        "N009"
+      ]
+    },
+    {
+      "hero_id": "zhangjiao",
+      "name": "张角",
+      "classic_basis": "用户明确；经典风包方向",
+      "original_role": "黄天符法与广域灾变",
+      "novel_anchor": "第1回太平要术、符水与起事。借书卷符箓轴，和诸葛亮谨慎布局的风雷分开。",
+      "source_ids": [
+        "G_GUO2013",
+        "N001"
+      ]
+    },
+    {
+      "hero_id": "huatuo",
+      "name": "华佗",
+      "classic_basis": "用户明确；标准核心",
+      "original_role": "专职救治与解除异常",
+      "novel_anchor": "第75、78回治疗与青囊书；诊治手势、青囊器物，避免套刘备君主加益。传记只讲小说，不提供现实医疗做法。",
+      "source_ids": [
+        "G_GUO2013",
+        "N075",
+        "N078"
+      ]
+    },
+    {
+      "hero_id": "dongzhuo",
+      "name": "董卓",
+      "classic_basis": "补入；经典神话再临人物",
+      "original_role": "高耐久与有代价的暴烈力量",
+      "novel_anchor": "第3、9回权势建立和败亡；宽大笼罩性剪影。暴政不包装成正义功绩。",
+      "source_ids": [
+        "G_ROSTER",
+        "G_POOL2021",
+        "N003",
+        "N009"
+      ]
+    },
+    {
+      "hero_id": "yuanshao",
+      "name": "袁绍",
+      "classic_basis": "补入；经典神话再临人物",
+      "original_role": "兵势压制与群体齐射",
+      "novel_anchor": "第30回官渡与乌巢，名门阵列、众军与秩序。群射为原创战斗方向，不能把史实成败机械转成数值。",
+      "source_ids": [
+        "G_GUO2013",
+        "G_POOL2021",
+        "N030"
+      ]
+    },
+    {
+      "hero_id": "jiaxu",
+      "name": "贾诩",
+      "classic_basis": "补入；林包官方攻略明示",
+      "original_role": "封锁救援与风险控制",
+      "novel_anchor": "第9回劝李傕郭汜返攻、第68回继嗣建言展示谋局跨度；药毒绿雾只是比喻，非原著职业毒师。",
+      "source_ids": [
+        "G_JIAXU2016",
+        "N009",
+        "N068"
+      ]
+    },
+    {
+      "hero_id": "zuoci",
+      "name": "左慈",
+      "classic_basis": "补入；山包官方攻略明示",
+      "original_role": "幻影误导与有限变换",
+      "novel_anchor": "第68回左慈戏曹操已有幻术叙事，适配神话层。低阶仅一种清晰幻影机制，避免复制任意技能的复杂规则。",
+      "source_ids": [
+        "G_ZUOCI2014",
+        "N068"
+      ]
+    }
+  ],
+  "limits": [
+    "吴、群各8人固定边界；候补本批不自动加入。",
+    "经典名单不等于2026当前强度排名。",
+    "玩法总结只抽象借鉴，战斗机制、技能名和视觉均需原创。",
+    "本表不是21人的四卡三传记完成证明；下一阶段仍需逐人完整考证。",
+    "网页攻略为官方发布/收录资料，其中历史评语不作为小说或史实的证据。"
+  ]
+}

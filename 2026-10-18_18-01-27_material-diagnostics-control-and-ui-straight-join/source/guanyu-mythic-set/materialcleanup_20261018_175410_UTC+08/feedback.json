@@ -1,0 +1,24 @@
+{
+  "time": "2026-10-18T17:54:10+08:00",
+  "screenshot_sources": [
+    "095001",
+    "095108",
+    "095141",
+    "095207",
+    "095238"
+  ],
+  "issues": [
+    "tree bark random yellow spots",
+    "cloth armor mane inappropriate scattered highlights",
+    "bronze blade horsehead excessive point glints",
+    "gold face bloated planes and lighting",
+    "bronze closeup pixel limitation and fused detail"
+  ],
+  "scope_now": "one escort material-cleanup sample, no batch",
+  "future_clothing_palette": {
+    "LiuBei": "green white",
+    "GuanYu": "green black",
+    "ZhangFei": "black red little green"
+  },
+  "old_versions_preserved": true
+}

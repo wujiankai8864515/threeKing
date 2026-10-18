@@ -1,0 +1,959 @@
+{
+  "recorded_at": "2026-10-18T17:28:25.595690+08:00",
+  "timestamp_policy": "Use exact event seconds when supported. Earlier event times were supplied only to the minute, so feedback_at_exact is null and minute precision is explicit; never use archive time as event time.",
+  "events": [
+    {
+      "id": "F00",
+      "feedback_at_exact": null,
+      "feedback_date": null,
+      "feedback_local_time_reported": null,
+      "timezone": "UTC+08:00",
+      "precision": "historical baseline; exact time unknown",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "four generic frames/star UI",
+        "peach-grove-v2",
+        "grounded-card-v1",
+        "Hua-Xiong-focus-v2"
+      ],
+      "keep": "Freeze frames/stars and approved grounded peach grove; Hua Xiong physique approved.",
+      "change": "Grounded Romance settings, fantastical characters/dragon/combat; bean selling identified as folk adaptation; four card stages bean seller, Yellow Turban, gate fame, Red Hare passes. Hua weapon/three-waiters/plaque pending.",
+      "action": "Current four cards and road story delivered pending review; preserve old exploration.",
+      "supersedes": "",
+      "source_record": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/DECISIONS.md"
+    },
+    {
+      "id": "F01",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "15:48",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "bronze-v1",
+        "silver-v1",
+        "gold-v1"
+      ],
+      "keep": "Blackiron approved; bronze composition/peach/mud/Yellow Turban liked.",
+      "change": "Bronze blue energy to emerald faint dragon; silver stiff and no readable gate label; gold unsatisfactory details incomplete.",
+      "action": "Freeze blackiron, revise bronze/silver; await gold detail.",
+      "supersedes": [
+        "F00 card review pending"
+      ],
+      "source_record": "2026-10-18_15-49-47_approval-feedback-delta/status-overrides.json"
+    },
+    {
+      "id": "F02",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "15:51",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "bronze-v1",
+        "silver-v1",
+        "gold-v1"
+      ],
+      "keep": "Blackiron frozen; gold hero/horse pose preserved for this round.",
+      "change": "Pure green dragon-shaped blade energy; silver dynamic action, readable 汜水關 and opposing-army narrative; gold pure green dragon and five-passes journey.",
+      "action": "Authorize bronze localized edit, silver redo and gold edit.",
+      "supersedes": [
+        "F01 gold awaiting details"
+      ],
+      "source_record": "2026-10-18_15-52-32_revision-directions-delta/status-overrides.json"
+    },
+    {
+      "id": "F03",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:01",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "bronze-v2",
+        "silver-v2",
+        "gold-v2"
+      ],
+      "keep": "Blackiron, bronze and silver approved. Gold hero and horse praised.",
+      "change": "Gold needs strong breaking gate, defeated guard, road and escort.",
+      "action": "Freeze first three; revise gold narrative.",
+      "supersedes": [
+        "F01",
+        "F02"
+      ],
+      "source_record": "2026-10-18_16-02-38_three-cards-approved-status-delta/status-overrides.json"
+    },
+    {
+      "id": "F04",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:03",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "bronze-v2",
+        "blackiron-v1",
+        "silver-v2"
+      ],
+      "keep": "Blackiron and silver frozen. Preserve bronze established strengths but reopen approval.",
+      "change": "Bronze hand/weapon/swing trajectory inconsistent; remove ring-shaped dragon; show complete pure-green dragon head clear of frame, thicker yet tier-appropriate.",
+      "action": "Reopen bronze v2 for revision.",
+      "supersedes": [
+        "F03 bronze approval/freeze"
+      ],
+      "source_record": "2026-10-18_16-04-58_gold-breakthrough-and-bronze-feedback-delta/status-overrides.json"
+    },
+    {
+      "id": "F05",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:04",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "blackiron-v1",
+        "silver-v2",
+        "bronze-v2",
+        "gold-v3-saved-candidate"
+      ],
+      "keep": "Blackiron and silver must remain unchanged; peach/frames/stars unchanged. Retain high quality of gold hero/horse.",
+      "change": "Regenerate bronze and gold with clearly different cameras/actions from silver and each other; avoid uniform left-to-right action. New gold pose allowed.",
+      "action": "Gold v3 saved but not delivered/accepted after new direction; regenerate bronze/gold.",
+      "supersedes": [
+        "F02 gold preserve-pose restriction",
+        "F03 bronze freeze",
+        "gold-v3 delivery implication"
+      ],
+      "source_record": "2026-10-18_16-05-44_regenerate-bronze-gold-status-delta/status-overrides.json"
+    },
+    {
+      "id": "F06",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:05",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "Hua-Xiong-story-v2",
+        "approved-peach-grove-v2"
+      ],
+      "keep": "Keep background, dragon, Guan Yu clothing/pose, three wine waiters and exact 汜水關 text.",
+      "change": "Fix distorted Guan Yu face; rigid blade and real contact point; restore strong blade aura. Correct Hua Xiong wrist/grip balance. Liu Bei/Zhang Fei identities must match approved peach grove; Cao Cao remains distinct.",
+      "action": "Targeted revision in parallel with bronze/gold; not whole-scene redesign.",
+      "supersedes": [
+        "Hua-Xiong-v2 review pending"
+      ],
+      "source_record": "Latest user direction summarized for project requirements"
+    },
+    {
+      "id": "F07",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "16:06",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T16:07:58.684096+08:00",
+      "asset_versions": [
+        "all subsequent assets and revisions"
+      ],
+      "keep": "Preserve every decision and reversal.",
+      "change": "Record every feedback chronologically with date/hour/minute/second, asset version, keep/change/action and supersedes.",
+      "action": "Use exact feedback timestamp when available; never invent missing seconds. Record capture time separately.",
+      "supersedes": [
+        "Final-summary-only documentation"
+      ],
+      "source_record": "Latest user documentation requirement"
+    },
+    {
+      "id": "F08",
+      "feedback_at_exact": "2026-10-18T16:14:54+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:16:31.336088+08:00",
+      "asset_versions": [
+        "Hua-Xiong-story-v3",
+        "revision_20261018_161025_UTC+08/02-汜水關斩华雄.png"
+      ],
+      "keep": "Background, dragon, Guan Yu clothes/pose, exact gate sign and wine waiters.",
+      "change": "Direct Guan Yu gaze toward Hua Xiong. Hua Xiong apparent extra arm/confused two-arm anatomy: redraw the entire two-arm chain. Guan Yu broad full crescent-glaive belly must remain broad through mid/front rather than root-wide taper-thin; correct physical clash point.",
+      "action": "Targeted Hua Xiong v4 revision underway; no completed v4 included.",
+      "supersedes": [
+        "Hua-Xiong-v3 pending review"
+      ],
+      "source_record": "User feedback timestamp supplied exactly"
+    },
+    {
+      "id": "F09",
+      "feedback_at_exact": "2026-10-18T16:15:36+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:17:36.747846+08:00",
+      "asset_versions": [
+        "Hua-Xiong-v3"
+      ],
+      "keep": "Preserve main scene and approved layout.",
+      "change": "Dragon body is discontinuous: make continuous head-neck-trunk-tail volume, coherent scales/claws and occlusion curve. Do not patch with fog.",
+      "action": "Merge into Hua v4 in progress.",
+      "supersedes": [
+        "Earlier dragon preserved unchanged restriction"
+      ],
+      "source_record": "Exact user-feedback time supplied"
+    },
+    {
+      "id": "F10",
+      "feedback_at_exact": "2026-10-18T16:16:23+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:17:36.747846+08:00",
+      "asset_versions": [
+        "Hua-Xiong-v3 / approved-peach identities"
+      ],
+      "keep": "Liu Bei and Zhang Fei facial identities may match approved peach grove.",
+      "change": "Clothes must be campaign armor/robes of the same era as Guan Yu; do not copy peach-grove civilian clothes.",
+      "action": "Apply to Hua v4 waiters.",
+      "supersedes": [
+        "Ambiguous matching-peach instruction for clothing"
+      ],
+      "source_record": "Exact user-feedback time supplied"
+    },
+    {
+      "id": "F11",
+      "feedback_at_exact": "2026-10-18T16:16:32+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:17:36.747846+08:00",
+      "asset_versions": [
+        "Hua-Xiong-v3 Cao Cao"
+      ],
+      "keep": "Keep Cao Cao separate and keep exact 汜水關 plaque.",
+      "change": "Cao Cao must read as a commander with campaign armor/robe and sword presence, not a scholar; no imperial anachronism. Campaign-era reference does not rename the gate to 虎牢.",
+      "action": "Apply to Hua v4 commander.",
+      "supersedes": [
+        "Prior scholar-like Cao Cao treatment"
+      ],
+      "source_record": "Exact user-feedback time supplied"
+    },
+    {
+      "id": "F12",
+      "feedback_at_exact": "2026-10-18T16:17:21+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:22:31.161047+08:00",
+      "asset_versions": [
+        "Guan-Yu-slays-Hua-Xiong-biography-v3"
+      ],
+      "keep": "Existing Guan Yu scene and setting.",
+      "change": "Correct subject name: Guan Yu slays Hua Xiong biography, not Hua Xiong biography. Cao Cao must raise a cup of warm wine. Hua Xiong arm structure remains the primary defect.",
+      "action": "Merge into current story revision.",
+      "supersedes": [
+        "Ambiguous Hua-Xiong-biography naming"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F13",
+      "feedback_at_exact": "2026-10-18T16:18:38+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:22:31.161047+08:00",
+      "asset_versions": [
+        "bronze-v3"
+      ],
+      "keep": "Mud, peach blossoms and Yellow Turban battle context.",
+      "change": "Reject Guan Yu reading as a Yellow Turban leader facing same direction. Turn gaze/body/blade against counter-facing enemies; larger broad glaive; larger green phantom dragon BEHIND him, not a small solid foreground pet.",
+      "action": "Rework bronze opposition/combat and dragon staging.",
+      "supersedes": [
+        "Bronze-v3 delivered pending approval"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F14",
+      "feedback_at_exact": "2026-10-18T16:19:45+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:22:31.161047+08:00",
+      "asset_versions": [
+        "gold-v4"
+      ],
+      "keep": "Rear-view dragging-blade action, mud and weapon strongly liked.",
+      "change": "No additional change stated in this feedback.",
+      "action": "Preserve these strengths for targeted next revision.",
+      "supersedes": [
+        "Gold-v4 unspecified pending reaction"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F15",
+      "feedback_at_exact": "2026-10-18T16:21:20+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:22:31.161047+08:00",
+      "asset_versions": [
+        "gold-v4"
+      ],
+      "keep": "Keep Guan Yu and horse pose, weapon, ground and clothes.",
+      "change": "Only fix carriage facing: travel away toward SAME gate as Guan Yu, not toward him; readable 刘 carriage flag. Make green dragon head/body thicker, larger and majestic for highest tier.",
+      "action": "Localized carriage/flag/dragon revision; do not regenerate approved pose.",
+      "supersedes": [
+        "Earlier broad gold regeneration permission for current next revision"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F16",
+      "feedback_at_exact": "2026-10-18T16:23:29+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:28:07.665877+08:00",
+      "asset_versions": [
+        "bronze-next"
+      ],
+      "keep": "Mud/peach battle context and tier progression.",
+      "change": "Use distant green phantom larger than blackiron yet weaker than frozen silver. Truly broad large glaive and charged pose; do not shrink subject to fit frame.",
+      "action": "Apply to bronze generation.",
+      "supersedes": [
+        "Small foreground dragon framing compromise"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F17",
+      "feedback_at_exact": "2026-10-18T16:24:14+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:28:07.665877+08:00",
+      "asset_versions": [
+        "gold-v4"
+      ],
+      "keep": "Overall camera direction praised.",
+      "change": "Clarify praise concerns overall camera, not acceptance of all fine details.",
+      "action": "Continue targeted carriage/flag/dragon work without claiming full approval.",
+      "supersedes": [
+        "Overbroad interpretation of F14 praise"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F18",
+      "feedback_at_exact": "2026-10-18T16:25:36+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:28:07.665877+08:00",
+      "asset_versions": [
+        "bronze-next"
+      ],
+      "keep": "Creative action exploration.",
+      "change": "Action examples are possibilities, not a request to create every example. Partial horse is allowed; ordinary horse, not Red Hare.",
+      "action": "Use selective creative direction.",
+      "supersedes": [
+        "Any assumption that every example is requested"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F19",
+      "feedback_at_exact": "2026-10-18T16:26:44+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:28:07.665877+08:00",
+      "asset_versions": [
+        "bronze-standing-candidate",
+        "bronze-next-mounted"
+      ],
+      "keep": "Mud, peach blossoms, distant green phantom.",
+      "change": "Explicitly supersede standing composition: large Guan Yu foreground, smaller Liu Bei and Zhang Fei behind, three ordinary horses chasing fleeing Yellow Turbans. Side pursuit camera distinct from gold rear view.",
+      "action": "Generate mounted trio pursuit; archive standing candidate as viewed but not delivered.",
+      "supersedes": [
+        "F13 standing opposition staging",
+        "revision_20261018_162540_UTC+08 standing candidate"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F20",
+      "feedback_at_exact": "2026-10-18T16:30:12+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:31:25.091005+08:00",
+      "asset_versions": [
+        "关羽斩华雄传记-v4"
+      ],
+      "keep": "Cao Cao and Liu Bei explicitly approved. Keep background, dragon, Guan Yu clothes/pose, broad glaive/contact and 汜水關 name. Preserve Hua Xiong Xiliang physique/hair identity.",
+      "change": "Zhang Fei: dark-green Shu armor, bold round eyes/brows and tough face. Guan Yu: intense combat focus on Hua Xiong without facial distortion. Hua Xiong left/right arm perspective remains wrong; changing the entire upper-body view is authorized, not a patch.",
+      "action": "Reconstruct v5 with simpler front three-quarter braced kneeling/recoil upper body, clearly readable shoulders/elbows/wrists. Two new cards continue in parallel.",
+      "supersedes": [
+        "Hua-Xiong upper-body/arm patch-only constraint",
+        "Story-v4 pending-review status"
+      ],
+      "source_record": "Exact user feedback time supplied"
+    },
+    {
+      "id": "F21",
+      "feedback_at_exact": "2026-10-18T16:32:18+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:36:24.643925+08:00",
+      "asset_versions": [
+        "关羽斩华雄传记-next",
+        "frozen-silver-v2 reference"
+      ],
+      "keep": "Main identities and established scene.",
+      "change": "Lower Guan Yu and dragon slightly toward center. Guan Yu, blade and dragon form the only high-focus group. Dragon has thick head and partial body hidden by cloud, less snake-like coil. Use frozen silver card clothing/weapon reference. Others smaller, lower contrast/detail, atmospheric; plaque still readable.",
+      "action": "Apply hierarchy and reference direction to next story.",
+      "supersedes": [
+        "Earlier equally detailed multi-character treatment"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F22",
+      "feedback_at_exact": "2026-10-18T16:35:03+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:36:24.643925+08:00",
+      "asset_versions": [
+        "four-cards-quality-revision",
+        "关羽斩华雄传记-quality-revision",
+        "five-passes-story-quality-revision"
+      ],
+      "keep": "Preserve stage content, face identities, approved originals and blackiron/silver CONTENT; peach unchanged.",
+      "change": "Final deliverable: four cards plus two stories in high definition with consistent hierarchy. Main faces/eyes/armor/weapons crisp, not blurred, lettering legible. Blackiron/silver quality-only re-render allowed, not content redesign; use image generation refinement rather than mere upscale. Include latest three-rider bronze and gold carriage 刘 flag/thicker dragon.",
+      "action": "Prepare six quality revisions. Two stories currently interpreted as Guan Yu slays Hua Xiong and Five Passes, pending clarification if user means otherwise. Queued cards withheld after scope change.",
+      "supersedes": [
+        "Absolute no-pixel-change interpretation of blackiron/silver freeze",
+        "Prior delivery plan for queued cards"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F23",
+      "feedback_at_exact": "2026-10-18T16:47:57+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:50:11.984212+08:00",
+      "asset_versions": [
+        "bronze-quality-v5"
+      ],
+      "keep": "Overall image okay; everything except dragon remains unchanged.",
+      "change": "Show dragon head close-up; hide most body in clouds; make it more transparent/ghostly.",
+      "action": "Localized dragon-only edit underway.",
+      "supersedes": [
+        "General bronze composition revision scope"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F24",
+      "feedback_at_exact": "2026-10-18T16:48:53+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:50:11.984212+08:00",
+      "asset_versions": [
+        "gold-quality-v6",
+        "frozen-silver dragon reference"
+      ],
+      "keep": "Keep Guan Yu, horse, rear-view dragging-blade action, carriage and 刘 flag.",
+      "change": "Current dragon head/horns ugly and weak. Use frozen silver dragon as visual reference; gold green head/neck must be bigger and stronger.",
+      "action": "Localized dragon-only edit underway.",
+      "supersedes": [
+        "Any broad gold composition changes"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F25",
+      "feedback_at_exact": "2026-10-18T16:50:28+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:52:49.177545+08:00",
+      "asset_versions": [
+        "关羽斩华雄传记-quality-v5"
+      ],
+      "keep": "Dragon explicitly approved/frozen; background and other content okay; retain silver identity.",
+      "change": "Guan Yu airborne pose/anatomy bad: redesign entire action. Hua Xiong grip bad and saber too simple: upgrade to heavy forged saber, not Lu Bu style. Readable two-arm physics and actual blade contact required.",
+      "action": "Guan Yu slays Hua Xiong v6 underway.",
+      "supersedes": [
+        "Keep Guan Yu pose restriction",
+        "Story-v5 pending broad review"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F26",
+      "feedback_at_exact": "2026-10-18T16:51:28+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:52:49.177545+08:00",
+      "asset_versions": [
+        "Five-Passes-story-v2"
+      ],
+      "keep": "Grounded mythic narrative rather than celestial palace.",
+      "change": "Entire image rejected. New composition with stronger Red Hare, glaive and dragon; clear breaking gate, enemy guard, escort traveling same way with 刘 flag, distant road and gates.",
+      "action": "Full Five Passes story v3 redesign underway.",
+      "supersedes": [
+        "Five-Passes-story-v2 pending review",
+        "Any localized-only restriction"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F27",
+      "feedback_at_exact": "2026-10-18T16:52:50+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:57:17.395281+08:00",
+      "asset_versions": [
+        "Five-Passes-story-next"
+      ],
+      "keep": "Red Hare, escort traveling same direction, 刘 carriage flag, grounded road/gates.",
+      "change": "Specific noncombat composition: Guan Yu leads at front, glaive casually on shoulder; giant green phantom shelters Liu Bei family carriage. Distant layered gates/roads; small sealed gold/hanging-seal departure hint.",
+      "action": "Replace breaking-gate battle composition with leading escort journey.",
+      "supersedes": [
+        "F26 battle-breakthrough composition"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F28",
+      "feedback_at_exact": "2026-10-18T16:54:20+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:57:17.395281+08:00",
+      "asset_versions": [
+        "silver-biography-next"
+      ],
+      "keep": "Silver Guan Yu clothing/weapon/identity and green phantom.",
+      "change": "Noncombat eighteen-lords alliance with grand seats, flags and armies. Liu/Guan/Zhang stand BESIDE seats; Guan Yu largest foreground. Sky green phantom; Cao Cao warm wine optional. No Hua Xiong, no airborne clash.",
+      "action": "Generate alliance candidate; unpublished combat-pose v6 superseded.",
+      "supersedes": [
+        "Mandatory climactic battle biography standard",
+        "Guan Yu slays Hua Xiong combat scene as current silver biography"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F29",
+      "feedback_at_exact": "2026-10-18T16:55:45+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:57:17.395281+08:00",
+      "asset_versions": [
+        "bronze-localized-v6"
+      ],
+      "keep": "Dragon head/phantom explicitly very liked, other content good.",
+      "change": "Only hide more dragon body in clouds and lengthen actual weapon SHAFT; do not enlarge blade.",
+      "action": "Localized cloud and shaft change, preserve all else.",
+      "supersedes": [
+        "Any blade-enlargement instruction for this next copper revision"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F30",
+      "feedback_at_exact": "2026-10-18T16:57:08+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:59:07.625902+08:00",
+      "asset_versions": [
+        "gold-card-v7"
+      ],
+      "keep": "Gold current v7 explicitly final-approved and frozen. Keep current blackiron-quality-v2 and silver-quality-v3 unchanged.",
+      "change": "Only bronze cloud/shaft localized work remains among cards; two noncombat biographies continue.",
+      "action": "Freeze gold illustration and card; do not edit for later UI preview.",
+      "supersedes": [
+        "Gold-v7 pending user review"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F31",
+      "feedback_at_exact": "2026-10-18T16:57:54+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T16:59:07.625902+08:00",
+      "asset_versions": [
+        "gold-card-final-v7",
+        "passive-skill-UI-preview-next"
+      ],
+      "keep": "Final gold original artwork remains unchanged.",
+      "change": "Add separate passive-skill UI effect preview with icon, short name and backing texture. No gameplay parameters finalized; example 蓄势 tentative.",
+      "action": "Create independent overlay/candidate composite, never replace final artwork with UI candidate.",
+      "supersedes": [
+        "Any assumption UI preview is revised final art"
+      ],
+      "source_record": "Exact user feedback timestamp supplied"
+    },
+    {
+      "id": "F32",
+      "feedback_at_exact": "2026-10-18T16:59:23+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T17:03:23.414972+08:00",
+      "asset_versions": [
+        "all approved and in-progress cards and biographies"
+      ],
+      "keep": "Preserve existing designs, identities, compositions and approved originals. Peach oath is a three-person ensemble: do not blur Liu Bei/Zhang Fei.",
+      "change": "Global hierarchy postproduction authorized: sharper/higher-contrast main figures; quieter backgrounds/secondary figures; text/UI clear.",
+      "action": "Save separately as candidates, not whole-image redesign and not erasure of approved art.",
+      "supersedes": [
+        "Absolute no-quality-adjustment restriction for approved art"
+      ],
+      "source_record": "Exact user feedback time supplied"
+    },
+    {
+      "id": "F33",
+      "feedback_at_exact": "2026-10-18T17:02:23+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T17:08:48.331176+08:00",
+      "asset_versions": [
+        "passive-ui-bottom-badge-v0"
+      ],
+      "keep": "Final gold art unchanged.",
+      "change": "Bottom badge visually interrupts image; rejected.",
+      "action": "Replace preview with three diagonal tags at lower-right after reference review.",
+      "supersedes": [
+        "Bottom badge UI candidate"
+      ],
+      "source_record": "Exact feedback time supplied"
+    },
+    {
+      "id": "F34",
+      "feedback_at_exact": "2026-10-18T17:07:10+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T17:08:48.331176+08:00",
+      "asset_versions": [
+        "blackiron-hierarchy-v3"
+      ],
+      "keep": "Background blur very good; keep face focal priority and all other design.",
+      "change": "Green beans attract too much attention. Only reduce their saturation, highlights and grain sharpness while retaining bean-selling recognition.",
+      "action": "Localized bean treatment; preserve approved background hierarchy.",
+      "supersedes": [
+        "Blackiron hierarchy v3 pending whole-image reaction"
+      ],
+      "source_record": "Exact feedback time supplied"
+    },
+    {
+      "id": "F35",
+      "feedback_at_exact": "2026-10-18T17:07:57+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T17:10:26.627871+08:00",
+      "asset_versions": [
+        "escort-noncombat-v3",
+        "fixed-card-identity references"
+      ],
+      "keep": "Escort v3 dragon strongly praised and becomes preferred dragon visual reference going forward. Keep dragon, shoulder-carried glaive, mounted escort scene.",
+      "change": "Guan Yu face/expression seems different; align identity to fixed card face only.",
+      "action": "Localized identity correction, not full-image approval or regeneration.",
+      "supersedes": [
+        "Older silver dragon as highest-priority universal reference"
+      ],
+      "source_record": "Exact feedback timestamp supplied"
+    },
+    {
+      "id": "F36",
+      "feedback_at_exact": "2026-10-18T17:09:07+08:00",
+      "precision": "second",
+      "recorded_at": "2026-10-18T17:10:26.627871+08:00",
+      "asset_versions": [
+        "passive-three-tags-v1"
+      ],
+      "keep": "Independent overlay remains separate from approved art.",
+      "change": "Reject flat/weak material and missing passive-level space. Rebuild metal thickness, bevel planes and light/shadow; provide name plus dynamic +2 level slot. Test 1–4 Chinese characters and +12.",
+      "action": "Create UI v2 candidate; skill words/levels are examples, not finalized gameplay.",
+      "supersedes": [
+        "Three-tags-v1 pending review",
+        "Any assumption short-name treatment approved"
+      ],
+      "source_record": "Exact feedback timestamp supplied"
+    },
+    {
+      "id": "F37",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "17:16",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T17:21:49.267120+08:00",
+      "asset_versions": [
+        "blackiron-v4"
+      ],
+      "keep": "User explicitly satisfied; final blackiron v4 frozen.",
+      "change": "No further illustration change.",
+      "action": "Use this final base for separate UI; retain older originals.",
+      "supersedes": [
+        "Blackiron-v3 beans pending revision"
+      ],
+      "source_record": "User feedback minute supplied"
+    },
+    {
+      "id": "F38",
+      "feedback_at_exact": null,
+      "feedback_date": "2026-10-18",
+      "feedback_local_time_reported": "17:19",
+      "timezone": "UTC+08:00",
+      "precision": "minute; exact seconds not supplied",
+      "recorded_at": "2026-10-18T17:21:49.267120+08:00",
+      "asset_versions": [
+        "passive-UI-next",
+        "gold-hierarchy-next",
+        "next-delivery-bundle"
+      ],
+      "keep": "Gold praised hero/horse/blade/dragon; final artwork separate from UI.",
+      "change": "Remove left triangle/wedge from passive strip; clean horizontal metal matching each tier, gold gilded sparkle. Gold foreground dust too prominent and distance chaotic: naturally soften/lower contrast only.",
+      "action": "Finish this batch then deliver four complete UI cards plus two noncombat stories together, not piecemeal.",
+      "supersedes": [
+        "Wedge-shaped UI design",
+        "Prior partial per-image delivery sequence for this batch"
+      ],
+      "source_record": "User feedback minute supplied"
+    }
+  ],
+  "delivery_events": [
+    {
+      "id": "D-quality-seven",
+      "delivered_at": "2026-10-18T16:46:09.122361+08:00",
+      "items": [
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/00-四阶质量修订总览.png",
+          "sha256": "32b602ed2532f55853a4a2c5f0f369cf02cc59476f18fc03e3e4d9cf88114ab9",
+          "dimensions": {
+            "width": 1560,
+            "height": 640
+          },
+          "library_file_id": "libfile_ad60cb678b4c8191a955d37416c8c1a2",
+          "library_version": 5,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/01-黑铁·市井潜龙.png",
+          "sha256": "a2694090eb949eed92a5ddf61899806f675a37ea2b96886cfb520f5126b1954a",
+          "dimensions": {
+            "width": 1024,
+            "height": 1536
+          },
+          "library_file_id": "libfile_9b0c4ee191f88191a3ed6aaed64fd338",
+          "library_version": 2,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-关羽斩华雄传记.png",
+          "sha256": "d6f22a71f2f78f93a4dacf61fb88c49afaf5a9b0c91314d3d332aab9661deffe",
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+          "library_version": 5,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/02-青铜·三骑追黄巾.png",
+          "sha256": "022649251adc2104edc951524e532d65295a2b6deaf0bbb83d42786f57b0d5bc",
+          "dimensions": {
+            "width": 1024,
+            "height": 1536
+          },
+          "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+          "library_version": 5,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-白银·关前扬威.png",
+          "sha256": "87ce51f6b9f68ca35566c5070dfd02ddbc819bf2c96d1a8bee39912c0d546572",
+          "dimensions": {
+            "width": 1024,
+            "height": 1536
+          },
+          "library_file_id": "libfile_0ef4e3533ab481919c2d065733132df2",
+          "library_version": 3,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/03-过五关斩六将.png",
+          "sha256": "03ced0fb4930d67c9142cca7b064908b681d8ff72823aa537d5ded30c2e23344",
+          "dimensions": {
+            "width": 1536,
+            "height": 1024
+          },
+          "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+          "library_version": 2,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        },
+        {
+          "original_path": "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/04-黄金·护行拖刀.png",
+          "sha256": "cef2e7496991a8dad76c14229ca78da30b5f14da86e41d999e0ab94dbdaacf44",
+          "dimensions": {
+            "width": 1024,
+            "height": 1536
+          },
+          "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+          "library_version": 6,
+          "delivered_at": "2026-10-18T08:46:09.122361Z"
+        }
+      ],
+      "status": "delivered_pending_user_review",
+      "not_user_feedback": true
+    },
+    {
+      "id": "D-bronze-localized-v6",
+      "delivered_at": "2026-10-18T16:50:51.035112+08:00",
+      "asset": "bronze-localized-v6",
+      "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+      "library_version": 6,
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "id": "D-gold-v7",
+      "delivered_at": "2026-10-18T16:55:27.256950+08:00",
+      "asset": "gold-localized-v7",
+      "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+      "library_version": 7,
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "id": "D-passive-ui",
+      "delivered_at": "2026-10-18T17:01:24.780228+08:00",
+      "library_file_id": "libfile_9cde671bbad08191b7ce7f59a234cfdc",
+      "library_version": 0,
+      "status": "independent_preview_candidate",
+      "skill_name": "蓄势",
+      "skill_name_final": false,
+      "gameplay_parameters": "not set"
+    },
+    {
+      "original_path": "guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-温酒请战.png",
+      "sha256": "50238507ef1b4fb66a48e24a3a367cdff591263628dd3630a618a5a7f2f66fac",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:06:06.248670Z",
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000033a4820dbac9eca3ee49141c",
+        "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+        "file_name": "02-温酒请战.png",
+        "local_metadata_applied": true,
+        "path": "/02-温酒请战.png",
+        "current_version_number": 6
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/hierarchy_20261018_170210_UTC+08/02-青铜·三骑追黄巾.png",
+      "sha256": "deb48dd609a7ca57b25ae5bb5efc8f6e4a3853ba47e3f268ba94d04e77dbc0ee",
+      "status": "delivered_pending_user_approval",
+      "delivered_at": "2026-10-18T09:06:06.248670Z",
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_000000004ba8820d81173274caf0ee64",
+        "library_file_id": "libfile_af252173812c8191a27a1e7c9613a3ac",
+        "file_name": "02-青铜·三骑追黄巾.png",
+        "local_metadata_applied": true,
+        "path": "/02-青铜·三骑追黄巾.png",
+        "current_version_number": 7
+      }
+    },
+    {
+      "original_path": "guanyu-mythic-set/passive_tags_20261018_170340_UTC+08/关羽-黄金-被动技能上卡预览.png",
+      "sha256": "278659198e0c5abfe7d01769cae9626fedbff4584441a83b408a7f39b575522d",
+      "status": "delivered_ui_candidate_pending_review",
+      "delivered_at": "2026-10-18T09:05:39.255294Z",
+      "library_receipt": {
+        "library_file_id": "libfile_9cde671bbad08191b7ce7f59a234cfdc",
+        "file_id": "file_0000000063208230b56bbef54abc4402",
+        "current_version_number": 1,
+        "status": "succeeded"
+      }
+    },
+    {
+      "id": "D-silver-gold-peach-overview-hierarchy",
+      "delivered_at": "2026-10-18T17:08:16.828262+08:00",
+      "versions": {
+        "silver": 4,
+        "gold": 8,
+        "peach": 2,
+        "overview": 6
+      },
+      "status": "delivered_pending_user_approval"
+    },
+    {
+      "delivered_at": "2026-10-18T09:26:55.456083Z",
+      "delivered_at_local": "2026-10-18T17:26:55.456083+08:00",
+      "items": [
+        {
+          "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/01-黑铁-完整UI示意.png",
+          "sha256": "55c12038d231bf4af775519d79b44ea725005458b1edaabe943c5d82465fc467",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "status": "succeeded",
+            "file_id": "file_00000000cb9c820d8440c42435f4586c",
+            "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+            "file_name": "01-黑铁-完整UI示意.png",
+            "current_version_number": 0
+          }
+        },
+        {
+          "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/02-青铜-完整UI示意.png",
+          "sha256": "43bb631272efccfc7aaa3549a3e5e44d2e66a889f3454f35e4f49909b4dcb340",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "status": "succeeded",
+            "file_id": "file_00000000219c820c80e49a866dc163c7",
+            "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+            "file_name": "02-青铜-完整UI示意.png",
+            "current_version_number": 0
+          }
+        },
+        {
+          "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/03-白银-完整UI示意.png",
+          "sha256": "4070f00eb7be8b2ae800c66251d52565708ec5c23d2d82290fcdca518ec57dbb",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "status": "succeeded",
+            "file_id": "file_00000000ef1c81f9a2b2b2bb6e7ce7e1",
+            "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+            "file_name": "03-白银-完整UI示意.png",
+            "current_version_number": 0
+          }
+        },
+        {
+          "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/04-黄金-完整UI示意.png",
+          "sha256": "ad5b385d68c55c0fc9b136c8601dc3692a5be7ea14217cdd88945e0c0737491a",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "status": "succeeded",
+            "file_id": "file_00000000e114820ca3a0004ffccc0944",
+            "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+            "file_name": "04-黄金-完整UI示意.png",
+            "current_version_number": 0
+          }
+        },
+        {
+          "original_path": "guanyu-mythic-set/ui_display_20261018_171500_UTC+08/四阶关羽-完整UI总览.png",
+          "sha256": "48fd3a74eca1dd5b2e6d7a152a54169bc44b24da3ebed16dfabbc73669941e72",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "status": "succeeded",
+            "file_id": "file_00000000eb1481f99c567a46fe2f7d04",
+            "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+            "file_name": "四阶关羽-完整UI总览.png",
+            "current_version_number": 0
+          }
+        },
+        {
+          "original_path": "guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/02-温酒请战.png",
+          "sha256": "983423a5d6f692dc9b79122b6a257495f0f6fba7eb0baa43a23434693855d0d1",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+            "current_version_number": 7
+          },
+          "binary_reference": "2026-10-18_17-21-49_blackiron-final-and-bundled-ui-delivery-plan/assets/sha256/983423a5d6f692dc9b79122b6a257495f0f6fba7eb0baa43a23434693855d0d1.png"
+        },
+        {
+          "original_path": "guanyu-mythic-set/naturalhierarchy_20261018_171620_UTC+08/03-千里护行.png",
+          "sha256": "b3f1a7fa1097eced74042ac33f74bc9e04fce4dfd6094e029767231c2c0fac83",
+          "status": "delivered_pending_user_approval",
+          "delivered_at": "2026-10-18T09:26:55.456083Z",
+          "library_receipt": {
+            "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+            "current_version_number": 4
+          },
+          "binary_reference": "2026-10-18_17-21-49_blackiron-final-and-bundled-ui-delivery-plan/assets/sha256/b3f1a7fa1097eced74042ac33f74bc9e04fce4dfd6094e029767231c2c0fac83.png"
+        }
+      ],
+      "review_status": "pending user approval",
+      "UI_data": "Names, stats, advancement and troop classes are examples, not finalized game data"
+    }
+  ]
+}

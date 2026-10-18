@@ -1,0 +1,12 @@
+{
+  "timezone": "UTC+08",
+  "type": "qualitylocalized",
+  "source": "../pure/bronze-qualityrevision_20261018_163739_UTC+08.png",
+  "changes": "仅天空纯绿龙；主体龙首、短颈，长身隐雾，降低显实度。三骑/黄巾/泥地/桃花/兵器/框保留。",
+  "method": "builtin imagegen precise-object-edit",
+  "actual_pixels": [
+    1024,
+    1536
+  ],
+  "status": "QA inspected; pending user acceptance"
+}

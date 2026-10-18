@@ -1,0 +1,223 @@
+{
+  "archived_at": "2026-10-18T16:57:17.395281+08:00",
+  "entries": [
+    {
+      "original_path": "generated_images/exec-b0de4bde-be32-491e-93c5-a11c68455e4e.png",
+      "original_name": "exec-b0de4bde-be32-491e-93c5-a11c68455e4e.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02.png",
+      "sha256": "606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02",
+      "original_sha256": "606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02",
+      "bytes": 3518971,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-dc7a36cd-56db-4552-b20e-1998b2491c53.png",
+      "original_name": "exec-dc7a36cd-56db-4552-b20e-1998b2491c53.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623.png",
+      "sha256": "ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623",
+      "original_sha256": "ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623",
+      "bytes": 3483160,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/prompts/03-breaking-gate-superseded_20261018_165544_UTC+08.json",
+      "original_name": "03-breaking-gate-superseded_20261018_165544_UTC+08.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/prompts/03-breaking-gate-superseded_20261018_165544_UTC+08.json",
+      "sha256": "06630a1a204fd6c60bded88a25910d964d3b24215afdcf10bf42e72324fb969d",
+      "original_sha256": "06630a1a204fd6c60bded88a25910d964d3b24215afdcf10bf42e72324fb969d",
+      "bytes": 3762,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/prompts/03-千里护行-candidatev3_20261018_165544_UTC+08.json",
+      "original_name": "03-千里护行-candidatev3_20261018_165544_UTC+08.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/prompts/03-千里护行-candidatev3_20261018_165544_UTC+08.json",
+      "sha256": "f2dff3bd1947e6229bc506fbd5a2c2677e2a35066fabc39f96ca28133c9b0dcd",
+      "original_sha256": "f2dff3bd1947e6229bc506fbd5a2c2677e2a35066fabc39f96ca28133c9b0dcd",
+      "bytes": 4214,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/prompts/关羽斩华雄-v6-20261018_165354.json",
+      "original_name": "关羽斩华雄-v6-20261018_165354.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/prompts/关羽斩华雄-v6-20261018_165354.json",
+      "sha256": "bb432a9fa9b2fa683da5f4d07cb44b013ffa8a5b373db419561b75ed669bd9c4",
+      "original_sha256": "bb432a9fa9b2fa683da5f4d07cb44b013ffa8a5b373db419561b75ed669bd9c4",
+      "bytes": 5990,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qa/关羽斩华雄-v6-关羽人体原尺寸-20261018_165354.png",
+      "original_name": "关羽斩华雄-v6-关羽人体原尺寸-20261018_165354.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/4a80c59d67b977050b26dd0dccbc981d902fe7fd433fe1b710512f626a1933a5.png",
+      "sha256": "4a80c59d67b977050b26dd0dccbc981d902fe7fd433fe1b710512f626a1933a5",
+      "original_sha256": "4a80c59d67b977050b26dd0dccbc981d902fe7fd433fe1b710512f626a1933a5",
+      "bytes": 1597182,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qa/关羽斩华雄-v6-华雄双臂原尺寸-20261018_165354.png",
+      "original_name": "关羽斩华雄-v6-华雄双臂原尺寸-20261018_165354.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/5eddb21c24c0f8e3a42a8f779d3fcb59591488ff3cdc41ecdeffc836d8c3c32d.png",
+      "sha256": "5eddb21c24c0f8e3a42a8f779d3fcb59591488ff3cdc41ecdeffc836d8c3c32d",
+      "original_sha256": "5eddb21c24c0f8e3a42a8f779d3fcb59591488ff3cdc41ecdeffc836d8c3c32d",
+      "bytes": 330481,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qa/关羽斩华雄-v6-双刃接点原尺寸-20261018_165354.png",
+      "original_name": "关羽斩华雄-v6-双刃接点原尺寸-20261018_165354.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/05b985db63e4d0d77682b4eca86c12b15d20f010886daafb301c91756fc681d1.png",
+      "sha256": "05b985db63e4d0d77682b4eca86c12b15d20f010886daafb301c91756fc681d1",
+      "original_sha256": "05b985db63e4d0d77682b4eca86c12b15d20f010886daafb301c91756fc681d1",
+      "bytes": 279905,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/04-黄金·护行拖刀.png",
+      "original_name": "04-黄金·护行拖刀.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b.png",
+      "sha256": "cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b",
+      "original_sha256": "cc1e2ee61a6ae238389b36eceac55d85d1587ec0ba9d5f41bd336fee6eda6f2b",
+      "bytes": 3135385,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "delivered_pending_user_approval",
+      "supersedes": [
+        "guanyu-mythic-set/qualityrevision_20261018_164040_UTC+08/04-黄金·护行拖刀.png"
+      ],
+      "library_receipt": {
+        "purpose": "replace_library_file",
+        "status": "succeeded",
+        "file_id": "file_0000000002e481f5b6f9f468cb94bd34",
+        "library_file_id": "libfile_57c6205847708191bb95e0b1f02296fb",
+        "file_name": "04-黄金·护行拖刀.png",
+        "local_metadata_applied": true,
+        "path": "/04-黄金·护行拖刀.png",
+        "current_version_number": 7
+      },
+      "delivered_at": "2026-10-18T08:55:27.256950Z"
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/compose.py",
+      "original_name": "compose.py",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/compose.py",
+      "sha256": "037d7b81ec262b973805eae903c9068d5ad59b2e1f14140a072fd5cb3a99ab99",
+      "original_sha256": "037d7b81ec262b973805eae903c9068d5ad59b2e1f14140a072fd5cb3a99ab99",
+      "bytes": 606,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/manifest.json",
+      "sha256": "99070344c32d6be537a0ad75f805223d4b81c21b13f8f5807f2373d6c29be4ed",
+      "original_sha256": "99070344c32d6be537a0ad75f805223d4b81c21b13f8f5807f2373d6c29be4ed",
+      "bytes": 335,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-request.json",
+      "original_name": "upload-request.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-request.json",
+      "sha256": "65bae2a9e1d442524bd2755773e68211f7db8c58b5124fb7c284d85e5d3ececc",
+      "original_sha256": "6956dab596316abcd327c591581284deca93d2e91fc525435033a19d324704d2",
+      "bytes": 403,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-results.json",
+      "original_name": "upload-results.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/qualitylocalized_20261018_165240_UTC+08/upload-results.json",
+      "sha256": "1a0eb7b0979f4489dd40dffbf43103fd0d619450360c4e09b747575898d7e46b",
+      "original_sha256": "68dd7487080c7741bf1b706c131227c613383ee3aee695465a8585afe4b0b90d",
+      "bytes": 487,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/rejected/03-breaking-gate-superseded_20261018_165544_UTC+08.png",
+      "original_name": "03-breaking-gate-superseded_20261018_165544_UTC+08.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02.png",
+      "sha256": "606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02",
+      "original_sha256": "606d990c5cc7bb3e8bded448c1b94f65556bd8f7ed3eddd883f5b1942335bc02",
+      "bytes": 3518971,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/rejected/story-qualityv2-status.json",
+      "original_name": "story-qualityv2-status.json",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/source/guanyu-mythic-set/rejected/story-qualityv2-status.json",
+      "sha256": "acf646da074b27f6e6414ae4a3b2bbff5ece03659e5d7645eb20df44e78ec30d",
+      "original_sha256": "acf646da074b27f6e6414ae4a3b2bbff5ece03659e5d7645eb20df44e78ec30d",
+      "bytes": 136,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/stories/02-关羽斩华雄传记-v6-20261018_165354.png",
+      "original_name": "02-关羽斩华雄传记-v6-20261018_165354.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/c68a501f3b183cbd35c3ebb49fe447033347de35d94e03a44aeb9fdc80417e4e.png",
+      "sha256": "c68a501f3b183cbd35c3ebb49fe447033347de35d94e03a44aeb9fdc80417e4e",
+      "original_sha256": "c68a501f3b183cbd35c3ebb49fe447033347de35d94e03a44aeb9fdc80417e4e",
+      "bytes": 3369349,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/stories/03-千里护行-candidatev3_20261018_165544_UTC+08.png",
+      "original_name": "03-千里护行-candidatev3_20261018_165544_UTC+08.png",
+      "repository_path": "2026-10-18_16-57-17_gold-v7-and-noncombat-story-direction/assets/sha256/ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623.png",
+      "sha256": "ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623",
+      "original_sha256": "ddc96c114f3f55f1a448e4fbd29795c0237520c566b59efebd312c922212f623",
+      "bytes": 3483160,
+      "generated_at": null,
+      "archived_at": "2026-10-18T16:57:17.395281+08:00",
+      "status": "production_support_or_intermediate",
+      "supersedes": []
+    }
+  ],
+  "note": "Gold v7 delivered pending. Other newly captured candidates/support files do not imply delivery or approval. Old combat-action story attempts superseded by noncombat direction."
+}

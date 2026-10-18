@@ -1,0 +1,40 @@
+{
+  "status": "candidate_pending_independent_QA",
+  "title": "刘备 黄金 汉中王礼成",
+  "created_local": "2026-10-18T19:10:12+08:00",
+  "tool": "builtin image_gen.imagegen",
+  "generation_count": 1,
+  "output": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+  "native_pixels": [
+    1024,
+    1536
+  ],
+  "upscaled": false,
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.prompt.txt",
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "role": "Approved identity, build and clean planar illustration language only; exclude shop/pose/old clothing/surface noise.",
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e"
+    }
+  ],
+  "brief": "/workspace/scratch/3f82ff2b3f81/liubei-set/blackiron_identity_20261018_185301_UTC+08/刘备-四卡三传记制作brief.md",
+  "SOP": "/workspace/scratch/3f82ff2b3f81/hero-production-spec/2026-10-18_18-54-40_UTC+08/单英雄全素材制作与验收规范_v1.md",
+  "QA": {
+    "inspected": "Full native image and face, two hands/jade, upper/lower robe, dragon, ceremony background crops.",
+    "passes": [
+      "Liu Bei approved mature face and beard preserved; no Guan Yu/Zhang Fei drift.",
+      "Two hands plausibly hold one jade tablet; no long weapon/horse or extra action.",
+      "Ivory/white dominant royal robe with restrained large gold ornamental bands, formal headpiece and saluting officials convey Han Zhong investiture.",
+      "Broad planar matte fabric, naturally shaded face and hands, no obvious blanket gold glitter.",
+      "Yellow dragon wide head and branched antlers, connected thick short neck in clouds, distinct from narrow green dragon."
+    ],
+    "limitations": [
+      "Dragon antler ends exit top canvas; snout/whiskers beyond requested portrait right-side safe region. This missed safety constraint must be checked in actual frame.",
+      "Lower white robe has faint cross-hatched fabric lines; not random gold points but may read as generated texture.",
+      "Some background officials are soft and approximate at native scale, subordinate not identity portraits.",
+      "Dragon strong bright mass may compete with face; not independently approved."
+    ]
+  },
+  "output_sha256": "7adb15ed85818e263d0951c8160b84828086221e07f600bc5fa3bb6bf0dc3c84"
+}

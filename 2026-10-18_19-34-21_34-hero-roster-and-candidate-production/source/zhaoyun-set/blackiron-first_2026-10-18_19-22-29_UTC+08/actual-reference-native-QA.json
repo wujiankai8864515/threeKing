@@ -1,0 +1,144 @@
+{
+  "hero_id": "zhaoyun",
+  "asset_id": "zhaoyun_card_01",
+  "rank": "blackiron",
+  "status": "first original identity candidate under creator and independent review; not user approved; no expansion authorized yet",
+  "generation": "one builtin imagegen image-reference-derived generation; no API; raw output copied unmodified",
+  "actual_referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png"
+  ],
+  "references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+      "role": "painting language and separated material only; NOT identity; excludes every reference character face/body/scene/costume"
+    }
+  ],
+  "identity_source": "new original Zhao Yun face from written brief, no existing Zhao portrait and no commercial face reference",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/赵云-黑铁-磐河初锋-身份候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "75d8c8d763d092e62d9294c9094c60192b781d916be4e757cb593079791936ec"
+  },
+  "prompt": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/prompt.txt",
+  "brief": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/赵云-首黑铁完整brief.md",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/face-native100.png",
+      "box": [
+        485,
+        145,
+        690,
+        385
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "forward-grip": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/forward-grip-native100.png",
+      "box": [
+        550,
+        450,
+        700,
+        560
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "rear-grip-rein": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/rear-grip-rein-native100.png",
+      "box": [
+        735,
+        455,
+        910,
+        625
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "full-axis": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/full-axis-native100.png",
+      "box": [
+        0,
+        395,
+        1024,
+        620
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "horse-head": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/horse-head-native100.png",
+      "box": [
+        110,
+        565,
+        600,
+        1010
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "saddle-rider-leg": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/saddle-rider-leg-native100.png",
+      "box": [
+        570,
+        595,
+        1024,
+        1080
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "horse-legs": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/horse-legs-native100.png",
+      "box": [
+        315,
+        1050,
+        1024,
+        1536
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "cloth-armor": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/cloth-armor-native100.png",
+      "box": [
+        390,
+        300,
+        950,
+        905
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "ground-grass-water": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/ground-grass-water-native100.png",
+      "box": [
+        0,
+        1040,
+        455,
+        1536
+      ],
+      "scale": "native100% 1:1 no resize"
+    },
+    "distant-dragon-spine": {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-first_2026-10-18_19-22-29_UTC+08/qa/distant-dragon-spine-native100.png",
+      "box": [
+        710,
+        0,
+        1024,
+        180
+      ],
+      "scale": "native100% 1:1 no resize"
+    }
+  },
+  "diagnostic_guide": "approx shaft points (267,465) to (1023,572), cyan line QA only; never fed to imagegen",
+  "observed_deviations_pending_review": [
+    "generated both hands gripping spear, instead of prescribed one spear hand and one rein hand; rear grip/reins to inspect",
+    "horse surface more fine-grained semi-realistic than face drawing; tier armor decoration/material style to review",
+    "white cloth has grey dust markings, no pass assumed before native QA",
+    "distant low-contrast dragon ridge more legible than requested faint short segment, with possible head/neck suggestion",
+    "water and hoof splashes contain concentrated bright points with plausible physical placement; not declared cross-surface glitter-free final approval"
+  ],
+  "creator_review": "full original, thumbnail and ten native100% regions personally inspected; details in QA-first-candidate-review.md"
+}

@@ -1,0 +1,31 @@
+{
+  "status": "candidate_local_foreground_improved_pending_independent_QA",
+  "output": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+  "native_pixels": [
+    1536,
+    1024
+  ],
+  "upscaled": false,
+  "tool": "builtin image_gen.imagegen",
+  "generation_count_this_revision": 1,
+  "parent_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-bridge_20261018_190435_UTC+08/张飞-传记-桥后生路-候选1-20261018_190435.png",
+  "reference_role": "Exact edit target; authorized near-left mother/child faces and hands, cart wheel, feet and near soil only.",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.prompt.txt",
+  "QA": {
+    "inspected": "Full image; native before/after mother-child faces/hands, wheel/feet/soil, hero face, both grips/entire shaft/blade, armor/bridge.",
+    "passes": [
+      "Mother and child's faces/hands now materially clearer, same characters/expressions and no visible extra limb defect.",
+      "Wheel rim/spokes/axle and mother's feet/near foot-ground now clearly drawn, not smeary bokeh.",
+      "Zhang Fei face/armor/stance, both grips and single long straight shaft with full blade preserved.",
+      "Bridge/crowd/escape direction and black-red tiger remain consistent; far enemies still lower priority."
+    ],
+    "residuals": [
+      "A narrow strip at the very bottom nearest soil still softer than adjacent foot-ground; no claim every foreground pixel is crisp.",
+      "Tiger ear remains touching/cropped at top as source; secondary and deliberately not altered in this limited edit.",
+      "Wheel wood and cloth now expose more small surface marks; structural grain/mud not blanket newly removed texture. Independent material audit required."
+    ]
+  },
+  "stop": "One authorized foreground-local edit used, no additional generation attempted.",
+  "output_sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+  "parent_sha256": "ad1cc5e292202d93ee507a865a70315f521cea952b6f834e97168bdb65c597b4"
+}

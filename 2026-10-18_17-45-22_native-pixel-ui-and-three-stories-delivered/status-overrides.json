@@ -1,0 +1,28 @@
+{
+  "recorded_at": "2026-10-18T17:45:22.689393+08:00",
+  "latest_bundle": "4 complete UI cards + overview + 3 biographies, eight attachments delivered pending review",
+  "UI_versions": "Existing independent UI identities version1",
+  "story_versions": {
+    "桃园": 4,
+    "温酒请战骑马出营": 8,
+    "千里护行": 5
+  },
+  "dimensions": {
+    "UI_cards": [
+      1190,
+      1786
+    ],
+    "source_illustrations": [
+      1024,
+      1536
+    ],
+    "stories": [
+      1536,
+      1024
+    ]
+  },
+  "sharpness_limit": "Not native4K; larger-detail generation test returned old size. Requested zoomed ultra-high definition not yet met/verified.",
+  "original_approved": "Preserved; candidates never overwrite final base identity",
+  "remote_verified_commit": "fe505a804d0e9c55aaa9816454aba9f6b357f48e",
+  "remote_new_increments": "Not confirmed synced; no network calls"
+}

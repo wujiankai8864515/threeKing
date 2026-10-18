@@ -1,0 +1,28 @@
+{
+  "version": "gold-v7-silver-lineage-dragon-20261018_165224",
+  "saved_at_beijing": "2026-10-18T16:52:24.628399+08:00",
+  "timezone": "UTC+08:00",
+  "method": "One built-in image_gen directed localized dragon edit with two image inputs",
+  "edit_target": "./guanyu-mythic-set/pure/gold-qualityrevision-20261018_163847.png",
+  "dragon_structure_reference": "./guanyu-mythic-set/pure/silver-qualityrevision-20261018_164052.png",
+  "generated_source": "./generated_images/exec-5351e515-1b7c-449a-b3b1-e298514fad29.png",
+  "output_image": "./guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.png",
+  "prompt_file": "./guanyu-mythic-set/pure/gold-v7-silver-lineage-dragon-20261018_165224.prompt.txt",
+  "actual_resolution": [
+    1024,
+    1536
+  ],
+  "sha256": "532227e484947be13d1bd66e3cbb562a72e8ddd5e5b6f76aa2ba410920c3dc2a",
+  "status": "candidate_dragon_design_improved_frame_safety_not_passed",
+  "visual_review": {
+    "method": "Gold source, silver reference and generated gold all actually viewed with view_image and compared.",
+    "dragon_reference_match": "Strong match to silver reference's noble Eastern broad muzzle, sharp eyes, interlocking fangs, layered pale-green mane and branched antler crown; previous simple ram/ox-like horns removed.",
+    "gold_vs_silver": "Gold has visibly bulkier continuous neck/torso and a larger deeper skull/jaw/mane mass; more imposing through volume rather than added glow.",
+    "color_and_continuity": "Grass/forest green scales and pale yellow-green mane; no cyan; one continuous heavy dragon body.",
+    "frozen_foreground": "Guan Yu identity, rear-view dragging pose, arms, clothes, giant Red Hare hoof, weapon, muddy edge debris, officer, rear-facing convoy and blank red flag visually preserved.",
+    "occlusion": "Guan Yu face and horse head remain unobscured; convoy visible.",
+    "frame_safety": "FAIL: nose extends to about x875 and whiskers farther; highest antler tips reach about y20. Existing safe target nose<815 and horn y>75 not satisfied. Parent must not mark full frame-safe approval without actual composition/correction.",
+    "resolution": "Actual 1024x1536. No pixel upscaling.",
+    "scope_limit": "Exactly one directed generation completed as requested; no second attempt taken."
+  }
+}
