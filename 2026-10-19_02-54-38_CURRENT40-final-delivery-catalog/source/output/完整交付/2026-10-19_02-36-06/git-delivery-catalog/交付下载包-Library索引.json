@@ -1,0 +1,163 @@
+[
+  {
+    "文件名": "魏国-01-张辽与乐进.zip",
+    "LibraryID": "libfile_2389b6188b8481919782aa8dc0f4fd7e",
+    "字节数": 46483465,
+    "MiB": 44.33,
+    "SHA256": "1527578fd11aa1229a8b2102337bc7af0c050e9f770447accb6af3994c8dbe7a"
+  },
+  {
+    "文件名": "魏国-02-于禁与张郃.zip",
+    "LibraryID": "libfile_8ddb4093930881918eb8ff9d4a060446",
+    "字节数": 48457928,
+    "MiB": 46.21,
+    "SHA256": "ee9abe30fd9c5b7678cedb8d10ebc822dcac934d9072bcd600e9e71ba2c8ee9e"
+  },
+  {
+    "文件名": "魏国-03-徐晃与曹操.zip",
+    "LibraryID": "libfile_066e885e784c81919505cc5f57c16750",
+    "字节数": 42270291,
+    "MiB": 40.31,
+    "SHA256": "1ddc24722f593151da8de850276bc61ef939a285438aee2720474c974d5ffc57"
+  },
+  {
+    "文件名": "魏国-04-荀彧与郭嘉.zip",
+    "LibraryID": "libfile_2e1617165d8c81918d20472428a8058d",
+    "字节数": 39767164,
+    "MiB": 37.92,
+    "SHA256": "116f8adbe2d94ea657664f494c8a93e9d0e55142c62ddcdfa614dc8bbdc39f62"
+  },
+  {
+    "文件名": "魏国-05-典韦与许褚.zip",
+    "LibraryID": "libfile_a91dc5af889c81918381dcd6fd93b031",
+    "字节数": 45743403,
+    "MiB": 43.62,
+    "SHA256": "786d2a6ac2796e73cd85fb84e1760e3e76a15abbd7a5f7a975ceb1d398170d58"
+  },
+  {
+    "文件名": "蜀国-01-刘备与关羽.zip",
+    "LibraryID": "libfile_a84f6306d4fc8191bb121fa41df56af9",
+    "字节数": 49027789,
+    "MiB": 46.76,
+    "SHA256": "2b4e9834c30594e5b5c0e54475d67b9994b6b22af29fd3bbd1cd6ebc2b0ce825"
+  },
+  {
+    "文件名": "蜀国-02-张飞与赵云.zip",
+    "LibraryID": "libfile_5562dfd77a2c81919ad11c94e956ff7b",
+    "字节数": 47254145,
+    "MiB": 45.07,
+    "SHA256": "f954d58cc5a381d0accfa876effa26e214a4f4a7d3641cb26cc6d20683703cc6"
+  },
+  {
+    "文件名": "蜀国-03-马超与黄忠.zip",
+    "LibraryID": "libfile_ef04069573b881918177cafa21733621",
+    "字节数": 45654277,
+    "MiB": 43.54,
+    "SHA256": "d4a1628ebc2ee58c3d523de4c320f1cf5360cdc343adcce2760a32568593bfca"
+  },
+  {
+    "文件名": "蜀国-04-诸葛亮与庞统.zip",
+    "LibraryID": "libfile_5c7f1122e8688191a315f89fa403218d",
+    "字节数": 43616173,
+    "MiB": 41.6,
+    "SHA256": "6f2f3bbe1ede986f7212261123f81d1362558c399576bb383edfcb75e52e08bb"
+  },
+  {
+    "文件名": "蜀国-05-姜维与魏延.zip",
+    "LibraryID": "libfile_27dcdbbdcc2c819196106d364136f399",
+    "字节数": 45898716,
+    "MiB": 43.77,
+    "SHA256": "36aa49faac046786dc5c058036102a8d337e9097bf02ed9394171f67b47063a0"
+  },
+  {
+    "文件名": "吴国-01-孙权与孙策.zip",
+    "LibraryID": "libfile_01f0ca945f948191b522dd9b653ca9ed",
+    "字节数": 45328540,
+    "MiB": 43.23,
+    "SHA256": "a4d305fbc3eeba378ce7596527f81db4426740368d8c955777ad8901f03c9887"
+  },
+  {
+    "文件名": "吴国-02-周瑜与吕蒙.zip",
+    "LibraryID": "libfile_7157d869ffc88191a97966548ab5db8a",
+    "字节数": 41762920,
+    "MiB": 39.83,
+    "SHA256": "9ad7db21433c1697822e991751f2457a449d782bfd69f7edc219fecf2d7dd812"
+  },
+  {
+    "文件名": "吴国-03-陆逊与甘宁.zip",
+    "LibraryID": "libfile_e08dcdf5ec9c8191a2bd0ea6ecafbbb7",
+    "字节数": 43337287,
+    "MiB": 41.33,
+    "SHA256": "190e1994c506f390b6796d97b4d9d3b20f8e8908036b1657b488c81e7ab79a78"
+  },
+  {
+    "文件名": "吴国-04-黄盖与孙尚香.zip",
+    "LibraryID": "libfile_cbbabce14a90819190a3bfd18e85bc9f",
+    "字节数": 41777879,
+    "MiB": 39.84,
+    "SHA256": "7d412a8eadf9aa6e05590ad583d1038c0edd9274af9dbb234bd21b6b4729a45a"
+  },
+  {
+    "文件名": "吴国-05-太史慈与鲁肃.zip",
+    "LibraryID": "libfile_6a315f5fac748191a99964ed0ccfd3b4",
+    "字节数": 45656681,
+    "MiB": 43.54,
+    "SHA256": "879fda7392b21a830a2d5a831d7353368baef232194870a6fb4f6e48f2e7f4cd"
+  },
+  {
+    "文件名": "群雄-01-吕布与貂蝉.zip",
+    "LibraryID": "libfile_746dfc6c63e881919748da659fc98fac",
+    "字节数": 41433477,
+    "MiB": 39.51,
+    "SHA256": "10274a3ece415ab88764fa202fb12f71361dfd01b51f35fd9adacb7eef743049"
+  },
+  {
+    "文件名": "群雄-02-张角与华佗.zip",
+    "LibraryID": "libfile_3590538c747881918e59b703f7498e65",
+    "字节数": 43893680,
+    "MiB": 41.86,
+    "SHA256": "937cb6fcc82766bf19414be1de90dea519d119700b613aa3f36ec1efec47f68d"
+  },
+  {
+    "文件名": "群雄-03-董卓与袁绍.zip",
+    "LibraryID": "libfile_b8dd182b055c81918deeb1dc55126b99",
+    "字节数": 42807195,
+    "MiB": 40.82,
+    "SHA256": "6b2f92a47a5429c743554ed26b9f5af7a9a7b1c9da86b91e1abcd7462d6700b7"
+  },
+  {
+    "文件名": "群雄-04-贾诩与左慈.zip",
+    "LibraryID": "libfile_69e20aa083e481919967694cbf245830",
+    "字节数": 41626167,
+    "MiB": 39.7,
+    "SHA256": "6b6810a5be0088df36228a385910265484aacb2fd5db12ff4a9085d5b40e2eb5"
+  },
+  {
+    "文件名": "群雄-05-袁术与公孙瓒.zip",
+    "LibraryID": "libfile_320f58ce3b348191b22e797a663d9437",
+    "字节数": 42341751,
+    "MiB": 40.38,
+    "SHA256": "ad838d73a8aa43eeecd4da2713f9e1346ba05ab3712f0ad9ff39a5f201a50966"
+  },
+  {
+    "文件名": "README-请先阅读.txt",
+    "LibraryID": "libfile_ecc13f0b6938819190ad14ee9afa570a",
+    "字节数": 2707,
+    "MiB": 0.0,
+    "SHA256": "9c4c972263ea9db0ebf243119ebefcd02cca6d3f52d0d6309941bb92f1347d68"
+  },
+  {
+    "文件名": "四十英雄-280图-文件总清单.json",
+    "LibraryID": "libfile_555e8307ce1881919bd9dd2371b51d4b",
+    "字节数": 227038,
+    "MiB": 0.22,
+    "SHA256": "8b4f3bcf738d654df4b657998b3eba4c560f8371bb61e0c687ab5d93117e6410"
+  },
+  {
+    "文件名": "封装核验结果.json",
+    "LibraryID": "libfile_b6e7eff8364c8191903bb84efd2dc2eb",
+    "字节数": 7289,
+    "MiB": 0.01,
+    "SHA256": "68523ee8f411ac636b026abe4d0780f523a85d57716baa30f34599887c0b3545"
+  }
+]
