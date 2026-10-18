@@ -1,0 +1,107 @@
+{
+  "hero": "黄盖",
+  "status": "candidate_awaiting_user_review",
+  "generation": "built-in imagegen; individual source each; four style revisions retained",
+  "art_resampling": "none; native cards 1024x1536 composed 1:1 into1190x1786",
+  "story_dimensions": "1536x1024 native",
+  "myth": "原创烽舰赭鲸，非小说原有配兽",
+  "skills": "draft only 1/1/2/3 passives",
+  "assets": [
+    {
+      "id": "card01",
+      "title": "铁鞭老营",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-01-铁鞭老营.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output_size": [
+        1190,
+        1786
+      ],
+      "sha256": "9277b99cd4b81a256adc4922b6df843d70779ff35788b0756c31f29b6b84712d"
+    },
+    {
+      "id": "card02",
+      "title": "乱军擒敌",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-02-乱军擒敌.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output_size": [
+        1190,
+        1786
+      ],
+      "sha256": "d59207a5e8c9f644e31086d5f585b70d5f67331cad15b4df41de1ecbd700d81f"
+    },
+    {
+      "id": "card03",
+      "title": "伤中定计",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-03-伤中定计.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output_size": [
+        1190,
+        1786
+      ],
+      "sha256": "8d48ba7f5ba452aca1199ca92a7f907dc2a85e030cd66145dbb39647323d4819"
+    },
+    {
+      "id": "card04",
+      "title": "火船决潮",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-04-火船决潮.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "output_size": [
+        1190,
+        1786
+      ],
+      "sha256": "8900b11c85448476c8d8e407d8618a211f9755c9cd4d6207a254ea1bb3566a4d"
+    },
+    {
+      "id": "story01",
+      "title": "以俘换归途",
+      "target_card": "card02",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-05-以俘换归途.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "3a41ef9e8c2eff2cc58f6c358559960396c84638f6e6f7834e16179b52e1cff7"
+    },
+    {
+      "id": "story02",
+      "title": "夜帐献计",
+      "target_card": "card03",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-06-夜帐献计.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "e18893e53f30d7eda2ffb9912ad3333bd5513c2bbc79559e27de8cc9fd1c4b15"
+    },
+    {
+      "id": "story03",
+      "title": "降书之后的船阵",
+      "target_card": "card04",
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/candidates/黄盖-07-降书之后的船阵.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "347374c9d35de4846e6f860c3cdc3d53f8aabdba35c4f7fc1039cd1d3125ba75"
+    }
+  ]
+}

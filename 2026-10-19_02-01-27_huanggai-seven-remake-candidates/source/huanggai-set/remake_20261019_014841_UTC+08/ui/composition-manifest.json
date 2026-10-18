@@ -1,0 +1,559 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "黄盖；技能和圆章为新拟案",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "replacement_source_status": {
+    "bronze": "previous source",
+    "silver": "previous source",
+    "gold": "previous source"
+  },
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card01.png",
+      "source_sha256": "41ee8ecec1a2551172a2a8c84379131c165ff396c16645a4dc30c30a3343cb6f",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "吴",
+        "title": "黄盖",
+        "level": "1",
+        "advancement": "初",
+        "skills": [
+          {
+            "name": "厚甲",
+            "level": "+1"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "厚甲",
+            "ink_bbox": [
+              913,
+              1293,
+              995,
+              1332
+            ],
+            "ink_center": [
+              954.0,
+              1312.5
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.25651041666674246
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1007,
+              1298,
+              1049,
+              1328
+            ],
+            "ink_center": [
+              1028.0,
+              1313.0
+            ],
+            "target_center": [
+              1027.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "初",
+        "ink_bbox": [
+          137,
+          1567,
+          225,
+          1653
+        ],
+        "ink_center": [
+          181.0,
+          1610.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card02.png",
+      "source_sha256": "cea3f4ed823a93f5b2a8b73919c4e6057ccc8428e1d57883edb89b0a9a5ac4ca",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "吴",
+        "title": "黄盖",
+        "level": "1",
+        "advancement": "勇",
+        "skills": [
+          {
+            "name": "厚甲",
+            "level": "+1"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "厚甲",
+            "ink_bbox": [
+              913,
+              1293,
+              995,
+              1332
+            ],
+            "ink_center": [
+              954.0,
+              1312.5
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.25651041666674246
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1007,
+              1298,
+              1049,
+              1328
+            ],
+            "ink_center": [
+              1028.0,
+              1313.0
+            ],
+            "target_center": [
+              1027.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "勇",
+        "ink_bbox": [
+          140,
+          1566,
+          221,
+          1652
+        ],
+        "ink_center": [
+          180.5,
+          1609.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card03.png",
+      "source_sha256": "ac85e5fa5860a81fb8dddc1ca0fc2335398e41807fd1ae4ab92a54f1c4f2fae3",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "吴",
+        "title": "黄盖",
+        "level": "1",
+        "advancement": "烈",
+        "skills": [
+          {
+            "name": "厚甲",
+            "level": "+2"
+          },
+          {
+            "name": "决烈",
+            "level": "+2"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "厚甲",
+            "ink_bbox": [
+              912,
+              1196,
+              994,
+              1235
+            ],
+            "ink_center": [
+              953.0,
+              1215.5
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1006,
+              1200,
+              1049,
+              1231
+            ],
+            "ink_center": [
+              1027.5,
+              1215.5
+            ],
+            "target_center": [
+              1027.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "决烈",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1333
+            ],
+            "ink_center": [
+              953.0,
+              1312.5
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "烈",
+        "ink_bbox": [
+          138,
+          1567,
+          223,
+          1653
+        ],
+        "ink_center": [
+          180.5,
+          1610.0
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.373046875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huanggai-set/remake_20261019_014841_UTC+08/raw/card04.png",
+      "source_sha256": "29e85dff820d390aeb4da8799b641187972306a4e136d4c96a81726dc28a076f",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "吴",
+        "title": "黄盖",
+        "level": "1",
+        "advancement": "神",
+        "skills": [
+          {
+            "name": "厚甲",
+            "level": "+2"
+          },
+          {
+            "name": "决烈",
+            "level": "+2"
+          },
+          {
+            "name": "破寨",
+            "level": "+2"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "厚甲",
+            "ink_bbox": [
+              912,
+              1098,
+              994,
+              1137
+            ],
+            "ink_center": [
+              953.0,
+              1117.5
+            ],
+            "target_center": [
+              953.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1006,
+              1102,
+              1049,
+              1133
+            ],
+            "ink_center": [
+              1027.5,
+              1117.5
+            ],
+            "target_center": [
+              1027.8203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "决烈",
+            "ink_bbox": [
+              910,
+              1195,
+              996,
+              1236
+            ],
+            "ink_center": [
+              953.0,
+              1215.5
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "破寨",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.0,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "神",
+        "ink_bbox": [
+          137,
+          1566,
+          224,
+          1653
+        ],
+        "ink_center": [
+          180.5,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.373046875
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}

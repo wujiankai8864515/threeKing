@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-01-铁鞭老营.png",
+      "file_id": "file_0000000000e081f5a260fd22cac42269",
+      "library_file_id": "libfile_fa376715916881918f42eb7b2cb7699e",
+      "file_name": "黄盖-01-铁鞭老营.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3214456
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-02-乱军擒敌.png",
+      "file_id": "file_00000000a29882309cddf99d9958e19b",
+      "library_file_id": "libfile_82a4832b65748191b077e4cf136c091f",
+      "file_name": "黄盖-02-乱军擒敌.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3333162
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-03-伤中定计.png",
+      "file_id": "file_00000000ee2c8230bbcfaad4a6fbf7ae",
+      "library_file_id": "libfile_a72f634e919c8191960c6ace751446a5",
+      "file_name": "黄盖-03-伤中定计.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2986285
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-04-火船决潮.png",
+      "file_id": "file_000000009ab081f48f6dc2a5eabe8060",
+      "library_file_id": "libfile_6a3a2e4693ac8191abe81982c4672c3d",
+      "file_name": "黄盖-04-火船决潮.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3370907
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-05-以俘换归途.png",
+      "file_id": "file_000000001e2c81f89d6595053c9668dc",
+      "library_file_id": "libfile_3a60c1edcf608191b7c6e3047312a33b",
+      "file_name": "黄盖-05-以俘换归途.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2564462
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-06-夜帐献计.png",
+      "file_id": "file_00000000710081fda78cb5cb9060c061",
+      "library_file_id": "libfile_c4ada73f36a081918bb1ce71e1117c65",
+      "file_name": "黄盖-06-夜帐献计.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2204526
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-07-降书之后的船阵.png",
+      "file_id": "file_0000000037e881f894e9a6770c30d314",
+      "library_file_id": "libfile_5b12c67a899c819183f4a7ae3c7e8bb0",
+      "file_name": "黄盖-07-降书之后的船阵.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2721280
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄盖-七图总览.png",
+      "file_id": "file_00000000522c81f4956609641e850799",
+      "library_file_id": "libfile_6c83325180908191bba5c1812d9ff15d",
+      "file_name": "黄盖-七图总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2571220
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
