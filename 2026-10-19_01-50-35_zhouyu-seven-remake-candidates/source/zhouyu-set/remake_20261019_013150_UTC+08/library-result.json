@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-01-黑铁-历阳知交-重制候选.png",
+        "file_id": "file_000000009a1481f4a40d819d14166d7a",
+        "library_file_id": "libfile_0ab78495bdac819181b0daf2cddc8684",
+        "file_name": "周瑜-01-黑铁-历阳知交-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3530958
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-02-青铜-江东新托-重制候选.png",
+        "file_id": "file_00000000eba881f5bc465f4f7f8c987f",
+        "library_file_id": "libfile_3aaf828887ec8191b89b229944ed4324",
+        "file_name": "周瑜-02-青铜-江东新托-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3304791
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-03-白银-受剑立令-重制候选.png",
+        "file_id": "file_000000008ef081f59bc42bc39f3c4943",
+        "library_file_id": "libfile_890a9cd03bac81918970f5f54e36b712",
+        "file_name": "周瑜-03-白银-受剑立令-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3440081
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-04-黄金-赤壁总攻-重制候选.png",
+        "file_id": "file_0000000004d8820ca3185c11dc1e4c64",
+        "library_file_id": "libfile_155837923a908191a6bcf437502fd15f",
+        "file_name": "周瑜-04-黄金-赤壁总攻-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3524058
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-05-黑铜传记-灵前再受重托-重制候选.png",
+        "file_id": "file_00000000dff481fd8880868c211cbeb7",
+        "library_file_id": "libfile_ab0325121dac8191890d7ff35045eac3",
+        "file_name": "周瑜-05-黑铜传记-灵前再受重托-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2230805
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-06-铜银传记-四忌决战-重制候选.png",
+        "file_id": "file_0000000097e481f5ba6c1ae23102c906",
+        "library_file_id": "libfile_48ae1d87bb708191bf04c8ac1b38fb28",
+        "file_name": "周瑜-06-铜银传记-四忌决战-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2628107
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-07-银金传记-六路与火船-重制候选.png",
+        "file_id": "file_00000000161481f5aa21052642ba7dc9",
+        "library_file_id": "libfile_efe669e6d43c8191aa3bf4c1de891624",
+        "file_name": "周瑜-07-银金传记-六路与火船-重制候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2672934
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/周瑜-七图重制总览.png",
+        "file_id": "file_00000000b72882069abfb145c07c3f79",
+        "library_file_id": "libfile_0def7c6a1cfc819198fbf5c33c38e03c",
+        "file_name": "周瑜-七图重制总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3879265
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

@@ -1,0 +1,123 @@
+{
+  "hero": "周瑜",
+  "faction": "吴",
+  "created": "2026-10-19 01:47 UTC+08",
+  "tool": "built-in image_gen only",
+  "status": "7 candidate images awaiting user review",
+  "native_portraits": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "composite_canvas": [
+    1190,
+    1786
+  ],
+  "native_art_scaling": "none: pasted 1:1 at84,145",
+  "mythology": "离火朱雀为原创象征映射，非演义史实；火源仍为实际火船",
+  "assets": [
+    {
+      "id": 1,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-01-黑铁-历阳知交-重制候选.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2d6d251484a3f9f8616b87bee583840e9e7c3f137eaca2300ae99c68e7ea7cf0",
+      "status": "candidate_awaiting_user",
+      "target_stage": null
+    },
+    {
+      "id": 2,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-02-青铜-江东新托-重制候选.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "a0973674f0718cdcd1648d12f455f639da655fdc2c4562f9118ce03492463480",
+      "status": "candidate_awaiting_user",
+      "target_stage": null
+    },
+    {
+      "id": 3,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-03-白银-受剑立令-重制候选.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "e06fae19fcada8700fff59419d8b87a9d93e25166afe6a72c0c9274b575275b3",
+      "status": "candidate_awaiting_user",
+      "target_stage": null
+    },
+    {
+      "id": 4,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-04-黄金-赤壁总攻-重制候选.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "b5e87e84ccdcecf56dc1c2f5d1357b3bb0a938c9a4c81e10e24a7c0fea217a94",
+      "status": "candidate_awaiting_user",
+      "target_stage": null
+    },
+    {
+      "id": 5,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-05-黑铜传记-灵前再受重托-重制候选.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c40d2757bec64cc66eba1de6105bf4655603af5dd65b7013e9c90ab98046b0f3",
+      "status": "candidate_awaiting_user",
+      "target_stage": 2
+    },
+    {
+      "id": 6,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-06-铜银传记-四忌决战-重制候选.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d2fca03527efccd760ac3eeeee353048ebbe390418e3b5c3cbb0f14aa1255f2c",
+      "status": "candidate_awaiting_user",
+      "target_stage": 3
+    },
+    {
+      "id": 7,
+      "file": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-07-银金传记-六路与火船-重制候选.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "150c901705ead31120da10a5653b215ef684030fce646d36c91430c9973d82e3",
+      "status": "candidate_awaiting_user",
+      "target_stage": 4
+    }
+  ],
+  "overview": "/workspace/scratch/3f82ff2b3f81/zhouyu-set/remake_20261019_013150_UTC+08/candidates/周瑜-七图重制总览.png",
+  "UI": "separate configurable compact layers anchors961/1045/1129. 吴固定橘红徽；1/1/2/3被动槽，1-4星。",
+  "skills_draft": {
+    "英略": "主动伤害提高",
+    "远筹": "施法距离提高",
+    "整备": "主动冷却缩短"
+  },
+  "active_draft": "指定圆形区域一次有预警的范围火攻法术伤害，无永久火场；不采用旧草案炎余以免引入额外灼烧机制。",
+  "qa": "All 7 originals viewed. Silver and gold arm placement locally regenerated to avoid UI; previous sources preserved. All final UI cards viewed at overview; anatomy and hand crops saved. Some fine cloth texture remains, no gold particle atmosphere. Supporting Sun Quan identity is provisional original design.",
+  "failures": [
+    "card03-frame-hand-risk.png",
+    "card04-hand-low-before-local-fix.png"
+  ],
+  "library_ids": [
+    "libfile_0ab78495bdac819181b0daf2cddc8684",
+    "libfile_3aaf828887ec8191b89b229944ed4324",
+    "libfile_890a9cd03bac81918970f5f54e36b712",
+    "libfile_155837923a908191a6bcf437502fd15f",
+    "libfile_ab0325121dac8191890d7ff35045eac3",
+    "libfile_48ae1d87bb708191bf04c8ac1b38fb28",
+    "libfile_efe669e6d43c8191aa3bf4c1de891624",
+    "libfile_0def7c6a1cfc819198fbf5c33c38e03c"
+  ]
+}
