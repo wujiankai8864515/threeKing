@@ -1,0 +1,63 @@
+[
+  {
+    "asset": "iron",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+    "status": "local_revision_candidate",
+    "changed_art_pixels_during_UI": 0,
+    "sha256": "266ff437583140ca14ca0e9a16e28f1cf32b6f8c5c3d8d95d37421a07deb5f22",
+    "library_file_id": "libfile_743bd8ce7bbc8191a979f7e78b186591",
+    "library_version": 0
+  },
+  {
+    "asset": "bronze",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/02-青铜-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "local_revision_candidate",
+    "changed_art_pixels_during_UI": 0,
+    "sha256": "95bed7e63b98f0bc318f04abc34a6ed32ef832229f3d536ac445a52c71dde701",
+    "library_file_id": "libfile_2bb86c98f89081918bc842341e644a5f"
+  },
+  {
+    "asset": "silver",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/03-白银-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+    "status": "local_revision_candidate",
+    "changed_art_pixels_during_UI": 0,
+    "sha256": "08c4c3e8396e91e01b1ce34e1ec552ee6451b5d2a097aa5b184083aff2c978e2",
+    "library_file_id": "libfile_33bf390b9ea48191bba654578dc661c1",
+    "library_version": 0
+  },
+  {
+    "asset": "gold",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/04-黄金-UI排版修复1190.png",
+    "illustration_source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+    "status": "local_revision_candidate",
+    "changed_art_pixels_during_UI": 0,
+    "sha256": "f128d3fc3f71d0d7999b03941f063b329e992dd2a6899ca3154c15def6bf37df",
+    "library_file_id": "libfile_257d437230c481919890f94df4fa2403",
+    "library_version": 0
+  },
+  {
+    "asset": "bio01",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+    "status": "frozen_accepted",
+    "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8",
+    "library_file_id": "libfile_a3aa39e25a24819180cadc8205cc8fc2"
+  },
+  {
+    "asset": "bio02",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+    "status": "frozen_accepted",
+    "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0",
+    "library_file_id": "libfile_17bd7d6eb15c81919ef6463027c3d109"
+  },
+  {
+    "asset": "bio03",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/bio03-final.png",
+    "status": "local_revision_candidate",
+    "sha256": "4d511c52bbfc6da5d3adec98741d26a3cbfd12de9ac303202d7d2cef14f58821",
+    "library_file_id": "libfile_143e7fb106dc8191bfe2057f40fbf91b",
+    "library_version": 0
+  }
+]

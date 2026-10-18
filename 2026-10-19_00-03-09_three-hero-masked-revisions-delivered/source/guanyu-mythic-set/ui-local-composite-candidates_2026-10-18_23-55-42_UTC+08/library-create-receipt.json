@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-UI排版修复1190(3).png",
+      "file_id": "file_00000000859081fdadb7d04599f94adb",
+      "library_file_id": "libfile_d62950cd812881919aab0ad2bc4a0513",
+      "file_name": "02-青铜-UI排版修复1190(3).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4175400
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-UI排版修复1190(3).png",
+      "file_id": "file_000000003a7481fdb86579a1636d9849",
+      "library_file_id": "libfile_f238992edcdc81919b49cb47b597102e",
+      "file_name": "04-黄金-UI排版修复1190(3).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3728177
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/关羽-四阶UI排版修复总览(1).png",
+      "file_id": "file_0000000076f881f88b2dc2c3e9ba6f10",
+      "library_file_id": "libfile_4114f4fbd9888191910817baaf3ab14a",
+      "file_name": "关羽-四阶UI排版修复总览(1).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2737320
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-18T23:34:50.131272+08:00",
+  "commit": "6e7be8f5b1e3eb346805043520c9f8ed49eb5b02",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 4627,
+  "sequential_copy_sha256_checked": true,
+  "new_archived_paths": 130,
+  "status": "Liu Bei candidates not delivered or user accepted; Guan Yu bronze historical attempts not current approved; local compositing not approved."
+}

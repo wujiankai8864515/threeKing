@@ -1,0 +1,64 @@
+{
+  "silver": {
+    "source_sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+    "changed_pixels": 14018,
+    "outside_mask_changed": 0,
+    "changed_bbox": [
+      0,
+      1107,
+      248,
+      1259
+    ],
+    "method": "generated red-light positive delta only",
+    "mask_sha256": "202b6f43d2ad640bb1b06dd0d3ed3e2337eb80b681cc6e34bc170b39249611a8"
+  },
+  "gold": {
+    "source_sha256": "eb5e1b5db8e59ea74800680ae70dbd2926e82359cc0342322600dc048e376e65",
+    "changed_pixels": 2568,
+    "outside_mask_changed": 0,
+    "changed_bbox": [
+      893,
+      793,
+      1024,
+      887
+    ],
+    "method": "generated red-light positive delta only",
+    "mask_sha256": "7c504883e1e790f7d3b4d5c6aafd3de713e8c472a9ce0a629f085d7cd237132b"
+  },
+  "bio03": {
+    "source_sha256": "f832d7dee8826c03838fe294ff51bbf68d148f3e08bc0cc4ed670acdc605cb50",
+    "changed_pixels": 3258,
+    "outside_mask_changed": 0,
+    "changed_bbox": [
+      1393,
+      498,
+      1490,
+      571
+    ],
+    "method": "generated terminal-tip patch, shape feather mask",
+    "mask_sha256": "0cd4bf7120e195c65551a5cfbc2ce1d0415478b692e1d9fcd0bb70412cef55c9"
+  },
+  "blackiron": {
+    "translation_px": [
+      24,
+      0
+    ],
+    "resampling": "none; contour alpha only",
+    "moved_interior_pixel_mismatch": 0,
+    "outside_mask_changed": 0,
+    "changed_pixels": 708049,
+    "background_repair_pixels": 131875,
+    "grip": "pillar and hero translated together",
+    "visual_status": "root reviewed improved silhouette; candidate, not user-final",
+    "final_visual_review": "left garment and shoes inspected; no severe automatic cutouts remain; original source sampled for all solid foreground pixels"
+  },
+  "bronze": {
+    "status": "frozen source hash verified"
+  },
+  "bio01": {
+    "status": "frozen source hash verified"
+  },
+  "bio02": {
+    "status": "frozen source hash verified"
+  }
+}

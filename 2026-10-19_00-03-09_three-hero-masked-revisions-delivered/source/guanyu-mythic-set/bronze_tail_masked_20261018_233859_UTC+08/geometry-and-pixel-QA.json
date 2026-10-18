@@ -1,0 +1,119 @@
+{
+  "base": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08/青铜-骑乘结构重建-候选1.png",
+  "builtin_patch_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_local_20261018_232717_UTC+08/青铜-骑乘重建尾杆局修-候选2.png",
+  "method": "Extract only builtin-generated aft shaft and butt-cap; rigid transform; explicit mask composite over original researched rebuild candidate 1. No generated faces or armor from failed candidate 2 are used.",
+  "source_axis_x_equals_a_y_plus_b": [
+    1.0261563041964252,
+    -16.90300700542136
+  ],
+  "target_main_axis_x_equals_a_y_plus_b": [
+    0.925,
+    -7.75
+  ],
+  "source_anchor": [
+    181.14515970448872,
+    193.0
+  ],
+  "target_anchor": [
+    190.0,
+    213.78378378378378
+  ],
+  "rotation_degrees": 2.9707831926510164,
+  "outside_mask_changed_pixels": 0,
+  "locked_faces_arm_hand_changed_pixels": 0,
+  "total_changed_pixels": 3202,
+  "changed_bbox": [
+    178,
+    201,
+    342,
+    368
+  ],
+  "face_exact_pixel_equal": {
+    "关羽脸": true,
+    "刘备脸": true,
+    "张飞脸": true
+  },
+  "source_generation_prompt_record": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_local_20261018_232717_UTC+08/局修记录.json",
+  "files": {
+    "QA-主轴握点-2x.png": {
+      "sha256": "5b8d4c14cdfa52601317939cb76685a07c4d5a92d6c08eb41070d7795cef59bf",
+      "size_bytes": 316216
+    },
+    "QA-native-刘备脸.png": {
+      "sha256": "3f1f6356489aecc96f8959a69b1c39ab41063c97596c1e8332fb0c8a8eca0172",
+      "size_bytes": 58036
+    },
+    "QA-native-尾杆遮挡轴.png": {
+      "sha256": "b0fa0c5c53935985ebefbb46dc78cdddd90c5822ddc7f0163dc7ba2eab196253",
+      "size_bytes": 541477
+    },
+    "patch-aligned-fullcanvas.png": {
+      "sha256": "f4dba9a97c6b81216be55bf5aa932168bebcc63ae61c22f67ae99b9b6dab7913",
+      "size_bytes": 3280401
+    },
+    "mask-applied.png": {
+      "sha256": "5039f3c9873dc0dc121eeeffa0146f1d103f329af0280b4003089857627cf1fb",
+      "size_bytes": 4117
+    },
+    "QA-补丁源尾杆-3x.png": {
+      "sha256": "be1abb83f80c17c1d92bb93190a210bc0f703de5352ab9f1e2a95434acfcb6f9",
+      "size_bytes": 143217
+    },
+    "QA-刘备脸-前左后右-像素一致.png": {
+      "sha256": "5d9df750f7a88d0fee7bc821f44a6e096cc161d780d63bd9b265f112e726c633",
+      "size_bytes": 59117
+    },
+    "QA-尾杆连接-2x.png": {
+      "sha256": "e8de980d28228d028d2f2b070efc4f8250f3ce355f07ebe13f0d99c766eeb914",
+      "size_bytes": 723701
+    },
+    "QA-尾帽轮廓-6x.png": {
+      "sha256": "66b6649bfbeb082ea62f66c8f129fa6a6fe31bc984e766591731fcbffd28b4b1",
+      "size_bytes": 23316
+    },
+    "QA-native-关羽全刀.png": {
+      "sha256": "f5f152e530a4404431084dbee5bf15cfe8cb7d01be516df2d7c796e80adeda69",
+      "size_bytes": 1646660
+    },
+    "patch-source-mask.png": {
+      "sha256": "a5a467fd78edc7ad63ebb0f4511669f5fad6cb6f871950c790e7d821dfd89134",
+      "size_bytes": 3395
+    },
+    "QA-关羽脸-前左后右-像素一致.png": {
+      "sha256": "ee8dbb0af3f85784475bdad807902d0cd81ee30d75caa12e9a35cf503bc57366",
+      "size_bytes": 110981
+    },
+    "original-重建候选1.png": {
+      "sha256": "24b5e4cb243885db1a55dbe29af9319c69f7bb4c44e5ef372acc9e4dac77b43c",
+      "size_bytes": 3361939
+    },
+    "QA-native-张飞脸.png": {
+      "sha256": "5541a03d74255892f39e8380a9af97e11565e6bedabc1cb4eac7605af3e2ecba",
+      "size_bytes": 32551
+    },
+    "QA-native-关羽脸.png": {
+      "sha256": "b4a4bd127c393b0b8028eae37b3035552afa57fd1955750aa6a22b0a5b5c71d3",
+      "size_bytes": 108283
+    },
+    "青铜-骑乘重建-尾杆共轴遮罩修复.png": {
+      "sha256": "cf7cb2bfc0c9d1538b31b5f49d257ae688778912a1841282d667246da9c2cabd",
+      "size_bytes": 3130733
+    },
+    "QA-张飞脸-前左后右-像素一致.png": {
+      "sha256": "225e06c1fb509578657caa7c8c4fb1b97670bc0f85a46960f75522a2227c75a8",
+      "size_bytes": 33285
+    },
+    "mask-protected-faces-arm-hand.png": {
+      "sha256": "05b600f48c310de3a14d9e1799dd2a38b0a23b8a93aaf67f34256a28c9aa26ec",
+      "size_bytes": 2937
+    },
+    "patch-builtin-尾杆尾帽.png": {
+      "sha256": "dd635db5e527c9d847a1e21ce669361e739f455589268418f1b788769ef20614",
+      "size_bytes": 89396
+    },
+    "patch-source-builtin局修2.png": {
+      "sha256": "7256fbe21107e7f6c74a77d6d81daa9550eb4641eb072d2d9c34bf7bd18cda24",
+      "size_bytes": 3126324
+    }
+  }
+}

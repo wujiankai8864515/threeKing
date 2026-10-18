@@ -1,0 +1,54 @@
+{
+  "source": "黄金-用户认可旧底图-原样.png",
+  "source_sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+  "size": [
+    1024,
+    1536
+  ],
+  "blade_translation_integer_pixels": [
+    -88,
+    160
+  ],
+  "shaft_axis_start": [
+    318.5,
+    911.0
+  ],
+  "shaft_axis_end": [
+    646.25,
+    315.0
+  ],
+  "shaft_diameter_px": 20.0,
+  "mask_support_pixels": 114495,
+  "changed_pixels": 113156,
+  "outside_mask_changed_pixels": 0,
+  "roi_changed_pixels": {
+    "hoof": 0,
+    "face": 0,
+    "horse-head": 0,
+    "tail-interior": 0,
+    "dragon": 0,
+    "background-right": 0
+  },
+  "generation": "builtin: isolated steel shaft asset and vacated-blade background only; final deterministic masked composite",
+  "status": "maker visual QA complete: full, native grip before/after, upper extension, lower shaft joins, moved blade and thumbnail viewed; parent final review pending",
+  "final_file": "关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+  "final_sha256": "1214392de32f5a48b4adf4f75c5b2095409c6e56d0cff3b610118e419b1a4ea7",
+  "protected_hand_changed_pixels": 0,
+  "translated_original_blade_opaque_core_pixels": 56612,
+  "translated_blade_core_mismatch_pixels": 0,
+  "reconstruction_mismatch_pixels": 0,
+  "mask_fraction_percent": 7.2794,
+  "scope_note": "Only generated isolated steel rod and generated background inside old weapon footprint; new blade is an integer translation of original pixels, without resampling. Original armor/hair can be occluded only by the thin added upper shaft; no repaint of original person/horse/dragon. Source hand is restored unchanged.",
+  "artifacts": [
+    "黄金-用户认可旧底图-原样.png",
+    "original-blade-pixels-patch.png",
+    "translated-original-blade-patch.png",
+    "masked-background-patch.png",
+    "shaft-continuation-patch.png",
+    "combined-repair-patch.png",
+    "edit-support-mask.png",
+    "protected-original-hand-mask.png",
+    "prompts.json",
+    "compose_masked_shaft.py"
+  ]
+}

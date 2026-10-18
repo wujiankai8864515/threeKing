@@ -1,0 +1,107 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/01-黑铁-UI排版修复1190(3).png",
+    "file_id": "file_00000000e97c81fd902b330555589bb7",
+    "library_file_id": "libfile_743bd8ce7bbc8191a979f7e78b186591",
+    "file_name": "01-黑铁-UI排版修复1190(3).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3423234,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/01-黑铁-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/03-白银-UI排版修复1190(3).png",
+    "file_id": "file_00000000840481f58959eeb4b3fb80fa",
+    "library_file_id": "libfile_33bf390b9ea48191bba654578dc661c1",
+    "file_name": "03-白银-UI排版修复1190(3).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3723351,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/03-白银-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/04-黄金-UI排版修复1190(4).png",
+    "file_id": "file_0000000073a481fd938ead7131aeb156",
+    "library_file_id": "libfile_257d437230c481919890f94df4fa2403",
+    "file_name": "04-黄金-UI排版修复1190(4).png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 4191721,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/04-黄金-UI排版修复1190.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio03-final.png",
+    "file_id": "file_000000002c0c81f59f8a6f3b84e80f00",
+    "library_file_id": "libfile_143e7fb106dc8191bfe2057f40fbf91b",
+    "file_name": "bio03-final.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3048828,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/bio03-final.png"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/张飞-四阶三传记-局修候选总览.png",
+    "file_id": "file_000000005f9c81fd99fe823ada340d56",
+    "library_file_id": "libfile_d8775dcc82cc81918e741d108dd39add",
+    "file_name": "张飞-四阶三传记-局修候选总览.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 4357148,
+    "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/张飞-四阶三传记-局修候选总览.png"
+  }
+]

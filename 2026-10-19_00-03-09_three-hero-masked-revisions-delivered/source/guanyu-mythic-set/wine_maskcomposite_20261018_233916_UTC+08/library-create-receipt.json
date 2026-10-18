@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/温酒请战-v17-原图冻结-武器局部合成.png",
+    "file_id": "file_00000000667c820cafa1dd785704bdc5",
+    "library_file_id": "libfile_00b61d8cfcb88191b4df35128b362ce2",
+    "file_name": "温酒请战-v17-原图冻结-武器局部合成.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2992780,
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

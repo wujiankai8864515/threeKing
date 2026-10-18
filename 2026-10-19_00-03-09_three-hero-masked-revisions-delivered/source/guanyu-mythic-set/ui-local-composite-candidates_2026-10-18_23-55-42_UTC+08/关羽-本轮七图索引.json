@@ -1,0 +1,151 @@
+{
+  "hero": "关羽",
+  "round": "2026-10-18 23:55:42 UTC+08",
+  "status": "current local-composite candidates ready; new bronze/gold UI and overview saved; frozen assets and wine v17 existing Library IDs retained; user acceptance pending for changed assets",
+  "asset_count": 7,
+  "assets": [
+    {
+      "asset": "iron",
+      "type": "card_UI",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/01-黑铁-UI排版修复1190.png",
+      "sha256": "953b7b6b6c9d6f2bfe3740327798bb9e82e065fdc2dc31e918a36d0336ba73ee",
+      "actual_pixels": [
+        1190,
+        1786
+      ],
+      "illustration_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "library_file_id": "libfile_ac208953d6688191a8a9e9b16b51374a",
+      "new_content_persisted": true,
+      "status": "previous user-approved complete UI frozen byte-for-byte",
+      "file_id": "file_00000000b69081fda6ce5172617598cd",
+      "library_path": "/01-黑铁-UI排版修复1190.png",
+      "current_version_number": 0,
+      "xattrs_applied": true,
+      "frozen_UI_preserved_byte_for_byte": true
+    },
+    {
+      "asset": "bronze",
+      "type": "card_UI",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/02-青铜-UI排版修复1190.png",
+      "sha256": "0958635deba0eb8a97692029e6ba1304d6674ab3efbcc4e2e1487a1c56636df7",
+      "actual_pixels": [
+        1190,
+        1786
+      ],
+      "illustration_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+      "library_file_id": "libfile_d62950cd812881919aab0ad2bc4a0513",
+      "new_content_persisted": true,
+      "status": "root-reviewed local masked composite candidate; user acceptance pending",
+      "file_id": "file_00000000859081fdadb7d04599f94adb",
+      "library_path": "/02-青铜-UI排版修复1190(3).png",
+      "current_version_number": 0,
+      "xattrs_applied": true,
+      "library_file_name": "02-青铜-UI排版修复1190(3).png"
+    },
+    {
+      "asset": "silver",
+      "type": "card_UI",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/03-白银-UI排版修复1190.png",
+      "sha256": "554c2af7f629b74adeb1739c4f7ed811f864b38f1dc9011dbc6e7a057795b56c",
+      "actual_pixels": [
+        1190,
+        1786
+      ],
+      "illustration_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-白银-刀型长杆局修-候选1.png",
+      "library_file_id": "libfile_9856e9c09050819183032e73e043a7da",
+      "new_content_persisted": true,
+      "status": "previous user-approved complete UI frozen byte-for-byte",
+      "file_id": "file_000000005b7881f8952113d4e9025431",
+      "library_path": "/03-白银-UI排版修复1190.png",
+      "current_version_number": 0,
+      "xattrs_applied": true,
+      "frozen_UI_preserved_byte_for_byte": true
+    },
+    {
+      "asset": "gold",
+      "type": "card_UI",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/04-黄金-UI排版修复1190.png",
+      "sha256": "f80cb310ddba145fb2c49c7ac9b20212edc32d24d20b48efcb7af606143fbbc9",
+      "actual_pixels": [
+        1190,
+        1786
+      ],
+      "illustration_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+      "library_file_id": "libfile_f238992edcdc81919b49cb47b597102e",
+      "new_content_persisted": true,
+      "status": "root-reviewed local masked composite candidate; user acceptance pending",
+      "file_id": "file_000000003a7481fdb86579a1636d9849",
+      "library_path": "/04-黄金-UI排版修复1190(3).png",
+      "current_version_number": 0,
+      "xattrs_applied": true,
+      "library_file_name": "04-黄金-UI排版修复1190(3).png"
+    },
+    {
+      "asset": "peach",
+      "type": "story",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+      "last_verified_library_version": 6,
+      "new_content_persisted": true,
+      "status": "frozen unchanged"
+    },
+    {
+      "asset": "wine",
+      "type": "story",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_maskcomposite_20261018_233916_UTC+08/温酒请战-v17-原图冻结-武器局部合成.png",
+      "sha256": "095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_file_id": "libfile_00b61d8cfcb88191b4df35128b362ce2",
+      "new_content_persisted": true,
+      "status": "v17 original v13 preserved outside weapon mask; root-reviewed candidate; user acceptance pending",
+      "file_id": "file_00000000667c820cafa1dd785704bdc5",
+      "library_path": "/温酒请战-v17-原图冻结-武器局部合成.png",
+      "current_version_number": null,
+      "library_file_name": "温酒请战-v17-原图冻结-武器局部合成.png"
+    },
+    {
+      "asset": "escort",
+      "type": "story",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "actual_pixels": [
+        1536,
+        1024
+      ],
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+      "last_verified_library_version": 7,
+      "new_content_persisted": true,
+      "status": "frozen unchanged"
+    }
+  ],
+  "overview": {
+    "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/关羽-四阶UI排版修复总览.png",
+    "sha256": "61580300207be06e7fa69868885c481269b4b339aab094679a962e4d798d2757",
+    "library_file_id": "libfile_4114f4fbd9888191910817baaf3ab14a",
+    "file_id": "file_0000000076f881f88b2dc2c3e9ba6f10",
+    "library_path": "/关羽-四阶UI排版修复总览(1).png",
+    "library_file_name": "关羽-四阶UI排版修复总览(1).png",
+    "current_version_number": 0,
+    "new_content_persisted": true,
+    "xattrs_applied": true
+  },
+  "UI_QA": "blackiron and silver complete UI byte-identical to previous approved files; bronze/gold replace art only; title关羽; existing advancement真; 汜水關 lettering retained in frozen silver; compact panels, 12px ink gap, glyph-centered; bottom-up slots; 1:1 native illustration pixels unchanged; gold blade naturally leaves image, not shortened",
+  "current_sources": {
+    "bronze": "bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+    "gold": "gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+    "wine": "wine_maskcomposite_20261018_233916_UTC+08/温酒请战-v17-原图冻结-武器局部合成.png"
+  },
+  "superseded_not_current": [
+    "bronze candidate4",
+    "gold grip-coaxial candidate1",
+    "wine v16"
+  ]
+}

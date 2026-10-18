@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts/asset-index.json",
+  "asset_index": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Liu Bei seven candidates complete but not delivered or accepted. Guan Yu bronze remains rejected/unapproved; local compositing permission pending.",
-  "latest_delta": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts",
-  "current_status": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts/status-overrides.json",
+  "note": "Three seven-image candidate sets sent; service accepted, final user acceptance pending. Masked compositing method approved; failed histories are not current.",
+  "latest_delta": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered",
+  "current_status": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -33,7 +33,8 @@
     "2026-10-18_21-58-20_ongoing-wei-art-and-verification",
     "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions",
     "2026-10-18_23-28-37_rollback-feedback-and-locked-sources",
-    "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts"
+    "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts",
+    "2026-10-19_00-03-09_three-hero-masked-revisions-delivered"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -77,7 +78,8 @@
     "2026-10-18_21-58-20_ongoing-wei-art-and-verification",
     "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions",
     "2026-10-18_23-28-37_rollback-feedback-and-locked-sources",
-    "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts"
+    "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts",
+    "2026-10-19_00-03-09_three-hero-masked-revisions-delivered"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -86,7 +88,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "3ad74e541a1f5ecc8f65fec306cac956162cdcfb",
+  "remote_verified_commit": "6e7be8f5b1e3eb346805043520c9f8ed49eb5b02",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -94,6 +96,6 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts/prior-remote-verification.json",
-  "effective_source_map": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts/effective-source-map.json"
+  "remote_verification_receipt": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/effective-source-map.json"
 }

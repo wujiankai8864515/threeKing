@@ -1,0 +1,120 @@
+{
+  "method": "Built-in generated a lower-left crop patch; deterministic masked composite onto untouched v13. Original blade/collar/tassel translated together (-240,+172), original arm/hand/upper pole left untouched. Generated patch supplies only local old-weapon background restoration and shaft texture.",
+  "full_size": [
+    1536,
+    1024
+  ],
+  "source_sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+  "final_sha256": "095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912",
+  "generated_size": [
+    1448,
+    1086
+  ],
+  "generated_patch_native_size": [
+    1024,
+    768
+  ],
+  "crop_bbox": [
+    0,
+    256,
+    1024,
+    1024
+  ],
+  "mask_nonzero_pixels": 38939,
+  "outside_mask_changed_pixels": 0,
+  "roi_changes": {
+    "GuanYu_face": 0,
+    "left_hand_and_forearm": 0,
+    "LiuBei_face": 0,
+    "ZhangFei_face": 0,
+    "CaoCao_face": 0,
+    "horse": 0,
+    "dragon": 0
+  },
+  "status": "Uploaded new candidate; no user message or Git; awaiting root review and grouped delivery",
+  "visual_qa": [
+    "Full scene compared to source; original faces, arm pose, clothing, horse and dragon remain original outside the weapon-only mask.",
+    "100% weapon and 4x/8x grip/collar inspected: single rigid axis with no gap or duplicate hardware; original fingers and forearm preserved.",
+    "Original broad crescent blade/collar/tassel moved as one unchanged-size object; long shaft now reads naturally against the approved shoulder-carried reference.",
+    "Newly revealed old-weapon footprint was locally reconstructed; all other source pixels are exact."
+  ],
+  "actual_generations": [
+    {
+      "prompt": "prompt.txt",
+      "refs": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_maskcomposite_20261018_233916_UTC+08/weapon-edit-crop-1024x768.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+      ],
+      "output": "generated-weapon-patch.png",
+      "native_output_size": [
+        1448,
+        1086
+      ]
+    },
+    {
+      "prompt": "cleanplate-prompt.txt",
+      "refs": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_maskcomposite_20261018_233916_UTC+08/old-weapon-cleanplate-input.png"
+      ],
+      "output": "generated-cleanplate.png",
+      "native_output_size": [
+        1417,
+        1110
+      ]
+    }
+  ],
+  "files": {
+    "source-v13-frozen.png": {
+      "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "generated-weapon-patch.png": {
+      "sha256": "5b769175a98e86c7e293064ca3cc7163fefab2a3687c91d36ee32128421b479c",
+      "size": [
+        1448,
+        1086
+      ]
+    },
+    "generated-cleanplate.png": {
+      "sha256": "0a6f3bcd4366faa17293c99ff5d111d5e087a189f8210fe7aadcd8a9ab5f9291",
+      "size": [
+        1417,
+        1110
+      ]
+    },
+    "edit-mask-1536x1024.png": {
+      "sha256": "2c17c2152da58fc21fdcaa2b24261fc0c386a7d3e75f43c2642644058dccf79e",
+      "size": [
+        1536,
+        1024
+      ]
+    },
+    "final-patch-RGBA.png": {
+      "sha256": "3b461f2ec2867aa497657acf121bea6650109507d79637f51b6a0ea5fc3c8380",
+      "size": [
+        1024,
+        768
+      ]
+    },
+    "温酒请战-v17-原图冻结-武器局部合成.png": {
+      "sha256": "095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912",
+      "size": [
+        1536,
+        1024
+      ]
+    }
+  },
+  "authorization": "Root supplied exact user approval to local weapon generation plus deterministic masked pasteback (Sentinel_fc42d0d810d081918ac5e206e61f030b, 2026-10-18 15:37:22 UTC).",
+  "library": {
+    "library_file_id": "libfile_00b61d8cfcb88191b4df35128b362ce2",
+    "file_id": "file_00000000667c820cafa1dd785704bdc5",
+    "version": 0,
+    "status": "succeeded"
+  },
+  "post_upload_sha256": "095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912",
+  "post_upload_outside_mask_changed_pixels": 0,
+  "helper_note": "Current cloud skill package unavailable when fetching apply-xattrs helper; applied every returned xattr directly per tool contract, plus exact returned Library file ID."
+}

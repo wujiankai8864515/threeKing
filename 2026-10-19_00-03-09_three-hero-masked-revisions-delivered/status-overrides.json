@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-19T00:03:09.786079+08:00",
+  "previous_status": "2026-10-18_23-33-19_liubei-candidates-and-guanyu-rejected-attempts/status-overrides.json",
+  "scope": "Guan Yu, Zhang Fei and Liu Bei only; all other hero production paused.",
+  "current_summary": "All three seven-image candidate sets sent; service accepted; user final review pending.",
+  "method_permission": {
+    "method": "local_generation_plus_masked_compositing",
+    "status": "USER_APPROVED",
+    "question_message": "Sentinel_fca3b0512f6881919ae1f2b2f0143c76",
+    "answer_message": "Sentinel_fc42d0d810d081918ac5e206e61f030b",
+    "answer": "可以",
+    "reported_at": "2026-10-18T15:37:00Z",
+    "supersedes": "ASKED_NOT_APPROVED"
+  },
+  "effective_source_map": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/effective-source-map.json",
+  "guanyu_review": "Root reviewed masked bronze, old-source gold candidate 3 and v17 wine; reported outside-mask zero changes. Root review is not user final acceptance.",
+  "zhangfei_review": "Use final manual-mask blackiron 24px shift; failed early blackiron retained as history only.",
+  "this_batch_remote_status": "Pending independent verification; prior receipt preserved."
+}

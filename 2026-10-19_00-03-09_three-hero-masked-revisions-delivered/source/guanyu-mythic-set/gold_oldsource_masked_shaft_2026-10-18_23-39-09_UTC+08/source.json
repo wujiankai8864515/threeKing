@@ -1,0 +1,38 @@
+{
+  "source": "guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+  "sha256": {
+    "关羽-黄金-旧源长柄遮罩保真修复-候选3.png": "1214392de32f5a48b4adf4f75c5b2095409c6e56d0cff3b610118e419b1a4ea7",
+    "combined-repair-patch.png": "91a413d8faa38a9f4c0f45ad94723e2fe2b244f3434802fa1f1e349c721598ea",
+    "edit-support-mask.png": "1fb2dec77c4a48ce1274decc834bedd04db75fe13fcfc6103609943a8e028ed1",
+    "original-blade-pixels-patch.png": "5d8793620d6192b7d264269882bec4125132fcca66df8ec0f66d3232e827cb5a",
+    "generated-background-patch.png": "5585c35c9b00a53341efc6265fae5f73d6214930a0b005dea887c5995515477e",
+    "generated-shaft-asset.png": "2608d8462b47ecc8eeef2899289a358407421a8f37d6099e9343575bd32275f9"
+  },
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "authorization_message": "Sentinel_fc42d0d810d081918ac5e206e61f030b",
+  "scope": "User-authorized local generation plus deterministic masked compositing on verified old gold source. Original blade translated by integer vector (-88,+160), no blade regeneration. Parent approved necessary same-axis movement. Silver frozen.",
+  "outputs": {
+    "selected": "关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+    "mask": "edit-support-mask.png",
+    "merged_patch": "combined-repair-patch.png",
+    "qa": "pixel-QA.json"
+  },
+  "generation": [
+    {
+      "asset": "generated-background-patch.png",
+      "reference": "background-edit-target-crop.png",
+      "generated_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d7b27560-6ccc-440e-accd-1d1a0b7226dc.png",
+      "prompt_key": "background"
+    },
+    {
+      "asset": "generated-shaft-asset.png",
+      "reference": "shaft-material-reference.png",
+      "generated_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1fd08f34-9906-4e85-88b8-78254faca1e1.png",
+      "prompt_key": "shaft"
+    }
+  ],
+  "status": "Maker QA checked; handed to root and UI composer for final review. Not sent to user and no Git action."
+}

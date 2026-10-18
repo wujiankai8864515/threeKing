@@ -1,0 +1,9 @@
+{
+  "method": "local_generation_plus_masked_compositing",
+  "status": "USER_APPROVED",
+  "question_message": "Sentinel_fca3b0512f6881919ae1f2b2f0143c76",
+  "answer_message": "Sentinel_fc42d0d810d081918ac5e206e61f030b",
+  "answer": "可以",
+  "reported_at": "2026-10-18T15:37:00Z",
+  "supersedes": "ASKED_NOT_APPROVED"
+}

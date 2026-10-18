@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-19T00:03:09.786079+08:00",
+  "service_status": "accepted",
+  "user_final_acceptance": false,
+  "assets": 21,
+  "guanyu": {
+    "message_id": "Sentinel_abf9aa02984c8191bac2dbcef5f42f05",
+    "at": "2026-10-18T15:59:54Z",
+    "index": "guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/关羽-本轮七图索引.json"
+  },
+  "zhangfei": {
+    "message_id": "Sentinel_0124ebb02bb4819193a270466cd6417a",
+    "at": "2026-10-18T16:00:17Z",
+    "index": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/seven-image-index.json"
+  },
+  "liubei": {
+    "message_id": "Sentinel_6782f41f4f1c81918de91f5385320dbd",
+    "at": "2026-10-18T16:02:03Z",
+    "index": "liubei-set/revise_cards_20261018_231200_UTC+08/delivery-manifest.json",
+    "earlier_attempts": "Two attachment validation attempts failed due to inaccessible old silver Library file; neither sent. Silver reuploaded and index corrected; final seven-image send accepted."
+  }
+}

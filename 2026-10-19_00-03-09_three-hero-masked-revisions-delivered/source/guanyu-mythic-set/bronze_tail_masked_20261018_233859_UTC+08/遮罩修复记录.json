@@ -1,0 +1,26 @@
+{
+  "status": "root_review_passed_candidate_user_not_accepted",
+  "method_authorized_utc": "2026-10-18T15:37:22Z",
+  "operation": "采用重建候选1作唯一底图；仅提取既有builtin局修2的尾杆与尾帽生成像素，旋转2.970783度并按原主杆直轴定位，遮罩贴回，手臂遮挡保留原图像素。",
+  "final_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+  "sha256": "cf7cb2bfc0c9d1538b31b5f49d257ae688778912a1841282d667246da9c2cabd",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "library_file_id": "libfile_bb58beabe80881919da9b8af90be8557",
+  "library_file_version": 0,
+  "changed_pixels": 3202,
+  "changed_bbox": [
+    178,
+    201,
+    342,
+    368
+  ],
+  "outside_mask_changed_pixels": 0,
+  "locked_face_arm_hand_changed_pixels": 0,
+  "native_review": "原生检查尾杆与双手之间原杆共轴；尾帽和桃枝、张飞头部/蛇矛有空隙；三人脸部与原重建图逐像素一致，主刀头、各手、甲、马和背景在补杆遮罩外全部保留。",
+  "QA": "geometry-and-pixel-QA.json与各QA-native/前后对照图",
+  "preservation": "已保存original、builtin patch source、透明补丁、对齐补丁、应用遮罩、锁定遮罩、最终图、可复现脚本和生成记录。所有原图/UI未覆盖。",
+  "delivery": "UI线已确认锁定本次新青铜源与Library ID，按root要求等待黄金和温酒修复齐后统一合成/交付，未单独重做UI，未向用户发送，未Git。"
+}

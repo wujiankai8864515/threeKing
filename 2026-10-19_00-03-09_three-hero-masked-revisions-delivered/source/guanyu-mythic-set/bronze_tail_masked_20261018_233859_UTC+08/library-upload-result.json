@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+    "file_id": "file_00000000871481f8a7dcd514870a7a7f",
+    "library_file_id": "libfile_bb58beabe80881919da9b8af90be8557",
+    "file_name": "青铜-骑乘重建-尾杆共轴遮罩修复.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3130733,
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}
