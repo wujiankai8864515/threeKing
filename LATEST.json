@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates/asset-index.json",
+  "asset_index": "2026-10-19_01-19-31_yujin-seven-remake-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Yue Jin corrected set ready. 21 retained plus 63 new candidates = 84; not 280 completed images.",
-  "latest_delta": "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates",
-  "current_status": "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates/status-overrides.json",
+  "note": "Yu Jin seven candidates ready. 21 retained plus 70 new candidates = 91; not 280 completed images.",
+  "latest_delta": "2026-10-19_01-19-31_yujin-seven-remake-candidates",
+  "current_status": "2026-10-19_01-19-31_yujin-seven-remake-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -45,7 +45,8 @@
     "2026-10-19_01-04-23_zhugeliang-final-localfix-candidates",
     "2026-10-19_01-08-23_zhangliao-seven-remake-candidates",
     "2026-10-19_01-11-35_huangzhong-scale-pose-final-candidates",
-    "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates"
+    "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates",
+    "2026-10-19_01-19-31_yujin-seven-remake-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -101,7 +102,8 @@
     "2026-10-19_01-04-23_zhugeliang-final-localfix-candidates",
     "2026-10-19_01-08-23_zhangliao-seven-remake-candidates",
     "2026-10-19_01-11-35_huangzhong-scale-pose-final-candidates",
-    "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates"
+    "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates",
+    "2026-10-19_01-19-31_yujin-seven-remake-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -119,6 +121,6 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-19_01-13-47_huangzhong-lejin-upload-verified-progress/verification.json",
-  "effective_source_map": "2026-10-19_01-11-59_lejin-seven-icon-corrected-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_01-13-47_huangzhong-lejin-upload-verified-progress/production-progress.json"
+  "effective_source_map": "2026-10-19_01-19-31_yujin-seven-remake-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_01-19-31_yujin-seven-remake-candidates/production-progress.json"
 }

@@ -1,0 +1,600 @@
+{
+  "status": "candidate_pending_user_review",
+  "generator": "built-in image_gen",
+  "cards": {
+    "iron": {
+      "source": "raw/card01.png",
+      "output": "于禁-卡1-iron.png",
+      "source_sha256": "ca9d1d995d57789847b4b8b76c2050d22f2211d20f3b11e4146243db5eb41117",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "uncovered_native_pixels_changed": 0,
+      "text_alignment": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            131,
+            119,
+            203,
+            187
+          ],
+          "center": [
+            167.34375,
+            153.484375
+          ]
+        },
+        {
+          "text": "于禁",
+          "ink_bbox": [
+            680,
+            80,
+            784,
+            130
+          ],
+          "center": [
+            732.12890625,
+            104.6484375
+          ]
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1040,
+            111,
+            1072,
+            133
+          ],
+          "center": [
+            1056.357421875,
+            122.08984375000001
+          ]
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1041,
+            152,
+            1072,
+            193
+          ],
+          "center": [
+            1056.357421875,
+            172.08854166666669
+          ]
+        },
+        {
+          "text": "真",
+          "ink_bbox": [
+            135,
+            1567,
+            226,
+            1653
+          ],
+          "center": [
+            180.7080078125,
+            1609.841796875
+          ]
+        },
+        {
+          "text": "整列",
+          "ink_bbox": [
+            908,
+            1291,
+            996,
+            1334
+          ],
+          "center": [
+            951.8203125,
+            1312.7565104166667
+          ]
+        },
+        {
+          "text": "+1",
+          "ink_bbox": [
+            1008,
+            1298,
+            1054,
+            1328
+          ],
+          "center": [
+            1030.8203125,
+            1312.7565104166667
+          ]
+        }
+      ]
+    },
+    "bronze": {
+      "source": "raw/card02.png",
+      "output": "于禁-卡2-bronze.png",
+      "source_sha256": "e0dced1aa93f226f173b75e377923d3e83bf72eadeacf0e0399c7536407cfbe0",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "uncovered_native_pixels_changed": 0,
+      "text_alignment": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            131,
+            119,
+            203,
+            187
+          ],
+          "center": [
+            167.34375,
+            153.484375
+          ]
+        },
+        {
+          "text": "于禁",
+          "ink_bbox": [
+            680,
+            80,
+            784,
+            130
+          ],
+          "center": [
+            732.12890625,
+            104.6484375
+          ]
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1040,
+            111,
+            1072,
+            133
+          ],
+          "center": [
+            1056.357421875,
+            122.08984375000001
+          ]
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1041,
+            152,
+            1072,
+            193
+          ],
+          "center": [
+            1056.357421875,
+            172.08854166666669
+          ]
+        },
+        {
+          "text": "真",
+          "ink_bbox": [
+            135,
+            1567,
+            226,
+            1653
+          ],
+          "center": [
+            180.7080078125,
+            1609.841796875
+          ]
+        },
+        {
+          "text": "整列",
+          "ink_bbox": [
+            908,
+            1291,
+            996,
+            1334
+          ],
+          "center": [
+            951.8203125,
+            1312.7565104166667
+          ]
+        },
+        {
+          "text": "+1",
+          "ink_bbox": [
+            1008,
+            1298,
+            1054,
+            1328
+          ],
+          "center": [
+            1030.8203125,
+            1312.7565104166667
+          ]
+        }
+      ]
+    },
+    "silver": {
+      "source": "raw/card03.png",
+      "output": "于禁-卡3-silver.png",
+      "source_sha256": "e42e5d615547513b33b4cfa824c7f4d6f1f2bcf13545789b8b75eeeb745114a9",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "uncovered_native_pixels_changed": 0,
+      "text_alignment": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            131,
+            119,
+            203,
+            187
+          ],
+          "center": [
+            167.34375,
+            153.484375
+          ]
+        },
+        {
+          "text": "于禁",
+          "ink_bbox": [
+            680,
+            80,
+            784,
+            130
+          ],
+          "center": [
+            732.12890625,
+            104.6484375
+          ]
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1040,
+            111,
+            1072,
+            133
+          ],
+          "center": [
+            1056.357421875,
+            122.08984375000001
+          ]
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1041,
+            152,
+            1072,
+            193
+          ],
+          "center": [
+            1056.357421875,
+            172.08854166666669
+          ]
+        },
+        {
+          "text": "真",
+          "ink_bbox": [
+            135,
+            1567,
+            226,
+            1653
+          ],
+          "center": [
+            180.7080078125,
+            1609.841796875
+          ]
+        },
+        {
+          "text": "整列",
+          "ink_bbox": [
+            908,
+            1194,
+            996,
+            1237
+          ],
+          "center": [
+            951.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1200,
+            1054,
+            1231
+          ],
+          "center": [
+            1030.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "text": "镇足",
+          "ink_bbox": [
+            908,
+            1292,
+            996,
+            1334
+          ],
+          "center": [
+            951.8203125,
+            1312.7565104166667
+          ]
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1297,
+            1054,
+            1328
+          ],
+          "center": [
+            1030.8203125,
+            1312.7565104166667
+          ]
+        }
+      ]
+    },
+    "gold": {
+      "source": "raw/card04.png",
+      "output": "于禁-卡4-gold.png",
+      "source_sha256": "9d80d768a7e53c3527bf7802308fc78d360aa02e842ff1874684688fbb09bbf2",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "uncovered_native_pixels_changed": 0,
+      "text_alignment": [
+        {
+          "text": "魏",
+          "ink_bbox": [
+            131,
+            119,
+            203,
+            187
+          ],
+          "center": [
+            167.34375,
+            153.484375
+          ]
+        },
+        {
+          "text": "于禁",
+          "ink_bbox": [
+            680,
+            80,
+            784,
+            130
+          ],
+          "center": [
+            732.12890625,
+            104.6484375
+          ]
+        },
+        {
+          "text": "LV",
+          "ink_bbox": [
+            1040,
+            111,
+            1072,
+            133
+          ],
+          "center": [
+            1056.357421875,
+            122.08984375000001
+          ]
+        },
+        {
+          "text": "1",
+          "ink_bbox": [
+            1041,
+            152,
+            1072,
+            193
+          ],
+          "center": [
+            1056.357421875,
+            172.08854166666669
+          ]
+        },
+        {
+          "text": "真",
+          "ink_bbox": [
+            135,
+            1567,
+            226,
+            1653
+          ],
+          "center": [
+            180.7080078125,
+            1609.841796875
+          ]
+        },
+        {
+          "text": "整列",
+          "ink_bbox": [
+            908,
+            1096,
+            996,
+            1139
+          ],
+          "center": [
+            951.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1102,
+            1054,
+            1133
+          ],
+          "center": [
+            1030.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "text": "镇足",
+          "ink_bbox": [
+            908,
+            1194,
+            996,
+            1236
+          ],
+          "center": [
+            951.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1200,
+            1054,
+            1231
+          ],
+          "center": [
+            1030.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "text": "坚壁",
+          "ink_bbox": [
+            908,
+            1293,
+            996,
+            1333
+          ],
+          "center": [
+            951.8203125,
+            1312.7565104166667
+          ]
+        },
+        {
+          "text": "+2",
+          "ink_bbox": [
+            1008,
+            1297,
+            1054,
+            1328
+          ],
+          "center": [
+            1030.8203125,
+            1312.7565104166667
+          ]
+        }
+      ]
+    }
+  },
+  "stories": {
+    "1": {
+      "source": "raw/bio01.png",
+      "output": "于禁-传记1-西寨可取.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "destination_stage": 2
+    },
+    "2": {
+      "source": "raw/bio02.png",
+      "output": "于禁-传记2-军务在前.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "destination_stage": 3
+    },
+    "3": {
+      "source": "raw/bio03.png",
+      "output": "于禁-传记3-号令入阵.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "destination_stage": 4
+    }
+  },
+  "art_native": {
+    "cards": [
+      1024,
+      1536
+    ],
+    "stories": [
+      1536,
+      1024
+    ]
+  },
+  "frame_canvas": [
+    1190,
+    1786
+  ],
+  "resampling": "art 1:1 at84,145; frame reused existing 1190x1786",
+  "original_designs": [
+    "identity",
+    "clothes",
+    "stone rhinoceros",
+    "blue energy",
+    "unnamed spear",
+    "baton",
+    "all skills"
+  ],
+  "library_uploads": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-卡1-iron.png",
+      "library_file_id": "libfile_7fe5e98558dc81919d9623bc15a7696a",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-卡2-bronze.png",
+      "library_file_id": "libfile_5bc80c95ad288191adfe43d495540115",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-卡3-silver.png",
+      "library_file_id": "libfile_1359955535748191b1ace7404e40a451",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-卡4-gold.png",
+      "library_file_id": "libfile_3eddd03d5ce08191a43e21c22df221e1",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-传记1-西寨可取.png",
+      "library_file_id": "libfile_6bdaae827be08191b5de1177a0c8476b",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-传记2-军务在前.png",
+      "library_file_id": "libfile_0d63261cf4308191b22097ac4bb8f60f",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-传记3-号令入阵.png",
+      "library_file_id": "libfile_e7893851122481918ec9b77bf2cd9c41",
+      "status": "succeeded",
+      "version": 0
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/yujin-set/full-remake_20261019_010206_UTC+08/于禁-七图总览.png",
+      "library_file_id": "libfile_1610e1c18ae88191a73c7e22a4729293",
+      "status": "succeeded",
+      "version": 0
+    }
+  ],
+  "progress": "complete; seven candidates and overview uploaded; awaiting user review"
+}

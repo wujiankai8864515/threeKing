@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+1"
+      }
+    ],
+    "draft": true
+  },
+  "bronze": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+1"
+      }
+    ],
+    "draft": true
+  },
+  "silver": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+2"
+      },
+      {
+        "name": "镇足",
+        "level": "+2"
+      }
+    ],
+    "draft": true
+  },
+  "gold": {
+    "country": "魏",
+    "title": "于禁",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "整列",
+        "level": "+2"
+      },
+      {
+        "name": "镇足",
+        "level": "+2"
+      },
+      {
+        "name": "坚壁",
+        "level": "+2"
+      }
+    ],
+    "draft": true
+  }
+}

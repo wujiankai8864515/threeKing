@@ -1,0 +1,47 @@
+{
+  "status": "Self-reviewed candidate, user approval pending",
+  "passes": [
+    "Seven outputs individually viewed",
+    "Same rectangular face, helmet and short beard across set",
+    "Four poses distinct: roster / rear-quarter survey / open-palm fortification / mounted command",
+    "Silver spear continuous rigid straight axis, single natural grip, spearhead naturally reaches top edge",
+    "Gold reins and command baton separated in different hands",
+    "Biography3 messenger tablet handoff readable",
+    "No frame on three landscape biographies",
+    "UI texts deterministic independent layer, two-character single-effect proposed passives",
+    "魏 blue collection badge fixed all four tiers",
+    "Compact passive plates bottom anchored; title/rank centered by actual font bbox",
+    "All uncovered art pixels identical to original after composition"
+  ],
+  "caveats": [
+    "Rhinoceros visual and flags bearing rhino emblem are original symbolic adaptation, not novel fact",
+    "Blackiron hint is a visible rock rhino head rather than horn only; parent accepted this first-stage motif",
+    "Creature body is mostly mist-obscured intentionally",
+    "Gold passive plates overlap small section of horse muzzle flank but never hero face or grip",
+    "Cao Cao in biography scenes is supporting illustrative design, not reuse of another character production asset"
+  ],
+  "skills": [
+    {
+      "name": "整列",
+      "effect": "自身驻守时受到的伤害降低"
+    },
+    {
+      "name": "镇足",
+      "effect": "自身受到的击退距离减少"
+    },
+    {
+      "name": "坚壁",
+      "effect": "驻守给予的减伤幅度提高"
+    }
+  ],
+  "active_draft": {
+    "name": "驻守",
+    "effect": "驻守期间降低附近少量友军受到的伤害，移动结束"
+  },
+  "failures": [
+    {
+      "file": "failures/card01-too-realistic.png",
+      "reason": "first render too photographic and helmet ponytail; repaired to clean animated style and tucked hair"
+    }
+  ]
+}
