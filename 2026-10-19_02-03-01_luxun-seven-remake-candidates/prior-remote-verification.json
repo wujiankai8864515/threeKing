@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "756d0b52efc9021d312e76b55e4cb54c2530e98b",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 8213,
+  "sequential_copy_sha256_checked": true,
+  "hero": "huanggai"
+}

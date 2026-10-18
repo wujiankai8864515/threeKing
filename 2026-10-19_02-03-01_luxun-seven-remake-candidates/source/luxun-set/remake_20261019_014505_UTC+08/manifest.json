@@ -1,0 +1,289 @@
+{
+  "hero": "陆逊",
+  "status": "candidate_awaiting_user_review",
+  "method": "built-in image_gen, seven independent assets, deterministic separate UI",
+  "native_card_dimensions": [
+    1024,
+    1536
+  ],
+  "native_story_dimensions": [
+    1536,
+    1024
+  ],
+  "card_composite_dimensions": [
+    1190,
+    1786
+  ],
+  "no_upscale_claim": true,
+  "art_scale": "1:1 at offset84,145",
+  "faction": "吴 fixed orange-red across stages",
+  "passives_draft": {
+    "余烬": "火线持续时间提高",
+    "顺脉": "火线可连接末端距离提高",
+    "炽纹": "火线每次伤害提高"
+  },
+  "active_draft": "铺设一段短时地火线，后续可接于末端，连接段数有限。",
+  "passive_counts": [
+    1,
+    1,
+    2,
+    3
+  ],
+  "ui_slot_centers": [
+    961,
+    1045,
+    1129
+  ],
+  "story_links": {
+    "bio01": "card02",
+    "bio02": "card03",
+    "bio03": "card04"
+  },
+  "myth": "燧木地火为原创视觉，非演义事实，无专属神兽名马武器",
+  "failures": [
+    "card01-too-photoreal.png",
+    "card02-ui-hand-overlap.png"
+  ],
+  "assets": [
+    {
+      "title": "黑铁-蕲黄候火",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-黑铁-蕲黄候火.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/card01.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "6eb0aeaa20a3e2224f0e5bef8b2bb3508f6eac2e4cb3b79d609718ca05b99662",
+      "visually_inspected": true
+    },
+    {
+      "title": "青铜-陆口低锋",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-青铜-陆口低锋.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/card02.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "1e0bdce2ffb44afc4061d90b5f54ee7853fa24103948be179bbdf4909c030617",
+      "visually_inspected": true
+    },
+    {
+      "title": "白银-持剑守隘",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-白银-持剑守隘.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/card03.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "24b3f95b9476dc060e8e68a34e23858dad814a763f802f18104d6179db1b4f74",
+      "visually_inspected": true
+    },
+    {
+      "title": "黄金-连营地火",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-黄金-连营地火.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/card04.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "817306bb6d1dd39f2c1d144adf56cc383a773d431fff3f8bd9b7d7f0539b16c0",
+      "visually_inspected": true
+    },
+    {
+      "title": "传记一-以无名卸其防",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-传记一-以无名卸其防.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/bio01.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "a860705b31548fec1b85fe07ee57dfa4e0b00deda08d3b2774cf4eab9401f7a5",
+      "visually_inspected": true
+    },
+    {
+      "title": "传记二-坛上受钺",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-传记二-坛上受钺.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/bio02.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "f7b1e7b3a35c17ea595805084217b5b14d5643fb1b3152cbfce80a08de3ab76f",
+      "visually_inspected": true
+    },
+    {
+      "title": "传记三-先看疲势再动火",
+      "file": "luxun-set/remake_20261019_014505_UTC+08/deliverables/陆逊-传记三-先看疲势再动火.png",
+      "raw": "luxun-set/remake_20261019_014505_UTC+08/raw/bio03.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "6d4b8edd3e3ad0f07dcc9b98666db2a40fc8b9f3246cf6decf657f2d973e0c1b",
+      "visually_inspected": true
+    }
+  ],
+  "library_uploads": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-黑铁-蕲黄候火.png",
+      "file_id": "file_00000000264c81f8961330129e5e96b4",
+      "library_file_id": "libfile_6787689abe308191ac3abadb3f77b122",
+      "file_name": "陆逊-黑铁-蕲黄候火.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3443887
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-青铜-陆口低锋.png",
+      "file_id": "file_000000006b1c81f594c2e9857ee7b405",
+      "library_file_id": "libfile_95157ce9da9c8191a87c40ed26a15af6",
+      "file_name": "陆逊-青铜-陆口低锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3267558
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-白银-持剑守隘.png",
+      "file_id": "file_00000000311482309b54a51ff9e6adc2",
+      "library_file_id": "libfile_fbba14750b448191b68ad377efc51f79",
+      "file_name": "陆逊-白银-持剑守隘.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3444159
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-黄金-连营地火.png",
+      "file_id": "file_00000000138881fd9b02a37318856b4d",
+      "library_file_id": "libfile_333112534f3481919ffd568b76830025",
+      "file_name": "陆逊-黄金-连营地火.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3680105
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-传记一-以无名卸其防.png",
+      "file_id": "file_00000000a0b881f4ba4f52fc15b7d18c",
+      "library_file_id": "libfile_67ba78942a6c8191bedfeb675c1e8816",
+      "file_name": "陆逊-传记一-以无名卸其防.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2229190
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-传记二-坛上受钺.png",
+      "file_id": "file_000000004d7c820c940ad17caa576ed4",
+      "library_file_id": "libfile_d47bcde36c388191b4b158872302a8d0",
+      "file_name": "陆逊-传记二-坛上受钺.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2412595
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-传记三-先看疲势再动火.png",
+      "file_id": "file_000000007150823085ee3fff97b1d4f3",
+      "library_file_id": "libfile_f00115c334e881918f097d036181786a",
+      "file_name": "陆逊-传记三-先看疲势再动火.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2869063
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/陆逊-七图总览.png",
+      "file_id": "file_00000000159481fd9baadddd3188e191",
+      "library_file_id": "libfile_240de8180ab88191baa444ccc206a79f",
+      "file_name": "陆逊-七图总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3896241
+    }
+  ],
+  "completion": "7 independent images + overview uploaded; final QA complete; parent handles delivery and backup"
+}

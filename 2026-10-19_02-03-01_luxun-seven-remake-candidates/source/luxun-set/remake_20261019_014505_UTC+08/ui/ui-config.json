@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "陆逊",
+    "level": "1",
+    "advancement": "壹",
+    "skills": [
+      {
+        "name": "余烬",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "陆逊",
+    "level": "1",
+    "advancement": "贰",
+    "skills": [
+      {
+        "name": "余烬",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "陆逊",
+    "level": "1",
+    "advancement": "叁",
+    "skills": [
+      {
+        "name": "余烬",
+        "level": "+2"
+      },
+      {
+        "name": "顺脉",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "陆逊",
+    "level": "1",
+    "advancement": "肆",
+    "skills": [
+      {
+        "name": "余烬",
+        "level": "+2"
+      },
+      {
+        "name": "顺脉",
+        "level": "+2"
+      },
+      {
+        "name": "炽纹",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed_not_final"
+  }
+}
