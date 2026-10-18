@@ -1,0 +1,100 @@
+{
+  "hero_id": "dianwei",
+  "chapter": 11,
+  "actual_card_inputs": [
+    {
+      "role": "Dian exact approved identity, not deer scene",
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+      "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB"
+    },
+    {
+      "role": "small rear Cao face only",
+      "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "actual_bio_inputs": [
+    "same approved Dian identity only"
+  ],
+  "assets": [
+    {
+      "asset_id": "dianwei_card_3",
+      "title": "五步掷锋",
+      "current": {
+        "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2-双长戟入窗局修候选.png",
+        "sha256": "bfeb9d84f68d86de8804c999687d52aa87cf51212acb82a7cdc34d5d65bbf135",
+        "size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB"
+      },
+      "previous": {
+        "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银-v1-五步掷锋候选.png",
+        "sha256": "0db5f474480ab26c68dba7e978ce4b345d12ebd1696cfe7683700d1d3d50ddfe",
+        "size": [
+          1024,
+          1536
+        ],
+        "mode": "RGB"
+      },
+      "status": "independent_qa_passed_pending_root_freeze",
+      "checks": [
+        "one short ji airborne blade leads LEFT, two short ji still in grip",
+        "two planted long ji separate, rigid axes and bases grounded",
+        "real current silver frame now reveals both long blades",
+        "main face, open throwing hand, bundle hand and ancestor face all visible through actual frame"
+      ],
+      "notes": [
+        "initial strict coordinate concern about hands/ancestor corrected by actual frame test; neither needed repair",
+        "only planted long ji upper ends moved left; UI unchanged",
+        "near foreground corner blur retained noncritical"
+      ]
+    },
+    {
+      "asset_id": "dianwei_bio_2",
+      "title": "再近五步",
+      "current": {
+        "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银传记-v1-再近五步候选.png",
+        "sha256": "839c15018615c1adb54ac43b267c4585797dab583d6b6aa5b10429595f89ced7",
+        "size": [
+          1536,
+          1024
+        ],
+        "mode": "RGB"
+      },
+      "status": "independent_qa_passed_pending_root_freeze",
+      "checks": [
+        "three short ji fanned in ONE visible hand, other hand naturally behind body",
+        "two long ji planted separately, straight axes",
+        "attendant reports distance, enemy cavalry visibly separated",
+        "same Dian identity and broad plane material preserved"
+      ],
+      "limits": [
+        "not all two hands fully visible; does not claim they are",
+        "tiny nearest foreground rock corner is soft, accepted edge exception"
+      ]
+    }
+  ],
+  "generation_calls": 2,
+  "local_edit_calls": 1,
+  "qa": "full native images and 13 original crops; edit 5 native comparisons plus actual 1190 frame composite viewed",
+  "pixel_policy": "native card1024x1536/bio1536x1024; frame1190 art pasted1:1 at84,145; diagnostic frame enlargement not resolution improvement",
+  "uploaded": false,
+  "status": "independent_qa_passed_pending_root_freeze",
+  "independent_qa": {
+    "by": "audit_image_quality_causes",
+    "result": "passed both silver card v2 and story v1",
+    "received_at": "2026-10-18T21:26:33+08:00"
+  }
+}

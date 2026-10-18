@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-18T21:28:43.330138+08:00",
+  "previous_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/status-overrides.json",
+  "scope": "Ongoing authorized 34 hero production; no new user final approvals.",
+  "current_summary": "Shu eight sets plus Cao Cao and Dian Wei have complete candidate source/UI collections. Other Wei stage pairs continue. Research for all selected Wei/Wu/Qun completed. Wu/Qun art not yet complete.",
+  "candidate_index": "hero-production-spec/shu8_delivery_2026-10-18_21-05-20_UTC+08/CURRENT_SHU_CANDIDATE_INDEX.json",
+  "remote_verified_before_this_batch": {
+    "commit": "2aaab9b929b52d565463330ed05f001254f5cd8f",
+    "restorable_paths": 3321,
+    "LFS_and_independent_restore": "PASS"
+  },
+  "this_batch_remote_status": "Pending push and independent verification",
+  "notes": [
+    "Guan gold tail redesigned candidate now passed; failed prior version retained.",
+    "Zhang He face local revision accepted by root with residual resemblance risk, no user approval.",
+    "Xun Yu and Xu Chu initial identities passed; further stage images tracked in actual manifests.",
+    "No claim all 238 source illustrations completed."
+  ]
+}

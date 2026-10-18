@@ -1,0 +1,9 @@
+{
+  "verified_at": "2026-10-18T21:18:42+08:00",
+  "commit": "2aaab9b929b52d565463330ed05f001254f5cd8f",
+  "restorable_paths": 3321,
+  "independent_remote_download": true,
+  "git_lfs_fsck": "OK",
+  "sequential_restore_sha256": "PASS",
+  "scope": "21:12 archive only; later generated sources pending next batch"
+}

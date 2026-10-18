@@ -1,0 +1,2 @@
+Full plus native before/after face, whole shaft/both grips, horse head and boot/stirrup personally compared. Nose longer/subtly hooked, cheek shadow stronger and skin warmer; hand/shaft/anatomy unchanged in layout. Nonlocal resampling noticeably softened horse coat/boot microtexture; not pixel-identical outside face.
+Root accepts as production candidate, resemblance to Xun Yu thin-face template remains and user final approval not implied. No further micro-edit. Future images reference this Zhang He face, not Xun Yu.

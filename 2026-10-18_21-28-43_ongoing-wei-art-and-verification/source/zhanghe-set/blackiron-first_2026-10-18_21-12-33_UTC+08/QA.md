@@ -1,0 +1,6 @@
+- Main visible shaft passes two separated grips on one straight line; no Y shaft or hidden axis jump. Natural hands readable.
+- Seated leg/boot/stirrup and bridle/rein loop visually coherent; lower horse legs are cropped by medium-full composition and not claimed inspected as complete.
+- Face is long with thin moustache/narrow chin beard; original identity intended, but hairstyle and youthful beauty still influenced by Guo Jia style input: root identity distinction pending.
+- Smoky-purple/white/iron-black material groups clear, no global glitter; horse coat uses finer and more realistic painterly fur than requested broad planes.
+- Faint feather is a large sky silhouette rather than requested tiny ground trace; no full crane head/body. Stage restraint root judgment pending.
+- Rear grip lies about x170 and horse nose extends near right lower passive zone; actual frozen frame check requested, no unsupported safety claim.

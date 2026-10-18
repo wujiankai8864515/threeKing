@@ -1,0 +1,43 @@
+{
+  "updated_at": "2026-10-18T21:20:10+08:00",
+  "meaning": "技术候选已保存，不是用户最终批准；研究条目不计生成图",
+  "complete_candidate_packages": {
+    "count": 9,
+    "main_images": 63,
+    "names": [
+      "关羽",
+      "张飞",
+      "刘备",
+      "赵云",
+      "马超",
+      "黄忠",
+      "诸葛亮",
+      "庞统",
+      "曹操"
+    ],
+    "source_indexes": [
+      "hero-production-spec/shu8_delivery_2026-10-18_21-05-20_UTC+08/CURRENT_SHU_CANDIDATE_INDEX.json",
+      "caocao-set/library-complete_2026-10-18_21-17-50_UTC+08/曹操-全套素材-Library索引.json"
+    ]
+  },
+  "active_branches": {
+    "典韦": "七图已生成，银卡立戟安全局修，部分独审在途，未算整套完成",
+    "徐晃": "首样根与独审通过，铜银金三对已分派",
+    "张辽": "v3水平直轴首样根与独审通过，余六已分派",
+    "郭嘉": "净衣无须首样根与独审通过，余六已分派",
+    "张郃": "首样结构可，待一次面部差异局修后再准扩",
+    "乐进": "首黑候选，root负责扩量排程",
+    "于禁": "首黑候选，root负责扩量排程",
+    "荀彧": "首样root身份可，独审进行；副角引用已准",
+    "许褚": "root首样已生成送审"
+  },
+  "ownership": {
+    "caocao_remaining": "complete",
+    "guojia_six": "clean_bronze_silver_materials",
+    "zhangliao_six": "clean_peach_assembly_materials",
+    "xuhuang_six": "refine_gold_story_card",
+    "lejin_yujin": "root/generate_wei_identity_samples",
+    "xunyu_xuchu": "root initial samples"
+  },
+  "other_heroes": "按已授权34队列，当前不将未生成研究计产量"
+}

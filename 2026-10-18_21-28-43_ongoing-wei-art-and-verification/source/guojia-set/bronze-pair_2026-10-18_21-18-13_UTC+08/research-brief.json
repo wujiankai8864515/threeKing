@@ -1,0 +1,385 @@
+{
+  "hero_id": "guojia",
+  "name": "郭嘉",
+  "faction": "wei",
+  "core_personality": "从人心与局势的破绽里抢先一步，敢提出有风险但有理由的判断。",
+  "myth_symbol_proposal": {
+    "name": "烛影玄鸦",
+    "origin": "原创神话意象；预判来自谋略，不宣称原著有通灵预言能力",
+    "reason": "一只凝视而不聒噪的夜鸦，灯影与迟发反馈对应料敌；与曹操翼蛇、诸葛星雷、庞统火凤区分。",
+    "growth": "烛影羽缘→一翼投影→完整玄鸦→巨鸦在窗外夜色中收翼，非尸魂复活"
+  },
+  "differentiation": "条件触发的反制谋士：先标记敌人，待其下一次施技后留下反制伤害。与荀彧直接补能、诸葛亮主动控场不同。",
+  "identity": {
+    "face": "原创：年轻清瘦、较窄下颌、细眉、稍深眼窝，目光锋利；早期不画病容，中后期才加疲色。",
+    "hair": "略松高髻，简簪与几缕鬓发；不披白发仙人造型。",
+    "body": "瘦而端正，不用羸弱病态取悦，不因最后患病失去同一骨相。",
+    "clothes": "墨青灰与暖米白，衣领窄、外袍松，蓝只小结；后期薄披衣，皮肤自然暖灰不尸白。",
+    "weapons_fact": "所选章回为荐才、论势、献计与遗书，未提供专属战斗兵器。",
+    "weapons_design": "短卷、笔、封函、烛台；身边可有普通佩剑但不主握。禁羽扇雷法与血祭武器。",
+    "mount_fact": "第33回明确病卧车中；不以骑马突阵替换这一证据。",
+    "mount_design": "前三阶多文帐，末阶屋内/车中；无神鸟坐骑。",
+    "reference_version": "WEI-GJ-identity-text-v1，待身份样。"
+  },
+  "modern_game_reference": {
+    "version": "三国杀OL官网标准郭嘉；2018官方攻略交叉核验",
+    "url": "https://www.sanguosha.com/hero/20",
+    "crosscheck_url": "https://www.sanguosha.com/news/20181219_1211_3220",
+    "verified": "天妒取判定牌、遗计在受伤后取得并分配牌，偏风险收益与辅助。",
+    "use": "本项目改成预置反制，不复制卖血补牌；不把早逝设计为鼓励主动伤身。"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 10,
+      "chronology_key": "010-a",
+      "title": "受聘论天下",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "经推荐到兖州，共论天下，并荐刘晔。",
+      "selection": "card1",
+      "selection_reason": "把才识与青年气质作为起点。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "b",
+      "chapter": 16,
+      "chronology_key": "016-b",
+      "title": "论不可杀刘备",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "以招贤与天下观感劝曹操留刘备。",
+      "selection": "alternate",
+      "selection_reason": "显示考虑长期代价，但与下一阶十胜论都是议帐，留备用。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "c",
+      "chapter": 18,
+      "chronology_key": "018-c",
+      "title": "十胜十败",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "面对袁绍强盛与慢书，论曹袁优劣，并建议先取吕布。",
+      "selection": "card2+bio1",
+      "selection_reason": "最具人物标识的论势，非泛用占星。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 19,
+      "chronology_key": "019-d",
+      "title": "下邳决水献计",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "郭嘉提出破下邳之计，荀彧点出决沂泗，曹操执行。",
+      "selection": "card3+bio2",
+      "selection_reason": "谋略从判断转为可执行城战，空间尺度提升。",
+      "misreading_to_avoid": "不是郭嘉施法造水，也不是其独占全部攻城决策。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 33,
+      "chronology_key": "033-e",
+      "title": "车中轻兵之策",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "不服水土卧病，仍劝去重辎、轻兵兼道，并须向导。",
+      "selection": "bio3前因",
+      "selection_reason": "连到最后留策的状态，不把病中出征画成飞骑。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "f",
+      "chapter": 33,
+      "chronology_key": "033-f",
+      "title": "易州封书遗计",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "被留易州养病，临死封书给左右；后曹操按兵，公孙康与二袁相图。",
+      "selection": "card4+bio3",
+      "selection_reason": "黄金取活着封书时的谋定状态，影响越出个人在场。",
+      "misreading_to_avoid": "绝不画郭嘉死后复活；遗书结局不是本人生前亲到辽东。"
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "初入谋席",
+      "camera": "眼平近中景，身略朝右，眼看对谈者",
+      "action": "合起短卷听曹操问策，手势小而准",
+      "environment": "兖州军帐，天光从门边入",
+      "myth_growth": "烛影仅似一片羽缘",
+      "structure_check": "卷轴轴端齐整，双手不重叠成多指",
+      "must_retain": "年轻清瘦而精神清醒",
+      "must_not_inherit": "不要一上来咳血/病榻/仙化",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "c",
+      "title": "十胜开局",
+      "camera": "从曹操肩侧看郭嘉，近全身端坐或半起",
+      "action": "在无字简图上点出两军强弱，不摆十个魔法球",
+      "environment": "军帐两组文书形成对比，袁书放在一旁",
+      "myth_growth": "一侧鸦翼投影在帘上展开",
+      "structure_check": "指尖落在图上，不穿桌；人物头部比例成年",
+      "must_retain": "言简而笃定",
+      "must_not_inherit": "不要预言水晶球与浮空电子界面",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "d",
+      "title": "下邳观流",
+      "camera": "城外高地侧前中景，主角居近景一侧",
+      "action": "持短卷观察两河与城地势，另一手示意水向",
+      "environment": "沂泗与下邳城真实地理概念而非精确考古复原",
+      "myth_growth": "完整玄鸦沿高地树影停立，翅不搅水",
+      "structure_check": "坡上站姿稳；河水重力向低处；不让两河悬空环城",
+      "must_retain": "谋士服装在风中有连续大褶",
+      "must_not_inherit": "没有召潮手势或淹百姓的庆祝笑",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "f",
+      "title": "易州遗筹",
+      "camera": "窗侧较高近中景，清楚脸手与封函",
+      "action": "病中坐起封好书，神色疲惫但清明",
+      "environment": "朴素公廨内、薄被、熄短的烛与窗外北地风",
+      "myth_growth": "巨鸦安静收翼立在窗外雾影，光局限羽缘",
+      "structure_check": "坐姿由背垫支撑；双手能握封绳，非躺着悬笔",
+      "must_retain": "同一年轻骨相、自然病色",
+      "must_not_inherit": "不画死亡瞬间、血祭、尸白发光或神兽带其飞升",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "c",
+      "title": "袁书到时",
+      "camera": "横幅两人隔案，曹操放下慢书，郭嘉从旁开论",
+      "action": "主角指出强弱不只在人数，荀彧在后点头",
+      "target_connection": "青铜十胜判断的直接触发背景",
+      "first_person_line_original": "兵多，不等于能用。我看见的胜处，还不止一处。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "桌上文书无伪字，手指不指向虚空十胜UI",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "guojia_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第018回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "d",
+      "title": "两河可用",
+      "camera": "横幅地图边到真实河岸的单景：选军帐开帘见远地",
+      "action": "郭嘉提出决水思路，荀彧接话，曹操转向传令者",
+      "target_connection": "同回献计与执行前因；银卡是察势之人，不冒充水神",
+      "first_person_line_original": "城墙未必能守住水势。先看这两条河，怎样经过下邳。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "地图与远河只作对应，不做跨场拼贴；分清郭嘉与荀彧",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "guojia_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第019回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "f",
+      "title": "封书托后事",
+      "camera": "横幅近景，郭嘉将封函交可信从人",
+      "action": "从人双手承接，病车的帘或公廨木窗说明北征环境；不出现尸柩",
+      "target_connection": "直接对应黄金封书；轻兵策是同段前因，结果由后续说明而非鬼魂演出",
+      "first_person_line_original": "这封书请交给丞相。有些局，越急着出手，越难分开。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "两双手一封函；病人仍坐稳，烛光不打成浮肿脸",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "guojia_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "guojia_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第033回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "给一名敌人布置可见谋记；其下一次主动技能完成后，谋记结算一次术伤并消失。",
+    "active": {
+      "skill_id": "guojia_a1",
+      "name": "审机后发",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "给一名敌人布置可见谋记；其下一次主动技能完成后，谋记结算一次术伤并消失。",
+      "extra_effect": "不取消对方技能、不沉默、不复制技能；一至四星只有一次预置反制。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "guojia_p1",
+        "name": "达识",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "自身术伤提高",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "guojia_p2",
+        "name": "深谋",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "谋记存在时间延长",
+        "trigger": "施加谋记",
+        "target": "该敌人上的谋记",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "guojia_p3",
+        "name": "远虑",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动施放距离提高",
+        "trigger": "选择敌人时",
+        "target": "敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "guojia_p4",
+        "name": "后发",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "谋记触发伤害提高",
+        "trigger": "谋记完成触发",
+        "target": "该敌人",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "一枚鸦羽暗记先落，敌施技完成后烛影合拢一次；未触发超时只消失。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "guojia_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "guojia_p1",
+          "guojia_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "guojia_p1",
+          "guojia_p2",
+          "guojia_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "guojia_p1",
+          "guojia_p2",
+          "guojia_p3",
+          "guojia_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved",
+  "research_readiness": {
+    "selected_scenes_verified": true,
+    "selected_scenes_count": 7,
+    "identity_sample_required": true,
+    "can_start_identity_sample": true,
+    "can_mass_generate_without_reference": false,
+    "user_final_approval": false
+  },
+  "reference_attachment_requirements": {
+    "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+    "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+    "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+    "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+  }
+}

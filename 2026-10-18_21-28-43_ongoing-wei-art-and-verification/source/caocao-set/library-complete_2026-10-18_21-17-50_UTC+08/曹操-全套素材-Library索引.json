@@ -1,0 +1,222 @@
+{
+  "hero": "曹操",
+  "status": "all12persisted_candidate_not_user_final",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000367c81f59e28ce7819f318e8",
+      "library_file_id": "libfile_a5439576789881918bc5b982fec136f5",
+      "file_name": "曹操-黑铁-献刀瞬变-身份候选1.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "current_version_number": 0,
+      "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-铜传记-招募有人应-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000006f7881f593d03690565eb019",
+      "library_file_id": "libfile_ff70604f9aec8191b46ec7a839a96715",
+      "file_name": "曹操-铜传记-招募有人应-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-铜传记-招募有人应-候选1.png",
+      "current_version_number": 0,
+      "sha256": "c6eee2943f2c3c7078225eee5b10211c300c39a9bc7db0883f313bba99d31746",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000886081f5857b37ccc77253de",
+      "library_file_id": "libfile_25bfce4f37dc81918cd3b87defec6d1c",
+      "file_name": "曹操-青铜-陈留举义-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-青铜-陈留举义-候选1.png",
+      "current_version_number": 0,
+      "sha256": "a8a040cc42bc9c499a79af601e85dd46c74f45bf4d3970d276cef1f12ad63dfc",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_mythsafe_2026-10-18_21-07-39_UTC+08/曹操-白银-v2-螣蛇安全区局修候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000fde881f58777cb0129f60772",
+      "library_file_id": "libfile_1e897eefa8e48191ba2917bfea0894d3",
+      "file_name": "曹操-白银-v2-螣蛇安全区局修候选.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-白银-v2-螣蛇安全区局修候选.png",
+      "current_version_number": 0,
+      "sha256": "dd331da280e1e27230ff98d2631aabdd18457340f686e4b7519714467bb3f3ea",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银传记-v1-跣足迎故友候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000790c81f59e3e5419dfbe792b",
+      "library_file_id": "libfile_93b1b69a82e08191b246b85e4b444e34",
+      "file_name": "曹操-白银传记-v1-跣足迎故友候选.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-白银传记-v1-跣足迎故友候选.png",
+      "current_version_number": 0,
+      "sha256": "94635f06d5b5d3f2aed9fb78c77d823b71bee84155f85d9aa6e0c98fbf8f8863",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-黄金-横槊江天-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000c27881f59ac2b4a2e4b4d8de",
+      "library_file_id": "libfile_5b15ff94892c8191b0e3f04df516a224",
+      "file_name": "曹操-黄金-横槊江天-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-黄金-横槊江天-候选1.png",
+      "current_version_number": 0,
+      "sha256": "f3b08e4d53b02e45e25fc910c842b20cea3d991be22a620c54881bce2781e6c2",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-银金传记-置酒会诸将-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000674881f593ffcf8d0a7b9ce3",
+      "library_file_id": "libfile_f770bc28671c8191a7a2ed7ef8da8b9c",
+      "file_name": "曹操-银金传记-置酒会诸将-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/曹操-银金传记-置酒会诸将-候选1.png",
+      "current_version_number": 0,
+      "sha256": "dc61cdfa5875dd4b61f70f91944d8261eb8d1dc258f5f2f3a96d868364fc7c17",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/ui_newframe_2026-10-18_21-08-20_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000884481f5a76500b7d2301695",
+      "library_file_id": "libfile_91ee8af8a19c81918a2dd8c64161f5df",
+      "file_name": "01-黑铁-新框完整UI候选1190(8).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(8).png",
+      "current_version_number": 0,
+      "sha256": "77ed0cec64b3a6efee92bf2e88bea324e44201e8785a04f8d6a8d2c8a94d02a3",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/ui_newframe_2026-10-18_21-08-20_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000006c6481f58b45a630e7afad39",
+      "library_file_id": "libfile_e29854f5fe5c819186ebb6468255dd61",
+      "file_name": "02-青铜-新框完整UI候选1190(7).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(7).png",
+      "current_version_number": 0,
+      "sha256": "69c5228c1b07aa9495285bbf44781ed0e319da13233d6b91afebf9f7872fe0f4",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/ui_newframe_2026-10-18_21-08-20_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000448481f58ffd14b5a3402982",
+      "library_file_id": "libfile_14b7e781ea808191b15f76615876d42d",
+      "file_name": "03-白银-新框完整UI候选1190(8).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(8).png",
+      "current_version_number": 0,
+      "sha256": "22b5746022b0a2412daf6693100c8ee06c8e40e98bdc7290d705895879d954a0",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/ui_newframe_2026-10-18_21-08-20_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000087f081f5a0a6b5dca305382f",
+      "library_file_id": "libfile_416be80f57008191b1bc18a36d0f42ef",
+      "file_name": "04-黄金-新框完整UI候选1190(8).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(8).png",
+      "current_version_number": 0,
+      "sha256": "cce7ea05eaf71e9deda0f6494723b202492ce3be36bd08a4443b4fa61d8158db",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/caocao-set/ui_newframe_2026-10-18_21-08-20_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000007ba081f59d5b2377160d1e75",
+      "library_file_id": "libfile_ded3e93e12908191932498fd58e9e8c4",
+      "file_name": "四阶新框完整UI-候选总览(8).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(8).png",
+      "current_version_number": 0,
+      "sha256": "7814a7d741eef6287754b5f3372eb64810869556a3f134a78863d8c10cc5a05a",
+      "pixels": [
+        1920,
+        775
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    }
+  ]
+}

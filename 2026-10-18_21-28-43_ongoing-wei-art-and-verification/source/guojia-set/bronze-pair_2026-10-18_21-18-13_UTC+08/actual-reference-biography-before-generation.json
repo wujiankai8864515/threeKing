@@ -1,0 +1,32 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+    "role": "approved Guo Jia main identity/matte style",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+    "personally_viewed": true
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+    "role": "approved Cao Cao foreground identity only; no background Dong Zhuo",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+    "personally_viewed": true
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+    "role": "root approved Xun Yu supporting identity only",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+    "personally_viewed": true
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+      "source_status": "technical_candidate_pending_final_frame_QA",
+      "source_sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "典韦",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "巨躯",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜-一手定大旗-候选1.png",
+      "source_status": "technical_candidate_pending_final_frame_QA",
+      "source_sha256": "bcb5cd23548648258ce33c169507b599f46c3b62af1bb8b17ddc6eba7545a84b",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "典韦",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "巨躯",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2-双长戟入窗局修候选.png",
+      "source_status": "technical_candidate_pending_final_frame_QA",
+      "source_sha256": "bfeb9d84f68d86de8804c999687d52aa87cf51212acb82a7cdc34d5d65bbf135",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "典韦",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "巨躯",
+            "level": "+2"
+          },
+          {
+            "name": "固骨",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金-宛门不退-候选1.png",
+      "source_status": "technical_candidate_pending_final_frame_QA",
+      "source_sha256": "749c18a3c362944f7b026509b537294b45d144611aa703a37a065f9a84d30e4a",
+      "uncovered_native_pixels_checked": 1193406,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "典韦",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "巨躯",
+            "level": "+2"
+          },
+          {
+            "name": "固骨",
+            "level": "+2"
+          },
+          {
+            "name": "卫距",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

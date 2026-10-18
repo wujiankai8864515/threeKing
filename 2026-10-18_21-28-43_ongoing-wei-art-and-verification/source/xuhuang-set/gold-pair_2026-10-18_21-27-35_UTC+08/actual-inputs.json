@@ -1,0 +1,10 @@
+{
+  "both_images": [
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/xuhuang-set/bronze-pair_2026-10-18_21-17-17_UTC+08/徐晃-青铜-夜别旧营-候选1.png"
+  ],
+  "role1": "approved face/body/axe class only; mounted pose excluded",
+  "role2": "accepted bronze same identity and correct single central horn anatomy; tier intensity/scene excluded",
+  "viewed": true,
+  "primary_source": "https://zh.wikisource.org/zh/三國演義/第076回"
+}

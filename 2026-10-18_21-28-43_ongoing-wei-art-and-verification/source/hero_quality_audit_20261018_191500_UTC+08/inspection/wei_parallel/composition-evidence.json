@@ -1,0 +1,10 @@
+{
+  "frame": "iron-empty-generated-1024.png resized1190x1786 Lanczos",
+  "mask": "art-native-slot-mask.png",
+  "art": "native1024x1536 paste1:1 at84,145",
+  "source_hashes": {
+    "xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+    "xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+    "zhanghe-set/blackiron-first_2026-10-18_21-12-33_UTC+08/张郃-黑铁-河北枪锋-身份候选1.png": "f62d799c1ab45f60eb7f11cc38d324f8524f2902ea2f3964d908a6f162926653"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+    "status": "technical_candidate_pending_final_frame_QA"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜-一手定大旗-候选1.png",
+    "status": "technical_candidate_pending_final_frame_QA"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2-双长戟入窗局修候选.png",
+    "status": "technical_candidate_pending_final_frame_QA"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金-宛门不退-候选1.png",
+    "status": "technical_candidate_pending_final_frame_QA"
+  }
+}

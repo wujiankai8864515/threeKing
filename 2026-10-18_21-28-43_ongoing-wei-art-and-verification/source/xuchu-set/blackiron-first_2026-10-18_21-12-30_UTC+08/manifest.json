@@ -1,0 +1,27 @@
+{
+  "hero": "xuchu",
+  "slot": "blackiron",
+  "method": "builtin_image_gen",
+  "source": "xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+  "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "actual_reference_files": [
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "role": "clean matte style only, different identity"
+    }
+  ],
+  "prompt": "prompt.txt",
+  "status": "technical_identity_candidate_pass",
+  "user_final": false,
+  "observations": [
+    "Distinct role and silhouette from style reference, main hands fully visible.",
+    "Natural dirt on Xu clothing/skin is grounded, not floating gold dust.",
+    "Tent antler shadow original myth cue; no claim canonical summoned deer."
+  ],
+  "independent_qa_at": "2026-10-18T21:21:19+08:00"
+}

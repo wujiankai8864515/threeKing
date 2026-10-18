@@ -1,0 +1,222 @@
+{
+  "hero": "典韦",
+  "status": "all12persisted_candidate_not_user_final",
+  "files": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000db8881f5bb96541dd539e95e",
+      "library_file_id": "libfile_07c0efc0350c8191b3f31dbec01ce55f",
+      "file_name": "典韦-黑铁-鹿内收局修-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-黑铁-鹿内收局修-候选1.png",
+      "current_version_number": 0,
+      "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜-一手定大旗-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000be2081f5a80a39b8ffd82d31",
+      "library_file_id": "libfile_f748176e8ca08191a9e347fae9e4b4aa",
+      "file_name": "典韦-青铜-一手定大旗-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-青铜-一手定大旗-候选1.png",
+      "current_version_number": 0,
+      "sha256": "bcb5cd23548648258ce33c169507b599f46c3b62af1bb8b17ddc6eba7545a84b",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2-双长戟入窗局修候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000005e3481f5b0376469da598a39",
+      "library_file_id": "libfile_b0914acbf728819184222297723b3d2e",
+      "file_name": "典韦-白银-v2-双长戟入窗局修候选.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-白银-v2-双长戟入窗局修候选.png",
+      "current_version_number": 0,
+      "sha256": "bfeb9d84f68d86de8804c999687d52aa87cf51212acb82a7cdc34d5d65bbf135",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金-宛门不退-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ca9081f5bc223311457d6c47",
+      "library_file_id": "libfile_154480a592e48191ae367e49381a5dcc",
+      "file_name": "典韦-黄金-宛门不退-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-黄金-宛门不退-候选1.png",
+      "current_version_number": 0,
+      "sha256": "749c18a3c362944f7b026509b537294b45d144611aa703a37a065f9a84d30e4a",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银传记-v1-再近五步候选.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000ab6c81f5aa4c1db3000c4ee7",
+      "library_file_id": "libfile_afb00cab10bc8191a3cf2327a528d926",
+      "file_name": "典韦-白银传记-v1-再近五步候选.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-白银传记-v1-再近五步候选.png",
+      "current_version_number": 0,
+      "sha256": "839c15018615c1adb54ac43b267c4585797dab583d6b6aa5b10429595f89ced7",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-黑铜传记-夏侯引荐-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_000000002fc481f5918b9cbc458e9e54",
+      "library_file_id": "libfile_0816f1691ef08191a131bd4d522fa27e",
+      "file_name": "典韦-黑铜传记-夏侯引荐-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-黑铜传记-夏侯引荐-候选1.png",
+      "current_version_number": 0,
+      "sha256": "982bc79c98421ee8ce9fdd6ef82b8de08a32e04c08d4bc328547b410e474e0bc",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-银金传记-失戟取步刀-候选1.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000071481f5b6cda8a4310f9843",
+      "library_file_id": "libfile_a41b80d2bdfc8191a54c08788804b5b4",
+      "file_name": "典韦-银金传记-失戟取步刀-候选1.png",
+      "local_metadata_applied": true,
+      "path": "/典韦-银金传记-失戟取步刀-候选1.png",
+      "current_version_number": 0,
+      "sha256": "41834f660eef200ec93ac965647901f809d6b4cad098b2f0d35dcf8d479cb0c2",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/ui_newframe_2026-10-18_21-23-45_UTC+08/01-黑铁-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000371881f5990e267e23be3d7e",
+      "library_file_id": "libfile_da614cbc11888191bcd28e1f360b17fb",
+      "file_name": "01-黑铁-新框完整UI候选1190(9).png",
+      "local_metadata_applied": true,
+      "path": "/01-黑铁-新框完整UI候选1190(9).png",
+      "current_version_number": 0,
+      "sha256": "b30077b13f45b69095d710bfce136f11ae7a4a8f94090d614b0550c60d482580",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/ui_newframe_2026-10-18_21-23-45_UTC+08/02-青铜-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000b7c881f5a47a0d92b3040dd3",
+      "library_file_id": "libfile_ac4cc801dd648191af21ef6abdf85f0a",
+      "file_name": "02-青铜-新框完整UI候选1190(8).png",
+      "local_metadata_applied": true,
+      "path": "/02-青铜-新框完整UI候选1190(8).png",
+      "current_version_number": 0,
+      "sha256": "b369fdaf9404a1b6ea6f227ef616844a6efada2b888458beac66faa2db83ba7f",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/ui_newframe_2026-10-18_21-23-45_UTC+08/03-白银-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_0000000021fc81f59f94fcaa9afbf099",
+      "library_file_id": "libfile_df33c32d026c819188661d152a30c84d",
+      "file_name": "03-白银-新框完整UI候选1190(9).png",
+      "local_metadata_applied": true,
+      "path": "/03-白银-新框完整UI候选1190(9).png",
+      "current_version_number": 0,
+      "sha256": "8c9e348f39e4755c67f911f45eb7674c4418cfe85cc88581a006ae98324f0547",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/ui_newframe_2026-10-18_21-23-45_UTC+08/04-黄金-新框完整UI候选1190.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000e69081f597b595ae43fb152f",
+      "library_file_id": "libfile_bab10b3ee55c819181d5840c1ee05a03",
+      "file_name": "04-黄金-新框完整UI候选1190(9).png",
+      "local_metadata_applied": true,
+      "path": "/04-黄金-新框完整UI候选1190(9).png",
+      "current_version_number": 0,
+      "sha256": "3b71ff8b78267c37fb1ce4c3ab6bc4758174384146969659dbc0f74b23ec302c",
+      "pixels": [
+        1190,
+        1786
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/ui_newframe_2026-10-18_21-23-45_UTC+08/四阶新框完整UI-候选总览.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000524c81f58e143d34f2992263",
+      "library_file_id": "libfile_aa93ec3e8e4c81919fcdd6e0dcecf9a1",
+      "file_name": "四阶新框完整UI-候选总览(9).png",
+      "local_metadata_applied": true,
+      "path": "/四阶新框完整UI-候选总览(9).png",
+      "current_version_number": 0,
+      "sha256": "34cedbf9eec75a826cfbe15211fe7d8df5203aac4b7d2c1476d6ba2ea25c0b0e",
+      "pixels": [
+        1920,
+        775
+      ],
+      "technical_QA": "root_and_independent_pass_candidate",
+      "user_final": false
+    }
+  ]
+}

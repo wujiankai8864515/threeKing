@@ -1,0 +1,55 @@
+{
+  "hero_id": "dianwei",
+  "asset_id": "dianwei_card_3",
+  "current": {
+    "asset_id": "dianwei_card_3",
+    "title": "五步掷锋",
+    "current": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_longji_safe_2026-10-18_21-19-37_UTC+08/典韦-白银-v2-双长戟入窗局修候选.png",
+      "sha256": "bfeb9d84f68d86de8804c999687d52aa87cf51212acb82a7cdc34d5d65bbf135",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB"
+    },
+    "previous": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银-v1-五步掷锋候选.png",
+      "sha256": "0db5f474480ab26c68dba7e978ce4b345d12ebd1696cfe7683700d1d3d50ddfe",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB"
+    },
+    "status": "self_qa_passed_pending_independent",
+    "checks": [
+      "one short ji airborne blade leads LEFT, two short ji still in grip",
+      "two planted long ji separate, rigid axes and bases grounded",
+      "real current silver frame now reveals both long blades",
+      "main face, open throwing hand, bundle hand and ancestor face all visible through actual frame"
+    ],
+    "notes": [
+      "initial strict coordinate concern about hands/ancestor corrected by actual frame test; neither needed repair",
+      "only planted long ji upper ends moved left; UI unchanged",
+      "near foreground corner blur retained noncritical"
+    ]
+  },
+  "actual_edit_target": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银-v1-五步掷锋候选.png",
+    "sha256": "0db5f474480ab26c68dba7e978ce4b345d12ebd1696cfe7683700d1d3d50ddfe",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB"
+  },
+  "scope": "only planted long ji relocation; 1 builtin edit",
+  "status": "independent_qa_passed_pending_root_freeze",
+  "pair_manifest": "/workspace/scratch/3f82ff2b3f81/dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/manifest.json",
+  "independent_qa": {
+    "by": "audit_image_quality_causes",
+    "result": "passed both silver card v2 and story v1",
+    "received_at": "2026-10-18T21:26:33+08:00"
+  }
+}

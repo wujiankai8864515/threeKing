@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/asset-index.json",
+  "asset_index": "2026-10-18_21-28-43_ongoing-wei-art-and-verification/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Current eight-Shu source candidates passed after Guan whole-tail correction. New Wei outputs, failures and pending revisions individually preserved; Library exact versions saved separately from user-final/delivery. Latest local increment awaits lead push; remotely verified baseline27cfbf41,2950 paths.",
-  "latest_delta": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
-  "current_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/status-overrides.json",
+  "note": "Current incremental candidates and records captured; historical source maps are dated snapshots, current per-hero manifests take precedence.",
+  "latest_delta": "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
+  "current_status": "2026-10-18_21-28-43_ongoing-wei-art-and-verification/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -27,7 +27,8 @@
     "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research",
     "2026-10-18_20-45-32_two-story-QA-closure",
     "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates",
-    "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates"
+    "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
+    "2026-10-18_21-28-43_ongoing-wei-art-and-verification"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -65,7 +66,8 @@
     "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research",
     "2026-10-18_20-45-32_two-story-QA-closure",
     "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates",
-    "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates"
+    "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
+    "2026-10-18_21-28-43_ongoing-wei-art-and-verification"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -74,7 +76,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
+  "remote_verified_commit": "2aaab9b929b52d565463330ed05f001254f5cd8f",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,

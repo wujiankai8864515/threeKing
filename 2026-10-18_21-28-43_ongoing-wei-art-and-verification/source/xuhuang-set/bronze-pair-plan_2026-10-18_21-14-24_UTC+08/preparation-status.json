@@ -1,0 +1,15 @@
+{
+  "status": "prepared_only_waiting_root_identity_expansion",
+  "actual_viewed_identity_reference": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+  "reference_sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+  "generation_calls": 0,
+  "primary_verified_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+  "verified_correction": "Man Chong explicitly enters disguised as ordinary soldier; both scenes retain that disguise.",
+  "planned_reference_scope": "identity/build/weapon class only; do not inherit mounted pose or old crop",
+  "card_critical_beast_safe_box": [
+    450,
+    120,
+    700,
+    330
+  ]
+}

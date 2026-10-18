@@ -1,0 +1,53 @@
+{
+  "hero_id": "caocao",
+  "asset_id": "caocao_card_3",
+  "current": {
+    "asset_id": "caocao_card_3",
+    "title": "乌巢决进",
+    "current": {
+      "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_mythsafe_2026-10-18_21-07-39_UTC+08/曹操-白银-v2-螣蛇安全区局修候选.png",
+      "sha256": "dd331da280e1e27230ff98d2631aabdd18457340f686e4b7519714467bb3f3ea",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "mode": "RGB"
+    },
+    "previous": {
+      "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银-v1-乌巢决进候选.png",
+      "sha256": "659df98dc386044baa72ed097ddea4b00cf125d64e5d077f1b0e33bed1c85eb2",
+      "size": [
+        1024,
+        1536
+      ],
+      "format": "PNG",
+      "mode": "RGB"
+    },
+    "status": "self_qa_passed_pending_independent",
+    "checks": [
+      "separate straight sword grip and reins grip",
+      "natural same-direction military horse/straw-bearing troops",
+      "serpent head now approxx507..633,y150..208 in latest safe zone and clear of crown",
+      "face and clothing identity preserved"
+    ],
+    "notes": [
+      "v1 serpent at far left superseded for safe placement",
+      "sword hand lower edge near y890, outside ideal y850 but not actual right passive or top star regions; recorded instead of claiming all ideal coordinates achieved",
+      "distant camp has visible flames/lights; no completed victory claimed"
+    ]
+  },
+  "actual_edit_reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银-v1-乌巢决进候选.png",
+    "sha256": "659df98dc386044baa72ed097ddea4b00cf125d64e5d077f1b0e33bed1c85eb2",
+    "size": [
+      1024,
+      1536
+    ],
+    "format": "PNG",
+    "mode": "RGB"
+  },
+  "edit_scope": "winged serpent reposition only; 1 builtin call",
+  "pair_manifest": "/workspace/scratch/3f82ff2b3f81/caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/manifest.json",
+  "status": "independent_qa_passed_pending_root_freeze"
+}

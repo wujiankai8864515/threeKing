@@ -1,0 +1,860 @@
+{
+  "updated_utc": "2026-10-18T13:23:35.151016+00:00",
+  "scope": "Independent artwork and native-crop QA only. Candidate status is not user final approval, final-frame approval, or a claim of new higher-resolution detail.",
+  "candidates": [
+    {
+      "hero": "caocao",
+      "asset": "blackiron",
+      "path": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "bronze",
+      "path": "caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a8a040cc42bc9c499a79af601e85dd46c74f45bf4d3970d276cef1f12ad63dfc",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "silver",
+      "path": "caocao-set/silver_mythsafe_2026-10-18_21-07-39_UTC+08/曹操-白银-v2-螣蛇安全区局修候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "dd331da280e1e27230ff98d2631aabdd18457340f686e4b7519714467bb3f3ea",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "gold",
+      "path": "caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-黄金-横槊江天-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f3b08e4d53b02e45e25fc910c842b20cea3d991be22a620c54881bce2781e6c2",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "story_bronze",
+      "path": "caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-铜传记-招募有人应-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c6eee2943f2c3c7078225eee5b10211c300c39a9bc7db0883f313bba99d31746",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "story_silver",
+      "path": "caocao-set/silver_pair_2026-10-18_20-57-21_UTC+08/曹操-白银传记-v1-跣足迎故友候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "94635f06d5b5d3f2aed9fb78c77d823b71bee84155f85d9aa6e0c98fbf8f8863",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "caocao",
+      "asset": "story_gold",
+      "path": "caocao-set/gold-pair_2026-10-18_20-57-54_UTC+08/曹操-银金传记-置酒会诸将-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "dc61cdfa5875dd4b61f70f91944d8261eb8d1dc258f5f2f3a96d868364fc7c17",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "blackiron",
+      "path": "dianwei-set/blackiron-deer-local_2026-10-18_20-51-22_UTC+08/典韦-黑铁-鹿内收局修-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1b038ee8737b6c8e3405525e8236c49bd687c778407b5506117d2ca382fd91ae",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "bronze",
+      "path": "dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-青铜-一手定大旗-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "bcb5cd23548648258ce33c169507b599f46c3b62af1bb8b17ddc6eba7545a84b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "gold",
+      "path": "dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-黄金-宛门不退-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "749c18a3c362944f7b026509b537294b45d144611aa703a37a065f9a84d30e4a",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "story_bronze",
+      "path": "dianwei-set/bronze-pair_2026-10-18_21-01-10_UTC+08/典韦-黑铜传记-夏侯引荐-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "982bc79c98421ee8ce9fdd6ef82b8de08a32e04c08d4bc328547b410e474e0bc",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "story_silver",
+      "path": "dianwei-set/silver_pair_2026-10-18_21-13-18_UTC+08/典韦-白银传记-v1-再近五步候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "839c15018615c1adb54ac43b267c4585797dab583d6b6aa5b10429595f89ced7",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "dianwei",
+      "asset": "story_gold",
+      "path": "dianwei-set/gold-pair_2026-10-18_21-04-32_UTC+08/典韦-银金传记-失戟取步刀-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "41834f660eef200ec93ac965647901f809d6b4cad098b2f0d35dcf8d479cb0c2",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "guojia",
+      "asset": "blackiron",
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "guojia",
+      "asset": "bronze",
+      "path": "guojia-set/bronze-pair_2026-10-18_21-18-13_UTC+08/郭嘉-青铜-十胜开局-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "4f1ad20df5be588df4f44334f21d28cfb7d53d07f6a3802140bece30d5849a3f",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "blackiron",
+      "path": "huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "bronze",
+      "path": "huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "silver",
+      "path": "huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "gold",
+      "path": "huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "story_bronze",
+      "path": "huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2-箭向局修候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "d73ca596d27af0df520256f9dcc1dc63e3a3ec69710f24af4f6b7df11861d19c",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "story_silver",
+      "path": "huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4353c04ac822e02015bc8a0ca14ee2d041b40f940a81c8fc69e7bae96b201df8",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "story_gold",
+      "path": "huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记-定军乘势刀击-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "2c6cd874eb091c74aa7f9c88f1ca17cf2905464f4d2319dd0ca309e080e28a52",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "lejin",
+      "asset": "blackiron",
+      "path": "lejin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/乐进-黑铁-帐前新锋-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d4eba5e07c84b52b82abb3d7df4fcb04500b37ee528d9a0963b838c5359153bc",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "liubei",
+      "asset": "blackiron",
+      "path": "liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "bronze",
+      "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-青铜-引导掌入框局修.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "fb6467efa62162a2e725575cade929f33611fe7c38f68e80edd7d9510f11a05b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Final frame coverage pending."
+    },
+    {
+      "hero": "liubei",
+      "asset": "silver",
+      "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-白银-曹操位置入框局修.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ba347f26856c115d22ab50f8076bc64f273fd598ca1b2fc81b5dc87dc47f3c2b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Final frame coverage pending."
+    },
+    {
+      "hero": "liubei",
+      "asset": "gold",
+      "path": "liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "a3b5321ff40d66080434c9f7743d6ce59f6e052233f8ce0de93455be1e4c7e9e",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_bronze",
+      "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Small peripheral basket soft; accepted."
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_silver",
+      "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "story_gold",
+      "path": "liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Root accepts soft peripheral left props; principal map/rocks sharp."
+    },
+    {
+      "hero": "machao",
+      "asset": "blackiron",
+      "path": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "bronze",
+      "path": "machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "silver",
+      "path": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "gold",
+      "path": "machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "story_bronze",
+      "path": "machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记-西凉起兵-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1fca663488e18b4a2289eec7edda50f76d3f9fbac18658a51170326dfabeefbc",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "story_silver",
+      "path": "machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记-换马举火-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "edc3f562a6a5114de747979299c1ed547572a454b8508a48ff7771170cc24967",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "machao",
+      "asset": "story_gold",
+      "path": "machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "3cbd2523001c744ce66c1df3e39bda437e77e283f26162ab76b0975ca4edd232",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "blackiron",
+      "path": "pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "bronze",
+      "path": "pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f1368aed3c3970239d5ba6a9d393e7105844fd0f5ff6f7f928977f4208d41c98",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "silver",
+      "path": "pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "423de2dab5765a40395274ebcef40efda272bafebf981bb8c233fe581941f230",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "gold",
+      "path": "pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "679ca467bc8b8566c44043e64c438915273133eefbca324cfe0229db516c6881",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "story_bronze",
+      "path": "pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-传记-连舟献策-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "19527fb94e0bde67ad20d27a33dae1c762191c915dce94ff37290a41d37dc33b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "story_silver",
+      "path": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "62ae4765f752b73e281cde21ebdaf15599ddd10e02c8554124b6a352850f0a58",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "pangtong",
+      "asset": "story_gold",
+      "path": "pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-传记-三策取蜀-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1ae4f3a1339df8df3e5417010b4040fe9bb01d0e9e291af9ddd3d89bd046f2b9",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "xuchu",
+      "asset": "blackiron",
+      "path": "xuchu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/许褚-黑铁-葛陂压阵-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c14ee8b855413672bb140babba997946b62778c0332c75e63efa2222425e2652",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "xuhuang",
+      "asset": "blackiron",
+      "path": "xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d168b077a6dc69f9a53ab76673a4c2bce1477e5785990d71cead309845c09b87",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "xunyu",
+      "asset": "blackiron",
+      "path": "xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "yujin",
+      "asset": "blackiron",
+      "path": "yujin-set/blackiron-first_2026-10-18_21-04-43_UTC+08/于禁-黑铁-军列初成-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1b8ae5e40736fc0885e394ccaeda022219c23449546ed9120194f4e2a421dd0f",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "blackiron",
+      "path": "zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "bronze",
+      "path": "zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Weapon endpoints cropped; root explicitly accepts."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "silver",
+      "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Blade scuffs/dust remain intentional material detail."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "gold",
+      "path": "zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+      "qa_status": "candidate_passed_frame_pending",
+      "residual_or_scope": "Blade tip ~4px from right edge; final frame must not cover."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_bronze",
+      "path": "zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Peripheral volunteer shoulders soft; accepted."
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_silver",
+      "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-传记-虎牢争锋-戟岩局修2.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "zhangfei",
+      "asset": "story_gold",
+      "path": "zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Tiger at top edge unchanged; important foreground fixed."
+    },
+    {
+      "hero": "zhangliao",
+      "asset": "blackiron",
+      "path": "zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "3f5e3a0a886a05bdd123d049191657ed732339ce79986245af6bead7f91aba27",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "blackiron",
+      "path": "zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+      "qa_status": "direction_candidate_passed",
+      "residual_or_scope": "New original identity; root/user final recognition and batch authorization separate."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "bronze",
+      "path": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ad6fc465b2f2aca11896569644e3e94c2a4b3687632efcdf9a0e6c68dd7db6b2",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "silver",
+      "path": "zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "gold",
+      "path": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "6e6ee9acd7c7a971081b348eb126d21b11862d5c4fe1677881d76c357fc9318f",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "story_bronze",
+      "path": "zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记-卧牛相认-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "247b355018d1b7bc8e5f40c121b75fae84ee5b6afa1583ab77f6b8430d17cbc1",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "story_silver",
+      "path": "zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记-v1-乱军寻主候选.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "f5e1f517abf3ea5b593cd804476ffdc2ef29936b92c5a0db4c48b37e209bb580",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "story_gold",
+      "path": "zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "4c488ba7355b957659adfe7f383132a4f5761cfca30df4c886c35e0b3fcd0681",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "blackiron",
+      "path": "zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "bronze",
+      "path": "zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "silver",
+      "path": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "1b917bd3565c6d18594eaaf86cbdcc8963e03c4b3158d430253fa74c87a9f418",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "gold",
+      "path": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "440335d4acd737e3d8cde76a8640a7912faf1aa94562d57f03963c7cffb62bb3",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "story_bronze",
+      "path": "zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记-三顾定志-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "11dc26bf667414cd28b6994704025a2c88d6bfc1712293960b11633bd6c7776f",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "story_silver",
+      "path": "zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记-风起江上-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "1bd4d1fbe1a4bcb933180e055e632c45aec619c6132f2d1afeab666ee822abfe",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "story_gold",
+      "path": "zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-传记-虚实之间-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "52e80a0a069bd97a33b935281e9f85c7703053fbb9ebd16056cad2f2bc484e38",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals."
+    }
+  ],
+  "superseded_candidates": [
+    {
+      "hero": "liubei",
+      "asset": "bronze",
+      "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "87974332bce7a72a6ef8d21b19e4490468953572f3b5bc83260a28277cac2e56",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "silver",
+      "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "27518ed894116121a3aa6d7ef15274563ac3c853cd08aa9fef0e8a8c8c9b8e36",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "gold",
+      "path": "liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7adb15ed85818e263d0951c8160b84828086221e07f600bc5fa3bb6bf0dc3c84",
+      "qa_status": "candidate_passed_frame_pending",
+      "residual_or_scope": "Dragon touches top/right image boundary; verify final frame coverage.",
+      "superseded_by": "liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png"
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "blackiron",
+      "path": "huangzhong-set/blackiron_identity_2026-10-18_19-31-29_UTC+08/黄忠-黑铁-v1-长沙老将身份候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0ee552ecd9a8a9f88c8198118726d7b76d83d10e8800923f458ebf92f732e744",
+      "qa_status": "not_passed",
+      "residual_or_scope": "Lower bowstring fails to meet visible lower bow tip; excessive cross-material distress.",
+      "superseded_by": "huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png"
+    },
+    {
+      "hero": "machao",
+      "asset": "story_gold",
+      "path": "machao-set/story-lihui_2026-10-18_20-21-02_UTC+08/马超-银金传记-雾开有归-候选1-2026-10-18_20-21-02_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c9522ae554b6d119bcab604504e7d505f8fb58daecee75c29cf9930642194782",
+      "qa_status": "structure_passed_material_pending",
+      "residual_or_scope": "Low-contrast random pale points on hanging red cloth x1150–1290,y690–850; local correction pending.",
+      "superseded_by": "machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png"
+    },
+    {
+      "hero": "pangtong",
+      "asset": "story_silver",
+      "path": "pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-铜银传记-耒阳理事-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b80bf375fa8dc044490b8bb98ae8fcb41474938c3a17f951ea7f1c12ac6cb00c",
+      "qa_status": "structure_passed_foreground_decision_pending",
+      "residual_or_scope": "Foreground petitioner occupies lower-right ~1/3 and is soft; root decision pending.",
+      "superseded_by": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png"
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "bronze",
+      "path": "zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Spear tip cropped at original top; large low-contrast dragon.",
+      "superseded_by": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png"
+    },
+    {
+      "hero": "machao",
+      "asset": "blackiron",
+      "path": "machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+      "qa_status": "direction_candidate_passed",
+      "residual_or_scope": "Spear tip ~10px top margin; hidden tail accepted as occlusion.",
+      "superseded_by": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png"
+    },
+    {
+      "hero": "zhaoyun",
+      "asset": "gold",
+      "path": "zhaoyun-set/gold-upright-spear_2026-10-18_20-09-38_UTC+08/赵云-黄金-汉水龙胆-竖枪偃旗候选-2026-10-18_20-09-38_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "d49ef4aeae2ccd0492de6391357f4cd0ed9299494ceb0b10325d900f3f1b8d9b",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+      "superseded_by": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png"
+    },
+    {
+      "hero": "machao",
+      "asset": "silver",
+      "path": "machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "15378a85a2523a0e945510c4305183af4a7750a3f221b7965e7acdd525e3bd7c",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+      "superseded_by": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png"
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "silver",
+      "path": "zhugeliang-set/silver_flagfix_2026-10-18_20-23-00_UTC+08/诸葛亮-白银-左旗同风向-局修1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "ce506b4a643894e2647ac7fc3e35e482664da1e9ec4040177515a46e4e1bd125",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+      "superseded_by": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png"
+    },
+    {
+      "hero": "zhugeliang",
+      "asset": "gold",
+      "path": "zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-黄金-空城定局-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "8b861967aeea6ad875ce6aa72f36a473d98999bba18d78f228b65b7f9782af24",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+      "superseded_by": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-龙首明确左收-局修2.png"
+    },
+    {
+      "hero": "pangtong",
+      "asset": "gold",
+      "path": "pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-黄金-凤策开蜀-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "5e32880de582b7208b0f27c25a92a2377db79adf496ad2f0701a5bd6e0a78da4",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+      "superseded_by": "pangtong-set/phoenix_frame_safe_2026-10-18_20-56-40_UTC+08/庞统-黄金-凤首入框-局修1.png"
+    },
+    {
+      "hero": "zhangliao",
+      "asset": "blackiron",
+      "path": "zhangliao-set/blackiron_axisfix_2026-10-18_20-53-38_UTC+08/张辽-黑铁-v2-直杆收握局修候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "f6a6e7196623ea5ea2748480b8963e6c1d071f2cc9bfa2ffdc94a766bae11f51",
+      "qa_status": "candidate_failed_shaft",
+      "residual_or_scope": "v2 grip moved safely; shaft still bows ~10–20 native pixels above endpoint center guide. New pose pending.",
+      "superseded_by": "zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png"
+    }
+  ]
+}

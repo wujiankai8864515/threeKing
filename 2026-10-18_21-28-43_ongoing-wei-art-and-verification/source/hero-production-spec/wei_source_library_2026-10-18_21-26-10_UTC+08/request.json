@@ -1,0 +1,19 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/xuhuang-set/blackiron-first_2026-10-18_21-01-20_UTC+08/徐晃-黑铁-箕关护行-身份候选1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    }
+  ]
+}

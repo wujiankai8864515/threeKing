@@ -1,0 +1,45 @@
+{
+  "hero": "guojia",
+  "method": "builtin_image_gen",
+  "assets": [
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-初入谋席-身份候选1.png",
+      "sha256": "32a653c54a15039ade0d1760c786e913a45808f73bdf3397d6d903390f6c94ff",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "superseded_failed_background_identity_and_cloth_grain"
+    },
+    {
+      "path": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "status": "technical_identity_candidate_pass"
+    }
+  ],
+  "actual_reference_files": [
+    {
+      "path": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+      "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+      "role": "first generation style only; background copied wrong lord and was removed in localized edit"
+    }
+  ],
+  "edit_reference": "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-初入谋席-身份候选1.png",
+  "prompts": [
+    "prompt.txt",
+    "prompt-local1.txt"
+  ],
+  "source": "Romance chapter10, original face and robe; Cao Cao offscreen listener counterpart",
+  "user_final": false,
+  "notes": [
+    "Original accidentally carried Dong Zhuo from reference; rejected, removed in candidate2.",
+    "Candidate2 cloth broad matte planes, no copied fine scratch grain; exact face and two scroll hands visually retained.",
+    "Candidate2 background plain tent, supporting Cao not visibly depicted."
+  ],
+  "status": "technical_identity_candidate_pass",
+  "independent_qa_at": "2026-10-18T21:21:19+08:00"
+}

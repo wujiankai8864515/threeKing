@@ -1,0 +1,37 @@
+{
+  "hero": "zhanghe",
+  "asset_id": "zhanghe_card_1",
+  "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-first_2026-10-18_21-12-33_UTC+08/张郃-黑铁-河北枪锋-身份候选1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "mode": "RGB",
+  "sha256": "f62d799c1ab45f60eb7f11cc38d324f8524f2902ea2f3964d908a6f162926653",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8d95b59b-f581-4268-8e16-720abd86a34a.png",
+  "actual_references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/郭嘉-黑铁-净衣去错配角-局修1.png",
+      "role": "Guo Jia approved clean planar matte cloth/style ONLY; no face/body/pose/clothes/scene inheritance; Zhang He is original new identity",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "78c5cd03b144c03edf93cb1f3f5a8d4a9a51093379071db095734bfc184ba73b",
+      "personally_viewed": true
+    }
+  ],
+  "method": "builtin_image_gen",
+  "rescale_retouch": "none; native copy. Guideline only readonly QA copy",
+  "status": "creator_structure_candidate_pass_identity_style_actual_frame_pending",
+  "user_final_approved": false,
+  "creator_review": "Full image, thumbnail and native face, full pole plus readonly guideline, both grips, horse face/rein, saddle/boot/stirrup, cloth/armor/horsehair/ground and feather personally inspected.",
+  "observations": [
+    "Main visible shaft passes two separated grips on one straight line; no Y shaft or hidden axis jump. Natural hands readable.",
+    "Seated leg/boot/stirrup and bridle/rein loop visually coherent; lower horse legs are cropped by medium-full composition and not claimed inspected as complete.",
+    "Face is long with thin moustache/narrow chin beard; original identity intended, but hairstyle and youthful beauty still influenced by Guo Jia style input: root identity distinction pending.",
+    "Smoky-purple/white/iron-black material groups clear, no global glitter; horse coat uses finer and more realistic painterly fur than requested broad planes.",
+    "Faint feather is a large sky silhouette rather than requested tiny ground trace; no full crane head/body. Stage restraint root judgment pending.",
+    "Rear grip lies about x170 and horse nose extends near right lower passive zone; actual frozen frame check requested, no unsupported safety claim."
+  ]
+}
