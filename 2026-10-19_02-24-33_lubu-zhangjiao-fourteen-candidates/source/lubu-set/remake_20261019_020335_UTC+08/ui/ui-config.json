@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "吕布",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "骁力",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "吕布",
+    "level": "1",
+    "advancement": "骁",
+    "skills": [
+      {
+        "name": "骁力",
+        "level": "+2"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "silver": {
+    "country": "群",
+    "title": "吕布",
+    "level": "1",
+    "advancement": "诏",
+    "skills": [
+      {
+        "name": "骁力",
+        "level": "+2"
+      },
+      {
+        "name": "强腕",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  },
+  "gold": {
+    "country": "群",
+    "title": "吕布",
+    "level": "1",
+    "advancement": "神",
+    "skills": [
+      {
+        "name": "骁力",
+        "level": "+3"
+      },
+      {
+        "name": "强腕",
+        "level": "+2"
+      },
+      {
+        "name": "争衡",
+        "level": "+1"
+      }
+    ],
+    "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+  }
+}

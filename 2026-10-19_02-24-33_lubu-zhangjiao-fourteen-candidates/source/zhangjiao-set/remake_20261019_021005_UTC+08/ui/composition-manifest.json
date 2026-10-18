@@ -1,0 +1,559 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "张角独立字段；四阶收藏阵营群，剧情按原著第1回；等级为UI示例；一至四为阶级圆章",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "replacement_source_status": {
+    "bronze": "previous source",
+    "silver": "previous source",
+    "gold": "previous source"
+  },
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card01.png",
+      "source_sha256": "cea7715fc782f4a71aa5102fe7b6a8c2fa7b2f781894fe830c4f4fa6f29bf0fe",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "群",
+        "title": "张角",
+        "level": "1",
+        "advancement": "一",
+        "skills": [
+          {
+            "name": "聚霆",
+            "level": "+1"
+          }
+        ],
+        "status": "张角技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "聚霆",
+            "ink_bbox": [
+              911,
+              1293,
+              997,
+              1333
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1009,
+              1298,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1030.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "一",
+        "ink_bbox": [
+          138,
+          1603,
+          224,
+          1617
+        ],
+        "ink_center": [
+          181.0,
+          1610.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all seven individual images newly generated",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card02.png",
+      "source_sha256": "42acbf4877a625804d385907d5fe210b90dfc90cce25ef561f1bdd4592142f3b",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "群",
+        "title": "张角",
+        "level": "1",
+        "advancement": "二",
+        "skills": [
+          {
+            "name": "聚霆",
+            "level": "+1"
+          }
+        ],
+        "status": "张角技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "聚霆",
+            "ink_bbox": [
+              911,
+              1293,
+              997,
+              1333
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1009,
+              1298,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1030.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "二",
+        "ink_bbox": [
+          138,
+          1577,
+          223,
+          1641
+        ],
+        "ink_center": [
+          180.5,
+          1609.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all seven individual images newly generated",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card03.png",
+      "source_sha256": "53238645b854169c69fa78f4a7f0997e95ed9b40ee7c9574757d41d660b3e684",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "群",
+        "title": "张角",
+        "level": "1",
+        "advancement": "三",
+        "skills": [
+          {
+            "name": "聚霆",
+            "level": "+2"
+          },
+          {
+            "name": "持咒",
+            "level": "+2"
+          }
+        ],
+        "status": "张角技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "聚霆",
+            "ink_bbox": [
+              910,
+              1195,
+              996,
+              1235
+            ],
+            "ink_center": [
+              953.0,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "持咒",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.0,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "三",
+        "ink_bbox": [
+          137,
+          1572,
+          223,
+          1647
+        ],
+        "ink_center": [
+          180.0,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.341796875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all seven individual images newly generated",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card04.png",
+      "source_sha256": "1a96c6c4f934539123fb6803b6b7597997d44cf38428e985a34798fc0d514451",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "群",
+        "title": "张角",
+        "level": "1",
+        "advancement": "四",
+        "skills": [
+          {
+            "name": "聚霆",
+            "level": "+3"
+          },
+          {
+            "name": "持咒",
+            "level": "+3"
+          },
+          {
+            "name": "天幕",
+            "level": "+3"
+          }
+        ],
+        "status": "张角技能草案，单关键效果，候选待审"
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "聚霆",
+            "ink_bbox": [
+              911,
+              1097,
+              997,
+              1137
+            ],
+            "ink_center": [
+              954.0,
+              1117.0
+            ],
+            "target_center": [
+              953.8203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1009,
+              1101,
+              1051,
+              1133
+            ],
+            "ink_center": [
+              1030.0,
+              1117.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "持咒",
+            "ink_bbox": [
+              911,
+              1194,
+              997,
+              1236
+            ],
+            "ink_center": [
+              954.0,
+              1215.0
+            ],
+            "target_center": [
+              953.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1009,
+              1199,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1030.0,
+              1215.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "天幕",
+            "ink_bbox": [
+              911,
+              1292,
+              997,
+              1334
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+3",
+            "ink_bbox": [
+              1009,
+              1297,
+              1051,
+              1329
+            ],
+            "ink_center": [
+              1030.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "四",
+        "ink_bbox": [
+          141,
+          1568,
+          219,
+          1650
+        ],
+        "ink_center": [
+          180.0,
+          1609.0
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; all seven individual images newly generated",
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}

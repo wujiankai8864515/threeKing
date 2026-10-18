@@ -1,0 +1,165 @@
+{
+  "hero": "吕布",
+  "status": "ready_candidate_pending_user_review",
+  "generator": "built-in image_gen only",
+  "raw_generated_count": 7,
+  "art_status": "seven new independent built-in images; five rejected intermediate images retained",
+  "mythic_beast": "兵主戟魂，原创武器神相，非演义或史传设定",
+  "research": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/research/verified.md",
+  "qa": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/qa/QA.md",
+  "assets": [
+    {
+      "id": "card01",
+      "label": "01-黑铁-并州戟锋",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "81fc550318228d1d5a4a582c9770bc71e3aea24758dafd7ab8633ee22be726ef",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/01-黑铁-并州戟锋.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "601d15da9856b73a0939243c5820b756569d1af20a1be8cb81abda84aab429db",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card02",
+      "label": "02-青铜-虎牢独挡",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "83d70b1cde3ba2cfb98ac16da1d974b01fe63c45e0b3db006937fb56a8c6d02e",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/02-青铜-虎牢独挡.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "f39f1f38426e231af3307b9aa4f862be1d094717cca510791a8d821e8d5bd6f7",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card03",
+      "label": "03-白银-诏出戟定",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "01c4f19de8b23a09db72bf05dc9f35b5b7a8925962a8c83cca5e28bd32d4dab2",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/03-白银-诏出戟定.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "fa9658713ff81cf3760fc25f1195503fc84b70ad13f65f66a968ef06eef2996a",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card04",
+      "label": "04-黄金-辕门一箭",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "a4fea522f71e8fc178b0d30f897bc3fd07b8a3cbb3daf39069302a2372b0be66",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/04-黄金-辕门一箭.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "304be7f20523267ba0f342c036b870fa4c6004aa909c6f7a24989da96dc3e394",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio01",
+      "label": "05-传记-关前三路合围",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "c83b854a9bed117408fca57a91c4059f342027b05dfd4d0f96d0aa509692ed35",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/05-传记-关前三路合围.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "c83b854a9bed117408fca57a91c4059f342027b05dfd4d0f96d0aa509692ed35",
+      "destination_card": "card02",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio02",
+      "label": "06-传记-司徒密议",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "cc9157cd0342b6f763c0bf83fdee14f258c336846e88774c157d7b847da5d984",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/06-传记-司徒密议.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "cc9157cd0342b6f763c0bf83fdee14f258c336846e88774c157d7b847da5d984",
+      "destination_card": "card03",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio03",
+      "label": "07-传记-两军共看一枝",
+      "source": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "4fe25cea4354130bcf6f63edeaa65aaa66f5ec07bec3b90036a9ece89969ecec",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/07-传记-两军共看一枝.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "4fe25cea4354130bcf6f63edeaa65aaa66f5ec07bec3b90036a9ece89969ecec",
+      "destination_card": "card04",
+      "status": "candidate_pending_user_review"
+    }
+  ],
+  "overview": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/candidates/08-吕布-四卡三传记总览.png",
+  "prompts": [
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/bio03-repair.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card01-style-repair.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card04-geometry-repair.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card04-repair.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/bio01.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/bio01-repair.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card02.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card03.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/bio02.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/bio03.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card04.txt",
+    "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/prompts/card01.txt"
+  ],
+  "ui_compositor": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/ui/compose_layout.py",
+  "ui_manifest": "/workspace/scratch/3f82ff2b3f81/lubu-set/remake_20261019_020335_UTC+08/ui/composition-manifest.json",
+  "no_upscale_claim": "native portrait 1024x1536, landscape1536x1024; card UI1190x1786 is composition canvas, not native 4K",
+  "limitations": [
+    "四卡阶段、被动名称和等级均待审游戏设定",
+    "兵主戟魂、双月牙定型和低阶简化双翎为原创视觉解释",
+    "各事件按演义，不宣称历史准确复原"
+  ],
+  "ui_dependency": "Self-contained ui/template copied from established compact metal frame; compositor overrides all Lu Bu values and faction purple.",
+  "qa_status": "all seven final raw images and all four final UI cards inspected",
+  "library_upload": "lubu-set/remake_20261019_020335_UTC+08/library-upload.json",
+  "library_count": 8
+}

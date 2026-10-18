@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-01-黑铁.png",
+      "file_id": "file_0000000024dc81f59ef11d520d3e7afc",
+      "library_file_id": "libfile_1b889e3446148191b57d70b423dd8b04",
+      "file_name": "张角-01-黑铁.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3668297
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-02-青铜.png",
+      "file_id": "file_00000000208c81fd92d19750fc4c34f2",
+      "library_file_id": "libfile_91ea33540b408191ac502b0571e287a0",
+      "file_name": "张角-02-青铜.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3557609
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-03-白银.png",
+      "file_id": "file_00000000702481fd9ef1caf10b79c001",
+      "library_file_id": "libfile_899a6ce49470819186e8b8a6ce904884",
+      "file_name": "张角-03-白银.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3494245
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-04-黄金.png",
+      "file_id": "file_00000000de2c81fd9a22646b545a1f7e",
+      "library_file_id": "libfile_74d235fd55d88191ba8cef1ac8d906a3",
+      "file_name": "张角-04-黄金.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3581438
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-05-传记-卷中问风.png",
+      "file_id": "file_000000004bdc81f4a2fa9ed65a4cb32e",
+      "library_file_id": "libfile_c3ca72ec772081919b11f05fd547ff56",
+      "file_name": "张角-05-传记-卷中问风.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2877260
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-06-传记-疫路人来.png",
+      "file_id": "file_000000002b3c81f4ad8f90c61e9ab636",
+      "library_file_id": "libfile_8407b992038c819182021b9d856e1ac0",
+      "file_name": "张角-06-传记-疫路人来.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2823861
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-07-传记-期日已破.png",
+      "file_id": "file_000000000bf081fd84bfe23a2f5fdbee",
+      "library_file_id": "libfile_5cebefe94ebc8191b8f67ce1dc74ce9d",
+      "file_name": "张角-07-传记-期日已破.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2412000
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/张角-08-完整七图总览.jpg",
+      "file_id": "file_000000004a8c81fd81dcdc6d87426dc9",
+      "library_file_id": "libfile_9615d97c76c881919c413b2d5fe3067d",
+      "file_name": "张角-08-完整七图总览.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 1099977
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

@@ -1,0 +1,140 @@
+{
+  "hero": "张角",
+  "built_in_image_gen": true,
+  "no_native_4K_claim": true,
+  "raw_sources": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "43d0262672f2fca7c5bc8f824f304a00eac841c1b5b1b000ebae91ee493f47f0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "0a3c03032f077367dddf9be481aef6936c99d6f8013edd2bb877b017443a2a1f"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c6b986e94c3b0194ebe75703c74fc6549bb9fbb6cfaf87e8a2a51d69a5e41fb0"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "cea7715fc782f4a71aa5102fe7b6a8c2fa7b2f781894fe830c4f4fa6f29bf0fe"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "42acbf4877a625804d385907d5fe210b90dfc90cce25ef561f1bdd4592142f3b"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "53238645b854169c69fa78f4a7f0997e95ed9b40ee7c9574757d41d660b3e684"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "1a96c6c4f934539123fb6803b6b7597997d44cf38428e985a34798fc0d514451"
+    }
+  ],
+  "deliverables": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-01-黑铁.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "9bcc0e334be04dc275f93909a480ed7b10e659cb48601c0d19fea65b88f9faa1",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-02-青铜.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "9b7d2b92ed7c4d839fd9b92d7b4720dda83c0556fdf94afbf91abc30ff47b9c7",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-03-白银.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "9a104cb6cd0b35c9d5b4afe83d811fb4f6136c7f3d88bb576831a0101f030fc3",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-04-黄金.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "11d6c3eb94b93a352d3b419a89ac2f54487aca50a400617fcb71489a0b80ec37",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-05-传记-卷中问风.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "43d0262672f2fca7c5bc8f824f304a00eac841c1b5b1b000ebae91ee493f47f0",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-06-传记-疫路人来.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "0a3c03032f077367dddf9be481aef6936c99d6f8013edd2bb877b017443a2a1f",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-07-传记-期日已破.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c6b986e94c3b0194ebe75703c74fc6549bb9fbb6cfaf87e8a2a51d69a5e41fb0",
+      "status": "candidate awaiting user"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/zhangjiao-set/remake_20261019_021005_UTC+08/candidates/张角-08-完整七图总览.jpg",
+      "dimensions": [
+        1920,
+        1210
+      ],
+      "sha256": "6b4fc1ce1619b60311ad049d60f9d2a29042492c40f6331520aa79445a5f9efa",
+      "status": "candidate awaiting user"
+    }
+  ],
+  "ui_manifest": "ui/composition-manifest.json",
+  "research": "RESEARCH.md",
+  "qa": "QA.md"
+}

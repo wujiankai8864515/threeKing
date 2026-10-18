@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-并州戟锋.png",
+      "file_id": "file_000000008b808230b07dc34f9fef03de",
+      "library_file_id": "libfile_e0d751b344bc819183e8bd7f5bf5afa6",
+      "file_name": "01-黑铁-并州戟锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3391893
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-虎牢独挡.png",
+      "file_id": "file_00000000f40c81f5b6618e15cd63f8a6",
+      "library_file_id": "libfile_056e38b74ce88191ad0b5b2c7f3cebc4",
+      "file_name": "02-青铜-虎牢独挡.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3757531
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-诏出戟定.png",
+      "file_id": "file_0000000070a88230875f9cfd80d158a5",
+      "library_file_id": "libfile_57bf1e3e930481918f2fb7552d57571f",
+      "file_name": "03-白银-诏出戟定.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3517808
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-辕门一箭.png",
+      "file_id": "file_0000000059248230bc7eb72d327b2aea",
+      "library_file_id": "libfile_8c5ba3665c688191b31404659c15214a",
+      "file_name": "04-黄金-辕门一箭.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3683343
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-传记-关前三路合围.png",
+      "file_id": "file_00000000511481f4b5038c2a441f3426",
+      "library_file_id": "libfile_2999ed40811c8191a1e8c95d5ec32985",
+      "file_name": "05-传记-关前三路合围.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2855539
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/06-传记-司徒密议.png",
+      "file_id": "file_00000000bd5c82308127ff4068509135",
+      "library_file_id": "libfile_e22fc230a49481919cba74549ce95a7e",
+      "file_name": "06-传记-司徒密议.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2375378
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/07-传记-两军共看一枝.png",
+      "file_id": "file_00000000655c81f59279acc615ea8f37",
+      "library_file_id": "libfile_031f5feac7988191a4b81bc2a96b9412",
+      "file_name": "07-传记-两军共看一枝.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2600609
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/08-吕布-四卡三传记总览.png",
+      "file_id": "file_00000000ae0c81fd9fd198014cb21214",
+      "library_file_id": "libfile_acecb2f4e6108191a1e28b7089e04362",
+      "file_name": "08-吕布-四卡三传记总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3850648
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
