@@ -1,0 +1,19 @@
+{
+  "verified_at": "2026-10-19T02:55:51.211746+08:00",
+  "verified_asset_commit": "acd6edfb4441564e9ee4585f482d9e62281f65b7",
+  "independent_fetch": "PASS",
+  "lfs_pull": "new source objects independently fetched by checkout; delivery catalogue contains ordinary text files",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 10056,
+  "sequential_copy_sha256_checked": true,
+  "hero": "gongsunzan",
+  "seven_candidates": "uploaded_verified_not_user_accepted",
+  "lfs_fsck_scope": "source batch 5cc36e59b85ce9fdc85a7ff3c0487b89691040c5..9f6dd22a728a3417b6c608801b2721ddd51f22c8 PASS",
+  "current40": {
+    "heroes": 40,
+    "images": 280,
+    "download_packages": 20,
+    "all_package_original_sha256_reproduced_from_remote_clone": true,
+    "user_final_acceptance": false
+  }
+}
