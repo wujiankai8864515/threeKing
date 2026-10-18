@@ -1,0 +1,190 @@
+{
+  "hero": "曹操",
+  "status": "all new candidates awaiting user review",
+  "native_cards": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "UI_canvas": [
+    1190,
+    1786
+  ],
+  "art_scale": "1:1 at84,145; no upscale",
+  "beast": "玄纹螣蛇为原创演绎，演义无指定神兽",
+  "skills_draft": {
+    "军令": "消耗军令筹强化一名友军的下一次普攻",
+    "应势": "己方被敌方命中获得一枚军令筹，每回合最多2枚",
+    "令威": "军令强化普攻伤害提高",
+    "雄略": "军令筹储存上限提高"
+  },
+  "slot_counts": [
+    1,
+    1,
+    2,
+    3
+  ],
+  "cards": {
+    "iron": {
+      "raw": "raw/card01.png",
+      "output": "candidates/card01-iron-曹操.png",
+      "sha256": "7831589965685c3c87b4847aa0ac221da84b73f78588c7ff6c5fd5ba3cc0fa77",
+      "skills": [
+        "应势"
+      ]
+    },
+    "bronze": {
+      "raw": "raw/card02.png",
+      "output": "candidates/card02-bronze-曹操.png",
+      "sha256": "5136e679ed2df4aabee2edb9bd5e6ddaa43a348934cea5e9205be07a681315a2",
+      "skills": [
+        "应势"
+      ]
+    },
+    "silver": {
+      "raw": "raw/card03.png",
+      "output": "candidates/card03-silver-曹操.png",
+      "sha256": "9e795474dfa4c8849ce28484d3aae48f41de91030adc570d1a88d2e2b1d240e3",
+      "skills": [
+        "应势",
+        "令威"
+      ]
+    },
+    "gold": {
+      "raw": "raw/card04.png",
+      "output": "candidates/card04-gold-曹操.png",
+      "sha256": "2e6654c54a802fd04e0063d3eea2e47a4551ae5706188acdd6a09792776d1283",
+      "skills": [
+        "应势",
+        "令威",
+        "雄略"
+      ]
+    }
+  },
+  "stories": {
+    "bio01": {
+      "raw": "raw/bio01.png",
+      "output": "candidates/bio01-招募有人应.png",
+      "target_card": 2,
+      "event_chapter": 5
+    },
+    "bio02": {
+      "raw": "raw/bio02.png",
+      "output": "candidates/bio02-跣足迎故友.png",
+      "target_card": 3,
+      "event_chapter": 30
+    },
+    "bio03": {
+      "raw": "raw/bio03.png",
+      "output": "candidates/bio03-置酒会诸将.png",
+      "target_card": 4,
+      "event_chapter": 48
+    }
+  },
+  "source_checks": {
+    "verified_chapters": [
+      4,
+      5,
+      30,
+      48
+    ],
+    "urls": [
+      "https://zh.wikisource.org/zh/三國演義/第004回",
+      "https://zh.wikisource.org/zh/三國演義/第005回",
+      "https://zh.wikisource.org/zh/三國演義/第030回",
+      "https://zh.wikisource.org/zh/三國演義/第048回"
+    ],
+    "mythology": "玄纹螣蛇为原创神话演绎，非演义指定神兽；不引用三国杀设定。",
+    "weapons": "第4回短七星宝刀；第48回长槊。普通佩剑与军马无虚构名号。"
+  },
+  "repair_log": [
+    {
+      "asset": "card03",
+      "repair_source": "exec-f5900242-b91a-4945-ad01-dd74b17aba6a.png",
+      "outside_mask_changed_pixels": 0,
+      "scope": "creature only"
+    },
+    {
+      "asset": "card04",
+      "repair_source": "exec-d708036c-7824-4e11-be15-a08b00af6aee.png",
+      "outside_mask_changed_pixels": 0,
+      "scope": "creature only"
+    },
+    {
+      "asset": "bio02",
+      "repair_source": "exec-d5203a92-f01b-4247-a391-e90911c758ab.png",
+      "outside_mask_changed_pixels": 0,
+      "scope": "remove anachronistic background figure"
+    }
+  ],
+  "assets": [
+    {
+      "path": "candidates/bio01-招募有人应.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "f1b70f6bd029ce4653a25039abc94c1f26a13b380cdf9f215be81926ea59601d"
+    },
+    {
+      "path": "candidates/bio02-跣足迎故友.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d8d7a7ec9e27877675b7dade9b6f226092e14f9942776f35f9d2bc33fc2a520c"
+    },
+    {
+      "path": "candidates/bio03-置酒会诸将.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "d88c7756b2cad30799998a4509ec83ce7afb635d5bf6c96af6a633138b70fe1e"
+    },
+    {
+      "path": "candidates/card01-iron-曹操.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "7831589965685c3c87b4847aa0ac221da84b73f78588c7ff6c5fd5ba3cc0fa77"
+    },
+    {
+      "path": "candidates/card02-bronze-曹操.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "5136e679ed2df4aabee2edb9bd5e6ddaa43a348934cea5e9205be07a681315a2"
+    },
+    {
+      "path": "candidates/card03-silver-曹操.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "9e795474dfa4c8849ce28484d3aae48f41de91030adc570d1a88d2e2b1d240e3"
+    },
+    {
+      "path": "candidates/card04-gold-曹操.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2e6654c54a802fd04e0063d3eea2e47a4551ae5706188acdd6a09792776d1283"
+    },
+    {
+      "path": "candidates/曹操-七图总览.png",
+      "dimensions": [
+        1920,
+        1310
+      ],
+      "sha256": "1ba3deb1946f067d45910abc7461251f623fde67a5421e737ed77405f9f056ee"
+    }
+  ],
+  "gameplay_note": "技能均草案；应势命中筹每回合上限2、储存3；主动军令消耗1筹令指定一名友军下次普攻增强；三被动1/1/2/3增长，与刘备群体治疗、关张近战区别。"
+}

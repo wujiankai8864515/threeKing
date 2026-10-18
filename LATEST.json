@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_01-26-50_xunyu-seven-remake-candidates/asset-index.json",
+  "asset_index": "2026-10-19_01-30-33_caocao-seven-remake-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Xun Yu seven candidates ready. 21 retained plus 91 new candidates = 112; not 280 completed images.",
-  "latest_delta": "2026-10-19_01-26-50_xunyu-seven-remake-candidates",
-  "current_status": "2026-10-19_01-26-50_xunyu-seven-remake-candidates/status-overrides.json",
+  "note": "Cao Cao seven candidates ready. 21 retained plus 98 new candidates = 119; not 280 completed images.",
+  "latest_delta": "2026-10-19_01-30-33_caocao-seven-remake-candidates",
+  "current_status": "2026-10-19_01-30-33_caocao-seven-remake-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -49,7 +49,8 @@
     "2026-10-19_01-19-31_yujin-seven-remake-candidates",
     "2026-10-19_01-21-32_zhanghe-seven-ui-safe-candidates",
     "2026-10-19_01-24-58_xuhuang-seven-remake-candidates",
-    "2026-10-19_01-26-50_xunyu-seven-remake-candidates"
+    "2026-10-19_01-26-50_xunyu-seven-remake-candidates",
+    "2026-10-19_01-30-33_caocao-seven-remake-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -109,7 +110,8 @@
     "2026-10-19_01-19-31_yujin-seven-remake-candidates",
     "2026-10-19_01-21-32_zhanghe-seven-ui-safe-candidates",
     "2026-10-19_01-24-58_xuhuang-seven-remake-candidates",
-    "2026-10-19_01-26-50_xunyu-seven-remake-candidates"
+    "2026-10-19_01-26-50_xunyu-seven-remake-candidates",
+    "2026-10-19_01-30-33_caocao-seven-remake-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -126,7 +128,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_01-28-23_xunyu-upload-verified-progress/verification.json",
-  "effective_source_map": "2026-10-19_01-26-50_xunyu-seven-remake-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_01-28-23_xunyu-upload-verified-progress/production-progress.json"
+  "remote_verification_receipt": "2026-10-19_01-30-33_caocao-seven-remake-candidates/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_01-30-33_caocao-seven-remake-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_01-30-33_caocao-seven-remake-candidates/production-progress.json"
 }

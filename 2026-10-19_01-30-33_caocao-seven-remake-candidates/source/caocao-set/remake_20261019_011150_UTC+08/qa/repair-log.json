@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "card03",
+    "repair_source": "exec-f5900242-b91a-4945-ad01-dd74b17aba6a.png",
+    "outside_mask_changed_pixels": 0,
+    "scope": "creature only"
+  },
+  {
+    "asset": "card04",
+    "repair_source": "exec-d708036c-7824-4e11-be15-a08b00af6aee.png",
+    "outside_mask_changed_pixels": 0,
+    "scope": "creature only"
+  },
+  {
+    "asset": "bio02",
+    "repair_source": "exec-d5203a92-f01b-4247-a391-e90911c758ab.png",
+    "outside_mask_changed_pixels": 0,
+    "scope": "remove anachronistic background figure"
+  }
+]
