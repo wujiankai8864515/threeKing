@@ -1,0 +1,112 @@
+{
+  "recorded_at": "2026-10-18T23:33:19.821408+08:00",
+  "precedence": "This effective source map overrides all prior delivered candidate indexes and prior review statements. Historical assets remain recoverable but are not current approvals.",
+  "guanyu": {
+    "iron": {
+      "source_path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25.png",
+      "status": "user_accepted_frozen"
+    },
+    "bronze": {
+      "source_path": null,
+      "status": "rebuild_and_tail_candidate2_failed_or_pending_method_permission_no_approved_current_candidate",
+      "rejected_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_slash_local_20261018_225522_UTC+08/青铜-蛇矛直轴局修-候选4.png",
+      "reason": "User rejected candidate 4: malformed faces and incorrect mounted weapon handling. New reconstruction has not passed long-shaft review.",
+      "historical_attempts": [
+        "guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08",
+        "guanyu-mythic-set/bronze_tail_local_20261018_232717_UTC+08"
+      ]
+    },
+    "silver": {
+      "source_path": "guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-白银-刀型长杆局修-候选1.png",
+      "sha256": "dff254be11906b4df09d4fcb38623a7c75ba133a195f295c571c4ed1fb9df556",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/dff254be11906b4df09d4fcb38623a7c75ba133a195f295c571c4ed1fb9df556.png",
+      "status": "user_accepted_frozen"
+    },
+    "gold": {
+      "source_path": "guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+      "repository_path": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/assets/sha256/6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920.png",
+      "status": "approved_rollback_base_weapon_only_revision_pending"
+    },
+    "peach": {
+      "source_path": "guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68.png",
+      "status": "user_accepted_frozen"
+    },
+    "wine": {
+      "source_path": "guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+      "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95.png",
+      "status": "approved_v13_rollback_base_weapon_only_revision_pending",
+      "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+      "library_version": 10
+    },
+    "escort": {
+      "source_path": "guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0.png",
+      "status": "user_accepted_frozen"
+    }
+  },
+  "zhangfei": {
+    "blackiron": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card01-blackiron.png",
+      "sha256": "3f710f7862da7445dd7e19b5c2186b39dcef6493170dda6afb97ba4f3b41a284",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/3f710f7862da7445dd7e19b5c2186b39dcef6493170dda6afb97ba4f3b41a284.png",
+      "status": "locked_base_bounded_revision_pending"
+    },
+    "bronze": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+      "sha256": "28375ff8815ba13baa796c9a0093b523b6d88ab143c948c9efff2cd994fc9237",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/28375ff8815ba13baa796c9a0093b523b6d88ab143c948c9efff2cd994fc9237.png",
+      "status": "user_accepted_frozen"
+    },
+    "silver": {
+      "source_path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+      "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064.png",
+      "status": "locked_base_bounded_revision_pending"
+    },
+    "gold": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card04-gold.png",
+      "sha256": "eb5e1b5db8e59ea74800680ae70dbd2926e82359cc0342322600dc048e376e65",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/eb5e1b5db8e59ea74800680ae70dbd2926e82359cc0342322600dc048e376e65.png",
+      "status": "locked_base_bounded_revision_pending"
+    },
+    "bio01": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+      "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8.png",
+      "status": "user_accepted_frozen"
+    },
+    "bio02": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+      "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0.png",
+      "status": "user_accepted_frozen"
+    },
+    "bio03": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio04-dangyang-v2.png",
+      "sha256": "f832d7dee8826c03838fe294ff51bbf68d148f3e08bc0cc4ed670acdc605cb50",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/f832d7dee8826c03838fe294ff51bbf68d148f3e08bc0cc4ed670acdc605cb50.png",
+      "status": "locked_base_bounded_revision_pending"
+    }
+  },
+  "rejected_chains": [
+    "Guan Yu bronze candidate 4 and failed candidate 5: do not use as current/final.",
+    "Guan Yu new gold weapon-edit chain through gold_grip_coaxial rejected for full-image drift. Use verified 20:57 source only as base.",
+    "Guan Yu wine weapon-edit chain through v16 rejected for full-image drift. Use verified v13 only as base."
+  ],
+  "invalid_current_ui": [
+    "Previously delivered Guan Yu bronze and gold UI depend on rejected illustrations and are not current finals."
+  ],
+  "liubei": {
+    "status": "seven_candidates_ready_not_sent_to_user_not_user_accepted",
+    "candidate_index": "liubei-set/revise_cards_20261018_231200_UTC+08/delivery-manifest.json",
+    "biography1": "v4 gathering pose replaces v3 which failed required gathering gesture",
+    "overview": "liubei-set/revise_cards_20261018_231200_UTC+08/刘备-四卡三传记-修订总览-v2.png"
+  }
+}

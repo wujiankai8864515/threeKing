@@ -1,0 +1,64 @@
+{
+  "status": "root_review_pending_not_approved; weapon_haft_proportion_failed_self_QA",
+  "created_utc8": "2026-10-18T23:26:00+08:00",
+  "method": "builtin image_gen, one successfully generated research-based rebuild candidate",
+  "asset": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08/青铜-骑乘结构重建-候选1.png",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c94a0f92-47a4-4cae-99e3-c09e3c0fb41b.png",
+  "sha256": "24b5e4cb243885db1a55dbe29af9319c69f7bb4c44e5ef372acc9e4dac77b43c",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08/refs/三人已认可身份-原生并排参考.png",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08/refs/武艺图谱通志-马上月刀-49页斜举双握.png",
+    "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png"
+  ],
+  "prompt": "Use case: precise-object-edit / mounted character reconstruction.\nCreate ONE substantially corrected portrait illustration, rebuilding the THREE riders' faces, hands, arms and necessary riding poses from the ground up, rather than patching their old bad poses.\nREFERENCE ROLES: Image 1 supplies ONLY the chase scene, bronze-tier costume palette, horses, muddy setting, peach blossoms and green cloud-dragon. Do NOT copy its old faces or weapon grips. Image 2 supplies ONLY Guan Yu's approved long guandao shape and blade/shaft/body proportions; do not copy its shoulder-carry pose or gold armor. Image 3 is an APPROVED FACE IDENTITY reference strip: LEFT is Guan Yu, CENTER is Liu Bei, RIGHT is Zhang Fei; match each identity carefully, do not put the strip or its gray background in the scene. Image 4 is a historical mounted crescent-blade mechanics study: separated two-hand leverage, stable seated pelvis and a controlled diagonal preparation. Do not copy its clothes, horse drawing or black-and-white style. Image 5 is the user's APPROVED mounted weapon-handling reference: borrow its strong separated two-hand support, bent rear elbow, guided front arm, credible shoulder-to-hand load paths and secure saddle seat for Guan Yu. Turn that leverage into a guandao CUT rather than copying its spear thrust. Do not import its red tiger, high-tier armor or dueling scene.\n\nSCENE: Preserve the dramatic three-rider pursuit of fleeing yellow-turban enemies, Guan Yu dominant in front, on a chestnut horse charging through wet churned mud. Liu Bei on the white horse and Zhang Fei on a brown horse follow in staggered separate lanes behind him. Retain the peach blossoms, vivid blue sky, large green dragon in the clouds, distant flags and mountain landscape. Keep the original polished detailed fantasy-painting style and 2:3 portrait framing. This is Romance-inspired art, not a documentary reconstruction. Maintain enough distance between the riders for independent weapon paths.\n\nGUAN YU: A believable TWO-HANDED diagonal cutting preparation, about to cut down and forward into the OPEN SPACE on the horse's right flank. Right/front hand near chest/shoulder height, left/rear hand near the waist, hands spaced apart along ONE rigid straight long shaft. Both elbows visibly articulated and slightly bent, wrists neutral, palms wrapped securely. Shoulders turn with the impending cut while hips remain grounded and centered in the saddle, thighs and stirrups carrying balance. Blade projects outside the horse's head/neck, cutting edge aligned to a descending arc; do NOT aim the guandao like a spear. No fully extended one-handed overhead windmill. During this brief two-hand striking phase the reins are visibly continuous to the bridle and hang in a loose loop along the neck; no phantom hand holding reins.\nUse exactly the approved long-pole guandao proportions of image 2: broad single smoothly curved blade, dragon-decorated socket, a substantial straight haft roughly twice the blade length, adequate rear tail. All segments through both grips and any occlusion share ONE axis and consistent thickness. Allow a weapon end to exit the frame rather than shrinking the pole. Keep the blade, tail and grips clear of the other riders.\n\nZHANG FEI: Ride slightly farther back in his OWN left/outside lane. A natural compact cavalry CARRY, not a sideways swing into Guan Yu: right hand grips the long straight snake-spear close to its balance point, shaft nearly upright and slightly rearward on the OUTER side of his body, wavy spearhead raised into clear space at the left edge. Left hand holds the reins low near the saddle. Keep the entire pole straight and unbroken. Its head, shaft and tail must not touch Guan Yu, Liu Bei or any horse's face/legs. Maintain his broad powerful body and dark bronze armor with red accents, but no high-tier tiger shoulders copied from the face reference.\n\nLIU BEI: Calm controlled rider. Left hand on reins low near the saddle, right hand carries one drawn straight sword in a compact outward-facing guard clear of both other riders. His second matching sword stays in a scabbard at his hip. No two swords flailing overhead and no floating reins. Green-and-white bronze-tier clothing, no high-tier armor imported from references.\n\nALL THREE FACES: Use the approved identity references, with natural focused expressions and CLOSED relaxed mouths, not rage grimaces. Guan Yu's long strong face and long beard; Liu Bei's refined face and neat moustache/goatee; Zhang Fei's broad square face, full dark beard and strong eyebrows. Normal aligned eyes, readable pupils, coherent nose/cheek/jaw anatomy, no twisted mouths, crossed eyes or melted profiles. Supporting faces must be individually crisp and legible, not vague tiny shapes. Faces are important, not incidental.\nAll horses have coherent anatomy, four distinct correctly articulated legs, real saddles/stirrups and continuous reins; the riders' legs embrace the saddle naturally. No weapon impales a friendly silhouette, no parallel poles join into one, no duplicated limbs. Keep mud and lower-leg energy earthy, no new gold powder, no UI, lettering, inset diagrams or collage. Deliver a single finished full scene.",
+  "research_basis": [
+    {
+      "url": "https://jsg.aks.ac.kr/data/serviceFiles/pdf/K3-275_003.pdf",
+      "pages": "48-52",
+      "scope": "18世纪朝鲜《武艺图谱通志》马上月刀，双手分握与骑乘力学参考；不是三国时期关羽使用偃月刀的史证。"
+    },
+    {
+      "url": "https://jsg.aks.ac.kr/data/serviceFiles/pdf/K3-275_001.pdf",
+      "pages": "90-94",
+      "scope": "马上枪，分握与枪路空间参考。"
+    },
+    {
+      "url": "https://www.gutenberg.org/files/28563/28563-h/28563-h.htm#chap1",
+      "scope": "十九世纪欧洲骑乘缰绳位置比较参考，不作汉末史证。"
+    },
+    {
+      "url": "https://royalarmouries.org/objects-and-stories/stories/waterloo-1815",
+      "scope": "博物馆对长枪接敌距离与近战操控性的区分参考。"
+    }
+  ],
+  "native_QA": {
+    "viewed_full_native": true,
+    "guanyu_face": "逐脸原生检查并与认可黑铁脸裁切对照：长脸、绿巾、髯须与面部骨架保留，眉压/视角有变化；两眼鼻嘴未见前轮明显扭曲，不等于用户验收。",
+    "liubei_face": "逐脸原生检查并与认可桃园脸裁切对照：冠、窄髭、短须、细长脸基本保留；侧面视角更强，无明显眼口错位，不等于用户验收。",
+    "zhangfei_face": "逐脸原生检查并与认可白银脸裁切对照：宽额、浓眉、短阔髯和发髻保留；表情仍较严厉但未见畸形扭转，不等于用户验收。",
+    "guanyu_grip_force": "两手分握且手掌包握，肩肘负荷比失败版本清楚，腰胯留在鞍座；双手间长杆连续直轴。后手后仅极短尾段，现可见杆长与刀身长度接近，未达认可武器长杆比例，因此不能交付。",
+    "guandao_shape": "刀头偏长且装饰密，尚有与认可宽腹单弧刀头形制偏离风险；首要硬问题为后手尾杆不足。",
+    "zhangfei": "左外通道单手安全携矛，另一手缰绳；矛杆所见部分一轴连续，未穿关羽/刘备身体，前刃与关羽明显分离。",
+    "liubei": "右手单剑外向持守，左手缰绳，两只手清楚；第二剑鞘在腰/马遮挡区域，不能完整确认。",
+    "horse_space": "主刀在主马右侧前方，二维投影靠近马额但可解释为近景外侧；三骑彼此独立。后腿被泥花/躯干遮挡，未据可见部分发现新增明显穿插。",
+    "theme": "关羽前景主角，黄巾敌兵、龙云、泥地、桃花主题齐全。",
+    "files": [
+      "QA-native-关羽脸.png",
+      "QA-native-刘备脸.png",
+      "QA-native-张飞脸.png",
+      "QA-native-关羽双手全刀.png",
+      "QA-native-张飞全矛双手.png",
+      "QA-native-刘备剑缰绳.png",
+      "QA-关羽-认可脸左_新脸右-原生对照.png",
+      "QA-刘备-认可脸左_新脸右-原生对照.png",
+      "QA-张飞-认可脸左_新脸右-原生对照.png"
+    ]
+  },
+  "old_status": "青铜候选4已被用户明确否决，1-5均不可用作正向脸/动作参考。此次只用原主题底图、认可武器、认可身份、图谱力学、用户认可虎牢争锋动作作为实际引用。未覆盖源图/UI。"
+}

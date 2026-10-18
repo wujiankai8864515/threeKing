@@ -1,0 +1,50 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/01-黑铁-UI排版修复1190.png",
+    "library_file_id": "libfile_b8e2b6b883348191a3e51e714fa9aad3",
+    "sha256": "556ab5b9b101ef861c9c917b0f8fde3bc10646f5e7d79036298389bf574276a4",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/02-青铜-UI排版修复1190.png",
+    "library_file_id": "libfile_7a32f238df2081918160ea8a477f8285",
+    "sha256": "78a60ced9dee046ce7d207538591f4c4d941884f45ed00184d74878583c6461a",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/03-白银-UI排版修复1190.png",
+    "library_file_id": "libfile_7e4ed1fb42d88191a28d3ac149103ced",
+    "sha256": "1082a8439e6edbb4c7953f3ac64b42391db10ad0fbf51987470c7cd1f00abb53",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png",
+    "library_file_id": "libfile_acb146de977c81918873160c7012a9dd",
+    "sha256": "9dc2e6abe10b9b85af59705ff9fcb50d6a035c14ce4f4e62ebcf58bb9300db78",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_bios_20261018_231140_UTC+08/01-铸兵聚义-v3.png",
+    "library_file_id": "libfile_9381a3b39f808191b30779faa51d00ff",
+    "sha256": "72ac93e358e74c7fe0b19ac5e1621940ab3e3f0934b1135ba88fdcfa7d9ae491",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_bios_20261018_231140_UTC+08/02-青梅煮酒-v2.png",
+    "library_file_id": "libfile_0743bd8f84d081919fdf10f60e9feba3",
+    "sha256": "81583c9b2e797c913ea57be2dcf901eca40dc623ec9f085423a04487639fcc56",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_bios_20261018_231140_UTC+08/03-汉中之战-v1.png",
+    "library_file_id": "libfile_8ccb05169c5c819199a18c7ff8d380b9",
+    "sha256": "23a3475cb4bbec8905e6d6867f6ae5774e2ef4338b414b0e93bd9e71afa96944",
+    "status": "native_QA_pass_candidate_not_user_final"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/刘备-四卡三传记-修订总览.png",
+    "library_file_id": "libfile_6e991e9e568c8191bda7795c99752a35",
+    "sha256": "4807a0d43d69ea2dcb414164277c0efe30edaa5ffde41c1e4880093cd8185a78",
+    "status": "native_QA_pass_candidate_not_user_final"
+  }
+]

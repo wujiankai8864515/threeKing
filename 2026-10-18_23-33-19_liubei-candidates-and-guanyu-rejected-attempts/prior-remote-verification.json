@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-18T23:30:32.204451+08:00",
+  "commit": "3ad74e541a1f5ecc8f65fec306cac956162cdcfb",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 4497,
+  "sequential_copy_sha256_checked": true,
+  "effective_source_map": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources/effective-source-map.json",
+  "note": "Local verification receipt ready for next archival batch."
+}

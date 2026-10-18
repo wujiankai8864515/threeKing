@@ -1,0 +1,30 @@
+{
+  "status": "failed_native_axis_QA_do_not_use",
+  "created_utc8": "2026-10-18T23:29:00+08:00",
+  "method": "builtin image_gen, one targeted aft-shaft edit",
+  "actual_references": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_rebuild_researched_20261018_231529_UTC+08/青铜-骑乘结构重建-候选1.png"
+  ],
+  "prompt": "Use case: precise-object-edit. Edit the supplied 1024x1536 illustration. Make ONE tiny localized weapon correction only: extend Guan Yu's existing black guandao SHAFT behind his rear hand (the upper-left hand at approximately x390,y440). The shaft is already straight between his two hands, from approximately x410,y460 to x590,y650. Continue exactly that same rigid straight axis backwards toward the upper left, ending around x175,y205 in the open gap above and to the right of Zhang Fei's head, below the peach branches. Follow the true existing shaft axis rather than forcing a coordinate. The added aft shaft must be the same thickness/material as the existing shaft, roughly 300 pixels of additional visible length, with a small restrained bronze butt cap. This creates a visibly long polearm. Where Guan Yu's forearm/bracer occludes the shaft, the rod must pass BEHIND it, reappearing collinearly on the other side; never pierce the arm or add a disconnected rod. Keep a clear air gap between the butt cap and peach branches, between this shaft and Zhang Fei's face, and between this shaft and Zhang Fei's spear. Remove no part of the existing weapon. Preserve the existing blade exactly, preserve both hands and all arms exactly, preserve all THREE faces and expressions exactly, preserve armor, horse anatomy, all other weapons, reins, dragon-cloud, Yellow Turbans, mud, blossoms, framing, rendering detail and lighting exactly. Do not regenerate or reinterpret the scene. Do not change or enlarge the blade. Do not change the hand positions. No new text, no new glow, no extra decoration. The only changed pixels should be the narrow region occupied by the new rear shaft and its tiny butt cap.",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-cd3c8df0-5633-4fa4-9832-3648db67086c.png",
+  "asset": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_local_20261018_232717_UTC+08/青铜-骑乘重建尾杆局修-候选2.png",
+  "sha256": "7256fbe21107e7f6c74a77d6d81daa9550eb4641eb072d2d9c34bf7bd18cda24",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "native_QA": {
+    "axis": "失败：新增尾杆约(185,195)至(355,365)；两手间原主杆约(415,462)至(590,650)。按原轴向左上延长，在护臂附近与新增尾杆纵向偏约30–40px；护臂遮挡掩盖了错轴，不能当作一根直杆通过。",
+    "clearance": "尾帽与桃枝有空隙，张飞脸/矛未碰主刀尾杆；杆长体量有所改善。",
+    "guanyu_face": "原生局修前后并排比较：脸形与眉眼位置基本维持，但细线与胡须纹理变软，局修并非像素冻结。未见新增显著扭曲。",
+    "liubei_face": "原生局修前后并排比较：基本脸形保留，眼眶和鼻线有软化，整体未出现新增畸形。",
+    "zhangfei_face": "原生局修前后并排比较：髭须及眼神略软，脸轮廓/口鼻结构基本保留。未见明显身份漂移，但未获用户验收。",
+    "overall": "全图略有重采样式柔化，首要不通过原因仍为新增尾杆与原杆不共轴。停止自动生成，已交root查看。"
+  },
+  "QA_files": [
+    "QA-native-尾杆双手共轴.png",
+    "QA-关羽-局修前左_局修后右.png",
+    "QA-刘备-局修前左_局修后右.png",
+    "QA-张飞-局修前左_局修后右.png"
+  ]
+}
