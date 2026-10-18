@@ -1,0 +1,18 @@
+{
+  "entry_count": 15,
+  "hero_count": 5,
+  "per_hero": {
+    "zhaoyun": 3,
+    "machao": 3,
+    "huangzhong": 3,
+    "zhugeliang": 3,
+    "pangtong": 3
+  },
+  "all_one_or_two_sentences": true,
+  "all_first_person": true,
+  "all_30_assets_exist_and_hashed": true,
+  "all_15_biography_scenes_actually_viewed": true,
+  "no_audio_generated": true,
+  "no_mechanics_values_in_dialogue": true,
+  "requires_user_copy_approval": true
+}

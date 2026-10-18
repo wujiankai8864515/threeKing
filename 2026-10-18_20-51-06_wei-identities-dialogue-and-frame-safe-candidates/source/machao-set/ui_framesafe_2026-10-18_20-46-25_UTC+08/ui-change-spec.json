@@ -1,0 +1,30 @@
+{
+  "base": "/workspace/scratch/3f82ff2b3f81/machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08",
+  "canvas": [
+    1190,
+    1786
+  ],
+  "art_scale": 1.0,
+  "art_offset": [
+    84,
+    145
+  ],
+  "gold_source_unchanged": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+  "gold_panel_bbox_native": [
+    660,
+    915,
+    939,
+    1170
+  ],
+  "gold_panel_delta_native": [
+    0,
+    200
+  ],
+  "gold_text_delta_native": [
+    0,
+    200
+  ],
+  "frame_material": "Three frames unchanged; gold copies existing passive panel pixels to lower position, clears old alpha only inside panel region. Right vertical rim unchanged.",
+  "status": "Trial awaiting nose/medallion overlap QA; black source remains pending root selection.",
+  "no_upload": true
+}

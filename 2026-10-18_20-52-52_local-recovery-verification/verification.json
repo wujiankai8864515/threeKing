@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-10-18T20:52:52.046855+08:00",
+  "asset_delta": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates",
+  "new_or_changed_entries": 169,
+  "resolved_paths_verified": 2950,
+  "historical_checksum_records_verified": 2808,
+  "checksum_manifests_verified": 39,
+  "current_source_hashes_verified": 59,
+  "UI_and_overview_hashes_verified": 35,
+  "new_UI_source_input_hashes_verified": 12,
+  "dialogue_entries": 15,
+  "dialogue_reference_hashes_verified": 30,
+  "project_text_files_security_scanned": 44,
+  "recovery_method": "Latest restore-all.py --copy-check sequentially copied every resolved path and verified SHA256. Historical checksum manifests and current source/UI/dialogue mappings independently checked. No full-tree duplicate.",
+  "remote_verified_commit": "03a16550e42911850671af837d36bca2709ef961",
+  "remote_verified_paths": 2783,
+  "current_delta_uploaded": false,
+  "this_worker_network_operations": false,
+  "count_scope": "Historical checksum counts exclude this verification receipt."
+}

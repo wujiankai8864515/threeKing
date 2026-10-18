@@ -1,0 +1,2005 @@
+{
+  "schema_version": "3.0",
+  "recorded_at": "2026-10-18T20:51:06.664602+08:00",
+  "source": "hero_quality_audit_20261018_191500_UTC+08/candidate_sources_sha256.json",
+  "heroes": {
+    "huangzhong": {
+      "sources": [
+        {
+          "hero": "huangzhong",
+          "asset": "blackiron",
+          "path": "huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/67b1671075fc98cc8a6e6b8db3d20604c357d0197f1e185065a21aa0bae926fe.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e4337f704aac8191a7697c81971b1bfc",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "bronze",
+          "path": "huangzhong-set/bronze_pair_2026-10-18_20-02-06_UTC+08/黄忠-青铜-v1-一箭报义候选.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/0489f60e248b0713d020eb5d0ff9119d220cfcce8f90b6227508d330396b77d0.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_06d5330a192481918594961975f707f3",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "silver",
+          "path": "huangzhong-set/silver_pair_2026-10-18_20-17-05_UTC+08/黄忠-白银-v1-老骥出关候选.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/85b3198b6c4088c8428ad6b3d99b7772c742367fb611902cb409b62581ebfe67.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e0ffa965c96481918be793795aebb537",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "gold",
+          "path": "huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-黄金-定军持弓警戒-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/8db831cab3615115975e53f60a451bcca1cebaa0cff7a5528d2f51052ad6b660.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_a727bc2d3458819180ec66b90a70b9f4",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "story_bronze",
+          "path": "huangzhong-set/bronze_bio_arrowfix_2026-10-18_20-12-53_UTC+08/黄忠-青铜传记-v2-箭向局修候选.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "d73ca596d27af0df520256f9dcc1dc63e3a3ec69710f24af4f6b7df11861d19c",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/d73ca596d27af0df520256f9dcc1dc63e3a3ec69710f24af4f6b7df11861d19c.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_eda629c4ddf08191aed2fa7ad946f45c",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "story_silver",
+          "path": "huangzhong-set/silver_bio_linefix_2026-10-18_20-23-23_UTC+08/黄忠-白银传记-v2-无箭演示局修候选.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "4353c04ac822e02015bc8a0ca14ee2d041b40f940a81c8fc69e7bae96b201df8",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/4353c04ac822e02015bc8a0ca14ee2d041b40f940a81c8fc69e7bae96b201df8.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_7beafe38c4b88191a462433cf4e2c4fb",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "huangzhong",
+          "asset": "story_gold",
+          "path": "huangzhong-set/gold-pair_2026-10-18_20-13-24_UTC+08/黄忠-银金传记-定军乘势刀击-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "2c6cd874eb091c74aa7f9c88f1ca17cf2905464f4d2319dd0ca309e080e28a52",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2c6cd874eb091c74aa7f9c88f1ca17cf2905464f4d2319dd0ca309e080e28a52.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_c6bbb31ca36c8191815536629eecbccb",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "d5abd383f157d0befc46ec9212cbf889e89ea7342ea6645b1b4d6395b28ad9fd",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/d5abd383f157d0befc46ec9212cbf889e89ea7342ea6645b1b4d6395b28ad9fd.png",
+          "ui_status": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "a7d10c9956676db792143bf57ae0218c67c21d87fb4b268ca4bc2b50d3d687e0",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/a7d10c9956676db792143bf57ae0218c67c21d87fb4b268ca4bc2b50d3d687e0.png",
+          "ui_status": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "f60e444fc93bc73e42902baa869b150cd8e51be50500cef65e584e0df2e9c635",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/f60e444fc93bc73e42902baa869b150cd8e51be50500cef65e584e0df2e9c635.png",
+          "ui_status": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "2f425ce4d448ddf92f9bf29f34ec694ad8f9ab62e4e5702eaf9cb54a119bc8be",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2f425ce4d448ddf92f9bf29f34ec694ad8f9ab62e4e5702eaf9cb54a119bc8be.png",
+          "ui_status": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "huangzhong-set/ui_newframe_2026-10-18_20-31-33_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "4906dcdb073c563b4cb86e6218ca202691bbcf6c549fe8d552a8aae7e003eed3",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/4906dcdb073c563b4cb86e6218ca202691bbcf6c549fe8d552a8aae7e003eed3.png",
+          "ui_status": "root_and_independent_visual_coverage_pass_candidate_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "QA_scope_note": "At 20:45 independent auditor reran pixel comparison on all four saved UI PNGs: every tested unoccluded source pixel unchanged and source hashes matched. Obscured regions and native resolution are not expanded by this check.",
+      "independent_pixel_verification_source": "hero_quality_audit_20261018_191500_UTC+08/huang_ui_independent_pixel_check.json"
+    },
+    "liubei": {
+      "sources": [
+        {
+          "hero": "liubei",
+          "asset": "blackiron",
+          "path": "liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e1c0b18049c081918c29efb5b1f72b03",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "bronze",
+          "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-青铜-引导掌入框局修.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "fb6467efa62162a2e725575cade929f33611fe7c38f68e80edd7d9510f11a05b",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Final frame coverage pending.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/fb6467efa62162a2e725575cade929f33611fe7c38f68e80edd7d9510f11a05b.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_49d1166bf618819183d8332599a00d52",
+          "library_version": 1,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "silver",
+          "path": "liubei-set/frame_safe_local_2026-10-18_19-36-00_UTC+08/刘备-白银-曹操位置入框局修.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "ba347f26856c115d22ab50f8076bc64f273fd598ca1b2fc81b5dc87dc47f3c2b",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Final frame coverage pending.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/ba347f26856c115d22ab50f8076bc64f273fd598ca1b2fc81b5dc87dc47f3c2b.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_4e3712ca13948191b082c632100b09f3",
+          "library_version": 1,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "gold",
+          "path": "liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "a3b5321ff40d66080434c9f7743d6ce59f6e052233f8ce0de93455be1e4c7e9e",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/a3b5321ff40d66080434c9f7743d6ce59f6e052233f8ce0de93455be1e4c7e9e.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_86a0ba17beb08191aa573913ccfeaf05",
+          "library_version": 1,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "story_bronze",
+          "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜传记-v1-城中调停候选.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Small peripheral basket soft; accepted.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/54ed6cfc0ebb1d448e48d49f25e33c819bf18fc1b4b17365a1b6809386a59cb4.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_3be8db00c0a48191bf741ffc6da3875f",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "story_silver",
+          "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-传记-青梅论英雄-前盆局修2.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/c0b72e54d8e09d68886e091309b08a27199e0210bedcc1a8340e01d6f4f5123b.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_f47b3b732ac8819195f31ca119ea0985",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "liubei",
+          "asset": "story_gold",
+          "path": "liubei-set/story-hanzhong_2026-10-18_19-13-18_UTC+08/刘备-传记-汉中之战-候选1-2026-10-18_19-13-18_UTC+08.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Root accepts soft peripheral left props; principal map/rocks sharp.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/b15ab0a578e79ff6b94e5a28af0414d0ccaf7f490429df22bb17b58ffe303307.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_a97eee23ed248191922b1f290c304f4a",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/delivery-manifest.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "root_reviewed_UI_candidate_saved_not_user_final",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "7a1adbe2e9e6b9269a67d2efce76ffb9f0e900c0d5be4e0aa3de86604573db57",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/7a1adbe2e9e6b9269a67d2efce76ffb9f0e900c0d5be4e0aa3de86604573db57.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_72a8d4aaa92881918be44c4e95795610",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "e6155c327a4ae0a1368ddb35d585997ca62b8433e2dfef85fb4e90a8d6ffe400",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/e6155c327a4ae0a1368ddb35d585997ca62b8433e2dfef85fb4e90a8d6ffe400.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_20109210682481919218ed2a92c4dfb5",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "7b9f1ef074e5665123a756254d8cc96b7cc449114d23307686a7fc6f633f9484",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/7b9f1ef074e5665123a756254d8cc96b7cc449114d23307686a7fc6f633f9484.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_ac4387c87a588191b1057c42197b550d",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "beef6f0bba94aea8a50335422fd13c18218a74fe5a9f69b3cb8d47a32d11e4f2",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/beef6f0bba94aea8a50335422fd13c18218a74fe5a9f69b3cb8d47a32d11e4f2.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_f80dcc2830b48191b12694779f0935c3",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "3f4d6d89c00248e8aaf058584cf911ab8937e0d57325974498a1eb5245cf716a",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/3f4d6d89c00248e8aaf058584cf911ab8937e0d57325974498a1eb5245cf716a.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_5c3ee50a9fb08191941abd488070ff59",
+          "library_version": 0,
+          "receipt_source": "liubei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        }
+      ]
+    },
+    "machao": {
+      "sources": [
+        {
+          "hero": "machao",
+          "asset": "blackiron",
+          "path": "machao-set/blackiron-first_2026-10-18_19-34-03_UTC+08/马超-黑铁-西凉少锋-身份候选1-2026-10-18_19-34-03_UTC+08.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89",
+          "qa_status": "direction_candidate_passed",
+          "residual_or_scope": "Spear tip ~10px top margin; hidden tail accepted as occlusion.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/09a69850e67ca9be99a88f3e0a432cd2367e6da0ca07caaeab546442bb1cef89.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_bb046f31adc8819181dcb0563679ce7f",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "machao",
+          "asset": "bronze",
+          "path": "machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_3b4c4c7636848191b70e6fc93e6f4cac",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "machao",
+          "asset": "silver",
+          "path": "machao-set/silver-newpose_2026-10-18_20-00-38_UTC+08/马超-白银-夜战横枪新姿-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "15378a85a2523a0e945510c4305183af4a7750a3f221b7965e7acdd525e3bd7c",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/15378a85a2523a0e945510c4305183af4a7750a3f221b7965e7acdd525e3bd7c.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_675427d391c081919839356146737b36",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-25-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "machao",
+          "asset": "gold",
+          "path": "machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "machao",
+          "asset": "story_bronze",
+          "path": "machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-传记-西凉起兵-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "1fca663488e18b4a2289eec7edda50f76d3f9fbac18658a51170326dfabeefbc",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/1fca663488e18b4a2289eec7edda50f76d3f9fbac18658a51170326dfabeefbc.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_fd4111360ce08191b2b22eaefccf4aaf",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "machao",
+          "asset": "story_silver",
+          "path": "machao-set/silver-night_2026-10-18_19-51-38_UTC+08/马超-铜银传记-换马举火-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "edc3f562a6a5114de747979299c1ed547572a454b8508a48ff7771170cc24967",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/edc3f562a6a5114de747979299c1ed547572a454b8508a48ff7771170cc24967.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_4a06e84bd1788191b73a04810eb0a9bf",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-25-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "machao",
+          "asset": "story_gold",
+          "path": "machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "3cbd2523001c744ce66c1df3e39bda437e77e283f26162ab76b0975ca4edd232",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/3cbd2523001c744ce66c1df3e39bda437e77e283f26162ab76b0975ca4edd232.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "ui_state": "root_visual_coverage_pass_candidate_independent_review_separate",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "9897d95c1581afadf4634be31300bb7d3514cb0361a2e8f3f1ed2d34f1a12022",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/9897d95c1581afadf4634be31300bb7d3514cb0361a2e8f3f1ed2d34f1a12022.png",
+          "status": "root_visual_coverage_pass_candidate_independent_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "root_visual_coverage_pass_candidate_independent_review_separate"
+        },
+        {
+          "path": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24.png",
+          "status": "root_visual_coverage_pass_candidate_independent_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "root_visual_coverage_pass_candidate_independent_review_separate"
+        },
+        {
+          "path": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "8efaf831bdc8bb16e0efc857b1205c07472dbb896f1291b9c069ecfee45ae423",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/8efaf831bdc8bb16e0efc857b1205c07472dbb896f1291b9c069ecfee45ae423.png",
+          "status": "root_visual_coverage_pass_candidate_independent_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "root_visual_coverage_pass_candidate_independent_review_separate"
+        },
+        {
+          "path": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "d9e8ef2eae7b0e931fabb25958cd93542ead9b2f0d186ec5575ff9a44e850a00",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/d9e8ef2eae7b0e931fabb25958cd93542ead9b2f0d186ec5575ff9a44e850a00.png",
+          "status": "root_visual_coverage_pass_candidate_independent_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "root_visual_coverage_pass_candidate_independent_review_separate"
+        },
+        {
+          "path": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "ff5169de6ba23f49cff2d841e940b762ecb4722093fa4425e41fa1a1c2f5bae8",
+          "native_size": [
+            1920,
+            775
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/ff5169de6ba23f49cff2d841e940b762ecb4722093fa4425e41fa1a1c2f5bae8.png",
+          "status": "root_visual_coverage_pass_candidate_independent_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "root_visual_coverage_pass_candidate_independent_review_separate"
+        }
+      ],
+      "previous_ui_candidates": [
+        {
+          "path": "machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "1317e8c59a7d8507bd5bee28857201cbde5b6737e1431340d821b10d62ea7f64",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/1317e8c59a7d8507bd5bee28857201cbde5b6737e1431340d821b10d62ea7f64.png",
+          "ui_status": "silver_rear_grip_and_gold_nose_mouth_occluded_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2094ef87145c68b16dc0532f0b706d88480e2e6131d99891349541cdfffc2c24.png",
+          "ui_status": "silver_rear_grip_and_gold_nose_mouth_occluded_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "937af74e3763439af51a672287641516122042e92f660479d29a247e922f450d",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/937af74e3763439af51a672287641516122042e92f660479d29a247e922f450d.png",
+          "ui_status": "silver_rear_grip_and_gold_nose_mouth_occluded_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "6db11a5a7010b6c26584fc26ce243c1058f90e7eb8d3dd5a64e7d9ba80c0d325",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/6db11a5a7010b6c26584fc26ce243c1058f90e7eb8d3dd5a64e7d9ba80c0d325.png",
+          "ui_status": "silver_rear_grip_and_gold_nose_mouth_occluded_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "path": "machao-set/ui_newframe_2026-10-18_20-32-21_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "17592e07de727cf45cc77ed20ad7e01bfdb88efc47010fe61479a0af35fb0886",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/17592e07de727cf45cc77ed20ad7e01bfdb88efc47010fe61479a0af35fb0886.png",
+          "ui_status": "silver_rear_grip_and_gold_nose_mouth_occluded_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "latest_ui_source_map": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08/source-map.json",
+      "latest_ui_source_candidates": [
+        {
+          "path": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+          "sha256": "129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "blackiron",
+          "recorded_status": "framing_candidate_pending_root_selection",
+          "recorded_source_sha256": "129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5",
+          "root_composite_review": "Visible critical features passed root review in the 20:46 composite; independent content review separate."
+        },
+        {
+          "path": "machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+          "sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "bronze",
+          "recorded_status": "parent_selected_latest_candidate_not_user_final",
+          "recorded_source_sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7",
+          "root_composite_review": "Visible critical features passed root review in the 20:46 composite; independent content review separate."
+        },
+        {
+          "path": "machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+          "sha256": "e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "silver",
+          "recorded_status": "framing_candidate_pending_independent_review",
+          "recorded_source_sha256": "e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f",
+          "root_composite_review": "Visible critical features passed root review in the 20:46 composite; independent content review separate."
+        },
+        {
+          "path": "machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+          "sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "gold",
+          "recorded_status": "local_material_independent_pass_candidate_not_user_final",
+          "recorded_source_sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202",
+          "root_composite_review": "Visible critical features passed root review in the 20:46 composite; independent content review separate."
+        }
+      ],
+      "status_boundary": "Previous content-QA pass applies only to the reviewed source hash; new safe-area source versions and final composite coverage need their own review.",
+      "root_UI_review": {
+        "recorded_at": "2026-10-18T20:52:14.108030+08:00",
+        "reported_review_time": "2026-10-18T20:50+08:00",
+        "time_precision": "minute",
+        "reviewed_directory": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08",
+        "reviewer": "production lead",
+        "status": "root_visual_coverage_pass_candidate_not_user_final",
+        "findings": [
+          "Blackiron wolf eyes/nose/mouth readable.",
+          "Silver two grips readable.",
+          "Gold complete horse mouth readable.",
+          "Lowest passive bar does not obscure troop-type icon; allowed."
+        ],
+        "independent_review": "Separate source and exact-composite review status must not be inferred from this root review.",
+        "new_art_delivery_confirmed": false,
+        "remote_verified_commit": "03a16550e42911850671af837d36bca2709ef961",
+        "remote_verified_paths": 2783
+      }
+    },
+    "pangtong": {
+      "sources": [
+        {
+          "hero": "pangtong",
+          "asset": "blackiron",
+          "path": "pangtong-set/blackiron-first_2026-10-18_19-58-00_UTC+08/庞统-黑铁-荆襄藏凤-身份候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/15426c5505a95f4519a4027c45237ab308a225c015afb5469b59bddb9e345ebd.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "bronze",
+          "path": "pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-青铜-连环定计-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "f1368aed3c3970239d5ba6a9d393e7105844fd0f5ff6f7f928977f4208d41c98",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/f1368aed3c3970239d5ba6a9d393e7105844fd0f5ff6f7f928977f4208d41c98.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "silver",
+          "path": "pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-白银-百里展才-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "423de2dab5765a40395274ebcef40efda272bafebf981bb8c233fe581941f230",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/423de2dab5765a40395274ebcef40efda272bafebf981bb8c233fe581941f230.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "gold",
+          "path": "pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-黄金-凤策开蜀-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "5e32880de582b7208b0f27c25a92a2377db79adf496ad2f0701a5bd6e0a78da4",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/5e32880de582b7208b0f27c25a92a2377db79adf496ad2f0701a5bd6e0a78da4.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "story_bronze",
+          "path": "pangtong-set/bronze_pair_2026-10-18_20-19-00_UTC+08/庞统-传记-连舟献策-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "19527fb94e0bde67ad20d27a33dae1c762191c915dce94ff37290a41d37dc33b",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/19527fb94e0bde67ad20d27a33dae1c762191c915dce94ff37290a41d37dc33b.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "story_silver",
+          "path": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "62ae4765f752b73e281cde21ebdaf15599ddd10e02c8554124b6a352850f0a58",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/62ae4765f752b73e281cde21ebdaf15599ddd10e02c8554124b6a352850f0a58.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        },
+        {
+          "hero": "pangtong",
+          "asset": "story_gold",
+          "path": "pangtong-set/gold_pair_2026-10-18_20-27-00_UTC+08/庞统-传记-三策取蜀-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "1ae4f3a1339df8df3e5417010b4040fe9bb01d0e9e291af9ddd3d89bd046f2b9",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/1ae4f3a1339df8df3e5417010b4040fe9bb01d0e9e291af9ddd3d89bd046f2b9.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version"
+        }
+      ],
+      "ui_state": "UI_pending",
+      "user_final": false,
+      "ui_candidates": []
+    },
+    "zhangfei": {
+      "sources": [
+        {
+          "hero": "zhangfei",
+          "asset": "blackiron",
+          "path": "zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_de82bbbcbbbc81919ec8dfd4fdd3db07",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results-cards-bridge.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "bronze",
+          "path": "zhangfei-set/bronze-newpose_2026-10-18_19-15-00_UTC+08/张飞-青铜-横矛预备新构图-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Weapon endpoints cropped; root explicitly accepts.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/cab8688c40a3adc953bc5166961169f33dc57a0db85239c1c1052bf1016fd8f3.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_0989d75102588191af36a14b960c89b5",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results-cards-bridge.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "silver",
+          "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Blade scuffs/dust remain intentional material detail.",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_ac3479fc807481919791a160519b4702",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results-cards-bridge.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "gold",
+          "path": "zhangfei-set/gold-safety-local_2026-10-18_19-16-51_UTC+08/张飞-黄金-长坂护众-安全局修1-2026-10-18_19-16-51_UTC+08.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719",
+          "qa_status": "candidate_passed_frame_pending",
+          "residual_or_scope": "Blade tip ~4px from right edge; final frame must not cover.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/c97b8720e6e0deeedb7a363b0c548a073e280be765f85427960ecf71520d8719.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_83dedf219dbc8191baa17e057215f0d6",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results-cards-bridge.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "story_bronze",
+          "path": "zhangfei-set/bronze_biography_20261018_185451_UTC+08/张飞-黑铜传记-倾资聚众-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Peripheral volunteer shoulders soft; accepted.",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/b2d63a71005675c412aee87c1d922ca52dfaab6f809224072d33a99c65760bcf.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_f3fcbf01f8808191a007c45b6bdf0e3f",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "story_silver",
+          "path": "zhangfei-set/silver_20261018_185500_UTC+08/张飞-传记-虎牢争锋-戟岩局修2.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/a939d4e3ad06d16bee87c150a0891b92bf31ae6e63347a847df58b944b3cf717.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_dd9b5ff5788c8191b8267cf231a97272",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhangfei",
+          "asset": "story_gold",
+          "path": "zhangfei-set/story-frontclear-local_2026-10-18_19-19-41_UTC+08/张飞-传记-桥后生路-前景局修1-2026-10-18_19-19-41_UTC+08.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Tiger at top edge unchanged; important foreground fixed.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/a2a67f137435649196256450c0aaa7c3839bed996c9c555962c7cce57517eb68.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_4e707f8351bc81919ea663b08dee61c8",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/story_library_2026-10-18_19-25-00_UTC+08/results-cards-bridge.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "root_reviewed_UI_candidate_saved_not_user_final",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "776381e49fa0c8b1f40fecaaef16b11c57c83aee6f675f0424f162fcaa9ad82a",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/776381e49fa0c8b1f40fecaaef16b11c57c83aee6f675f0424f162fcaa9ad82a.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_6c07ebcd26688191bb02808749348430",
+          "library_version": 0,
+          "receipt_source": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "9ab668070664d7885b3a027254e5edbab6d87e5fc6a40520c6c6e7a93841b02e",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/9ab668070664d7885b3a027254e5edbab6d87e5fc6a40520c6c6e7a93841b02e.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_fe7ab9a263b08191aabd29dcff8cf0cd",
+          "library_version": 0,
+          "receipt_source": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "46a5c0f49487c5464e5202d6f54212c6ffb32e8298854ede31358b1ef830140f",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/46a5c0f49487c5464e5202d6f54212c6ffb32e8298854ede31358b1ef830140f.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_051d63de8f9881919109829c36ff1426",
+          "library_version": 0,
+          "receipt_source": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "1ec78ed3a3a79f73b2e731d77c4c0f4a36bfd8b231b10dfe24db182055bcb753",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/1ec78ed3a3a79f73b2e731d77c4c0f4a36bfd8b231b10dfe24db182055bcb753.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e91ff9540a4481918a8fff8c58b35189",
+          "library_version": 0,
+          "receipt_source": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "cd89d6a7af879a29c4c9ca6ebef4fa0dca18792e8de14b1ea59b1f50f71dc53d",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/cd89d6a7af879a29c4c9ca6ebef4fa0dca18792e8de14b1ea59b1f50f71dc53d.png",
+          "ui_status": "root_reviewed_UI_candidate_saved_not_user_final",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_8f5e28937b348191af76eaa6617a1333",
+          "library_version": 0,
+          "receipt_source": "zhangfei-set/ui_newframe_2026-10-18_19-32-00_UTC+08/upload-results.json",
+          "library_save_only": true
+        }
+      ]
+    },
+    "zhaoyun": {
+      "sources": [
+        {
+          "hero": "zhaoyun",
+          "asset": "blackiron",
+          "path": "zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+          "qa_status": "direction_candidate_passed",
+          "residual_or_scope": "New original identity; root/user final recognition and batch authorization separate.",
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_44822025793c81918b9cdd66ae71876a",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "bronze",
+          "path": "zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-青铜-卧牛归心-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Spear tip cropped at original top; large low-contrast dragon.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/cd3e872f81f974f7cb8705829209f98ae24072b2e8246b3f7d5025376b89494c.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_5782f3f1613481919c0e16e79faa57d2",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "silver",
+          "path": "zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_63cd498d44d081918e6e8a3b48cd6a83",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "gold",
+          "path": "zhaoyun-set/gold-upright-spear_2026-10-18_20-09-38_UTC+08/赵云-黄金-汉水龙胆-竖枪偃旗候选-2026-10-18_20-09-38_UTC+08.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "d49ef4aeae2ccd0492de6391357f4cd0ed9299494ceb0b10325d900f3f1b8d9b",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/d49ef4aeae2ccd0492de6391357f4cd0ed9299494ceb0b10325d900f3f1b8d9b.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e5d09edd457481919163011dd07b4760",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-25-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "story_bronze",
+          "path": "zhaoyun-set/bronze-biography_2026-10-18_19-36-53_UTC+08/赵云-黑铜传记-卧牛相认-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "247b355018d1b7bc8e5f40c121b75fae84ee5b6afa1583ab77f6b8430d17cbc1",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/247b355018d1b7bc8e5f40c121b75fae84ee5b6afa1583ab77f6b8430d17cbc1.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_4134d4e025ac81919e2bb7801d3fb4c4",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "story_silver",
+          "path": "zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银传记-v1-乱军寻主候选.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "f5e1f517abf3ea5b593cd804476ffdc2ef29936b92c5a0db4c48b37e209bb580",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/f5e1f517abf3ea5b593cd804476ffdc2ef29936b92c5a0db4c48b37e209bb580.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_f8da047779108191be3575f290b18c83",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-02-40_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhaoyun",
+          "asset": "story_gold",
+          "path": "zhaoyun-set/story-hanshui-rescue_2026-10-18_19-57-59_UTC+08/赵云-银金传记-一身是胆-候选1-2026-10-18_19-57-59_UTC+08.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "4c488ba7355b957659adfe7f383132a4f5761cfca30df4c886c35e0b3fcd0681",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/4c488ba7355b957659adfe7f383132a4f5761cfca30df4c886c35e0b3fcd0681.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_78eadca2e6588191973416ea5205303a",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-25-00_UTC+08/results.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "997e296af0eb6cb8cf2e050bd2a1641772fc44c1f450a1d53a667c220ec6a4a3",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/997e296af0eb6cb8cf2e050bd2a1641772fc44c1f450a1d53a667c220ec6a4a3.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "4ae204fa7e6636da2eebd8ce3aa5ec49d1c06e2b6c5c44c0e2cdfbaabd697415",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/4ae204fa7e6636da2eebd8ce3aa5ec49d1c06e2b6c5c44c0e2cdfbaabd697415.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "2042f6306adff7373849699d8499ae5d9bf5a68a774b9fccd24b551a58d38329",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2042f6306adff7373849699d8499ae5d9bf5a68a774b9fccd24b551a58d38329.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "a567e72574459269982e10bd021dd648017f45edf6b01f7dc8e16ca49eb2a65e",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/a567e72574459269982e10bd021dd648017f45edf6b01f7dc8e16ca49eb2a65e.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "442addca103009bedf4d96c4f7d156b130d48e98e842b20c14c8d42b898e5e9b",
+          "native_size": [
+            1920,
+            775
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/442addca103009bedf4d96c4f7d156b130d48e98e842b20c14c8d42b898e5e9b.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        }
+      ],
+      "previous_ui_candidates": [
+        {
+          "path": "zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "997e296af0eb6cb8cf2e050bd2a1641772fc44c1f450a1d53a667c220ec6a4a3",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/997e296af0eb6cb8cf2e050bd2a1641772fc44c1f450a1d53a667c220ec6a4a3.png",
+          "ui_status": "bronze_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_a301421b81fc81918ec41b4a53d7d666",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "1533a874c2178d3392836e5d330cbc5a96f3b5df96d9f3072e28e4c00cb3eb67",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/1533a874c2178d3392836e5d330cbc5a96f3b5df96d9f3072e28e4c00cb3eb67.png",
+          "ui_status": "bronze_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_6aeed98340708191b35ff541b6f8962e",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "2042f6306adff7373849699d8499ae5d9bf5a68a774b9fccd24b551a58d38329",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/2042f6306adff7373849699d8499ae5d9bf5a68a774b9fccd24b551a58d38329.png",
+          "ui_status": "bronze_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_99482f7877e0819197851a443ac21ab1",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "05d35a837a5d2986705956eed0cc67e1def76fc98e98d0648204b790bd08a3c1",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/05d35a837a5d2986705956eed0cc67e1def76fc98e98d0648204b790bd08a3c1.png",
+          "ui_status": "bronze_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_bbeea9c4dabc8191b8db323aebe7b7f1",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhaoyun-set/ui_newframe_2026-10-18_20-18-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "7a449580cfa5c2e36680b96117f60184810bb602f6a8c7a0b74f10757bfe07ee",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/7a449580cfa5c2e36680b96117f60184810bb602f6a8c7a0b74f10757bfe07ee.png",
+          "ui_status": "bronze_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_9a33574aa25c819191192d7bf0eaeb00",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        }
+      ],
+      "latest_ui_source_map": "zhaoyun-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/source-map.json",
+      "latest_ui_source_candidates": [
+        {
+          "path": "zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+          "sha256": "74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_19-34-21_34-hero-roster-and-candidate-production/assets/sha256/74290b5f2fe0ea95decbc8ab368d53b804204eaf1155331398baacad086067db.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "blackiron",
+          "recorded_status": "root_and_independent_content_candidate_pass_frame_QA_pending"
+        },
+        {
+          "path": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+          "sha256": "ad6fc465b2f2aca11896569644e3e94c2a4b3687632efcdf9a0e6c68dd7db6b2",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/ad6fc465b2f2aca11896569644e3e94c2a4b3687632efcdf9a0e6c68dd7db6b2.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "bronze",
+          "recorded_status": "dragon_frame_safe_local_QA_pending"
+        },
+        {
+          "path": "zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+          "sha256": "f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_19-54-30_34-hero-roster-and-candidate-production/assets/sha256/f5914ee6b4484dfeb957ddf5c3afcc9ec8ddfb83bf500bb8c46558c0001d7057.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "silver",
+          "recorded_status": "root_and_independent_content_candidate_pass_frame_QA_pending"
+        },
+        {
+          "path": "zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+          "sha256": "6e6ee9acd7c7a971081b348eb126d21b11862d5c4fe1677881d76c357fc9318f",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/6e6ee9acd7c7a971081b348eb126d21b11862d5c4fe1677881d76c357fc9318f.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "gold",
+          "recorded_status": "dragon_frame_safe_local_QA_pending"
+        }
+      ],
+      "status_boundary": "Previous content-QA pass applies only to the reviewed source hash; new safe-area source versions and final composite coverage need their own review."
+    },
+    "zhugeliang": {
+      "sources": [
+        {
+          "hero": "zhugeliang",
+          "asset": "blackiron",
+          "path": "zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_1c88e85420dc8191acb1775960fc2c56",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "bronze",
+          "path": "zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_0e1b096603748191961c8d2cee75bfe0",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "silver",
+          "path": "zhugeliang-set/silver_flagfix_2026-10-18_20-23-00_UTC+08/诸葛亮-白银-左旗同风向-局修1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "ce506b4a643894e2647ac7fc3e35e482664da1e9ec4040177515a46e4e1bd125",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/ce506b4a643894e2647ac7fc3e35e482664da1e9ec4040177515a46e4e1bd125.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_f636639ba83c8191ad0fcd07a495401b",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "gold",
+          "path": "zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-黄金-空城定局-候选1.png",
+          "width": 1024,
+          "height": 1536,
+          "sha256": "8b861967aeea6ad875ce6aa72f36a473d98999bba18d78f228b65b7f9782af24",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/8b861967aeea6ad875ce6aa72f36a473d98999bba18d78f228b65b7f9782af24.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_76e9cd02e0e4819187a98a5f7632b0d5",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "story_bronze",
+          "path": "zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-传记-三顾定志-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "11dc26bf667414cd28b6994704025a2c88d6bfc1712293960b11633bd6c7776f",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/11dc26bf667414cd28b6994704025a2c88d6bfc1712293960b11633bd6c7776f.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_8bed8e9f471081919e3a7f42b30a9d2f",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "story_silver",
+          "path": "zhugeliang-set/silver_pair_2026-10-18_20-10-00_UTC+08/诸葛亮-传记-风起江上-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "1bd4d1fbe1a4bcb933180e055e632c45aec619c6132f2d1afeab666ee822abfe",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/1bd4d1fbe1a4bcb933180e055e632c45aec619c6132f2d1afeab666ee822abfe.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_bd339bcb0ff081919127a7d8bc958289",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "hero": "zhugeliang",
+          "asset": "story_gold",
+          "path": "zhugeliang-set/gold_pair_2026-10-18_20-14-00_UTC+08/诸葛亮-传记-虚实之间-候选1.png",
+          "width": 1536,
+          "height": 1024,
+          "sha256": "52e80a0a069bd97a33b935281e9f85c7703053fbb9ebd16056cad2f2bc484e38",
+          "qa_status": "candidate_passed",
+          "residual_or_scope": "Content and native crops reviewed; final frame coverage and user approval separate. See INDEPENDENT_QA.md for residuals.",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/52e80a0a069bd97a33b935281e9f85c7703053fbb9ebd16056cad2f2bc484e38.png",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_76345aa84c8c8191a3a2c4c261104544",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/source_library_2026-10-18_20-34-00_UTC+08/results.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "fd686d024e2e496c9142b731c4d2a080e0def3367e9680a63bae533964c1c5b9",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/fd686d024e2e496c9142b731c4d2a080e0def3367e9680a63bae533964c1c5b9.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "302dce2c460e5ff0233f7f6e91d26ed44788fb6f3d50575c90b59d9d05e31ada",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/302dce2c460e5ff0233f7f6e91d26ed44788fb6f3d50575c90b59d9d05e31ada.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "06837a79ceb9e618724e5f1308c336c30ca800d750c9932e46634c53fda1f5bf",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/06837a79ceb9e618724e5f1308c336c30ca800d750c9932e46634c53fda1f5bf.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "8d700f3946e58f4cc31a51767a56e94a300b9d145cecbb62dbb240dd1182b9fc",
+          "native_size": [
+            1190,
+            1786
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/8d700f3946e58f4cc31a51767a56e94a300b9d145cecbb62dbb240dd1182b9fc.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        },
+        {
+          "path": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "584fa5bfc03fa440fbbff535122c8454db270b538a07440b8301976e59d8f454",
+          "native_size": [
+            1920,
+            775
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/584fa5bfc03fa440fbbff535122c8454db270b538a07440b8301976e59d8f454.png",
+          "status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "ui_status": "latest_frame_safe_composite_candidates_pending_root_and_independent_review"
+        }
+      ],
+      "previous_ui_candidates": [
+        {
+          "path": "zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "fd686d024e2e496c9142b731c4d2a080e0def3367e9680a63bae533964c1c5b9",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/fd686d024e2e496c9142b731c4d2a080e0def3367e9680a63bae533964c1c5b9.png",
+          "ui_status": "silver_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_d33a294f62a48191a4e615343412971c",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "302dce2c460e5ff0233f7f6e91d26ed44788fb6f3d50575c90b59d9d05e31ada",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/302dce2c460e5ff0233f7f6e91d26ed44788fb6f3d50575c90b59d9d05e31ada.png",
+          "ui_status": "silver_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e86cc459e4908191b0642ced891ddf5e",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "d03e4e835f3e6dad53118a18d4a669c38f794d4bf2e8f5033a89a85d199bf345",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/d03e4e835f3e6dad53118a18d4a669c38f794d4bf2e8f5033a89a85d199bf345.png",
+          "ui_status": "silver_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_3ea2f038e65881919f621478860bb4b6",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "5e067260382cd2bcbbc29e1757d73e3d27c1073d6157f6d9f128400225be4823",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/5e067260382cd2bcbbc29e1757d73e3d27c1073d6157f6d9f128400225be4823.png",
+          "ui_status": "silver_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e3672d52ea748191b0c7be1337265f53",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "zhugeliang-set/ui_newframe_2026-10-18_20-34-00_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "e046e60dbac1840c809baaab3e93851201eb1894a24fa3ed2bcbff97031824b3",
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/e046e60dbac1840c809baaab3e93851201eb1894a24fa3ed2bcbff97031824b3.png",
+          "ui_status": "silver_gold_dragon_head_right_star_column_occlusion_local_safe_area_revision_needed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_9c5c34648b248191a4a3117485711019",
+          "library_version": 0,
+          "receipt_source": "hero-production-spec/ui_library_2026-10-18_20-36-00_UTC+08/results.json",
+          "library_save_only": true
+        }
+      ],
+      "latest_ui_source_map": "zhugeliang-set/ui_framesafe_2026-10-18_20-47-00_UTC+08/source-map.json",
+      "latest_ui_source_candidates": [
+        {
+          "path": "zhugeliang-set/blackiron-first_2026-10-18_19-53-24_UTC+08/诸葛亮-黑铁-隆中高卧-身份候选1.png",
+          "sha256": "39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/39fd9a50c395e738beca554e52c6468dd9114c70414e11d23817913c629136d2.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "blackiron",
+          "recorded_status": "independent_content_candidate_pass_frame_QA_pending"
+        },
+        {
+          "path": "zhugeliang-set/bronze_pair_2026-10-18_20-04-00_UTC+08/诸葛亮-青铜-出庐定策-候选1.png",
+          "sha256": "7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/assets/sha256/7a441b702587f4bf85c59754d0e324fdb9c451cd798d444fe187a1ba12bdccf6.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "bronze",
+          "recorded_status": "independent_content_candidate_pass_frame_QA_pending"
+        },
+        {
+          "path": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-白银-龙首入框-局修1.png",
+          "sha256": "1b917bd3565c6d18594eaaf86cbdcc8963e03c4b3158d430253fa74c87a9f418",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/1b917bd3565c6d18594eaaf86cbdcc8963e03c4b3158d430253fa74c87a9f418.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "silver",
+          "recorded_status": "dragon_frame_safe_local_QA_pending"
+        },
+        {
+          "path": "zhugeliang-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/诸葛亮-黄金-卧龙升阶入框-局修1.png",
+          "sha256": "41656e71ae3394bc61c80082a1053770d69139aa2a0ff0666a7475f454b396a1",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/41656e71ae3394bc61c80082a1053770d69139aa2a0ff0666a7475f454b396a1.png",
+          "status": "current_UI_input_candidate_review_separate",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "rank": "gold",
+          "recorded_status": "dragon_frame_safe_local_QA_pending"
+        }
+      ],
+      "status_boundary": "Previous content-QA pass applies only to the reviewed source hash; new safe-area source versions and final composite coverage need their own review."
+    },
+    "guanyu": {
+      "sources": [
+        {
+          "path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+          "status": "QA_pass_candidate",
+          "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+          "asset_id": "blackiron",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25.png",
+          "qa_status": "candidate_passed"
+        },
+        {
+          "path": "guanyu-mythic-set/bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+          "status": "QA_pass_candidate",
+          "sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+          "asset_id": "bronze",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9.png",
+          "qa_status": "candidate_passed"
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+          "status": "QA_pass_candidate",
+          "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+          "asset_id": "silver",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117.png",
+          "qa_status": "candidate_passed"
+        },
+        {
+          "path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/gold-tail-reflection-local-20261018_184748.png",
+          "status": "NOT_PASS_tail_speckle_residual_stop_edits",
+          "sha256": "9929959f4a2965184aa10e16b833ea63b2ed75d84a1802c900fe02f4e3002fd5",
+          "asset_id": "gold",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/9929959f4a2965184aa10e16b833ea63b2ed75d84a1802c900fe02f4e3002fd5.png",
+          "qa_status": "failed_tail_speckles"
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+          "status": "QA_pass_candidate",
+          "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+          "asset_id": "peach",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68.png",
+          "qa_status": "candidate_passed",
+          "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa",
+          "library_version": 6,
+          "receipt_source": "guanyu-mythic-set/redraw_delivery_20261018_184450_UTC+08/results-approved-stories.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+          "status": "QA_pass_candidate",
+          "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+          "asset_id": "assembly",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95.png",
+          "qa_status": "candidate_passed",
+          "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+          "library_version": 10,
+          "receipt_source": "guanyu-mythic-set/redraw_delivery_20261018_184450_UTC+08/results-wine.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+          "status": "QA_pass_candidate",
+          "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+          "asset_id": "escort",
+          "hero_id": "guanyu",
+          "source_sha256_verified": true,
+          "source_qa_state": "technical_candidate_pass",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0.png",
+          "qa_status": "candidate_passed",
+          "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff",
+          "library_version": 7,
+          "receipt_source": "guanyu-mythic-set/redraw_delivery_20261018_184450_UTC+08/results-approved-stories.json",
+          "library_save_only": true
+        }
+      ],
+      "ui_state": "saved_UI_candidates_gold_source_still_failed",
+      "user_final": false,
+      "ui_candidates": [
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/01-黑铁-新框完整UI候选1190.png",
+          "sha256": "882e701fadf0dcbb8ef318dc5285aee13f6a1ea0151502654d8180c5550f74a8",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/882e701fadf0dcbb8ef318dc5285aee13f6a1ea0151502654d8180c5550f74a8.png",
+          "ui_status": "saved_UI_candidates_gold_source_still_failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_b84c93255d3c81918e68529381b858fb",
+          "library_version": 3,
+          "receipt_source": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/02-青铜-新框完整UI候选1190.png",
+          "sha256": "f136b02f8ce653cb5599c4afef08421231837961e8623dd65c0d74a69db2a011",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/f136b02f8ce653cb5599c4afef08421231837961e8623dd65c0d74a69db2a011.png",
+          "ui_status": "saved_UI_candidates_gold_source_still_failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_e6b55ac6c5b08191b030feb7e4548179",
+          "library_version": 4,
+          "receipt_source": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/03-白银-新框完整UI候选1190.png",
+          "sha256": "07cbbf67c320fb34cb55d05df2c6a8628d4d562bd6e7c64637e2054ef50f48b1",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/07cbbf67c320fb34cb55d05df2c6a8628d4d562bd6e7c64637e2054ef50f48b1.png",
+          "ui_status": "saved_UI_candidates_gold_source_still_failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_9c8f6e5111008191a99059d361e2fd59",
+          "library_version": 4,
+          "receipt_source": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/04-黄金-新框完整UI候选1190.png",
+          "sha256": "4050a73201d789295d6b5a119f1ae7d1e60a35324c30ff6c3cbecf0cff303584",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/4050a73201d789295d6b5a119f1ae7d1e60a35324c30ff6c3cbecf0cff303584.png",
+          "ui_status": "saved_UI_candidates_gold_source_still_failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+          "library_version": 4,
+          "receipt_source": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/upload-results.json",
+          "library_save_only": true
+        },
+        {
+          "path": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/四阶新框完整UI-候选总览.png",
+          "sha256": "d25a0efe8aba259cd06db5c64b5fb3d9028278b68b39358d49b7c9cf405f4827",
+          "archive_repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/d25a0efe8aba259cd06db5c64b5fb3d9028278b68b39358d49b7c9cf405f4827.png",
+          "ui_status": "saved_UI_candidates_gold_source_still_failed",
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "library_file_id": "libfile_24c286b558f48191af036ed99c1443a3",
+          "library_version": 4,
+          "receipt_source": "guanyu-mythic-set/frame_reference_rebuild_20261018_185145_UTC+08/upload-results.json",
+          "library_save_only": true
+        }
+      ]
+    },
+    "caocao": {
+      "sources": [
+        {
+          "path": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+          "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53.png",
+          "status": "technical_identity_candidate_pass_root_accepted_not_user_final",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "hero": "caocao",
+          "asset": "blackiron",
+          "qa_status": "technical_identity_candidate_pass_root_accepted_not_user_final"
+        }
+      ],
+      "ui_state": "not_composed",
+      "user_final": false,
+      "manifest_sources": [
+        "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/manifest.json"
+      ],
+      "review_status": "technical_identity_candidate_pass_root_accepted_not_user_final",
+      "identity_basis": "Root and independent reviewer accepted first source as identity baseline; not user approval. Use manifest qa_review rather than earlier observations marked pending."
+    },
+    "dianwei": {
+      "sources": [
+        {
+          "path": "dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/典韦-黑铁-山涧巨影-身份候选1.png",
+          "sha256": "a9ce7cfc1d066ea9c66d4c2c1b84dbabb20c2b6da8503e206fb4c9d6755c8c83",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/a9ce7cfc1d066ea9c66d4c2c1b84dbabb20c2b6da8503e206fb4c9d6755c8c83.png",
+          "status": "generated_identity_candidate_UI_safety_failures_pending_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "hero": "dianwei",
+          "asset": "blackiron",
+          "qa_status": "generated_identity_candidate_UI_safety_failures_pending_review"
+        }
+      ],
+      "ui_state": "not_composed",
+      "user_final": false,
+      "manifest_sources": [
+        "dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/manifest.json"
+      ],
+      "review_status": "generated_identity_candidate_UI_safety_failures_pending_review",
+      "review_note": "Producer detected hand/deer UI-safe-area failures. Preserve diagnostic evidence; do not record as approved identity or final framed card."
+    },
+    "zhangliao": {
+      "sources": [
+        {
+          "path": "zhangliao-set/blackiron_identity_2026-10-18_20-43-55_UTC+08/张辽-黑铁-v1-濮阳横锋身份候选.png",
+          "sha256": "8cab05e382d9cb8c8747e956849d28b39eec6e4c327dcd6b95cced34a89acf7b",
+          "native_size": [
+            1024,
+            1536
+          ],
+          "archive_repository_path": "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates/assets/sha256/8cab05e382d9cb8c8747e956849d28b39eec6e4c327dcd6b95cced34a89acf7b.png",
+          "status": "generated_identity_candidate_pending_review",
+          "source_sha256_verified": true,
+          "user_final": false,
+          "delivery_state": "not_confirmed_for_current_version",
+          "hero": "zhangliao",
+          "asset": "blackiron",
+          "qa_status": "generated_identity_candidate_pending_review"
+        }
+      ],
+      "ui_state": "not_composed",
+      "user_final": false,
+      "manifest_sources": [],
+      "review_status": "generated_identity_candidate_pending_review"
+    }
+  },
+  "note": "Independent source QA, root UI review, Library saving, user final acceptance and actual delivery are separate dimensions.",
+  "newer_revisions_awaiting_independent_or_root_decision": [],
+  "superseded_candidate_records": [
+    {
+      "hero": "liubei",
+      "asset": "bronze",
+      "path": "liubei-set/bronze_pair_2026-10-18_19-08-45_UTC+08/刘备-青铜-v1-聚义护众候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "87974332bce7a72a6ef8d21b19e4490468953572f3b5bc83260a28277cac2e56",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "silver",
+      "path": "liubei-set/silver_2026-10-18_19-09-20_UTC+08/刘备-白银-煮酒藏锋-候选1.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "27518ed894116121a3aa6d7ef15274563ac3c853cd08aa9fef0e8a8c8c9b8e36",
+      "qa_status": "candidate_passed",
+      "residual_or_scope": ""
+    },
+    {
+      "hero": "liubei",
+      "asset": "gold",
+      "path": "liubei-set/gold-coronation_2026-10-18_19-10-12_UTC+08/刘备-黄金-汉中王礼成-候选1-2026-10-18_19-10-12_UTC+08.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "7adb15ed85818e263d0951c8160b84828086221e07f600bc5fa3bb6bf0dc3c84",
+      "qa_status": "candidate_passed_frame_pending",
+      "residual_or_scope": "Dragon touches top/right image boundary; verify final frame coverage.",
+      "superseded_by": "liubei-set/gold-royal-regalia-local_2026-10-18_19-42-09_UTC+08/刘备-黄金-汉中王礼冠礼服-局修1-2026-10-18_19-42-09_UTC+08.png"
+    },
+    {
+      "hero": "huangzhong",
+      "asset": "blackiron",
+      "path": "huangzhong-set/blackiron_identity_2026-10-18_19-31-29_UTC+08/黄忠-黑铁-v1-长沙老将身份候选.png",
+      "width": 1024,
+      "height": 1536,
+      "sha256": "0ee552ecd9a8a9f88c8198118726d7b76d83d10e8800923f458ebf92f732e744",
+      "qa_status": "not_passed",
+      "residual_or_scope": "Lower bowstring fails to meet visible lower bow tip; excessive cross-material distress.",
+      "superseded_by": "huangzhong-set/blackiron_repose_2026-10-18_19-53-53_UTC+08/黄忠-黑铁-v3-外侧持弓重构候选.png"
+    },
+    {
+      "hero": "machao",
+      "asset": "story_gold",
+      "path": "machao-set/story-lihui_2026-10-18_20-21-02_UTC+08/马超-银金传记-雾开有归-候选1-2026-10-18_20-21-02_UTC+08.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "c9522ae554b6d119bcab604504e7d505f8fb58daecee75c29cf9930642194782",
+      "qa_status": "structure_passed_material_pending",
+      "residual_or_scope": "Low-contrast random pale points on hanging red cloth x1150–1290,y690–850; local correction pending.",
+      "superseded_by": "machao-set/story-redcloth-local_2026-10-18_20-38-35_UTC+08/马超-银金传记-雾开有归-红布净点1-2026-10-18_20-38-35_UTC+08.png"
+    },
+    {
+      "hero": "pangtong",
+      "asset": "story_silver",
+      "path": "pangtong-set/silver-pair_2026-10-18_20-24-02_UTC+08/庞统-铜银传记-耒阳理事-候选1.png",
+      "width": 1536,
+      "height": 1024,
+      "sha256": "b80bf375fa8dc044490b8bb98ae8fcb41474938c3a17f951ea7f1c12ac6cb00c",
+      "qa_status": "structure_passed_foreground_decision_pending",
+      "residual_or_scope": "Foreground petitioner occupies lower-right ~1/3 and is soft; root decision pending.",
+      "superseded_by": "pangtong-set/silver-biography-foreground_2026-10-18_20-37-23_UTC+08/庞统-铜银传记-前景陈情人局修-候选1.png"
+    }
+  ],
+  "native_dimensions": {
+    "card_source": [
+      1024,
+      1536
+    ],
+    "story_source": [
+      1536,
+      1024
+    ],
+    "UI_canvas": [
+      1190,
+      1786
+    ]
+  },
+  "resolution_note": "Source pixels, frame interpolation and UI canvas size are separate. No native 4K claim.",
+  "historical_statuses": "Preserved in prior immutable snapshots; current candidates do not inherit historical final approval or delivery.",
+  "root_UI_review_reported": {
+    "huangzhong": "Root inspected overview at 20:39 UTC+08 and passed it as a candidate.",
+    "zhaoyun": "Bronze and gold dragon heads are blocked by the right star column; local safe-area corrections needed.",
+    "zhugeliang": "Silver and gold dragon heads are blocked by the right star column; local safe-area corrections needed.",
+    "machao": "Silver rear grip is blocked by frame; gold UI covers nose/mouth. Adjust required.",
+    "pangtong": "Silver-story foreground correction exists and awaits review; do not regenerate a duplicate."
+  },
+  "unreviewed_in_progress_variants": "Ma blackiron/silver/gold safe-area variants remain in production; current content pass does not transfer to unseen new versions."
+}

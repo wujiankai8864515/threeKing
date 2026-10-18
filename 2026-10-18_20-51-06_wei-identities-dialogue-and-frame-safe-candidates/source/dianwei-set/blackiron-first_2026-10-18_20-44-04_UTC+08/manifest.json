@@ -1,0 +1,204 @@
+{
+  "hero_id": "dianwei",
+  "asset_id": "dianwei_card_1_identity_candidate1",
+  "rank": "blackiron",
+  "status": "identity/hand structure passed independent candidate; actual deer star overlap unresolved; root/style decision pending",
+  "generated_with": "builtin image_gen one candidate",
+  "source_generated": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a1729fe4-d7cf-45d7-a8aa-fef081323e65.png",
+  "output": {
+    "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/典韦-黑铁-山涧巨影-身份候选1.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "sha256": "a9ce7cfc1d066ea9c66d4c2c1b84dbabb20c2b6da8503e206fb4c9d6755c8c83"
+  },
+  "actual_inputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+      "role": "STYLE ONLY clean broad planar painting and material separation; explicitly exclude Zhang Fei face/body/hair/beard/tiger/shop/pose",
+      "size": [
+        1024,
+        1536
+      ],
+      "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+      "actually_viewed_before_generation": true,
+      "identity": "new original Dian Wei from text WEI-DW-identity-text-v1, NOT an already approved face"
+    }
+  ],
+  "identity": "new original Dian Wei candidate, not approved reference yet",
+  "prompt": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/prompt.txt",
+  "qa": {
+    "face": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/face-native100.png",
+      "box": [
+        400,
+        195,
+        610,
+        430
+      ],
+      "scale": "native100% no resize"
+    },
+    "rear-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/rear-hand-native100.png",
+      "box": [
+        0,
+        440,
+        145,
+        590
+      ],
+      "scale": "native100% no resize"
+    },
+    "front-hand": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/front-hand-native100.png",
+      "box": [
+        510,
+        650,
+        715,
+        835
+      ],
+      "scale": "native100% no resize"
+    },
+    "front-arm": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/front-arm-native100.png",
+      "box": [
+        525,
+        375,
+        780,
+        755
+      ],
+      "scale": "native100% no resize"
+    },
+    "landing-foot": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/landing-foot-native100.png",
+      "box": [
+        315,
+        1030,
+        600,
+        1320
+      ],
+      "scale": "native100% no resize"
+    },
+    "trailing-foot": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/trailing-foot-native100.png",
+      "box": [
+        50,
+        850,
+        225,
+        1090
+      ],
+      "scale": "native100% no resize"
+    },
+    "deer": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/deer-native100.png",
+      "box": [
+        790,
+        340,
+        1024,
+        750
+      ],
+      "scale": "native100% no resize"
+    },
+    "cloth": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/cloth-native100.png",
+      "box": [
+        95,
+        385,
+        580,
+        930
+      ],
+      "scale": "native100% no resize"
+    },
+    "water-rock": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/water-rock-native100.png",
+      "box": [
+        0,
+        1020,
+        1024,
+        1485
+      ],
+      "scale": "native100% no resize"
+    },
+    "right-rock": {
+      "path": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/right-rock-native100.png",
+      "box": [
+        600,
+        780,
+        1024,
+        1200
+      ],
+      "scale": "native100% no resize"
+    }
+  },
+  "ui_safety": {
+    "requested_key_rect": [
+      200,
+      150,
+      790,
+      850
+    ],
+    "reserved_rectangles": [
+      [
+        0,
+        0,
+        180,
+        220
+      ],
+      [
+        830,
+        0,
+        1024,
+        650
+      ],
+      [
+        720,
+        900,
+        1024,
+        1160
+      ]
+    ],
+    "observed_rear_hand_rect": [
+      15,
+      465,
+      110,
+      565
+    ],
+    "rear_hand_inside_required_key_rect": false,
+    "observed_deer_head_rect": [
+      875,
+      350,
+      1024,
+      520
+    ],
+    "deer_head_intersects_right_star_area": true,
+    "diagnostic": "/workspace/scratch/3f82ff2b3f81/dianwei-set/blackiron-first_2026-10-18_20-44-04_UTC+08/qa/ui-safe-zone-diagnostic-native.png",
+    "note": "diagnostic rectangles only, never input to generator or final pure image",
+    "independent_actual_frame_note": "rear hand visible inside frozen blackiron frame despite missing conservative safe rectangle; deer head actually star-occluded"
+  },
+  "creative_postprocessing": "none; generated PNG copied unmodified",
+  "resize_count": 0,
+  "delivery": "not uploaded",
+  "creator_review": {
+    "time_UTC08": "2026-10-18 20:49 UTC+08",
+    "full_image": true,
+    "all_native_crops": true,
+    "ui_overlay": true,
+    "findings": [
+      "完整图、10个原生100%区与UI只读矩形诊断已实际view。当前仅新原创身份候选，不可扩六或称最终通过。",
+      "宽方脸、短粗须、紧小发髻、厚躯土褐皮束形成区别张飞的方向；张图仅实际画法参考，身份尚需root认可，不能称已经锁脸。",
+      "两臂两手、两腿可读，前手五指结构与后手屈指未见新增硬伤；前靴落宽石前缘、后靴离水轨迹可解释。无兵器与坐骑，本样不适用长杆直轴。",
+      "逐鹿而非逐虎，鹿活着向坡上逃跑；人体往右前方跨涧，鹿背景上坡，方向关联尚可读。",
+      "UI门槛失败：后摆手位于x15..110,y465..565，在要求x200..790,y150..850之外；鹿头x875..1024,y350..520压入右星栏。主脸和前手在安全区。右下被动区是石树背景，左上徽区无主脸手。",
+      "布服与皮肤主体未见跨材质随机黄金针点，肌肉大面明显；皮肤细线较多近血管/石纹，未形成明确仅两条暗纹设计。",
+      "溪石草叶和水花偏摄影精细，白水细网与大量小滴集中水域，有物理来源却不够清爽二次元宽面；作为风格残项明确交root/audit，不能拿水花依据当全部材质已过。",
+      "神话祖影没有完整显像，符合一级克制；没有虎、火鸟或无关神兽。没有魏字旗或UI烘焙。"
+    ]
+  },
+  "independent_review": {
+    "reviewer": "audit_image_quality_causes",
+    "received_at": "2026-10-18 20:49 UTC+08",
+    "result": "identity/hand structure passed technical candidate; deer actual frame overlap requires root decision",
+    "finding": "冻结黑框只读诊断显示左后手仍框内，不能只因未落保守x200..790便强改人物；右鹿头确被星栏遮，建议仅内收鹿。水/苔石偏写实，亮点在水湿石有依据非跨面金粉，风格由root裁。"
+  }
+}

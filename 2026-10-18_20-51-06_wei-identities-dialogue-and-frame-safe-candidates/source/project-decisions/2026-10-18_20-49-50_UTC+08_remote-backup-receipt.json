@@ -1,0 +1,10 @@
+{
+  "verified_at": "2026-10-18T20:49:50+08:00",
+  "repository": "https://github.com/wujiankai8864515/threeKing",
+  "commit": "03a16550e42911850671af837d36bca2709ef961",
+  "restorable_paths": 2783,
+  "independent_remote_download": true,
+  "git_lfs_fsck": "OK",
+  "sequential_restore_sha256": "PASS",
+  "coverage": "20:42 batch plus20:45 story QA closure; later candidates pending next archive"
+}

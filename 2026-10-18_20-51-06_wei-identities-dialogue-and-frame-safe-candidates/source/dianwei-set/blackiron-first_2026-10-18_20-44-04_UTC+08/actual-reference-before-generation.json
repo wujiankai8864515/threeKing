@@ -1,0 +1,11 @@
+{
+  "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/blackiron-local_20261018_184952_UTC+08/张飞-黑铁-潜虎净衣-局修1.png",
+  "role": "STYLE ONLY clean broad planar painting and material separation; explicitly exclude Zhang Fei face/body/hair/beard/tiger/shop/pose",
+  "size": [
+    1024,
+    1536
+  ],
+  "sha256": "08c3d9cc6ac8bfb45e6ae5ee7027557d54974fd20cf0e673fe45e34ddb43eec3",
+  "actually_viewed_before_generation": true,
+  "identity": "new original Dian Wei from text WEI-DW-identity-text-v1, NOT an already approved face"
+}

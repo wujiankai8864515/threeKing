@@ -1,0 +1,35 @@
+{
+  "hero": "caocao",
+  "slot": "blackiron",
+  "method": "builtin_image_gen",
+  "source_event": "Romance chapter 4 offering knife; original costume/face proposal",
+  "source": "caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+  "sha256": "915be557b9f0b25ba94aad3f2396746d292327a5d2875322d279656779ec8e53",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "actual_reference_files": [
+    {
+      "path": "liubei-set/blackiron_redraw_20261018_190120_UTC+08/刘备-黑铁-v2-清爽神话重绘候选.png",
+      "sha256": "cf828bb0f2918c6802a90243c1a60b7ee6076211078a4a27ba0c79fda7cc7b3e",
+      "role": "style/material only, not identity"
+    }
+  ],
+  "generated_original": "generated_images/exec-a941da24-38e6-4b83-ba69-397f6b93549e.png",
+  "prompt": "prompt.txt",
+  "status": "technical_identity_candidate_pass",
+  "user_approved": false,
+  "delivery_receipt": null,
+  "observations": [
+    "Sheathed treasured knife safely supported, no exposed blade contact.",
+    "Compact black/rust-red robe and small blue knot; no advanced sky beast.",
+    "Low contrast cloth texture present; independent material check pending.",
+    "Background Dong Zhuo alive, softened. Main knife toward right while seated lord behind; stylized presentation composition, not literal continuous staging."
+  ],
+  "qa_review": {
+    "at": "2026-10-18T20:47:39+08:00",
+    "independent": "Hands support and straight sheathed knife pass; low-contrast cloth wear accepted as current candidate style. Face distinction from Liu Bei medium, root accepted as production identity baseline.",
+    "user_final": false
+  }
+}

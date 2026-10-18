@@ -1,0 +1,22 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-黑铁-淡狼内收候选-2026-10-18_20-44-50_UTC+08.png",
+    "status": "framing_candidate_pending_root_selection",
+    "source_sha256": "129ee80a2c92a60c70e3175a304e00a23972a116f49821976129ae947131f6a5"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/bronze_pair_2026-10-18_19-41-20_UTC+08/马超-青铜-潼关怒骑-候选1.png",
+    "status": "parent_selected_latest_candidate_not_user_final",
+    "source_sha256": "26d50583ee4be93926944ba409f9628633f6a59cb0241537d1691a1c9e0850f7"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/frame-safe-local_2026-10-18_20-44-50_UTC+08/马超-白银-后握内收候选-2026-10-18_20-44-50_UTC+08.png",
+    "status": "framing_candidate_pending_independent_review",
+    "source_sha256": "e0d9361f14354d018cf29d7e1a312c59db2cdf0ddaa200104f5571bb1669de0f"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/machao-set/gold-cloak-local_2026-10-18_20-26-20_UTC+08/马超-黄金-归蜀定锋-左披风净点1-2026-10-18_20-26-20_UTC+08.png",
+    "status": "local_material_independent_pass_candidate_not_user_final",
+    "source_sha256": "05b80c13dddb9a1860e34aeea55f514c10b4ccbcb8fcc6dd22e408606a3bb202"
+  }
+}

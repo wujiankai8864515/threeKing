@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+    "status": "root_and_independent_content_candidate_pass_frame_QA_pending"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-青铜-龙首入框-局修1.png",
+    "status": "dragon_frame_safe_local_QA_pending"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/silver_rescue_2026-10-18_19-38-48_UTC+08/赵云-白银-v1-长坂扶危候选.png",
+    "status": "root_and_independent_content_candidate_pass_frame_QA_pending"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/dragon_frame_safe_2026-10-18_20-40-00_UTC+08/赵云-黄金-龙首入框-局修1.png",
+    "status": "dragon_frame_safe_local_QA_pending"
+  }
+}

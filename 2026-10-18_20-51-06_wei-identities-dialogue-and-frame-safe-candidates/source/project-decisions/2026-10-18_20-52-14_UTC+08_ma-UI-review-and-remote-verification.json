@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-18T20:52:14.108030+08:00",
+  "reported_review_time": "2026-10-18T20:50+08:00",
+  "time_precision": "minute",
+  "reviewed_directory": "machao-set/ui_framesafe_2026-10-18_20-46-25_UTC+08",
+  "reviewer": "production lead",
+  "status": "root_visual_coverage_pass_candidate_not_user_final",
+  "findings": [
+    "Blackiron wolf eyes/nose/mouth readable.",
+    "Silver two grips readable.",
+    "Gold complete horse mouth readable.",
+    "Lowest passive bar does not obscure troop-type icon; allowed."
+  ],
+  "independent_review": "Separate source and exact-composite review status must not be inferred from this root review.",
+  "new_art_delivery_confirmed": false,
+  "remote_verified_commit": "03a16550e42911850671af837d36bca2709ef961",
+  "remote_verified_paths": 2783
+}
