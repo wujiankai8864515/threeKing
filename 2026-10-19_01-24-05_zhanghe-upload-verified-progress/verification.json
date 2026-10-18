@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T01:24:05.964143+08:00",
+  "verified_asset_commit": "d8ffe2104d3c8316adc980111b5968b8de6c0d84",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 6985,
+  "sequential_copy_sha256_checked": true,
+  "hero": "zhanghe",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
