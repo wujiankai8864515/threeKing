@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates/asset-index.json",
+  "asset_index": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Zhao Yun seven candidates ready; Ma Chao and Pang Tong verified. 21 retained plus 21 new ready candidates, not 280 completed images.",
-  "latest_delta": "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates",
-  "current_status": "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates/status-overrides.json",
+  "note": "Jiang Wei seven candidates ready. 21 retained plus 28 new ready candidates = 49; not 280 completed images.",
+  "latest_delta": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates",
+  "current_status": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -39,7 +39,8 @@
     "2026-10-19_00-36-49_complete-37-hero-research-pack",
     "2026-10-19_00-44-18_machao-seven-remake-candidates",
     "2026-10-19_00-49-05_pangtong-seven-remake-candidates",
-    "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates"
+    "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates",
+    "2026-10-19_00-58-41_jiangwei-seven-remake-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -89,7 +90,8 @@
     "2026-10-19_00-36-49_complete-37-hero-research-pack",
     "2026-10-19_00-44-18_machao-seven-remake-candidates",
     "2026-10-19_00-49-05_pangtong-seven-remake-candidates",
-    "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates"
+    "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates",
+    "2026-10-19_00-58-41_jiangwei-seven-remake-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -106,7 +108,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_00-52-51_zhaoyun-upload-verified-progress/verification.json",
-  "effective_source_map": "2026-10-19_00-51-11_zhaoyun-seven-remake-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_00-52-51_zhaoyun-upload-verified-progress/production-progress.json"
+  "remote_verification_receipt": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_00-58-41_jiangwei-seven-remake-candidates/production-progress.json"
 }

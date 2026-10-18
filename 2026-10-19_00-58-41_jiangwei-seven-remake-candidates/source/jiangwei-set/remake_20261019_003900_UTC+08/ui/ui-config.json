@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "姜维",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "识阵",
+        "level": "+1"
+      }
+    ],
+    "status": "姜维技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "姜维",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "识阵",
+        "level": "+1"
+      }
+    ],
+    "status": "姜维技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "姜维",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "识阵",
+        "level": "+2"
+      },
+      {
+        "name": "继志",
+        "level": "+2"
+      }
+    ],
+    "status": "姜维技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "姜维",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "识阵",
+        "level": "+3"
+      },
+      {
+        "name": "继志",
+        "level": "+3"
+      },
+      {
+        "name": "整旅",
+        "level": "+3"
+      }
+    ],
+    "status": "姜维技能草案，单关键效果，候选待审"
+  }
+}

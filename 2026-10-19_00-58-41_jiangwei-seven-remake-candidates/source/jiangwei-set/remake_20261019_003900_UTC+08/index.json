@@ -1,0 +1,84 @@
+{
+  "hero": "姜维",
+  "status": "candidate_awaiting_user",
+  "tool": "built-in image_gen",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-01-黑铁-天水识阵.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "7c29ec64196b823f44805aa49fbd6458a4d4771c3b4315be434c2eb29774acad"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-02-青铜-择途归蜀.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "5ea6200c945b690e4fbfe74c9d86bf6e98127872d5f7b1312dce2ee0867cbd3b"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-03-白银-灯下承书.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "9038eec614cbce8327d9910a5867850a55584f549908db28417214b070c879a1"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-04-黄金-洮西返阵.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "f354b5459dc55e75f014b2a29e7787b919a3d3f063d2e952383afd8383cd49c6"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-05-传记-山路受知.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "ae93b6723ac9ca699a15ab1a6a71169a3c6f875b6e8c851ffcf7b3f7ee2efa9a"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-06-传记-一卷千钧.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "f914b1e74b8cfd06c1df88e82ac3b08f6bfb559fc9753c5cd6312e1f7e543c69"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/candidates/姜维-07-传记-背水回锋.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "70f045f6d679018ad4d33fecd144eba336126422e368441044904773b36340f8"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/jiangwei-set/remake_20261019_003900_UTC+08/姜维-全套七图总览.png",
+      "size": [
+        1800,
+        1460
+      ],
+      "sha256": "ea1de932c6729b3049561c1d5aa1e68424114882a683b77603d6504ac209cb0e"
+    }
+  ],
+  "mythic": "玄甲麒麟为原创艺术解释，非史实/原著神兽",
+  "chronology": "收藏四阶统一蜀，黑铁事件服属魏；青铜归蜀；白银承书；黄金洮西胜利，不宣称狄道攻克或北伐完成",
+  "skills_draft": {
+    "主动 破阵": "对指定一敌作一次枪击",
+    "识阵": "对被标记目标主动伤害提高",
+    "继志": "释放主动后恢复自身少量能量",
+    "整旅": "相邻友军防御提高"
+  },
+  "failures": [
+    "card01-too-photographic.png：初版偏写实，使用认可关羽风格定向重绘",
+    "card02-zhuge-too-old.png：青铜诸葛亮过老，定向修改为中年黑发须"
+  ],
+  "qa": "逐图已查看；脸骨相稳定，持枪长杆直线贯通，传记03双手分握与武器贯通；银阶双手承卷；远景降对比；无金粉。黄金仍为战马，麒麟为后方权能。"
+}

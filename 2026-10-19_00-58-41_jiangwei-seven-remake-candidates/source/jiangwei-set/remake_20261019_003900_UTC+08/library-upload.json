@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-01-黑铁-天水识阵.png",
+      "file_id": "file_00000000a0708230a6e2b3520c746192",
+      "library_file_id": "libfile_e495050d3de8819193789967e3f5452d",
+      "file_name": "姜维-01-黑铁-天水识阵.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3620464
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-02-青铜-择途归蜀.png",
+      "file_id": "file_00000000e9a0820cb783ce5ffcf90f9a",
+      "library_file_id": "libfile_4f30d2e66b84819180325255e3e077aa",
+      "file_name": "姜维-02-青铜-择途归蜀.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3730844
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-03-白银-灯下承书.png",
+      "file_id": "file_000000001b9881f8bba89afd5995b113",
+      "library_file_id": "libfile_2d060b51089c819181d77806c1177206",
+      "file_name": "姜维-03-白银-灯下承书.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3395959
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-04-黄金-洮西返阵.png",
+      "file_id": "file_000000001b3481f8884c593c21cad7e1",
+      "library_file_id": "libfile_f3f6d64ae5ec81919baf38e492391d60",
+      "file_name": "姜维-04-黄金-洮西返阵.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4008222
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-05-传记-山路受知.png",
+      "file_id": "file_00000000d92881f482454ccb9e3b19b5",
+      "library_file_id": "libfile_4fda8f09ceb48191a5c24a0adc635f89",
+      "file_name": "姜维-05-传记-山路受知.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2993101
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-06-传记-一卷千钧.png",
+      "file_id": "file_00000000e30081f886a0ba507016ab07",
+      "library_file_id": "libfile_f6756477672481918929b9a9a8c919c8",
+      "file_name": "姜维-06-传记-一卷千钧.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2550865
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-07-传记-背水回锋.png",
+      "file_id": "file_000000000fd881fdb9fe73028e7f690b",
+      "library_file_id": "libfile_cd179cb636b8819191acfdb7bba089f1",
+      "file_name": "姜维-07-传记-背水回锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3052281
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/姜维-全套七图总览.png",
+      "file_id": "file_0000000035cc81fdac83c60ce028a1b6",
+      "library_file_id": "libfile_b555a2e63ae48191add73319fda7a180",
+      "file_name": "姜维-全套七图总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3583470
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
