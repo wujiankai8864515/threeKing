@@ -1,0 +1,81 @@
+{
+  "old": "guanyu-mythic-set/gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+  "old_sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+  "new_user_rejected": "guanyu-mythic-set/gold_grip_coaxial_2026-10-18_22-52-17_UTC+08/关羽-黄金-握点共轴精修-候选1.png",
+  "new_sha256": "f8c58bf928a52a8955f5f9607b17da11d57300acb4524c17a1c38178d7795c42",
+  "metrics_unregistered_native": {
+    "hoof": {
+      "box": [
+        500,
+        885,
+        750,
+        1220
+      ],
+      "changed_pixel_percent": 99.9367,
+      "mean_absolute_RGB_difference": 12.12
+    },
+    "human-armor-face": {
+      "box": [
+        410,
+        180,
+        710,
+        520
+      ],
+      "changed_pixel_percent": 99.9422,
+      "mean_absolute_RGB_difference": 17.472
+    },
+    "horse-armor": {
+      "box": [
+        640,
+        395,
+        850,
+        850
+      ],
+      "changed_pixel_percent": 99.9487,
+      "mean_absolute_RGB_difference": 15.845
+    },
+    "tail": {
+      "box": [
+        0,
+        430,
+        480,
+        800
+      ],
+      "changed_pixel_percent": 99.9859,
+      "mean_absolute_RGB_difference": 13.213
+    },
+    "dragon": {
+      "box": [
+        510,
+        50,
+        880,
+        370
+      ],
+      "changed_pixel_percent": 99.9789,
+      "mean_absolute_RGB_difference": 15.312
+    }
+  },
+  "note": "Pixel difference includes resynthesis/color/edge shifts; percent alone does not prove a semantic change. Visual native QA required.",
+  "verified_prior_delivery": {
+    "ui": "guanyu-mythic-set/ui-tail-approved_2026-10-18_21-07-54_UTC+08/04-黄金-新框完整UI候选1190.png",
+    "ui_sha256": "a35861b32c809334c8f0c5c8d643942a89f62197c3d47bf11edd5831b6ae1261",
+    "ui_sha256_matches_old_index": true,
+    "source_sha256_matches_old_manifest": true,
+    "source_library_file_id": "libfile_cc0db89e91708191a7642645a734d79e",
+    "source_library_version": 0,
+    "ui_library_file_id": "libfile_4a2f157e25548191bb81a1a6b92fcb00",
+    "ui_library_version": 5,
+    "receipts": "ui-tail-approved_2026-10-18_21-07-54_UTC+08/upload-results.json"
+  },
+  "visual_findings": [
+    "Old source already has hoof-adjacent armor; do not claim it was wholly absent before.",
+    "Rejected candidate reinterprets armor edges/highlights, facial lighting, cloak and sleeve detail, horse tack, tail hair detail and dragon scales.",
+    "New candidate has generally brighter, softer rendering outside the weapon. Prior preservation judgment was too broad."
+  ],
+  "tool_fidelity": {
+    "current_builtin": "prompt + referenced images; no mask or outside-region pixel-lock parameter",
+    "strict_preservation_guaranteed_by_builtin_alone": false,
+    "proposed_only": "Generate a local long-shaft candidate, then composite only an explicitly bounded small shaft mask onto the verified old source; preserve original hand occlusion and verify identical pixels outside mask. Non-generative compositing permission and mask scope must be confirmed before execution.",
+    "generation_this_audit": false
+  }
+}

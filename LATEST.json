@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/asset-index.json",
+  "asset_index": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Only Guan Yu and Zhang Fei scoped revision candidates resumed; other production paused. Delivered does not mean accepted.",
-  "latest_delta": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions",
-  "current_status": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/status-overrides.json",
+  "note": "Latest rollback and frozen-source decisions override prior candidate delivery indexes. Guan Yu gold/wine reverted; bronze rejected; Liu Bei revisions resumed; method permission pending.",
+  "latest_delta": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources",
+  "current_status": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -31,7 +31,8 @@
     "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
     "2026-10-18_21-39-37_ongoing-wei-art-and-verification",
     "2026-10-18_21-58-20_ongoing-wei-art-and-verification",
-    "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions"
+    "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions",
+    "2026-10-18_23-28-37_rollback-feedback-and-locked-sources"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -73,7 +74,8 @@
     "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
     "2026-10-18_21-39-37_ongoing-wei-art-and-verification",
     "2026-10-18_21-58-20_ongoing-wei-art-and-verification",
-    "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions"
+    "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions",
+    "2026-10-18_23-28-37_rollback-feedback-and-locked-sources"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -90,5 +92,6 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-18_23-10-33_scoped-remote-recovery-verification/verification.json"
+  "remote_verification_receipt": "2026-10-18_23-10-33_scoped-remote-recovery-verification/verification.json",
+  "effective_source_map": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources/effective-source-map.json"
 }

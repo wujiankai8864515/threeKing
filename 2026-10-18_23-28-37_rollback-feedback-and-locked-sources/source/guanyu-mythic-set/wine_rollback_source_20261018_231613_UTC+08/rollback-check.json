@@ -1,0 +1,111 @@
+{
+  "rollback_source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+  "rollback_copy": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_rollback_source_20261018_231613_UTC+08/温酒请战-回退源-v13-原字节.png",
+  "size": [
+    1536,
+    1024
+  ],
+  "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+  "copy_sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+  "library_delivery": {
+    "library_file_id": "libfile_a5e842a5479c8191b9c3aa1ca17d0860",
+    "file_id": "file_00000000dca881f5898c9a12b014b506",
+    "version": 10,
+    "size_bytes": 3140808,
+    "verified_by": "Current Library search/read metadata, original upload success receipt, local xattrs v10 and unchanged local source SHA256"
+  },
+  "rejected_candidate": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_weapon_proportion_20261018_225159_UTC+08/温酒请战-v16-刀头比例局修候选.png",
+  "rejected_library_file_id": "libfile_919c4366c5308191b55f870de5a80057",
+  "status": "user_rejected v16 per root relay; restore v13 baseline; no new generation authorized in this diagnostic step",
+  "pixel_comparison_v13_v16": {
+    "full": {
+      "box": [
+        0,
+        0,
+        1536,
+        1024
+      ],
+      "changed_pixels_pct": 99.835,
+      "pixels_any_channel_delta_gt8_pct": 61.232,
+      "mean_absolute_channel_delta": 15.034
+    },
+    "GuanYu_face": {
+      "box": [
+        918,
+        100,
+        1032,
+        215
+      ],
+      "changed_pixels_pct": 99.809,
+      "pixels_any_channel_delta_gt8_pct": 56.461,
+      "mean_absolute_channel_delta": 10.426
+    },
+    "LiuBei_face": {
+      "box": [
+        128,
+        371,
+        181,
+        430
+      ],
+      "changed_pixels_pct": 99.68,
+      "pixels_any_channel_delta_gt8_pct": 56.284,
+      "mean_absolute_channel_delta": 11.897
+    },
+    "ZhangFei_face": {
+      "box": [
+        243,
+        407,
+        303,
+        467
+      ],
+      "changed_pixels_pct": 99.889,
+      "pixels_any_channel_delta_gt8_pct": 63.0,
+      "mean_absolute_channel_delta": 11.267
+    },
+    "CaoCao_face": {
+      "box": [
+        408,
+        443,
+        458,
+        493
+      ],
+      "changed_pixels_pct": 99.92,
+      "pixels_any_channel_delta_gt8_pct": 73.96,
+      "mean_absolute_channel_delta": 15.535
+    },
+    "weapon_arm": {
+      "box": [
+        565,
+        280,
+        823,
+        470
+      ],
+      "changed_pixels_pct": 99.988,
+      "pixels_any_channel_delta_gt8_pct": 90.694,
+      "mean_absolute_channel_delta": 61.561
+    },
+    "horse_face": {
+      "box": [
+        1000,
+        270,
+        1190,
+        481
+      ],
+      "changed_pixels_pct": 99.708,
+      "pixels_any_channel_delta_gt8_pct": 55.37,
+      "mean_absolute_channel_delta": 11.106
+    },
+    "background_camp": {
+      "box": [
+        0,
+        200,
+        515,
+        675
+      ],
+      "changed_pixels_pct": 99.926,
+      "pixels_any_channel_delta_gt8_pct": 67.86,
+      "mean_absolute_channel_delta": 13.364
+    }
+  },
+  "mask_capability": "Current built-in image_gen API exposes no mask parameter and cannot promise untouched pixels outside a weapon region. Prompt-only preservation is not pixel preservation."
+}

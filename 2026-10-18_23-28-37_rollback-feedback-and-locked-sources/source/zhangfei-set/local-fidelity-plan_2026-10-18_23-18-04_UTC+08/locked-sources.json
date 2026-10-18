@@ -1,0 +1,65 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card01-blackiron.png",
+    "sha256": "3f710f7862da7445dd7e19b5c2186b39dcef6493170dda6afb97ba4f3b41a284",
+    "size": [
+      1024,
+      1536
+    ],
+    "state": "base_locked_for_local_only"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "sha256": "28375ff8815ba13baa796c9a0093b523b6d88ab143c948c9efff2cd994fc9237",
+    "size": [
+      1024,
+      1536
+    ],
+    "state": "frozen"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/silver_20261018_185500_UTC+08/张飞-白银-虎牢扬威-候选1.png",
+    "sha256": "ac687a83d6b5eabeded71c53108e7d4505c2979c95cebbd574d15dbc62501064",
+    "size": [
+      1024,
+      1536
+    ],
+    "state": "base_locked_for_local_only"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card04-gold.png",
+    "sha256": "eb5e1b5db8e59ea74800680ae70dbd2926e82359cc0342322600dc048e376e65",
+    "size": [
+      1024,
+      1536
+    ],
+    "state": "base_locked_for_local_only"
+  },
+  "bio01": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+    "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8",
+    "size": [
+      1536,
+      1024
+    ],
+    "state": "frozen"
+  },
+  "bio02": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+    "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0",
+    "size": [
+      1536,
+      1024
+    ],
+    "state": "frozen"
+  },
+  "bio03": {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio04-dangyang-v2.png",
+    "sha256": "f832d7dee8826c03838fe294ff51bbf68d148f3e08bc0cc4ed670acdc605cb50",
+    "size": [
+      1536,
+      1024
+    ],
+    "state": "base_locked_for_local_only"
+  }
+}

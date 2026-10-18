@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-18T23:28:37.179627+08:00",
+  "previous_status": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/status-overrides.json",
+  "scope": "Guan Yu, Zhang Fei and Liu Bei revisions only; all other hero production paused.",
+  "current_summary": "Rollback sources locked after user rejection of full-image drift. Guan Yu silver accepted/frozen; bronze rebuild pending. Zhang Fei bronze and biographies 1/2 accepted/frozen. Liu Bei complete set revision in progress.",
+  "guanyu_gold_wine": "Weapon-only edits must use verified old sources; new gold chain and wine v16 rejected.",
+  "zhangfei_requested_changes": {
+    "blackiron": "Slight horizontal centering only",
+    "silver_gold": "Restrained weapon-tip light inspired by accepted biography 2",
+    "bio03": "Straighten spear terminal tip only; retain everything else"
+  },
+  "method_permission": {
+    "local_generation_plus_masked_compositing": "ASKED_NOT_APPROVED",
+    "pending_question_message": "Sentinel_fca3b0512f6881919ae1f2b2f0143c76"
+  },
+  "notification": "Notify together when all three sets are ready.",
+  "effective_source_map": "2026-10-18_23-28-37_rollback-feedback-and-locked-sources/effective-source-map.json",
+  "asset_backup_verification_baseline": "390642d43566ecb5d9312f7f1fa4136a9ae7fbc6",
+  "this_batch_remote_status": "See LATEST remote_verification_receipt for latest completed verification."
+}
