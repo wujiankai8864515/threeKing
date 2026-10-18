@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "貂蝉",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "察隙",
+        "level": "+1"
+      }
+    ],
+    "status": "貂蝉技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "貂蝉",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "察隙",
+        "level": "+1"
+      }
+    ],
+    "status": "貂蝉技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "群",
+    "title": "貂蝉",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "察隙",
+        "level": "+2"
+      },
+      {
+        "name": "持计",
+        "level": "+2"
+      }
+    ],
+    "status": "貂蝉技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "群",
+    "title": "貂蝉",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "察隙",
+        "level": "+3"
+      },
+      {
+        "name": "持计",
+        "level": "+3"
+      },
+      {
+        "name": "藏锋",
+        "level": "+3"
+      }
+    ],
+    "status": "貂蝉技能草案，单关键效果，候选待审"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "貂蝉",
+  "collection_faction": "群",
+  "faction_badge": "fixed purple four cards",
+  "adult_adaptation_age": 26,
+  "generator": "built-in image_gen",
+  "raw_count": 7,
+  "not_upscaled": true,
+  "card_ui": "native 1024x1536 art placed 1:1 into 1190x1786 frame; configurable independent frame and text layers",
+  "source": "https://zh.wikisource.org/zh/三國演義/第008回",
+  "mythology": "original lunar silver moth and split moon symbolism; not canonical spells",
+  "skills": "research/skills.json; proposed simple single effects",
+  "assets": [
+    {
+      "title": "庭月闻乱",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-card01-黑铁.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "delivery_dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "ec0a8e1b448f3d192f01d12d179864d070509c16bcdc9555bd8ba6d872f38ecd",
+      "target_stage": null,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "title": "席前定意",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-card02-青铜.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "delivery_dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "50352a5da40277053955b6873201c4e180137c748d30b3ce6113b3419168dc80",
+      "target_stage": null,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "title": "入府藏心",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-card03-白银.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "delivery_dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "a3318b083b02316dc2707410df815ab4a21db1777b93b9e835bf4d6979ff9e4b",
+      "target_stage": null,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "title": "凤亭裂盟",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-card04-黄金.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "delivery_dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "15cf1fe6729869c2fc073c217180c39932e109894812895305d107d6f7da76e2",
+      "target_stage": null,
+      "status": "candidate_awaiting_user_review",
+      "revision": "gold costume growth 20261019_022215"
+    },
+    {
+      "title": "画阁受计",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-bio01.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "delivery_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "0cc193f16db11554ed5f85acb3b3f4483a9ebf1205688ed13357e03fcc8e4733",
+      "target_stage": 2,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "title": "车帘隔旧门",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-bio02.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "delivery_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "f86a341cc9a015017cba3850cf983fb02d8d013a55b33f84e92eb40ad29cd3cc",
+      "target_stage": 3,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "title": "一柄戟转向",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/candidates/貂蝉-bio03.png",
+      "raw": "/workspace/scratch/3f82ff2b3f81/diaochan-set/remake_20261019_020550_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "delivery_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "2db5ef2b714e3609ff91d1c05526b302af8b41190c3a7c104e974ae7d256a2e6",
+      "target_stage": 4,
+      "status": "candidate_awaiting_user_review"
+    }
+  ],
+  "qa": {
+    "all_seven_viewed": true,
+    "all_four_composites_viewed": true,
+    "adult_face_and_natural_hands": true,
+    "no_UI_face_hand_overlap": true,
+    "no_photo_or_gold_dust": true,
+    "bio03_halberd_head_corrected": true,
+    "failures_retained": 2,
+    "remaining_review_notes": []
+  },
+  "library": [
+    {
+      "file_name": "貂蝉-card01-黑铁.png",
+      "library_file_id": "libfile_e9d0895bd0708191a628de3ea93a39e9"
+    },
+    {
+      "file_name": "貂蝉-card02-青铜.png",
+      "library_file_id": "libfile_c7bf542735ec8191b47f72efeb7a9a47"
+    },
+    {
+      "file_name": "貂蝉-card03-白银.png",
+      "library_file_id": "libfile_971ece96f5648191af78038f7ae1b6a0"
+    },
+    {
+      "file_name": "貂蝉-card04-黄金.png",
+      "library_file_id": "libfile_4e142a555c6c81918625d3817c75831b"
+    },
+    {
+      "file_name": "貂蝉-bio01.png",
+      "library_file_id": "libfile_05b1cc399c108191a859cf10c779d26b"
+    },
+    {
+      "file_name": "貂蝉-bio02.png",
+      "library_file_id": "libfile_9780c47a3c448191ac996b9d3ee5d565"
+    },
+    {
+      "file_name": "貂蝉-bio03.png",
+      "library_file_id": "libfile_af5e793edeb481919b87443815fe1f7c"
+    },
+    {
+      "file_name": "貂蝉-七图总览.png",
+      "library_file_id": "libfile_1b8478c99b908191842590a99b5f5f46"
+    }
+  ],
+  "gold_revision": {
+    "scope": "gold raw, gold UI, overview only",
+    "details": [
+      "银蛾翼刺绣与月藤纹衣缘",
+      "三层袖缘",
+      "月扣和腰扣",
+      "精致银蛾发饰"
+    ],
+    "other_six": {
+      "貂蝉-card01-黑铁.png": "unchanged sha256",
+      "貂蝉-card02-青铜.png": "unchanged sha256",
+      "貂蝉-card03-白银.png": "unchanged sha256",
+      "貂蝉-bio01.png": "unchanged sha256",
+      "貂蝉-bio02.png": "unchanged sha256",
+      "貂蝉-bio03.png": "unchanged sha256"
+    },
+    "history": "diaochan-set/remake_20261019_020550_UTC+08/revision_gold_20261019_022215/before",
+    "status": "candidate awaiting user review"
+  }
+}

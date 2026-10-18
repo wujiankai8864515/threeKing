@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-card01-黑铁.png",
+        "file_id": "file_00000000d70881f487bb35ae4ce2b25d",
+        "library_file_id": "libfile_e9d0895bd0708191a628de3ea93a39e9",
+        "file_name": "貂蝉-card01-黑铁.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3166769
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-card02-青铜.png",
+        "file_id": "file_00000000888882309619cf1895297867",
+        "library_file_id": "libfile_c7bf542735ec8191b47f72efeb7a9a47",
+        "file_name": "貂蝉-card02-青铜.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3020223
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-card03-白银.png",
+        "file_id": "file_00000000fb4481f489d0b80880b863c8",
+        "library_file_id": "libfile_971ece96f5648191af78038f7ae1b6a0",
+        "file_name": "貂蝉-card03-白银.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3043263
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-card04-黄金.png",
+        "file_id": "file_000000007338823084a93229fc838444",
+        "library_file_id": "libfile_4e142a555c6c81918625d3817c75831b",
+        "file_name": "貂蝉-card04-黄金.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3403246
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-bio01.png",
+        "file_id": "file_00000000de6081f4bccd052f655b3b6b",
+        "library_file_id": "libfile_05b1cc399c108191a859cf10c779d26b",
+        "file_name": "貂蝉-bio01.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2109456
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-bio02.png",
+        "file_id": "file_0000000057c08206bec0f54e49004834",
+        "library_file_id": "libfile_9780c47a3c448191ac996b9d3ee5d565",
+        "file_name": "貂蝉-bio02.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2118673
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-bio03.png",
+        "file_id": "file_00000000806481fd9f67dd7b99522352",
+        "library_file_id": "libfile_af5e793edeb481919b87443815fe1f7c",
+        "file_name": "貂蝉-bio03.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2138308
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/貂蝉-七图总览.png",
+        "file_id": "file_00000000d7a081f4aa40a6a7b2499154",
+        "library_file_id": "libfile_1b8478c99b908191842590a99b5f5f46",
+        "file_name": "貂蝉-七图总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3031025
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

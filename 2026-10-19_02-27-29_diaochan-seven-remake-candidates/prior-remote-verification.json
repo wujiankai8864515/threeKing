@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "ba0cc0a56305d2d839118a3507474c6a0e2ca1a9",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9045,
+  "sequential_copy_sha256_checked": true,
+  "hero": "lubu,zhangjiao"
+}
