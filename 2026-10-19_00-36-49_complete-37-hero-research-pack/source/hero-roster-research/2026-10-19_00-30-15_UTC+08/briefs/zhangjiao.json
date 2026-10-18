@@ -1,0 +1,148 @@
+{
+  "hero_id": "zhangjiao",
+  "name": "张角",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "原地引导一片有预警的大范围风暴，连续造成有限次数法术伤害；引导中不能移动，被打断便停止。",
+  "myth_symbol_proposal": {
+    "name": "黄天雷冠",
+    "origin": "原著有天书与呼风唤雨，雷冠、法相与战斗范围均原创",
+    "reason": "黄布、纸卷、乌云与向外展开的风暴冠，区别诸葛亮定点落雷与左慈幻术。",
+    "growth": "卷边云纹→头顶小云冠→低云成环→地面高台上方完整黄天风暴冠，不搬到天宫"
+  },
+  "identity_draft": {
+    "face": "原创长瘦脸、高颧、浓而分叉的眉、眼神由专注到炽烈，胡须从薄短至颏下束须。",
+    "hair": "原创散发后束，黄巾只额头一圈，最高阶仍有凡人发丝，不满头电线。",
+    "body": "原创高而清瘦、长袖下有结实腕骨；不是大腹军阀。",
+    "clothes": "粗麻灰白、土黄与深茶色，黄巾与符卷有形；成长靠层次、布带和气场，不穿皇帝金甲。",
+    "weapons_fact": "第1回南华老仙执藜杖，传太平要术三卷给张角；这并不证明张角本人固定持那根藜杖。",
+    "weapons_design": "原创结节木杖作施法媒介，木质明确；太平要术书卷为有据道具，无真实可用咒语写入图。",
+    "mount_fact": "所选第1回四节点无固定坐骑描写。",
+    "mount_design": "全组徒步，高台是土木搭建，不骑龙上天。",
+    "reference_version": "QUN-ZJ-text-v1，待样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第1回南华老仙执藜杖，传太平要术三卷给张角；这并不证明张角本人固定持那根藜杖。",
+    "weapons_design": "原创结节木杖作施法媒介，木质明确；太平要术书卷为有据道具，无真实可用咒语写入图。",
+    "mount_fact": "所选第1回四节点无固定坐骑描写。",
+    "mount_design": "全组徒步，高台是土木搭建，不骑龙上天。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhangjiao_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "山中受卷",
+      "event": "入山采药得书",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "pose_and_scene_original": "山洞口眼平中全身；弯身双手接三卷束好的书，药篓在脚边；岩洞、山径、草药和老人侧影",
+      "myth_growth": "卷边仅几道低亮云纹",
+      "avoid": "不要把老仙藜杖自动交给张角；无黄巾大军",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangjiao_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "夜读初风",
+      "event": "晓夜功习呼风雨",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "pose_and_scene_original": "山舍侧前中景；一手压开卷，另一手感受窗外风，原创木杖倚墙；土墙、油灯、雨打窗棂，法力局限门外",
+      "myth_growth": "一圈浅小雷冠，非雷击脸部",
+      "avoid": "不把南华老仙留作永久宠物；不写现代符咒教程",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangjiao_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "黄巾集众",
+      "event": "疫中施符聚徒",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "pose_and_scene_original": "村口稍高俯看近全身；举空手示意众人听讲，青囊式药具不抢华佗，符卷由弟子收持；泥地村屋、病者坐有遮护处，众人有秩序",
+      "myth_growth": "低云成环压在远屋脊之上，纸带数量有限",
+      "avoid": "不展示服用配方或宣称现实治疫；不画所有人被洗脑光束",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangjiao_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "黄天举旗",
+      "event": "事泄举兵天公将军",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "pose_and_scene_original": "土台正面低角度全身；木杖立地，一手指向集结军伍，身后黄旗张开；乡野军营、土台、分队人流，近地世界保留",
+      "myth_growth": "完整巨大风暴冠与低压云，三条粗雷在远空，主角不飞升",
+      "avoid": "不画张宝纸人草马；不骑天龙，不宣称天下已获救",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhangjiao_story_to_02",
+      "target_card_id": "zhangjiao_card_02",
+      "target_stage": 2,
+      "title": "卷中问风",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "scene_original": "横幅山舍内外相接，张角主脸；昼夜读习后起身推窗，雨风刚响应；铜卡风雨能力的学习过程，镜头为原著概述上的原创展开",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangjiao_story_to_03",
+      "target_card_id": "zhangjiao_card_03",
+      "target_stage": 3,
+      "title": "疫路人来",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "scene_original": "横幅村路，张角走近求助村民，弟子随后；递出封好的象征纸包而不展示饮用过程；银卡聚众来自疫中施助的小说前因，不等于现代医疗认可",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangjiao_story_to_04",
+      "target_card_id": "zhangjiao_card_04",
+      "target_stage": 4,
+      "title": "期日已破",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第001回"
+      ],
+      "scene_original": "横幅夜营，传使到案前，张角与两弟分立；听得事泄，张角把未展开黄旗推向执旗者，军队连夜集结；黄金起兵来自告密引发的紧迫转折，不写成平静封神",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "聚霆",
+      "single_effect": "风暴伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "持咒",
+      "single_effect": "自身引导抗打断阈值提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "天幕",
+      "single_effect": "风暴半径提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "回元",
+      "single_effect": "完整引导后主动能量消耗返还一部分",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

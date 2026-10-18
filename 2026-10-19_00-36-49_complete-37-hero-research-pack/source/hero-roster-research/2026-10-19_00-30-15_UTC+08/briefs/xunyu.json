@@ -1,0 +1,148 @@
+{
+  "hero_id": "xunyu",
+  "name": "荀彧",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "为选定一名友军补充能量；默认优先能量缺口大的友军，目标明确。",
+  "myth_symbol_proposal": {
+    "name": "玉衡玄鹿",
+    "origin": "原创象征，玄鹿并非原著配兽；玉衡只作平衡与秩序意象，不赋天文史实",
+    "reason": "洁净角枝像有序分支，书卷与补给路同构，区别诸葛亮星雷与刘备黄龙治疗。",
+    "growth": "角枝细影→肩后小鹿→与粮册相连的全鹿→大鹿守住后方城门"
+  },
+  "identity_draft": {
+    "face": "原创：清瘦长椭圆脸、平直眉、温和而坚定的眼，整齐短须；不照搬任何三国杀立绘。",
+    "hair": "整齐束髻与简冠，鬓发平顺，后期略添霜色但不突然老化。",
+    "body": "中高修长、肩背直，非病弱摇晃型。",
+    "clothes": "象牙白与深紫主色、灰黑履；早期素衣，中阶礼冠与宽袖层次，高阶更整洁而非变战甲。蓝限小绶带。",
+    "weapons_fact": "所选核心事件以议策、守城、书信为主，未提供专属神兵依据。",
+    "weapons_design": "主道具为简册、书札、笔与军政印；普通佩剑仅防身可省，不画羽扇雷杖。",
+    "mount_fact": "本线不要求专属坐骑。",
+    "mount_design": "城门与书案多徒步；有出行才用普通温顺栗马。",
+    "reference_version": "WEI-XY-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "所选核心事件以议策、守城、书信为主，未提供专属神兵依据。",
+    "weapons_design": "主道具为简册、书札、笔与军政印；普通佩剑仅防身可省，不画羽扇雷杖。",
+    "mount_fact": "本线不要求专属坐骑。",
+    "mount_design": "城门与书案多徒步；有出行才用普通温顺栗马。"
+  },
+  "cards": [
+    {
+      "asset_id": "xunyu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "颍川入幕",
+      "event": "弃袁投曹荐才",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第010回"
+      ],
+      "pose_and_scene_original": "正面稍侧半身，目光朝听者；捧简与曹操论才，桌面简洁；兖州普通军帐、卷起竹帘",
+      "myth_growth": "角枝小影落在布帘，不发光粉",
+      "avoid": "无诸葛羽扇、星斗法阵",
+      "generated": false
+    },
+    {
+      "asset_id": "xunyu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "三城固本",
+      "event": "保全三城",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第011回"
+      ],
+      "pose_and_scene_original": "城门里向外看，中全身偏右；站在门内接续文书与粮车放行次序，程昱在后侧；未破城门、避难人群与守卒有序，敌烟远景",
+      "myth_growth": "玄鹿半身站在门影内，角枝护住门楣",
+      "avoid": "不画荀彧一人击退吕布，非满城光罩",
+      "generated": false
+    },
+    {
+      "asset_id": "xunyu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "奉汉立制",
+      "event": "迎奉天子",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第014回"
+      ],
+      "pose_and_scene_original": "略高侧面中景，冠服轮廓干净；立在简朴殿阶旁持笏，转身向待命文吏交代；初修宫室的木架与砖台，汉廷礼制场景",
+      "myth_growth": "完整玄鹿沿阶影显形，角不过分刺状",
+      "avoid": "不画曹操皇帝冠；魏徽只独立UI",
+      "generated": false
+    },
+    {
+      "asset_id": "xunyu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "官渡后援",
+      "event": "书定官渡之疑",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "pose_and_scene_original": "书案侧后看清正脸，半身近景；落笔封住给曹操的回书，另一手按住简册；许都灯下，粮册与出发使者在门外深景",
+      "myth_growth": "巨鹿在窗外城门方向显形，角枝像有序道路",
+      "avoid": "不把他放在乌巢火场、不做法师发射治疗光",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "xunyu_story_to_02",
+      "target_card_id": "xunyu_card_02",
+      "target_stage": 2,
+      "title": "只留三城不失",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第011回"
+      ],
+      "scene_original": "横幅城门议事，荀彧前景，程昱侧前；两人对着城防/粮册安排接应，门外难民入城；具体调度为原创；青铜城门守成的合作背景，明确与程昱共同维持",
+      "generated": false
+    },
+    {
+      "asset_id": "xunyu_story_to_03",
+      "target_card_id": "xunyu_card_03",
+      "target_stage": 3,
+      "title": "奉迎之议",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第014回"
+      ],
+      "scene_original": "横幅曹营，荀彧立言，曹操听，其他谋士稍远；以当前汉廷困局提出迎奉天子的方向，案上使者书；银卡的任职/制度舞台由这条主张导入",
+      "generated": false
+    },
+    {
+      "asset_id": "xunyu_story_to_04",
+      "target_card_id": "xunyu_card_04",
+      "target_stage": 4,
+      "title": "一封不退的信",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "scene_original": "横幅许都案边，疲惫信使立旁；荀彧读来书后写回，粮册旁预备出发人员；前线只由信函交代；同回同一封书，卡面是完成书信的个人状态",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "济用",
+      "single_effect": "主动补充的能量量提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "节用",
+      "single_effect": "主动冷却缩短",
+      "unlock_star": 2
+    },
+    {
+      "name": "广援",
+      "single_effect": "主动施放距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "固本",
+      "single_effect": "自身最大生命提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

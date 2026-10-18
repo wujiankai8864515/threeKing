@@ -1,0 +1,349 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "lubu",
+    "name": "吕布",
+    "faction": "qun",
+    "core_personality": "极强的个人武勇与不稳的政治选择并存；能以武力威慑止战，也会因利与情改变归属。",
+    "myth_symbol_proposal": {
+      "name": "兵主戟魂",
+      "origin": "原创武器神相，不称吕布为蚩尤转世或给定历史族属",
+      "reason": "背后只有一柄巨戟轮廓与撕开风压的竖势，不再套虎、龙、狮兽；与典韦双臂巨巫肉身神力分开。",
+      "growth": "戟锋一道冷痕→半幅竖戟影→完整重戟魂→高大戟影定在地平线上，弓箭场景仍保留真实辕门戟"
+    },
+    "differentiation": "固定目标的正面武力压迫，长戟与赤兔、雉尾冠强识别；不做马超群骑冲阵、关羽残血斩杀、孙策换敌开路。",
+    "identity": {
+      "face": "原创高颧长方脸、压低浓眉、深眼、紧下颌，成熟成年男性；有少量短髭，不变曹操长须。",
+      "hair": "第3回束发金冠，第5回冠上雉尾有诗文依据；以黑发高束、两根可控长翎构建项目身份，低阶冠简化属设计。",
+      "body": "原创高大匀称、肩腰强烈而不胖，手臂长，受力像优秀战将而非多臂魔像。",
+      "clothes": "原文百花战袍、唐猊铠甲、狮蛮宝带；原创用银铁甲、深绛袍、黑皮束与少量冠金，不把百花画成现代印花。",
+      "weapons_fact": "原文画戟，第5回诗称方天戟；第16回弓射戟小枝。第3回杀丁原用刀，不能一生所有事都画戟。",
+      "weapons_design": "统一双月牙方天画戟属对类别的原创定型，先立刚性直轴与刃连接；辕门卡戟在远处作靶，主角持弓。",
+      "mount_fact": "第3回李肃赠赤兔后才属于吕布，原文全身火炭赤无杂毛；第5回乘赤兔。",
+      "mount_design": "赤兔保无杂毛的深赤栗毛，肌肉真实不等于燃烧皮肤。黑铁丁原军段用普通深褐马，不能提前赤兔。",
+      "reference_version": "QUN-LB-text-v1；需与既有关羽赤兔马身份资产关联但不复用关羽人物。"
+    },
+    "modern_game_reference": {
+      "version": "官方三国杀指定版本页面，2026-10-18核验",
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/79.html",
+      "verified": "国战2013无双提高对手响应攻击和决斗的成本。",
+      "use": "只取正面攻击难以招架的方向，不复制双闪牌制、无限追击或全屏秒杀。",
+      "source_class": "modern_official_game_not_novel"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 3,
+        "chronology_key": "003-a",
+        "title": "丁原帐下挺戟",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第003回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "随丁原阵前挺戟击退董卓军，后才受李肃赤兔金珠诱引。",
+        "selection": "card1",
+        "selection_reason": "勇武起点，不先洗成英雄或先骑赤兔。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "b",
+        "chapter": 5,
+        "chronology_key": "005-b",
+        "title": "虎牢关战三英",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "先战张飞，关羽刘备加入；围攻中最终虚刺刘备脱身退关。",
+        "selection": "card2+bio1",
+        "selection_reason": "标志性武勇，保留结局不宣称独胜三英。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "c",
+        "chapter": 9,
+        "chronology_key": "009-c",
+        "title": "北掖门诛董",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "王允设局，董卓甲挡众兵，吕布从后以戟刺喉；李肃割首，吕布出诏。",
+        "selection": "card3+bio2",
+        "selection_reason": "重大换局，银卡取持诏收戟时刻，避免血腥特写。",
+        "misreading_to_avoid": "董卓首级由李肃割；吕布此前弑丁原不因本次诛董自动洗白。"
+      },
+      {
+        "event_id": "d",
+        "chapter": 16,
+        "chronology_key": "016-d",
+        "title": "辕门射戟解斗",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "因自身徐州安全出面，约刘备纪灵，以一百五十步射中戟枝让两军罢战。",
+        "selection": "card4+bio3",
+        "selection_reason": "以精确威慑取代重复挥戟，最高姿态有控制力量之意。",
+        "misreading_to_avoid": "只是本回止战，不将吕布改为一生仁义的和平英雄。"
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "并州戟锋",
+        "camera": "眼平偏侧骑姿中全身",
+        "action": "挺戟勒马停在丁原军前，目视董军退势",
+        "environment": "洛阳城郊干土、汉军营旗",
+        "myth_growth": "刃尖一线冷压影",
+        "structure_check": "戟杆共线、双手分距、马颈留空；普通马非赤兔",
+        "must_retain": "长方脸、少冠饰仍强悍",
+        "must_not_inherit": "无赤兔、董军仪仗；不画野蛮兽皮民族套型",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第003回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "虎牢独挡",
+        "camera": "低前侧全身，戟轴斜向远处",
+        "action": "骑赤兔横戟挡三向来势，取交手中而非逃脱后一瞬",
+        "environment": "关前荒坡，三英远中景分开成丁字关系",
+        "myth_growth": "半幅戟魂竖起，风压只沿刃",
+        "structure_check": "四骑间距、四武器不缠结；主角双手实握戟",
+        "must_retain": "赤兔无杂毛、银铁甲与两翎",
+        "must_not_inherit": "不画三英被击倒；不让戟弯成新月杆",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "诏出戟定",
+        "camera": "殿门侧前近全身",
+        "action": "一手持戟落地，另一手出示诏卷，身后车驾退暗",
+        "environment": "北掖门石地、甲士停手，董卓倒地只遮挡轮廓",
+        "myth_growth": "完整戟魂立在门外，不冲入人物身体",
+        "structure_check": "持卷手独立于戟手；戟直立有地支撑",
+        "must_retain": "严肃果断而非神圣无瑕",
+        "must_not_inherit": "不提首级；不画王允冲前亲刺",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "d",
+        "title": "辕门一箭",
+        "camera": "侧身略低近中全身，目光沿弓线",
+        "action": "挽袖满弓将放一箭，远处戟枝与辕门构成目标",
+        "environment": "中军营地、刘备纪灵分立后侧，长射程空间可读",
+        "myth_growth": "巨戟魂随远靶直立，弓线周围仅一条紧绷风弧",
+        "structure_check": "弓弦三点和拉弓手指正确；远戟竖直牢插，不能近到伸手可摸",
+        "must_retain": "长翎顺风、同脸、成熟控制力",
+        "must_not_inherit": "不对敌将头部射箭；不持弓同时舞戟",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "关前三路合围",
+        "camera": "横幅虎牢阵侧，吕布大前景回看加入战局的刘备",
+        "action": "收戟调整马头，三英形成新包围，未画结果",
+        "target_connection": "铜卡强力来自承受三面压力，而非虚构三人败亡",
+        "first_person_line_original": "一个也好，三个也好。要过这一关，先问我的戟。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "多马足点可读，主角不新增第三只手",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "lubu_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第005回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "司徒密议",
+        "camera": "横幅王允府内，吕布近景听计后握拳",
+        "action": "王允说明诛董安排，画戟倚架，窗外城夜",
+        "target_connection": "银卡北掖门行动的直接政治前因；短词为原创，不把动机改史实",
+        "first_person_line_original": "这一次，戟会指向该指的人。余下的路，我自己承担。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "不写真实刺杀操作方案，人物议事即可；器械不穿屏风",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "lubu_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第009回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "d",
+        "title": "两军共看一枝",
+        "camera": "横幅营门内，吕布指示军士把戟立远",
+        "action": "刘备与纪灵各自注视靶位，张飞欲争被关羽止",
+        "target_connection": "金卡神射来自共同接受止战条件，避免单纯射箭炫技",
+        "first_person_line_original": "把戟立远些。这一箭之后，你们各收兵马。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "戟由军士独持搬走，主角不能同时抓住远端；保持实距",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "lubu_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "lubu_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "对面前一名敌人发动重戟正击，降低该次攻击被格挡的概率；仍可被闪避、位移或技能防御应对。",
+      "active": {
+        "skill_id": "lubu_a1",
+        "name": "无双贯戟",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "对面前一名敌人发动重戟正击，降低该次攻击被格挡的概率；仍可被闪避、位移或技能防御应对。",
+        "extra_effect": "不再附控制；成长提高伤害与同一反格挡幅度，不获得全类防御无视。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "戟魂只随主戟一次压下，风压为完整面，不金粉喷射。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "lubu_p1",
+          "name": "骁力",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "普通攻击伤害提高",
+          "trigger": "普攻命中",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "戟魂只随主戟一次压下，风压为完整面，不金粉喷射。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "lubu_p2",
+          "name": "压锋",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "连续攻击同一目标时伤害小幅提高且有上限",
+          "trigger": "目标未换",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "戟魂只随主戟一次压下，风压为完整面，不金粉喷射。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "lubu_p3",
+          "name": "强腕",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "主动反格挡幅度提高",
+          "trigger": "主动结算格挡",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "戟魂只随主戟一次压下，风压为完整面，不金粉喷射。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "lubu_p4",
+          "name": "争衡",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "附近仅一名敌人时受到的伤害降低",
+          "trigger": "单敌接战期间",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "戟魂只随主戟一次压下，风压为完整面，不金粉喷射。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "lubu_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "lubu_p1",
+            "lubu_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "lubu_p1",
+            "lubu_p2",
+            "lubu_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "lubu_p1",
+            "lubu_p2",
+            "lubu_p3",
+            "lubu_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved"
+  }
+}

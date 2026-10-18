@@ -1,0 +1,148 @@
+{
+  "hero_id": "zhouyu",
+  "name": "周瑜",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "在一个指定圆形区域发动一次有预警的广域火攻，造成同一批次范围法术伤害；不自动铺永久火场。",
+  "myth_symbol_proposal": {
+    "name": "离火朱雀",
+    "origin": "原创象征映射，不说小说中周瑜召朱雀",
+    "reason": "展翼横向调度大片火面，与陆逊沿地面推进的火线及黄盖近身火船爆发不同。",
+    "growth": "一片暗赤飞羽→半翼→双翼收束→大朱雀横展在舰队后，实体火船仍是战役起火源"
+  },
+  "identity_draft": {
+    "face": "第15回明记姿质风流、仪容秀丽；原创清晰颧颌、细眉长眼、薄唇，温雅有锐意，不画女性化同脸。",
+    "hair": "原创束髻窄冠，两侧发收净；不乱披长发遮眼。",
+    "body": "原创高而匀称、肩线平、动作舒展，不以消瘦病容做四阶底模。",
+    "clothes": "暖白与炭黑轻甲、暗赤内衬，翎纹只几处针绣；青铜加素色披肩，黄金精甲不全金。",
+    "weapons_fact": "第44回受孙权佩剑；第49回在大艨艟与程普督战，无必须弹琴施法或执羽扇的证据。",
+    "weapons_design": "受剑后用直刃军令剑；前期普通佩剑造型不同。琴仅可作另篇生活道具，本包不抢诸葛羽扇。",
+    "mount_fact": "第15回下马见孙策，第49回主场大舰；未核固定名马。",
+    "mount_design": "早期青骢普通军马；后两卡徒步/船上，保持真实甲板重心。",
+    "reference_version": "WU-ZY-text-v1，待样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第44回受孙权佩剑；第49回在大艨艟与程普督战，无必须弹琴施法或执羽扇的证据。",
+    "weapons_design": "受剑后用直刃军令剑；前期普通佩剑造型不同。琴仅可作另篇生活道具，本包不抢诸葛羽扇。",
+    "mount_fact": "第15回下马见孙策，第49回主场大舰；未核固定名马。",
+    "mount_design": "早期青骢普通军马；后两卡徒步/船上，保持真实甲板重心。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhouyu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "历阳知交",
+      "event": "历阳遇策荐二张",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "pose_and_scene_original": "眼平侧前全身，刚下马；收缰朝孙策行礼后抬头，另一手近腰剑；历阳郊路、初成军队、马在侧后",
+      "myth_growth": "一片暗赤羽影落在路尘",
+      "avoid": "不穿赤壁满甲，不把弟兄交情画成臣下跪拜",
+      "generated": false
+    },
+    {
+      "asset_id": "zhouyu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "江东新托",
+      "event": "奔丧承托荐鲁肃",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第029回"
+      ],
+      "pose_and_scene_original": "厅柱侧面近中景；祭奠后整理袖口，向孙权进言荐贤；素帛、木廊和等候使者，悲而不衰弱",
+      "myth_growth": "朱雀半翼收在背后廊影",
+      "avoid": "孙策不能活坐同桌；不把鲁肃当已故",
+      "generated": false
+    },
+    {
+      "asset_id": "zhouyu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "受剑立令",
+      "event": "主战受大都督",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第044回"
+      ],
+      "pose_and_scene_original": "正面低角度中全身；持受赐剑向下斜收，空手指示诸将列班；江畔行营，甲士和真实帐门",
+      "myth_growth": "完整朱雀双翼收束形成紧凑背形",
+      "avoid": "无羽扇借风姿势；不烧字军令",
+      "generated": false
+    },
+    {
+      "asset_id": "zhouyu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "赤壁总攻",
+      "event": "分路调军赤壁督战",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "pose_and_scene_original": "舰首外侧低角度，三分之二正脸；在主舰稳立举军令，前方火船向不同通道推进；大江、艨艟木栏、烟火分区与远岸，不满屏熔岩",
+      "myth_growth": "朱雀横展为完整但留透背景的巨影，翼下火来自船阵",
+      "avoid": "不独自操一叶火船冲曹；不画东风由口中吹出",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhouyu_story_to_02",
+      "target_card_id": "zhouyu_card_02",
+      "target_stage": 2,
+      "title": "灵前再受重托",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第029回"
+      ],
+      "scene_original": "横幅灵前主角侧脸，吴太夫人与孙权在另侧；周瑜听遗命后俯首应承，盔放身旁；铜卡辅新主从这一转折来；不是虚构临床遗嘱",
+      "generated": false
+    },
+    {
+      "asset_id": "zhouyu_story_to_03",
+      "target_card_id": "zhouyu_card_03",
+      "target_stage": 3,
+      "title": "四忌决战",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第044回"
+      ],
+      "scene_original": "横幅堂内周瑜主位近景，孙权侧后；周瑜以手指向江面图示分析军势，群臣分立；明确银卡权威来自主战判断与授权，传记主角是周瑜",
+      "generated": false
+    },
+    {
+      "asset_id": "zhouyu_story_to_04",
+      "target_card_id": "zhouyu_card_04",
+      "target_stage": 4,
+      "title": "六路与火船",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "scene_original": "横幅主舰甲板，程普侧后听令；都督分别向近处传令官示意，远景黄盖火船待发；与黄金督战同役前一关键时刻，强调部署分工",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "英略",
+      "single_effect": "主动伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "远筹",
+      "single_effect": "施法选择距离提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "炎余",
+      "single_effect": "主动灼烧持续时间提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "整备",
+      "single_effect": "主动冷却缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

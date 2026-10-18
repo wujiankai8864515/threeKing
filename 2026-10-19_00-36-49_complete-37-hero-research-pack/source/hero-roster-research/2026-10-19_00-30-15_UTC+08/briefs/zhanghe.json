@@ -1,0 +1,148 @@
+{
+  "hero_id": "zhanghe",
+  "name": "张郃",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "选一名近旁友军，将其移到身旁一个安全空位；张郃随后朝其原方向刺出一次防护枪击。",
+  "myth_symbol_proposal": {
+    "name": "折翼鹤阵",
+    "origin": "原创神话化军阵象征；不是原著神兽或无双蝶舞",
+    "reason": "长腿步态、折返翼线、疏密可变，配山道转位；不使用蝶翼、爪刃或妖艳换皮。",
+    "growth": "一笔折羽→双翼短弧→鹤形穿过两阵→巨鹤翼展分出进退两路"
+  },
+  "identity_draft": {
+    "face": "原创：瘦长脸、细长眼、明显鼻梁、薄髭与窄颏须；沉静而警觉。",
+    "hair": "原创：中高束髻配窄冠，少量鬓发，不能继承现代游戏蝶冠。",
+    "body": "修长但肌肉结实，长臂，跨步空间大；不同张辽紧凑突进。",
+    "clothes": "烟紫、灰白与铁黑层叠短袍甲；肩甲左右轻微不对称用于回身；蓝仅领结内缘。",
+    "weapons_fact": "第70回明记挺枪及刺草人；可以锁定枪类别，不据此给华丽专名。",
+    "weapons_design": "长直枪、窄叶尖、细横翼护根；军阵折线纹为原创装饰，不变爪或蝴蝶。",
+    "mount_fact": "第70回明确弃马攀山逃；无专属坐骑名。",
+    "mount_design": "灰褐军马，山道卡可徒步，不能硬塞同一腾跃马。",
+    "reference_version": "WEI-ZH-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第70回明记挺枪及刺草人；可以锁定枪类别，不据此给华丽专名。",
+    "weapons_design": "长直枪、窄叶尖、细横翼护根；军阵折线纹为原创装饰，不变爪或蝴蝶。",
+    "mount_fact": "第70回明确弃马攀山逃；无专属坐骑名。",
+    "mount_design": "灰褐军马，山道卡可徒步，不能硬塞同一腾跃马。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhanghe_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "河北枪锋",
+      "event": "袁营战张辽",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "pose_and_scene_original": "略低侧面中景，朝右；双手长枪平举试探，袁军队列在后；官渡开阔平原，敌旗只作远景",
+      "myth_growth": "地面尘线似一笔折羽",
+      "avoid": "不能画成魏军或蝴蝶贵公子",
+      "generated": false
+    },
+    {
+      "asset_id": "zhanghe_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "转旗受命",
+      "event": "被谗归曹并先出",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "pose_and_scene_original": "眼平背侧转正，长枪斜指地面；归曹后重新披甲，回身接先锋军令；曹营门口，卸下旧旗远置，军士重整",
+      "myth_growth": "半鹤翼由后方张开，指向新进路",
+      "avoid": "不把高览斩使置于主角手中",
+      "generated": false
+    },
+    {
+      "asset_id": "zhanghe_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "瓦口寻径",
+      "event": "三寨失利瓦口脱身",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第070回"
+      ],
+      "pose_and_scene_original": "较高俯视，岩石斜线穿过画面；徒步攀过山脊回望，长枪背负或由后一从卒分担；险峻小径、十余疲兵；弃马远在低处",
+      "myth_growth": "完整鹤影单翼收起，沿可行山路折返",
+      "avoid": "不画凯旋庆功；不画徒步者骑马飞崖",
+      "generated": false
+    },
+    {
+      "asset_id": "zhanghe_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "街亭截援",
+      "event": "街亭截援与诱延",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第095回"
+      ],
+      "pose_and_scene_original": "斜前中低角度，全身转向左；以枪尾划出转阵方向，身后两列兵错位闭合援路；街亭山麓交叉道，山顶只远景",
+      "myth_growth": "巨鹤双翼各指一条道路，身体连续而不铺满云海",
+      "avoid": "不画张郃主导断水、空城抚琴或独杀王平",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhanghe_story_to_02",
+      "target_card_id": "zhanghe_card_02",
+      "target_stage": 2,
+      "title": "谗言断归路",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "scene_original": "横幅营门前近景，张郃与高览面对急召与敌营；张郃压住枪不乱，听高览决意后转向曹营；用使者倒地之外的非血腥时刻；铜卡是新任先锋；传记解释袁营失信与归曹选择",
+      "generated": false
+    },
+    {
+      "asset_id": "zhanghe_story_to_03",
+      "target_card_id": "zhanghe_card_03",
+      "target_stage": 3,
+      "title": "从败阵走出",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第070回"
+      ],
+      "scene_original": "横幅山隘后侧，张郃搀扶或引导落后士卒；最后数人穿狭径，追军火光隔在岩后，原地留空表示丢失大军；对应银卡的败后转折；助卒为本项目合理镜头，不称原文明记",
+      "generated": false
+    },
+    {
+      "asset_id": "zhanghe_story_to_04",
+      "target_card_id": "zhanghe_card_04",
+      "target_stage": 4,
+      "title": "截住援路",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第095回"
+      ],
+      "scene_original": "横幅站在岔道看王平方向；主角前景回身传令；执行截援命令，分队从山麓绕行，画出道路空间而非地图符文；黄金卡凝练转位合围，传记说明受令及援路关系",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "轻履",
+      "single_effect": "移动速度提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "应变",
+      "single_effect": "主动冷却缩短",
+      "unlock_star": 2
+    },
+    {
+      "name": "援途",
+      "single_effect": "主动选择友军的距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "整位",
+      "single_effect": "被移位友军短时受到的伤害降低",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

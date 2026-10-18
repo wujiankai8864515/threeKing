@@ -1,0 +1,716 @@
+[
+  {
+    "hero_id": "jiangwei",
+    "name": "姜维",
+    "faction": "shu",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "玄甲麒麟",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "战术枪将；主动指定一敌作一次破阵枪击，重在识破布阵后的定点进击，不复制赵云救援或马超冲阵。",
+    "identity_draft": "青年锐目、长眉清瘦脸；后期保骨相加成熟纹理，墨绿配赭红护襟，几何军图纹；麒麟宽额单角与鳞甲四足，绝不画白龙。",
+    "weapon_mount_evidence": {
+      "canonical": "第93回挺枪跃马；第104回拔剑及受兵书、弩图。",
+      "art_design": "素长枪逐阶演化为原创麒麟纹枪；不用绿沉枪等未经本次证实的专名。",
+      "mount": "普通深棕战马，未核出专名；黄金仍是马，麒麟为背后权能。"
+    },
+    "chronology_caution": "93回同章先对抗后归降，非自始蜀将；110回取洮西胜利瞬间，后续狄道未克必须保留注记，不能宣称完成北伐。",
+    "cards": [
+      {
+        "asset_id": "jiangwei_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "天水识阵",
+        "event": "姜维识破袭城计并与赵云交锋",
+        "chapter": 93,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+        "pose_and_scene_original": "左侧低机位静勒战马，枪尖低守，天水土城与伏兵火号仅在远处。",
+        "generated": false
+      },
+      {
+        "asset_id": "jiangwei_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "择途归蜀",
+        "event": "归路被拒后受诸葛亮迎纳",
+        "chapter": 93,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+        "pose_and_scene_original": "下马正侧面收枪，另一手回应孔明；山坡车轮在后景，不画庆功。",
+        "generated": false
+      },
+      {
+        "asset_id": "jiangwei_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "灯下承书",
+        "event": "五丈原受诸葛亮兵书与连弩图",
+        "chapter": 104,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第104回",
+        "pose_and_scene_original": "跪坐双手捧卷的侧近景，枪倚帐外，克制悲意；不把卧榻画成宫殿。",
+        "generated": false
+      },
+      {
+        "asset_id": "jiangwei_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "洮西返阵",
+        "event": "背洮水布阵，回军与两翼合击王经",
+        "chapter": 110,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第110回",
+        "pose_and_scene_original": "骑马回身挥令，长枪由后下指向左前，河岸大地与两翼队列可读。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "jiangwei_story_to_02",
+        "target_card_id": "jiangwei_card_02",
+        "target_stage": 2,
+        "title": "山路受知",
+        "chapter": 93,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+        "scene_original": "横幅以姜维疲惫脸为主体，诸葛亮从小车下迎，拒门箭影只作远景前因。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "jiangwei_story_to_03",
+        "target_card_id": "jiangwei_card_03",
+        "target_stage": 3,
+        "title": "一卷千钧",
+        "chapter": 104,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第104回",
+        "scene_original": "近景姜维承接书卷、孔明半卧在后侧；只呈授受，不画法术复活。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "jiangwei_story_to_04",
+        "target_card_id": "jiangwei_card_04",
+        "target_stage": 4,
+        "title": "背水回锋",
+        "chapter": 110,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第110回",
+        "scene_original": "从姜维身侧看到河水在背后、张翼与夏侯霸分路合围，主角带兵回击。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "识阵",
+        "single_effect": "对被标记目标的主动伤害提高",
+        "unlock_star": 1
+      },
+      {
+        "name": "继志",
+        "single_effect": "释放主动后恢复自身少量能量",
+        "unlock_star": 2
+      },
+      {
+        "name": "整旅",
+        "single_effect": "相邻友军防御提高",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  },
+  {
+    "hero_id": "weiyan",
+    "name": "魏延",
+    "faction": "shu",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "赤角虬牛",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "侧翼近战破甲；主动刀击降低单个敌人的防御，不复制关羽斩杀或徐晃断能。",
+    "identity_draft": "棱角长脸、赤褐肤色自然不涂红油漆，短硬须与宽肩，深赤绑臂，甲轮廓如山隘。",
+    "weapon_mount_evidence": {
+      "canonical": "第41回轮刀开门，后挺枪战文聘；第53回用刀；第72回弓射曹操后弃弓取刀。",
+      "art_design": "主武器采用无专名长柄战刀；白银卡必须用弓表现当时射击，刀固定在鞍侧。",
+      "mount": "骑战有原文；深枣色无名马为原创选择。"
+    },
+    "chronology_caution": "反骨是小说人物判断，不据此将头骨画成畸形；第72回魏延未杀曹操；黄金是第73回职任，并非篡改后期结局。",
+    "cards": [
+      {
+        "asset_id": "weiyan_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "襄阳开门",
+        "event": "魏延欲开襄阳门迎刘备，后与文聘交战",
+        "chapter": 41,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第041回",
+        "pose_and_scene_original": "从门内低斜角看他一手推门杠，刀垂侧；门外百姓而非金殿。",
+        "generated": false
+      },
+      {
+        "asset_id": "weiyan_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "长沙解危",
+        "event": "救黄忠后归刘备",
+        "chapter": 53,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+        "pose_and_scene_original": "跨步护在黄忠前方，长刀以完整斜轴横开空间；避免血腥断肢。",
+        "generated": false
+      },
+      {
+        "asset_id": "weiyan_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "斜谷惊弦",
+        "event": "诈败回军后以箭射中曹操",
+        "chapter": 72,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第072回",
+        "pose_and_scene_original": "马上侧背三分之二回身开弓，曹军高坡在远景，弦与箭位完整。",
+        "generated": false
+      },
+      {
+        "asset_id": "weiyan_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "汉中重镇",
+        "event": "刘备进汉中王后任命魏延为汉中太守",
+        "chapter": 73,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第073回",
+        "pose_and_scene_original": "营门外正立接印，刀尾着土、战马安静；虬牛宽额巨角在山云中。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "weiyan_story_to_02",
+        "target_card_id": "weiyan_card_02",
+        "target_stage": 2,
+        "title": "长沙一呼",
+        "chapter": 53,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+        "scene_original": "横幅以魏延救下黄忠为近景，韩玄军士后撤，城头在远处；非黄忠射缨镜头。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "weiyan_story_to_03",
+        "target_card_id": "weiyan_card_03",
+        "target_stage": 3,
+        "title": "转身一箭",
+        "chapter": 72,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第072回",
+        "scene_original": "先导骑从谷口引出追兵，魏延在侧坡稳弓；曹操未死亡，庞德救护不省略为击杀。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "weiyan_story_to_04",
+        "target_card_id": "weiyan_card_04",
+        "target_stage": 4,
+        "title": "受任守关",
+        "chapter": 73,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第073回",
+        "scene_original": "魏延受印后面向汉中山道与驻军，刘备居侧后景；传记明确从战将到镇守职责。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "破甲",
+        "single_effect": "主动命中短时降低目标防御",
+        "unlock_star": 1
+      },
+      {
+        "name": "偏锋",
+        "single_effect": "侧面攻击伤害提高",
+        "unlock_star": 2
+      },
+      {
+        "name": "守隘",
+        "single_effect": "静止时自身防御提高",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  },
+  {
+    "hero_id": "taishici",
+    "name": "太史慈",
+    "faction": "wu",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "赤背神猿",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "单体决斗连击；主动连作两次短枪刺，和孙策首次交锋爆发、甘宁夜袭拉开。",
+    "identity_draft": "浓眉开阔脸、紧束发、强健长臂，棕红短披肩配黑铁甲；神猿厚肩长臂但不模仿孙悟空法器。",
+    "weapon_mount_evidence": {
+      "canonical": "第11回铁枪和弓矢；第15回枪战，背上短戟被孙策夺取；第53回挺枪战张辽。",
+      "art_design": "主手完整长枪，背负一支朴素短戟为身份件；不可声称双铁戟为其全生涯主武器。",
+      "mount": "原文骑马，无本次证实专名；赭栗马为造型选择。"
+    },
+    "chronology_caution": "黄金选第53回前半阵前交战，不把后半中伏身亡改为胜利；四卡是收藏表现强度，不是四场全胜。",
+    "cards": [
+      {
+        "asset_id": "taishici_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "北海赴义",
+        "event": "奉母意助孔融，突围向刘备求援",
+        "chapter": 11,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+        "pose_and_scene_original": "侧面疾骑，枪收于马身平行，腰弓完整，北海城门后退。",
+        "generated": false
+      },
+      {
+        "asset_id": "taishici_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "神亭相持",
+        "event": "与孙策枪战不分胜负",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "pose_and_scene_original": "太史慈面向镜头右侧低身格枪，孙策只留对角远面；不用孙策同一机位。",
+        "generated": false
+      },
+      {
+        "asset_id": "taishici_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "日中践诺",
+        "event": "受孙策礼遇归降后按约带众归来",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "pose_and_scene_original": "下马持枪垂直立定，另一手向后示意部众，营门日影在侧。",
+        "generated": false
+      },
+      {
+        "asset_id": "taishici_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "合肥争锋",
+        "event": "合肥阵前挺枪与张辽交锋",
+        "chapter": 53,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+        "pose_and_scene_original": "低侧前骑乘近中景，枪尖直刺而非刀斩；神猿握云臂在后，不涂满火焰。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "taishici_story_to_02",
+        "target_card_id": "taishici_card_02",
+        "target_stage": 2,
+        "title": "神亭两锋",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "scene_original": "从太史慈肩侧看双枪相持，镜头不复用孙策；双方各自枪轴清晰无融杆。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "taishici_story_to_03",
+        "target_card_id": "taishici_card_03",
+        "target_stage": 3,
+        "title": "赴约而归",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "scene_original": "营门正午，太史慈率新收部众出现，孙策迎出；原文人数仅作文字考证，不强求数千清脸。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "taishici_story_to_04",
+        "target_card_id": "taishici_card_04",
+        "target_stage": 4,
+        "title": "阵前迎刀",
+        "chapter": 53,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+        "scene_original": "太史慈抢先迎战张辽，孙权与护卫在后；直接接黄金枪刀交锋，非夜袭凯旋。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "连刺",
+        "single_effect": "第二次连续普攻伤害提高",
+        "unlock_star": 1
+      },
+      {
+        "name": "酬义",
+        "single_effect": "附近友军受击后自身下次普攻提高",
+        "unlock_star": 2
+      },
+      {
+        "name": "劲臂",
+        "single_effect": "普攻命中率提高",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  },
+  {
+    "hero_id": "lusu",
+    "name": "鲁肃",
+    "faction": "wu",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "双首比翼鹭",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "外交支援；主动让两名友军分担下一次伤害，定额一次，不复制荀彧回能或刘备治疗。",
+    "identity_draft": "宽额温厚但坚决、细短须，米褐儒袍、暗赤内缘；以木牍与使节束带识别，无羽扇复制孔明。",
+    "weapon_mount_evidence": {
+      "canonical": "所选事件以议事、使行、宴席为主，没有核出的专名战斗兵器或名马。",
+      "art_design": "木牍、使节杖是叙事道具设计，不称原著法宝；只在必要处普通佩剑入鞘。",
+      "mount": "多用地面与渡舟，不强行给专属神骑；舟不是名号坐骑。"
+    },
+    "chronology_caution": "第66回演义鲁肃受制于关羽，并非历史鲁肃叙事的全面结论；黄金以职责与胆识艺术凝练，不能美化为谈判获胜。",
+    "cards": [
+      {
+        "asset_id": "lusu_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "江东献策",
+        "event": "经周瑜引荐见孙权并献长江立足之策",
+        "chapter": 29,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第029回",
+        "pose_and_scene_original": "坐于低榻外侧以一手指展木图，窗外真实江岸营舍。",
+        "generated": false
+      },
+      {
+        "asset_id": "lusu_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "渡江联刘",
+        "event": "会刘备后邀孔明渡江见孙权",
+        "chapter": 42,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第042回",
+        "pose_and_scene_original": "舟头立姿扶船缘，另一手向前引路，江水横向推进。",
+        "generated": false
+      },
+      {
+        "asset_id": "lusu_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "力主拒曹",
+        "event": "力劝孙权勿听降议",
+        "chapter": 43,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第043回",
+        "pose_and_scene_original": "帐侧直身拱手进言，神态坚定，文臣分在远景不群星拥戴。",
+        "generated": false
+      },
+      {
+        "asset_id": "lusu_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "临江守议",
+        "event": "与关羽会谈荆州问题",
+        "chapter": 66,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第066回",
+        "pose_and_scene_original": "亭中侧坐正面眼神，卷册平放、手掌按案，船帆在远处；不持关刀。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "lusu_story_to_02",
+        "target_card_id": "lusu_card_02",
+        "target_stage": 2,
+        "title": "两岸相通",
+        "chapter": 42,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第042回",
+        "scene_original": "鲁肃在岸边伸手引孔明登舟；刘备退在岸上，突出使者主动牵线。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "lusu_story_to_03",
+        "target_card_id": "lusu_card_03",
+        "target_stage": 3,
+        "title": "独陈战策",
+        "chapter": 43,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第043回",
+        "scene_original": "群臣退后的内堂，鲁肃面向犹豫孙权；比翼鹭的两道羽形投影只是艺术隐喻。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "lusu_story_to_04",
+        "target_card_id": "lusu_card_04",
+        "target_stage": 4,
+        "title": "席前陈理",
+        "chapter": 66,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第066回",
+        "scene_original": "鲁肃在江亭说明荆州归属诉求，关羽从背侧入画；镜头停在交涉，不能画鲁肃擒关羽。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "合援",
+        "single_effect": "受链接友军分担的一次伤害降低",
+        "unlock_star": 1
+      },
+      {
+        "name": "笃盟",
+        "single_effect": "友军链接持续时间增加",
+        "unlock_star": 2
+      },
+      {
+        "name": "安众",
+        "single_effect": "相邻友军受控时长缩短",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  },
+  {
+    "hero_id": "yuanshu",
+    "name": "袁术",
+    "faction": "qun",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "鎏甲金蟾",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "资源压制型君主；主动消耗自身储备给予一名友军短时攻击增益，储备有限，不复制曹操挨打军令。",
+    "identity_draft": "丰颐傲慢但面部正常、修齐胡须，赭金袍和玉带，甲少锦多；金蟾为沉重实体虚影，禁止满屏金粉。",
+    "weapon_mount_evidence": {
+      "canonical": "第15回收孙策抵押的传国玉玺，第17回称仲氏、乘龙凤辇；玉玺不是本命魔法武器。",
+      "art_design": "短剑只作普通佩饰；权能从玉印与铜筹扩散为原创，不加神兵名。",
+      "mount": "第17回车辇有据；无经核实专属名马，前期普通鞍马。"
+    },
+    "chronology_caution": "白银/黄金分别取第17回称帝与随后七路出兵，属于同章事件分镜凝练。黄金显示鼎盛资源与更强神话形态，不等于征徐州获胜；后来败亡、江亭求蜜不得见第21回，绝不能写成称帝成功统一。",
+    "cards": [
+      {
+        "asset_id": "yuanshu_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "南阳督粮",
+        "event": "会盟列诸侯并掌粮草",
+        "chapter": 5,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第005回",
+        "pose_and_scene_original": "粮营木案旁半侧站立，指尖压筹，米袋车辙清晰，不绘自己勇斩华雄。",
+        "generated": false
+      },
+      {
+        "asset_id": "yuanshu_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "玉玺入掌",
+        "event": "以借兵交换孙策抵押玉玺",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "pose_and_scene_original": "坐姿前倾审视盒内玉玺，双手只做一件事，孙策在侧后。",
+        "generated": false
+      },
+      {
+        "asset_id": "yuanshu_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "仲氏僭号",
+        "event": "不听阎象之谏而称帝",
+        "chapter": 17,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+        "pose_and_scene_original": "低角度踏上现实祭坛土阶，礼冠整齐，金蟾沉重于后；非正统天帝登仙。",
+        "generated": false
+      },
+      {
+        "asset_id": "yuanshu_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "七军帝胄",
+        "event": "称仲氏后遣七路军攻徐州，自领军接应",
+        "chapter": 17,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+        "pose_and_scene_original": "立于龙凤辇旁夯土点将台，厚重金甲覆礼袍、印盒悬腰，一手挥令；巨蟾宽额玉印纹昂起，七道旗阵向远处分开。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "yuanshu_story_to_02",
+        "target_card_id": "yuanshu_card_02",
+        "target_stage": 2,
+        "title": "印换江东兵",
+        "chapter": 15,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+        "scene_original": "袁术近景开玉玺匣，孙策领借兵远去；不能画玉玺本来归袁氏所有。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "yuanshu_story_to_03",
+        "target_card_id": "yuanshu_card_03",
+        "target_stage": 3,
+        "title": "一意称尊",
+        "chapter": 17,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+        "scene_original": "阎象进谏居侧，袁术转身命陈礼仪；强调僭号而非天命认定。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "yuanshu_story_to_04",
+        "target_card_id": "yuanshu_card_04",
+        "target_stage": 4,
+        "title": "七路发兵",
+        "chapter": 17,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+        "scene_original": "袁术在营前向张勋等下令，展开军图分指不同路线；转入黄金接应军统帅画面，绝不画已经攻克徐州。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "蓄资",
+        "single_effect": "开战获得额外自身储备",
+        "unlock_star": 1
+      },
+      {
+        "name": "厚赏",
+        "single_effect": "储备增益持续时间增加",
+        "unlock_star": 2
+      },
+      {
+        "name": "虚盛",
+        "single_effect": "储备耗尽前自身防御提高",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  },
+  {
+    "hero_id": "gongsunzan",
+    "name": "公孙瓒",
+    "faction": "qun",
+    "source_research": "本轮2026-10-18 UTC逐章原文核验",
+    "myth_symbol_proposal": {
+      "name": "北风白泽",
+      "status": "项目原创艺术解释；非人物原有神兽或史实",
+      "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+    },
+    "role_draft": "骑队调度；主动令近旁骑兵短时加速，重队列转向，不复制马超单人破盾冲阵或赵云救援。",
+    "identity_draft": "北地风霜长脸、中长胡须，白披肩配铁灰甲和靛青边；白泽宽颅双角、兽足非龙，以寒风整片旗势表达。",
+    "weapon_mount_evidence": {
+      "canonical": "第7回白马军、大半白马与白马将军称号；与文丑交战并有弓箭落地叙述。",
+      "art_design": "普通直杆长枪作制式骑将选择，未证实其专名兵器；画面不可写白马义从神枪。",
+      "mount": "选择无名白马有部队视觉依据，但不推成任何专属名马。"
+    },
+    "chronology_caution": "7回青铜/白银是同一战役先后，明确剧情凝练；黄金11回借兵是军权形态展示，不声称此后无败亡。原文两千马步军，不能改成三千白马骑兵。",
+    "cards": [
+      {
+        "asset_id": "gongsunzan_card_01",
+        "stage": 1,
+        "tier": "黑铁",
+        "title": "北平赴盟",
+        "event": "率军会盟，途经平原邀刘备同行",
+        "chapter": 5,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第005回",
+        "pose_and_scene_original": "骑马慢行回头与刘备说话，北地道旁桑树，非祭坛正中央盟主。",
+        "generated": false
+      },
+      {
+        "asset_id": "gongsunzan_card_02",
+        "stage": 2,
+        "tier": "青铜",
+        "title": "磐河问盟",
+        "event": "因袁绍取冀州与公孙越遇害兴兵对峙",
+        "chapter": 7,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+        "pose_and_scene_original": "桥西勒马对峙，枪尖收侧，一手指桥东；红圈帅旗只在后方。",
+        "generated": false
+      },
+      {
+        "asset_id": "gongsunzan_card_03",
+        "stage": 3,
+        "tier": "白银",
+        "title": "白马回阵",
+        "event": "受赵云救援后整军；次日阵败得赵云反击之机率军杀回",
+        "chapter": 7,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+        "pose_and_scene_original": "从主将右后斜角看其举臂收拢白马两翼，桥面开阔；不抢赵云刺麴义。",
+        "generated": false
+      },
+      {
+        "asset_id": "gongsunzan_card_04",
+        "stage": 4,
+        "tier": "黄金",
+        "title": "借兵济徐",
+        "event": "答应借刘备两千马步军并许赵云同行",
+        "chapter": 11,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+        "pose_and_scene_original": "营门下马授调兵木牍，白马队在后待发，白泽庞大清晰首部在云中。",
+        "generated": false
+      }
+    ],
+    "stories": [
+      {
+        "asset_id": "gongsunzan_story_to_02",
+        "target_card_id": "gongsunzan_card_02",
+        "target_stage": 2,
+        "title": "桥上决裂",
+        "chapter": 7,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+        "scene_original": "桥两端主将对话，近景公孙瓒表情与握缰绳手，袁绍后景；不拍成袁绍盟坛。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "gongsunzan_story_to_03",
+        "target_card_id": "gongsunzan_card_03",
+        "target_stage": 3,
+        "title": "重整白骑",
+        "chapter": 7,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+        "scene_original": "公孙瓒在队列折返点指令回军，赵云正在远处开出通路；非主角独杀文丑或麴义。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      },
+      {
+        "asset_id": "gongsunzan_story_to_04",
+        "target_card_id": "gongsunzan_card_04",
+        "target_stage": 4,
+        "title": "二千兵相助",
+        "chapter": 11,
+        "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+        "scene_original": "刘备来借兵，公孙瓒点头指向整列军士；赵云在军前待命，不做归蜀拜主镜头。",
+        "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+        "generated": false
+      }
+    ],
+    "passives_draft": [
+      {
+        "name": "整骑",
+        "single_effect": "附近骑兵移动速度提高",
+        "unlock_star": 1
+      },
+      {
+        "name": "引弦",
+        "single_effect": "自身首次远程普攻伤害提高",
+        "unlock_star": 2
+      },
+      {
+        "name": "复阵",
+        "single_effect": "移动结束后自身短时防御提高",
+        "unlock_star": 3
+      }
+    ],
+    "production_status": "research_ready_new_remake_not_generated",
+    "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+  }
+]

@@ -1,0 +1,149 @@
+{
+  "hero_id": "caocao",
+  "name": "曹操",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "己方受敌方命中可取得少量军令筹（有严格上限）；主动消耗军令筹，强化指定一名友军的下一次普通攻击。",
+  "myth_symbol_proposal": {
+    "name": "玄纹螣蛇",
+    "origin": "原创神话方案；曹操《龟虽寿》有螣蛇乘雾的文学意象，不是演义自带召唤兽",
+    "literary_source": "https://zh.wikisource.org/zh-hant/龜雖壽",
+    "reason": "轻翼、蛇躯与旗令曲线对应迂回调度；避免再做一条刘备/关羽换色龙。",
+    "growth": "刀鞘蛇纹→旗影小翼→完整螣蛇绕军令→江雾中大翼而短盘，绝不细蛇盘满天空"
+  },
+  "identity_draft": {
+    "face": "原创：较宽短脸、深眼窝、上扬眉尾、短密髯；细笑与警觉能共存，不靠白脸油彩表现奸雄。",
+    "hair": "束髻窄冠，早期髭短，后期髯逐渐浓但同一发际线。",
+    "body": "中等身高而结实，衣袍下有军旅体态，不拔高成吕布。",
+    "clothes": "墨黑与沉赭红主色，少量暗铜边；蓝只徽章与结饰背面。高阶是更整饬、厚重的织物和护肩，不满身黄金。",
+    "weapons_fact": "第4回七星宝刀长尺余、七宝嵌饰；第48回横槊。两者是不同事件实物，不能强行全生涯同刀。",
+    "weapons_design": "统一识别靠冠、脸和袍扣；普通佩剑用原创朴素汉式直剑，不在未核阶段命为倚天；第48回长槊依长杆结构设计。",
+    "mount_fact": "第4回借试董卓所赐马脱身；本次所选各段无统一专属马名。",
+    "mount_design": "早期普通栗马，官渡选黑褐军马；船上黄金不画马。",
+    "reference_version": "WEI-CC-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第4回七星宝刀长尺余、七宝嵌饰；第48回横槊。两者是不同事件实物，不能强行全生涯同刀。",
+    "weapons_design": "统一识别靠冠、脸和袍扣；普通佩剑用原创朴素汉式直剑，不在未核阶段命为倚天；第48回长槊依长杆结构设计。",
+    "mount_fact": "第4回借试董卓所赐马脱身；本次所选各段无统一专属马名。",
+    "mount_design": "早期普通栗马，官渡选黑褐军马；船上黄金不画马。"
+  },
+  "cards": [
+    {
+      "asset_id": "caocao_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "献刀瞬变",
+      "event": "献刀脱险",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第004回"
+      ],
+      "pose_and_scene_original": "紧凑近中景，曹操三分之二侧脸，镜子只在侧后；刚将刺势改为双手献刀，眼神在刀与门外之间转换；董卓小阁、卧榻、衣镜和帘门，木地真实",
+      "myth_growth": "刀鞘边一线蛇翼纹暗示，未实体化",
+      "avoid": "不把七星宝刀画成长柄大刀；不画董卓死伤",
+      "generated": false
+    },
+    {
+      "asset_id": "caocao_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "陈留举义",
+      "event": "陈留募义",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "pose_and_scene_original": "略低全身，站在土台一侧；一手扶佩剑鞘，一手展臂受将士响应；村营招募、装备与粮车正在入场；白招兵旗文字后置",
+      "myth_growth": "一段小翼螣蛇藏在旗影中",
+      "avoid": "不画称帝祭天或十八路已全奉他为盟主",
+      "generated": false
+    },
+    {
+      "asset_id": "caocao_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "乌巢决进",
+      "event": "纳许攸夜袭乌巢",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "pose_and_scene_original": "马侧前中景，视角稍低而不仰成天神；亲率夜行队伍，垂剑指前路，身体前倾；官渡外野道，军士负草薪、旗号伪装，远处粮屯微光",
+      "myth_growth": "完整螣蛇贴近夜雾低行，翼不遮兵",
+      "avoid": "不把许攸画前线武将；不把所有衣物涂金火光",
+      "generated": false
+    },
+    {
+      "asset_id": "caocao_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "横槊江天",
+      "event": "江上横槊赋诗",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/三國演義/第048回"
+      ],
+      "pose_and_scene_original": "甲板稍低机位，半身至膝，江面留开阔负空间；长槊横持在身前，一手靠近重心，另一手托后段；酒已放下；大船真实栏杆、远水寨月光与层叠灯火",
+      "myth_growth": "大翼螣蛇沿江雾展开，短盘实体体段连贯",
+      "avoid": "不画龙袍帝冠；不称赤壁凯旋，不使用已割短须的后期造型",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "caocao_story_to_02",
+      "target_card_id": "caocao_card_02",
+      "target_stage": 2,
+      "title": "招募有人应",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "scene_original": "横幅堂屋到院落纵深，卫弘近景，曹操起身；卫弘表示资助，门外首批将士与衣甲车可见，曹操拱手受助；青铜组织力量的直接前因，不跳到多年后的求贤令",
+      "generated": false
+    },
+    {
+      "asset_id": "caocao_story_to_03",
+      "target_card_id": "caocao_card_03",
+      "target_stage": 3,
+      "title": "跣足迎故友",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "scene_original": "横幅帐门，近景赤足曹操向许攸迎出；衣未整、履留帐内；许攸持书，后方参谋欲随；直接解释银卡决进乌巢的情报和决断",
+      "generated": false
+    },
+    {
+      "asset_id": "caocao_story_to_04",
+      "target_card_id": "caocao_card_04",
+      "target_stage": 4,
+      "title": "置酒会诸将",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/三國演義/第048回"
+      ],
+      "scene_original": "横幅江上甲板斜透视，曹操居前，文武环坐向后递柔；主角起身取槊，众人停杯看他，江月开阔；同场宴会到横槊的直接过场；不伪造战后加冕",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "应势",
+      "single_effect": "己方受到敌方命中时获得一枚军令筹",
+      "unlock_star": 1
+    },
+    {
+      "name": "令威",
+      "single_effect": "军令强化的下一次普攻伤害提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "远御",
+      "single_effect": "主动可选择友军的距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "雄略",
+      "single_effect": "军令筹储存上限提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

@@ -1,0 +1,119 @@
+{
+  "hero_id": "lusu",
+  "name": "鲁肃",
+  "faction": "wu",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "双首比翼鹭",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "外交支援；主动让两名友军分担下一次伤害，定额一次，不复制荀彧回能或刘备治疗。",
+  "identity_draft": "宽额温厚但坚决、细短须，米褐儒袍、暗赤内缘；以木牍与使节束带识别，无羽扇复制孔明。",
+  "weapon_mount_evidence": {
+    "canonical": "所选事件以议事、使行、宴席为主，没有核出的专名战斗兵器或名马。",
+    "art_design": "木牍、使节杖是叙事道具设计，不称原著法宝；只在必要处普通佩剑入鞘。",
+    "mount": "多用地面与渡舟，不强行给专属神骑；舟不是名号坐骑。"
+  },
+  "chronology_caution": "第66回演义鲁肃受制于关羽，并非历史鲁肃叙事的全面结论；黄金以职责与胆识艺术凝练，不能美化为谈判获胜。",
+  "cards": [
+    {
+      "asset_id": "lusu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "江东献策",
+      "event": "经周瑜引荐见孙权并献长江立足之策",
+      "chapter": 29,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第029回",
+      "pose_and_scene_original": "坐于低榻外侧以一手指展木图，窗外真实江岸营舍。",
+      "generated": false
+    },
+    {
+      "asset_id": "lusu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "渡江联刘",
+      "event": "会刘备后邀孔明渡江见孙权",
+      "chapter": 42,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第042回",
+      "pose_and_scene_original": "舟头立姿扶船缘，另一手向前引路，江水横向推进。",
+      "generated": false
+    },
+    {
+      "asset_id": "lusu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "力主拒曹",
+      "event": "力劝孙权勿听降议",
+      "chapter": 43,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第043回",
+      "pose_and_scene_original": "帐侧直身拱手进言，神态坚定，文臣分在远景不群星拥戴。",
+      "generated": false
+    },
+    {
+      "asset_id": "lusu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "临江守议",
+      "event": "与关羽会谈荆州问题",
+      "chapter": 66,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第066回",
+      "pose_and_scene_original": "亭中侧坐正面眼神，卷册平放、手掌按案，船帆在远处；不持关刀。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "lusu_story_to_02",
+      "target_card_id": "lusu_card_02",
+      "target_stage": 2,
+      "title": "两岸相通",
+      "chapter": 42,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第042回",
+      "scene_original": "鲁肃在岸边伸手引孔明登舟；刘备退在岸上，突出使者主动牵线。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "lusu_story_to_03",
+      "target_card_id": "lusu_card_03",
+      "target_stage": 3,
+      "title": "独陈战策",
+      "chapter": 43,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第043回",
+      "scene_original": "群臣退后的内堂，鲁肃面向犹豫孙权；比翼鹭的两道羽形投影只是艺术隐喻。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "lusu_story_to_04",
+      "target_card_id": "lusu_card_04",
+      "target_stage": 4,
+      "title": "席前陈理",
+      "chapter": 66,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第066回",
+      "scene_original": "鲁肃在江亭说明荆州归属诉求，关羽从背侧入画；镜头停在交涉，不能画鲁肃擒关羽。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "合援",
+      "single_effect": "受链接友军分担的一次伤害降低",
+      "unlock_star": 1
+    },
+    {
+      "name": "笃盟",
+      "single_effect": "友军链接持续时间增加",
+      "unlock_star": 2
+    },
+    {
+      "name": "安众",
+      "single_effect": "相邻友军受控时长缩短",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

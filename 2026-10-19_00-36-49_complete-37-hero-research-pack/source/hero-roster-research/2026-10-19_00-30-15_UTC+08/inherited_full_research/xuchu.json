@@ -1,0 +1,388 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "xuchu",
+    "name": "许褚",
+    "faction": "wei",
+    "core_personality": "凶烈、朴直、力大到让人不敢靠近，认定敌人便当面硬撼。",
+    "myth_symbol_proposal": {
+      "name": "白额厚鬃重虎",
+      "origin": "依据虎痴/虎侯称呼作原创神话设计，不是原著实有虎兽",
+      "reason": "黄褐白额、粗颈阔胸、低伏贴身的重虎，强调肌肉重击；张飞的虎以断喝远震和拦截控制为主。",
+      "growth": "地上虎爪影→肩后低伏虎首→与身体并行全虎→巨虎从身后低位扑出；不用张飞竖立咆哮构图"
+    },
+    "differentiation": "必须保持“虎痴”的凶悍辨识。单体重击、脱甲搏战、极宽腰背；不能圆脸憨笑，不做张飞高当前生命压线和群控。",
+    "identity": {
+      "face": "原文第59回有圆睁怪眼、目射神光的英雄化描写；原创落实为重眉深瞳、阔鼻方口、短硬鬓须，咬牙非滑稽怒吼。",
+      "hair": "原创：短乱硬发束紧，后颈厚，和张飞蓬张虎须黑红轮廓区别。",
+      "body": "第12回身长八尺、腰大十围是小说夸张，不换算精确公制；原创宽腰、厚胸、肩臂极壮，非肥胖喜剧体型。",
+      "clothes": "黄褐、焦棕与铁黑，早期乡勇皮束，归军后肩甲厚但关节可动；黄金裸衣上身，腰胯腿仍有坚实衣甲。蓝只小腰结。",
+      "weapons_fact": "第12回大刀，第59回钢刀及裸衣持刀；与马超争枪时弃刀并拗断枪。",
+      "weapons_design": "宽刃长柄战刀，柄头连接和握持可考；未核“九环象鼻刀”等专名不采用。金卡选择未弃刀前一瞬，避免刀枪断裂结构过多。",
+      "mount_fact": "第59回久战换马，不能把一匹名马当全程不换的设定。",
+      "mount_design": "高大结实深褐军马；传记换马明确，卡片连续性允许该役换乘，不设神虎坐骑。",
+      "reference_version": "WEI-XC-identity-text-v1，待身份样；先做凶悍脸体样再扩量。"
+    },
+    "modern_game_reference": {
+      "version": "三国杀OL官网标准许褚，非界许褚",
+      "url": "https://www.sanguosha.com/hero/19",
+      "verified": "裸衣少摸牌换杀/决斗的伤害提高，强调舍一部分防备的强攻。",
+      "use": "转为可预判、有代价的单次重斩；不使用受伤越久无限成长，也不把游戏现成台词贴图。"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 12,
+        "chronology_key": "012-a",
+        "title": "葛陂护坞与掣牛",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "自述聚宗族守坞、飞石退寇、双手掣二牛尾倒行百余步。",
+        "selection": "card1",
+        "selection_reason": "先显示保乡的力气，再进入曹营。",
+        "misreading_to_avoid": "这是叙述中的此前事件，排在同回交战归曹之前；小说是双手二牛，不偷换成史籍一手一牛。"
+      },
+      {
+        "event_id": "b",
+        "chapter": 12,
+        "chronology_key": "012-b",
+        "title": "力战典韦受曹",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "多次与典韦战，后落陷坑被擒，曹操释缚厚待，宗族同降任都尉。",
+        "selection": "bio1",
+        "selection_reason": "由乡勇到亲卫的转折。",
+        "misreading_to_avoid": "不是典韦公平单挑轻易打败，陷坑不可省成武力碾压。"
+      },
+      {
+        "event_id": "c",
+        "chapter": 12,
+        "chronology_key": "012-c",
+        "title": "初战斩李封",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "归曹后请战，交马两合斩李封，薛兰另由吕虔射杀。",
+        "selection": "card2",
+        "selection_reason": "铜卡归军后的主动立功，与受用传记同段直接承接。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "d",
+        "chapter": 14,
+        "chronology_key": "014-d",
+        "title": "与徐晃相持",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "刀斧战五十余合不分胜负。",
+        "selection": "alternate",
+        "selection_reason": "证明实力但与前两战重复；不挤压护渡和裸衣。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "e",
+        "chapter": 58,
+        "chronology_key": "058-e",
+        "title": "负曹上船举鞍护渡",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "负曹跃船，撑篙举鞍挡箭，舟急旋转。",
+        "selection": "card3+bio2",
+        "selection_reason": "把巨力用在急险救护，给场景强差异。",
+        "misreading_to_avoid": "曹操割须后被马超追时，救者是曹洪；不要把两段救援合成许褚。"
+      },
+      {
+        "event_id": "f",
+        "chapter": 59,
+        "chronology_key": "059-f",
+        "title": "虎侯临阵与裸衣斗超",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "阵前一瞪使马超不敢突曹，后战二百余合换马脱甲再战，最终两军混战许褚中箭。",
+        "selection": "card4+bio3",
+        "selection_reason": "最强文化辨识，巅峰是力战而非虚构获胜。",
+        "misreading_to_avoid": "不宣称击败马超，不把裸衣画成裸体或虎人变身。"
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "葛陂压阵",
+        "camera": "低机位中全身，前臂大但脸不失真",
+        "action": "站在坞门外抬起一块可投的石块，身后宗族守门",
+        "environment": "夯土坞墙、耕牛远景和粮袋，清楚乡土",
+        "myth_growth": "脚下仅虎爪影与短尾影",
+        "structure_check": "石块体量可承、手指包握；双脚与地面重心一致",
+        "must_retain": "凶脸厚腰、乡勇服",
+        "must_not_inherit": "不画憨笑胖汉；不靠虐待牛镜头表现力气",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "c",
+        "title": "初刀入军",
+        "camera": "右前低机位，骑马中全身",
+        "action": "刀斩过后回收在身侧，眼仍看前敌，非举头庆功",
+        "environment": "兖州城外、敌阵退后，曹军在远后",
+        "myth_growth": "低伏虎首从马侧影中抬起",
+        "structure_check": "长柄刀回收路径避开马颈；握点近重心，尾杆可见",
+        "must_retain": "黄褐皮束加军甲、圆睁锐目",
+        "must_not_inherit": "不拿薛兰首级冒作李封；无虎头整块面具遮脸",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "e",
+        "title": "举鞍渡险",
+        "camera": "船外水面略低向上，人物中全身、可见船舷",
+        "action": "左手举鞍挡箭，右手撑篙，腿站宽稳住船尾；曹操伏近脚侧",
+        "environment": "急流小舟、对岸追兵和箭线，水不是魔法冰河",
+        "myth_growth": "完整重虎贴着船后雾影伏行，绝不实体挤船",
+        "structure_check": "双手各一物、无第三手；篙有水底/支点方向，鞍背朝来箭；简化原文夹舵动作需标动作改编",
+        "must_retain": "强悍护卫脸、肩背肌肉自然",
+        "must_not_inherit": "不把曹操抱在臂上同时撑篙举鞍；不画斩落船边人的血腥细节",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "f",
+        "title": "虎痴裸衣",
+        "camera": "左前斜低角度，近全身与马鞍，身向右转",
+        "action": "脱去上身甲后双手重握长柄刀，肩髋同向准备横斩",
+        "environment": "渭水河滩两军圆阵，马超在有距离的次要一侧",
+        "myth_growth": "巨虎粗颈低扑，虎首与许褚错位，白额/黄褐纹清晰",
+        "structure_check": "胸肩非肿胀油亮，双手间距能驱动长刀；刀长不缩水，马匹承重可信",
+        "must_retain": "凶脸、厚腰、裸衣但穿腰甲腿装、重虎",
+        "must_not_inherit": "不做张飞长矛断喝构图；不画马超败伏，不全身蓝甲",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "解缚入帐",
+        "camera": "横幅营帐近景，曹操解缚，典韦在侧后",
+        "action": "许褚仍昂首怒目，听清受用后收住敌意；陷坑泥土残在衣角",
+        "target_connection": "直接承归军后初战卡，不让他一夜变精致儒将",
+        "first_person_line_original": "你既肯放开我，我便替你出力。前阵交给我。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "绳解开方向真实；两巨将体型区分：典韦高、许褚阔",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "xuchu_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "e",
+        "title": "一跃上舟",
+        "camera": "横幅从船上看岸，许褚背负曹操起跳前一瞬",
+        "action": "船刚离岸，主角脚仍踏岸边、背负曹操；后段举鞍不同时拼进",
+        "target_connection": "白银卡是上船后的护渡，传记先交代两人如何到舟上",
+        "first_person_line_original": "别再坐了！先上船，箭来了有我挡。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "选起跳前避免悬空双人重心；船岸间距清楚，不同时多姿势",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "xuchu_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "f",
+        "title": "卸甲再战",
+        "camera": "横幅军阵边，许褚下马解甲，换上的战马在近旁",
+        "action": "已战久仍不肯退，部卒接甲，主角握刀回看马超",
+        "target_connection": "黄金裸衣不是突然换装，传记明确久战、换马与脱甲",
+        "first_person_line_original": "甲卸了，气还在。再来，这一刀我与你当面分个明白。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "解甲、接甲各自手明晰；身体不是全裸；两马若出现须一前一后分明",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "xuchu_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "xuchu_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第059回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "短暂明示蓄力后，对当前近身单体作一次高伤刀斩；蓄力时自身防御降低，结束即恢复。",
+      "active": {
+        "skill_id": "xuchu_a1",
+        "name": "虎痴重斩",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "短暂明示蓄力后，对当前近身单体作一次高伤刀斩；蓄力时自身防御降低，结束即恢复。",
+        "extra_effect": "不附加群体眩晕/当前生命比例伤害；一至四星仍是高风险单击。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "xuchu_p1",
+          "name": "蛮力",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "攻击力提高",
+          "trigger": "常驻",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "xuchu_p2",
+          "name": "悍击",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "主动重斩伤害提高",
+          "trigger": "主动命中",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "xuchu_p3",
+          "name": "虎骨",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "最大生命提高",
+          "trigger": "常驻",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "xuchu_p4",
+          "name": "凝力",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "主动蓄力时间缩短",
+          "trigger": "主动准备时",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "重虎由低伏到一次前扑，地面短震不造成控制；重斩完收回，不常驻金色火焰。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "xuchu_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "xuchu_p1",
+            "xuchu_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "xuchu_p1",
+            "xuchu_p2",
+            "xuchu_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "xuchu_p1",
+            "xuchu_p2",
+            "xuchu_p3",
+            "xuchu_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved",
+    "research_readiness": {
+      "selected_scenes_verified": true,
+      "selected_scenes_count": 7,
+      "identity_sample_required": true,
+      "can_start_identity_sample": true,
+      "can_mass_generate_without_reference": false,
+      "user_final_approval": false
+    },
+    "reference_attachment_requirements": {
+      "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+      "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+      "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+      "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+    }
+  }
+}

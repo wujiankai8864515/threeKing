@@ -1,0 +1,386 @@
+{
+  "files": [
+    {
+      "path": "37人四卡三传记制作简报.md",
+      "bytes": 108471,
+      "sha256": "8c48dc2db249fd358dea645cb3e4e70428d5c827d35f6f3808532cd1ac193449"
+    },
+    {
+      "path": "40人名单与制作队列.md",
+      "bytes": 1043,
+      "sha256": "011949ee1cf2b8482de0980e0dff9ac755d40a4e0f45d02350bbcf85886d6af3"
+    },
+    {
+      "path": "AUTHORITATIVE_40_ROSTER_QUEUE.json",
+      "bytes": 41485,
+      "sha256": "33c8a106e68985ba52943de166f37190663fd1007a680fd4e78b391e8b7d8fdc"
+    },
+    {
+      "path": "QA_COUNTS.json",
+      "bytes": 672,
+      "sha256": "d91cd0765e0336a238f3356bb83c976d88634cff09e980dd83d663de26698f3f"
+    },
+    {
+      "path": "READY_FOR_BACKUP.md",
+      "bytes": 884,
+      "sha256": "d216626e1223fdd97b8cdf3d2b510a7ac615fe0441f6549bf1653cfade0888b8"
+    },
+    {
+      "path": "REMAINING_37_INDIVIDUAL_BRIEFS.json",
+      "bytes": 265006,
+      "sha256": "5546de5a8645ddfdcfccaedbab8bf0d0b95ccd55f5754109e86ac0b6787bdf37"
+    },
+    {
+      "path": "SIX_ADDED_HERO_BRIEFS.json",
+      "bytes": 31909,
+      "sha256": "8debdfe9461c38fabbaf8829c2327d6ba7d2e9e0037955ad125f59a7bc5a35d6"
+    },
+    {
+      "path": "SOURCES_AND_CORRECTIONS.json",
+      "bytes": 28423,
+      "sha256": "463be6ac81fb39ba71a6a426fb9c2f4cba373357d33b502a58fc4349af782bb7"
+    },
+    {
+      "path": "briefs/caocao.json",
+      "bytes": 7319,
+      "sha256": "a1f3b3832adb412c46cba094287d9f950e3d85bc07e8f72c93a4365a851c4219"
+    },
+    {
+      "path": "briefs/dianwei.json",
+      "bytes": 7542,
+      "sha256": "ca200f3c9513ec7aea23b2b45dee3aea5367f1e61ddf1d1976ba255d60a4276e"
+    },
+    {
+      "path": "briefs/diaochan.json",
+      "bytes": 7103,
+      "sha256": "015f9b5d32aa4d1d49b12580cf10598be2af12b099f07482c9d4c327e50523e2"
+    },
+    {
+      "path": "briefs/dongzhuo.json",
+      "bytes": 7526,
+      "sha256": "a947f419ddf61819d64df9b310fd90ea212ab4c1786386190b86cd8ff68fe4eb"
+    },
+    {
+      "path": "briefs/ganning.json",
+      "bytes": 6897,
+      "sha256": "d4077a6238f1a732e95e66eb907e8cc024d2c92431418f3d93d0c0e4ed989f83"
+    },
+    {
+      "path": "briefs/gongsunzan.json",
+      "bytes": 5220,
+      "sha256": "45ba3bfe607eeecfde9a692c2c92cf1e98e573018d5edd09bdfdc3b30e058abb"
+    },
+    {
+      "path": "briefs/guojia.json",
+      "bytes": 6763,
+      "sha256": "8e2cd89ffb4763bfc5177f134480dcd4acf34ba154975ee7798f691bdfcbd085"
+    },
+    {
+      "path": "briefs/huanggai.json",
+      "bytes": 6791,
+      "sha256": "9a806c4f62f1d7610a012064fcccb9afb99586e6cf63eb002b530475bb3b6020"
+    },
+    {
+      "path": "briefs/huangzhong.json",
+      "bytes": 6206,
+      "sha256": "bd19679265cf7bbeb9ca34ce239272d4b54841ea741bef77a0d4bfc0b8b5b07d"
+    },
+    {
+      "path": "briefs/huatuo.json",
+      "bytes": 6914,
+      "sha256": "41977e4a08bea5c6cc2d9cbd1265f5e6df659b67ac4c405680cbec5175da02d6"
+    },
+    {
+      "path": "briefs/jiangwei.json",
+      "bytes": 5065,
+      "sha256": "224e3282fce234102a208552bfed82f69d4341929f137ffba0943cc30281a998"
+    },
+    {
+      "path": "briefs/jiaxu.json",
+      "bytes": 6835,
+      "sha256": "118ffdb40ee051c09fbc75bd53b708209fba3f3a777768c8d332a00d98fa5dbb"
+    },
+    {
+      "path": "briefs/lubu.json",
+      "bytes": 7344,
+      "sha256": "84b7bc4fbde3fd37050d7ceb0292ad14efed73e377d7be5fa4f0aab0b3587a25"
+    },
+    {
+      "path": "briefs/lumeng.json",
+      "bytes": 6737,
+      "sha256": "37980090168beed26c822c500e9426b4b22fce8f6098ffc3c1ea24dee88bc7e2"
+    },
+    {
+      "path": "briefs/lusu.json",
+      "bytes": 4954,
+      "sha256": "300226d11cd0930f75360cc63381d1379e5804f94f38d24774dd6eff6ccde7ee"
+    },
+    {
+      "path": "briefs/luxun.json",
+      "bytes": 6804,
+      "sha256": "95bed8d97b9639f7055679999a3ce815656f00defaf1cbcafeaa4576f96d1ca7"
+    },
+    {
+      "path": "briefs/machao.json",
+      "bytes": 6550,
+      "sha256": "bee299251006a3e8a75d27f1b1d86923766a64cf9a4e6c711ef1e975c7dff3fd"
+    },
+    {
+      "path": "briefs/pangtong.json",
+      "bytes": 6372,
+      "sha256": "2e7d2e1e94b7c9a2f23af47f846e73d685b892506bcae9c3a4e68d6b62c2b324"
+    },
+    {
+      "path": "briefs/sunce.json",
+      "bytes": 7008,
+      "sha256": "f612842e5ac0a0d9131165e431fb497cfd5cf47791dad3f9bd776504734e7069"
+    },
+    {
+      "path": "briefs/sunquan.json",
+      "bytes": 6807,
+      "sha256": "78b3493e659b7125fc45ea27444a75707e0c083f53f3fba37ef2e458ebfff0a9"
+    },
+    {
+      "path": "briefs/sunshangxiang.json",
+      "bytes": 7354,
+      "sha256": "b76116d39a43fa0fa389c9091eaa63388929ce75d33b2fe4e44fa12e9a7092ad"
+    },
+    {
+      "path": "briefs/taishici.json",
+      "bytes": 5031,
+      "sha256": "8ad4b0fc871b6e695d2432f2cc72b90e2ed1fdc38369563c81b88069cf5df46d"
+    },
+    {
+      "path": "briefs/weiyan.json",
+      "bytes": 4976,
+      "sha256": "29ac7f2119bf6361e58e4cbd6e32fc9e10185ba8c7f2128f399a47dd7bad1bad"
+    },
+    {
+      "path": "briefs/xuchu.json",
+      "bytes": 7413,
+      "sha256": "6ab6edf3e50ce6896d04fe9a7086f31c90d74fd220bce5b02be935c8a0d8240e"
+    },
+    {
+      "path": "briefs/xuhuang.json",
+      "bytes": 6752,
+      "sha256": "47145a77d56e4a5deae094fd14ae4c4da574e38f858f54837a59c50aca676699"
+    },
+    {
+      "path": "briefs/xunyu.json",
+      "bytes": 6595,
+      "sha256": "9df5b811ab6effbec157e6828ce3ec27de58a07b5ee459ba43dc84343c77bfdd"
+    },
+    {
+      "path": "briefs/yuanshao.json",
+      "bytes": 6904,
+      "sha256": "e86d169ef323ae74d478ece1cc67d8c6042953444829c41a474527b56681c870"
+    },
+    {
+      "path": "briefs/yuanshu.json",
+      "bytes": 5221,
+      "sha256": "351399d455e2f140e3811955c6e2f0f44c31e5b306d6985c7e918fe48143c7e5"
+    },
+    {
+      "path": "briefs/yuejin.json",
+      "bytes": 6946,
+      "sha256": "e037139b0f5e58c020734729d1916c02d53b4721feea2e96918e6c07cefc3180"
+    },
+    {
+      "path": "briefs/yujin.json",
+      "bytes": 6699,
+      "sha256": "6c1860531261792391b250a8f2c8e3e435144ce594fa8c4b26daef4990551bbe"
+    },
+    {
+      "path": "briefs/zhanghe.json",
+      "bytes": 6729,
+      "sha256": "83dd6474a1b8dfabf5d702e029da22d07407824d7a3d8d46ef1dcfc5d333ea4e"
+    },
+    {
+      "path": "briefs/zhangjiao.json",
+      "bytes": 6906,
+      "sha256": "9cc700db144a98410bf5e45c636f85fe811cc3d842f11121d8f7ac1f86534580"
+    },
+    {
+      "path": "briefs/zhangliao.json",
+      "bytes": 7050,
+      "sha256": "e3f4d9104fb9b87689d29150e7d8a63a89f4f6107280465809b0d41ab3363df3"
+    },
+    {
+      "path": "briefs/zhaoyun.json",
+      "bytes": 6052,
+      "sha256": "1d9e3d03bb4953bc8d75db927484dace22d0441ef6b1651876e8d8ee1b3c85da"
+    },
+    {
+      "path": "briefs/zhouyu.json",
+      "bytes": 6770,
+      "sha256": "1d2a6a57e6a325cd2d8549e2a79548682bfe630f91dc37dfa587a38dd65b9a11"
+    },
+    {
+      "path": "briefs/zhugeliang.json",
+      "bytes": 6123,
+      "sha256": "b267d9719cbf57330ad6d8155fa927ef1be28e67d66e687e252026f478bb25ed"
+    },
+    {
+      "path": "briefs/zuoci.json",
+      "bytes": 7470,
+      "sha256": "0661a1c02e112115376d27391890b5212f84a2ac98bcc7d4ffcff08576b66196"
+    },
+    {
+      "path": "inherited_full_research/caocao.json",
+      "bytes": 19705,
+      "sha256": "f7466cb9d81315cf81fd68c21c0fe4b55eb9e7092a6cac5b9117a672ca73da90"
+    },
+    {
+      "path": "inherited_full_research/dianwei.json",
+      "bytes": 18888,
+      "sha256": "55adde7179e1939785309412ed4b90547f0ccf62f08b4aae8980ed26231143a1"
+    },
+    {
+      "path": "inherited_full_research/diaochan.json",
+      "bytes": 17712,
+      "sha256": "01f4437e0bdcfb4665c481c1d9383fd2fbdf786f4695c1695b38eb877cfd8b07"
+    },
+    {
+      "path": "inherited_full_research/dongzhuo.json",
+      "bytes": 18657,
+      "sha256": "6565a37a304667628437f3bfa1faf03225f481f98727e86e001daa1e2572b852"
+    },
+    {
+      "path": "inherited_full_research/ganning.json",
+      "bytes": 17468,
+      "sha256": "f959e2fae640d18adfd473837faff2f92b27bba6df797767191f039860aebb0f"
+    },
+    {
+      "path": "inherited_full_research/guojia.json",
+      "bytes": 18549,
+      "sha256": "4ef0f90bca187e43358ec1208f7d834e1ae0d038f3214d374e2261f5e55025f4"
+    },
+    {
+      "path": "inherited_full_research/huanggai.json",
+      "bytes": 17467,
+      "sha256": "ed2598d25e00269c81b96ac96e5904c1e6eca0f43f794aebb16f7459753ffde1"
+    },
+    {
+      "path": "inherited_full_research/huangzhong.json",
+      "bytes": 11423,
+      "sha256": "57b39933cf91b64d380c182ed7ea61a9e2a7fa5472a1149d2e2a6dfac6ffcd99"
+    },
+    {
+      "path": "inherited_full_research/huatuo.json",
+      "bytes": 17061,
+      "sha256": "5b534405be767206afb5f67d63cee0f5ddbff1d99a9accd4dfd2b4572f096625"
+    },
+    {
+      "path": "inherited_full_research/jiaxu.json",
+      "bytes": 18020,
+      "sha256": "96c1e65575ebe61c5019ce11c157fb715e46a3954866888efa64365b8f24ff22"
+    },
+    {
+      "path": "inherited_full_research/lubu.json",
+      "bytes": 17200,
+      "sha256": "75fb594f9d5237ff2dbd0827f3e9c07cf38cb70d4ce563d580f6c0f25985ad9b"
+    },
+    {
+      "path": "inherited_full_research/lumeng.json",
+      "bytes": 17944,
+      "sha256": "b7be8f45a8bff9c341792e15175abf7fb6800c1741185cb9378f81ba4393ed8a"
+    },
+    {
+      "path": "inherited_full_research/luxun.json",
+      "bytes": 17467,
+      "sha256": "3ff226aa874efb58b24f96d9e46ebc0fa6e4a914123958f40a58859e6012b5b6"
+    },
+    {
+      "path": "inherited_full_research/machao.json",
+      "bytes": 12463,
+      "sha256": "fe1ef5a023bee23c2d7d71a032e445557d88c723b24067816f6214c9be11e481"
+    },
+    {
+      "path": "inherited_full_research/pangtong.json",
+      "bytes": 11790,
+      "sha256": "023bf84a7a9738d436746e564529b23920cd782e3e571482590cea224ed7ecaf"
+    },
+    {
+      "path": "inherited_full_research/sunce.json",
+      "bytes": 17986,
+      "sha256": "100e9dfaba9332da11d3a3ea225e651c2a3d8fa75a7fb619f8b21eb38d101ee7"
+    },
+    {
+      "path": "inherited_full_research/sunquan.json",
+      "bytes": 17406,
+      "sha256": "89157253203e2261d6332504accdbd8297a6c88a87ab0e37b339885988727dff"
+    },
+    {
+      "path": "inherited_full_research/sunshangxiang.json",
+      "bytes": 18623,
+      "sha256": "a029e45631628ae9a54ce60a1935e1902ef90b92b4dd931995144ab6658d9f37"
+    },
+    {
+      "path": "inherited_full_research/xuchu.json",
+      "bytes": 19372,
+      "sha256": "fc3daf8e51e721dd80317e4119dd641a44e270bb2b4a5e61347fba0e9b78ffa0"
+    },
+    {
+      "path": "inherited_full_research/xuhuang.json",
+      "bytes": 18444,
+      "sha256": "33601589770c5e8ed1666d510ced774d3f435ff9d51297d482b5d36785c24770"
+    },
+    {
+      "path": "inherited_full_research/xunyu.json",
+      "bytes": 18381,
+      "sha256": "75a7e31d2ab538d05f9319a0c5c4304c021c2a6a8d2906b85e9de55a36e7189f"
+    },
+    {
+      "path": "inherited_full_research/yuanshao.json",
+      "bytes": 17873,
+      "sha256": "26e0b353a5515cd9dfcae38f7fd8df439d1107071d467f6fd64c06d7379f4a62"
+    },
+    {
+      "path": "inherited_full_research/yuejin.json",
+      "bytes": 19204,
+      "sha256": "8065a7983152428fed2df0024ded259b1c4b893ec479647d80063f981c1f0d57"
+    },
+    {
+      "path": "inherited_full_research/yujin.json",
+      "bytes": 18602,
+      "sha256": "5731431350167d1f6c0c9762d2c352450b1d14f254c3b9ed22f6438a6c0cf23e"
+    },
+    {
+      "path": "inherited_full_research/zhanghe.json",
+      "bytes": 18791,
+      "sha256": "46d6e8fef460a1be054ee01f794ee08fec7ecbaa2c0a400710b0ba86ce3cdfc1"
+    },
+    {
+      "path": "inherited_full_research/zhangjiao.json",
+      "bytes": 17446,
+      "sha256": "7c9aee43085e1aa7d90f5870b89af91774f21f0cc1a821ce2e9745f0a6e55a1c"
+    },
+    {
+      "path": "inherited_full_research/zhangliao.json",
+      "bytes": 18723,
+      "sha256": "9467f9fb2e37b3bdb7c348c69da81203ca479e782f55c4a30da0b3ca444fdc67"
+    },
+    {
+      "path": "inherited_full_research/zhaoyun.json",
+      "bytes": 11314,
+      "sha256": "049fbc98b56052144df0a034d28d37188008ce99c689af4211fda4cdd03ac790"
+    },
+    {
+      "path": "inherited_full_research/zhouyu.json",
+      "bytes": 17419,
+      "sha256": "fede3e60f9c47e63cae71029bf8e4d4f1a52ec75aa236caa3fd6382b5fff902d"
+    },
+    {
+      "path": "inherited_full_research/zhugeliang.json",
+      "bytes": 11309,
+      "sha256": "6d066a6e517bf490e9deb705c39f519f290370726c8a8fd9a4548ae7f774647c"
+    },
+    {
+      "path": "inherited_full_research/zuoci.json",
+      "bytes": 18652,
+      "sha256": "d2d398cb4d1b4c8e7ac2acc419d11e3580cb64b5f83667bea85b32881082f9da"
+    }
+  ],
+  "no_images_generated": true,
+  "final_semantic_check": "passed"
+}

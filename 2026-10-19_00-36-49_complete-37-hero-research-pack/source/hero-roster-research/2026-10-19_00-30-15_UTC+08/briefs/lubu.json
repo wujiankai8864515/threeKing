@@ -1,0 +1,148 @@
+{
+  "hero_id": "lubu",
+  "name": "吕布",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "对面前一名敌人发动重戟正击，降低该次攻击被格挡的概率；仍可被闪避、位移或技能防御应对。",
+  "myth_symbol_proposal": {
+    "name": "兵主戟魂",
+    "origin": "原创武器神相，不称吕布为蚩尤转世或给定历史族属",
+    "reason": "背后只有一柄巨戟轮廓与撕开风压的竖势，不再套虎、龙、狮兽；与典韦双臂巨巫肉身神力分开。",
+    "growth": "戟锋一道冷痕→半幅竖戟影→完整重戟魂→高大戟影定在地平线上，弓箭场景仍保留真实辕门戟"
+  },
+  "identity_draft": {
+    "face": "原创高颧长方脸、压低浓眉、深眼、紧下颌，成熟成年男性；有少量短髭，不变曹操长须。",
+    "hair": "第3回束发金冠，第5回冠上雉尾有诗文依据；以黑发高束、两根可控长翎构建项目身份，低阶冠简化属设计。",
+    "body": "原创高大匀称、肩腰强烈而不胖，手臂长，受力像优秀战将而非多臂魔像。",
+    "clothes": "原文百花战袍、唐猊铠甲、狮蛮宝带；原创用银铁甲、深绛袍、黑皮束与少量冠金，不把百花画成现代印花。",
+    "weapons_fact": "原文画戟，第5回诗称方天戟；第16回弓射戟小枝。第3回杀丁原用刀，不能一生所有事都画戟。",
+    "weapons_design": "统一双月牙方天画戟属对类别的原创定型，先立刚性直轴与刃连接；辕门卡戟在远处作靶，主角持弓。",
+    "mount_fact": "第3回李肃赠赤兔后才属于吕布，原文全身火炭赤无杂毛；第5回乘赤兔。",
+    "mount_design": "赤兔保无杂毛的深赤栗毛，肌肉真实不等于燃烧皮肤。黑铁丁原军段用普通深褐马，不能提前赤兔。",
+    "reference_version": "QUN-LB-text-v1；需与既有关羽赤兔马身份资产关联但不复用关羽人物。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "原文画戟，第5回诗称方天戟；第16回弓射戟小枝。第3回杀丁原用刀，不能一生所有事都画戟。",
+    "weapons_design": "统一双月牙方天画戟属对类别的原创定型，先立刚性直轴与刃连接；辕门卡戟在远处作靶，主角持弓。",
+    "mount_fact": "第3回李肃赠赤兔后才属于吕布，原文全身火炭赤无杂毛；第5回乘赤兔。",
+    "mount_design": "赤兔保无杂毛的深赤栗毛，肌肉真实不等于燃烧皮肤。黑铁丁原军段用普通深褐马，不能提前赤兔。"
+  },
+  "cards": [
+    {
+      "asset_id": "lubu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "并州戟锋",
+      "event": "丁原帐下挺戟",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第003回"
+      ],
+      "pose_and_scene_original": "眼平偏侧骑姿中全身；挺戟勒马停在丁原军前，目视董军退势；洛阳城郊干土、汉军营旗",
+      "myth_growth": "刃尖一线冷压影",
+      "avoid": "无赤兔、董军仪仗；不画野蛮兽皮民族套型",
+      "generated": false
+    },
+    {
+      "asset_id": "lubu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "虎牢独挡",
+      "event": "虎牢关战三英",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "pose_and_scene_original": "低前侧全身，戟轴斜向远处；骑赤兔横戟挡三向来势，取交手中而非逃脱后一瞬；关前荒坡，三英远中景分开成丁字关系",
+      "myth_growth": "半幅戟魂竖起，风压只沿刃",
+      "avoid": "不画三英被击倒；不让戟弯成新月杆",
+      "generated": false
+    },
+    {
+      "asset_id": "lubu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "诏出戟定",
+      "event": "北掖门诛董",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第009回"
+      ],
+      "pose_and_scene_original": "殿门侧前近全身；一手持戟落地，另一手出示诏卷，身后车驾退暗；北掖门石地、甲士停手，董卓倒地只遮挡轮廓",
+      "myth_growth": "完整戟魂立在门外，不冲入人物身体",
+      "avoid": "不提首级；不画王允冲前亲刺",
+      "generated": false
+    },
+    {
+      "asset_id": "lubu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "辕门一箭",
+      "event": "辕门射戟解斗",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第016回"
+      ],
+      "pose_and_scene_original": "侧身略低近中全身，目光沿弓线；挽袖满弓将放一箭，远处戟枝与辕门构成目标；中军营地、刘备纪灵分立后侧，长射程空间可读",
+      "myth_growth": "巨戟魂随远靶直立，弓线周围仅一条紧绷风弧",
+      "avoid": "不对敌将头部射箭；不持弓同时舞戟",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "lubu_story_to_02",
+      "target_card_id": "lubu_card_02",
+      "target_stage": 2,
+      "title": "关前三路合围",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "scene_original": "横幅虎牢阵侧，吕布大前景回看加入战局的刘备；收戟调整马头，三英形成新包围，未画结果；铜卡强力来自承受三面压力，而非虚构三人败亡",
+      "generated": false
+    },
+    {
+      "asset_id": "lubu_story_to_03",
+      "target_card_id": "lubu_card_03",
+      "target_stage": 3,
+      "title": "司徒密议",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第009回"
+      ],
+      "scene_original": "横幅王允府内，吕布近景听计后握拳；王允说明诛董安排，画戟倚架，窗外城夜；银卡北掖门行动的直接政治前因；短词为原创，不把动机改史实",
+      "generated": false
+    },
+    {
+      "asset_id": "lubu_story_to_04",
+      "target_card_id": "lubu_card_04",
+      "target_stage": 4,
+      "title": "两军共看一枝",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第016回"
+      ],
+      "scene_original": "横幅营门内，吕布指示军士把戟立远；刘备与纪灵各自注视靶位，张飞欲争被关羽止；金卡神射来自共同接受止战条件，避免单纯射箭炫技",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "骁力",
+      "single_effect": "普通攻击伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "压锋",
+      "single_effect": "连续攻击同一目标时伤害小幅提高且有上限",
+      "unlock_star": 2
+    },
+    {
+      "name": "强腕",
+      "single_effect": "主动反格挡幅度提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "争衡",
+      "single_effect": "附近仅一名敌人时受到的伤害降低",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

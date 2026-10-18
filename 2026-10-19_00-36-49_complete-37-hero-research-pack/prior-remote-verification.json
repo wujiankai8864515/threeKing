@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-19T00:33:56.844454+08:00",
+  "commit": "958dabf2e3882ceaca95d1bd65c1686fe53c9c5b",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 5477,
+  "sequential_copy_sha256_checked": true,
+  "archived_entries": 622,
+  "new_paths": 601,
+  "existing_paths_updated": 21,
+  "scope": "Ready resources and documents plus 40-hero restart constraints and authoritative roster. Existing delivered 21 candidate map preserved. Active new Zhao/Huang/Ma folders excluded pending manifest readiness."
+}

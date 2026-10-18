@@ -1,0 +1,149 @@
+{
+  "hero_id": "huatuo",
+  "name": "华佗",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "为一名受伤友军恢复生命；三星起同时移除该友军一项可驱散的持续伤害状态。",
+  "myth_symbol_proposal": {
+    "name": "百草生息环",
+    "origin": "原创神话视觉，借百草与青囊之意，不宣称神农转世或医学神迹真实",
+    "reason": "枝叶脉络形成有边界的生命环，书与布囊比武器更突出；不复制荀彧鹿形供能。",
+    "growth": "青囊一叶纹→双枝环→枝叶环臂→完整百草环绕书而非复活死者"
+  },
+  "identity_draft": {
+    "face": "第15回童颜鹤发；设计为白发年长但气色温润的成年医者，额纹、眼角纹清楚，不画儿童脸白发。",
+    "hair": "白发低束、细长白须，方巾按75回；四阶同发际与须型。",
+    "body": "原创中等偏瘦、背直、手稳，非肌肉战神。",
+    "clothes": "75回方巾阔服、臂挽青囊有据；米白麻袍、褐绿外衣、深青布囊。等级升高靠洗练层次而非金甲。",
+    "weapons_fact": "75回治疗用小刀，78回诊治建议为小说情节；无实战武器或法杖证据。",
+    "weapons_design": "青囊、药箱、书卷为主要道具；小医刀只在合适场景未接触伤处时出现，不作教程。",
+    "mount_fact": "75回从江东乘小舟来；无专属坐骑。",
+    "mount_design": "步行/船边为主，普通包袱药箱，不乘仙鹤。",
+    "reference_version": "QUN-HT-text-v1，待样。",
+    "medical_boundary": "全部医疗为古典小说叙事及游戏幻想，不可作为现实诊断或疗法；不附药方、剂量或操作步骤。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "75回治疗用小刀，78回诊治建议为小说情节；无实战武器或法杖证据。",
+    "weapons_design": "青囊、药箱、书卷为主要道具；小医刀只在合适场景未接触伤处时出现，不作教程。",
+    "mount_fact": "75回从江东乘小舟来；无专属坐骑。",
+    "mount_design": "步行/船边为主，普通包袱药箱，不乘仙鹤。"
+  },
+  "cards": [
+    {
+      "asset_id": "huatuo_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "初见江东",
+      "event": "入吴治周泰",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "pose_and_scene_original": "医帐入口眼平侧全身；提青囊与药箱走到伤者榻侧，先看病人神情；孙策营中朴素医帐，周泰臂肩包覆",
+      "myth_growth": "囊角一叶生息纹",
+      "avoid": "无血肉开放伤，不用现代手术台",
+      "generated": false
+    },
+    {
+      "asset_id": "huatuo_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "棋旁稳手",
+      "event": "赴关营义诊疗臂",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "pose_and_scene_original": "棋案侧前中景，华佗主脸最大；治疗已完成的包覆阶段，双手整理布带，关羽与马良棋局在侧后；军帐、真实木桌和小刀收在托盘",
+      "myth_growth": "两枝生息环轻绕前臂外侧",
+      "avoid": "不近景暴露骨肉，不画出实际手术步骤",
+      "generated": false
+    },
+    {
+      "asset_id": "huatuo_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "权门守医言",
+      "event": "入曹府直陈病情",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第078回"
+      ],
+      "pose_and_scene_original": "正面偏侧近全身，机位稍低；诊脉后收回手，平静站起面对曹操疑怒；曹府内室，药箱闭合，侍卫门外",
+      "myth_growth": "枝叶环在肩侧收束，柔和不让患者发绿",
+      "avoid": "不持斧劈头；不画曹操痊愈欢庆",
+      "generated": false
+    },
+    {
+      "asset_id": "huatuo_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "青囊留世愿",
+      "event": "狱中托青囊书",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第078回"
+      ],
+      "pose_and_scene_original": "狱门内眼平半身，主角脸受窗光；检看书后双手交给吴押狱，身体疲倦但目光清楚；土墙木栅、饭碗与窄窗；不血刑牢狱",
+      "myth_growth": "完整百草环围书一周，叶是整片柔形非绿色光粉",
+      "avoid": "不画已焚书完好传遍天下；不插金光升天",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "huatuo_story_to_02",
+      "target_card_id": "huatuo_card_02",
+      "target_stage": 2,
+      "title": "闻伤渡江",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "scene_original": "横幅小舟泊岸，主角提囊上岸，关平来迎；没有召赏仪仗，自来医治的姿态质朴；铜卡棋旁疗臂的到来前因，人物不被关羽完全压住",
+      "generated": false
+    },
+    {
+      "asset_id": "huatuo_story_to_03",
+      "target_card_id": "huatuo_card_03",
+      "target_stage": 3,
+      "title": "医言难入权门",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第078回"
+      ],
+      "scene_original": "横幅室内诊后对话，华佗近景，曹操偏远；曹操挥手召卫，贾诩在侧想劝，华佗不伸刀抵抗；银卡坚持医言直接通向下狱，保留悲剧边界",
+      "generated": false
+    },
+    {
+      "asset_id": "huatuo_story_to_04",
+      "target_card_id": "huatuo_card_04",
+      "target_stage": 4,
+      "title": "把书交给能用的人",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第078回"
+      ],
+      "scene_original": "横幅狱内，吴押狱带取来的书，华佗查看后递还；饭食在旁标明照顾之恩，书尚完整，镜头止于托付；金卡传承意愿来自相托报恩；后书毁须在文字边界披露",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "仁术",
+      "single_effect": "单次治疗量提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "缓脉",
+      "single_effect": "主动治疗的能量消耗降低",
+      "unlock_star": 2
+    },
+    {
+      "name": "清秽",
+      "single_effect": "对带持续伤害状态者的治疗量提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "济急",
+      "single_effect": "对低生命友军的治疗量提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

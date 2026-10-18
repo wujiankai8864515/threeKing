@@ -1,0 +1,119 @@
+{
+  "hero_id": "jiangwei",
+  "name": "姜维",
+  "faction": "shu",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "玄甲麒麟",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "战术枪将；主动指定一敌作一次破阵枪击，重在识破布阵后的定点进击，不复制赵云救援或马超冲阵。",
+  "identity_draft": "青年锐目、长眉清瘦脸；后期保骨相加成熟纹理，墨绿配赭红护襟，几何军图纹；麒麟宽额单角与鳞甲四足，绝不画白龙。",
+  "weapon_mount_evidence": {
+    "canonical": "第93回挺枪跃马；第104回拔剑及受兵书、弩图。",
+    "art_design": "素长枪逐阶演化为原创麒麟纹枪；不用绿沉枪等未经本次证实的专名。",
+    "mount": "普通深棕战马，未核出专名；黄金仍是马，麒麟为背后权能。"
+  },
+  "chronology_caution": "93回同章先对抗后归降，非自始蜀将；110回取洮西胜利瞬间，后续狄道未克必须保留注记，不能宣称完成北伐。",
+  "cards": [
+    {
+      "asset_id": "jiangwei_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "天水识阵",
+      "event": "姜维识破袭城计并与赵云交锋",
+      "chapter": 93,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+      "pose_and_scene_original": "左侧低机位静勒战马，枪尖低守，天水土城与伏兵火号仅在远处。",
+      "generated": false
+    },
+    {
+      "asset_id": "jiangwei_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "择途归蜀",
+      "event": "归路被拒后受诸葛亮迎纳",
+      "chapter": 93,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+      "pose_and_scene_original": "下马正侧面收枪，另一手回应孔明；山坡车轮在后景，不画庆功。",
+      "generated": false
+    },
+    {
+      "asset_id": "jiangwei_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "灯下承书",
+      "event": "五丈原受诸葛亮兵书与连弩图",
+      "chapter": 104,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第104回",
+      "pose_and_scene_original": "跪坐双手捧卷的侧近景，枪倚帐外，克制悲意；不把卧榻画成宫殿。",
+      "generated": false
+    },
+    {
+      "asset_id": "jiangwei_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "洮西返阵",
+      "event": "背洮水布阵，回军与两翼合击王经",
+      "chapter": 110,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第110回",
+      "pose_and_scene_original": "骑马回身挥令，长枪由后下指向左前，河岸大地与两翼队列可读。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "jiangwei_story_to_02",
+      "target_card_id": "jiangwei_card_02",
+      "target_stage": 2,
+      "title": "山路受知",
+      "chapter": 93,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第093回",
+      "scene_original": "横幅以姜维疲惫脸为主体，诸葛亮从小车下迎，拒门箭影只作远景前因。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "jiangwei_story_to_03",
+      "target_card_id": "jiangwei_card_03",
+      "target_stage": 3,
+      "title": "一卷千钧",
+      "chapter": 104,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第104回",
+      "scene_original": "近景姜维承接书卷、孔明半卧在后侧；只呈授受，不画法术复活。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "jiangwei_story_to_04",
+      "target_card_id": "jiangwei_card_04",
+      "target_stage": 4,
+      "title": "背水回锋",
+      "chapter": 110,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第110回",
+      "scene_original": "从姜维身侧看到河水在背后、张翼与夏侯霸分路合围，主角带兵回击。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "识阵",
+      "single_effect": "对被标记目标的主动伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "继志",
+      "single_effect": "释放主动后恢复自身少量能量",
+      "unlock_star": 2
+    },
+    {
+      "name": "整旅",
+      "single_effect": "相邻友军防御提高",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

@@ -1,0 +1,149 @@
+{
+  "hero_id": "sunce",
+  "name": "孙策",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "对近身一名敌人直刺一次；若本场孙策尚未对该目标造成过伤害，该次直刺威力提高。已交战过的目标不重复获得此奖励。",
+  "myth_symbol_proposal": {
+    "name": "腾潮狻猊",
+    "origin": "原创神兽提案，非原文小霸王的字面化身",
+    "reason": "年轻狮首昂起、前爪跃岸表现开疆；棕金短鬃，不用许褚白额虎斑、张飞黑虎须。",
+    "growth": "浪沫狮爪→半鬃→跃岸狮形→站上江岸岩脊的巨狻猊"
+  },
+  "identity_draft": {
+    "face": "原创青年高颧、宽额、硬朗下颌、亮而不圆的眼；几乎无须，不能变少年儿童。",
+    "hair": "原创高束短马尾、窄额巾，无吕布双长翎。",
+    "body": "原创强健长腿、肩背展开但非巨躯。",
+    "clothes": "浅赭与海青短袍、铁灰甲，红仅小缨；甲由随父的简单板片到开疆统帅的整洁胸甲，皮布仍哑光。",
+    "weapons_fact": "第7回挺枪并射陈生；第15回神亭与太史慈持枪战，下马后夺短戟。无所核固定霸王枪专名。",
+    "weapons_design": "统一宽叶直枪配短红缨，故事弓为辅；神亭画马上枪战，短戟抢夺留候选，不合并四武器。",
+    "mount_fact": "原文骑马，未核到固定坐骑专名。",
+    "mount_design": "黄骠战马、黑鬃，小白鼻连续辨识；非白马王子模板。",
+    "reference_version": "WU-SC-text-v2，待样。",
+    "age_adaptation": "第8回紧接父死时称孙策十七岁；本项目为统一四阶身份采用20岁以上成年面貌，是明确原创年龄调整，不宣称原著已成年。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第7回挺枪并射陈生；第15回神亭与太史慈持枪战，下马后夺短戟。无所核固定霸王枪专名。",
+    "weapons_design": "统一宽叶直枪配短红缨，故事弓为辅；神亭画马上枪战，短戟抢夺留候选，不合并四武器。",
+    "mount_fact": "原文骑马，未核到固定坐骑专名。",
+    "mount_design": "黄骠战马、黑鬃，小白鼻连续辨识；非白马王子模板。"
+  },
+  "cards": [
+    {
+      "asset_id": "sunce_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "父阵初锋",
+      "event": "随父出征射陈生",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "pose_and_scene_original": "侧面眼平骑射中景；枪已收束，右手刚放弦，目光跟箭去陈生方向；汉水近岸军阵，孙坚只后景半身",
+      "myth_growth": "浪沿形成短狮爪痕",
+      "avoid": "不射成张虎；不多箭齐飞从同一弓出",
+      "generated": false
+    },
+    {
+      "asset_id": "sunce_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "借兵渡江",
+      "event": "玉玺质兵渡江",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "pose_and_scene_original": "船头斜上低视，近全身；立在跳板踏上岸的第一步，枪垂侧，由兵卒导马；江岸木船、坡路，初创队伍有规模但不满天兵",
+      "myth_growth": "狻猊半鬃在浪中扬起",
+      "avoid": "手中无仍作抵押的玉玺；无称帝冠",
+      "generated": false
+    },
+    {
+      "asset_id": "sunce_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "神亭争锋",
+      "event": "神亭斗太史慈",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "pose_and_scene_original": "马头外侧低角度，枪轴斜贯画面；双手推枪与太史慈枪势交错前一瞬；不交成软杆结；山岭边开阔平川，十二随骑退远",
+      "myth_growth": "完整狻猊跃岸般张爪，但不碰对手兵器",
+      "avoid": "不画太史慈跪地归降，这场尚未决胜",
+      "generated": false
+    },
+    {
+      "asset_id": "sunce_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "孙郎开疆",
+      "event": "释慈纳众安民",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "pose_and_scene_original": "正面偏侧中全身，站在营门土阶；放低枪锋迎归队，身后将士整列，百姓带牛酒在外侧；江南田埂与真实营门，不建皇城",
+      "myth_growth": "巨狻猊收爪站稳岩脊，气势由扑击变守土",
+      "avoid": "不得把安民画成万人神跪；不把神兽当实史坐骑",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "sunce_story_to_02",
+      "target_card_id": "sunce_card_02",
+      "target_stage": 2,
+      "title": "质玺换前路",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "scene_original": "横幅袁术厅内，孙策近侧、吕范后景；把玺匣推向袁术，身体已转向出门方向；青铜渡江之前真正代价，不虚构凭空得军",
+      "generated": false
+    },
+    {
+      "asset_id": "sunce_story_to_03",
+      "target_card_id": "sunce_card_03",
+      "target_stage": 3,
+      "title": "十三骑上神亭",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "scene_original": "横幅山坡前侧，主角回望劝阻将领；孙策持枪停马望岭南，程普抬手劝止，太史慈两骑自远坡来；直接铺垫银卡交锋；莽锐为性格，不伪称完美谋算",
+      "generated": false
+    },
+    {
+      "asset_id": "sunce_story_to_04",
+      "target_card_id": "sunce_card_04",
+      "target_stage": 4,
+      "title": "日中归约",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第015回"
+      ],
+      "scene_original": "横幅营门，孙策前景迎太史慈归来；孙策伸手迎接，立竿日影与归队在旁，太史慈披赠袍；黄金纳众安民来自信任人才；同章晚于神亭",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "锐意",
+      "single_effect": "对尚未伤害过的目标第一次主动伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "敏枪",
+      "single_effect": "切换攻击目标后的短时攻速提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "越界",
+      "single_effect": "主动选择目标的近身距离上限提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "开疆",
+      "single_effect": "对新目标施放主动的能量消耗降低",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

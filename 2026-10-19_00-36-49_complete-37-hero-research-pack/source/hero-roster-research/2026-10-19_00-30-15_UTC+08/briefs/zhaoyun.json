@@ -1,0 +1,132 @@
+{
+  "hero_id": "zhaoyun",
+  "name": "赵云",
+  "faction": "shu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-roster-research/2026-10-18_19-19-26_UTC+08/next_five_shu_briefs.json",
+  "role_draft": "单点枪击后护住一人，承接一次来击，再以回锋反击；核心是攻守转换与救援，不做关羽的越战越强、马超的骑兵开阵。",
+  "myth_symbol_proposal": {
+    "design": "银白龙",
+    "status": "本轮给定设计方向",
+    "form": "修长但不蛇化，银白鬃、流线角、四肢有力；龙身沿救援方向折回，体态清劲。"
+  },
+  "identity_draft": {
+    "face": "成年初期至壮年的同一张沉静端正面孔，浓眉清目，四阶段保骨相；第7回的阔面重颐仅作文本核对，不强行复制既有商业脸。",
+    "body": "修长结实，肩背舒展，不做张飞式厚重躯干。",
+    "hair": "束发清整，少量战中散发；与马超的大束披发形成轮廓差。",
+    "palette": "银白、冷灰、低饱和蓝，少量蜀绿识别点。白布哑光，银甲有分区反射。"
+  },
+  "weapon_mount_evidence": {
+    "novel": "第7、28、41、71回均可确认枪/长枪骑战；第41回明确夺得青釭剑。",
+    "project_original": "亮银枪的命名与银白枪形是本项目设计。可画直杆、细长柳叶状枪刃与克制白缨；不称原著专名。",
+    "mount": "本批采用无专名白/浅灰战马作为设计选择；第7回白马军背景不能推成赵云专属命名坐骑证据。长坂与汉水原文有骑马，不据此写夜照玉狮子。",
+    "chronology": "青釭剑只从长坂阶段起可见，黑铁与青铜不可提前携带。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhaoyun_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "磐河初锋",
+      "event": "第7回救公孙瓒、战文丑",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "pose_and_scene_original": "草坡与磐河战场，年轻赵云从侧面切入，受救者退在后景。；三分之二侧面，马向画面左前，长枪直指来敌，保完整可检轴线。",
+      "myth_growth": "远云仅一段未成形银白龙脊。",
+      "avoid": "不画阿斗、不带青釭剑，不穿黄金重甲。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "择主归心",
+      "event": "第28回卧牛山重逢刘备后归队",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第028回"
+      ],
+      "pose_and_scene_original": "归队山路，赵云整装领骑随刘备而行；卡面只抓本人安定的决心。；下马立姿，枪尾着地，正面偏转，马在后侧。",
+      "myth_growth": "银白龙首初现于山岚，目光同向。",
+      "avoid": "不做桃园结拜，不复用刘关张群像镜头。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "长坂扶危",
+      "event": "第41回护阿斗突围",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第041回"
+      ],
+      "pose_and_scene_original": "废村与撤离人流后退，阿斗稳妥护在胸甲布束内，赵云不恋战而开路。；低机位前侧骑冲，枪轴斜贯画面，另一手与缰绳/护襁褓动作不超人体手数。",
+      "myth_growth": "银龙沿骑行方向护住后方，冷光集中枪锋与龙体。",
+      "avoid": "不悬空抱婴单手乱舞巨枪，不把糜夫人投井当英雄奖励，不用夸张血腥。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "汉水龙胆",
+      "event": "第71回救黄忠张著后据营拒曹",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第071回"
+      ],
+      "pose_and_scene_original": "暮色汉水营门大开，赵云独骑持枪临门，阵后伏弩的秩序可读。；近正面静骑，枪平斜收于马侧，与长坂冲刺反差。",
+      "myth_growth": "完整银白龙昂首护营，留云层断面而非密盘细蛇。",
+      "avoid": "不混成诸葛亮弹琴空城；不写赵云一声吼退曹军。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhaoyun_story_to_02",
+      "target_card_id": "zhaoyun_card_02",
+      "target_stage": 2,
+      "title": "四海择主",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第028回"
+      ],
+      "scene_original": "山道上赵云下马相拜，刘备伸手相迎；留独立大场景叙事。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_story_to_03",
+      "target_card_id": "zhaoyun_card_03",
+      "target_stage": 3,
+      "title": "乱军寻主",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第041回"
+      ],
+      "scene_original": "断墙与退民之间，赵云接护阿斗，远处敌骑迫近；镜头以救援而非杀敌数量为中心。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhaoyun_story_to_04",
+      "target_card_id": "zhaoyun_card_04",
+      "target_stage": 4,
+      "title": "一身是胆",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第071回"
+      ],
+      "scene_original": "赵云领受困同袍越过壕沟回营，后景曹军逼近，显示静守卡的直接前因。",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "回护",
+      "single_effect": "枪击后赋予一名己方一次减伤护势。",
+      "unlock_star": 2
+    },
+    {
+      "name": "返锋",
+      "single_effect": "护势承接攻击后触发一次反击。",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "active_remake_by_other_worker",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

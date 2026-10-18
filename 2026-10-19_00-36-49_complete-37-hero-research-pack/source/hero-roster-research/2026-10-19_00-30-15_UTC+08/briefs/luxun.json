@@ -1,0 +1,148 @@
+{
+  "hero_id": "luxun",
+  "name": "陆逊",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "在地面布一段短时火线造成持续法术伤害；下次主动可接在现有火线末端，最多维持有限相邻段数。",
+  "myth_symbol_proposal": {
+    "name": "燧木地火",
+    "origin": "原创神话视觉，不声称陆逊拥有燧人血统或召火神术",
+    "reason": "火从地面根脉般的连续路径蔓延，形如烧红木脉，区别周瑜空中横翼大范围一击。",
+    "growth": "一段暗红木脉→两段相连→小范围分叉→长但有边界的燧纹沿真实营线推进"
+  },
+  "identity_draft": {
+    "face": "第83回明记身长八尺、面如美玉；按文学形象做高挑清秀成年男性，非无比例照搬尺数。原创长椭圆脸、细眉、薄须或无须。",
+    "hair": "原创窄冠高髻，鬓发整洁，额头露出；不与周瑜同冠同发际。",
+    "body": "高而较窄肩，手臂线长、动作收敛，不是瘦弱少年。",
+    "clothes": "苔灰、象牙白与深茶色轻甲，局部烧红木纹，红阵营结只一处；黄金仍有大块哑光白布。",
+    "weapons_fact": "第83回受孙权宝剑，后掣剑严令诸将；第84回骑马持鞭察势。所核无专属双剑或扇。",
+    "weapons_design": "早期普通短佩剑，受命后细长直军令剑；木简套作为策士道具，禁把简变悬浮键盘。",
+    "mount_fact": "83/84骑马察军，未核专属名马。",
+    "mount_design": "灰栗轻军马，黑鬃低鞍；主要三卡地面或军帐，只有侦察时上马。",
+    "reference_version": "WU-LX-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第83回受孙权宝剑，后掣剑严令诸将；第84回骑马持鞭察势。所核无专属双剑或扇。",
+    "weapons_design": "早期普通短佩剑，受命后细长直军令剑；木简套作为策士道具，禁把简变悬浮键盘。",
+    "mount_fact": "83/84骑马察军，未核专属名马。",
+    "mount_design": "灰栗轻军马，黑鬃低鞍；主要三卡地面或军帐，只有侦察时上马。"
+  },
+  "cards": [
+    {
+      "asset_id": "luxun_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "蕲黄候火",
+      "event": "赤壁侧翼先锋",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "pose_and_scene_original": "侧前眼平，半身到膝；扶普通佩剑立岸坡，看向传信烽光方向；江岸坡道、未燃火堆与小队，赤壁远光非主场",
+      "myth_growth": "脚边枯木一点暗红纹",
+      "avoid": "不与黄盖同火船；无巨大朱雀",
+      "generated": false
+    },
+    {
+      "asset_id": "luxun_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "陆口低锋",
+      "event": "献换将计卑辞骄关",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "pose_and_scene_original": "军案侧面近中景；卷起礼书交使者，脸平静，剑留鞘；陆口木营、名马由远处军士牵送",
+      "myth_growth": "两段燧纹连接案脚到地面，不烧书",
+      "avoid": "不画把关羽当面嘲笑；礼书无可读伪字",
+      "generated": false
+    },
+    {
+      "asset_id": "luxun_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "持剑守隘",
+      "event": "受钺压众守隘",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第083回"
+      ],
+      "pose_and_scene_original": "低角度正面全身；拔剑下指空地，止住诸将请战的步势；猇亭营帐门，军旗竖直而非空中盘旋",
+      "myth_growth": "分叉火脉收在土面，尚未蔓延敌营",
+      "avoid": "不得画降服诸将神跪；不与孙权斫案镜头相同",
+      "generated": false
+    },
+    {
+      "asset_id": "luxun_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "连营地火",
+      "event": "审疲火破连营",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第084回"
+      ],
+      "pose_and_scene_original": "山坡上斜侧全身，略俯看战场；持鞭示意下一段推进，身后传令者奔出；山林、水道、相隔营栅形成明确通路，火分前中后三层",
+      "myth_growth": "燧木纹沿地面营线连接成大而有界网，非满屏魔法阵",
+      "avoid": "不生成火球雨或朱雀；不借科技地图覆盖山河",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "luxun_story_to_02",
+      "target_card_id": "luxun_card_02",
+      "target_stage": 2,
+      "title": "以无名卸其防",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "scene_original": "横幅吕蒙帐内，陆逊主脸前景；陆逊把手放低说明更换守将，吕蒙听后转身向印匣；铜卡低姿态外交是此策后续，角色功劳不混",
+      "generated": false
+    },
+    {
+      "asset_id": "luxun_story_to_03",
+      "target_card_id": "luxun_card_03",
+      "target_stage": 3,
+      "title": "坛上受钺",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第083回"
+      ],
+      "scene_original": "横幅坛阶侧面，陆逊接印剑，孙权后方；公开受命，群臣列台下；阚泽在前排；对应银卡持令守隘，交代正式授权来源",
+      "generated": false
+    },
+    {
+      "asset_id": "luxun_story_to_04",
+      "target_card_id": "luxun_card_04",
+      "target_stage": 4,
+      "title": "先看疲势再动火",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第084回"
+      ],
+      "scene_original": "横幅山头，主角近处俯看迁入林间的营；陆逊制止轻出诸将，指向营栅之间的连续林带；黄金火攻之前的等待与识诱，直接解释火为何能沿线推进",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "余烬",
+      "single_effect": "火线持续时间提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "顺脉",
+      "single_effect": "火线可连接的末端距离提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "炽纹",
+      "single_effect": "火线每次伤害提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "续势",
+      "single_effect": "主动冷却缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

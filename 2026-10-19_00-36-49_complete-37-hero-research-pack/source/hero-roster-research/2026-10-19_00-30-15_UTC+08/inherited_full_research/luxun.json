@@ -1,0 +1,362 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "luxun",
+    "name": "陆逊",
+    "faction": "wu",
+    "core_personality": "外表年轻温和，判断坚忍，能承受众将不服，待战场条件成熟才推进。",
+    "myth_symbol_proposal": {
+      "name": "燧木地火",
+      "origin": "原创神话视觉，不声称陆逊拥有燧人血统或召火神术",
+      "reason": "火从地面根脉般的连续路径蔓延，形如烧红木脉，区别周瑜空中横翼大范围一击。",
+      "growth": "一段暗红木脉→两段相连→小范围分叉→长但有边界的燧纹沿真实营线推进"
+    },
+    "differentiation": "持续推进的火线布置者，清秀高挑、窄甲、低位手势。拒绝把吴国三个火系都做朱雀/火球换色；陆逊是地面相邻火段，周瑜一次广域，黄盖舍护爆发。",
+    "identity": {
+      "face": "第83回明记身长八尺、面如美玉；按文学形象做高挑清秀成年男性，非无比例照搬尺数。原创长椭圆脸、细眉、薄须或无须。",
+      "hair": "原创窄冠高髻，鬓发整洁，额头露出；不与周瑜同冠同发际。",
+      "body": "高而较窄肩，手臂线长、动作收敛，不是瘦弱少年。",
+      "clothes": "苔灰、象牙白与深茶色轻甲，局部烧红木纹，红阵营结只一处；黄金仍有大块哑光白布。",
+      "weapons_fact": "第83回受孙权宝剑，后掣剑严令诸将；第84回骑马持鞭察势。所核无专属双剑或扇。",
+      "weapons_design": "早期普通短佩剑，受命后细长直军令剑；木简套作为策士道具，禁把简变悬浮键盘。",
+      "mount_fact": "83/84骑马察军，未核专属名马。",
+      "mount_design": "灰栗轻军马，黑鬃低鞍；主要三卡地面或军帐，只有侦察时上马。",
+      "reference_version": "WU-LX-text-v1，待身份样。"
+    },
+    "modern_game_reference": {
+      "version": "官方三国杀指定页面，2026-10-18核验；仅作为现代机制参照",
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/wu/2013/0127/69.html",
+      "verified": "国战2013为谦逊、度势；页面不是标准版连营。",
+      "use": "吸收审势与资源节奏，火线核心由夷陵小说事件原创转译；严格标版本。",
+      "source_class": "modern_official_game_not_novel"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 49,
+        "chronology_key": "049-a",
+        "title": "赤壁侧翼先锋",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第049回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "孙权使者报陆逊任先锋，抵蕲黄进兵，孙权后应。",
+        "selection": "card1",
+        "selection_reason": "成年初显军职，篇幅短但角色行动明确。",
+        "misreading_to_avoid": "不能取代周瑜主帅或黄盖火船先锋。"
+      },
+      {
+        "event_id": "b",
+        "chapter": 75,
+        "chronology_key": "075-b",
+        "title": "献换将计卑辞骄关",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "访吕蒙见托病原因，提出辞职换将之计；接任陆口，卑辞书礼后探知关羽撤兵。",
+        "selection": "card2+bio1",
+        "selection_reason": "用谋成长清楚且直接，为白衣渡江前提。",
+        "misreading_to_avoid": "不画陆逊亲率白衣夺城，执行主将是吕蒙。"
+      },
+      {
+        "event_id": "c",
+        "chapter": 83,
+        "chronology_key": "083-c",
+        "title": "受钺压众守隘",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第083回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "阚泽力保，孙权筑坛授剑印；陆逊持令要求坚守。",
+        "selection": "card3+bio2",
+        "selection_reason": "银卡正式军事权威与受质疑状态同在。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "d",
+        "chapter": 84,
+        "chronology_key": "084-d",
+        "title": "审疲火破连营",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第084回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "识诱敌，待久守疲惫，试探后部署火攻，蜀营失守。",
+        "selection": "card4+bio3",
+        "selection_reason": "从忍到动，地面连线火势是独有舞台。",
+        "misreading_to_avoid": "七百里是小说叙述，不能当精确地图比例；刘备脱身，陆逊未斩刘备。"
+      },
+      {
+        "event_id": "e",
+        "chapter": 84,
+        "chronology_key": "084-e",
+        "title": "误入八阵后回师",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第084回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "误入石阵，由黄承彦引出；随后因防魏袭而还军。",
+        "selection": "alternate",
+        "selection_reason": "保留失误与战略边界；不以独破诸葛阵伪造终阶。",
+        "misreading_to_avoid": ""
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "蕲黄候火",
+        "camera": "侧前眼平，半身到膝",
+        "action": "扶普通佩剑立岸坡，看向传信烽光方向",
+        "environment": "江岸坡道、未燃火堆与小队，赤壁远光非主场",
+        "myth_growth": "脚边枯木一点暗红纹",
+        "structure_check": "手搭鞘非握刃，站坡脚底贴合",
+        "must_retain": "清秀高挑、苔灰衣",
+        "must_not_inherit": "不与黄盖同火船；无巨大朱雀",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第049回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "陆口低锋",
+        "camera": "军案侧面近中景",
+        "action": "卷起礼书交使者，脸平静，剑留鞘",
+        "environment": "陆口木营、名马由远处军士牵送",
+        "myth_growth": "两段燧纹连接案脚到地面，不烧书",
+        "structure_check": "卷书封带/手指有实物接触；兵器不得穿桌",
+        "must_retain": "外谦内定与同脸",
+        "must_not_inherit": "不画把关羽当面嘲笑；礼书无可读伪字",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "持剑守隘",
+        "camera": "低角度正面全身",
+        "action": "拔剑下指空地，止住诸将请战的步势",
+        "environment": "猇亭营帐门，军旗竖直而非空中盘旋",
+        "myth_growth": "分叉火脉收在土面，尚未蔓延敌营",
+        "structure_check": "直剑从剑柄到尖完整；剑鞘固定腰侧",
+        "must_retain": "成年年轻都督、克制的威严",
+        "must_not_inherit": "不得画降服诸将神跪；不与孙权斫案镜头相同",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第083回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "d",
+        "title": "连营地火",
+        "camera": "山坡上斜侧全身，略俯看战场",
+        "action": "持鞭示意下一段推进，身后传令者奔出",
+        "environment": "山林、水道、相隔营栅形成明确通路，火分前中后三层",
+        "myth_growth": "燧木纹沿地面营线连接成大而有界网，非满屏魔法阵",
+        "structure_check": "马若入镜只静立旁边；不一边乘马一边双脚站土",
+        "must_retain": "白布与灰甲在火边保持本色，沉静不同狂笑火法",
+        "must_not_inherit": "不生成火球雨或朱雀；不借科技地图覆盖山河",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第084回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "以无名卸其防",
+        "camera": "横幅吕蒙帐内，陆逊主脸前景",
+        "action": "陆逊把手放低说明更换守将，吕蒙听后转身向印匣",
+        "target_connection": "铜卡低姿态外交是此策后续，角色功劳不混",
+        "first_person_line_original": "他防的是声名。换一个他不放在心上的人，才看得见空处。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "二人同一时间交流；陆逊无药师道具",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "luxun_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第075回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "坛上受钺",
+        "camera": "横幅坛阶侧面，陆逊接印剑，孙权后方",
+        "action": "公开受命，群臣列台下；阚泽在前排",
+        "target_connection": "对应银卡持令守隘，交代正式授权来源",
+        "first_person_line_original": "既把军令交给我，便请容我把这一战等到该动的时候。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "接剑和印分托盘一项为主，避免四手；木台重心真实",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "luxun_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第083回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "d",
+        "title": "先看疲势再动火",
+        "camera": "横幅山头，主角近处俯看迁入林间的营",
+        "action": "陆逊制止轻出诸将，指向营栅之间的连续林带",
+        "target_connection": "黄金火攻之前的等待与识诱，直接解释火为何能沿线推进",
+        "first_person_line_original": "他们要我急。我偏要等这条战线，自己露出破绽。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "地形可读而不写攻击配方；火种工艺不作操作说明",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "luxun_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "luxun_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第084回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "在地面布一段短时火线造成持续法术伤害；下次主动可接在现有火线末端，最多维持有限相邻段数。",
+      "active": {
+        "skill_id": "luxun_a1",
+        "name": "燧脉连营",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "在地面布一段短时火线造成持续法术伤害；下次主动可接在现有火线末端，最多维持有限相邻段数。",
+        "extra_effect": "无额外沉默或减疗；三四星只改善同一火线的段数上限/存续，具体容量待测。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "地火沿泥土和木纹爬行，连接线不可穿墙；不扩散到整张地图。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "luxun_p1",
+          "name": "余烬",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "火线持续时间提高",
+          "trigger": "布火线",
+          "target": "火线",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "地火沿泥土和木纹爬行，连接线不可穿墙；不扩散到整张地图。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "luxun_p2",
+          "name": "顺脉",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "火线可连接的末端距离提高",
+          "trigger": "接续施法",
+          "target": "火线端点",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "地火沿泥土和木纹爬行，连接线不可穿墙；不扩散到整张地图。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "luxun_p3",
+          "name": "炽纹",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "火线每次伤害提高",
+          "trigger": "敌人处于火线",
+          "target": "该敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "地火沿泥土和木纹爬行，连接线不可穿墙；不扩散到整张地图。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "luxun_p4",
+          "name": "续势",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "主动冷却缩短",
+          "trigger": "已有火线时主动结算",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "地火沿泥土和木纹爬行，连接线不可穿墙；不扩散到整张地图。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "luxun_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "luxun_p1",
+            "luxun_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "luxun_p1",
+            "luxun_p2",
+            "luxun_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "luxun_p1",
+            "luxun_p2",
+            "luxun_p3",
+            "luxun_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved"
+  }
+}

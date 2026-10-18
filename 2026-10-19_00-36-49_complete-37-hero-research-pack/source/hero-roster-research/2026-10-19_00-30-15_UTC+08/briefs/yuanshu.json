@@ -1,0 +1,119 @@
+{
+  "hero_id": "yuanshu",
+  "name": "袁术",
+  "faction": "qun",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "鎏甲金蟾",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "资源压制型君主；主动消耗自身储备给予一名友军短时攻击增益，储备有限，不复制曹操挨打军令。",
+  "identity_draft": "丰颐傲慢但面部正常、修齐胡须，赭金袍和玉带，甲少锦多；金蟾为沉重实体虚影，禁止满屏金粉。",
+  "weapon_mount_evidence": {
+    "canonical": "第15回收孙策抵押的传国玉玺，第17回称仲氏、乘龙凤辇；玉玺不是本命魔法武器。",
+    "art_design": "短剑只作普通佩饰；权能从玉印与铜筹扩散为原创，不加神兵名。",
+    "mount": "第17回车辇有据；无经核实专属名马，前期普通鞍马。"
+  },
+  "chronology_caution": "白银/黄金分别取第17回称帝与随后七路出兵，属于同章事件分镜凝练。黄金显示鼎盛资源与更强神话形态，不等于征徐州获胜；后来败亡、江亭求蜜不得见第21回，绝不能写成称帝成功统一。",
+  "cards": [
+    {
+      "asset_id": "yuanshu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "南阳督粮",
+      "event": "会盟列诸侯并掌粮草",
+      "chapter": 5,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第005回",
+      "pose_and_scene_original": "粮营木案旁半侧站立，指尖压筹，米袋车辙清晰，不绘自己勇斩华雄。",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "玉玺入掌",
+      "event": "以借兵交换孙策抵押玉玺",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "pose_and_scene_original": "坐姿前倾审视盒内玉玺，双手只做一件事，孙策在侧后。",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "仲氏僭号",
+      "event": "不听阎象之谏而称帝",
+      "chapter": 17,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+      "pose_and_scene_original": "低角度踏上现实祭坛土阶，礼冠整齐，金蟾沉重于后；非正统天帝登仙。",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "七军帝胄",
+      "event": "称仲氏后遣七路军攻徐州，自领军接应",
+      "chapter": 17,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+      "pose_and_scene_original": "立于龙凤辇旁夯土点将台，厚重金甲覆礼袍、印盒悬腰，一手挥令；巨蟾宽额玉印纹昂起，七道旗阵向远处分开。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "yuanshu_story_to_02",
+      "target_card_id": "yuanshu_card_02",
+      "target_stage": 2,
+      "title": "印换江东兵",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "scene_original": "袁术近景开玉玺匣，孙策领借兵远去；不能画玉玺本来归袁氏所有。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshu_story_to_03",
+      "target_card_id": "yuanshu_card_03",
+      "target_stage": 3,
+      "title": "一意称尊",
+      "chapter": 17,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+      "scene_original": "阎象进谏居侧，袁术转身命陈礼仪；强调僭号而非天命认定。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshu_story_to_04",
+      "target_card_id": "yuanshu_card_04",
+      "target_stage": 4,
+      "title": "七路发兵",
+      "chapter": 17,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第017回",
+      "scene_original": "袁术在营前向张勋等下令，展开军图分指不同路线；转入黄金接应军统帅画面，绝不画已经攻克徐州。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "蓄资",
+      "single_effect": "开战获得额外自身储备",
+      "unlock_star": 1
+    },
+    {
+      "name": "厚赏",
+      "single_effect": "储备增益持续时间增加",
+      "unlock_star": 2
+    },
+    {
+      "name": "虚盛",
+      "single_effect": "储备耗尽前自身防御提高",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

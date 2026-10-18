@@ -1,0 +1,148 @@
+{
+  "hero_id": "dianwei",
+  "name": "典韦",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "指定近旁一名友军，替其承受下一次来袭的一部分伤害；典韦在原地护住该方向。",
+  "myth_symbol_proposal": {
+    "name": "上古巨巫祖影",
+    "origin": "依用户要求的纯幻想“上古巫族巨力”设计；不是典韦历史民族、血统、宗教或真实族群身份声明",
+    "reason": "古之恶来的雄异感转为大地巨力、石纹与祖影；不再用虎，避免与许褚和张飞撞形。",
+    "growth": "臂上极少暗纹→身后石面祖影→双戟力场中的半身巨巫→站在门后的巨大祖影；身体始终只有两臂"
+  },
+  "identity_draft": {
+    "face": "原创：宽额方颌、重眉深眼、短粗须，鼻梁宽硬，凶悍而有人的表情；不套真实族群刻板外貌。",
+    "hair": "原创：短发束结或紧绑小髻，额带厚实，不用猛虎鬃发。",
+    "body": "原著容貌魁梧、勇力过人；本项目夸张为比其他武将高壮一档的巨汉，约2.3米只作可调视觉比例，绝非史籍身高。",
+    "clothes": "土褐、炭黑、旧铜扣与厚皮革，少量石纹护臂；蓝限腰结。最终宛城按原文无甲，不能因黄金自动重装。",
+    "weapons_fact": "第10回双铁戟合叙重八十斤，驭使如飞；第11回另有短戟投掷；第16回双戟被盗，临时取步卒腰刀，刀缺后弃之。",
+    "weapons_design": "两柄独立直柄铁戟，刃与侧枝连接可信，长度依骑步可操作；短戟和长戟不能混成同一尺寸。黄金画缺口步刀或弃刀后空手，不让失盗双戟回来。",
+    "mount_fact": "第10回获赐骏马雕鞍，未给专属名；第16回守门在步战。",
+    "mount_design": "前中阶普通壮马能承体型；最终不骑马。",
+    "reference_version": "WEI-DW-identity-text-v1，待身份样；巫族只限幻想设定。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第10回双铁戟合叙重八十斤，驭使如飞；第11回另有短戟投掷；第16回双戟被盗，临时取步卒腰刀，刀缺后弃之。",
+    "weapons_design": "两柄独立直柄铁戟，刃与侧枝连接可信，长度依骑步可操作；短戟和长戟不能混成同一尺寸。黄金画缺口步刀或弃刀后空手，不让失盗双戟回来。",
+    "mount_fact": "第10回获赐骏马雕鞍，未给专属名；第16回守门在步战。",
+    "mount_design": "前中阶普通壮马能承体型；最终不骑马。"
+  },
+  "cards": [
+    {
+      "asset_id": "dianwei_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "山涧巨影",
+      "event": "逐鹿过涧",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第010回"
+      ],
+      "pose_and_scene_original": "低位远中景，人物全身与溪石有比例参照；跨过浅涧追鹿，手臂前后摆，目标鹿在远处坡上；真实林地、湿石、树根；鹿不是被残杀特写",
+      "myth_growth": "皮肤与岩壁间仅两条暗石纹",
+      "avoid": "不是追虎，不用兽头兜帽抢许褚",
+      "generated": false
+    },
+    {
+      "asset_id": "dianwei_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "一手定大旗",
+      "event": "风中执旗受用",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第010回"
+      ],
+      "pose_and_scene_original": "略低全身，巨大旗杆竖直，主角偏侧；双足张稳，一手在合理高度压住旗杆，另一手空闲平衡；曹营风大，军士退开，旗底扎在坚实地面",
+      "myth_growth": "半尊石面祖影与背部相合，几乎不发光",
+      "avoid": "不凭单手举整支无支点巨旗；不把祖影生出额外实手",
+      "generated": false
+    },
+    {
+      "asset_id": "dianwei_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "五步掷锋",
+      "event": "五步飞戟救曹",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第011回"
+      ],
+      "pose_and_scene_original": "侧前低机位中全身，步战，肩向前旋；一手刚投出一枚短戟，另一手握其余短戟束；双长戟已插在身后；荒路箭矢稀疏有方向、曹操退于后景",
+      "myth_growth": "半身巨巫影沿肩背伸展，石纹只沿受力肌群",
+      "avoid": "不可同时双长戟在手；不让箭矢穿脸却无伤",
+      "generated": false
+    },
+    {
+      "asset_id": "dianwei_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "宛门不退",
+      "event": "失戟守宛城门",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第016回"
+      ],
+      "pose_and_scene_original": "门外低机位，人物胸肩占强轮廓，门后留逃路；无甲，紧握已缺口的步刀横挡，伤处非血腥，双脚仍稳；宛城营门、局部燃烧草车，曹操退路从门后延伸",
+      "myth_growth": "巨大祖影立在门后，轮廓似一扇不能推开的石门",
+      "avoid": "无双铁戟，无战后凯旋，无尸体当兵器特写、无满屏金粉",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "dianwei_story_to_02",
+      "target_card_id": "dianwei_card_02",
+      "target_stage": 2,
+      "title": "夏侯引荐",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第010回"
+      ],
+      "scene_original": "横幅曹营阅武场，夏侯惇侧前，典韦近景；典韦演戟后回身看将倒的大旗，曹操正在观察；青铜定旗动作的直接前因，强调被任用于帐前",
+      "generated": false
+    },
+    {
+      "asset_id": "dianwei_story_to_03",
+      "target_card_id": "dianwei_card_03",
+      "target_stage": 3,
+      "title": "再近五步",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第011回"
+      ],
+      "scene_original": "横幅从典韦肩后望敌骑，随从在近侧报距离；典韦把长戟插地，掌中分好短戟，等敌人近；直接承银卡掷锋前一瞬；不是跨年英雄合集",
+      "generated": false
+    },
+    {
+      "asset_id": "dianwei_story_to_04",
+      "target_card_id": "dianwei_card_04",
+      "target_stage": 4,
+      "title": "找不到双戟之后",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第016回"
+      ],
+      "scene_original": "横幅营帐到门口纵深，典韦由暗走向火光；空兵器架在后，主角从步卒手边取腰刀，门外敌影逼近；传记讲失去惯用兵器仍守门，黄金卡接上实际步刀状态",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "巨躯",
+      "single_effect": "最大生命提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "固骨",
+      "single_effect": "承接给自己的伤害降低",
+      "unlock_star": 2
+    },
+    {
+      "name": "卫距",
+      "single_effect": "可护卫友军的选择距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "拒关",
+      "single_effect": "护卫期间自身受到的击退距离减少",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

@@ -1,0 +1,148 @@
+{
+  "hero_id": "sunquan",
+  "name": "孙权",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "消耗自身一份能量，将一名友军尚未使用的短期攻击增益转为等价值护盾；仅转换本方可转换增益，不掠夺敌方。",
+  "myth_symbol_proposal": {
+    "name": "负日赑屃",
+    "origin": "原创神话组合，不称原著配兽",
+    "reason": "重甲龟背承托一轮黯日，表现承业与持衡；不是喷火龙王。",
+    "growth": "背甲几何纹→半轮日盘→龟背托日→江岸巨赑屃稳压潮线"
+  },
+  "identity_draft": {
+    "face": "原著第29回明确方颐大口、碧眼紫髯；以自然人脸骨相、深碧虹膜与暗紫黑须实现，不画荧光眼或紫色皮肤。",
+    "hair": "原创冠下束髻，鬓须较密，1星青年短须到4星成熟宽须；不突然换脸。",
+    "body": "原创中等偏高、厚实肩背与沉稳腰腹，不设巨汉。",
+    "clothes": "主色墨绿/暖象牙与烟铜护甲，红只结绳。1星丧后素衣带印，2星简练将袍，3星正式短披甲，4星雨战披风；非四阶全金。",
+    "weapons_fact": "第44回佩剑斫案并赐周瑜；第61回骑马持鞭。所核未给一柄固定名剑。",
+    "weapons_design": "腰剑直刃宽镡为原创；44回赐出的剑在传记明确交出，后续不是无说明同剑复制。黄金卡以指挥鞭为主。",
+    "mount_fact": "第61回亲率骑军；战马无所核专名。",
+    "mount_design": "成熟黑褐军马，鞍具偏统帅而不珠宝堆叠；船上场景不硬塞马。",
+    "reference_version": "WU-SQ-text-v1，身份样待做。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第44回佩剑斫案并赐周瑜；第61回骑马持鞭。所核未给一柄固定名剑。",
+    "weapons_design": "腰剑直刃宽镡为原创；44回赐出的剑在传记明确交出，后续不是无说明同剑复制。黄金卡以指挥鞭为主。",
+    "mount_fact": "第61回亲率骑军；战马无所核专名。",
+    "mount_design": "成熟黑褐军马，鞍具偏统帅而不珠宝堆叠；船上场景不硬塞马。"
+  },
+  "cards": [
+    {
+      "asset_id": "sunquan_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "印绶初承",
+      "event": "拜受兄长印绶",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第029回"
+      ],
+      "pose_and_scene_original": "眼平近全身，稍偏右；双手托印匣由堂内走向文武，眼有泪而腰背立直；朴素内堂，丧帛在后，不以灵堂占主画面",
+      "myth_growth": "印匣投影仅成一片龟背纹",
+      "avoid": "无帝冕、龙椅或黄金神盘",
+      "generated": false
+    },
+    {
+      "asset_id": "sunquan_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "江夏纳策",
+      "event": "纳甘宁议江夏",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "pose_and_scene_original": "船甲板上侧前中景，舰首斜线；一手按栏，一手示意舰队待令，甘宁来船在后；江口木船、系缆与远岸寨",
+      "myth_growth": "半轮暗日与赑屃背弧映在水面",
+      "avoid": "不亲挥刀斩黄祖；不在当时船上放现代航海仪",
+      "generated": false
+    },
+    {
+      "asset_id": "sunquan_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "一剑定战",
+      "event": "斫案决战授剑",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第044回"
+      ],
+      "pose_and_scene_original": "低机位三分之二正脸；斫案后短暂止势，剑尖离案木边，目视争议群臣；军府厅堂地面、破一角奏案",
+      "myth_growth": "完整赑屃背影承住收束日盘，尺度不超厅堂逻辑",
+      "avoid": "不画全桌爆炸；赐剑动作放传记不同时完成",
+      "generated": false
+    },
+    {
+      "asset_id": "sunquan_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "濡须持衡",
+      "event": "濡须亲临与遗书",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第061回"
+      ],
+      "pose_and_scene_original": "江岸中低侧前全身，人马向左回望；勒马持鞭指向江上成列船队，近旁传使待发；春雨泥岸、濡须坞与有序舰队",
+      "myth_growth": "赑屃巨大轮廓沿真实江岸负日，潮水不凭空腾天",
+      "avoid": "不是称帝登天；不画曹操被活捉",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "sunquan_story_to_02",
+      "target_card_id": "sunquan_card_02",
+      "target_stage": 2,
+      "title": "不记旧怨",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "scene_original": "横幅营内三角关系：孙权近景、吕蒙引甘宁；主角伸掌请甘宁陈策，桌上无字水道简图；引荐和纳策解释铜卡为何能组织江夏水陆军",
+      "generated": false
+    },
+    {
+      "asset_id": "sunquan_story_to_03",
+      "target_card_id": "sunquan_card_03",
+      "target_stage": 3,
+      "title": "把剑交给周郎",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第044回"
+      ],
+      "scene_original": "横幅周瑜与孙权近中景；主角将剑柄朝周瑜交付，断案边角在侧下；与银卡同一决定的授权结果，不能误画成孙权亲当赤壁大都督",
+      "generated": false
+    },
+    {
+      "asset_id": "sunquan_story_to_04",
+      "target_card_id": "sunquan_card_04",
+      "target_stage": 4,
+      "title": "春水与书信",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第061回"
+      ],
+      "scene_original": "横幅雨后岸边军帐口；孙权封书交使者，帐外水位贴近旧岸标；书信来自濡须军势判断，直接接黄金卡守江统筹",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "筹度",
+      "single_effect": "主动能量消耗降低",
+      "unlock_star": 1
+    },
+    {
+      "name": "审势",
+      "single_effect": "主动选择友军的距离提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "固业",
+      "single_effect": "本主动护盾容量提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "留裕",
+      "single_effect": "本主动护盾持续时间提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

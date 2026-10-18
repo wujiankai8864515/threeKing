@@ -1,0 +1,133 @@
+{
+  "hero_id": "pangtong",
+  "name": "庞统",
+  "faction": "shu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-roster-research/2026-10-18_19-19-26_UTC+08/next_five_shu_briefs.json",
+  "role_draft": "先布少量火印，再引燃标记者，让敌人布局承受连锁代价。与周瑜的大面火攻、陆逊的推进火线、诸葛亮的迟滞落雷分开。",
+  "myth_symbol_proposal": {
+    "design": "凤凰、凤火",
+    "status": "本轮给定幻想方向",
+    "form": "赤褐与深朱的凤凰，宽翼、分层长翎、明晰鸟首；火焰沿羽片大面流动，不能满图金粉。",
+    "boundary": "凤雏名号、连环与取蜀有演义依据；火凤凰与复燃法术属于项目原创，落凤坡后复活不是原著。"
+  },
+  "identity_draft": {
+    "face": "骨相有辨识的浓眉、略上扬鼻、短须，眼神敏锐略带讥诮；尊重原著貌奇而不把他丑化成怪物。",
+    "body": "较矮而紧实的文士轮廓，肩有轻微前倾，避免与清瘦挺拔孔明换头同身。",
+    "hair": "竹冠/朴素束发可作初阶根，后阶稍凌乱短束；不沿用商业面罩。",
+    "palette": "暗褐、炭黑、朱红，少量青绿阵营点；火光集中手中计筹、火印与凤翼。"
+  },
+  "weapon_mount_evidence": {
+    "novel": "第35回提供荆襄名士背景；第47回连环计；第57回耒阳理事；第62回三策取蜀；第63回落凤坡遇害。",
+    "project_original": "推荐竹简、计筹与凤羽状短杖作为法器方案；短杖为原创，不冒称原著固定兵器。",
+    "mount": "前三阶不必骑马。黄金取蜀阶段可军帐或关前步立；不要提前用第63回刘备换给的白马当终生坐骑。",
+    "key_correction": "连环计并非庞统亲自驾驶火船；第63回死亡保留为悲剧来源边界，不改称原著浴火重生。"
+  },
+  "cards": [
+    {
+      "asset_id": "pangtong_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "荆襄藏凤",
+      "event": "第35回背景所指的荆襄名士阶段",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第035回"
+      ],
+      "pose_and_scene_original": "荆襄林下木案，庞统以小筹演局，远处有人往来而未注意他。；坐姿斜侧，头回望观者，手指压一枚筹。",
+      "myth_growth": "枯枝上云形一小段凤羽，仅作象征。",
+      "avoid": "画面是背景原创凝练，不声称原著有这一具体镜头；不做年轻版诸葛亮。",
+      "generated": false
+    },
+    {
+      "asset_id": "pangtong_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "锁江伏焰",
+      "event": "第47回献连环计后观连舟",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第047回"
+      ],
+      "pose_and_scene_original": "江边木栈，庞统持卷回身，远处工匠连船，铁链结构有真实链接。；三分之二背侧回望，单手示意船列，另一手持卷。",
+      "myth_growth": "半展凤翼隐于江雾，火只像未燃的深红脉络。",
+      "avoid": "连舟尚未起大火，不把未来火攻当同时发生；不抄商业铁索卡面。",
+      "generated": false
+    },
+    {
+      "asset_id": "pangtong_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "百里展才",
+      "event": "第57回耒阳一日理事后受重用",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第057回"
+      ],
+      "pose_and_scene_original": "县堂案卷已整齐分列，庞统起身看向震动的张飞，百姓在门外等候。；略低机位站姿，手指收卷，表情从散漫转清醒。",
+      "myth_growth": "完整凤翼在背后空间舒展但亮度低，不烧县堂。",
+      "avoid": "不以醉态当晋升荣耀，不画县衙被火毁；不得用火法解释真实办案能力。",
+      "generated": false
+    },
+    {
+      "asset_id": "pangtong_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "凤策开蜀",
+      "event": "第62回三策与涪关用计阶段",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第062回"
+      ],
+      "pose_and_scene_original": "军帐地图与涪关远景，庞统明确指出进军线路；传记中三策归到一个已选择的行动。；正侧立姿，法器低握，另一手指图，较前阶更有决断。",
+      "myth_growth": "完整凤凰从山势后昂起，火羽形成宽面，主体衣布仍哑光。",
+      "avoid": "不写他活着参加成都降服，不把落凤坡死亡做金卡加冕，不默认复活。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "pangtong_story_to_02",
+      "target_card_id": "pangtong_card_02",
+      "target_stage": 2,
+      "title": "连舟成局",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第047回"
+      ],
+      "scene_original": "曹营水寨议事，庞统以连舟模型说明，曹操倾身听，实际船队远处连锁。",
+      "generated": false
+    },
+    {
+      "asset_id": "pangtong_story_to_03",
+      "target_card_id": "pangtong_card_03",
+      "target_stage": 3,
+      "title": "一日理事",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第057回"
+      ],
+      "scene_original": "张飞与孙乾侧立，庞统处置卷宗，堂下百姓分别得答，画出秩序。",
+      "generated": false
+    },
+    {
+      "asset_id": "pangtong_story_to_04",
+      "target_card_id": "pangtong_card_04",
+      "target_stage": 4,
+      "title": "三策取蜀",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第062回"
+      ],
+      "scene_original": "军帐中三条地图路线，庞统与刘备商议；不写死三段文字到图中。",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "伏焰",
+      "single_effect": "普通攻击为目标施加一枚火印。",
+      "unlock_star": 1
+    },
+    {
+      "name": "引燎",
+      "single_effect": "引燃后向另一名已标记敌人传递一次有限火伤。",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

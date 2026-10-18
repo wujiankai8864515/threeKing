@@ -1,0 +1,149 @@
+{
+  "hero_id": "dongzhuo",
+  "name": "董卓",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "迫使近旁一名可嘲讽敌人在短时间内以董卓为普攻目标；每次成功施放后，董卓本场最大生命小幅减少。",
+  "myth_symbol_proposal": {
+    "name": "饕餮铁腹",
+    "origin": "原创权欲神相，取饕餮吞占的视觉联想，不声称小说有此化身或肥胖者皆有恶德",
+    "reason": "宽腹、短颈、厚甲与近地铁鼎巨口构成沉重横向体块；不同典韦双臂巨巫的肌肉立势、许褚虎形的扑击。",
+    "growth": "腰扣兽面→腹甲吞口纹→半幅铁鼎兽面→郿坞背后大而封闭的饕餮铁腹轮廓"
+  },
+  "identity_draft": {
+    "face": "原创宽阔方脸、厚颊、浓横眉、短而宽鼻、下垂嘴角；成熟中老年男性，不以畸形脸代替人物塑造。",
+    "hair": "原创粗黑夹灰的短须与后束发，早期军巾、后期重冠；四阶同发际与须根。",
+    "body": "第8回明确身体肥胖；设计宽肩厚腹和负重步态，强而笨重，不能复制典韦石肌巨人。",
+    "clothes": "前期暗褐军袍、铁灰甲；入相后深赭宽袍配暗铜厚甲与印绶。腰腹有衣甲真实体积，不用全身金饰表现富贵。",
+    "weapons_fact": "第3回议废帝拔剑，第4回亦仗剑施威；第8回凤仪亭拾吕布戟掷之属于临时夺物。无独有大斧名号证据。",
+    "weapons_design": "统一宽身直剑和带鞘佩挂，重量由剑脊厚度表达，不造门板巨斧；黄金手可按剑柄而不必挥砍。",
+    "mount_fact": "第3回北邙骑马；第3回赤兔原为董卓所有，借李肃赠吕布后离开；不能作为董卓全期固定坐骑。",
+    "mount_design": "早期普通高壮深褐马，后期车驾或步行；不得把赤兔固定给董卓。",
+    "reference_version": "QUN-DZ-text-v1，待样。",
+    "ethics_boundary": "暴行作为小说人物边界说明；主图不画性奴役、虐杀过程或把百姓苦难当豪奢装饰。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第3回议废帝拔剑，第4回亦仗剑施威；第8回凤仪亭拾吕布戟掷之属于临时夺物。无独有大斧名号证据。",
+    "weapons_design": "统一宽身直剑和带鞘佩挂，重量由剑脊厚度表达，不造门板巨斧；黄金手可按剑柄而不必挥砍。",
+    "mount_fact": "第3回北邙骑马；第3回赤兔原为董卓所有，借李肃赠吕布后离开；不能作为董卓全期固定坐骑。",
+    "mount_design": "早期普通高壮深褐马，后期车驾或步行；不得把赤兔固定给董卓。"
+  },
+  "cards": [
+    {
+      "asset_id": "dongzhuo_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "兵入北邙",
+      "event": "北邙迎驾入洛阳",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第003回"
+      ],
+      "pose_and_scene_original": "路旁略低骑姿近全身；勒马面对迎驾队伍，听陈留王喝令而将下马；北邙荒路、晨尘、疲惫随驾人群；幼帝只远景普通着装",
+      "myth_growth": "腰扣仅兽面浅浮纹",
+      "avoid": "不让主角骑在幼帝头上；无金龙冠无天宫",
+      "generated": false
+    },
+    {
+      "asset_id": "dongzhuo_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "帐前纳虎将",
+      "event": "收吕布并吞丁原兵",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第003回"
+      ],
+      "pose_and_scene_original": "帐内低眼平近全身，董卓在前；起身扶住来见吕布的前臂，收将礼将成；洛阳军帐、卷起地图、分立旧部，李肃在侧",
+      "myth_growth": "腹甲纹张成半口，肩外暗铁压影",
+      "avoid": "不把李肃删去归功全给董卓，不展示丁原首级",
+      "generated": false
+    },
+    {
+      "asset_id": "dongzhuo_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "殿上废立",
+      "event": "崇德殿废立",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第004回"
+      ],
+      "pose_and_scene_original": "殿侧低角度全身，主角挡住部分阶道；仗剑站在御阶旁，李儒持册面向百官；崇德殿木柱石阶，百官惊惧而非欢呼；皇位不让董卓坐",
+      "myth_growth": "半幅铁鼎兽面沉在柱后，光不照成圣人",
+      "avoid": "不戴帝冠坐龙椅；不画直接杀害少帝",
+      "generated": false
+    },
+    {
+      "asset_id": "dongzhuo_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "郿坞重门",
+      "event": "郿坞积聚权势",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "pose_and_scene_original": "坞门侧前极低但不变形的全身；按剑站在重门阶前，另一手握粗印绶，车驾停身后；坞墙、仓门、负担沉重的远景役夫，天色低沉",
+      "myth_growth": "巨饕餮铁腹与坞墙结构咬合成背景轮廓，边缘有裂缝但无金粉",
+      "avoid": "不把巨口吞人作为背景娱乐，不画庆功救世或飞升",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "dongzhuo_story_to_02",
+      "target_card_id": "dongzhuo_card_02",
+      "target_stage": 2,
+      "title": "使者引来新将",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第003回"
+      ],
+      "scene_original": "横幅军帐，董卓近景、李肃引吕布入；董卓放下酒器伸手示意入座，营兵在门外移列；铜卡收将直接前因，明确说服者与入见者各自身份",
+      "generated": false
+    },
+    {
+      "asset_id": "dongzhuo_story_to_03",
+      "target_card_id": "dongzhuo_card_03",
+      "target_stage": 3,
+      "title": "册书先开",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第004回"
+      ],
+      "scene_original": "横幅殿门内，董卓侧脸，李儒展开无可读字的策书；董卓用剑鞘示意阶前位置，众臣停步；银卡废立的执行一刻；政治压迫不是神授合法性",
+      "generated": false
+    },
+    {
+      "asset_id": "dongzhuo_story_to_04",
+      "target_card_id": "dongzhuo_card_04",
+      "target_stage": 4,
+      "title": "重门之后",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "scene_original": "横幅郿坞仓道，董卓近景察看封仓；掌仓人开门，粮囤与箱笼深处连成线，役夫退出侧门；黄金巨坞来自聚敛与自恃，图中繁重而不欢腾",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "雄躯",
+      "single_effect": "初始最大生命提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "厚甲",
+      "single_effect": "受到普攻的伤害降低",
+      "unlock_star": 2
+    },
+    {
+      "name": "霸令",
+      "single_effect": "主动嘲讽的持续时间提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "余威",
+      "single_effect": "主动的最大生命消耗减少",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

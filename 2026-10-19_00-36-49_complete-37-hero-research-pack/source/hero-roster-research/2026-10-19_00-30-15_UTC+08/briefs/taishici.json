@@ -1,0 +1,119 @@
+{
+  "hero_id": "taishici",
+  "name": "太史慈",
+  "faction": "wu",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "赤背神猿",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "单体决斗连击；主动连作两次短枪刺，和孙策首次交锋爆发、甘宁夜袭拉开。",
+  "identity_draft": "浓眉开阔脸、紧束发、强健长臂，棕红短披肩配黑铁甲；神猿厚肩长臂但不模仿孙悟空法器。",
+  "weapon_mount_evidence": {
+    "canonical": "第11回铁枪和弓矢；第15回枪战，背上短戟被孙策夺取；第53回挺枪战张辽。",
+    "art_design": "主手完整长枪，背负一支朴素短戟为身份件；不可声称双铁戟为其全生涯主武器。",
+    "mount": "原文骑马，无本次证实专名；赭栗马为造型选择。"
+  },
+  "chronology_caution": "黄金选第53回前半阵前交战，不把后半中伏身亡改为胜利；四卡是收藏表现强度，不是四场全胜。",
+  "cards": [
+    {
+      "asset_id": "taishici_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "北海赴义",
+      "event": "奉母意助孔融，突围向刘备求援",
+      "chapter": 11,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+      "pose_and_scene_original": "侧面疾骑，枪收于马身平行，腰弓完整，北海城门后退。",
+      "generated": false
+    },
+    {
+      "asset_id": "taishici_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "神亭相持",
+      "event": "与孙策枪战不分胜负",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "pose_and_scene_original": "太史慈面向镜头右侧低身格枪，孙策只留对角远面；不用孙策同一机位。",
+      "generated": false
+    },
+    {
+      "asset_id": "taishici_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "日中践诺",
+      "event": "受孙策礼遇归降后按约带众归来",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "pose_and_scene_original": "下马持枪垂直立定，另一手向后示意部众，营门日影在侧。",
+      "generated": false
+    },
+    {
+      "asset_id": "taishici_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "合肥争锋",
+      "event": "合肥阵前挺枪与张辽交锋",
+      "chapter": 53,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+      "pose_and_scene_original": "低侧前骑乘近中景，枪尖直刺而非刀斩；神猿握云臂在后，不涂满火焰。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "taishici_story_to_02",
+      "target_card_id": "taishici_card_02",
+      "target_stage": 2,
+      "title": "神亭两锋",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "scene_original": "从太史慈肩侧看双枪相持，镜头不复用孙策；双方各自枪轴清晰无融杆。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "taishici_story_to_03",
+      "target_card_id": "taishici_card_03",
+      "target_stage": 3,
+      "title": "赴约而归",
+      "chapter": 15,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第015回",
+      "scene_original": "营门正午，太史慈率新收部众出现，孙策迎出；原文人数仅作文字考证，不强求数千清脸。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "taishici_story_to_04",
+      "target_card_id": "taishici_card_04",
+      "target_stage": 4,
+      "title": "阵前迎刀",
+      "chapter": 53,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+      "scene_original": "太史慈抢先迎战张辽，孙权与护卫在后；直接接黄金枪刀交锋，非夜袭凯旋。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "连刺",
+      "single_effect": "第二次连续普攻伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "酬义",
+      "single_effect": "附近友军受击后自身下次普攻提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "劲臂",
+      "single_effect": "普攻命中率提高",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

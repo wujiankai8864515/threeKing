@@ -1,0 +1,119 @@
+{
+  "hero_id": "weiyan",
+  "name": "魏延",
+  "faction": "shu",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "赤角虬牛",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "侧翼近战破甲；主动刀击降低单个敌人的防御，不复制关羽斩杀或徐晃断能。",
+  "identity_draft": "棱角长脸、赤褐肤色自然不涂红油漆，短硬须与宽肩，深赤绑臂，甲轮廓如山隘。",
+  "weapon_mount_evidence": {
+    "canonical": "第41回轮刀开门，后挺枪战文聘；第53回用刀；第72回弓射曹操后弃弓取刀。",
+    "art_design": "主武器采用无专名长柄战刀；白银卡必须用弓表现当时射击，刀固定在鞍侧。",
+    "mount": "骑战有原文；深枣色无名马为原创选择。"
+  },
+  "chronology_caution": "反骨是小说人物判断，不据此将头骨画成畸形；第72回魏延未杀曹操；黄金是第73回职任，并非篡改后期结局。",
+  "cards": [
+    {
+      "asset_id": "weiyan_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "襄阳开门",
+      "event": "魏延欲开襄阳门迎刘备，后与文聘交战",
+      "chapter": 41,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第041回",
+      "pose_and_scene_original": "从门内低斜角看他一手推门杠，刀垂侧；门外百姓而非金殿。",
+      "generated": false
+    },
+    {
+      "asset_id": "weiyan_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "长沙解危",
+      "event": "救黄忠后归刘备",
+      "chapter": 53,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+      "pose_and_scene_original": "跨步护在黄忠前方，长刀以完整斜轴横开空间；避免血腥断肢。",
+      "generated": false
+    },
+    {
+      "asset_id": "weiyan_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "斜谷惊弦",
+      "event": "诈败回军后以箭射中曹操",
+      "chapter": 72,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第072回",
+      "pose_and_scene_original": "马上侧背三分之二回身开弓，曹军高坡在远景，弦与箭位完整。",
+      "generated": false
+    },
+    {
+      "asset_id": "weiyan_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "汉中重镇",
+      "event": "刘备进汉中王后任命魏延为汉中太守",
+      "chapter": 73,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第073回",
+      "pose_and_scene_original": "营门外正立接印，刀尾着土、战马安静；虬牛宽额巨角在山云中。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "weiyan_story_to_02",
+      "target_card_id": "weiyan_card_02",
+      "target_stage": 2,
+      "title": "长沙一呼",
+      "chapter": 53,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第053回",
+      "scene_original": "横幅以魏延救下黄忠为近景，韩玄军士后撤，城头在远处；非黄忠射缨镜头。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "weiyan_story_to_03",
+      "target_card_id": "weiyan_card_03",
+      "target_stage": 3,
+      "title": "转身一箭",
+      "chapter": 72,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第072回",
+      "scene_original": "先导骑从谷口引出追兵，魏延在侧坡稳弓；曹操未死亡，庞德救护不省略为击杀。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "weiyan_story_to_04",
+      "target_card_id": "weiyan_card_04",
+      "target_stage": 4,
+      "title": "受任守关",
+      "chapter": 73,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第073回",
+      "scene_original": "魏延受印后面向汉中山道与驻军，刘备居侧后景；传记明确从战将到镇守职责。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "破甲",
+      "single_effect": "主动命中短时降低目标防御",
+      "unlock_star": 1
+    },
+    {
+      "name": "偏锋",
+      "single_effect": "侧面攻击伤害提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "守隘",
+      "single_effect": "静止时自身防御提高",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

@@ -1,0 +1,148 @@
+{
+  "hero_id": "yuanshao",
+  "name": "袁绍",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "召出少量弓队符影，对最多三名不同敌人各射一次；同次不能重复选择同一个目标，缺少目标时余箭不转为单体连射。",
+  "myth_symbol_proposal": {
+    "name": "百旒金翟",
+    "origin": "原创礼羽神相，翟羽借仪仗与门第意象，不称袁氏为神鸟血统",
+    "reason": "宽屏尾羽由层层垂旒与旗面构成，外扩而不俯冲；区别张辽苍隼尖翼、周瑜火雀和郭嘉暗鸦。",
+    "growth": "一枚羽扣→三层旗羽→半屏旒羽→完整屏状神鸟仪仗，羽不遮脸和箭阵"
+  },
+  "identity_draft": {
+    "face": "脸部骨相全部为原创，借其小说中名门身份构建气度：长阔脸、修长眉、鼻梁端正，目光有自信与自尊。",
+    "hair": "原创整齐黑须、分明上髭和颌须，后期少量灰须；高冠束发，无吕布长翎。",
+    "body": "原创高个端正、胸肩宽但不臃肿，仪仗中的站姿压得住场。",
+    "clothes": "米白与暗酒红袍、铁银甲、窄金缘礼带；以整齐的垂旒与羽扣识别，不能变黄袍帝王。",
+    "weapons_fact": "第3回拔剑抗董，第5回盟坛佩剑；无独有长枪或神弓专名证据。",
+    "weapons_design": "直剑为人物兵器，指挥时持节或按剑；玩法箭来自有限的军阵符影，不冒充袁绍本人百箭连射。",
+    "mount_fact": "原文有骑乘与军行，无本包核定的专名宝马。",
+    "mount_design": "仪仗用深棕马或普通战车；不占用吕布赤兔、赵云白马身份。",
+    "reference_version": "QUN-YS-text-v1，待样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第3回拔剑抗董，第5回盟坛佩剑；无独有长枪或神弓专名证据。",
+    "weapons_design": "直剑为人物兵器，指挥时持节或按剑；玩法箭来自有限的军阵符影，不冒充袁绍本人百箭连射。",
+    "mount_fact": "原文有骑乘与军行，无本包核定的专名宝马。",
+    "mount_design": "仪仗用深棕马或普通战车；不占用吕布赤兔、赵云白马身份。"
+  },
+  "cards": [
+    {
+      "asset_id": "yuanshao_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "剑对权臣",
+      "event": "拔剑抗董",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第003回"
+      ],
+      "pose_and_scene_original": "侧前平视中全身；拔剑横在身前，与画外董卓对峙，不抢先刺人；洛阳议事厅、董军卫士后侧",
+      "myth_growth": "衣扣只一片暗金翟羽",
+      "avoid": "不画当场击败董卓或举盟旗",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshao_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "盟坛立旄",
+      "event": "推为盟主登坛",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "pose_and_scene_original": "低仰全身，台阶造成递进不拉长腿；佩剑登上三层坛末级，手按誓仪卷；军营外筑土坛，白旄黄钺和五方旗分开可读",
+      "myth_growth": "三层旗羽随风展开，整体留土色",
+      "avoid": "不建九层神坛；不写成所有诸侯永远听令",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshao_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "冀州门开",
+      "event": "入主冀州",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "pose_and_scene_original": "城门外斜侧全身；收缰下马，与来迎的韩馥隔半步相见，士卒分列；冀州城门与交接车队，韩馥神色迟疑",
+      "myth_growth": "半屏旒羽投在墙上，边缘不喷粒",
+      "avoid": "不画韩馥幸福退隐；不展两人首级",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshao_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "黎阳旌羽",
+      "event": "檄文发军黎阳",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第022回"
+      ],
+      "pose_and_scene_original": "军阵前宽视低机位近全身；抬节示意军队行进，目光越过观者，剑在腰侧；黎阳道口与大河远景，骑兵步兵分层，不逐个数三十万人",
+      "myth_growth": "完整屏羽如旗幕在地平线展开，头部保持空净",
+      "avoid": "不画曹操投降或乌巢胜利，不把袁绍本人画成弓箭手",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "yuanshao_story_to_02",
+      "target_card_id": "yuanshao_card_02",
+      "target_stage": 2,
+      "title": "众推一盟主",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "scene_original": "横幅诸侯会帐，袁绍主脸，曹操在侧发言；接过盟主礼节，众人席位各具方向而非全体跪拜；铜卡盟坛来自共同推举与家世声望，不凭空自封",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshao_story_to_03",
+      "target_card_id": "yuanshao_card_03",
+      "target_stage": 3,
+      "title": "冀州来书",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "scene_original": "横幅帐内，袁绍听逢纪陈说后看韩馥来使；桌上城池图只作抽象位置，剑束在架上；银卡入城的谋略前因，明确逢纪贡献与袁绍决定",
+      "generated": false
+    },
+    {
+      "asset_id": "yuanshao_story_to_04",
+      "target_card_id": "yuanshao_card_04",
+      "target_stage": 4,
+      "title": "檄成而军动",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第022回"
+      ],
+      "scene_original": "横幅文帐通向校场，陈琳案前，袁绍近侧立；陈琳递成文，袁绍看向已集结的队伍；金卡军势来自发檄与动员；文本作者身份清楚",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "合射",
+      "single_effect": "齐射的单箭伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "列旗",
+      "single_effect": "齐射目标选择范围提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "余矢",
+      "single_effect": "主动能量消耗降低",
+      "unlock_star": 3
+    },
+    {
+      "name": "整军",
+      "single_effect": "自身受到远程普攻的伤害降低",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

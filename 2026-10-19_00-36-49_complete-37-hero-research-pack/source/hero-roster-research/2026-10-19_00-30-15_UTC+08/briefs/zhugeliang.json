@@ -1,0 +1,134 @@
+{
+  "hero_id": "zhugeliang",
+  "name": "诸葛亮",
+  "faction": "shu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-roster-research/2026-10-18_19-19-26_UTC+08/next_five_shu_briefs.json",
+  "role_draft": "先布局减缓一组敌人的节奏，再于指定目标落雷。核心是可预见的控场与时间选择，不复制庞统持续火伤，也不做张角全场天灾。",
+  "myth_symbol_proposal": {
+    "design": "卧龙、风、雷",
+    "status": "本轮给定幻想方向；具体形体为原创提案",
+    "form": "苍墨靛蓝的卧龙，伏于云山的宽弧体态，角枝平展、长眉与云纹鳞，尾部收在云中；不穿银甲，不作关羽式武龙咆哮。",
+    "boundary": "卧龙称号和借风可据演义；雷霆法术与实体现龙是本项目幻想。"
+  },
+  "identity_draft": {
+    "face": "清瘦长脸、沉静眉目、渐长胡须，四阶段保同一骨相，黄金可显成熟疲色但不病重。",
+    "body": "文士修长，姿态克制，不靠巨大重甲表现升级。",
+    "hair": "常态纶巾或束发；借风阶段可按第49回散发道衣处理，不将此推广为全阶披发。",
+    "palette": "月白、墨青、靛蓝，羽扇白羽有结构；雷光偏冷紫且局部使用。"
+  },
+  "weapon_mount_evidence": {
+    "novel": "第38回隆中对；第49回七星坛作法借风且有道衣、散发；第95回西城城楼抚琴。",
+    "project_original": "羽扇作为角色象征可用，但不能将任何商业扇名/法杖直接列为原著武器。风雷符阵与卧龙显形属项目原创。",
+    "mount": "不需要每阶骑马；出山可步行或车旁，避免统一骑将构图。",
+    "key_correction": "空城计属于演义情节；不作为已证史事，不画成诸葛亮靠雷劈退司马懿。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhugeliang_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "隆中高卧",
+      "event": "第37—38回隐居阶段",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第037回",
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "pose_and_scene_original": "草庐案边读卷，窗外山势伏卧；屋舍要有生活质感。；坐姿侧面，未展羽扇置于案侧，目光抬起。",
+      "myth_growth": "远山云形仅暗示伏龙。",
+      "avoid": "不一开始天宫祭台、不满身星点。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "出庐定策",
+      "event": "第38回隆中对后应刘备而出",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "pose_and_scene_original": "草庐门前，诸葛亮携卷与羽扇迈步，刘备退为关系背景。；站姿正侧，手中地图折卷不写烘焙小字。",
+      "myth_growth": "卧龙头部自山云抬起，体量尚小。",
+      "avoid": "不把刘备三顾主视角图换脸复用，不凭此编造精确年份。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "七星借风",
+      "event": "第49回七星坛借东南风",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "pose_and_scene_original": "江边地面祭坛、旌旗朝同一东南风方向，江面舰队远小。；仰角三分面，散发道衣，手势克制，足踏台面。",
+      "myth_growth": "卧龙沿风云上升，少量雷光为幻想装饰，不能遮坛。",
+      "avoid": "不把他画成亲自放火烧船的唯一赤壁胜者；不令火鸟替代卧龙。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "空城定局",
+      "event": "第95回西城退敌",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第095回"
+      ],
+      "pose_and_scene_original": "城楼抚琴、城门开敞，童子与洒扫者在应有位置，山外魏军停疑。；正面偏侧稳坐，琴、双手和羽扇放置互不冲突。",
+      "myth_growth": "巨大卧龙伏于城后层云，风雷收敛成可读阵势，非毁城攻击。",
+      "avoid": "不要空城被神龙实际杀敌，避免失去智谋成立条件；不照抄赵云营门独骑。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhugeliang_story_to_02",
+      "target_card_id": "zhugeliang_card_02",
+      "target_stage": 2,
+      "title": "三顾定志",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "scene_original": "以孔明案侧视角看刘备听策，门外关张只是次要见证。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_story_to_03",
+      "target_card_id": "zhugeliang_card_03",
+      "target_stage": 3,
+      "title": "风起江上",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "scene_original": "近景孔明勘坛与旗位，远江火船待发，呈现借风卡的前因。",
+      "generated": false
+    },
+    {
+      "asset_id": "zhugeliang_story_to_04",
+      "target_card_id": "zhugeliang_card_04",
+      "target_stage": 4,
+      "title": "虚实之间",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第095回"
+      ],
+      "scene_original": "孔明安排开门洒扫与转运，童子抱琴上楼，魏军烟尘渐近。",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "候风",
+      "single_effect": "主动施放前对指定敌方施加短暂迟滞。",
+      "unlock_star": 2
+    },
+    {
+      "name": "审势",
+      "single_effect": "雷击对迟滞目标提高伤害。",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

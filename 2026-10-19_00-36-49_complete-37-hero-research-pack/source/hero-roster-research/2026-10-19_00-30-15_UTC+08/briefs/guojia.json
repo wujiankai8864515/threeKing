@@ -1,0 +1,148 @@
+{
+  "hero_id": "guojia",
+  "name": "郭嘉",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "给一名敌人布置可见谋记；其下一次主动技能完成后，谋记结算一次术伤并消失。",
+  "myth_symbol_proposal": {
+    "name": "烛影玄鸦",
+    "origin": "原创神话意象；预判来自谋略，不宣称原著有通灵预言能力",
+    "reason": "一只凝视而不聒噪的夜鸦，灯影与迟发反馈对应料敌；与曹操翼蛇、诸葛星雷、庞统火凤区分。",
+    "growth": "烛影羽缘→一翼投影→完整玄鸦→巨鸦在窗外夜色中收翼，非尸魂复活"
+  },
+  "identity_draft": {
+    "face": "原创：年轻清瘦、较窄下颌、细眉、稍深眼窝，目光锋利；早期不画病容，中后期才加疲色。",
+    "hair": "略松高髻，简簪与几缕鬓发；不披白发仙人造型。",
+    "body": "瘦而端正，不用羸弱病态取悦，不因最后患病失去同一骨相。",
+    "clothes": "墨青灰与暖米白，衣领窄、外袍松，蓝只小结；后期薄披衣，皮肤自然暖灰不尸白。",
+    "weapons_fact": "所选章回为荐才、论势、献计与遗书，未提供专属战斗兵器。",
+    "weapons_design": "短卷、笔、封函、烛台；身边可有普通佩剑但不主握。禁羽扇雷法与血祭武器。",
+    "mount_fact": "第33回明确病卧车中；不以骑马突阵替换这一证据。",
+    "mount_design": "前三阶多文帐，末阶屋内/车中；无神鸟坐骑。",
+    "reference_version": "WEI-GJ-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "所选章回为荐才、论势、献计与遗书，未提供专属战斗兵器。",
+    "weapons_design": "短卷、笔、封函、烛台；身边可有普通佩剑但不主握。禁羽扇雷法与血祭武器。",
+    "mount_fact": "第33回明确病卧车中；不以骑马突阵替换这一证据。",
+    "mount_design": "前三阶多文帐，末阶屋内/车中；无神鸟坐骑。"
+  },
+  "cards": [
+    {
+      "asset_id": "guojia_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "初入谋席",
+      "event": "受聘论天下",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第010回"
+      ],
+      "pose_and_scene_original": "眼平近中景，身略朝右，眼看对谈者；合起短卷听曹操问策，手势小而准；兖州军帐，天光从门边入",
+      "myth_growth": "烛影仅似一片羽缘",
+      "avoid": "不要一上来咳血/病榻/仙化",
+      "generated": false
+    },
+    {
+      "asset_id": "guojia_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "十胜开局",
+      "event": "十胜十败",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第018回"
+      ],
+      "pose_and_scene_original": "从曹操肩侧看郭嘉，近全身端坐或半起；在无字简图上点出两军强弱，不摆十个魔法球；军帐两组文书形成对比，袁书放在一旁",
+      "myth_growth": "一侧鸦翼投影在帘上展开",
+      "avoid": "不要预言水晶球与浮空电子界面",
+      "generated": false
+    },
+    {
+      "asset_id": "guojia_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "下邳观流",
+      "event": "下邳决水献计",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第019回"
+      ],
+      "pose_and_scene_original": "城外高地侧前中景，主角居近景一侧；持短卷观察两河与城地势，另一手示意水向；沂泗与下邳城真实地理概念而非精确考古复原",
+      "myth_growth": "完整玄鸦沿高地树影停立，翅不搅水",
+      "avoid": "没有召潮手势或淹百姓的庆祝笑",
+      "generated": false
+    },
+    {
+      "asset_id": "guojia_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "易州遗筹",
+      "event": "易州封书遗计",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第033回"
+      ],
+      "pose_and_scene_original": "窗侧较高近中景，清楚脸手与封函；病中坐起封好书，神色疲惫但清明；朴素公廨内、薄被、熄短的烛与窗外北地风",
+      "myth_growth": "巨鸦安静收翼立在窗外雾影，光局限羽缘",
+      "avoid": "不画死亡瞬间、血祭、尸白发光或神兽带其飞升",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "guojia_story_to_02",
+      "target_card_id": "guojia_card_02",
+      "target_stage": 2,
+      "title": "袁书到时",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第018回"
+      ],
+      "scene_original": "横幅两人隔案，曹操放下慢书，郭嘉从旁开论；主角指出强弱不只在人数，荀彧在后点头；青铜十胜判断的直接触发背景",
+      "generated": false
+    },
+    {
+      "asset_id": "guojia_story_to_03",
+      "target_card_id": "guojia_card_03",
+      "target_stage": 3,
+      "title": "两河可用",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第019回"
+      ],
+      "scene_original": "横幅地图边到真实河岸的单景：选军帐开帘见远地；郭嘉提出决水思路，荀彧接话，曹操转向传令者；同回献计与执行前因；银卡是察势之人，不冒充水神",
+      "generated": false
+    },
+    {
+      "asset_id": "guojia_story_to_04",
+      "target_card_id": "guojia_card_04",
+      "target_stage": 4,
+      "title": "封书托后事",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第033回"
+      ],
+      "scene_original": "横幅近景，郭嘉将封函交可信从人；从人双手承接，病车的帘或公廨木窗说明北征环境；不出现尸柩；直接对应黄金封书；轻兵策是同段前因，结果由后续说明而非鬼魂演出",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "达识",
+      "single_effect": "自身术伤提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "深谋",
+      "single_effect": "谋记存在时间延长",
+      "unlock_star": 2
+    },
+    {
+      "name": "远虑",
+      "single_effect": "主动施放距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "后发",
+      "single_effect": "谋记触发伤害提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

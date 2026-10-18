@@ -1,0 +1,148 @@
+{
+  "hero_id": "lumeng",
+  "name": "吕蒙",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "主动先进入短时整备，期间停止普攻；完整整备后，对近旁一名敌人作一次普通威力刀击，并短时禁止其普通攻击。移动或强制位移会中止整备。",
+  "myth_symbol_proposal": {
+    "name": "潜渊白鼍",
+    "origin": "原创神兽象征；白衣渡江不是变鳄史实",
+    "reason": "宽扁体、背甲、伏在浅水后突然抬首；与张辽高空苍隼、甘宁快鲨的机动感分开。",
+    "growth": "水边背甲线→半首→浅水伏身→白鼍沿船队下方起伏，不吞城"
+  },
+  "identity_draft": {
+    "face": "原创宽颧偏圆方脸、厚眉、略下垂外眼角、短浓颏须，警觉而能收敛表情。",
+    "hair": "原创低髻、布巾罩发，铜银换冠不改发际线。",
+    "body": "原创结实而不巨壮，中等高度，步幅稳。",
+    "clothes": "灰棕短袍与黑铁甲；1星水战卷袖，2星浅灰披甲，3星病居素衣，4星白衣商旅罩内甲；红只隐蔽衣结。",
+    "weapons_fact": "第38回亲举橹棹、持刀杀陈就；第67回刀牌分隔甘宁凌统；第75回统筹白衣精兵。",
+    "weapons_design": "略宽短战刀配可解小盾，白衣潜行刀藏鞘；盾只相应场景出现，不能每张持双武器。",
+    "mount_fact": "第75回入城后骑马巡视，但白衣渡江主场船。无固定名马。",
+    "mount_design": "船卡不骑神兽；普通暗栗马仅候选巡视段。",
+    "reference_version": "WU-LM-text-v1，待样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第38回亲举橹棹、持刀杀陈就；第67回刀牌分隔甘宁凌统；第75回统筹白衣精兵。",
+    "weapons_design": "略宽短战刀配可解小盾，白衣潜行刀藏鞘；盾只相应场景出现，不能每张持双武器。",
+    "mount_fact": "第75回入城后骑马巡视，但白衣渡江主场船。无固定名马。",
+    "mount_design": "船卡不骑神兽；普通暗栗马仅候选巡视段。"
+  },
+  "cards": [
+    {
+      "asset_id": "lumeng_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "江夏自棹",
+      "event": "江夏亲棹斩陈就",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第038回"
+      ],
+      "pose_and_scene_original": "贴水侧前低视，中全身；左手扶船沿稳身，右手持棹划近敌船，刀尚在鞘；沔口小舟与横转艨艟，火只远段船身",
+      "myth_growth": "水线一段白鼍背甲",
+      "avoid": "不能夺甘宁斩邓龙动作；不在狭舟骑马",
+      "generated": false
+    },
+    {
+      "asset_id": "lumeng_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "皖城催鼓",
+      "event": "皖城乘锐擂鼓",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "pose_and_scene_original": "城下略低前侧中景；双槌轮落一击，表情紧凑，士卒向城冲；攻城土路、军鼓支架，甘宁在远城墙",
+      "myth_growth": "白鼍半首从鼓后低水汽成形",
+      "avoid": "不站城头拿朱光首级；不复制甘宁铁链",
+      "generated": false
+    },
+    {
+      "asset_id": "lumeng_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "藏锋称病",
+      "event": "托病纳陆逊计",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "pose_and_scene_original": "帐内眼平偏俯近景；坐榻边披素衣，抬眼听陆逊，指尖压住未展军书；朴素病帐、药碗只背景道具，无治疗示范",
+      "myth_growth": "整只白鼍贴地伏影，闭口不暴起",
+      "avoid": "不画已赢关羽庆功；不称原文劝学同一事件",
+      "generated": false
+    },
+    {
+      "asset_id": "lumeng_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "白衣断烽",
+      "event": "白衣渡江袭荆州",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "pose_and_scene_original": "船侧向上近全身，白衣主角偏右；立船中低声示意精兵起身，另一手扶舱板；夜江岸、未燃烽台、沿岸快船一线，暗号不烧字",
+      "myth_growth": "巨白鼍低伏船队侧后，背甲刚露水面",
+      "avoid": "不万人飞跃城墙；不让所有人纯白发光",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "lumeng_story_to_02",
+      "target_card_id": "lumeng_card_02",
+      "target_stage": 2,
+      "title": "等不起土山",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "scene_original": "横幅城外军议，吕蒙近侧孙权居后；指向城与合肥援军来路，军士已整备鼓架；铜卡擂鼓由乘锐速攻判断引出，非凭鼓声法术破城",
+      "generated": false
+    },
+    {
+      "asset_id": "lumeng_story_to_03",
+      "target_card_id": "lumeng_card_03",
+      "target_stage": 3,
+      "title": "病帐听良策",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "scene_original": "横幅帐内双人半身；陆逊近侧陈说，吕蒙放下遮掩病容的手，认真点头；银卡藏锋来自陆逊建议与吕蒙纳计，直接相连",
+      "generated": false
+    },
+    {
+      "asset_id": "lumeng_story_to_04",
+      "target_card_id": "lumeng_card_04",
+      "target_stage": 4,
+      "title": "烽台未燃",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第075回"
+      ],
+      "scene_original": "横幅岸台与泊船空间，吕蒙前景船上；士卒从舱中出现并制住守军，主角传低声止令；黄金夺势的行动关键是警报未发，而不是与关羽决斗",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "敛息",
+      "single_effect": "整备所需时间缩短",
+      "unlock_star": 1
+    },
+    {
+      "name": "伏甲",
+      "single_effect": "整备期间受到的伤害降低",
+      "unlock_star": 2
+    },
+    {
+      "name": "缴刃",
+      "single_effect": "缴械持续时间提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "归鞘",
+      "single_effect": "主动冷却缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

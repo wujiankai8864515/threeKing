@@ -1,0 +1,148 @@
+{
+  "hero_id": "zhangliao",
+  "name": "张辽",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "选一名后排敌人，从侧面短突进并造成一次集中刀击；敌人前排仍可阻挡路径。",
+  "myth_symbol_proposal": {
+    "name": "苍隼",
+    "origin": "原创象征，不称张辽原有神兽",
+    "reason": "窄翼急折、从侧后切入，表现突袭节奏；采用冷灰隼形，避免与马超正面大骑阵、甘宁水上劫营混同。",
+    "growth": "羽痕→半翼→俯冲全隼→收拢翼尖压住桥口的巨隼虚影"
+  },
+  "identity_draft": {
+    "face": "原创：偏长方脸、刀眉、眉骨清楚、内收的冷静目光；中短直须，嘴角收紧。",
+    "hair": "原创：紧束高髻，鬓角利落；不使用吕布长翎。",
+    "body": "原创：高而精悍、肩腰比利落，非许褚/典韦巨汉。",
+    "clothes": "铁灰甲、暗紫褐袍、燕尾式短披风；蓝仅系带内缘。四阶由低领轻甲到紧凑精甲，披风折线与同一胸扣贯穿。",
+    "weapons_fact": "第53回明记张辽挥刀迎太史慈。原文所核段未给“钩镰刀”专名或全生涯统一武器。",
+    "weapons_design": "本项目选择窄背、略弧长柄单刃战刀为统一原创辨识件；长轴和尾杆必须完整可推，不能给刀附钩后称原著。",
+    "mount_fact": "相关战斗骑马；所核原文无专属坐骑名。",
+    "mount_design": "深栗色普通战马，脸部小白星作为项目连续性设计，不替换成赤兔。",
+    "reference_version": "WEI-ZL-identity-text-v1；尚无获批图。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第53回明记张辽挥刀迎太史慈。原文所核段未给“钩镰刀”专名或全生涯统一武器。",
+    "weapons_design": "本项目选择窄背、略弧长柄单刃战刀为统一原创辨识件；长轴和尾杆必须完整可推，不能给刀附钩后称原著。",
+    "mount_fact": "相关战斗骑马；所核原文无专属坐骑名。",
+    "mount_design": "深栗色普通战马，脸部小白星作为项目连续性设计，不替换成赤兔。"
+  },
+  "cards": [
+    {
+      "asset_id": "zhangliao_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "濮阳横锋",
+      "event": "濮阳吕布军健将",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第011回"
+      ],
+      "pose_and_scene_original": "眼平三分之二侧面，中全身，面朝左；勒马侧转，以刀横隔战线，观察对方接应；干燥城郊、吕布军旗退入远景",
+      "myth_growth": "远空仅两道隼羽形云痕",
+      "avoid": "无魏字旗；不画方天画戟和吕布冠",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangliao_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "解缚新途",
+      "event": "解缚受礼归曹",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第020回"
+      ],
+      "pose_and_scene_original": "略低机位半身，右肩前转；受衣后立起，刀暂由近旁军士递还；表情仍克制；白门楼阶下石地，绳索落在侧面，曹操退后景",
+      "myth_growth": "半片灰隼翼投影贴近肩背",
+      "avoid": "不用祭天式金光或跪拜屈从表情",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangliao_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "合肥定乱",
+      "event": "合肥识乱反伏",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第053回"
+      ],
+      "pose_and_scene_original": "正面偏左低机位，主角占中轴；披甲上马停在街口，横手制止本军奔乱；城内夜火局限草场，军士列在身后；城门为次要远景",
+      "myth_growth": "苍隼完整轮廓从屋脊上方压低，未占天空大半",
+      "avoid": "不能把整城烧毁；不画亲自擒杀全部内应",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangliao_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "逍遥夺势",
+      "event": "逍遥津合谋突击",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "pose_and_scene_original": "桥口外侧低角度，马向右前，刀从左后切入；当先勒转，刀锋指向敌军缺口，身后精骑斜切；河滩湿土、断桥木梁与桥上远逃者；地面战场清晰",
+      "myth_growth": "巨隼俯冲收翼构成一条窄楔形，不撒羽粉",
+      "avoid": "不把孙权画成已被生擒；不写八百或十万作为画面文字",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zhangliao_story_to_02",
+      "target_card_id": "zhangliao_card_02",
+      "target_stage": 2,
+      "title": "白门解缚",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第020回"
+      ],
+      "scene_original": "横幅近中景，张辽三分之二正脸；曹操右侧；曹操俯身解绳，刘关在另一侧可辨；张辽挺直脊背；对应青铜的换主转折，前因第19回的刚直在人物姿态里呈现",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangliao_story_to_03",
+      "target_card_id": "zhangliao_card_03",
+      "target_stage": 3,
+      "title": "胜夜不卸甲",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第053回"
+      ],
+      "scene_original": "张辽肩后看向帐外草场，横向纵深；主角抬手稳住亲从，李典押内应由后侧进入，远城门留伏兵；传记交代辨乱与设伏，卡面凝练处乱不惊的守将状态",
+      "generated": false
+    },
+    {
+      "asset_id": "zhangliao_story_to_04",
+      "target_card_id": "zhangliao_card_04",
+      "target_stage": 4,
+      "title": "解嫌出奇兵",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "scene_original": "近景张辽、李典与乐进围木匣，中远景通城门；张辽指向桥口方向，李典起身应命，乐进在旁确认诱敌路线；同役战前关键合作，直接导向黄金逍遥津突击",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "潜锋",
+      "single_effect": "本场首次主动伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "疾行",
+      "single_effect": "移动速度提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "锐击",
+      "single_effect": "对后排目标的伤害提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "迫阵",
+      "single_effect": "主动附带的行动延迟时长提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

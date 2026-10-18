@@ -1,0 +1,133 @@
+{
+  "hero_id": "huangzhong",
+  "name": "黄忠",
+  "faction": "shu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-roster-research/2026-10-18_19-19-26_UTC+08/next_five_shu_briefs.json",
+  "role_draft": "远程选择关键目标并持续锁定破绽，单点精确重击。与关羽残血终结不同，黄忠重在准与远；不以敌方当前生命比例重复张飞。",
+  "myth_symbol_proposal": {
+    "design": "烈日、金轮与贯日箭势",
+    "status": "后羿般神射气势为给定视觉方向；烈日金轮为原创推荐",
+    "form": "以巨弓轮廓、太阳圆弧和一条干净箭光为主，不再加与庞统重复的火鸟。",
+    "boundary": "人物始终是汉升，不穿后羿身份服饰，不把射九日写入黄忠传记。"
+  },
+  "identity_draft": {
+    "face": "四阶段均为同一老将，白须、清晰颧骨和鹰隼般专注眼神；升级靠精神与装备，不从青年突然变老。",
+    "body": "背肩宽厚、拉弓侧背发力明确，年老仍能稳住重弓。",
+    "hair": "白发收束，须有重力与风向。",
+    "palette": "深褐、暗红、旧铜，金色只集中弓端、少量甲边与日轮。"
+  },
+  "weapon_mount_evidence": {
+    "novel": "第53回有刀与二石力弓，并有韩玄换给黄忠青马；第70回以强弓与大刀显示老当益壮；第71回定军山斩夏侯渊用刀。",
+    "project_original": "神弓可放大造型，但不宣称某一华丽弓名是原著专名；不将石折算成未经考据的现代公斤。",
+    "mount": "青铜如用骑马，青马有第53回局部依据；其他阶段使用普通战马，不虚构固定名马。",
+    "key_correction": "黄金传记斩夏侯渊须画刀；黄金卡选战后高地持弓警戒，属于同阶段状态凝练，不伪造射箭杀夏侯渊。"
+  },
+  "cards": [
+    {
+      "asset_id": "huangzhong_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "长沙老将",
+      "event": "第53回迎战前的长沙守将状态",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第053回"
+      ],
+      "pose_and_scene_original": "城墙与军械木架，黄忠低持强弓，仍带旧甲。；站姿三分侧，未满弓，右手检箭；脸与手清楚。",
+      "myth_growth": "远空只有弱暖圆弧。",
+      "avoid": "不能画成衰败无力或年轻新兵；不用九日背景。",
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "一箭报义",
+      "event": "第53回只射关羽盔缨",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第053回"
+      ],
+      "pose_and_scene_original": "吊桥附近，黄忠开弓而留一线仁义，目标留在远处。；骑青马回身射箭或落地稳定射姿二选一；先做可靠弓术参考再定。",
+      "myth_growth": "弓背出现清楚日弧，箭光短而集中。",
+      "avoid": "不射中关羽头部；弓弦必须连接双梢，箭尾扣弦。",
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "老骥出关",
+      "event": "第70回与严颜取天荡山阶段",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第070回"
+      ],
+      "pose_and_scene_original": "崎岖山路与粮寨，黄忠在高处持弓掩护部队推进。；立足岩台开弓，画面左上指向右下，稳健大三角。",
+      "myth_growth": "完整但低亮日轮半隐云后，仍有地面战争背景。",
+      "avoid": "该开弓镜头为同段原创凝练，不声称原文逐字描写；不抢严颜攻营功劳。",
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "定军神射",
+      "event": "第71回定军山胜后掌控山势",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第071回"
+      ],
+      "pose_and_scene_original": "攻克高地后的黄忠持神弓戒备，远处战旗与山口可读，副刀归鞘。；正面低机位，弓横出大轮廓但不全满拉，以胜后沉着对比白银。",
+      "myth_growth": "巨大烈日金轮与单箭轨迹，气势如神射，实体脸甲仍清楚。",
+      "avoid": "不能把夏侯渊画成中箭而亡；金光不得覆满皮肤、石头和白须。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "huangzhong_story_to_02",
+      "target_card_id": "huangzhong_card_02",
+      "target_stage": 2,
+      "title": "受义还义",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第053回"
+      ],
+      "scene_original": "黄忠牵新马从门内望向关羽阵线，手握弓而未射，远近交代昨日与今日关系。",
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_story_to_03",
+      "target_card_id": "huangzhong_card_03",
+      "target_stage": 3,
+      "title": "白首请缨",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第070回"
+      ],
+      "scene_original": "堂前黄忠演示强弓，严颜在侧响应；武将的质疑与老将气势构成前因。",
+      "generated": false
+    },
+    {
+      "asset_id": "huangzhong_story_to_04",
+      "target_card_id": "huangzhong_card_04",
+      "target_stage": 4,
+      "title": "定军乘势",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第071回"
+      ],
+      "scene_original": "法正在高处举旗，黄忠提刀下山，镜头以黄忠为主、旗号为决胜依据。",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "定弦",
+      "single_effect": "连续攻击同一目标时提高对该目标的命中稳定性。",
+      "unlock_star": 2
+    },
+    {
+      "name": "破翎",
+      "single_effect": "主动对已锁定目标提高伤害。",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "active_remake_by_other_worker",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

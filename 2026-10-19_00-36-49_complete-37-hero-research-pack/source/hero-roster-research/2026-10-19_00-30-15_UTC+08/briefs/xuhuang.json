@@ -1,0 +1,148 @@
+{
+  "hero_id": "xuhuang",
+  "name": "徐晃",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "斧击一个敌人并使其能量恢复速率短时降低；资源轴只选能量。",
+  "myth_symbol_proposal": {
+    "name": "断路玄獬",
+    "origin": "原创独角重兽，借獬豸的刚正视觉联想但不是演义配兽",
+    "reason": "额角像斧背、厚颈低身，强调截断；与于禁整列防守、典韦巫族巨躯分开。",
+    "growth": "斧影独角→半身玄獬→低身完整→压住粮道的巨影"
+  },
+  "identity_draft": {
+    "face": "原创：宽方脸、沉眉、短宽鼻、厚而修整的须，额角有一处旧浅疤（原创）。",
+    "hair": "原创：低结髻加白灰头巾；白巾只作项目可辨设计，不声称本次原文固定。",
+    "body": "宽肩厚背、重心稳，低于典韦的夸张巨躯，高于乐进；上臂受力明显。",
+    "clothes": "灰白袍、黑铁甲、烟褐皮带；斧面少量暗银；蓝只肩绳。",
+    "weapons_fact": "第14回徐晃一斧斩李乐，又与许褚刀斧交锋，斧类别可核。",
+    "weapons_design": "实心长柄单刃大斧，宽斧面加短背脊，非双刃巨玩具；不擅命“开山斧”原著专名。",
+    "mount_fact": "相关段骑马，无所核专属马名。",
+    "mount_design": "黄褐厚实体型军马，速度适中；斧头低于肩线时避马腿。",
+    "reference_version": "WEI-XH-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第14回徐晃一斧斩李乐，又与许褚刀斧交锋，斧类别可核。",
+    "weapons_design": "实心长柄单刃大斧，宽斧面加短背脊，非双刃巨玩具；不擅命“开山斧”原著专名。",
+    "mount_fact": "相关段骑马，无所核专属马名。",
+    "mount_design": "黄褐厚实体型军马，速度适中；斧头低于肩线时避马腿。"
+  },
+  "cards": [
+    {
+      "asset_id": "xuhuang_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "箕关护行",
+      "event": "护驾斩李乐",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第014回"
+      ],
+      "pose_and_scene_original": "地面稍低的侧前机位，斧横在身前；骑马收斧护住身后车驾，动作停在胜后戒备；荒路、简陋车驾与关隘；不豪华巡幸",
+      "myth_growth": "岩壁上一笔独角兽影",
+      "avoid": "不画魏王旌旗或皇帝给斧加持",
+      "generated": false
+    },
+    {
+      "asset_id": "xuhuang_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "夜别旧营",
+      "event": "满宠夜说归曹",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第014回"
+      ],
+      "pose_and_scene_original": "眼平三分之二正面，站姿；出帐回首，斧垂低侧，满宠在前带路；烛光从帐口照一半脸，数十骑在暗处候行",
+      "myth_growth": "半身玄獬随着帐布影折出",
+      "avoid": "不是刺杀夜行者，不画血淋淋投名状",
+      "generated": false
+    },
+    {
+      "asset_id": "xuhuang_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "截断粮道",
+      "event": "截韩猛粮车",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "pose_and_scene_original": "路面低机位，横向斧轴占构图；稳坐马上挡韩猛，斧横劈前蓄力，后方史涣焚车；山谷粮车横列、火局限木车；逃兵远景",
+      "myth_growth": "完整玄獬低头横断路面，角与斧势呼应",
+      "avoid": "不画斩韩猛首级，不冒称火神攻击",
+      "generated": false
+    },
+    {
+      "asset_id": "xuhuang_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "沔水拆垒",
+      "event": "沔水绕后破连营",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第076回"
+      ],
+      "pose_and_scene_original": "河滩斜上俯看近全身，主角大但保地图空间；下马踏浅滩持斧指进路，精兵从侧后营门穿过；河岸、鹿角寨柵与断开的营线有前后层次",
+      "myth_growth": "巨玄獬压在被截断的营线外侧，实体战场仍占大半",
+      "avoid": "不把吴军取荆州算他独功；不强画万人大阵",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "xuhuang_story_to_02",
+      "target_card_id": "xuhuang_card_02",
+      "target_stage": 2,
+      "title": "不以弑主换新途",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第014回"
+      ],
+      "scene_original": "横幅帐内二人对坐，主角脸最清；满宠劝说，徐晃伸手拒绝杀旧主之议，斧倚架清楚；青铜卡夜离旧营正承这一原则选择",
+      "generated": false
+    },
+    {
+      "asset_id": "xuhuang_story_to_03",
+      "target_card_id": "xuhuang_card_03",
+      "target_stage": 3,
+      "title": "细作与粮车",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第030回"
+      ],
+      "scene_original": "横幅营内侧视，史涣带细作在后，徐晃面向曹操；徐晃报告粮运线，荀攸示意可截；次要道具为无字简图；银卡截粮的真实情报和命令前因，不虚构徐晃自创全部计策",
+      "generated": false
+    },
+    {
+      "asset_id": "xuhuang_story_to_04",
+      "target_card_id": "xuhuang_card_04",
+      "target_stage": 4,
+      "title": "借旗绕沔水",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第076回"
+      ],
+      "scene_original": "横幅双层道路景，前景徐晃与两副将；徐晃把显眼旗号交徐商、吕建，自己率少数精兵沿岸隐进；直连黄金绕后拆营；同战役的调度与结果分镜",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "重斧",
+      "single_effect": "普通攻击伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "截脉",
+      "single_effect": "能量恢复抑制的持续时间提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "稳进",
+      "single_effect": "攻击被本技能抑制的敌人时自身受伤降低",
+      "unlock_star": 3
+    },
+    {
+      "name": "断援",
+      "single_effect": "主动的能量恢复抑制幅度提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

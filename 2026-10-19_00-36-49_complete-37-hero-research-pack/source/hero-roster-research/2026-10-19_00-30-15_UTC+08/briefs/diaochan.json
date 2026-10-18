@@ -1,0 +1,149 @@
+{
+  "hero_id": "diaochan",
+  "name": "貂蝉",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "选择一名敌人，使其下一次普通攻击改为攻击其附近另一名敌人；只改一次，找不到合法目标则失效。",
+  "myth_symbol_proposal": {
+    "name": "月蚀银蛾",
+    "origin": "原创关系神话，非原著妖女、魅魔或仙女身份",
+    "reason": "两片银灰蛾翼分离一轮月，表现裂开的信任；不靠裸露与粉紫花瓣堆魔法。",
+    "growth": "袖影单翅→双翅未开→月面缺口→完整银蛾在两道分离月弧中展形"
+  },
+  "identity_draft": {
+    "age_boundary": "小说第8回写年方二八。项目视觉统一原创成年化（明确20岁以上），这是改编选择，不改写原文年龄；全部服饰与镜头非性化。",
+    "face": "原创成年椭圆脸、眉梢略扬、鼻颌精细但不幼态，目光有观察性；四阶表情从忧到定，不以媚笑贯穿。",
+    "hair": "原创完整高髻与两侧收束发，银蛾形小簪作连续性；无现代舞台大羽冠。",
+    "body": "成年匀称舞者体态，重心细腻有力；不极端沙漏比例，不露腹腿胸作卖点。",
+    "clothes": "墨蓝灰、月白、暗梅红长衣分层，完整领襟与长裙；少量细银边，非透明薄纱；阶位增长靠剪裁、气度和神相。",
+    "weapons_fact": "所核第8回无战斗武器；第9回拔剑威胁自尽的桥段不选主图。",
+    "weapons_design": "主道具为素色长袖与小圆扇（扇为原创）；不说原著使用双刃环或舞刃。扇不能变真实毒器。",
+    "mount_fact": "第8回毡车送相府，第9回车往郿坞；无专属骑兽。",
+    "mount_design": "出行保车，不给神狐坐骑；主场庭院石地。",
+    "reference_version": "QUN-DC-adult-text-v1，须先确认成年身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "所核第8回无战斗武器；第9回拔剑威胁自尽的桥段不选主图。",
+    "weapons_design": "主道具为素色长袖与小圆扇（扇为原创）；不说原著使用双刃环或舞刃。扇不能变真实毒器。",
+    "mount_fact": "第8回毡车送相府，第9回车往郿坞；无专属骑兽。",
+    "mount_design": "出行保车，不给神狐坐骑；主场庭院石地。"
+  },
+  "cards": [
+    {
+      "asset_id": "diaochan_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "庭月闻乱",
+      "event": "后园长叹明心",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "pose_and_scene_original": "月下平视侧前全身；扶一段花架站定，回头望向王允来处；真实后园、石路与少量花木，非月宫",
+      "myth_growth": "袖下仅一片蛾翅影",
+      "avoid": "无月亮因美貌躲云的事实宣称，无幼态",
+      "generated": false
+    },
+    {
+      "asset_id": "diaochan_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "席前定意",
+      "event": "受连环计见吕布",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "pose_and_scene_original": "宴席侧面近中景；把酒杯放在案边后收手，目光越席观察来客；王允府木堂与帘幕，吕布远侧不贴身",
+      "myth_growth": "双翅短弧在屏风影中合拢",
+      "avoid": "不坐吕布腿上，不露胸腿舞蹈",
+      "generated": false
+    },
+    {
+      "asset_id": "diaochan_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "入府藏心",
+      "event": "宴董后入相府",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "pose_and_scene_original": "车门内向外略高视近全身；掀小幅车帘看相府高门，另一手握住袖缘；毡车、石道、守卫戟列，压迫而有现实尺度",
+      "myth_growth": "月影缺一角，银蛾半身映车帘",
+      "avoid": "不画与董卓亲密床景，不把相府变妖窟",
+      "generated": false
+    },
+    {
+      "asset_id": "diaochan_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "凤亭裂盟",
+      "event": "凤仪亭挑开矛盾",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "pose_and_scene_original": "亭内斜侧中全身，主角在曲栏内安全位置；长袖收在身前，目光看向骤来的董卓，吕布已回身欲退；荷池、木亭、石道三条视线清晰",
+      "myth_growth": "银蛾完整展形，两月弧分别沿两人离去方向，不直接操纵身体",
+      "avoid": "不画露骨拥抱、投水动作、董吕双方同时持同一戟",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "diaochan_story_to_02",
+      "target_card_id": "diaochan_card_02",
+      "target_stage": 2,
+      "title": "画阁受计",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "scene_original": "横幅画阁两人相对，貂蝉主脸近景；听王允说明后起身应承，手按袖口；铜卡宴见吕布的行动前因；强调她承担风险，不把谋划全归一方",
+      "generated": false
+    },
+    {
+      "asset_id": "diaochan_story_to_03",
+      "target_card_id": "diaochan_card_03",
+      "target_stage": 3,
+      "title": "车帘隔旧门",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "scene_original": "横幅车侧，主角回望王允府门渐远；车已出发，随行侍者分列，不出现卧室；银卡进入相府，是前约与第二次献见造成的危险转折",
+      "generated": false
+    },
+    {
+      "asset_id": "diaochan_story_to_04",
+      "target_card_id": "diaochan_card_04",
+      "target_stage": 4,
+      "title": "一柄戟转向",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第008回"
+      ],
+      "scene_original": "横幅亭园较宽，貂蝉近侧、董卓取戟、吕布后退；停在取戟尚未掷出的一瞬，父子信任破裂可读；与黄金凤亭裂盟同役，因果直接；不用魔法强迫亲吻",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "察隙",
+      "single_effect": "主动选择距离提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "持计",
+      "single_effect": "改向标记等待时间提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "藏锋",
+      "single_effect": "自己未主动伤害敌人时所受伤害降低",
+      "unlock_star": 3
+    },
+    {
+      "name": "续谋",
+      "single_effect": "成功改向后主动冷却缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

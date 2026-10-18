@@ -1,0 +1,363 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "zuoci",
+    "name": "左慈",
+    "faction": "qun",
+    "core_personality": "以自在、戏谑与变化挑战权势；明知身在险境仍从容，奇术始终是小说幻想。",
+    "myth_symbol_proposal": {
+      "name": "蜃壳幻潮",
+      "origin": "原创蜃形幻象提案，不将左慈等同历史真仙，也不把所有神通改为现实能力",
+      "reason": "壳缘与低潮折射形成真假边界，物件换相而人物不满屏复制；区别张角雷暴、华佗草叶治愈、郭嘉鸦记。",
+      "growth": "衣边一片壳光→近地浅幻潮→半枚蜃壳镜面→完整低伏蜃壳把山路折成一层重影"
+    },
+    "differentiation": "只生成一个替身幻影，替本体承受下一次可转移的单体普攻，然后消失；不复制任何其他英雄技能，不复活单位，不造无限化身库。",
+    "identity": {
+      "face": "第68回眇一眼有据，哪一侧未写；项目原创固定为左眼视损、右眼清明，成熟老者，神态轻松而非疯癫。",
+      "hair": "白藤冠有据；白灰发与短疏须属原创定型，不能变诸葛亮纶巾长须。",
+      "body": "第68回跛一足有据，哪侧未写；固定右腿略跛为原创连续性。四阶都保留，不以进阶治好残障。",
+      "clothes": "第68回青懒衣、木履；设计为青灰哑布宽衣、白藤编冠、褐腰绳，完整遮身。黄金增加壳边图纹而不换帝王金甲。",
+      "weapons_fact": "第68回用钓竿、玉簪、杯等施术；文中天书自述有飞剑，但不等于所选四镜头每场持战剑。",
+      "weapons_design": "无常备战斗剑；以袖、簪、杖式钓竿的真实物件形成识别。木杖若使用须标为原创辅助，不当原著固定仙杖。",
+      "mount_fact": "68回尾声乘白鹤在空中属小说明文；本组黄金止于羊群段，尚不使用该坐骑。",
+      "mount_design": "主图均落地，木履可见；不因是仙人就四阶都骑鹤飞天。",
+      "reference_version": "QUN-ZC-text-v1，左眼/右腿选择是项目设定，后续不可镜像漂移。",
+      "safety_boundary": "禁食、枷锁自解与羊复生均为小说神异；不提供现实练习或效验承诺。"
+    },
+    "modern_game_reference": {
+      "version": "官方三国杀指定版本页面，2026-10-18核验",
+      "url": "https://www.sanguosha.com/hero/56",
+      "verified": "官方角色页化身从其他武将牌取得一项技能，新生受伤增化身牌。官方索引正文已核验，直接打开曾超时。",
+      "use": "仅取真假换相与不可测的识别；项目锁定一个一次性替身，不复制别人技能，不混合多个游戏版本。",
+      "source_class": "modern_official_game_not_novel"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 68,
+        "chronology_key": "068-a",
+        "title": "途中代挑柑担",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "见役夫疲困，自愿每担挑五里；挑过的变轻，至曹处剖柑出现空壳与有肉差异。",
+        "selection": "card1",
+        "selection_reason": "有民间道路与凡人重量感的出场，比一上来满天仙宫更鲜明。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "b",
+        "chapter": 68,
+        "chronology_key": "068-b",
+        "title": "枷落与七日不食",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "被疑刘备细作而拷囚，枷锁自落；七日不供饮食仍面色红润。",
+        "selection": "card2+bio1",
+        "selection_reason": "从小戏法到困境不屈，铜卡取安坐不伤而非暴力解锁教程。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "c",
+        "chapter": 68,
+        "chronology_key": "068-c",
+        "title": "王宫池中钓鲈",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "宴上接连幻术；左慈让取钓竿，在堂下鱼池钓出多尾鲈鱼，继取姜显书等。",
+        "selection": "card3+bio2",
+        "selection_reason": "场景具体且有公共见证，银卡只定格钓鱼一种神通。",
+        "misreading_to_avoid": "本章是堂下鱼池，不是铜盘。铜盘版本可见他书或现代游戏传记，不混入本包小说事实。"
+      },
+      {
+        "event_id": "d",
+        "chapter": 68,
+        "chronology_key": "068-d",
+        "title": "羊群隐身脱追",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "杯化白鸠后出宫，许褚追不及，左慈入羊群不见；群羊遭杀后又使之复活归牧童。",
+        "selection": "card4+bio3",
+        "selection_reason": "黄金取脱追且还羊之后的从容，保持地面山路；不靠尸首恐怖堆威能。",
+        "misreading_to_avoid": "复羊是小说超自然，不衍生成游戏复活功能；许褚奉命追捕，不是与左慈斗法获胜。"
+      },
+      {
+        "event_id": "e",
+        "chapter": 68,
+        "chronology_key": "068-e",
+        "title": "众形合一骑鹤",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "多处捕得相同形貌者，遭斩后青气合一，左慈骑鹤嘲曹。",
+        "selection": "rejected",
+        "selection_reason": "有明确原著出处，但群斩提首的惊悚规模不适合本组地面四阶；也避免无限分身玩法。",
+        "misreading_to_avoid": ""
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "山脚一肩",
+        "camera": "山路眼平近全身",
+        "action": "接过役夫担子，挑起前一瞬，右腿略外移找稳落点",
+        "environment": "山脚土路、树荫、柑筐与歇息脚夫",
+        "myth_growth": "衣缘一片暗哑壳光，柑筐暂不发光",
+        "structure_check": "扁担有重量可微弯而非武器直轴；绳结和两筐配重真实",
+        "must_retain": "左眼视损、右腿略跛、白藤冠青懒衣",
+        "must_not_inherit": "不把跛足当笑料；不以幼童脸配老人须",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "牢中自若",
+        "camera": "窄窗侧光半全身",
+        "action": "盘坐在土面平石上，松落的枷锁在旁，微微侧头听门外",
+        "environment": "简朴牢房、门栅、空碗不特写饥饿受苦",
+        "myth_growth": "一层近地浅幻潮，轮廓能见真实脚履",
+        "structure_check": "双腿盘坐不多膝，落锁为背景不画开锁步骤",
+        "must_retain": "身形和眼部特征不变；自然肤色",
+        "must_not_inherit": "不示范现实绝食；不画血刑伤口",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "池畔钓远鱼",
+        "camera": "殿檐外侧低眼平中全身",
+        "action": "双手持钓竿，鱼刚跃出堂下池面，曹操和众官在远阶旁",
+        "environment": "宫中真实鱼池石沿、廊柱，水面鱼影有限",
+        "myth_growth": "半枚蜃壳镜面映出遥远江纹，只一层折射",
+        "structure_check": "钓竿与线连接正确，线可弯竿受力；鱼不从无水铜盘跳出",
+        "must_retain": "木履、白藤冠、同一眼部特征",
+        "must_not_inherit": "不同时画龙肝牡丹姜书四种戏法，不喷血肉",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "d",
+        "title": "山羊归路",
+        "camera": "山路侧前全身，机位稍低",
+        "action": "拂袖离开，活羊群回到牧童一侧；追兵远在山口",
+        "environment": "草坡、羊径、尘土、几株低树；羊自然体态",
+        "myth_growth": "完整低伏蜃壳将路折出一层淡影，主角真身始终可辨",
+        "structure_check": "仅一个实体左慈，羊蹄落地，木履右足步态仍一致",
+        "must_retain": "自在笑意、不暴力炫能、真实山路",
+        "must_not_inherit": "不画羊尸断头；不出现白鹤天宫；不把复羊变游戏群体复活",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "问术入囚",
+        "camera": "横幅宫门，曹操疑怒在远处，左慈主脸近侧",
+        "action": "左慈被侍卫引向门外仍淡笑，手空不抵抗",
+        "target_connection": "铜卡安坐来自被疑而受囚，不是随意自选修行室",
+        "first_person_line_original": "你可以把门关上。我的心，倒未必肯陪你坐牢。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "侍卫仅引路抓袖，无刑罚细节；门槛和右足位置合理",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "zuoci_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "筵间问所缺",
+        "camera": "横幅宴厅通池，左慈近侧请人取钓竿",
+        "action": "曹操指向廊外池水，众官停筷相看，鱼尚未上钩",
+        "target_connection": "银卡池钓由席上取远物之问引出，不混用铜盘故事",
+        "first_person_line_original": "隔着千里，便一定到不了眼前么？取根钓竿来。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "筷杯与人物手各有归属；无小碗装海和空间拼贴",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "zuoci_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "d",
+        "title": "一步入群羊",
+        "camera": "横幅山道，左慈近景走向羊群，许褚骑兵在远处",
+        "action": "主角衣摆刚被羊背挡住一角，牧童站旁，取隐身前而非屠羊后",
+        "target_connection": "金卡还羊离去的直接追捕前因；同一章先后明确",
+        "first_person_line_original": "追得这样急，也未必追得见。借这条小路，我先走一步。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "牧童全衣远景无危险特写；马与羊保持距离，不穿模",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zuoci_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "zuoci_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第068回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "在身旁空位留下一个短时幻影；本体下一次遭到可转移的单体普攻时，该攻击由幻影承受，幻影随即消失。",
+      "active": {
+        "skill_id": "zuoci_a1",
+        "name": "蜃影替身",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "在身旁空位留下一个短时幻影；本体下一次遭到可转移的单体普攻时，该攻击由幻影承受，幻影随即消失。",
+        "extra_effect": "幻影无攻击、无技能、无碰撞堵路；不挡范围技能或已结算伤害，不叠加第二个幻影。三星最多增加本体一个很短的安全侧步。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "蜃壳折射只分出一层半透明身影，真实本体保完整肤色与脚步；无多头多人满屏复制。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "zuoci_p1",
+          "name": "留影",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "未触发幻影的保留时间提高",
+          "trigger": "幻影生成",
+          "target": "幻影",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "蜃壳折射只分出一层半透明身影，真实本体保完整肤色与脚步；无多头多人满屏复制。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zuoci_p2",
+          "name": "轻履",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "自身移动速度提高",
+          "trigger": "常驻",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "蜃壳折射只分出一层半透明身影，真实本体保完整肤色与脚步；无多头多人满屏复制。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zuoci_p3",
+          "name": "远映",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "幻影可放置距离提高",
+          "trigger": "选空位",
+          "target": "放置范围",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "蜃壳折射只分出一层半透明身影，真实本体保完整肤色与脚步；无多头多人满屏复制。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zuoci_p4",
+          "name": "收幻",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "主动能量消耗降低",
+          "trigger": "生成幻影",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "蜃壳折射只分出一层半透明身影，真实本体保完整肤色与脚步；无多头多人满屏复制。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "zuoci_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "zuoci_p1",
+            "zuoci_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "zuoci_p1",
+            "zuoci_p2",
+            "zuoci_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "zuoci_p1",
+            "zuoci_p2",
+            "zuoci_p3",
+            "zuoci_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved"
+  }
+}

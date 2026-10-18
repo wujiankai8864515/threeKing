@@ -1,0 +1,148 @@
+{
+  "hero_id": "huanggai",
+  "name": "黄盖",
+  "faction": "wu",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-08_UTC+08/吴八将_四卡三传记_完整研究制作包_v3.json",
+  "role_draft": "消耗自身一部分现有护盾，向前释放一次短程扇形火浪；消耗越多本次伤害越高，消耗有上限，没盾仍可基础施放。",
+  "myth_symbol_proposal": {
+    "name": "烽舰赭鲸",
+    "origin": "原创神话提案，与原著火船相联而非古籍配兽",
+    "reason": "巨鲸背像船脊、厚皮带旧伤，火只在背鳍形船帆上；避开周瑜朱雀、陆逊燧木地火。",
+    "growth": "舟底鲸脊影→半鲸首→卧伏老鲸→赭鲸随火船撞破水线"
+  },
+  "identity_draft": {
+    "face": "原创深眼窝、宽鼻、日晒面、下颌坚硬；1星黑灰短须到金星白灰长短适中须，年龄渐进但骨相连续。",
+    "hair": "原创紧束低髻，灰白比例增长，不齐刷刷白发天神冠。",
+    "body": "原创粗壮上身、宽手掌、略弯但有劲的背，老将非病弱枯槁。",
+    "clothes": "海盐灰、褐黄厚布与旧铁甲；银星伤后素布包覆，金星掩心甲如原著；红仅腰结。",
+    "weapons_fact": "第5回铁鞭，第49回独披掩心甲、手提利刃并以刀发号；不可把铁鞭硬塞赤壁主镜头。",
+    "weapons_design": "早期有棱实心铁鞭，非软皮鞭；后期实用单刃短刀，不加专名。",
+    "mount_fact": "早期随孙坚军将，金星第49回船上，未核专属马名。",
+    "mount_design": "早期普通褐马，最高阶火船/转乘小舟；不骑鲸本体。",
+    "reference_version": "WU-HG-text-v1，待样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第5回铁鞭，第49回独披掩心甲、手提利刃并以刀发号；不可把铁鞭硬塞赤壁主镜头。",
+    "weapons_design": "早期有棱实心铁鞭，非软皮鞭；后期实用单刃短刀，不加专名。",
+    "mount_fact": "早期随孙坚军将，金星第49回船上，未核专属马名。",
+    "mount_design": "早期普通褐马，最高阶火船/转乘小舟；不骑鲸本体。"
+  },
+  "cards": [
+    {
+      "asset_id": "huanggai_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "铁鞭老营",
+      "event": "汜水关铁鞭从征",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "pose_and_scene_original": "营外眼平三分之二侧面；双脚站稳，铁鞭立在身侧，回望集合军士；梁东粗木营地，战后灰尘",
+      "myth_growth": "地影一线鲸脊",
+      "avoid": "不画苍老到不能战；不盗祖茂双刀赤帻",
+      "generated": false
+    },
+    {
+      "asset_id": "huanggai_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "乱军擒敌",
+      "event": "擒黄祖议换遗体",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "pose_and_scene_original": "马侧低角度中全身；收住铁鞭，伸手令亲兵看住已被擒黄祖；汉水营侧天将明，败军重整",
+      "myth_growth": "半鲸首稳在浅水后方",
+      "avoid": "黄祖活着，不能展示首级；孙坚不在旁微笑",
+      "generated": false
+    },
+    {
+      "asset_id": "huanggai_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "伤中定计",
+      "event": "献苦肉计后托书",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第046回"
+      ],
+      "pose_and_scene_original": "帐内斜侧眼平半身；包覆肩背，坐榻边把封好的降书递给阚泽；一灯、旧甲与朴素布帐，伤处不露",
+      "myth_growth": "老鲸全影卧在帐外地面似重负",
+      "avoid": "不画受刑血肉、不神化痛觉为现实修炼",
+      "generated": false
+    },
+    {
+      "asset_id": "huanggai_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "火船决潮",
+      "event": "火船进击赤壁",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "pose_and_scene_original": "甲板前缘低视，主角稳定全身；短刀一招指向前船，双腿分立抵住摇荡；二十火船前后有层次，曹水寨远处，未把主船站位画成燃烧祭坛",
+      "myth_growth": "赭鲸巨影沿水下向前，背鳍火形与实船对照",
+      "avoid": "不画黄金自爆身亡；没有满身金火肌肉",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "huanggai_story_to_02",
+      "target_card_id": "huanggai_card_02",
+      "target_stage": 2,
+      "title": "以俘换归途",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第007回"
+      ],
+      "scene_original": "横幅汉水岸营，黄盖主脸，孙策哀立；指向被看守的黄祖，再向愿出使的桓楷示意；铜卡擒敌不仅是战果，更直接解决迎回孙坚遗体的问题",
+      "generated": false
+    },
+    {
+      "asset_id": "huanggai_story_to_03",
+      "target_card_id": "huanggai_card_03",
+      "target_stage": 3,
+      "title": "夜帐献计",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第046回"
+      ],
+      "scene_original": "横幅周瑜帐内，黄盖先向前倾身陈策；两人低声议诈降，周瑜郑重回礼；银卡伤后托书来自主动献策；镜头不把受刑当享乐",
+      "generated": false
+    },
+    {
+      "asset_id": "huanggai_story_to_04",
+      "target_card_id": "huanggai_card_04",
+      "target_stage": 4,
+      "title": "降书之后的船阵",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第049回"
+      ],
+      "scene_original": "横幅出发前江岸，主角走向第三船；黄盖检视船队后登舷，阚泽留岸，舵手就位；金卡发火令的前因是诈降已传、船队出发，接应路线明确",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "厚甲",
+      "single_effect": "自身最大护盾容量提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "决烈",
+      "single_effect": "消耗护盾带来的伤害转化效率提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "余护",
+      "single_effect": "主动允许消耗的护盾上限降低以保留最低护盾",
+      "unlock_star": 3
+    },
+    {
+      "name": "破寨",
+      "single_effect": "对带护盾敌人的主动伤害提高",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

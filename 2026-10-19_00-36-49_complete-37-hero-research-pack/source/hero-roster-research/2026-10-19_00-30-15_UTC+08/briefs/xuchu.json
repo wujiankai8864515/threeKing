@@ -1,0 +1,148 @@
+{
+  "hero_id": "xuchu",
+  "name": "许褚",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "短暂明示蓄力后，对当前近身单体作一次高伤刀斩；蓄力时自身防御降低，结束即恢复。",
+  "myth_symbol_proposal": {
+    "name": "白额厚鬃重虎",
+    "origin": "依据虎痴/虎侯称呼作原创神话设计，不是原著实有虎兽",
+    "reason": "黄褐白额、粗颈阔胸、低伏贴身的重虎，强调肌肉重击；张飞的虎以断喝远震和拦截控制为主。",
+    "growth": "地上虎爪影→肩后低伏虎首→与身体并行全虎→巨虎从身后低位扑出；不用张飞竖立咆哮构图"
+  },
+  "identity_draft": {
+    "face": "原文第59回有圆睁怪眼、目射神光的英雄化描写；原创落实为重眉深瞳、阔鼻方口、短硬鬓须，咬牙非滑稽怒吼。",
+    "hair": "原创：短乱硬发束紧，后颈厚，和张飞蓬张虎须黑红轮廓区别。",
+    "body": "第12回身长八尺、腰大十围是小说夸张，不换算精确公制；原创宽腰、厚胸、肩臂极壮，非肥胖喜剧体型。",
+    "clothes": "黄褐、焦棕与铁黑，早期乡勇皮束，归军后肩甲厚但关节可动；黄金裸衣上身，腰胯腿仍有坚实衣甲。蓝只小腰结。",
+    "weapons_fact": "第12回大刀，第59回钢刀及裸衣持刀；与马超争枪时弃刀并拗断枪。",
+    "weapons_design": "宽刃长柄战刀，柄头连接和握持可考；未核“九环象鼻刀”等专名不采用。金卡选择未弃刀前一瞬，避免刀枪断裂结构过多。",
+    "mount_fact": "第59回久战换马，不能把一匹名马当全程不换的设定。",
+    "mount_design": "高大结实深褐军马；传记换马明确，卡片连续性允许该役换乘，不设神虎坐骑。",
+    "reference_version": "WEI-XC-identity-text-v1，待身份样；先做凶悍脸体样再扩量。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第12回大刀，第59回钢刀及裸衣持刀；与马超争枪时弃刀并拗断枪。",
+    "weapons_design": "宽刃长柄战刀，柄头连接和握持可考；未核“九环象鼻刀”等专名不采用。金卡选择未弃刀前一瞬，避免刀枪断裂结构过多。",
+    "mount_fact": "第59回久战换马，不能把一匹名马当全程不换的设定。",
+    "mount_design": "高大结实深褐军马；传记换马明确，卡片连续性允许该役换乘，不设神虎坐骑。"
+  },
+  "cards": [
+    {
+      "asset_id": "xuchu_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "葛陂压阵",
+      "event": "葛陂护坞与掣牛",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第012回"
+      ],
+      "pose_and_scene_original": "低机位中全身，前臂大但脸不失真；站在坞门外抬起一块可投的石块，身后宗族守门；夯土坞墙、耕牛远景和粮袋，清楚乡土",
+      "myth_growth": "脚下仅虎爪影与短尾影",
+      "avoid": "不画憨笑胖汉；不靠虐待牛镜头表现力气",
+      "generated": false
+    },
+    {
+      "asset_id": "xuchu_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "初刀入军",
+      "event": "初战斩李封",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第012回"
+      ],
+      "pose_and_scene_original": "右前低机位，骑马中全身；刀斩过后回收在身侧，眼仍看前敌，非举头庆功；兖州城外、敌阵退后，曹军在远后",
+      "myth_growth": "低伏虎首从马侧影中抬起",
+      "avoid": "不拿薛兰首级冒作李封；无虎头整块面具遮脸",
+      "generated": false
+    },
+    {
+      "asset_id": "xuchu_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "举鞍渡险",
+      "event": "负曹上船举鞍护渡",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第058回"
+      ],
+      "pose_and_scene_original": "船外水面略低向上，人物中全身、可见船舷；左手举鞍挡箭，右手撑篙，腿站宽稳住船尾；曹操伏近脚侧；急流小舟、对岸追兵和箭线，水不是魔法冰河",
+      "myth_growth": "完整重虎贴着船后雾影伏行，绝不实体挤船",
+      "avoid": "不把曹操抱在臂上同时撑篙举鞍；不画斩落船边人的血腥细节",
+      "generated": false
+    },
+    {
+      "asset_id": "xuchu_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "虎痴裸衣",
+      "event": "虎侯临阵与裸衣斗超",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第059回"
+      ],
+      "pose_and_scene_original": "左前斜低角度，近全身与马鞍，身向右转；脱去上身甲后双手重握长柄刀，肩髋同向准备横斩；渭水河滩两军圆阵，马超在有距离的次要一侧",
+      "myth_growth": "巨虎粗颈低扑，虎首与许褚错位，白额/黄褐纹清晰",
+      "avoid": "不做张飞长矛断喝构图；不画马超败伏，不全身蓝甲",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "xuchu_story_to_02",
+      "target_card_id": "xuchu_card_02",
+      "target_stage": 2,
+      "title": "解缚入帐",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第012回"
+      ],
+      "scene_original": "横幅营帐近景，曹操解缚，典韦在侧后；许褚仍昂首怒目，听清受用后收住敌意；陷坑泥土残在衣角；直接承归军后初战卡，不让他一夜变精致儒将",
+      "generated": false
+    },
+    {
+      "asset_id": "xuchu_story_to_03",
+      "target_card_id": "xuchu_card_03",
+      "target_stage": 3,
+      "title": "一跃上舟",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第058回"
+      ],
+      "scene_original": "横幅从船上看岸，许褚背负曹操起跳前一瞬；船刚离岸，主角脚仍踏岸边、背负曹操；后段举鞍不同时拼进；白银卡是上船后的护渡，传记先交代两人如何到舟上",
+      "generated": false
+    },
+    {
+      "asset_id": "xuchu_story_to_04",
+      "target_card_id": "xuchu_card_04",
+      "target_stage": 4,
+      "title": "卸甲再战",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第059回"
+      ],
+      "scene_original": "横幅军阵边，许褚下马解甲，换上的战马在近旁；已战久仍不肯退，部卒接甲，主角握刀回看马超；黄金裸衣不是突然换装，传记明确久战、换马与脱甲",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "蛮力",
+      "single_effect": "攻击力提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "悍击",
+      "single_effect": "主动重斩伤害提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "虎骨",
+      "single_effect": "最大生命提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "凝力",
+      "single_effect": "主动蓄力时间缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

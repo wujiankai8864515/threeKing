@@ -1,0 +1,362 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "zhangjiao",
+    "name": "张角",
+    "faction": "qun",
+    "core_personality": "从求术济疫到组织大规模举兵，理想、号召与权力欲交织；小说并非纯粹正面圣人传。",
+    "myth_symbol_proposal": {
+      "name": "黄天雷冠",
+      "origin": "原著有天书与呼风唤雨，雷冠、法相与战斗范围均原创",
+      "reason": "黄布、纸卷、乌云与向外展开的风暴冠，区别诸葛亮定点落雷与左慈幻术。",
+      "growth": "卷边云纹→头顶小云冠→低云成环→地面高台上方完整黄天风暴冠，不搬到天宫"
+    },
+    "differentiation": "站桩引导的广域风暴伤害者；不做诸葛亮精准控时、华佗专业治疗或张宝纸人草马召唤。",
+    "identity": {
+      "face": "原创长瘦脸、高颧、浓而分叉的眉、眼神由专注到炽烈，胡须从薄短至颏下束须。",
+      "hair": "原创散发后束，黄巾只额头一圈，最高阶仍有凡人发丝，不满头电线。",
+      "body": "原创高而清瘦、长袖下有结实腕骨；不是大腹军阀。",
+      "clothes": "粗麻灰白、土黄与深茶色，黄巾与符卷有形；成长靠层次、布带和气场，不穿皇帝金甲。",
+      "weapons_fact": "第1回南华老仙执藜杖，传太平要术三卷给张角；这并不证明张角本人固定持那根藜杖。",
+      "weapons_design": "原创结节木杖作施法媒介，木质明确；太平要术书卷为有据道具，无真实可用咒语写入图。",
+      "mount_fact": "所选第1回四节点无固定坐骑描写。",
+      "mount_design": "全组徒步，高台是土木搭建，不骑龙上天。",
+      "reference_version": "QUN-ZJ-text-v1，待样。"
+    },
+    "modern_game_reference": {
+      "version": "官方三国杀指定版本页面，2026-10-18核验",
+      "url": "https://guozhan.sanguosha.com/a/kapaiyilan/wujiangpai/qun/2013/0127/81.html",
+      "verified": "国战2013雷击与使用闪后判定相关，鬼道能换判定牌。",
+      "use": "借雷霆/天命的读感；不抄改判牌制，不说本项目风暴为原著某场张角大战。",
+      "source_class": "modern_official_game_not_novel"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 1,
+        "chronology_key": "001-a",
+        "title": "入山采药得书",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "不第秀才张角采药遇南华老仙，受太平要术三卷与济世告诫。",
+        "selection": "card1",
+        "selection_reason": "凡人求术起点；所有力量尚未铺满。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "b",
+        "chapter": 1,
+        "chronology_key": "001-b",
+        "title": "晓夜功习呼风雨",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "得书后昼夜修习，能呼风唤雨，号太平道人。",
+        "selection": "card2+bio1",
+        "selection_reason": "明确学习与能力变化，不能凭空跳黄天法皇。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "c",
+        "chapter": 1,
+        "chronology_key": "001-c",
+        "title": "疫中施符聚徒",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "疫起施符水治病，自号大贤良师，徒众从五百渐多并分方。",
+        "selection": "card3+bio2",
+        "selection_reason": "从个人术法到群体号召，作为小说超自然叙事不作现实疗效。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "d",
+        "chapter": 1,
+        "chronology_key": "001-d",
+        "title": "事泄举兵天公将军",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "唐周告变，马元义被杀；张角闻泄星夜举兵，自号天公将军，黄巾大起。",
+        "selection": "card4+bio3",
+        "selection_reason": "组织与野心规模峰值，四节点同章但时间递进清楚。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "e",
+        "chapter": 2,
+        "chronology_key": "002-e",
+        "title": "身死后败亡",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第002回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "皇甫嵩到时张角已死，随后张梁败；张宝风雷纸人草马遭破是另一人的情节。",
+        "selection": "rejected",
+        "selection_reason": "不拿张宝妖法战场冒认张角，不复活成最终大捷。",
+        "misreading_to_avoid": ""
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "山中受卷",
+        "camera": "山洞口眼平中全身",
+        "action": "弯身双手接三卷束好的书，药篓在脚边",
+        "environment": "岩洞、山径、草药和老人侧影",
+        "myth_growth": "卷边仅几道低亮云纹",
+        "structure_check": "三卷用带束住能托稳；老人杖与张角双手分离",
+        "must_retain": "粗麻衣、凡人敬畏",
+        "must_not_inherit": "不要把老仙藜杖自动交给张角；无黄巾大军",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "夜读初风",
+        "camera": "山舍侧前中景",
+        "action": "一手压开卷，另一手感受窗外风，原创木杖倚墙",
+        "environment": "土墙、油灯、雨打窗棂，法力局限门外",
+        "myth_growth": "一圈浅小雷冠，非雷击脸部",
+        "structure_check": "读书坐姿真实，卷不漂浮成环",
+        "must_retain": "专注而有野心萌芽，同一长瘦脸",
+        "must_not_inherit": "不把南华老仙留作永久宠物；不写现代符咒教程",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "黄巾集众",
+        "camera": "村口稍高俯看近全身",
+        "action": "举空手示意众人听讲，青囊式药具不抢华佗，符卷由弟子收持",
+        "environment": "泥地村屋、病者坐有遮护处，众人有秩序",
+        "myth_growth": "低云成环压在远屋脊之上，纸带数量有限",
+        "structure_check": "主角手无凭空漂液；病者非血腥展览",
+        "must_retain": "土黄布带、人与群体的关系",
+        "must_not_inherit": "不展示服用配方或宣称现实治疫；不画所有人被洗脑光束",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "d",
+        "title": "黄天举旗",
+        "camera": "土台正面低角度全身",
+        "action": "木杖立地，一手指向集结军伍，身后黄旗张开",
+        "environment": "乡野军营、土台、分队人流，近地世界保留",
+        "myth_growth": "完整巨大风暴冠与低压云，三条粗雷在远空，主角不飞升",
+        "structure_check": "杖落地、旗杆刚直，长布条不穿腕腿",
+        "must_retain": "衣甲仍粗朴但号召强烈",
+        "must_not_inherit": "不画张宝纸人草马；不骑天龙，不宣称天下已获救",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "卷中问风",
+        "camera": "横幅山舍内外相接，张角主脸",
+        "action": "昼夜读习后起身推窗，雨风刚响应",
+        "target_connection": "铜卡风雨能力的学习过程，镜头为原著概述上的原创展开",
+        "first_person_line_original": "书在手里，还不算本事。我要把它看懂，也把这天地问明白。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "窗轴手掌真实；书有支撑；不展示可执行术式",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "zhangjiao_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "疫路人来",
+        "camera": "横幅村路，张角走近求助村民，弟子随后",
+        "action": "递出封好的象征纸包而不展示饮用过程",
+        "target_connection": "银卡聚众来自疫中施助的小说前因，不等于现代医疗认可",
+        "first_person_line_original": "苦难就在眼前。我若要说太平，就先走到他们身边。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "全员有衣遮护，病患不标签污名；不画医学器械教程",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "zhangjiao_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "d",
+        "title": "期日已破",
+        "camera": "横幅夜营，传使到案前，张角与两弟分立",
+        "action": "听得事泄，张角把未展开黄旗推向执旗者，军队连夜集结",
+        "target_connection": "黄金起兵来自告密引发的紧迫转折，不写成平静封神",
+        "first_person_line_original": "原定的日子等不到了。旗既举起，便再没有旧路。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "三兄弟脸形不同，张角主镜头；仅一卷无字书信",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "zhangjiao_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "zhangjiao_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第001回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "原地引导一片有预警的大范围风暴，连续造成有限次数法术伤害；引导中不能移动，被打断便停止。",
+      "active": {
+        "skill_id": "zhangjiao_a1",
+        "name": "黄天雷暴",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "原地引导一片有预警的大范围风暴，连续造成有限次数法术伤害；引导中不能移动，被打断便停止。",
+        "extra_effect": "不附全场眩晕、召唤或治疗；三星只提高同一风暴覆盖稳定性，四星提高伤害幅度。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "云冠与粗疏雷线集中在一片预警区，无随机闪点覆盖人物皮肤。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "zhangjiao_p1",
+          "name": "聚霆",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "风暴伤害提高",
+          "trigger": "风暴每次命中",
+          "target": "范围敌人",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "云冠与粗疏雷线集中在一片预警区，无随机闪点覆盖人物皮肤。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangjiao_p2",
+          "name": "持咒",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "自身引导抗打断阈值提高",
+          "trigger": "引导中受击",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "云冠与粗疏雷线集中在一片预警区，无随机闪点覆盖人物皮肤。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangjiao_p3",
+          "name": "天幕",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "风暴半径提高",
+          "trigger": "主动生成区域",
+          "target": "风暴",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "云冠与粗疏雷线集中在一片预警区，无随机闪点覆盖人物皮肤。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "zhangjiao_p4",
+          "name": "回元",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "完整引导后主动能量消耗返还一部分",
+          "trigger": "完整结束引导",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "云冠与粗疏雷线集中在一片预警区，无随机闪点覆盖人物皮肤。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "zhangjiao_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "zhangjiao_p1",
+            "zhangjiao_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "zhangjiao_p1",
+            "zhangjiao_p2",
+            "zhangjiao_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "zhangjiao_p1",
+            "zhangjiao_p2",
+            "zhangjiao_p3",
+            "zhangjiao_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved"
+  }
+}

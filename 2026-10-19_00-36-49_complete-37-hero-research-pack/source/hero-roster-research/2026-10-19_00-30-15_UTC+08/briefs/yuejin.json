@@ -1,0 +1,148 @@
+{
+  "hero_id": "yuejin",
+  "name": "乐进",
+  "faction": "wei",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "对当前近身目标作一次短前踏枪刺；普攻衔接后很快能再用，主旨是持续迫战。",
+  "myth_symbol_proposal": {
+    "name": "岩獾",
+    "origin": "原创动物神话化，不是典籍称号",
+    "reason": "低重心、短躯强爪、反复迫近；不用虎、豹或整队铁骑造成同型。",
+    "growth": "地面抓痕→短獾头虚影→贴地全身→厚重岩脊獾从脚后跃出"
+  },
+  "identity_draft": {
+    "face": "原创：短方脸、宽颧、紧眉、小而锐的眼；短髭，不蓄张辽式长直须。",
+    "hair": "原创：贴头小髻，短束巾尾，不用披肩长发。",
+    "body": "紧凑成年男性，强壮而矮壮；所核第5回未明写身材，矮壮作为项目形体提案而非原著断言。",
+    "clothes": "赭红短袍、暗棕皮束、铁色短甲，膝肘灵活；蓝只腰侧小结。",
+    "weapons_fact": "第11回与臧霸双枪交战；第12回射成廉、第33回射郭图；第53回持刀斩断敌护卫戟；武器并非原著唯一固定。",
+    "weapons_design": "统一主战用略短于张郃长枪的直枪，保持实战长杆尺度；故事需要时弓为主、枪收束在马鞍外侧，不画同时双武器攻击。",
+    "mount_fact": "多处骑马，未核到专属马名。",
+    "mount_design": "结实枣骝马，体量稍小仍足承成年武将；人和马不能缩成孩童。",
+    "reference_version": "WEI-YJ-identity-text-v1，待身份样。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第11回与臧霸双枪交战；第12回射成廉、第33回射郭图；第53回持刀斩断敌护卫戟；武器并非原著唯一固定。",
+    "weapons_design": "统一主战用略短于张郃长枪的直枪，保持实战长杆尺度；故事需要时弓为主、枪收束在马鞍外侧，不画同时双武器攻击。",
+    "mount_fact": "多处骑马，未核到专属马名。",
+    "mount_design": "结实枣骝马，体量稍小仍足承成年武将；人和马不能缩成孩童。"
+  },
+  "cards": [
+    {
+      "asset_id": "yuejin_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "帐前新锋",
+      "event": "陈留应募",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第005回"
+      ],
+      "pose_and_scene_original": "平视偏侧全身，左腿在前；抱拳应募后握住枪杆下部，视线朝招募营；粗木栅、未整齐的新募队列与土路",
+      "myth_growth": "脚边石块仅形成低矮兽影暗示",
+      "avoid": "无将军级冠饰与满场獾神",
+      "generated": false
+    },
+    {
+      "asset_id": "yuejin_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "一箭追锋",
+      "event": "定陶射成廉",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第012回"
+      ],
+      "pose_and_scene_original": "左侧中景，马缓转、身体向右后扭；射出成廉方向的一箭，手刚离弦，弓仍有弧度；定陶野外烟线，逃骑远于脸手焦平面",
+      "myth_growth": "岩獾半身沿马蹄下影子出形",
+      "avoid": "不画徒手弹箭，非近脸大血雾",
+      "generated": false
+    },
+    {
+      "asset_id": "yuejin_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "南皮断逃",
+      "event": "南皮射郭图",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第033回"
+      ],
+      "pose_and_scene_original": "城壕外略低机位，主角右侧面近中景；停马立稳拉弓，目标向城门退，弦线不遮眼；冻土、城壕和远门；郭图人马只在远景边缘",
+      "myth_growth": "全身岩獾贴地蹿向壕边，不化成弓弦",
+      "avoid": "郭图不能画成袁谭；不写“先登城楼”",
+      "generated": false
+    },
+    {
+      "asset_id": "yuejin_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "退一步再进",
+      "event": "逍遥津诈败诱敌",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "pose_and_scene_original": "前低后高的追逐视角，主角朝镜头侧回马；压低肩头、枪护身侧，眼神回看紧追的甘宁前军；窄道通向逍遥津，后方吴军推进；伏兵仅地形暗示",
+      "myth_growth": "大岩獾压低伏身，身体与地形顺行，显示忍而再起",
+      "avoid": "不是溃逃惊慌；不抢张辽桥头主镜头",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "yuejin_story_to_02",
+      "target_card_id": "yuejin_card_02",
+      "target_stage": 2,
+      "title": "伏兵齐起",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第012回"
+      ],
+      "scene_original": "横幅前侧近景，乐进在土堤后，后排六将分层；听鼓出击，乐进从马侧取弓，将溃退目标锁入视线；与青铜同一伏击战，传记讲抓住战机，卡是射击瞬间",
+      "generated": false
+    },
+    {
+      "asset_id": "yuejin_story_to_03",
+      "target_card_id": "yuejin_card_03",
+      "target_stage": 3,
+      "title": "壕前追箭",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第033回"
+      ],
+      "scene_original": "横幅沿城墙斜透视，乐进前景一侧；曹操远山击鼓，乐进随推进抵达壕前，郭图奔门；同场南皮攻战的因果；突出被鼓声推动的个人决断",
+      "generated": false
+    },
+    {
+      "asset_id": "yuejin_story_to_04",
+      "target_card_id": "yuejin_card_04",
+      "target_stage": 4,
+      "title": "以退引敌",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第067回"
+      ],
+      "scene_original": "横幅从乐进身后看追兵，脸侧回望；与甘宁短接后回马，前路留空把敌军牵走，远处李典伏处不抢镜；传记呈现诱敌的动作逻辑，目标卡凝练能进能退的锐将状态",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "短兵",
+      "single_effect": "近身普攻伤害提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "紧迫",
+      "single_effect": "普攻命中缩短本技能冷却",
+      "unlock_star": 2
+    },
+    {
+      "name": "骁锐",
+      "single_effect": "主动命中正在普攻的敌人时伤害提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "稳步",
+      "single_effect": "受到的击退距离缩短",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}

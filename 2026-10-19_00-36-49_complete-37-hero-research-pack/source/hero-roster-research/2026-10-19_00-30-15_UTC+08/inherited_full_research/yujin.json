@@ -1,0 +1,389 @@
+{
+  "original_source_file": "hero-production-research/2026-10-18_20-02-02_UTC+08/魏十将_四卡三传记_完整研究制作包_v2.json",
+  "scope_note": "旧研究继承，仅作文字证据和构图；旧图不算本轮重做成果；最新要求优先",
+  "research": {
+    "hero_id": "yujin",
+    "name": "于禁",
+    "faction": "wei",
+    "core_personality": "先稳军阵，再论自身得失；严整中也存在过度自恃的隐患。",
+    "myth_symbol_proposal": {
+      "name": "镇阵石犀",
+      "origin": "原创象征",
+      "reason": "低头厚额、四足站稳、单向抵住冲口；区别典韦以身护一人、许褚狂力虎、刘备群体治疗。",
+      "growth": "犀角形石影→肩后厚额→营门全犀→紧贴防线的巨石犀"
+    },
+    "differentiation": "五子中的秩序型驻守者。方形闭甲、竖直军令、横向寨柵；不走轻骑突进，不做全图护盾奶妈。",
+    "identity": {
+      "face": "原创：长方脸、平眉、薄唇、整齐短须，表情严而不狰狞。",
+      "hair": "原创：低髻收进兜鍪，发丝少露，四阶发线与下颌形固定。",
+      "body": "中高壮实、站姿正，比例比徐晃竖直，比张辽厚；不巨化。",
+      "clothes": "烟墨甲、灰白护领、深棕衬袍；甲片排列闭合平直，青蓝只在令绳。",
+      "weapons_fact": "第10回称弓马熟娴；所选核心段不确立唯一专属武器。",
+      "weapons_design": "直身长枪与军令短棍为原创统一设计。调度场景握令棍，枪由架/从卒独持，避免一手塞多物。",
+      "mount_fact": "原文有弓马本领与行军；无专属名马证据。",
+      "mount_design": "稳健黑褐普通军马；驻守时多下马，不让四卡均骑冲。",
+      "reference_version": "WEI-YU-identity-text-v1，待身份样。"
+    },
+    "modern_game_reference": {
+      "version": "三国杀OL于禁官网现页镇军；2014节钺另作历史版本",
+      "url": "https://www.sanguosha.com/hero/160",
+      "secondary_version_url": "https://www.sanguosha.com/news/20141113_6631_0514",
+      "verified": "现页镇军属于控制辅助，早版毅重和2014节钺不可合成一套现行技能。",
+      "use": "本项目守阵来自第16回叙事与原创取舍，不宣称直接复刻现行三国杀。"
+    },
+    "event_candidates": [
+      {
+        "event_id": "a",
+        "chapter": 10,
+        "chronology_key": "010-a",
+        "title": "率部投曹",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "带数百人来投，弓马熟娴，被任为典军司马。",
+        "selection": "card1",
+        "selection_reason": "有带队基础但尚未独当一面。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "b",
+        "chapter": 11,
+        "chronology_key": "011-b",
+        "title": "登高观西寨献策",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "于禁观察濮阳西寨兵少，建议夜袭，曹操从之；随后遭反击。",
+        "selection": "card2+bio1",
+        "selection_reason": "表现侦察与主动判断，区别纯站桩防将。",
+        "misreading_to_avoid": "不能把整个濮阳夜战写成完全获胜，曹操随后受围。"
+      },
+      {
+        "event_id": "c",
+        "chapter": 16,
+        "chronology_key": "016-c",
+        "title": "止掠护民筑营拒敌",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "制止青州兵劫掠，被诬反；先挖壕立营，迎退张绣，后分辩。",
+        "selection": "card3+bio2",
+        "selection_reason": "纪律与优先级的核心转折，给于禁独有剧情。",
+        "misreading_to_avoid": "不是因被骂便叛军；不能把伤害百姓画成正面战功。"
+      },
+      {
+        "event_id": "d",
+        "chapter": 30,
+        "chronology_key": "030-d",
+        "title": "官渡胜后追袁",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "袁军崩溃后，与张辽、许褚、徐晃等引军追赶袁绍。",
+        "selection": "card4+bio3",
+        "selection_reason": "把个人纪律扩为整队执行，是成熟阶段截取。",
+        "misreading_to_avoid": "是联合作战中的执行者，不独占官渡胜利、霹雳车或焚粮发明。"
+      },
+      {
+        "event_id": "e",
+        "chapter": 58,
+        "chronology_key": "058-e",
+        "title": "潼关接战马超",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第058回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "于禁出战马超败回。",
+        "selection": "rejected",
+        "selection_reason": "可说明并非无敌，但不宜把失败自动升级荣耀。",
+        "misreading_to_avoid": ""
+      },
+      {
+        "event_id": "f",
+        "chapter": 74,
+        "chronology_key": "074-f",
+        "title": "七军受命与洪水败降",
+        "source_url": "https://zh.wikisource.org/zh/三國演義/第074回",
+        "source_class": "novel_text_verified",
+        "verified_on": "2026-10-18",
+        "evidence": "统七军援樊，后洪水围困投降。",
+        "selection": "rejected_with_disclosure",
+        "selection_reason": "重要晚期边界保留在人物说明；本四阶止于官渡成熟片段，不抹去后事。",
+        "misreading_to_avoid": "黄金不写终身不败，不写镇水免疫神兽来逆改败降。"
+      }
+    ],
+    "cards": [
+      {
+        "stage": 1,
+        "event_id": "a",
+        "title": "军列初成",
+        "camera": "正面全身略低视角，主角不完全居中",
+        "action": "站在数百新附士卒前交付名册或军符，长枪立旁",
+        "environment": "兖州营前土场、朴素旌旗",
+        "myth_growth": "营地石块形成微弱犀角轮廓",
+        "structure_check": "名册一手托一手扶；长枪有独立持者或明确倚架",
+        "must_retain": "竖直身线、严整短须",
+        "must_not_inherit": "不穿帝王甲，不显全身巨犀",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_card_1",
+        "asset_type": "card",
+        "tier": "黑铁",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 2,
+        "event_id": "b",
+        "title": "登高察寨",
+        "camera": "背侧三分之二看脸，山脊高处，低位敌寨",
+        "action": "俯视西寨，令棍指向寨侧空隙",
+        "environment": "濮阳城影与西寨分开，暮色地形可读",
+        "myth_growth": "肩后半犀额影隐于岩壁",
+        "structure_check": "脚掌贴斜坡，持棍手腕中立；不拿枪当悬浮指挥棒",
+        "must_retain": "沉稳观察与清楚地形",
+        "must_not_inherit": "不把高处观测变成诸葛亮星空法阵",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_card_2",
+        "asset_type": "card",
+        "tier": "青铜",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 3,
+        "event_id": "c",
+        "title": "先营后辩",
+        "camera": "平视中全身，营门横线稳定",
+        "action": "泥地立稳，令军士合栅，身后队列已整齐",
+        "environment": "刚掘壕沟、木栅、追军尘烟在远处",
+        "myth_growth": "全犀低伏在营门后，头角指向进路",
+        "structure_check": "壕沟有可跨通道；门柱受力与双足接地",
+        "must_retain": "甲上泥污但无金粉；脸仍清楚",
+        "must_not_inherit": "不让神兽变水龟，不用护盾覆盖整个城",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_card_3",
+        "asset_type": "card",
+        "tier": "白银",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      },
+      {
+        "stage": 4,
+        "event_id": "d",
+        "title": "官渡整进",
+        "camera": "斜后高一点的视角，能见脸侧与整队前推",
+        "action": "骑马举令，前列骑步保持间距追击",
+        "environment": "袁军弃下辎重在路边，远河口；避免尸山",
+        "myth_growth": "巨犀沿队列一侧前推，短角压低而不抢将领",
+        "structure_check": "马在行进不是跳跃，军队同向；旗、令棍和枪不粘连",
+        "must_retain": "墨甲灰领、直线队伍，成熟留须少许增密",
+        "must_not_inherit": "不画于禁独斩袁绍；不造救全军的无敌罩",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_card_4",
+        "asset_type": "card",
+        "tier": "黄金",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+        "design_class": "原著事件上的原创神话构图与服装提案"
+      }
+    ],
+    "biographies": [
+      {
+        "target_stage": 2,
+        "event_id": "b",
+        "title": "西寨可取",
+        "camera": "横幅山上观测到营帐议策的单一场景：选山脊与近旁曹操",
+        "action": "于禁向曹操指出兵少西寨，两名侦骑在后",
+        "target_connection": "青铜卡是察寨状态，传记明确献夜袭建议及后来反受围的叙事边界",
+        "first_person_line_original": "先看清虚实，再动兵。那座西寨，可以一试。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "只一个时间切片，不拼贴同时侦察与攻寨；山坡马脚成立",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_bio_1",
+        "asset_type": "biography",
+        "target_card_id": "yujin_card_2",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 3,
+        "event_id": "c",
+        "title": "军务在前",
+        "camera": "横幅营外，近景于禁握令，曹操到达在侧后",
+        "action": "青州兵指诉，传令者催辩，于禁仍令掘壕；百姓已退到安全路侧",
+        "target_connection": "对应白银“先营后辩”，以冲突展现优先级而非无事摆拍",
+        "first_person_line_original": "追兵未退，先立营寨。我的清白，等军中安稳再说。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "掘土工具、沟边、人物站位不穿；百姓不挡追军通路",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_bio_2",
+        "asset_type": "biography",
+        "target_card_id": "yujin_card_3",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第016回",
+        "design_class": "原著关系与转折上的原创镜头"
+      },
+      {
+        "target_stage": 4,
+        "event_id": "d",
+        "title": "号令入阵",
+        "camera": "横幅阵前，信使到于禁马旁，前方联合追击纵深",
+        "action": "官渡总攻后于禁接令整队，其他将领保持远景各路位置",
+        "target_connection": "黄金卡的追击由受令与整军直接引出，标明并非独功",
+        "first_person_line_original": "敌阵已动，我军更不能乱。按旗号前进，不许各自追功。",
+        "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+        "structure_check": "旗号为无字设计待UI外排；多路队列不互相穿行",
+        "actual_reference_files": [],
+        "status": "text_brief_ready_identity_sample_pending",
+        "asset_id": "yujin_bio_3",
+        "asset_type": "biography",
+        "target_card_id": "yujin_card_4",
+        "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+        "design_class": "原著关系与转折上的原创镜头"
+      }
+    ],
+    "gameplay": {
+      "core_loop": "在脚下短时驻守，使阵内少量友军受到的伤害降低；移动后结束驻守。",
+      "active": {
+        "skill_id": "yujin_a1",
+        "name": "肃军立阵",
+        "type": "active",
+        "stages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "core_effect": "在脚下短时驻守，使阵内少量友军受到的伤害降低；移动后结束驻守。",
+        "extra_effect": "三星起：驻守圈内友军受到的击退距离减少；不提供免控或治疗。",
+        "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+        "target": "见核心循环",
+        "duration_or_cooldown": "待定，不预填伪精确数值",
+        "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+        "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+        "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+        "status": "original_proposal_not_final"
+      },
+      "passives": [
+        {
+          "skill_id": "yujin_p1",
+          "name": "整列",
+          "type": "passive",
+          "unlocked_at": 1,
+          "core_effect": "自身驻守时受到的伤害降低",
+          "trigger": "驻守期间",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "yujin_p2",
+          "name": "镇足",
+          "type": "passive",
+          "unlocked_at": 2,
+          "core_effect": "自身受到的击退距离减少",
+          "trigger": "遭受击退",
+          "target": "自身",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "yujin_p3",
+          "name": "严令",
+          "type": "passive",
+          "unlocked_at": 3,
+          "core_effect": "驻守效果半径提高",
+          "trigger": "主动生效",
+          "target": "驻守圈",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        },
+        {
+          "skill_id": "yujin_p4",
+          "name": "坚壁",
+          "type": "passive",
+          "unlocked_at": 4,
+          "core_effect": "驻守给予的减伤幅度提高",
+          "trigger": "主动生效",
+          "target": "圈内友军",
+          "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+          "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+          "visual": "石犀头角与低矮石纹沿真实阵地边缘浮现，透明轮廓不覆盖手脸。",
+          "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+          "status": "original_proposal_not_final"
+        }
+      ],
+      "stages": [
+        {
+          "star": 1,
+          "passive_ids": [
+            "yujin_p1"
+          ],
+          "count": 1
+        },
+        {
+          "star": 2,
+          "passive_ids": [
+            "yujin_p1",
+            "yujin_p2"
+          ],
+          "count": 2
+        },
+        {
+          "star": 3,
+          "passive_ids": [
+            "yujin_p1",
+            "yujin_p2",
+            "yujin_p3"
+          ],
+          "count": 3
+        },
+        {
+          "star": 4,
+          "passive_ids": [
+            "yujin_p1",
+            "yujin_p2",
+            "yujin_p3",
+            "yujin_p4"
+          ],
+          "count": 4
+        }
+      ],
+      "not_final": [
+        "技能拟名",
+        "机制",
+        "星级被动条数方案",
+        "持续/冷却/倍率",
+        "控制与首领豁免"
+      ]
+    },
+    "status": "source_research_ready",
+    "production_status": "not_generated_not_approved",
+    "research_readiness": {
+      "selected_scenes_verified": true,
+      "selected_scenes_count": 7,
+      "identity_sample_required": true,
+      "can_start_identity_sample": true,
+      "can_mass_generate_without_reference": false,
+      "user_final_approval": false
+    },
+    "reference_attachment_requirements": {
+      "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+      "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+      "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+      "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+    }
+  }
+}

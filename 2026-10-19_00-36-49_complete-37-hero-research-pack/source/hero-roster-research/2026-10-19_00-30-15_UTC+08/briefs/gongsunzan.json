@@ -1,0 +1,119 @@
+{
+  "hero_id": "gongsunzan",
+  "name": "公孙瓒",
+  "faction": "qun",
+  "source_research": "本轮2026-10-18 UTC逐章原文核验",
+  "myth_symbol_proposal": {
+    "name": "北风白泽",
+    "status": "项目原创艺术解释；非人物原有神兽或史实",
+    "growth": "黑铁仅气息/轮廓，青铜显首或局部，白银形成明确主体，黄金宏大神兽/权能；以大面形体增长，不以金粉增长"
+  },
+  "role_draft": "骑队调度；主动令近旁骑兵短时加速，重队列转向，不复制马超单人破盾冲阵或赵云救援。",
+  "identity_draft": "北地风霜长脸、中长胡须，白披肩配铁灰甲和靛青边；白泽宽颅双角、兽足非龙，以寒风整片旗势表达。",
+  "weapon_mount_evidence": {
+    "canonical": "第7回白马军、大半白马与白马将军称号；与文丑交战并有弓箭落地叙述。",
+    "art_design": "普通直杆长枪作制式骑将选择，未证实其专名兵器；画面不可写白马义从神枪。",
+    "mount": "选择无名白马有部队视觉依据，但不推成任何专属名马。"
+  },
+  "chronology_caution": "7回青铜/白银是同一战役先后，明确剧情凝练；黄金11回借兵是军权形态展示，不声称此后无败亡。原文两千马步军，不能改成三千白马骑兵。",
+  "cards": [
+    {
+      "asset_id": "gongsunzan_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "北平赴盟",
+      "event": "率军会盟，途经平原邀刘备同行",
+      "chapter": 5,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第005回",
+      "pose_and_scene_original": "骑马慢行回头与刘备说话，北地道旁桑树，非祭坛正中央盟主。",
+      "generated": false
+    },
+    {
+      "asset_id": "gongsunzan_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "磐河问盟",
+      "event": "因袁绍取冀州与公孙越遇害兴兵对峙",
+      "chapter": 7,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+      "pose_and_scene_original": "桥西勒马对峙，枪尖收侧，一手指桥东；红圈帅旗只在后方。",
+      "generated": false
+    },
+    {
+      "asset_id": "gongsunzan_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "白马回阵",
+      "event": "受赵云救援后整军；次日阵败得赵云反击之机率军杀回",
+      "chapter": 7,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+      "pose_and_scene_original": "从主将右后斜角看其举臂收拢白马两翼，桥面开阔；不抢赵云刺麴义。",
+      "generated": false
+    },
+    {
+      "asset_id": "gongsunzan_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "借兵济徐",
+      "event": "答应借刘备两千马步军并许赵云同行",
+      "chapter": 11,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+      "pose_and_scene_original": "营门下马授调兵木牍，白马队在后待发，白泽庞大清晰首部在云中。",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "gongsunzan_story_to_02",
+      "target_card_id": "gongsunzan_card_02",
+      "target_stage": 2,
+      "title": "桥上决裂",
+      "chapter": 7,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+      "scene_original": "桥两端主将对话，近景公孙瓒表情与握缰绳手，袁绍后景；不拍成袁绍盟坛。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "gongsunzan_story_to_03",
+      "target_card_id": "gongsunzan_card_03",
+      "target_stage": 3,
+      "title": "重整白骑",
+      "chapter": 7,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第007回",
+      "scene_original": "公孙瓒在队列折返点指令回军，赵云正在远处开出通路；非主角独杀文丑或麴义。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    },
+    {
+      "asset_id": "gongsunzan_story_to_04",
+      "target_card_id": "gongsunzan_card_04",
+      "target_stage": 4,
+      "title": "二千兵相助",
+      "chapter": 11,
+      "source_url": "https://zh.wikisource.org/wiki/三國演義/第011回",
+      "scene_original": "刘备来借兵，公孙瓒点头指向整列军士；赵云在军前待命，不做归蜀拜主镜头。",
+      "direct_link": "同一事件的前因/关键转折进入目标卡，不串入下一时代",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "整骑",
+      "single_effect": "附近骑兵移动速度提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "引弦",
+      "single_effect": "自身首次远程普攻伤害提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "复阵",
+      "single_effect": "移动结束后自身短时防御提高",
+      "unlock_star": 3
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "全部事件取舍、技能与视觉均候选；未获用户最终认可"
+}

@@ -1,0 +1,22 @@
+{
+  "heroes": 40,
+  "factions": {
+    "wei": 10,
+    "shu": 10,
+    "wu": 10,
+    "qun": 10
+  },
+  "briefs": 37,
+  "cards": 148,
+  "stories": 111,
+  "unique_ids": 40,
+  "two_character_passive_names": true,
+  "story_destination_valid": true,
+  "images_generated": 0,
+  "retained_candidates_are_not_approved": true,
+  "all_259_scenes_have_nonempty_primary_source_links": true,
+  "six_new_heroes_chapters_nondecreasing": true,
+  "final_semantic_check": "passed",
+  "important_final_revision": "袁术黄金最终选第17回七路出兵，不用先前临时江亭残梦，以满足阶级造型增长；仍明示称帝与出兵不等于获胜。",
+  "frozen_for_backup": true
+}

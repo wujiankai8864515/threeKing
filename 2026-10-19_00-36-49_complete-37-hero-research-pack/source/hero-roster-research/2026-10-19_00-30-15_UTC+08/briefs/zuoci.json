@@ -1,0 +1,149 @@
+{
+  "hero_id": "zuoci",
+  "name": "左慈",
+  "faction": "qun",
+  "source_research": "继承已核研究，完整细节见相邻inherited_full_research目录",
+  "source_file": "hero-production-research/2026-10-18_20-31-10_UTC+08/群八将_四卡三传记_完整研究制作包_v2.json",
+  "role_draft": "在身旁空位留下一个短时幻影；本体下一次遭到可转移的单体普攻时，该攻击由幻影承受，幻影随即消失。",
+  "myth_symbol_proposal": {
+    "name": "蜃壳幻潮",
+    "origin": "原创蜃形幻象提案，不将左慈等同历史真仙，也不把所有神通改为现实能力",
+    "reason": "壳缘与低潮折射形成真假边界，物件换相而人物不满屏复制；区别张角雷暴、华佗草叶治愈、郭嘉鸦记。",
+    "growth": "衣边一片壳光→近地浅幻潮→半枚蜃壳镜面→完整低伏蜃壳把山路折成一层重影"
+  },
+  "identity_draft": {
+    "face": "第68回眇一眼有据，哪一侧未写；项目原创固定为左眼视损、右眼清明，成熟老者，神态轻松而非疯癫。",
+    "hair": "白藤冠有据；白灰发与短疏须属原创定型，不能变诸葛亮纶巾长须。",
+    "body": "第68回跛一足有据，哪侧未写；固定右腿略跛为原创连续性。四阶都保留，不以进阶治好残障。",
+    "clothes": "第68回青懒衣、木履；设计为青灰哑布宽衣、白藤编冠、褐腰绳，完整遮身。黄金增加壳边图纹而不换帝王金甲。",
+    "weapons_fact": "第68回用钓竿、玉簪、杯等施术；文中天书自述有飞剑，但不等于所选四镜头每场持战剑。",
+    "weapons_design": "无常备战斗剑；以袖、簪、杖式钓竿的真实物件形成识别。木杖若使用须标为原创辅助，不当原著固定仙杖。",
+    "mount_fact": "68回尾声乘白鹤在空中属小说明文；本组黄金止于羊群段，尚不使用该坐骑。",
+    "mount_design": "主图均落地，木履可见；不因是仙人就四阶都骑鹤飞天。",
+    "reference_version": "QUN-ZC-text-v1，左眼/右腿选择是项目设定，后续不可镜像漂移。",
+    "safety_boundary": "禁食、枷锁自解与羊复生均为小说神异；不提供现实练习或效验承诺。"
+  },
+  "weapon_mount_evidence": {
+    "weapons_fact": "第68回用钓竿、玉簪、杯等施术；文中天书自述有飞剑，但不等于所选四镜头每场持战剑。",
+    "weapons_design": "无常备战斗剑；以袖、簪、杖式钓竿的真实物件形成识别。木杖若使用须标为原创辅助，不当原著固定仙杖。",
+    "mount_fact": "68回尾声乘白鹤在空中属小说明文；本组黄金止于羊群段，尚不使用该坐骑。",
+    "mount_design": "主图均落地，木履可见；不因是仙人就四阶都骑鹤飞天。"
+  },
+  "cards": [
+    {
+      "asset_id": "zuoci_card_01",
+      "stage": 1,
+      "tier": "黑铁",
+      "title": "山脚一肩",
+      "event": "途中代挑柑担",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "pose_and_scene_original": "山路眼平近全身；接过役夫担子，挑起前一瞬，右腿略外移找稳落点；山脚土路、树荫、柑筐与歇息脚夫",
+      "myth_growth": "衣缘一片暗哑壳光，柑筐暂不发光",
+      "avoid": "不把跛足当笑料；不以幼童脸配老人须",
+      "generated": false
+    },
+    {
+      "asset_id": "zuoci_card_02",
+      "stage": 2,
+      "tier": "青铜",
+      "title": "牢中自若",
+      "event": "枷落与七日不食",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "pose_and_scene_original": "窄窗侧光半全身；盘坐在土面平石上，松落的枷锁在旁，微微侧头听门外；简朴牢房、门栅、空碗不特写饥饿受苦",
+      "myth_growth": "一层近地浅幻潮，轮廓能见真实脚履",
+      "avoid": "不示范现实绝食；不画血刑伤口",
+      "generated": false
+    },
+    {
+      "asset_id": "zuoci_card_03",
+      "stage": 3,
+      "tier": "白银",
+      "title": "池畔钓远鱼",
+      "event": "王宫池中钓鲈",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "pose_and_scene_original": "殿檐外侧低眼平中全身；双手持钓竿，鱼刚跃出堂下池面，曹操和众官在远阶旁；宫中真实鱼池石沿、廊柱，水面鱼影有限",
+      "myth_growth": "半枚蜃壳镜面映出遥远江纹，只一层折射",
+      "avoid": "不同时画龙肝牡丹姜书四种戏法，不喷血肉",
+      "generated": false
+    },
+    {
+      "asset_id": "zuoci_card_04",
+      "stage": 4,
+      "tier": "黄金",
+      "title": "山羊归路",
+      "event": "羊群隐身脱追",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "pose_and_scene_original": "山路侧前全身，机位稍低；拂袖离开，活羊群回到牧童一侧；追兵远在山口；草坡、羊径、尘土、几株低树；羊自然体态",
+      "myth_growth": "完整低伏蜃壳将路折出一层淡影，主角真身始终可辨",
+      "avoid": "不画羊尸断头；不出现白鹤天宫；不把复羊变游戏群体复活",
+      "generated": false
+    }
+  ],
+  "stories": [
+    {
+      "asset_id": "zuoci_story_to_02",
+      "target_card_id": "zuoci_card_02",
+      "target_stage": 2,
+      "title": "问术入囚",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "scene_original": "横幅宫门，曹操疑怒在远处，左慈主脸近侧；左慈被侍卫引向门外仍淡笑，手空不抵抗；铜卡安坐来自被疑而受囚，不是随意自选修行室",
+      "generated": false
+    },
+    {
+      "asset_id": "zuoci_story_to_03",
+      "target_card_id": "zuoci_card_03",
+      "target_stage": 3,
+      "title": "筵间问所缺",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "scene_original": "横幅宴厅通池，左慈近侧请人取钓竿；曹操指向廊外池水，众官停筷相看，鱼尚未上钩；银卡池钓由席上取远物之问引出，不混用铜盘故事",
+      "generated": false
+    },
+    {
+      "asset_id": "zuoci_story_to_04",
+      "target_card_id": "zuoci_card_04",
+      "target_stage": 4,
+      "title": "一步入群羊",
+      "source_urls": [
+        "https://zh.wikisource.org/zh/三國演義/第068回"
+      ],
+      "scene_original": "横幅山道，左慈近景走向羊群，许褚骑兵在远处；主角衣摆刚被羊背挡住一角，牧童站旁，取隐身前而非屠羊后；金卡还羊离去的直接追捕前因；同一章先后明确",
+      "generated": false
+    }
+  ],
+  "passives_draft": [
+    {
+      "name": "留影",
+      "single_effect": "未触发幻影的保留时间提高",
+      "unlock_star": 1
+    },
+    {
+      "name": "轻履",
+      "single_effect": "自身移动速度提高",
+      "unlock_star": 2
+    },
+    {
+      "name": "远映",
+      "single_effect": "幻影可放置距离提高",
+      "unlock_star": 3
+    },
+    {
+      "name": "收幻",
+      "single_effect": "主动能量消耗降低",
+      "unlock_star": 4
+    }
+  ],
+  "production_status": "research_ready_new_remake_not_generated",
+  "approval": "所有新图均候选；研究就绪不等于图片完成或用户通过"
+}
