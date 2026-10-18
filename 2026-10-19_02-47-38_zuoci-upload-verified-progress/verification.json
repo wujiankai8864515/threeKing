@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-19T02:47:38.484153+08:00",
+  "verified_asset_commit": "e0d5c6416d8c07258036cc968aaecae55d450dca",
+  "independent_fetch": "PASS",
+  "lfs_pull": "new objects fetched by checkout",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9783,
+  "sequential_copy_sha256_checked": true,
+  "hero": "zuoci",
+  "seven_candidates": "uploaded_verified_not_user_accepted",
+  "lfs_fsck_scope": "4717c1a02c928e4dbf8e0f29d650681e9c342502..e0d5c6416d8c07258036cc968aaecae55d450dca"
+}
