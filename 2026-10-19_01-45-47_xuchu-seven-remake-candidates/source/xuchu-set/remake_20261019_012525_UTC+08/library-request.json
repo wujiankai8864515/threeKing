@@ -1,0 +1,68 @@
+{
+  "uploads": [
+    {
+      "file_name": "许褚-01-黑铁-葛陂压阵.png",
+      "file_size_bytes": 3623930,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-01-黑铁-葛陂压阵.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-02-青铜-初刀入军.png",
+      "file_size_bytes": 3622885,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-02-青铜-初刀入军.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-03-白银-举鞍渡险.png",
+      "file_size_bytes": 3776449,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-03-白银-举鞍渡险.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-04-黄金-虎痴裸衣.png",
+      "file_size_bytes": 3750566,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-04-黄金-虎痴裸衣.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-05-传记-解缚入帐.png",
+      "file_size_bytes": 2628843,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-05-传记-解缚入帐.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-06-传记-一跃上舟.png",
+      "file_size_bytes": 3033992,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-06-传记-一跃上舟.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-07-传记-卸甲再战.png",
+      "file_size_bytes": 3032416,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-07-传记-卸甲再战.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "file_name": "许褚-全套七图总览.png",
+      "file_size_bytes": 3622693,
+      "workspace_path": "/workspace/scratch/3f82ff2b3f81/xuchu-set/remake_20261019_012525_UTC+08/deliverables/许褚-全套七图总览.png",
+      "purpose": "create_library_file",
+      "mime_type": "image/png",
+      "library_artifact_type": "image"
+    }
+  ]
+}
