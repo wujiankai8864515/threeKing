@@ -1,0 +1,12 @@
+{
+  "verified_at": "2026-10-19T02:50:37.787566+08:00",
+  "verified_asset_commit": "64e03b3f174212797923cfb68980ba3ca0570d17",
+  "independent_fetch": "PASS",
+  "lfs_pull": "new objects fetched by checkout",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9902,
+  "sequential_copy_sha256_checked": true,
+  "hero": "yuanshu",
+  "seven_candidates": "uploaded_verified_not_user_accepted",
+  "lfs_fsck_scope": "26dcbe938b7c74576eac2586d21bda9b95adaf71..64e03b3f174212797923cfb68980ba3ca0570d17"
+}
