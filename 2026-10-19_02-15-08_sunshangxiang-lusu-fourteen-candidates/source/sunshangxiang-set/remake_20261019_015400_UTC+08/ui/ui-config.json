@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "孙尚香",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "轻装",
+        "level": "+1"
+      }
+    ],
+    "status": "孙尚香技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "孙尚香",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "轻装",
+        "level": "+1"
+      }
+    ],
+    "status": "孙尚香技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "孙尚香",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "轻装",
+        "level": "+2"
+      },
+      {
+        "name": "稳弦",
+        "level": "+2"
+      }
+    ],
+    "status": "孙尚香技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "孙尚香",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "轻装",
+        "level": "+3"
+      },
+      {
+        "name": "稳弦",
+        "level": "+3"
+      },
+      {
+        "name": "应援",
+        "level": "+3"
+      }
+    ],
+    "status": "孙尚香技能草案，单关键效果，候选待审"
+  }
+}

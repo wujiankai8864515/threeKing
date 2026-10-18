@@ -1,0 +1,183 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01-黑铁-江东献策.png",
+        "file_id": "file_0000000098e081fd8d251851e0756955",
+        "library_file_id": "libfile_dbf15982a0d88191b39c4ab737b41da2",
+        "file_name": "01-黑铁-江东献策.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3299062,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02-青铜-渡江联刘.png",
+        "file_id": "file_00000000da5881fda2f184ae32965e14",
+        "library_file_id": "libfile_74c21ecf73408191a64616ef85c3dc58",
+        "file_name": "02-青铜-渡江联刘.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3474595,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03-白银-力主拒曹.png",
+        "file_id": "file_000000003d4c81fd8e6d1ec7bff8f150",
+        "library_file_id": "libfile_79de2fd506208191b62d2ac0bc4ee878",
+        "file_name": "03-白银-力主拒曹.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3360457,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04-黄金-临江守议.png",
+        "file_id": "file_00000000b228820988a46d412018cfad",
+        "library_file_id": "libfile_f069344b3244819191966b20699b4442",
+        "file_name": "04-黄金-临江守议.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3530098,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05-传记-两岸相通.png",
+        "file_id": "file_000000000c9081f68e1ef4ce75510cf1",
+        "library_file_id": "libfile_046c1f1484c88191b67410c57bfaa088",
+        "file_name": "05-传记-两岸相通.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2612706,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/06-传记-独陈战策.png",
+        "file_id": "file_00000000089481fdbc76cd9160123c99",
+        "library_file_id": "libfile_7199b2f3769c8191a70f1cbf224e0c56",
+        "file_name": "06-传记-独陈战策.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2296788,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/07-传记-席前陈理.png",
+        "file_id": "file_00000000f3bc8230a10782ca06733176",
+        "library_file_id": "libfile_3886f181f808819186f55bd45c896471",
+        "file_name": "07-传记-席前陈理.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2368879,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/08-鲁肃-七图总览.jpg",
+        "file_id": "file_00000000f4d881fd8a5264434a0c546c",
+        "library_file_id": "libfile_dd08432db93481919ea7f52146573a90",
+        "file_name": "08-鲁肃-七图总览.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 934182,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

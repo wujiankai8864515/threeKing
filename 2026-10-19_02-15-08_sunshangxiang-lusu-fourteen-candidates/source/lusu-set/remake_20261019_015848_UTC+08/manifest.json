@@ -1,0 +1,112 @@
+{
+  "hero": "鲁肃",
+  "status": "全新候选，待用户审核",
+  "generator": "built-in imagegen",
+  "native_cards": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; 1:1 at84,145",
+  "myth": "双首比翼鹭：原创艺术解释，不是原著人物神兽；银金明确单一双首构形",
+  "active_draft": "使两名友军链接，分担下一次伤害，触发一次后结束",
+  "passives_draft": {
+    "合援": "降低链接分担的一次伤害",
+    "笃盟": "延长链接等待触发的持续时间",
+    "安众": "缩短相邻友军受控时长"
+  },
+  "chronology": [
+    29,
+    42,
+    43,
+    66
+  ],
+  "source_urls": [
+    "https://zh.wikisource.org/wiki/三國演義/第029回",
+    "https://zh.wikisource.org/wiki/三國演義/第042回",
+    "https://zh.wikisource.org/wiki/三國演義/第043回",
+    "https://zh.wikisource.org/wiki/三國演義/第066回"
+  ],
+  "story_links": {
+    "bio01": "card02",
+    "bio02": "card03",
+    "bio03": "card04"
+  },
+  "repairs": [
+    "黑铁将手收回中央，旧稿保留",
+    "白银双鹭修为双首单体",
+    "黄金手收回中央、双首单体强化"
+  ],
+  "files": [
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/01-黑铁-江东献策.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "976bba38bc5d42363ee6435a6778b1c70f66cff06b2c18534451cf838d729764"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/02-青铜-渡江联刘.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0305d5d106c2071248036f53cd51b77f1d497b2868313dc532f8888c4ddba8ff"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/03-白银-力主拒曹.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "95e493aa223983c262c1b8678ddba0016c8336fdef75fe648dd20dc2416ce281"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/04-黄金-临江守议.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0f40c683729d6f5056772b3c5fbe5630c163a5eacbaff8c2c5a37fa61e2f8551"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/05-传记-两岸相通.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/raw/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "38e846546a596a42f7f98a323d90a77a144f0e9282917e31c59f36e6a112b1bb"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/06-传记-独陈战策.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/raw/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "1e0164088b714a0d844f4773001734892208fd4ec552b26854a576882fee7b1d"
+    },
+    {
+      "file": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/deliverables/07-传记-席前陈理.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/lusu-set/remake_20261019_015848_UTC+08/raw/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "626f265190a050367a6c666c088fb889a480c615335363dd0dca376d90d847d8"
+    }
+  ]
+}

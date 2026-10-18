@@ -1,0 +1,115 @@
+{
+  "hero": "孙尚香",
+  "faction": "吴",
+  "status": "候选待审，非用户通过",
+  "engine": "built-in image_gen",
+  "source": "https://zh.wikisource.org/zh/三國演義/第055回",
+  "art_resampling": "none; cards 1024x1536 at1:1 offset84,145 on1190x1786",
+  "assets": [
+    {
+      "id": "01-黑铁-武阁自持",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/01-黑铁-武阁自持.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "81791886ba6b56108856763dd87a57c1ec59cfb8b0f96ac20e78ab24afc21bc9",
+      "target_card": null
+    },
+    {
+      "id": "02-青铜-一笑撤锋",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/02-青铜-一笑撤锋.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "68ef5bcb11ad7a5d9afccb2f05577977bcf06cafe3d9ef67a5fbd3cd94036fdf",
+      "target_card": null
+    },
+    {
+      "id": "03-白银-出吴自主",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/03-白银-出吴自主.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "84d7595c90745a7d0e8a2c30aa124007d9fe0175016d5f5d17253555f29e4e84",
+      "target_card": null
+    },
+    {
+      "id": "04-黄金-卷帘护路",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/04-黄金-卷帘护路.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "bab89a962c28ac903f4e635b5b1039435d963828e41b9b3ac8db73518a4c7c7e",
+      "target_card": null
+    },
+    {
+      "id": "05-传记-兵器可收主意未改",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/05-传记-兵器可收主意未改.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "afd9aa40de2706e2b1e3808fd6549d83874eddcd3c08bc52a1f4d3a7b992e6ce",
+      "target_card": "card02"
+    },
+    {
+      "id": "06-传记-这一程我同行",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/06-传记-这一程我同行.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "4c2863672d777d177114f32c9410238f857801689eb2e795307b918ee63d353d",
+      "target_card": "card03"
+    },
+    {
+      "id": "07-传记-车前自解危局",
+      "raw": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/sunshangxiang-set/remake_20261019_015400_UTC+08/candidates/07-传记-车前自解危局.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "f9b41202e047037f7c34ac7ac1dc5caefd07f16f9c9301677b59fdf7c70b6f2d",
+      "target_card": "card04"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01-黑铁-武阁自持.png",
+        "file_id": "file_00000000078481f58c3fac50ed9b0214",
+        "library_file_id": "libfile_996fbd6e515481919e24e15815e969e9",
+        "file_name": "01-黑铁-武阁自持.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3404543
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02-青铜-一笑撤锋.png",
+        "file_id": "file_0000000007b481fda413da2bfebfa95f",
+        "library_file_id": "libfile_e24a71a09ed4819183a4d0b87e650f33",
+        "file_name": "02-青铜-一笑撤锋.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3325034
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03-白银-出吴自主.png",
+        "file_id": "file_00000000945081fdb2eb9fb0716c6771",
+        "library_file_id": "libfile_f814a25f89408191a56e77ed68641f77",
+        "file_name": "03-白银-出吴自主.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3613047
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04-黄金-卷帘护路.png",
+        "file_id": "file_0000000096a4820c8d1558dc596e54c9",
+        "library_file_id": "libfile_5c0fa6ca2e848191a07cf6865fe399d2",
+        "file_name": "04-黄金-卷帘护路.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3443074
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05-传记-兵器可收主意未改.png",
+        "file_id": "file_00000000bdc882309a2bc5ddcc4ecd3a",
+        "library_file_id": "libfile_eaecd453ccf8819189306c830f2d8172",
+        "file_name": "05-传记-兵器可收主意未改.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2287539
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/06-传记-这一程我同行.png",
+        "file_id": "file_000000008adc81fd8ea5ed8ae64e8469",
+        "library_file_id": "libfile_5ca914bee8dc8191aee40c7a674f4812",
+        "file_name": "06-传记-这一程我同行.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2526003
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/07-传记-车前自解危局.png",
+        "file_id": "file_000000001cd481f4b940c4f566856012",
+        "library_file_id": "libfile_d98ca45e6b5c8191b9deb994275b363b",
+        "file_name": "07-传记-车前自解危局.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2770825
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/孙尚香-四阶三传记-重做总览.png",
+        "file_id": "file_00000000034081fd94a1f893187e1fa9",
+        "library_file_id": "libfile_ce62d419f6ec8191b16f4915d5077f03",
+        "file_name": "孙尚香-四阶三传记-重做总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3454728
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "鲁肃",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "合援",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "鲁肃",
+    "level": "1",
+    "advancement": "使",
+    "skills": [
+      {
+        "name": "合援",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "鲁肃",
+    "level": "1",
+    "advancement": "辅",
+    "skills": [
+      {
+        "name": "合援",
+        "level": "+2"
+      },
+      {
+        "name": "笃盟",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "鲁肃",
+    "level": "1",
+    "advancement": "神",
+    "skills": [
+      {
+        "name": "合援",
+        "level": "+2"
+      },
+      {
+        "name": "笃盟",
+        "level": "+2"
+      },
+      {
+        "name": "安众",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  }
+}
