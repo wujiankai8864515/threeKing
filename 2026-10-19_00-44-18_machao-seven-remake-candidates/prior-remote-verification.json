@@ -1,0 +1,13 @@
+{
+  "verified_at": "2026-10-19T00:38:03.066518+08:00",
+  "commit": "10ed8f02b52194696770bc63bb42f216c2c76309",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 5552,
+  "sequential_copy_sha256_checked": true,
+  "archived_entries": 76,
+  "new_paths": 75,
+  "updated_paths": 1,
+  "source_manifest_files_verified": 76,
+  "research_scope": "37 heroes, 148 cards and 111 biographies, 259 planned scenes; research only, not generated-art completion."
+}

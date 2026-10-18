@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-西凉少锋.png",
+      "file_id": "file_000000007f3c81f88eef43f271a535f6",
+      "library_file_id": "libfile_13ccdbb3ef1481918a2d6eb95fa9aa32",
+      "file_name": "01-黑铁-西凉少锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3648818
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-潼关怒骑.png",
+      "file_id": "file_00000000b714820d8a7d64f2f5081215",
+      "library_file_id": "libfile_5052322c649881919537535a04b24da2",
+      "file_name": "02-青铜-潼关怒骑.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3881268
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-葭萌夜烈.png",
+      "file_id": "file_00000000185081fd9ae31fd52f254ecb",
+      "library_file_id": "libfile_7e11793a53548191aa88a08e92d34699",
+      "file_name": "03-白银-葭萌夜烈.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3774093
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-归蜀定锋.png",
+      "file_id": "file_000000002a2c81f8a3d3432957dd9493",
+      "library_file_id": "libfile_8f55f6cbb964819181b33dbf134e7b45",
+      "file_name": "04-黄金-归蜀定锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3873838
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-传记-西凉起兵.png",
+      "file_id": "file_000000006e2c81f8b42f4d257baee93c",
+      "library_file_id": "libfile_24f12e51355481919ae701b301a22419",
+      "file_name": "05-传记-西凉起兵.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2811670
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/06-传记-挑灯争锋.png",
+      "file_id": "file_000000006dc881f8943586e69dbd649c",
+      "library_file_id": "libfile_ea138937a27081919aff99c6a445abd2",
+      "file_name": "06-传记-挑灯争锋.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2637930
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/07-传记-雾开有归.png",
+      "file_id": "file_000000000d5481fd9216235aa5504a92",
+      "library_file_id": "libfile_f3d84ae5708c8191aa350f3c979ccdec",
+      "file_name": "07-传记-雾开有归.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2451624
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/08-马超-四卡三传记总览.png",
+      "file_id": "file_000000007b2481f8a47ee88c85f172d1",
+      "library_file_id": "libfile_eab364b09d488191aa839af0f5ae7fd6",
+      "file_name": "08-马超-四卡三传记总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3967123
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

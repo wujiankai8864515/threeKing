@@ -1,0 +1,195 @@
+{
+  "hero": "马超",
+  "status": "ready_candidate_pending_user_review",
+  "generator": "built-in image_gen only",
+  "raw_generated_count": 7,
+  "art_status": "all seven newly generated, four cards locally polished; old iterations preserved",
+  "mythic_beast": "西凉天狼，原创提案，非演义或史传设定",
+  "research": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/research.md",
+  "qa": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/qa/QA.md",
+  "assets": [
+    {
+      "id": "card01",
+      "label": "01-黑铁-西凉少锋",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card01.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "803ac6244d2c13b72903631d216e67f04473fa57c6d61e9572ec73afd5fac01d",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/01-黑铁-西凉少锋.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "364be5dad325acc0e33255ae96978c1b2e1021ed077c2d8ab4b6649de4a0ebe1",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card02",
+      "label": "02-青铜-潼关怒骑",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card02.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "730937b5666b568b6873decc5df9bc2a986ac372d09d8e12d6f24280bcce61e1",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/02-青铜-潼关怒骑.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "66ef4253aafd47dde5372b27dc2d386ad1a5b9f0097531a3dc27e99569e09f47",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card03",
+      "label": "03-白银-葭萌夜烈",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card03.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "f4ec0ec74755ec7712583de1235c44c4f6614d8a095fdf2b59b33213df3c46e1",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/03-白银-葭萌夜烈.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "88fbb0b3f771da7ac9c9f0931ed329f69d0285fcbaa3988790a56f75fc6ae911",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "card04",
+      "label": "04-黄金-归蜀定锋",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card04.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "source_sha256": "1936f98dc194d49972d4d0131eee1e547f26bfc36fd481d2e552ab8743581c80",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/04-黄金-归蜀定锋.png",
+      "candidate_dimensions": [
+        1190,
+        1786
+      ],
+      "candidate_sha256": "f9499740a3b3e696a5cc788e6fc0db0a439d353123d59357ff28619989134dde",
+      "destination_card": null,
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio01",
+      "label": "05-传记-西凉起兵",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio01.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "e7841f4f63823c28c7872b9e8f1ac1cef97cecc861406247bfb336831ff69c35",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/05-传记-西凉起兵.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "e7841f4f63823c28c7872b9e8f1ac1cef97cecc861406247bfb336831ff69c35",
+      "destination_card": "card02",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio02",
+      "label": "06-传记-挑灯争锋",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio02.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "690ce2ddc0d2aa40d3e42201ac096580921fd72ae0984cf71635e6a4664b7c4c",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/06-传记-挑灯争锋.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "690ce2ddc0d2aa40d3e42201ac096580921fd72ae0984cf71635e6a4664b7c4c",
+      "destination_card": "card03",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "id": "bio03",
+      "label": "07-传记-雾开有归",
+      "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio03.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "source_sha256": "d6190ccfb3c42f1be3ddc726e011bd296811f116dc18a548f33c709bcc7291f6",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/07-传记-雾开有归.png",
+      "candidate_dimensions": [
+        1536,
+        1024
+      ],
+      "candidate_sha256": "d6190ccfb3c42f1be3ddc726e011bd296811f116dc18a548f33c709bcc7291f6",
+      "destination_card": "card04",
+      "status": "candidate_pending_user_review"
+    }
+  ],
+  "overview": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/08-马超-四卡三传记总览.png",
+  "prompts": [
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/bio03-fix.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card03-polish.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card04-polish.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card02-polish.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card01-polish.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/bio01.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card02.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card03.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/bio02.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/bio03.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card04.txt",
+    "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/prompts/card01.txt"
+  ],
+  "ui_compositor": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/ui/compose_layout.py",
+  "ui_manifest": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/ui/composition-manifest.json",
+  "no_upscale_claim": "native portrait 1024x1536, landscape1536x1024; card UI1190x1786 is composition canvas, not native 4K",
+  "limitations": [
+    "四卡视线多数朝右，但姿势/摄像/时间不同；不得扩散为其他武将固定模板",
+    "青铜蹄部保留逆光土尘，非金粉；脸/双握点更清楚",
+    "技能、阶名、天狼象征均为待审提案"
+  ],
+  "library": [
+    {
+      "file": "01-黑铁-西凉少锋.png",
+      "library_file_id": "libfile_13ccdbb3ef1481918a2d6eb95fa9aa32"
+    },
+    {
+      "file": "02-青铜-潼关怒骑.png",
+      "library_file_id": "libfile_5052322c649881919537535a04b24da2"
+    },
+    {
+      "file": "03-白银-葭萌夜烈.png",
+      "library_file_id": "libfile_7e11793a53548191aa88a08e92d34699"
+    },
+    {
+      "file": "04-黄金-归蜀定锋.png",
+      "library_file_id": "libfile_8f55f6cbb964819181b33dbf134e7b45"
+    },
+    {
+      "file": "05-传记-西凉起兵.png",
+      "library_file_id": "libfile_24f12e51355481919ae701b301a22419"
+    },
+    {
+      "file": "06-传记-挑灯争锋.png",
+      "library_file_id": "libfile_ea138937a27081919aff99c6a445abd2"
+    },
+    {
+      "file": "07-传记-雾开有归.png",
+      "library_file_id": "libfile_f3d84ae5708c8191aa350f3c979ccdec"
+    },
+    {
+      "file": "08-马超-四卡三传记总览.png",
+      "library_file_id": "libfile_eab364b09d488191aa839af0f5ae7fd6"
+    }
+  ]
+}
