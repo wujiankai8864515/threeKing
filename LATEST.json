@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_01-43-10_sunquan-seven-remake-candidates/asset-index.json",
+  "asset_index": "2026-10-19_01-45-09_dianwei-seven-remake-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Sun Quan seven candidates ready. 21 retained plus 112 new candidates = 133; not 280 completed images.",
-  "latest_delta": "2026-10-19_01-43-10_sunquan-seven-remake-candidates",
-  "current_status": "2026-10-19_01-43-10_sunquan-seven-remake-candidates/status-overrides.json",
+  "note": "Dian Wei seven candidates ready. 21 retained plus 119 new candidates = 140; not 280 completed images.",
+  "latest_delta": "2026-10-19_01-45-09_dianwei-seven-remake-candidates",
+  "current_status": "2026-10-19_01-45-09_dianwei-seven-remake-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -52,7 +52,8 @@
     "2026-10-19_01-26-50_xunyu-seven-remake-candidates",
     "2026-10-19_01-30-33_caocao-seven-remake-candidates",
     "2026-10-19_01-31-30_guojia-seven-remake-candidates",
-    "2026-10-19_01-43-10_sunquan-seven-remake-candidates"
+    "2026-10-19_01-43-10_sunquan-seven-remake-candidates",
+    "2026-10-19_01-45-09_dianwei-seven-remake-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -115,7 +116,8 @@
     "2026-10-19_01-26-50_xunyu-seven-remake-candidates",
     "2026-10-19_01-30-33_caocao-seven-remake-candidates",
     "2026-10-19_01-31-30_guojia-seven-remake-candidates",
-    "2026-10-19_01-43-10_sunquan-seven-remake-candidates"
+    "2026-10-19_01-43-10_sunquan-seven-remake-candidates",
+    "2026-10-19_01-45-09_dianwei-seven-remake-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -124,7 +126,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "f8f84a7deb14c37bde9c1f6482ec7b3c66a09e4b",
+  "remote_verified_commit": "bcdf2878376f7e0b2aa2603aa3c45b2f0b127fe5",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -132,7 +134,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_01-43-10_sunquan-seven-remake-candidates/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_01-43-10_sunquan-seven-remake-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_01-43-10_sunquan-seven-remake-candidates/production-progress.json"
+  "remote_verification_receipt": "2026-10-19_01-45-09_dianwei-seven-remake-candidates/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_01-45-09_dianwei-seven-remake-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_01-45-09_dianwei-seven-remake-candidates/production-progress.json"
 }

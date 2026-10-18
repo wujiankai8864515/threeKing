@@ -1,0 +1,183 @@
+{
+  "hero": "典韦",
+  "status": "all new candidates awaiting user review",
+  "native_cards": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "UI_canvas": [
+    1190,
+    1786
+  ],
+  "art_scale": "1:1 at84,145; no upscale",
+  "beast": "上古巨巫祖影，原创美术设定，不是典籍血统或族群",
+  "skills_draft": {
+    "护主": "为选定近旁一名友军承接下一次来袭的一部分伤害",
+    "巨躯": "最大生命提高",
+    "固骨": "承接给自己的伤害降低",
+    "拒关": "护卫期间受到的击退距离减少"
+  },
+  "slot_counts": [
+    1,
+    1,
+    2,
+    3
+  ],
+  "cards": {
+    "iron": {
+      "raw": "clean/card01.png",
+      "output": "candidates/card01-iron-典韦.png",
+      "sha256": "23d8651ec7559c4934a34dce27783fe54aa36fc9b1b0fa1c444db36120b58926",
+      "skills": [
+        "巨躯"
+      ]
+    },
+    "bronze": {
+      "raw": "clean/card02.png",
+      "output": "candidates/card02-bronze-典韦.png",
+      "sha256": "2f9e3dc6874159707701c4026152742974f56360b0707086237511324b2ec380",
+      "skills": [
+        "巨躯"
+      ]
+    },
+    "silver": {
+      "raw": "clean/card03.png",
+      "output": "candidates/card03-silver-典韦.png",
+      "sha256": "8be42ba6740889c12e71484cb2443d696324a0b122dfdcbb5b7e4193f95bed4a",
+      "skills": [
+        "巨躯",
+        "固骨"
+      ]
+    },
+    "gold": {
+      "raw": "clean/card04.png",
+      "output": "candidates/card04-gold-典韦.png",
+      "sha256": "d71bb2a8a31aa4c7df8e0e28a5766ab0725ddc0428a6f2c260978bd15bd228d8",
+      "skills": [
+        "巨躯",
+        "固骨",
+        "拒关"
+      ]
+    }
+  },
+  "stories": {
+    "bio01": {
+      "raw": "clean/bio01.png",
+      "output": "candidates/bio01-夏侯引荐.png",
+      "target_card": 2,
+      "event_chapter": 10
+    },
+    "bio02": {
+      "raw": "clean/bio02.png",
+      "output": "candidates/bio02-再近五步.png",
+      "target_card": 3,
+      "event_chapter": 11
+    },
+    "bio03": {
+      "raw": "clean/bio03.png",
+      "output": "candidates/bio03-失戟赴门.png",
+      "target_card": 4,
+      "event_chapter": 16
+    }
+  },
+  "source_urls": [
+    "https://zh.wikisource.org/wiki/三國演義/第010回",
+    "https://zh.wikisource.org/wiki/三國演義/第011回",
+    "https://zh.wikisource.org/wiki/三國演義/第016回"
+  ],
+  "source_verification": "2026-10-18 UTC; chapter10 paragraph127, chapter11 paragraph147, chapter16 paragraphs183-185 verified directly.",
+  "imagegen": "built-in only; seven independent originals plus seven individual local-material cleanups; no montage substituted for source",
+  "local_cleanup": "Removed dense ochre/gold flecks and bright crack network on skin; original and edited candidates retained. Broad dirt stains and motivated splash/fire remain.",
+  "UI": {
+    "faction": "魏 fixed blue medallion",
+    "troop": "infantry shield and spear icon all stages",
+    "anchors": [
+      961,
+      1045,
+      1129
+    ],
+    "independent_layers": true,
+    "levels": "draft, LV1; passive +1/+2",
+    "art_native_one_to_one": true
+  },
+  "narrative_notes": {
+    "card01": "chapter10 remembered deer chase; no tiger",
+    "card02": "chapter10 planted banner stabilized after demonstration",
+    "card03": "chapter11 throws short ji while long twin ji planted behind",
+    "card04": "chapter16 no armor, twin ji stolen, uses chipped infantry saber",
+    "bio01": "dismounted after demonstration, turning toward threatened banner; artistic scene interpolation",
+    "bio02": "before throw, short ji readied and long ji at side",
+    "bio03": "takes infantry saber after finding double ji missing; before final gate stand"
+  },
+  "QA": "All seven native images and cleanups inspected. Huge consistent square-faced hero; readable hand grips and continuous shafts. No tiger substitution. Matte cloth/skin cleanup performed. Final UI face and grip safety checked in contact sheet and full card views. User approval pending.",
+  "files": [
+    {
+      "path": "candidates/bio01-夏侯引荐.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "e9cbb3aa15fb6dbb0d00187385d8822faf060da033010385a62377c135e9d134"
+    },
+    {
+      "path": "candidates/bio02-再近五步.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "fde0eca6605b044d601e4145111a08dd6ea1c596392b4fb6fde6efdffc855088"
+    },
+    {
+      "path": "candidates/bio03-失戟赴门.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "f685a28b58716db62dfd7019544637b0cdd5816f3b6a8328eb678751c0c29a92"
+    },
+    {
+      "path": "candidates/card01-iron-典韦.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "23d8651ec7559c4934a34dce27783fe54aa36fc9b1b0fa1c444db36120b58926"
+    },
+    {
+      "path": "candidates/card02-bronze-典韦.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2f9e3dc6874159707701c4026152742974f56360b0707086237511324b2ec380"
+    },
+    {
+      "path": "candidates/card03-silver-典韦.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "8be42ba6740889c12e71484cb2443d696324a0b122dfdcbb5b7e4193f95bed4a"
+    },
+    {
+      "path": "candidates/card04-gold-典韦.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "d71bb2a8a31aa4c7df8e0e28a5766ab0725ddc0428a6f2c260978bd15bd228d8"
+    },
+    {
+      "path": "candidates/典韦-七图总览.png",
+      "dimensions": [
+        1920,
+        1310
+      ],
+      "sha256": "1cc8f457c3e6607cd34bea2ef43f6921e3f11daf8ad1167f13bb4ed6ad37aaba"
+    }
+  ]
+}
