@@ -1,0 +1,35 @@
+{
+  "hero": "荀彧",
+  "status": "self_viewed_pending_independent_QA",
+  "actual_references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+      "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+      "role": "own identity; Cao crop story supporting identity only"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/曹操身份仅前景脸裁切.png",
+      "sha256": "c18f74624e367a76133b4f6dbbba886be8de47c70fb179a19d632df5a4dda3e5",
+      "role": "own identity; Cao crop story supporting identity only"
+    }
+  ],
+  "method": "builtin_imagegen_reference_derived_new_composition",
+  "outputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-铜银传记-奉迎之议-候选1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "c4b431194b176d539d542d2c024c7fe90d3336565ddd7358be1f792068105d3b"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-白银-奉汉立制-候选1.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "d91b0cac68f78fa84d0090f20a5ff89a19ad48405de34f0e6555ac4666e7700f"
+    }
+  ]
+}

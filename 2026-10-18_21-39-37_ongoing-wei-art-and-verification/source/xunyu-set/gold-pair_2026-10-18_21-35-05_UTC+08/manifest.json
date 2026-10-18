@@ -1,0 +1,27 @@
+{
+  "hero": "荀彧",
+  "status": "pending_independent_QA",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+    "role": "own identity/style new composition"
+  },
+  "method": "builtin_imagegen",
+  "outputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-银金传记-一封不退的信-候选1.png",
+      "sha256": "526354f10ac4fd38df8dfafcc6ef0e3bb9a6eb14f0d67a7c7a9ec638ebcee89b",
+      "pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-黄金-官渡后援-候选1.png",
+      "sha256": "442108ae1b994bed94437b790605943d58b25797ddcdf236a7760c4b71ebd973",
+      "pixels": [
+        1024,
+        1536
+      ]
+    }
+  ]
+}

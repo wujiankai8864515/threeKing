@@ -1,0 +1,73 @@
+{
+  "updated_at": "2026-10-18T21:38:43+08:00",
+  "chapter": 20,
+  "card_title": "解缚新途",
+  "biography_title": "白门解缚",
+  "current_card": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/张辽-青铜-v2-后位曹操身份局修候选.png",
+  "current_biography": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜传记-v1-白门解缚候选.png",
+  "assets": [
+    {
+      "asset_id": "zhangliao_card_2_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜-v1-解缚新途候选.png",
+      "sha256": "458e43b7fe8da145818999ed6db8049bd1e544ed9f2bbdec3d1c3b9ef840e4b3",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "superseded_secondary_cao_wrong_identity",
+      "actual_references": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+        "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    },
+    {
+      "asset_id": "zhangliao_card_2_v2",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/张辽-青铜-v2-后位曹操身份局修候选.png",
+      "sha256": "4068336bc29991728c3a0f6484e5cfa37127faa5ae6fce64c85e95cc770ee7a9",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "independent_qa_passed_pending_root_freeze",
+      "actual_references": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜-v1-解缚新途候选.png",
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/Cao-approved-face-only-reference-crop.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    },
+    {
+      "asset_id": "zhangliao_bio_1_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/张辽-青铜传记-v1-白门解缚候选.png",
+      "sha256": "f6e637e259d174236ef2ecf97e578c8cfe940b1218d94e4603af6f3487075220",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "independent_qa_passed_pending_root_freeze",
+      "actual_references": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png",
+        "/workspace/scratch/3f82ff2b3f81/caocao-set/blackiron-first_2026-10-18_20-43-40_UTC+08/曹操-黑铁-献刀瞬变-身份候选1.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/materialclean_20261018_180135_UTC+08/桃园结义-v10-分材质清理候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    }
+  ],
+  "qa_evidence": [
+    "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_pair_2026-10-18_21-24-20_UTC+08/qa-100pct",
+    "/workspace/scratch/3f82ff2b3f81/zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08/qa-100pct"
+  ],
+  "notes": [
+    "卡 v1 后曹误借董卓脸，不作当前源。",
+    "卡 v2 只后位曹身份定向修正。",
+    "当前卡与故事分别已通过独立 QA，不等同用户最终审批。",
+    "护卫刀尖和侧躯为配角边缘合理裁切。",
+    "1190 实框验证源图 1:1 放在(84,145)，无插画缩放，不称超分。"
+  ]
+}

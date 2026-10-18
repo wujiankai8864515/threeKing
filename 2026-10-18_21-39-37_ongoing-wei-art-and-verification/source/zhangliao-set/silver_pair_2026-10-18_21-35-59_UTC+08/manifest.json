@@ -1,0 +1,42 @@
+{
+  "assets": [
+    {
+      "asset_id": "zhangliao_card_3_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银-v1-合肥定乱候选.png",
+      "sha256": "e8af6a7c6e5b4b2499526026f31b541de229f9dd4a02df4c5b7011eaf2f0969a",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "generated_self_qa_in_progress",
+      "actual_references": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    },
+    {
+      "asset_id": "zhangliao_bio_2_v1",
+      "path": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/张辽-白银传记-v1-胜夜不卸甲候选.png",
+      "sha256": "3540b176b234e597b6e712ce1d3c59ea384c110f48b8ab1deb9246ae79e134d1",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "generated_self_qa_in_progress",
+      "actual_references": [
+        "/workspace/scratch/3f82ff2b3f81/zhangliao-set/blackiron_horizontal_2026-10-18_21-04-43_UTC+08/张辽-黑铁-v3-水平持杆重构候选.png"
+      ],
+      "method": "builtin_imagegen",
+      "upscale": false
+    }
+  ],
+  "chapter": 53,
+  "actual_references_roles": {
+    "image1": "approved Zhang Liao v3 identity and faceted painting only"
+  },
+  "native_crops": "/workspace/scratch/3f82ff2b3f81/zhangliao-set/silver_pair_2026-10-18_21-35-59_UTC+08/qa-100pct",
+  "ui_test": "1190x1786, art unscaled 1:1 at84,145; resized existing frame only"
+}

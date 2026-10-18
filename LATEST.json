@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-18_21-28-43_ongoing-wei-art-and-verification/asset-index.json",
+  "asset_index": "2026-10-18_21-39-37_ongoing-wei-art-and-verification/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
   "note": "Current incremental candidates and records captured; historical source maps are dated snapshots, current per-hero manifests take precedence.",
-  "latest_delta": "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
-  "current_status": "2026-10-18_21-28-43_ongoing-wei-art-and-verification/status-overrides.json",
+  "latest_delta": "2026-10-18_21-39-37_ongoing-wei-art-and-verification",
+  "current_status": "2026-10-18_21-39-37_ongoing-wei-art-and-verification/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -28,7 +28,8 @@
     "2026-10-18_20-45-32_two-story-QA-closure",
     "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates",
     "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
-    "2026-10-18_21-28-43_ongoing-wei-art-and-verification"
+    "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
+    "2026-10-18_21-39-37_ongoing-wei-art-and-verification"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -67,7 +68,8 @@
     "2026-10-18_20-45-32_two-story-QA-closure",
     "2026-10-18_20-51-06_wei-identities-dialogue-and-frame-safe-candidates",
     "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates",
-    "2026-10-18_21-28-43_ongoing-wei-art-and-verification"
+    "2026-10-18_21-28-43_ongoing-wei-art-and-verification",
+    "2026-10-18_21-39-37_ongoing-wei-art-and-verification"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",

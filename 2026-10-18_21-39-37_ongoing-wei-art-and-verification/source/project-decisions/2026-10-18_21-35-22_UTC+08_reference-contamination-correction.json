@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-18T21:35:22+08:00",
+  "observation": "Guo Jia first identity and Zhang Liao bronze inherited the background Dong Zhuo from Cao Cao black-iron reference instead of Cao as intended.",
+  "evidence": [
+    "guojia-set/blackiron-first_2026-10-18_21-05-00_UTC+08/manifest.json",
+    "zhangliao-set/bronze_cao_identity_2026-10-18_21-28-54_UTC+08"
+  ],
+  "interpretation": "Reference background contamination is a plausible and actionable mechanism, not proof of model internals.",
+  "rule": "For future Cao supporting-character identity references, use approved Cao bronze image or native Cao face crop plus clean material-style sample; exclude original black-iron full image containing Dong Zhuo.",
+  "replacement_reference": "caocao-set/bronze_pair_2026-10-18_20-51-30_UTC+08/曹操-青铜-陈留举义-候选1.png",
+  "scope": "Future generation; preserve approved existing pictures and failed history."
+}

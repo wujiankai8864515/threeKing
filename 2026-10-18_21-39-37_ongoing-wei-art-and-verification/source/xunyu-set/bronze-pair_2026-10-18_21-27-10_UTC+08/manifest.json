@@ -1,0 +1,28 @@
+{
+  "hero": "荀彧",
+  "status": "self_viewed_pending_independent_QA",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+    "sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+    "role": "same hero identity and clean broad-plane style; new composition"
+  },
+  "method": "builtin_imagegen_new_generation_with_actual_reference",
+  "outputs": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-黑铜传记-只留三城不失-候选1.png",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "sha256": "094126927ee7e60493cba24654c96fe6ff3028701683c0a1ba294d153be42fb0"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-青铜-三城固本-候选1.png",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "sha256": "6a63a0b037f858bda4d01b777c14acfd2e1dfcaba97776d64cfd928c809decd0"
+    }
+  ]
+}

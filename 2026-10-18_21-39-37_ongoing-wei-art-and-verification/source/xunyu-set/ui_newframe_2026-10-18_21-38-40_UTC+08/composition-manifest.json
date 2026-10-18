@@ -1,0 +1,116 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none: pasted 1:1 at84,145",
+  "frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_resampling": "Lanczos enlargement to1190x1786; newly generated raster, not vector or true higher-resolution",
+  "text": "SVG rasterized directly1190x1786, independent name and level fields",
+  "values": "All UI values and counts are examples, not final progression mechanics",
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "c9e643ba087a1ff165880ec6b53158db957aa0372a6f1f452d1be35d200bcb27",
+      "uncovered_native_pixels_checked": 1252024,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "荀彧",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "清筹",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "01-黑铁-新框完整UI候选1190.png"
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-青铜-三城固本-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "6a63a0b037f858bda4d01b777c14acfd2e1dfcaba97776d64cfd928c809decd0",
+      "uncovered_native_pixels_checked": 1232786,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "荀彧",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "清筹",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "02-青铜-新框完整UI候选1190.png"
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-白银-奉汉立制-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "d91b0cac68f78fa84d0090f20a5ff89a19ad48405de34f0e6555ac4666e7700f",
+      "uncovered_native_pixels_checked": 1235846,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "荀彧",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "清筹",
+            "level": "+2"
+          },
+          {
+            "name": "续策",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "03-白银-新框完整UI候选1190.png"
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-黄金-官渡后援-候选1.png",
+      "source_status": "candidate_pending_complete_QA",
+      "source_sha256": "442108ae1b994bed94437b790605943d58b25797ddcdf236a7760c4b71ebd973",
+      "uncovered_native_pixels_checked": 1198322,
+      "changed_native_pixels": 0,
+      "fields": {
+        "country": "魏",
+        "title": "荀彧",
+        "level": "1",
+        "advancement": "",
+        "skills": [
+          {
+            "name": "清筹",
+            "level": "+2"
+          },
+          {
+            "name": "续策",
+            "level": "+2"
+          },
+          {
+            "name": "广援",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed技能拟名；等级和1/1/2/3槽数仅UI示意，未获用户定案"
+      },
+      "output": "04-黄金-新框完整UI候选1190.png"
+    }
+  }
+}

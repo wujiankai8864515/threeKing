@@ -1,0 +1,14 @@
+{
+  "reviewed_full_image": true,
+  "reviewed_native_crops": [
+    "face",
+    "both hands",
+    "weapon mechanics",
+    "cloth"
+  ],
+  "identity": "same facial identity and silhouette remain readable",
+  "hands_weapons": "No obvious digit or wrist failure found; bow release/arrow or command baton coherent at native crop",
+  "cloth": "Visible brown inherited crackle/mottling remains, not approved clean broad-cloth result; no claim of completely clean texture",
+  "frame_risk": "Lejin lower-right badger face and upper bow edge; Yujin upper-left rhino head need actual external frame check",
+  "status": "candidate_pending_independent_review"
+}

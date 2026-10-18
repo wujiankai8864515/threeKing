@@ -1,0 +1,384 @@
+{
+  "hero_id": "xunyu",
+  "name": "荀彧",
+  "faction": "wei",
+  "core_personality": "先立根本，保持军政运转；助人成局，但不因此失去自己的原则。",
+  "myth_symbol_proposal": {
+    "name": "玉衡玄鹿",
+    "origin": "原创象征，玄鹿并非原著配兽；玉衡只作平衡与秩序意象，不赋天文史实",
+    "reason": "洁净角枝像有序分支，书卷与补给路同构，区别诸葛亮星雷与刘备黄龙治疗。",
+    "growth": "角枝细影→肩后小鹿→与粮册相连的全鹿→大鹿守住后方城门"
+  },
+  "differentiation": "魏方的稳定补能支援。象牙白、深紫衣袍和整洁文书；只向一人补充能量，不变群体大治疗或郭嘉风险触发。",
+  "identity": {
+    "face": "原创：清瘦长椭圆脸、平直眉、温和而坚定的眼，整齐短须；不照搬任何三国杀立绘。",
+    "hair": "整齐束髻与简冠，鬓发平顺，后期略添霜色但不突然老化。",
+    "body": "中高修长、肩背直，非病弱摇晃型。",
+    "clothes": "象牙白与深紫主色、灰黑履；早期素衣，中阶礼冠与宽袖层次，高阶更整洁而非变战甲。蓝限小绶带。",
+    "weapons_fact": "所选核心事件以议策、守城、书信为主，未提供专属神兵依据。",
+    "weapons_design": "主道具为简册、书札、笔与军政印；普通佩剑仅防身可省，不画羽扇雷杖。",
+    "mount_fact": "本线不要求专属坐骑。",
+    "mount_design": "城门与书案多徒步；有出行才用普通温顺栗马。",
+    "reference_version": "WEI-XY-identity-text-v1，待身份样。"
+  },
+  "modern_game_reference": {
+    "version": "三国杀OL2016火包荀彧攻略",
+    "url": "https://www.sanguosha.com/news/20161026_1315_1511",
+    "verified": "节命偏高效补牌，驱虎涉及拼点与借势。",
+    "use": "本项目主选稳态资源调配，与贾诩/貂蝉借敌互伤分开；不把驱虎直搬到本技能。"
+  },
+  "event_candidates": [
+    {
+      "event_id": "a",
+      "chapter": 10,
+      "chronology_key": "010-a",
+      "title": "弃袁投曹荐才",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "与荀攸同投，被比为子房；荐程昱，并经程昱提醒举郭嘉。",
+      "selection": "card1",
+      "selection_reason": "识人与择主起点。",
+      "misreading_to_avoid": "不把荀攸当无名侍童；推荐链不全归荀彧独自想出。"
+    },
+    {
+      "event_id": "b",
+      "chapter": 11,
+      "chronology_key": "011-b",
+      "title": "保全三城",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "与程昱设法守住鄄城、东阿、范县，其余多失。",
+      "selection": "card2+bio1",
+      "selection_reason": "显示根本仍在的组织价值。",
+      "misreading_to_avoid": "本章概述保三城，具体调粮/登城动作是合理原创镜头，不冒称原文详记。"
+    },
+    {
+      "event_id": "c",
+      "chapter": 12,
+      "chronology_key": "012-c",
+      "title": "深根固本劝复兖州",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第012回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "劝曹操勿舍兖州攻徐州，建议先解决立足与粮食。",
+      "selection": "alternate",
+      "selection_reason": "核心人格很好，作为青铜解释和备用，避免两阶都站同一兖州城。",
+      "misreading_to_avoid": ""
+    },
+    {
+      "event_id": "d",
+      "chapter": 14,
+      "chronology_key": "014-d",
+      "title": "迎奉天子",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "建议奉天子以从众望；后为侍中尚书令。",
+      "selection": "card3+bio2",
+      "selection_reason": "军政规模上升，银卡体现制度与组织。",
+      "misreading_to_avoid": "迎驾多人参与，董昭有迁许策，不全归荀彧。"
+    },
+    {
+      "event_id": "e",
+      "chapter": 30,
+      "chronology_key": "030-e",
+      "title": "书定官渡之疑",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "source_class": "novel_text_verified",
+      "verified_on": "2026-10-18",
+      "evidence": "曹操粮乏欲退，荀彧来书劝守待变；后又接催粮要求。",
+      "selection": "card4+bio3",
+      "selection_reason": "用后方判断稳住前线，黄金成熟非武力化。",
+      "misreading_to_avoid": "不可把徐晃焚粮或许攸乌巢计归荀彧。"
+    },
+    {
+      "event_id": "f",
+      "chapter": 61,
+      "chronology_key": "061-f",
+      "title": "晚年政治分歧与结局",
+      "source_url": "https://zh.wikisource.org/zh/三國演義/第061回",
+      "source_class": "candidate_unverified_not_for_production",
+      "verified_on": null,
+      "evidence": "此段仅列后续待核的人物边界。",
+      "selection": "rejected_unverified_detail",
+      "selection_reason": "未逐段核验，不作本轮可生产场景；黄金截取官渡，不把死亡自动写成升华。",
+      "misreading_to_avoid": ""
+    }
+  ],
+  "cards": [
+    {
+      "stage": 1,
+      "event_id": "a",
+      "title": "颍川入幕",
+      "camera": "正面稍侧半身，目光朝听者",
+      "action": "捧简与曹操论才，桌面简洁",
+      "environment": "兖州普通军帐、卷起竹帘",
+      "myth_growth": "角枝小影落在布帘，不发光粉",
+      "structure_check": "宽袖下双手各有清楚腕位，简册重量由掌托住",
+      "must_retain": "清瘦同脸、端整素衣",
+      "must_not_inherit": "无诸葛羽扇、星斗法阵",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_card_1",
+      "asset_type": "card",
+      "tier": "黑铁",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第010回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 2,
+      "event_id": "b",
+      "title": "三城固本",
+      "camera": "城门里向外看，中全身偏右",
+      "action": "站在门内接续文书与粮车放行次序，程昱在后侧",
+      "environment": "未破城门、避难人群与守卒有序，敌烟远景",
+      "myth_growth": "玄鹿半身站在门影内，角枝护住门楣",
+      "structure_check": "人车有通道，文书不穿袖，城门比例真实",
+      "must_retain": "组织秩序与坚定目光",
+      "must_not_inherit": "不画荀彧一人击退吕布，非满城光罩",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_card_2",
+      "asset_type": "card",
+      "tier": "青铜",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 3,
+      "event_id": "d",
+      "title": "奉汉立制",
+      "camera": "略高侧面中景，冠服轮廓干净",
+      "action": "立在简朴殿阶旁持笏，转身向待命文吏交代",
+      "environment": "初修宫室的木架与砖台，汉廷礼制场景",
+      "myth_growth": "完整玄鹿沿阶影显形，角不过分刺状",
+      "structure_check": "笏由掌指托持，不当剑；阶上落脚清晰",
+      "must_retain": "象牙白深紫，官服进阶",
+      "must_not_inherit": "不画曹操皇帝冠；魏徽只独立UI",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_card_3",
+      "asset_type": "card",
+      "tier": "白银",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    },
+    {
+      "stage": 4,
+      "event_id": "e",
+      "title": "官渡后援",
+      "camera": "书案侧后看清正脸，半身近景",
+      "action": "落笔封住给曹操的回书，另一手按住简册",
+      "environment": "许都灯下，粮册与出发使者在门外深景",
+      "myth_growth": "巨鹿在窗外城门方向显形，角枝像有序道路",
+      "structure_check": "笔尖确实接纸；另一手压卷不遮文本；纸字不烧图",
+      "must_retain": "成熟但平和、笔与书信焦点",
+      "must_not_inherit": "不把他放在乌巢火场、不做法师发射治疗光",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_card_4",
+      "asset_type": "card",
+      "tier": "黄金",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著事件上的原创神话构图与服装提案"
+    }
+  ],
+  "biographies": [
+    {
+      "target_stage": 2,
+      "event_id": "b",
+      "title": "只留三城不失",
+      "camera": "横幅城门议事，荀彧前景，程昱侧前",
+      "action": "两人对着城防/粮册安排接应，门外难民入城；具体调度为原创",
+      "target_connection": "青铜城门守成的合作背景，明确与程昱共同维持",
+      "first_person_line_original": "只要根本还在，就有再来的余地。这三处，不能再失。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "城池示意无字；不三座城缩成漂浮模型",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_bio_1",
+      "asset_type": "biography",
+      "target_card_id": "xunyu_card_2",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第011回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 3,
+      "event_id": "d",
+      "title": "奉迎之议",
+      "camera": "横幅曹营，荀彧立言，曹操听，其他谋士稍远",
+      "action": "以当前汉廷困局提出迎奉天子的方向，案上使者书",
+      "target_connection": "银卡的任职/制度舞台由这条主张导入",
+      "first_person_line_original": "天下还在望着朝廷。此时迎奉天子，才有可共守的名义。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "人物手势不要全指天；汉帝不被画成成人武将",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_bio_2",
+      "asset_type": "biography",
+      "target_card_id": "xunyu_card_3",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第014回",
+      "design_class": "原著关系与转折上的原创镜头"
+    },
+    {
+      "target_stage": 4,
+      "event_id": "e",
+      "title": "一封不退的信",
+      "camera": "横幅许都案边，疲惫信使立旁",
+      "action": "荀彧读来书后写回，粮册旁预备出发人员；前线只由信函交代",
+      "target_connection": "同回同一封书，卡面是完成书信的个人状态",
+      "first_person_line_original": "此刻若退，便把转机让给了对手。请再守住这一阵。",
+      "line_status": "原创假设性过场短词，不是原著引文或人物历史原话",
+      "structure_check": "信使与书案高度自然，纸简卷轴不可互熔",
+      "actual_reference_files": [],
+      "status": "text_brief_ready_identity_sample_pending",
+      "asset_id": "xunyu_bio_3",
+      "asset_type": "biography",
+      "target_card_id": "xunyu_card_4",
+      "event_source_url": "https://zh.wikisource.org/zh/三國演義/第030回",
+      "design_class": "原著关系与转折上的原创镜头"
+    }
+  ],
+  "gameplay": {
+    "core_loop": "为选定一名友军补充能量；默认优先能量缺口大的友军，目标明确。",
+    "active": {
+      "skill_id": "xunyu_a1",
+      "name": "持衡济军",
+      "type": "active",
+      "stages": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "core_effect": "为选定一名友军补充能量；默认优先能量缺口大的友军，目标明确。",
+      "extra_effect": "一至四星不附加群疗或借刀互伤；只改善补给效率与可及范围。",
+      "trigger": "玩家指令或简明自动策略；两者由战斗系统定稿",
+      "target": "见核心循环",
+      "duration_or_cooldown": "待定，不预填伪精确数值",
+      "basis": "攻击/防御/资源轴依角色定义；不默认真伤、秒杀或无敌",
+      "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+      "growth": "1星可用核心，2星稳定幅度，3星最多加入所列单一辅助，4星扩大该能力熟练度；不新增职业",
+      "status": "original_proposal_not_final"
+    },
+    "passives": [
+      {
+        "skill_id": "xunyu_p1",
+        "name": "济用",
+        "type": "passive",
+        "unlocked_at": 1,
+        "core_effect": "主动补充的能量量提高",
+        "trigger": "主动命中友军",
+        "target": "该友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xunyu_p2",
+        "name": "节用",
+        "type": "passive",
+        "unlocked_at": 2,
+        "core_effect": "主动冷却缩短",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xunyu_p3",
+        "name": "广援",
+        "type": "passive",
+        "unlocked_at": 3,
+        "core_effect": "主动施放距离提高",
+        "trigger": "选择目标时",
+        "target": "友军",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      },
+      {
+        "skill_id": "xunyu_p4",
+        "name": "固本",
+        "type": "passive",
+        "unlocked_at": 4,
+        "core_effect": "自身最大生命提高",
+        "trigger": "常驻",
+        "target": "自身",
+        "duration_or_cooldown": "见触发；时长/上限/系数待平衡",
+        "basis": "仅该效果对应的基础属性或状态，不推定真实伤害",
+        "visual": "鹿角分支化为一条低亮能量线到单一友军，结算后收回，不连全队。",
+        "growth": "随进阶提高该单一效果的幅度；不附加无关效果",
+        "status": "original_proposal_not_final"
+      }
+    ],
+    "stages": [
+      {
+        "star": 1,
+        "passive_ids": [
+          "xunyu_p1"
+        ],
+        "count": 1
+      },
+      {
+        "star": 2,
+        "passive_ids": [
+          "xunyu_p1",
+          "xunyu_p2"
+        ],
+        "count": 2
+      },
+      {
+        "star": 3,
+        "passive_ids": [
+          "xunyu_p1",
+          "xunyu_p2",
+          "xunyu_p3"
+        ],
+        "count": 3
+      },
+      {
+        "star": 4,
+        "passive_ids": [
+          "xunyu_p1",
+          "xunyu_p2",
+          "xunyu_p3",
+          "xunyu_p4"
+        ],
+        "count": 4
+      }
+    ],
+    "not_final": [
+      "技能拟名",
+      "机制",
+      "星级被动条数方案",
+      "持续/冷却/倍率",
+      "控制与首领豁免"
+    ]
+  },
+  "status": "source_research_ready",
+  "production_status": "not_generated_not_approved",
+  "research_readiness": {
+    "selected_scenes_verified": true,
+    "selected_scenes_count": 7,
+    "identity_sample_required": true,
+    "can_start_identity_sample": true,
+    "can_mass_generate_without_reference": false,
+    "user_final_approval": false
+  },
+  "reference_attachment_requirements": {
+    "identity": "需生成并实际附同一脸体身份样，四卡三传记统一",
+    "weapon": "需附本英雄已核武器类别和可行持握动作参照",
+    "story": "实际附对应空间参考或已批准构图；不能继承参考金粉/错杆",
+    "style": "原创神话材质样，检查皮肤/布/金属/木/土/马毛分组"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-face-local_2026-10-18_21-20-36_UTC+08/张郃-黑铁-战将骨相局修-候选1.png",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "sha256": "f3c9349c19f2279564ef09bd1198c40df0b31b89436dad2282705d5d7256e81b",
+  "mode": "RGB",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-069ca31c-252f-44f4-b012-c4acfbdc1f8b.png",
+  "actual_references": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhanghe-set/blackiron-first_2026-10-18_21-12-33_UTC+08/张郃-黑铁-河北枪锋-身份候选1.png",
+      "role": "edit target; only face bone structure/skin warmth and shorter chin beard authorized",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "f62d799c1ab45f60eb7f11cc38d324f8524f2902ea2f3964d908a6f162926653",
+      "personally_viewed": true
+    }
+  ],
+  "method": "builtin_image_gen",
+  "rescale_retouch": "none; native copy",
+  "status": "root_and_independent_identity_candidate_pass_expansion_authorized",
+  "user_final": false,
+  "creator_review": "Full plus native before/after face, whole shaft/both grips, horse head and boot/stirrup personally compared. Nose longer/subtly hooked, cheek shadow stronger and skin warmer; hand/shaft/anatomy unchanged in layout. Nonlocal resampling noticeably softened horse coat/boot microtexture; not pixel-identical outside face.",
+  "root_note": "Root accepts as production candidate, resemblance to Xun Yu thin-face template remains and user final approval not implied. No further micro-edit. Future images reference this Zhang He face, not Xun Yu.",
+  "independent_review": "Face nose/cheek/skin changes modest, still familial-template resemblance to Xun. Full/native shaft/grips/horse structure maintained. Root accepted with resemblance note, no more microedit."
+}

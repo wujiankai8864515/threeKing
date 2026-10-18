@@ -1,0 +1,150 @@
+{
+  "updated_at": "2026-10-18T21:30:45.457383+08:00",
+  "candidates": [
+    {
+      "path": "rebuild_clean_20261018_181840_UTC+08/千里护行-源重绘验证.png",
+      "sha256": "36a66a63f4fe5bbbc473b1aa1c5cf2a49f51c8cb51989d3a5783718d42eacfcf",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "rejected_style_foreground_and_shaft"
+    },
+    {
+      "path": "rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘验证2.png",
+      "sha256": "c66ebfc2abbdd93c4cffc033acd2c32d44a82b8ca99925b852dc5046a7819408",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "material_direction_usable_full_image_failed_shaft_axis"
+    },
+    {
+      "path": "rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "passed_visible_structure_material_direction"
+    },
+    {
+      "path": "rebuild_bronze_silver_mythic_20261018_183038_UTC+08/白银-神话材质源重生空匾-候选1.png",
+      "sha256": "b1007cad844dcd387b423bb52665004a76a145ef77e2814938b6d84827dfd117",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "passed_pending_user_style_acceptance"
+    },
+    {
+      "path": "rebuild_bronze_silver_mythic_20261018_183038_UTC+08/青铜-神话材质源重生-候选1.png",
+      "sha256": "26ffb52f2db46e2405bc9b1f3bc51720c2f5ed1c6bace338715959e360a334a9",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "needs_local_mud_surface_revision"
+    },
+    {
+      "path": "rebuild_gold_black_20261018_183154_UTC+08/gold-mythic-source-rebuild-20261018_183333.png",
+      "sha256": "13e44cbe3c00e4e09f2bbdbf51380077127c4afa4eea5007b6a83fc189486dc2",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "material_failed_tail_horse_and_cloak_specks"
+    },
+    {
+      "path": "rebuild_gold_black_20261018_183154_UTC+08/blackiron-mythic-source-rebuild-20261018_183717.png",
+      "sha256": "44fd1dc0040de691a94290944675a9d5720e6cf0c23856d1523740d632383f06",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "material_failed_scattered_cloth_wood_marks"
+    },
+    {
+      "path": "rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "passed_with_sparse_bark_edge_light_style_risk"
+    },
+    {
+      "path": "rebuild_peach_wine_20261018_183105_UTC+08/温酒请战-v11-神话拖刀源重绘候选.png",
+      "sha256": "7c04e779684a4934a3f91ede6738c01755d0c120f31e2ffc1aa434833c2fded3",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "failed_weapon_pose_and_foreground"
+    },
+    {
+      "path": "bronze_mud_local_20261018_183931_UTC+08/青铜-下半泥腿局修-候选1.png",
+      "sha256": "caff52febb52f25a75fc8f7153f4158103ba379ad79c54b946b9c4e55fb363b9",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "passed_local_material_fix"
+    },
+    {
+      "path": "rebuild_wine_retry_20261018_183817_UTC+08/温酒请战-v12-中段握持后拖源重绘候选.png",
+      "sha256": "436a2bfc35a48b1f728394aeaa9f18e04e8b9168d88fe70eef2889a322895ae1",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "tail_endpoint_merge_requires_clear_cap"
+    },
+    {
+      "path": "targeted_material_fix_20261018_184220_UTC+08/gold-local-material-20261018_184220.png",
+      "sha256": "5fcefc615035dee79634f9adc78131a60058cf1f8293f52ab0aa649541b42c49",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "remaining_pinpoint_glints_in_upper_right_tail_bundle"
+    },
+    {
+      "path": "targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "passed_material_and_structure"
+    },
+    {
+      "path": "wine_tailfix_20261018_184456_UTC+08/温酒请战-v13-尾帽局修候选.png",
+      "sha256": "af6d385e955bb2e4549b23e47d1aaaca66531a8cef066bffbccbc1bb62fb3d95",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "status": "passed_independent_tail_cap_and_axis"
+    },
+    {
+      "path": "targeted_material_fix_20261018_184220_UTC+08/gold-tail-reflection-local-20261018_184748.png",
+      "sha256": "9929959f4a2965184aa10e16b833ea63b2ed75d84a1802c900fe02f4e3002fd5",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "specific_tail_pinpoint_removal_not_achieved"
+    },
+    {
+      "path": "gold-tail-redesign_2026-10-18_20-57-24_UTC+08/关羽-黄金-深赤棕哑光马尾-轮廓重绘候选1-2026-10-18_20-57-24_UTC+08.png",
+      "sha256": "6331bcc901a9adba6324b02d7a5d38dc4b65cc361820ff1e1e510c335f64e920",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "status": "passed_tail_redesign_candidate",
+      "note": "Full image and native before/after tail, face/hands, weapon axis, horse and dragon reviewed 21:02 UTC+08. Old isolated white/yellow strand dots removed. Native resolution unchanged; not pixel-frozen."
+    }
+  ]
+}

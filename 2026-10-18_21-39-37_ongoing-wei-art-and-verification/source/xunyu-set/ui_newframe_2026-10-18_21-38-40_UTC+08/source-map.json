@@ -1,0 +1,18 @@
+{
+  "blackiron": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/blackiron-first_2026-10-18_21-12-30_UTC+08/荀彧-黑铁-颍川入幕-身份候选1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "bronze": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/bronze-pair_2026-10-18_21-27-10_UTC+08/荀彧-青铜-三城固本-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "silver": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/silver-pair_2026-10-18_21-31-25_UTC+08/荀彧-白银-奉汉立制-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  },
+  "gold": {
+    "path": "/workspace/scratch/3f82ff2b3f81/xunyu-set/gold-pair_2026-10-18_21-35-05_UTC+08/荀彧-黄金-官渡后援-候选1.png",
+    "status": "candidate_pending_complete_QA"
+  }
+}
