@@ -1,0 +1,20 @@
+{
+  "complete_images": 7,
+  "independently_reviewed": 7,
+  "native_portraits": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "UI_canvas": [
+    1190,
+    1786
+  ],
+  "approved_by_user": false,
+  "backup_owner": "root",
+  "library_upload": "8/8 succeeded",
+  "overview_library_file_id": "libfile_e8b1e951797c8191aa5acfffda2d1e39"
+}

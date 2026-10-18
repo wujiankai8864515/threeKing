@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "8ca0554e3cf793c05be7af3e105201ec5014700c",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 5793,
+  "sequential_copy_sha256_checked": true,
+  "hero": "pangtong"
+}

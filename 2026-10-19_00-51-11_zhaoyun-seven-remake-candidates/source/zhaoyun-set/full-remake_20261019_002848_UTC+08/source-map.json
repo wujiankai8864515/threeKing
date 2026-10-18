@@ -1,0 +1,128 @@
+{
+  "generation_backend": "built-in image_gen",
+  "original_generations": [
+    {
+      "name": "card01-iron",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-863a60a5-6b3a-499c-b06e-478c2e7fe6ab.png"
+    },
+    {
+      "name": "card02-bronze",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a792aa59-9866-4665-ab99-1147dd2ba278.png"
+    },
+    {
+      "name": "card03-silver",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6cdfe175-2c0f-47f3-a79d-8f705ca10ff9.png"
+    },
+    {
+      "name": "card04-gold",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-bd8e06c3-4ed8-4bb3-9f0d-cbbb906f2fa3.png"
+    },
+    {
+      "name": "bio01-woniu",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-da871c40-a1a9-447e-9612-17ee5c9d8a73.png"
+    },
+    {
+      "name": "bio02-changban",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-64f6ec24-e61f-4078-bd96-f7967053cb94.png"
+    },
+    {
+      "name": "bio03-hanshui",
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1298ba00-4d94-4ec6-8338-7a50613f2938.png"
+    }
+  ],
+  "reference_roles": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/blackiron-material-style_2026-10-18_19-31-19_UTC+08/赵云-黑铁-宽面材质净衣-局修候选1.png",
+      "role": "Zhao face identity only, not old-output reuse"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "role": "broad-plane matte style only"
+    }
+  ],
+  "outputs": [
+    {
+      "asset": "card01-iron",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card01-iron.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "63264b92f6bb30c6933448bd6a7e1d514b14cc9fb353b2daa8c2c91550a8ee17",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "card02-bronze-final",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card02-bronze-final.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "714cad4799b9b9273cad690bb49eb768e13f11f0c348848a0e6db3ca5391aadf",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "card03-silver",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card03-silver.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "e7e8fce244ce5f3f941073d773bc843043ae636ced88ce56ee5c3ec2b0edc33e",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "card04-gold-final",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card04-gold-final.png",
+      "native_dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "cd578e8d64532575c9ef51390268aeb6a7aad73747bf441b406d414836ff18d4",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "bio01-woniu",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio01-woniu.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "f5609f496a91202ebd4fb695a7052e264daf326cea42ea92a872ee326fbb39ee",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "bio02-changban",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio02-changban.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c730793153e5c661800745edfd6eeae94de85232d9956cb1af449663b2b84333",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    },
+    {
+      "asset": "bio03-hanshui-final",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio03-hanshui-final.png",
+      "native_dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "8e4fc66469b810d6ae7a23eca504401f043a3398c003a8436b626b2cef6d7499",
+      "newly_generated": true,
+      "status": "candidate_awaiting_user_review"
+    }
+  ],
+  "final_card_sources": [
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card01-iron.png",
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card02-bronze-final-safe.png",
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card03-silver-safe.png",
+    "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card04-gold-final-safe.png"
+  ]
+}

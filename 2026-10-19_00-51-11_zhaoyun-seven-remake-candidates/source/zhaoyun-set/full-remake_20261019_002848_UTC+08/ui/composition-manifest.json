@@ -1,0 +1,559 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "title remains current user-facing 赵云; all other example fields unchanged",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "replacement_source_status": {
+    "bronze": "new generated illustration candidate",
+    "silver": "new generated illustration candidate",
+    "gold": "new generated illustration candidate"
+  },
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card01-iron.png",
+      "source_sha256": "63264b92f6bb30c6933448bd6a7e1d514b14cc9fb353b2daa8c2c91550a8ee17",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "一",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "回护",
+            "ink_bbox": [
+              912,
+              1292,
+              995,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1007,
+              1298,
+              1049,
+              1328
+            ],
+            "ink_center": [
+              1028.0,
+              1313.0
+            ],
+            "target_center": [
+              1028.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "一",
+        "ink_bbox": [
+          138,
+          1603,
+          224,
+          1617
+        ],
+        "ink_center": [
+          181.0,
+          1610.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "all artwork newly generated; no old illustration reused",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card02-bronze-final-safe.png",
+      "source_sha256": "475486eef697ec9eb1e0a6d6faad291419e0beab6ce5c8d0d869f7f3e6c5c1d8",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "二",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+1"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "回护",
+            "ink_bbox": [
+              912,
+              1292,
+              995,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1007,
+              1298,
+              1049,
+              1328
+            ],
+            "ink_center": [
+              1028.0,
+              1313.0
+            ],
+            "target_center": [
+              1028.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "二",
+        "ink_bbox": [
+          138,
+          1577,
+          223,
+          1641
+        ],
+        "ink_center": [
+          180.5,
+          1609.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "all artwork newly generated; no old illustration reused",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card03-silver-safe.png",
+      "source_sha256": "599a9360e400f3f45a45598cdf879f8dca90b1b997fb0cecf2669eb70bb99010",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "三",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+2"
+          },
+          {
+            "name": "返锋",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "回护",
+            "ink_bbox": [
+              912,
+              1194,
+              995,
+              1236
+            ],
+            "ink_center": [
+              953.5,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1007,
+              1200,
+              1050,
+              1231
+            ],
+            "ink_center": [
+              1028.5,
+              1215.5
+            ],
+            "target_center": [
+              1028.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "返锋",
+            "ink_bbox": [
+              910,
+              1292,
+              997,
+              1334
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1009,
+              1297,
+              1052,
+              1328
+            ],
+            "ink_center": [
+              1030.5,
+              1312.5
+            ],
+            "target_center": [
+              1030.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.25651041666674246
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "三",
+        "ink_bbox": [
+          137,
+          1572,
+          223,
+          1647
+        ],
+        "ink_center": [
+          180.0,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.341796875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "all artwork newly generated; no old illustration reused",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/card04-gold-final-safe.png",
+      "source_sha256": "610c5adef160a74d6d0d841616fc72e819c91917e2530f565fe4f47983f938d6",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "赵云",
+        "level": "1",
+        "advancement": "四",
+        "skills": [
+          {
+            "name": "回护",
+            "level": "+2"
+          },
+          {
+            "name": "返锋",
+            "level": "+2"
+          },
+          {
+            "name": "龙胆",
+            "level": "+2"
+          }
+        ],
+        "status": "proposed UI examples; 回护返锋研究提案，龙胆第三槽展示拟名未定案，不声称正式技能"
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "回护",
+            "ink_bbox": [
+              912,
+              1096,
+              995,
+              1138
+            ],
+            "ink_center": [
+              953.5,
+              1117.0
+            ],
+            "target_center": [
+              953.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1007,
+              1102,
+              1050,
+              1133
+            ],
+            "ink_center": [
+              1028.5,
+              1117.5
+            ],
+            "target_center": [
+              1028.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "返锋",
+            "ink_bbox": [
+              910,
+              1194,
+              997,
+              1236
+            ],
+            "ink_center": [
+              953.5,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.1796875
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1009,
+              1200,
+              1052,
+              1231
+            ],
+            "ink_center": [
+              1030.5,
+              1215.5
+            ],
+            "target_center": [
+              1030.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "龙胆",
+            "ink_bbox": [
+              910,
+              1292,
+              996,
+              1334
+            ],
+            "ink_center": [
+              953.0,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1297,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1029.5,
+              1312.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "四",
+        "ink_bbox": [
+          141,
+          1568,
+          219,
+          1650
+        ],
+        "ink_center": [
+          180.0,
+          1609.0
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "all artwork newly generated; no old illustration reused",
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-UI排版修复1190(4).png",
+      "file_id": "file_00000000405c81f48851a4fcaa597adb",
+      "library_file_id": "libfile_dc9c962e497081919a9155dc7189aca2",
+      "file_name": "01-黑铁-UI排版修复1190(4).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3628138
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-UI排版修复1190(4).png",
+      "file_id": "file_00000000456081fda3ef91e74581d8f2",
+      "library_file_id": "libfile_2a90f1a078808191ab51c6eb1d151be2",
+      "file_name": "02-青铜-UI排版修复1190(4).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3633745
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-UI排版修复1190(5).png",
+      "file_id": "file_00000000a85c81fdb00931628dedccdd",
+      "library_file_id": "libfile_cdcaaded08f8819181c7d652701a5562",
+      "file_name": "03-白银-UI排版修复1190(5).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3677788
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-UI排版修复1190(5).png",
+      "file_id": "file_000000001d8482308ac83104b27db7ce",
+      "library_file_id": "libfile_90425331a4f0819199b8e9c2cfb8223b",
+      "file_name": "04-黄金-UI排版修复1190(5).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3762123
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio01-woniu.png",
+      "file_id": "file_00000000c77081fdba9f54e546c947fd",
+      "library_file_id": "libfile_ecd46d4dfe5481918518d77f0ab09fc2",
+      "file_name": "bio01-woniu.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2616685
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio02-changban.png",
+      "file_id": "file_0000000089cc81f5a3fd92d6624846d0",
+      "library_file_id": "libfile_6fa721aeeb688191ace3f76d8336c8b2",
+      "file_name": "bio02-changban.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3046821
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio03-hanshui-final.png",
+      "file_id": "file_00000000af8881f5b3dfc975829dd0dc",
+      "library_file_id": "libfile_0fb00472ff088191bd43257da3bae5f9",
+      "file_name": "bio03-hanshui-final.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3001357
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/赵云-四阶三传记-全新重制总览.png",
+      "file_id": "file_00000000a60881f4936f6a173142940c",
+      "library_file_id": "libfile_e8b1e951797c8191aa5acfffda2d1e39",
+      "file_name": "赵云-四阶三传记-全新重制总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4639111
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

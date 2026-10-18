@@ -1,0 +1,77 @@
+{
+  "status": "complete_candidates_awaiting_user_review",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "2173053184ce003a97d505d31d1b8f635f6b6f1909ded2b7943fca292c5e7826",
+      "library_file_id": "libfile_dc9c962e497081919a9155dc7189aca2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "92bae723933ed9cb9e864c2ef86318e16449d58dbde7a6ffe0596a03b892ea8b",
+      "library_file_id": "libfile_2a90f1a078808191ab51c6eb1d151be2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "883629b7f1fb5598ef9b4995f2443dba44380f99acd8607473c79404eeac95fd",
+      "library_file_id": "libfile_cdcaaded08f8819181c7d652701a5562"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "0a005a6d826334ef873ee84122a6542fc9b3d42e3750264e1384a6368d9670b4",
+      "library_file_id": "libfile_90425331a4f0819199b8e9c2cfb8223b"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio01-woniu.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "f5609f496a91202ebd4fb695a7052e264daf326cea42ea92a872ee326fbb39ee",
+      "library_file_id": "libfile_ecd46d4dfe5481918518d77f0ab09fc2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio02-changban.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c730793153e5c661800745edfd6eeae94de85232d9956cb1af449663b2b84333",
+      "library_file_id": "libfile_6fa721aeeb688191ace3f76d8336c8b2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/raw/bio03-hanshui-final.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "8e4fc66469b810d6ae7a23eca504401f043a3398c003a8436b626b2cef6d7499",
+      "library_file_id": "libfile_0fb00472ff088191bd43257da3bae5f9"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zhaoyun-set/full-remake_20261019_002848_UTC+08/赵云-四阶三传记-全新重制总览.png",
+      "dimensions": [
+        2048,
+        1320
+      ],
+      "sha256": "015f5aca65e9fa0b208ea919081e250995edbe340b3a3ec77e204c4b232f989c",
+      "library_file_id": "libfile_e8b1e951797c8191aa5acfffda2d1e39"
+    }
+  ]
+}
