@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-18T19:51:31+08:00",
+  "repository": "https://github.com/wujiankai8864515/threeKing",
+  "commit": "e78e2c4be5aed1be5f86e5201fc6c7011c231d0a",
+  "remote_head_matches": true,
+  "independent_checkout_matches": true,
+  "git_lfs_fsck": "OK",
+  "resolved_paths_sha256_verified": 1884,
+  "sequential_restore_copy_checked": true,
+  "scope": "Assets and project documentation through the 19:34:21 batch; later production remains pending the next incremental backup."
+}
