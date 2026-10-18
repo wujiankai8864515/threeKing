@@ -1,0 +1,1 @@
+Current large-hero revision candidate uploaded: four cards plus overview. Three biographies retained byte-for-byte and reuse previous Library IDs. Prior small-hero version superseded, not deleted. Awaiting root/user review.

@@ -1,0 +1,17 @@
+{
+  "card01": {
+    "first": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-95c7d877-66d0-442d-88d4-3488ea15f43f.png"
+  },
+  "card02": {
+    "first": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-077c36f3-081f-44d4-a2ad-8d069b4dff09.png"
+  },
+  "card03": {
+    "first": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1f13216c-4b66-4425-9bf5-aa893c7c75d1.png",
+    "final": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-11135abb-508a-48fc-a721-d0bff1aa4383.png"
+  },
+  "card04": {
+    "first": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1cff4eee-9017-48d1-b7e3-0d19634c7b67.png",
+    "repair1": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-86f28222-c80c-4896-b1e4-7bcd5af5e38e.png",
+    "final": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4818d7bd-767e-4cd1-8a7d-5fb777251efc.png"
+  }
+}

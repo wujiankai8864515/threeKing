@@ -1,0 +1,167 @@
+[
+  {
+    "operation": "replace_library_file",
+    "status": "succeeded",
+    "path": "/card01-iron-乐进.png",
+    "file_id": "file_000000006d8c81fd9469562cbe74ad06",
+    "library_file_id": "libfile_bc93e936ecdc81919f920027bbb90c96",
+    "file_name": "card01-iron-乐进.png",
+    "current_version_number": 1,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "1"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3451977,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "replace_library_file",
+    "status": "succeeded",
+    "path": "/card02-bronze-乐进.png",
+    "file_id": "file_00000000aa2481f5ba0c2950d8cad1e2",
+    "library_file_id": "libfile_1bc2235af374819196006fadfb812f2b",
+    "file_name": "card02-bronze-乐进.png",
+    "current_version_number": 1,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "1"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3826461,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "replace_library_file",
+    "status": "succeeded",
+    "path": "/card03-silver-乐进.png",
+    "file_id": "file_00000000e0d881f5946e280fa05e39d6",
+    "library_file_id": "libfile_e69538ef7814819194c669d8ef0b30f8",
+    "file_name": "card03-silver-乐进.png",
+    "current_version_number": 1,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "1"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3956510,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "replace_library_file",
+    "status": "succeeded",
+    "path": "/card04-gold-乐进.png",
+    "file_id": "file_0000000083fc81f8a7a0385474d90168",
+    "library_file_id": "libfile_9138e4588f688191b0b355cd32d07206",
+    "file_name": "card04-gold-乐进.png",
+    "current_version_number": 1,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "1"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3963923,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio01-伏兵齐起.png",
+    "file_id": "file_00000000eb2881fd9f00f650201ba9c9",
+    "library_file_id": "libfile_ae4ac221ebd08191a3daf722485fd2da",
+    "file_name": "bio01-伏兵齐起.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2758371
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio02-壕前追箭.png",
+    "file_id": "file_00000000041881fd94e1537d9c11f603",
+    "library_file_id": "libfile_11026ffc0f1c819189514545dc2846d2",
+    "file_name": "bio02-壕前追箭.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3089204
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/bio03-以退引敌.png",
+    "file_id": "file_00000000e8cc81fda7c7d6e1eaca3f94",
+    "library_file_id": "libfile_3f88fa17bacc8191ad32047f5bcdc061",
+    "file_name": "bio03-以退引敌.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3177071
+  },
+  {
+    "operation": "replace_library_file",
+    "status": "succeeded",
+    "path": "/乐进-七图总览.png",
+    "file_id": "file_00000000835c81f5ae5c44d8bd715ed3",
+    "library_file_id": "libfile_b4ffa77b42dc819181461df7c7f3055b",
+    "file_name": "乐进-七图总览.png",
+    "current_version_number": 1,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "1"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 4069348,
+    "external_connectors_accessed": false
+  }
+]

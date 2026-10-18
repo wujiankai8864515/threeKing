@@ -1,0 +1,166 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-黑铁-UI排版修复1190(5).png",
+      "file_id": "file_00000000492881f68237fa0117e114b5",
+      "library_file_id": "libfile_d1043481a4548191b7c38b4055e421c3",
+      "file_name": "01-黑铁-UI排版修复1190(5).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3524310
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-青铜-UI排版修复1190(5).png",
+      "file_id": "file_00000000b4d481f5bfd7f672538b7f76",
+      "library_file_id": "libfile_9afa5192b0088191b589bae282ffd475",
+      "file_name": "02-青铜-UI排版修复1190(5).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3416940
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-白银-UI排版修复1190(6).png",
+      "file_id": "file_00000000583c81fd95e0efd84fe2d788",
+      "library_file_id": "libfile_838140f8685481919231835395c7e124",
+      "file_name": "03-白银-UI排版修复1190(6).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3451392
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-黄金-UI排版修复1190(6).png",
+      "file_id": "file_00000000ecf881fd9cb80b2da50ea9bc",
+      "library_file_id": "libfile_e18605cb6fa48191a6d147c0d131eabf",
+      "file_name": "04-黄金-UI排版修复1190(6).png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3702231
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio01.png",
+      "file_id": "file_00000000b76081fdb7cf557e75000f85",
+      "library_file_id": "libfile_da8cc09a21e88191b36d04cbb719699a",
+      "file_name": "bio01.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2434675
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio02.png",
+      "file_id": "file_000000005d0c8230b863b3192ce43687",
+      "library_file_id": "libfile_6db65f6021e48191a9e6db3f6837fd9b",
+      "file_name": "bio02.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2864025
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/bio03.png",
+      "file_id": "file_00000000ca7881f5ac565438becee9f3",
+      "library_file_id": "libfile_69f1e06bbdd481919b5c95cb5ab66021",
+      "file_name": "bio03.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2802200
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/黄忠-七图总览.png",
+      "file_id": "file_00000000cf3081fd89ae5fc64aa450d3",
+      "library_file_id": "libfile_7d86bbcea5ec819193269ed95db12260",
+      "file_name": "黄忠-七图总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3523666
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

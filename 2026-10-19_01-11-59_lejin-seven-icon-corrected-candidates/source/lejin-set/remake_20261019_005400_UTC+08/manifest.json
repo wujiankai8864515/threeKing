@@ -1,0 +1,89 @@
+{
+  "hero": "乐进",
+  "status": "all new candidates awaiting user review",
+  "native_cards": [
+    1024,
+    1536
+  ],
+  "native_stories": [
+    1536,
+    1024
+  ],
+  "UI_canvas": [
+    1190,
+    1786
+  ],
+  "art_scale": "1:1 at84,145; no upscale",
+  "beast": "原创岩獾，不是典籍设定",
+  "skills_draft": {
+    "疾刺": "向当前目标短距刺击",
+    "短兵": "近身普攻伤害提高",
+    "紧迫": "普攻命中缩短主动冷却",
+    "稳步": "击退距离缩短"
+  },
+  "slot_counts": [
+    1,
+    1,
+    2,
+    3
+  ],
+  "cards": {
+    "iron": {
+      "raw": "raw/card01.png",
+      "output": "candidates/card01-iron-乐进.png",
+      "sha256": "e5c6d16ca5db1db9bfedf7e8b076216d5ef3fa491f6cb39ac6e700cab122d7a0",
+      "skills": [
+        "短兵"
+      ]
+    },
+    "bronze": {
+      "raw": "raw/card02.png",
+      "output": "candidates/card02-bronze-乐进.png",
+      "sha256": "3117945ffe08362f7fd51de990c4675ed43c0f34c44a2d6cf5e5ed13661f8f0a",
+      "skills": [
+        "短兵"
+      ]
+    },
+    "silver": {
+      "raw": "raw/card03.png",
+      "output": "candidates/card03-silver-乐进.png",
+      "sha256": "392f159d00a20ca7c46d4bc31e238ac1cf023b03f2f8f89c2aa06ee17e826b84",
+      "skills": [
+        "短兵",
+        "紧迫"
+      ]
+    },
+    "gold": {
+      "raw": "raw/card04.png",
+      "output": "candidates/card04-gold-乐进.png",
+      "sha256": "2f3ec0f6d105e1f6d373eb6d051aab6f506e9822b25a5beea07cebdd9ea8c4f7",
+      "skills": [
+        "短兵",
+        "紧迫",
+        "稳步"
+      ]
+    }
+  },
+  "stories": {
+    "bio01": {
+      "raw": "raw/bio01.png",
+      "output": "candidates/bio01-伏兵齐起.png",
+      "target_card": 2,
+      "event_chapter": 12
+    },
+    "bio02": {
+      "raw": "raw/bio02.png",
+      "output": "candidates/bio02-壕前追箭.png",
+      "target_card": 3,
+      "event_chapter": 33
+    },
+    "bio03": {
+      "raw": "raw/bio03.png",
+      "output": "candidates/bio03-以退引敌.png",
+      "target_card": 4,
+      "event_chapter": 67
+    }
+  },
+  "library_index": "library-index.json",
+  "troop_icons": "Independent SVG spear-and-shield infantry, horsehead cavalry; no text"
+}

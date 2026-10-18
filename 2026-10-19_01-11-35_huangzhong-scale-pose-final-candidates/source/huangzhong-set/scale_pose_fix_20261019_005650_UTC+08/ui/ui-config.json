@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "bronze": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "勇",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+1"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "silver": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "烈",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+2"
+      },
+      {
+        "name": "破甲",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  },
+  "gold": {
+    "country": "蜀",
+    "title": "黄忠",
+    "level": "1",
+    "advancement": "神",
+    "skills": [
+      {
+        "name": "定弦",
+        "level": "+2"
+      },
+      {
+        "name": "破甲",
+        "level": "+2"
+      },
+      {
+        "name": "贯日",
+        "level": "+2"
+      }
+    ],
+    "status": "拟案，未定案；每个被动一个效果"
+  }
+}

@@ -1,0 +1,6 @@
+Edit existing image, preserve identity face, bow mechanics, pose and composition. Remove every tiny gold orange fleck on cloth, trousers, horse; clean continuous matte fabric. Keep regular armor rivets. Reduce distant architecture contrast without global blur.
+card01: subdued iron and dark bronze replacing gold trim, plain iron kneecaps, tiny green jade.
+bio01: move Guan plume into arrow axis y299; then shorten arrow tip to leave empty gap, preserve plume location.
+bio02: silver armor and bow fittings; feather tail on independently held arrow.
+card04: rich gold plates replacing dark metal.
+bio03 second repair: gold armor and single-edge Chinese dao, preserve hand/horse/face.

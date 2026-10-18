@@ -1,0 +1,559 @@
+{
+  "canvas": [
+    1190,
+    1786
+  ],
+  "illustration_native_size": [
+    1024,
+    1536
+  ],
+  "illustration_resampling": "none; 1:1 at (84,145)",
+  "ui_scope": "existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only",
+  "ui_values": "黄忠；技能和圆章为新拟案",
+  "native_panel_width_before": 278,
+  "native_panel_width_after": 202,
+  "fixed_name_level_ink_gap_px": 12,
+  "slot_centers_native": [
+    961,
+    1045,
+    1129
+  ],
+  "bottom_anchor_native": 1172,
+  "replacement_source_status": {
+    "bronze": "previous source",
+    "silver": "previous source",
+    "gold": "previous source"
+  },
+  "cards": {
+    "iron": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card01.png",
+      "source_sha256": "901049a8a3fc6dafa81c789fb00f80cf8ebfb350f9e99dd9cd08dd8e5ad2a1c2",
+      "output": "01-黑铁-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "初",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+1"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "定弦",
+            "ink_bbox": [
+              911,
+              1292,
+              997,
+              1334
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1009,
+              1298,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1030.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "初",
+        "ink_bbox": [
+          137,
+          1567,
+          225,
+          1653
+        ],
+        "ink_center": [
+          181.0,
+          1610.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.2919921875
+      },
+      "uncovered_art_native_pixels_checked": 1261521,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "bronze": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card02.png",
+      "source_sha256": "0cb4e7ebce7271628adb35a47f1157b43ce28ff11acd4f7563f23a153509cb62",
+      "output": "02-青铜-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "勇",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+1"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "定弦",
+            "ink_bbox": [
+              911,
+              1292,
+              997,
+              1334
+            ],
+            "ink_center": [
+              954.0,
+              1313.0
+            ],
+            "target_center": [
+              953.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+1",
+            "ink_bbox": [
+              1009,
+              1298,
+              1051,
+              1328
+            ],
+            "ink_center": [
+              1030.0,
+              1313.0
+            ],
+            "target_center": [
+              1029.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "勇",
+        "ink_bbox": [
+          140,
+          1566,
+          221,
+          1652
+        ],
+        "ink_center": [
+          180.5,
+          1609.0
+        ],
+        "target_center": [
+          180.7080078125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.26041666666674246
+      },
+      "uncovered_art_native_pixels_checked": 1243654,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "silver": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card03.png",
+      "source_sha256": "0eb7681a4be755852b08c5a635663ce7966baaadce4770dd451473afe69050c8",
+      "output": "03-白银-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "烈",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+2"
+          },
+          {
+            "name": "破甲",
+            "level": "+2"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "定弦",
+            "ink_bbox": [
+              910,
+              1194,
+              996,
+              1236
+            ],
+            "ink_center": [
+              953.0,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1200,
+              1051,
+              1231
+            ],
+            "ink_center": [
+              1029.5,
+              1215.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "破甲",
+            "ink_bbox": [
+              912,
+              1292,
+              994,
+              1334
+            ],
+            "ink_center": [
+              953.0,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1006,
+              1297,
+              1049,
+              1328
+            ],
+            "ink_center": [
+              1027.5,
+              1312.5
+            ],
+            "target_center": [
+              1027.8203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "烈",
+        "ink_bbox": [
+          138,
+          1567,
+          223,
+          1653
+        ],
+        "ink_center": [
+          180.5,
+          1610.0
+        ],
+        "target_center": [
+          180.126953125,
+          1609.841796875
+        ],
+        "max_center_error_px": 0.373046875
+      },
+      "uncovered_art_native_pixels_checked": 1252527,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    },
+    "gold": {
+      "source": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card04.png",
+      "source_sha256": "5218acdaa1fd93c07281485071cae7eeeea1e61ad75d0be18bcdda716d95bc5e",
+      "output": "04-黄金-UI排版修复1190.png",
+      "fields": {
+        "country": "蜀",
+        "title": "黄忠",
+        "level": "1",
+        "advancement": "神",
+        "skills": [
+          {
+            "name": "定弦",
+            "level": "+2"
+          },
+          {
+            "name": "破甲",
+            "level": "+2"
+          },
+          {
+            "name": "贯日",
+            "level": "+2"
+          }
+        ],
+        "status": "拟案，未定案；每个被动一个效果"
+      },
+      "rows": [
+        {
+          "center_native": 961,
+          "component_box_native": [
+            742,
+            918,
+            944,
+            1004
+          ],
+          "text_name": {
+            "text": "定弦",
+            "ink_bbox": [
+              910,
+              1096,
+              996,
+              1138
+            ],
+            "ink_center": [
+              953.0,
+              1117.0
+            ],
+            "target_center": [
+              953.3203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.41276041666674246
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1008,
+              1102,
+              1051,
+              1133
+            ],
+            "ink_center": [
+              1029.5,
+              1117.5
+            ],
+            "target_center": [
+              1029.8203125,
+              1117.4127604166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1117.4127604166667
+          ]
+        },
+        {
+          "center_native": 1045,
+          "component_box_native": [
+            742,
+            1002,
+            944,
+            1088
+          ],
+          "text_name": {
+            "text": "破甲",
+            "ink_bbox": [
+              912,
+              1194,
+              994,
+              1236
+            ],
+            "ink_center": [
+              953.0,
+              1215.0
+            ],
+            "target_center": [
+              953.3203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.3203125
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1006,
+              1200,
+              1049,
+              1231
+            ],
+            "ink_center": [
+              1027.5,
+              1215.5
+            ],
+            "target_center": [
+              1027.8203125,
+              1215.0846354166667
+            ],
+            "max_center_error_px": 0.41536458333325754
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1215.0846354166667
+          ]
+        },
+        {
+          "center_native": 1129,
+          "component_box_native": [
+            742,
+            1086,
+            944,
+            1172
+          ],
+          "text_name": {
+            "text": "贯日",
+            "ink_bbox": [
+              914,
+              1293,
+              993,
+              1333
+            ],
+            "ink_center": [
+              953.5,
+              1313.0
+            ],
+            "target_center": [
+              953.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.24348958333325754
+          },
+          "text_level": {
+            "text": "+2",
+            "ink_bbox": [
+              1005,
+              1297,
+              1048,
+              1328
+            ],
+            "ink_center": [
+              1026.5,
+              1312.5
+            ],
+            "target_center": [
+              1026.3203125,
+              1312.7565104166667
+            ],
+            "max_center_error_px": 0.25651041666674246
+          },
+          "actual_ink_gap_px": 12,
+          "group_target_center_px": [
+            980.8203125,
+            1312.7565104166667
+          ]
+        }
+      ],
+      "advancement": {
+        "text": "神",
+        "ink_bbox": [
+          137,
+          1566,
+          224,
+          1653
+        ],
+        "ink_center": [
+          180.5,
+          1609.5
+        ],
+        "target_center": [
+          180.126953125,
+          1609.2604166666667
+        ],
+        "max_center_error_px": 0.373046875
+      },
+      "uncovered_art_native_pixels_checked": 1218857,
+      "changed_art_native_pixels": 0,
+      "changed_pixels_outside_authorized_UI_regions": "artwork replacements authorized; frozen silver uses identical source",
+      "canvas_edge_nontransparent_pixels": 0
+    }
+  }
+}

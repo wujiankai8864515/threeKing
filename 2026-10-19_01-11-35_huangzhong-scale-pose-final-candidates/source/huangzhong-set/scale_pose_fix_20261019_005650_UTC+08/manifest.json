@@ -1,0 +1,110 @@
+{
+  "status": "candidate_awaiting_user_review",
+  "tool": "built-in image_gen",
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card01.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "901049a8a3fc6dafa81c789fb00f80cf8ebfb350f9e99dd9cd08dd8e5ad2a1c2"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card04.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "5218acdaa1fd93c07281485071cae7eeeea1e61ad75d0be18bcdda716d95bc5e"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/bio01.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "a4369b65cf2df1800dada34f078c9c89a8ae47de7be557316793bd58ce91492b"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/bio03.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "da65e6763baa635ba248d7ca596ff2aa5a98eedb94801539e25eeec37b7543be"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/bio02.png",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "sha256": "c17dca69ace8cd8df8a6be47fbf629cd11395aff3568283c11b90544860ac177"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card03.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "0eb7681a4be755852b08c5a635663ce7966baaadce4770dd451473afe69050c8"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/candidates/card02.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "0cb4e7ebce7271628adb35a47f1157b43ce28ff11acd4f7563f23a153509cb62"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/ui/03-白银-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "feb2ed6c2cba4255028185d7923b6609f04c9b44729c7fe0e87636bff6fe3cfe"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/ui/02-青铜-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "9ba94ce8396ec135a0fb03c6b592a4ef0c6c721cfe095a784911a753e3250f3a"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "a19125f97467f5c87587ddce83732c36db559f4f12d26638a4b2bb361eaa2a15"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/ui/04-黄金-UI排版修复1190.png",
+      "dimensions": [
+        1190,
+        1786
+      ],
+      "sha256": "62473f1f96da892d5494027de3e03bfb6b5c3201190df5c564ea043e675315cb"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/黄忠-七图总览.png",
+      "dimensions": [
+        1800,
+        1500
+      ],
+      "sha256": "b180463c6e08e8a0af739117edd15d7248e8bf42aa12d5ace9cb34878886335e"
+    }
+  ],
+  "source_map": "source-map.json",
+  "chronology": [
+    53,
+    70,
+    71
+  ],
+  "notes": "Large dominant hero restored; silver up-left, gold front three-quarter upward. Arrow/bow tips may leave image; hands protected. Three biographies unchanged.",
+  "library_index": "current-delivery-index.json"
+}
