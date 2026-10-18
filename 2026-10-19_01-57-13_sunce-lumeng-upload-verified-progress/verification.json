@@ -1,0 +1,11 @@
+{
+  "verified_at": "2026-10-19T01:57:13.809568+08:00",
+  "verified_asset_commit": "55898d6915005a633efdbe5080a21cc4027a441c",
+  "independent_fetch": "PASS",
+  "lfs_pull": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 8106,
+  "sequential_copy_sha256_checked": true,
+  "hero": "sunce,lumeng",
+  "seven_candidates": "uploaded_verified_not_user_accepted"
+}
