@@ -1,0 +1,183 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01-黑铁-北海赴义.png",
+        "file_id": "file_00000000d18881fdb3fa057fa6890b49",
+        "library_file_id": "libfile_2408d8d982c481918816778144a569a4",
+        "file_name": "01-黑铁-北海赴义.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3644662,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02-青铜-神亭相持.png",
+        "file_id": "file_00000000cdd081fdbcce812f08b435df",
+        "library_file_id": "libfile_b2a621e740bc8191bcd3813f161f0fa4",
+        "file_name": "02-青铜-神亭相持.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4070874,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03-白银-日中践诺.png",
+        "file_id": "file_00000000666481f4b110d9b8e9b4abc7",
+        "library_file_id": "libfile_4320aa084a90819185b2175bd758ac75",
+        "file_name": "03-白银-日中践诺.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3801168,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04-黄金-合肥争锋.png",
+        "file_id": "file_00000000362c81fd822f136a2a2a4c85",
+        "library_file_id": "libfile_262cec9b03c08191be93d0e67e838684",
+        "file_name": "04-黄金-合肥争锋.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3955199,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05-传记-神亭两锋.png",
+        "file_id": "file_000000008dec8243855e97f4debab1a2",
+        "library_file_id": "libfile_cffa026c6ac081918e90d6f78fd8835e",
+        "file_name": "05-传记-神亭两锋.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3130558,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/06-传记-赴约而归.png",
+        "file_id": "file_00000000393881fd9ddac86526fb0a24",
+        "library_file_id": "libfile_fc9632b290ec81919de451b96199fe11",
+        "file_name": "06-传记-赴约而归.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2962184,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/07-传记-阵前迎刀.png",
+        "file_id": "file_00000000db04820cb677df48a53eec5b",
+        "library_file_id": "libfile_dc6142be882c81918e3651915f5eae9f",
+        "file_name": "07-传记-阵前迎刀.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3136850,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/太史慈-四阶三传记-重做总览.png",
+        "file_id": "file_0000000026e881fda273b876715b4257",
+        "library_file_id": "libfile_74bd59a481f481919b37bf68d6650c42",
+        "file_name": "太史慈-四阶三传记-重做总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3793362,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

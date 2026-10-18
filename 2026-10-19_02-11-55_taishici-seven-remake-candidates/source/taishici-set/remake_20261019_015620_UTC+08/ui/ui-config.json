@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "吴",
+    "title": "太史慈",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "连刺",
+        "level": "+1"
+      }
+    ],
+    "status": "太史慈技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "吴",
+    "title": "太史慈",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "连刺",
+        "level": "+1"
+      }
+    ],
+    "status": "太史慈技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "吴",
+    "title": "太史慈",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "连刺",
+        "level": "+2"
+      },
+      {
+        "name": "酬义",
+        "level": "+2"
+      }
+    ],
+    "status": "太史慈技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "吴",
+    "title": "太史慈",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "连刺",
+        "level": "+3"
+      },
+      {
+        "name": "酬义",
+        "level": "+3"
+      },
+      {
+        "name": "劲臂",
+        "level": "+3"
+      }
+    ],
+    "status": "太史慈技能草案，单关键效果，候选待审"
+  }
+}

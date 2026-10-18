@@ -1,0 +1,134 @@
+{
+  "hero": "太史慈",
+  "faction": "吴",
+  "status": "候选待审，非用户通过",
+  "engine": "built-in image_gen",
+  "card_native": [
+    1024,
+    1536
+  ],
+  "story_native": [
+    1536,
+    1024
+  ],
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "art_resampling": "none; native 1:1 at (84,145)",
+  "myth": "赤背神猿为原创美术解释，非原著神兽",
+  "weapons": "铁枪、弓矢、背上短戟有原文依据；造型原创，无神兵专名",
+  "mount": "赭栗马为原创造型，无原著专名",
+  "sources": [
+    "https://zh.wikisource.org/zh-hant/三國演義/第011回",
+    "https://zh.wikisource.org/zh-hant/三國演義/第015回",
+    "https://zh.wikisource.org/zh-hant/三國演義/第053回"
+  ],
+  "assets": [
+    {
+      "id": "01-黑铁-北海赴义",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/01-黑铁-北海赴义.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "d1e5710cd950be15d63b3468c5cc83c49823e99b2bf4f7fe2299dec483bf1d0a",
+      "story_target": null
+    },
+    {
+      "id": "02-青铜-神亭相持",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/02-青铜-神亭相持.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "7ffa3a96d8d4c58a29ee31596a991c50f4a4d75cc844bbf8f33d7ed8e65cde21",
+      "story_target": null
+    },
+    {
+      "id": "03-白银-日中践诺",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/03-白银-日中践诺.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "a361b486ac6e5e2456cff5b7be1546ea507fe9650f2a433f7dc082039f5edb7d",
+      "story_target": null
+    },
+    {
+      "id": "04-黄金-合肥争锋",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/04-黄金-合肥争锋.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "07a69fb7b1d79471d59f4c52371a6b9900a2f415f1c7cb49da6a5b08a5933060",
+      "story_target": null
+    },
+    {
+      "id": "05-传记-神亭两锋",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/bio01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/05-传记-神亭两锋.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "199054503d654c593abe61d005262b96118ba0ad911d77cd4c7ff1a79af7ddeb",
+      "story_target": "card02"
+    },
+    {
+      "id": "06-传记-赴约而归",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/bio02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/06-传记-赴约而归.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "1561f4c067e4498a2a38132dfd09c1dd23c1414aa466d89d9b8b5f57741dacdc",
+      "story_target": "card03"
+    },
+    {
+      "id": "07-传记-阵前迎刀",
+      "raw": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/raw/bio03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/taishici-set/remake_20261019_015620_UTC+08/candidates/07-传记-阵前迎刀.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "f52f95eb619c0ad1cd0e354b0402bbe2a7729b485152f987c8008e01da18d37e",
+      "story_target": "card04"
+    }
+  ]
+}

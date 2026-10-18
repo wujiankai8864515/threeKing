@@ -1,0 +1,1 @@
+card01-guardian-too-visible.png：初版猿首过显，已局部淡化。card03-hand-under-frame.png：初版右手被UI遮，已折肘修复。
