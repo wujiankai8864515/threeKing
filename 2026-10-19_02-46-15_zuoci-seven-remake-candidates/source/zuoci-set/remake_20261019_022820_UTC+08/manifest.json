@@ -1,0 +1,156 @@
+{
+  "hero": "左慈",
+  "status": "candidate_pending_user_review",
+  "generator": "built-in image_gen",
+  "actual_native_cards": [
+    1024,
+    1536
+  ],
+  "actual_native_stories": [
+    1536,
+    1024
+  ],
+  "card_composite": [
+    1190,
+    1786
+  ],
+  "no_4k_claim": true,
+  "source": "https://zh.wikisource.org/zh-hant/三國演義/第068回",
+  "source_verified": "2026-10-18",
+  "original_adaptations": [
+    "左眼视损/右腿略跛的侧别为原创连续性，原文未指定",
+    "蜃壳幻潮、冠袍成长和技能为原创拟定",
+    "黄金止于羊群故事，不使用稍后的白鹤"
+  ],
+  "skills_draft": {
+    "active": "幻身：于身旁空位留下一个短时幻影，转承下一次可转移的单体普攻后消失",
+    "passives": {
+      "留影": "未触发幻影保留时间提高",
+      "轻履": "移动速度提高",
+      "远映": "幻影放置距离提高"
+    },
+    "counts": [
+      1,
+      1,
+      2,
+      3
+    ],
+    "numeric_levels": "展示草案非平衡定案"
+  },
+  "story_links": {
+    "bio01": "card02",
+    "bio02": "card03",
+    "bio03": "card04"
+  },
+  "qa": {
+    "all_seven_visually_inspected": true,
+    "eye_side": "correct anatomical left clouded in all seven",
+    "hands": "yoke and fishing pole coherent; gestures readable",
+    "faces": "natural narrow elderly face consistent",
+    "UI": "group purple fixed; magic icon; anchors 961/1045/1129; independent frame and text; face/hands unobscured",
+    "minor_limitations": [
+      "近景羊毛和远山细节仍丰富，非全局虚化",
+      "原著神异情节仅作幻想视觉演绎"
+    ]
+  },
+  "files": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-卡01-黑铁.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "d6fd8ae2a65c3ca6c6f4b5fd9666b844635355ec90574757c9503f26ed07ca56"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-卡02-青铜.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "493bb145703383ae28fc15485d23150a65df90f5d91233b6456c3c5ff61dcdea"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-卡03-白银.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "3fbf0c5e9d46f6b69412b80c2653680c62f204bf2d483418ff91ef3feecb2549"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-卡04-黄金.png",
+      "size": [
+        1190,
+        1786
+      ],
+      "sha256": "95bec2a43aabf527b57a1058b65d4d827d2cc20bbd17f30af071a19f79382515"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-传记01-问术入囚.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "416c96ae518929a76ebd43ce386cdb003b94c5c5e8dc2183e139be872472fcef"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-传记02-筵间问所缺.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "fb71f3ee077d7ee138e607f07b6f580326745e7391e0a205ad8133001abcb212"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-传记03-一步入群羊.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "sha256": "623a47ce4f465b922f5c10505c0dc6a20a9b914aef56338f8cbd75452f580746"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/zuoci-set/remake_20261019_022820_UTC+08/candidates/左慈-七图总览.png",
+      "size": [
+        1920,
+        1260
+      ],
+      "sha256": "a71d110888747558691513bd72889174599bbac50b4cd6a3da51e8d23a5f5a9b"
+    }
+  ],
+  "library_files": [
+    {
+      "name": "左慈-卡01-黑铁.png",
+      "library_file_id": "libfile_c55e65413ad081919633711c9f6b9258"
+    },
+    {
+      "name": "左慈-卡02-青铜.png",
+      "library_file_id": "libfile_d5ec56601c048191aab1cdb0774cd6b9"
+    },
+    {
+      "name": "左慈-卡03-白银.png",
+      "library_file_id": "libfile_df7a5845ddac8191a7ed1bdd00ac6bc7"
+    },
+    {
+      "name": "左慈-卡04-黄金.png",
+      "library_file_id": "libfile_4e73b73e2a0c8191b8c84edd1912525b"
+    },
+    {
+      "name": "左慈-传记01-问术入囚.png",
+      "library_file_id": "libfile_abd51c13a90c8191b95bf26b3ee162ab"
+    },
+    {
+      "name": "左慈-传记02-筵间问所缺.png",
+      "library_file_id": "libfile_f82ef7fac50081918796a5317a137c03"
+    },
+    {
+      "name": "左慈-传记03-一步入群羊.png",
+      "library_file_id": "libfile_0618f45b91088191bcd3c9ead434084d"
+    },
+    {
+      "name": "左慈-七图总览.png",
+      "library_file_id": "libfile_dade6189d7fc8191b418c852c29bdf09"
+    }
+  ]
+}

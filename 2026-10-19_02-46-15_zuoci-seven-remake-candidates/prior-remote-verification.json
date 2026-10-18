@@ -1,0 +1,8 @@
+{
+  "verified_asset_commit": "47be20a1d41c03ec25f63eb569a2f6cafab77c50",
+  "independent_fetch": "PASS",
+  "lfs_fsck": "PASS",
+  "resolved_paths_verified": 9666,
+  "sequential_copy_sha256_checked": true,
+  "hero": "jiaxu"
+}

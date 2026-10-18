@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-卡01-黑铁.png",
+        "file_id": "file_00000000ada481fda2928ac85ba94499",
+        "library_file_id": "libfile_c55e65413ad081919633711c9f6b9258",
+        "file_name": "左慈-卡01-黑铁.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3591336
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-卡02-青铜.png",
+        "file_id": "file_0000000088c881fda087cf3ab6651187",
+        "library_file_id": "libfile_d5ec56601c048191aab1cdb0774cd6b9",
+        "file_name": "左慈-卡02-青铜.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3364054
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-卡03-白银.png",
+        "file_id": "file_000000004c6481fd98cb029369f3498e",
+        "library_file_id": "libfile_df7a5845ddac8191a7ed1bdd00ac6bc7",
+        "file_name": "左慈-卡03-白银.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3617530
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-卡04-黄金.png",
+        "file_id": "file_000000005d6481f68b2163eb693a3ba5",
+        "library_file_id": "libfile_4e73b73e2a0c8191b8c84edd1912525b",
+        "file_name": "左慈-卡04-黄金.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3837079
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-传记01-问术入囚.png",
+        "file_id": "file_00000000bea481f5aad547f0d1962361",
+        "library_file_id": "libfile_abd51c13a90c8191b95bf26b3ee162ab",
+        "file_name": "左慈-传记01-问术入囚.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2513116
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-传记02-筵间问所缺.png",
+        "file_id": "file_00000000b66881f5a12c8b3f646b06b5",
+        "library_file_id": "libfile_f82ef7fac50081918796a5317a137c03",
+        "file_name": "左慈-传记02-筵间问所缺.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2703936
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-传记03-一步入群羊.png",
+        "file_id": "file_000000003d9c81f89dd6720693e54fa4",
+        "library_file_id": "libfile_0618f45b91088191bcd3c9ead434084d",
+        "file_name": "左慈-传记03-一步入群羊.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2912289
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/左慈-七图总览.png",
+        "file_id": "file_00000000a2a481fdac7ae77bbbe98034",
+        "library_file_id": "libfile_dade6189d7fc8191b418c852c29bdf09",
+        "file_name": "左慈-七图总览.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3936675
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/asset-index.json",
+  "asset_index": "2026-10-19_02-46-15_zuoci-seven-remake-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "Jia Xu seven candidates ready. 21 retained plus 238 new candidates = 259; not 280 completed images.",
-  "latest_delta": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates",
-  "current_status": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/status-overrides.json",
+  "note": "Zuo Ci seven candidates ready. 21 retained plus 245 new candidates = 266; not 280 completed images.",
+  "latest_delta": "2026-10-19_02-46-15_zuoci-seven-remake-candidates",
+  "current_status": "2026-10-19_02-46-15_zuoci-seven-remake-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -66,7 +66,8 @@
     "2026-10-19_02-27-29_diaochan-seven-remake-candidates",
     "2026-10-19_02-30-51_huatuo-seven-remake-candidates",
     "2026-10-19_02-35-37_dongzhuo-yuanshao-fourteen-candidates",
-    "2026-10-19_02-40-25_jiaxu-seven-remake-candidates"
+    "2026-10-19_02-40-25_jiaxu-seven-remake-candidates",
+    "2026-10-19_02-46-15_zuoci-seven-remake-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -143,7 +144,8 @@
     "2026-10-19_02-27-29_diaochan-seven-remake-candidates",
     "2026-10-19_02-30-51_huatuo-seven-remake-candidates",
     "2026-10-19_02-35-37_dongzhuo-yuanshao-fourteen-candidates",
-    "2026-10-19_02-40-25_jiaxu-seven-remake-candidates"
+    "2026-10-19_02-40-25_jiaxu-seven-remake-candidates",
+    "2026-10-19_02-46-15_zuoci-seven-remake-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -160,7 +162,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_02-41-50_jiaxu-upload-verified-progress/verification.json",
-  "effective_source_map": "2026-10-19_02-40-25_jiaxu-seven-remake-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_02-41-50_jiaxu-upload-verified-progress/production-progress.json"
+  "remote_verification_receipt": "2026-10-19_02-46-15_zuoci-seven-remake-candidates/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_02-46-15_zuoci-seven-remake-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_02-46-15_zuoci-seven-remake-candidates/production-progress.json"
 }

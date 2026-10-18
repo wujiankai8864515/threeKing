@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "左慈",
+    "level": "1",
+    "advancement": "初",
+    "skills": [
+      {
+        "name": "留影",
+        "level": "+1"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "左慈",
+    "level": "1",
+    "advancement": "幻",
+    "skills": [
+      {
+        "name": "留影",
+        "level": "+1"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "silver": {
+    "country": "群",
+    "title": "左慈",
+    "level": "1",
+    "advancement": "玄",
+    "skills": [
+      {
+        "name": "留影",
+        "level": "+2"
+      },
+      {
+        "name": "轻履",
+        "level": "+2"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  },
+  "gold": {
+    "country": "群",
+    "title": "左慈",
+    "level": "1",
+    "advancement": "真",
+    "skills": [
+      {
+        "name": "留影",
+        "level": "+3"
+      },
+      {
+        "name": "轻履",
+        "level": "+3"
+      },
+      {
+        "name": "远映",
+        "level": "+3"
+      }
+    ],
+    "status": "拟定技能，非正式平衡值"
+  }
+}
