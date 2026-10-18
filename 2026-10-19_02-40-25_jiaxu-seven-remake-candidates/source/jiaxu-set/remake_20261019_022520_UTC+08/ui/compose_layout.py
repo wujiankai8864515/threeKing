@@ -1,0 +1,133 @@
+from pathlib import Path
+from PIL import Image, ImageDraw, ImageFont
+import numpy as np
+from scipy import ndimage
+import argparse, json, hashlib, html, subprocess, shutil
+
+P=Path(__file__).resolve().parent
+R=Path('/workspace/scratch/3f82ff2b3f81/zhangfei-set')
+BASE=R/'ui_newframe_2026-10-18_19-32-00_UTC+08'
+ap=argparse.ArgumentParser();ap.add_argument('--out',type=Path,default=P)
+for tier in ('bronze','silver','gold'):ap.add_argument(f'--{tier}-source',type=Path)
+args=ap.parse_args()
+D=args.out.resolve();D.mkdir(parents=True,exist_ok=True)
+if D!=P:shutil.copy2(__file__,D/'compose_layout.py')
+SIZE=(1190,1786);SX=1190/1024;SY=1786/1536;OFFSET=(84,145)
+fields=json.loads((BASE/'ui-config.json').read_text());sources=json.loads((BASE/'source-map.json').read_text())
+original_titles={tier:f['title'] for tier,f in fields.items()}
+for i,(tier,f) in enumerate(fields.items()):
+ f['title']='贾诩'; f['country']='群'; f['advancement']=['一','二','三','四'][i]; f['skills']=[{'name':n,'level':'+'+str(max(1,i))} for n in ['审隙','远谋','敛息'][:[1,1,2,3][i]]]; f['status']='贾诩技能草案，单关键效果，候选待审'
+for i,tier in enumerate(['blackiron','bronze','silver','gold'],1): sources[tier]['path']=str(P.parent/'raw'/f'card{i:02d}.png')
+
+overrides={tier:getattr(args,f'{tier}_source') for tier in ('bronze','silver','gold')}
+for tier,src in overrides.items():
+ if src:sources[tier]['path']=str(src.resolve())
+# Title is the user's current name field, independent of the existing advancement badge.
+# All other existing fields remain unchanged layout examples, not game-rule changes.
+(D/'ui-config.json').write_text(json.dumps(fields,ensure_ascii=False,indent=2))
+mask=Image.open(BASE/'art-native-slot-mask.png').convert('L')
+mask.save(D/'art-native-slot-mask.png')
+# Existing metallic panel is sliced; only its central repeatable body changes length.
+PANEL_BOX_X=(666,944);PANEL_WIDTH=202;PANEL_HEIGHT=86
+LEFT_CAP=40;RIGHT_CAP=22
+SLOT_CENTERS=[961,1045,1129]
+PLATE_TOP=1086;PLATE_BOTTOM=1172
+# Fitted center of each existing inner circular border. No new advancement field.
+BADGE_CENTERS={'iron':(155.5,1384.5),'bronze':(155.5,1384.0),'silver':(155.0,1384.5),'gold':(155.0,1384.0)}
+FONT_GAP=12 # output pixels; fixed visual-ink gap between name and +level
+cache={}
+def text_tile(t,size,serif=False):
+ key=(t,size,serif)
+ if key in cache:return cache[key]
+ tag=f'text-{len(cache):02d}';font='Noto Serif CJK SC' if serif else 'Noto Sans CJK SC';weight='700' if serif else '500'
+ body=f'<text x="20" y="120" font-family="{font}" font-weight="{weight}" font-size="{size:.6f}">{{}}</text>'
+ head='<svg xmlns="http://www.w3.org/2000/svg" width="520" height="180" viewBox="0 0 520 180">'
+ txt=html.escape(t)
+ # Outline and shadow retain the prior colors and scales. The centering mask measures real filled glyphs.
+ vis=head+f'<g transform="translate(0 {2*SY})" fill="#080808" stroke="#080808" stroke-width="{3.2*SX}" paint-order="stroke">'+body.format(txt)+'</g>'+f'<g fill="#fff7df" stroke="#302310" stroke-width="{1.8*SX}" paint-order="stroke">'+body.format(txt)+'</g></svg>'
+ ink=head+'<g fill="white">'+body.format(txt)+'</g></svg>'
+ images=[]
+ for suffix,svg in [('visible',vis),('ink',ink)]:
+  sp=D/f'{tag}-{suffix}.svg';ip=D/f'{tag}-{suffix}.png';sp.write_text(svg)
+  subprocess.run(['inkscape',str(sp),'--export-filename='+str(ip)],check=True,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+  images.append(Image.open(ip).convert('RGBA'))
+ vb=images[0].getbbox();ib=images[1].getbbox()
+ result=(images[0],images[1],ib,vb);cache[key]=result;return result
+
+def place_glyph(tx,inkmap,t,size,cx,cy,serif=False):
+ vis,ink,ib,vb=text_tile(t,size,serif)
+ x=round(cx-(ib[0]+ib[2])/2);y=round(cy-(ib[1]+ib[3])/2)
+ tx.alpha_composite(vis,(x,y));inkmap.alpha_composite(ink,(x,y))
+ return {'text':t,'ink_bbox':[ib[0]+x,ib[1]+y,ib[2]+x,ib[3]+y],'ink_center':[(ib[0]+ib[2])/2+x,(ib[1]+ib[3])/2+y],'target_center':[cx,cy],'max_center_error_px':max(abs((ib[0]+ib[2])/2+x-cx),abs((ib[1]+ib[3])/2+y-cy))}
+
+def rebuild_frame(orig):
+ patch=orig.crop((PANEL_BOX_X[0],PLATE_TOP,PANEL_BOX_X[1],PLATE_BOTTOM))
+ # Remove disconnected one-pixel alpha flecks from the existing component, preserving its silhouette.
+ ar=np.array(patch);lab,n=ndimage.label(ar[:,:,3]>0);counts=np.bincount(lab.ravel());counts[0]=0;keep=lab==counts.argmax();ar[~keep]=0;patch=Image.fromarray(ar)
+ mid=patch.crop((LEFT_CAP,0,patch.width-RIGHT_CAP,patch.height)).resize((PANEL_WIDTH-LEFT_CAP-RIGHT_CAP,PANEL_HEIGHT),Image.Resampling.LANCZOS)
+ short=Image.new('RGBA',(PANEL_WIDTH,PANEL_HEIGHT));short.paste(patch.crop((0,0,LEFT_CAP,PANEL_HEIGHT)),(0,0));short.paste(mid,(LEFT_CAP,0));short.paste(patch.crop((patch.width-RIGHT_CAP,0,patch.width,PANEL_HEIGHT)),(PANEL_WIDTH-RIGHT_CAP,0))
+ clean=orig.copy();clean.paste((0,0,0,0),(630,890,938,1190))
+ return clean,short
+
+manifest={'canvas':list(SIZE),'illustration_native_size':[1024,1536],'illustration_resampling':'none; 1:1 at (84,145)','ui_scope':'existing metallic panel 3-slice shortening, shared bottom-up slots, measured glyph centering only','ui_values':'贾诩独立字段；四阶收藏阵营群，剧情按原著第9、16、18、59回；等级为UI示例；一至四为阶级圆章','native_panel_width_before':278,'native_panel_width_after':PANEL_WIDTH,'fixed_name_level_ink_gap_px':FONT_GAP,'slot_centers_native':SLOT_CENTERS,'bottom_anchor_native':1172,'replacement_source_status':{tier:(('approved native illustration plus existing approved plaque lettering' if tier=='silver' else 'approved complete new native illustration; used as-is') if src else 'previous source') for tier,src in overrides.items()},'cards':{}}
+for tier,label in [('iron','01-黑铁'),('bronze','02-青铜'),('silver','03-白银'),('gold','04-黄金')]:
+ f=fields[tier];n=len(f['skills']);src=Path(sources['blackiron' if tier=='iron' else tier]['path']);pure=Image.open(src).convert('RGBA');assert pure.size==(1024,1536)
+ # Silver source contract: the approved plaque is empty; retain its existing independent lettering.
+
+
+ orig=Image.open(BASE/('silver-empty-cleanalpha-1024.png' if tier=='silver' else f'{tier}-empty-generated-1024.png')).convert('RGBA')
+ frame,short=rebuild_frame(orig)
+ ar=np.array(frame); yy,xx=np.indices(ar.shape[:2]); region=(xx>78)&(xx<243)&(yy>50)&(yy<180)
+ import colorsys
+ rgb=ar[:,:,:3].astype(float)/255; mx=rgb.max(2);mn=rgb.min(2)
+ sel=region & ((mx-mn)>.10) & (rgb[:,:,1]>rgb[:,:,0]*.92)
+ for y,x in zip(*np.where(sel)):
+  h,s,v=colorsys.rgb_to_hsv(*rgb[y,x]); ar[y,x,:3]=np.array(colorsys.hsv_to_rgb(.76,s,v))*255
+ frame=Image.fromarray(ar)
+
+ rows=[]
+ for cy in SLOT_CENTERS[-n:]:
+  top=round(cy-PANEL_HEIGHT/2);frame.alpha_composite(short,(944-PANEL_WIDTH,top));rows.append({'center_native':cy,'component_box_native':[944-PANEL_WIDTH,top,944,top+PANEL_HEIGHT]})
+ # The original rail is the top-most join cover; all unchanged frame areas retain exact source pixels.
+ rail=orig.crop((938,890,1024,1190));frame.paste(rail,(938,890))
+ if tier=='iron':
+  import math
+  sd=ImageDraw.Draw(frame);cx,cy=909,289
+  pts=[(cx+math.sin(j*math.pi/5)*(33 if j%2==0 else 14),cy-math.cos(j*math.pi/5)*(33 if j%2==0 else 14)) for j in range(10)]
+  sd.polygon(pts,fill='#a6aab0',outline='#20242b',width=3)
+  for j in range(10):sd.polygon([(cx,cy),pts[j],pts[(j+1)%10]],fill=['#eff2f4','#686d76'][j%2])
+  sd.line(pts+[pts[0]],fill='#343a42',width=2)
+ frame=frame.resize(SIZE,Image.Resampling.LANCZOS);frame.save(D/f'{tier}-frame-layout-1190.png')
+ # Leave all unrelated independent typography unchanged.
+ base_svg=(BASE/f'{tier}-text-overlay.svg').read_text().replace(html.escape(original_titles[tier]),html.escape(f['title'])).replace('>蜀<','>'+f['country']+'<')
+ base_svg=base_svg.replace('#285b31','#8045a6').replace('#072413','#28123d')
+ # Replace inherited Zhang Fei polearm troop icon with independent strategist fan icon.
+ import re
+ base_svg=re.sub(r'<g transform="translate\(900 1424\)".*?</g>', '<g transform="translate(900 1424)" fill="#fff7df" stroke="#302310" stroke-width="2.4"><path d="M -9 34 L -9 -30 L -16 -40 L 0 -46 L 16 -40 L 9 -30 L 9 34 Z"/><path d="M -26 -14 L 27 -14 L 27 13 L -26 13 Z M -17 -5 L 17 -5 M -17 5 L 9 5" fill="none"/></g>',base_svg)
+ svg_path=D/f'{tier}-base-text-title.svg';svg_path.write_text(base_svg)
+ base_png=D/f'{tier}-base-text-title.png'
+ subprocess.run(['inkscape',str(svg_path),'--export-filename='+str(base_png)],check=True,stdout=subprocess.DEVNULL,stderr=subprocess.DEVNULL)
+ tx=Image.open(base_png).convert('RGBA');tx.paste((0,0,0,0),(760,1010,1100,1390));tx.paste((0,0,0,0),(70,1480,300,1720))
+ inkmap=Image.new('RGBA',SIZE);measured=[]
+ for row,sk in zip(rows,f['skills']):
+  cy=row['center_native']*SY
+  name=text_tile(sk['name'],min(38,100/len(sk['name']))*SX);level=text_tile(sk['level'],35*SX)
+  nw=name[2][2]-name[2][0];lw=level[2][2]-level[2][0];width=nw+FONT_GAP+lw
+  # Interior is bounded by the round left endcap and the straight right rail.
+  cx=((944-PANEL_WIDTH+13)+933)/2*SX
+  left=cx-width/2
+  a=place_glyph(tx,inkmap,sk['name'],min(38,100/len(sk['name']))*SX,left+nw/2,cy)
+  b=place_glyph(tx,inkmap,sk['level'],35*SX,left+nw+FONT_GAP+lw/2,cy)
+  row.update({'text_name':a,'text_level':b,'actual_ink_gap_px':b['ink_bbox'][0]-a['ink_bbox'][2],'group_target_center_px':[cx,cy]});measured.append(row)
+ bx,by=BADGE_CENTERS[tier];badge=place_glyph(tx,inkmap,f['advancement'],78*SX,bx*SX,by*SY,True) if f['advancement'] else {'text':'','status':'existing empty field retained'}
+ tx.save(D/f'{tier}-text-overlay-1190.png');inkmap.save(D/f'{tier}-centering-ink-mask-1190.png')
+ canvas=Image.new('RGBA',SIZE);canvas.paste(pure,OFFSET);art=Image.new('RGBA',SIZE);art.paste(canvas,(0,0),mask)
+ out=Image.alpha_composite(Image.alpha_composite(art,frame),tx);filename=f'{label}-UI排版修复1190.png';out.save(D/filename)
+ out.resize((480,720),Image.Resampling.LANCZOS).save(D/f'{tier}-preview480.png')
+ x,y=OFFSET;reg=(slice(y,y+1536),slice(x,x+1024));valid=(np.array(mask)[reg]==255)&(np.array(frame.getchannel('A'))[reg]==0)&(np.array(tx.getchannel('A'))[reg]==0)
+ changed=int((np.any(np.array(out)[reg]!=np.array(pure),axis=2)&valid).sum());assert changed==0
+ unchanged_check='artwork replacements authorized; all seven individual images newly generated'
+ edges=np.array(out.getchannel('A'));edgecount=int(np.count_nonzero(edges[0])+np.count_nonzero(edges[-1])+np.count_nonzero(edges[:,0])+np.count_nonzero(edges[:,-1]));assert edgecount==0
+ manifest['cards'][tier]={'source':str(src),'source_sha256':hashlib.sha256(src.read_bytes()).hexdigest(),'output':filename,'fields':f,'rows':measured,'advancement':badge,'uncovered_art_native_pixels_checked':int(valid.sum()),'changed_art_native_pixels':changed,'changed_pixels_outside_authorized_UI_regions':unchanged_check,'canvas_edge_nontransparent_pixels':edgecount}
+(D/'composition-manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
+print(D)

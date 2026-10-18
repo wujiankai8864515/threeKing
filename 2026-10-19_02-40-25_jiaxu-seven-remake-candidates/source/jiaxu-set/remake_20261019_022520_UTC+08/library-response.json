@@ -1,0 +1,175 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-01-黑铁-乱军一言.png",
+        "file_id": "file_0000000082fc8230808f958570a6667e",
+        "library_file_id": "libfile_c5e1c1a102508191af185226d7903eed",
+        "file_name": "贾诩-01-黑铁-乱军一言.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3020481
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-02-青铜-宛城暗门.png",
+        "file_id": "file_0000000088c481f8bae07dca0eb8040c",
+        "library_file_id": "libfile_0f41f82fccd48191a760c8056c2cbd13",
+        "file_name": "贾诩-02-青铜-宛城暗门.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3028025
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-03-白银-东南藏锋.png",
+        "file_id": "file_00000000fad481fdbeeacbdbfcd7706a",
+        "library_file_id": "libfile_cea4ef74da348191937b504c3a5ce931",
+        "file_name": "贾诩-03-白银-东南藏锋.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3268105
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-04-黄金-缄书断盟.png",
+        "file_id": "file_00000000f0b481fda431dff63bf7c113",
+        "library_file_id": "libfile_05d4818060b481919bc3cd44e8cd18aa",
+        "file_name": "贾诩-04-黄金-缄书断盟.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3156106
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-七图总览.jpg",
+        "file_id": "file_00000000a97481f686850351d0e88944",
+        "library_file_id": "libfile_d47ff1044098819193a9d6021ed73902",
+        "file_name": "贾诩-七图总览.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 660936
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-传记01-盛宴外的迟疑.png",
+        "file_id": "file_00000000365881f5b830fbcd353548a6",
+        "library_file_id": "libfile_676aeddf09148191b770bc9d455c3d1a",
+        "file_name": "贾诩-传记01-盛宴外的迟疑.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2110403
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-传记02-三日看城.png",
+        "file_id": "file_00000000c67081fdae2dde76c5151967",
+        "library_file_id": "libfile_791007adead881919a4689b98d1a529a",
+        "file_name": "贾诩-传记02-三日看城.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2298174
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/贾诩-传记03-旧话后的新疑.png",
+        "file_id": "file_000000000a0c81f8972da706916d8fbc",
+        "library_file_id": "libfile_135b4cd69a148191b5ebaf410af00784",
+        "file_name": "贾诩-传记03-旧话后的新疑.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2192942
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

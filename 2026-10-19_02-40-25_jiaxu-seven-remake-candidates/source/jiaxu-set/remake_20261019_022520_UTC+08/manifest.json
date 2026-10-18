@@ -1,0 +1,107 @@
+{
+  "hero": "贾诩",
+  "status": "seven_new_candidates_pending_user_review",
+  "raw_assets": [
+    {
+      "asset": "story03",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/story03.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "cad627545aa38c04d93f7891d7defcf1ab816a8d70fa72d20ca15db7267cc2c7",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c8e55eee-035b-4169-b2b4-fc7b8d18bada.png"
+    },
+    {
+      "asset": "card01",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/card01.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "b52547765c1919c262a7b965dd580db71c77c68026b942bd71c6a3b219968e1a",
+      "source": "generated_images/exec-25357b25-f308-43b7-b924-477a5007155b.png"
+    },
+    {
+      "asset": "card04",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/card04.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "6c4e75ada7924bf1b162e10440669196b188fbad9e6cf6184d80f39ae6dcbab0",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9b105a0b-a45e-4b81-8761-5f856a020a4e.png"
+    },
+    {
+      "asset": "story02",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/story02.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "e9f60f21339def69506917fc5aa241016954113e16ebc3ab9092b110ba3b6dee",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a9cc97d0-9805-43ab-bda7-fe6c35df28d7.png"
+    },
+    {
+      "asset": "story01",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/story01.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "sha256": "82f267372a7f750da75b6a2ac1e71fdb92cb8d9fe3e88d0196193a1ee66c1093",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3b416294-4305-4c93-a30f-4b3905ee9698.png"
+    },
+    {
+      "asset": "card03",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/card03.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "13a0c1045aae0e5071fab91dbfadfb7d226bc999c206b69adf8b0d8fcc0e9b0b",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8950a1e7-affa-45a6-b770-f4c42da30791.png"
+    },
+    {
+      "asset": "card02",
+      "path": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/raw/card02.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "sha256": "4ee06d4f96cb8e196d29408161ead76f708efabbbf4a4780406d5360641410ea",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-73c69c47-4a10-423d-8be9-e7cbc39cc2cc.png"
+    }
+  ],
+  "delivery": [
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-01-黑铁-乱军一言.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-02-青铜-宛城暗门.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-03-白银-东南藏锋.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-04-黄金-缄书断盟.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-传记01-盛宴外的迟疑.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-传记02-三日看城.png",
+    "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-传记03-旧话后的新疑.png"
+  ],
+  "overview": "/workspace/scratch/3f82ff2b3f81/jiaxu-set/remake_20261019_022520_UTC+08/delivery/贾诩-七图总览.jpg",
+  "ui_canvas": [
+    1190,
+    1786
+  ],
+  "native_card": [
+    1024,
+    1536
+  ],
+  "native_story": [
+    1536,
+    1024
+  ],
+  "upscale": false,
+  "native_art_placement": "1:1 (84,145), only UI frame resized",
+  "source_research": "research/brief.json and verification.md",
+  "passives": "审隙：封援时间提高；远谋：选取距离提高；敛息：范围伤害降低。1/1/2/3技能条；LV1均为示例。",
+  "collection_faction": "群，四阶固定紫徽",
+  "myth_proposal": "原创缄影玄蛛，非原著法术",
+  "qa": "全部七原图及四卡UI已逐图观察；脸手可读，UI不遮主角脸手，无金粉照片皮肤。金卡神蛛/疏网生成在帐外远景上方而非原计划远地；低对比，主角保持最清晰。黑铁初版照片感退件保留。",
+  "tool": "built-in image_gen",
+  "git": "not touched"
+}

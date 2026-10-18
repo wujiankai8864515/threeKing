@@ -1,0 +1,485 @@
+{
+  "recorded_at": "2026-10-19T02:40:25.268057+08:00",
+  "precedence": "Supersedes prior effective mappings for current delivered candidates. New edits are not user final approvals. Rejected historical outputs remain rejected.",
+  "guanyu": {
+    "iron": {
+      "source_path": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+      "sha256": "09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/09778a4e7ea9371e096a7c1ffca7e08eb662261474ebfea15b9727e05d7f7b25.png",
+      "status": "user_accepted_frozen"
+    },
+    "bronze": {
+      "source_path": "guanyu-mythic-set/bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+      "sha256": "cf7cb2bfc0c9d1538b31b5f49d257ae688778912a1841282d667246da9c2cabd",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/cf7cb2bfc0c9d1538b31b5f49d257ae688778912a1841282d667246da9c2cabd.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "silver": {
+      "source_path": "guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-白银-刀型长杆局修-候选1.png",
+      "sha256": "dff254be11906b4df09d4fcb38623a7c75ba133a195f295c571c4ed1fb9df556",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/dff254be11906b4df09d4fcb38623a7c75ba133a195f295c571c4ed1fb9df556.png",
+      "status": "user_accepted_frozen"
+    },
+    "gold": {
+      "source_path": "guanyu-mythic-set/gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+      "sha256": "1214392de32f5a48b4adf4f75c5b2095409c6e56d0cff3b610118e419b1a4ea7",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/1214392de32f5a48b4adf4f75c5b2095409c6e56d0cff3b610118e419b1a4ea7.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "peach": {
+      "source_path": "guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "sha256": "d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/d20b6c7a691b10006ad046f42c575ac3046235a3dc0b0657cf30e1812de91b68.png",
+      "status": "user_accepted_frozen"
+    },
+    "wine": {
+      "source_path": "guanyu-mythic-set/wine_maskcomposite_20261018_233916_UTC+08/温酒请战-v17-原图冻结-武器局部合成.png",
+      "sha256": "095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/095e1abba2ff13e925a8f8959fa1d362fa6a070da98936f3964c7266ef33d912.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "escort": {
+      "source_path": "guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "sha256": "78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0",
+      "repository_path": "2026-10-18_19-05-48_source-rebuild-three-heroes-and-production-spec/assets/sha256/78373f6d3d1d553d3adb9009e863a7141d11d5b5f8ab14978a71a0df018debc0.png",
+      "status": "user_accepted_frozen"
+    }
+  },
+  "zhangfei": {
+    "iron": {
+      "source_path": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+      "sha256": "8c9c3e7be14c33672f1d04ac3bc527384a404dabbe9a17358a738f552c55f2e4",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/8c9c3e7be14c33672f1d04ac3bc527384a404dabbe9a17358a738f552c55f2e4.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "bronze": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+      "sha256": "28375ff8815ba13baa796c9a0093b523b6d88ab143c948c9efff2cd994fc9237",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/28375ff8815ba13baa796c9a0093b523b6d88ab143c948c9efff2cd994fc9237.png",
+      "status": "user_accepted_frozen"
+    },
+    "silver": {
+      "source_path": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+      "sha256": "386ed23e8b3055298ea58ddb413b41767d31a5110300d575d204e430fcc8df22",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/386ed23e8b3055298ea58ddb413b41767d31a5110300d575d204e430fcc8df22.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "gold": {
+      "source_path": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+      "sha256": "8d346e89ac8942627ac7007ba04a214c1db6c57526cdbd0a5e81e630d4118eec",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/8d346e89ac8942627ac7007ba04a214c1db6c57526cdbd0a5e81e630d4118eec.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    },
+    "bio01": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+      "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8.png",
+      "status": "user_accepted_frozen"
+    },
+    "bio02": {
+      "source_path": "zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+      "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0",
+      "repository_path": "2026-10-18_23-08-12_guanyu-zhangfei-scoped-revisions/assets/sha256/49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0.png",
+      "status": "user_accepted_frozen"
+    },
+    "bio03": {
+      "source_path": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/bio03-final.png",
+      "sha256": "4d511c52bbfc6da5d3adec98741d26a3cbfd12de9ac303202d7d2cef14f58821",
+      "repository_path": "2026-10-19_00-03-09_three-hero-masked-revisions-delivered/assets/sha256/4d511c52bbfc6da5d3adec98741d26a3cbfd12de9ac303202d7d2cef14f58821.png",
+      "status": "delivered_revision_candidate_not_user_accepted"
+    }
+  },
+  "liubei": {
+    "status": "seven_candidates_delivered_not_user_accepted",
+    "candidate_index": "liubei-set/revise_cards_20261018_231200_UTC+08/delivery-manifest.json",
+    "silver_library_file_id": "libfile_2792ea36b2b8819196a9d15ac00629e3"
+  },
+  "indexes": {
+    "guanyu": "guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/关羽-本轮七图索引.json",
+    "zhangfei": "zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/seven-image-index.json",
+    "liubei": "liubei-set/revise_cards_20261018_231200_UTC+08/delivery-manifest.json"
+  },
+  "historical_rejections": [
+    "Guan Yu bronze candidate 4 and failed candidate 5: do not use as current/final.",
+    "Guan Yu new gold weapon-edit chain through gold_grip_coaxial rejected for full-image drift. Use verified 20:57 source only as base.",
+    "Guan Yu wine weapon-edit chain through v16 rejected for full-image drift. Use verified v13 only as base."
+  ],
+  "blackiron_note": "Zhang Fei final uses manually masked 24px horizontal move. Early rejected seams version is history only.",
+  "production_scope": {
+    "heroes": 40,
+    "per_faction": 10,
+    "factions": [
+      "Wei",
+      "Shu",
+      "Wu",
+      "Qun"
+    ],
+    "images_per_hero": 7,
+    "total_images": 280,
+    "includes_existing_Liu_Guan_Zhang": true,
+    "existing_21": "Preserved unchanged; no new user-final acceptance inferred."
+  },
+  "machao": {
+    "status": "seven_new_candidates_pending_user_review",
+    "manifest": "machao-set/full-remake_20261019_002921_UTC+08/manifest.json",
+    "library_receipts": "machao-set/full-remake_20261019_002921_UTC+08/library-upload-results.json",
+    "assets": [
+      {
+        "id": "card01",
+        "label": "01-黑铁-西凉少锋",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card01.png",
+        "native_dimensions": [
+          1024,
+          1536
+        ],
+        "source_sha256": "803ac6244d2c13b72903631d216e67f04473fa57c6d61e9572ec73afd5fac01d",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/01-黑铁-西凉少锋.png",
+        "candidate_dimensions": [
+          1190,
+          1786
+        ],
+        "candidate_sha256": "364be5dad325acc0e33255ae96978c1b2e1021ed077c2d8ab4b6649de4a0ebe1",
+        "destination_card": null,
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "card02",
+        "label": "02-青铜-潼关怒骑",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card02.png",
+        "native_dimensions": [
+          1024,
+          1536
+        ],
+        "source_sha256": "730937b5666b568b6873decc5df9bc2a986ac372d09d8e12d6f24280bcce61e1",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/02-青铜-潼关怒骑.png",
+        "candidate_dimensions": [
+          1190,
+          1786
+        ],
+        "candidate_sha256": "66ef4253aafd47dde5372b27dc2d386ad1a5b9f0097531a3dc27e99569e09f47",
+        "destination_card": null,
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "card03",
+        "label": "03-白银-葭萌夜烈",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card03.png",
+        "native_dimensions": [
+          1024,
+          1536
+        ],
+        "source_sha256": "f4ec0ec74755ec7712583de1235c44c4f6614d8a095fdf2b59b33213df3c46e1",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/03-白银-葭萌夜烈.png",
+        "candidate_dimensions": [
+          1190,
+          1786
+        ],
+        "candidate_sha256": "88fbb0b3f771da7ac9c9f0931ed329f69d0285fcbaa3988790a56f75fc6ae911",
+        "destination_card": null,
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "card04",
+        "label": "04-黄金-归蜀定锋",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/card04.png",
+        "native_dimensions": [
+          1024,
+          1536
+        ],
+        "source_sha256": "1936f98dc194d49972d4d0131eee1e547f26bfc36fd481d2e552ab8743581c80",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/04-黄金-归蜀定锋.png",
+        "candidate_dimensions": [
+          1190,
+          1786
+        ],
+        "candidate_sha256": "f9499740a3b3e696a5cc788e6fc0db0a439d353123d59357ff28619989134dde",
+        "destination_card": null,
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "bio01",
+        "label": "05-传记-西凉起兵",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio01.png",
+        "native_dimensions": [
+          1536,
+          1024
+        ],
+        "source_sha256": "e7841f4f63823c28c7872b9e8f1ac1cef97cecc861406247bfb336831ff69c35",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/05-传记-西凉起兵.png",
+        "candidate_dimensions": [
+          1536,
+          1024
+        ],
+        "candidate_sha256": "e7841f4f63823c28c7872b9e8f1ac1cef97cecc861406247bfb336831ff69c35",
+        "destination_card": "card02",
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "bio02",
+        "label": "06-传记-挑灯争锋",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio02.png",
+        "native_dimensions": [
+          1536,
+          1024
+        ],
+        "source_sha256": "690ce2ddc0d2aa40d3e42201ac096580921fd72ae0984cf71635e6a4664b7c4c",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/06-传记-挑灯争锋.png",
+        "candidate_dimensions": [
+          1536,
+          1024
+        ],
+        "candidate_sha256": "690ce2ddc0d2aa40d3e42201ac096580921fd72ae0984cf71635e6a4664b7c4c",
+        "destination_card": "card03",
+        "status": "candidate_pending_user_review"
+      },
+      {
+        "id": "bio03",
+        "label": "07-传记-雾开有归",
+        "source": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/raw/bio03.png",
+        "native_dimensions": [
+          1536,
+          1024
+        ],
+        "source_sha256": "d6190ccfb3c42f1be3ddc726e011bd296811f116dc18a548f33c709bcc7291f6",
+        "candidate": "/workspace/scratch/3f82ff2b3f81/machao-set/full-remake_20261019_002921_UTC+08/candidates/07-传记-雾开有归.png",
+        "candidate_dimensions": [
+          1536,
+          1024
+        ],
+        "candidate_sha256": "d6190ccfb3c42f1be3ddc726e011bd296811f116dc18a548f33c709bcc7291f6",
+        "destination_card": "card04",
+        "status": "candidate_pending_user_review"
+      }
+    ],
+    "previous_versions": "Preserved as history; this set supersedes old Ma Chao candidates, not other heroes."
+  },
+  "pangtong": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "pangtong-set/remake_20261019_003529_UTC+08/index.json",
+    "source_map": "pangtong-set/remake_20261019_003529_UTC+08/source-map.json",
+    "library_receipts": "pangtong-set/remake_20261019_003529_UTC+08/library-results.json",
+    "advancement_field": "一二三四 are dynamic badge placeholders, not finalized advancement names."
+  },
+  "zhaoyun": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhaoyun-set/full-remake_20261019_002848_UTC+08/seven-image-index.json",
+    "source_map": "zhaoyun-set/full-remake_20261019_002848_UTC+08/source-map.json",
+    "library_receipts": "zhaoyun-set/full-remake_20261019_002848_UTC+08/library-upload.json"
+  },
+  "jiangwei": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "jiangwei-set/remake_20261019_003900_UTC+08/index.json",
+    "source_map": "jiangwei-set/remake_20261019_003900_UTC+08/source-map.json",
+    "library_receipts": "jiangwei-set/remake_20261019_003900_UTC+08/library-upload.json"
+  },
+  "weiyan": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "weiyan-set/remake_2026-10-19_00-47-19_UTC+08/manifest.json",
+    "source_map": "weiyan-set/remake_2026-10-19_00-47-19_UTC+08/source-map.json",
+    "library_receipts": "weiyan-set/remake_2026-10-19_00-47-19_UTC+08/library-uploads.json",
+    "review_note": "Root reviewed overview; right-hand bow grip independently inspected at native size and confirmed unobscured."
+  },
+  "zhugeliang": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhugeliang-set/final_localfix_20261019_005600_UTC+08/manifest.json",
+    "source_map": "zhugeliang-set/final_localfix_20261019_005600_UTC+08/manifest.json",
+    "library_receipts": "zhugeliang-set/final_localfix_20261019_005600_UTC+08/library-upload.json",
+    "review_note": "Final localfix: Liu Bei green-white clothing; silver/gold violet lightning; outside-mask changes zero. Old no-lightning versions historical only."
+  },
+  "zhangliao": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhangliao-set/remake_20261019_005137_UTC+08/manifest.json",
+    "source_map": "zhangliao-set/remake_20261019_005137_UTC+08/manifest.json",
+    "library_receipts": "zhangliao-set/remake_20261019_005137_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven candidates; blue Wei collection badge. Gold splashes are intentional water, not random gold dust; QA recorded."
+  },
+  "huangzhong": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/current-delivery-index.json",
+    "source_map": "huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/manifest.json",
+    "library_receipts": "huangzhong-set/scale_pose_fix_20261019_005650_UTC+08/current-delivery-index.json",
+    "review_note": "Root reviewed final scale/pose correction. Four cards use scale_pose_fix current-delivery-index; three stories unchanged. Earlier small-figure cards historical, not current."
+  },
+  "lejin": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "lejin-set/remake_20261019_005400_UTC+08/manifest.json",
+    "source_map": "lejin-set/remake_20261019_005400_UTC+08/manifest.json",
+    "library_receipts": "lejin-set/remake_20261019_005400_UTC+08/library-index.json",
+    "review_note": "Root reviewed overview; troop text replaced by independent SVG spear-shield/horse-head icons. Four cards and overview Library version 1; source art unchanged."
+  },
+  "yujin": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "yujin-set/full-remake_20261019_010206_UTC+08/manifest.json",
+    "source_map": "yujin-set/full-remake_20261019_010206_UTC+08/manifest.json",
+    "library_receipts": "yujin-set/full-remake_20261019_010206_UTC+08/library-receipt.json",
+    "review_note": "Root reviewed seven-image overview. Ready candidate set; no final user acceptance."
+  },
+  "zhanghe": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhanghe-set/remake_20261019_010400_UTC+08/manifest.json",
+    "source_map": "zhanghe-set/remake_20261019_010400_UTC+08/manifest.json",
+    "library_receipts": "zhanghe-set/remake_20261019_010400_UTC+08/library-replace-result.json",
+    "review_note": "Root reviewed corrected overview v1. Silver hand locally shifted away from UI; shared anchors 961/1045/1129 unchanged. Earlier silver seascape and unsafe hand versions preserved as history."
+  },
+  "xuhuang": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "xuhuang-set/remake_20261019_010740_UTC+08/manifest.json",
+    "source_map": "xuhuang-set/remake_20261019_010740_UTC+08/manifest.json",
+    "library_receipts": "xuhuang-set/remake_20261019_010740_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven-image overview. Frozen manifest and source map; new candidates awaiting user review."
+  },
+  "xunyu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "xunyu-set/remake_20261019_011235_UTC+08/manifest.json",
+    "source_map": "xunyu-set/remake_20261019_011235_UTC+08/manifest.json",
+    "library_receipts": "xunyu-set/remake_20261019_011235_UTC+08/library-uploads.json",
+    "review_note": "Root reviewed seven-image overview. Frozen manifest and source map; new candidates awaiting user review."
+  },
+  "caocao": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "caocao-set/remake_20261019_011150_UTC+08/manifest.json",
+    "source_map": "caocao-set/remake_20261019_011150_UTC+08/manifest.json",
+    "library_receipts": "caocao-set/remake_20261019_011150_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven-image overview. Snake heads and anachronistic background seated figure repaired; earlier versions preserved as history. Candidates awaiting user review."
+  },
+  "guojia": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "guojia-set/remake_20261019_011446_UTC+08/delivery-index.json",
+    "source_map": "guojia-set/remake_20261019_011446_UTC+08/source-map.json",
+    "library_receipts": "guojia-set/remake_20261019_011446_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven-image overview. Frozen delivery index includes seven images and overview; source, UI and process files preserved. Candidates awaiting user review."
+  },
+  "sunquan": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "sunquan-set/remake_20261019_012628_UTC+08/manifest.json",
+    "source_map": "sunquan-set/remake_20261019_012628_UTC+08/manifest.json",
+    "library_receipts": "sunquan-set/remake_20261019_012628_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven-image overview. Upper-right beast head reads somewhat weakly, recorded in QA; remains a candidate. Previous repair history preserved. Candidates awaiting user review."
+  },
+  "dianwei": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "dianwei-set/remake_20261019_012045_UTC+08/manifest.json",
+    "source_map": "dianwei-set/remake_20261019_012045_UTC+08/manifest.json",
+    "library_receipts": "dianwei-set/remake_20261019_012045_UTC+08/library-delivery.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; material repairs and previous versions preserved. All seven remain candidates. Candidates awaiting user review."
+  },
+  "xuchu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "xuchu-set/remake_20261019_012525_UTC+08/manifest.json",
+    "source_map": "xuchu-set/remake_20261019_012525_UTC+08/manifest.json",
+    "library_receipts": "xuchu-set/remake_20261019_012525_UTC+08/library-result.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; rounded face and head wrap distinguish Xu Chu from Dian Wei. Gold passive UI covers part of horse face, disclosed in QA; main face and hands unobscured. Candidates pending user review. Candidates awaiting user review."
+  },
+  "zhouyu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhouyu-set/remake_20261019_013150_UTC+08/manifest.json",
+    "source_map": "zhouyu-set/remake_20261019_013150_UTC+08/manifest.json",
+    "library_receipts": "zhouyu-set/remake_20261019_013150_UTC+08/library-result.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; hands locally repaired to avoid UI. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "sunce": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "sunce-set/full-remake_20261019_013020_UTC+08/manifest.json",
+    "source_map": "sunce-set/full-remake_20261019_013020_UTC+08/source-map.json",
+    "library_receipts": "sunce-set/full-remake_20261019_013020_UTC+08/library-manifest.json",
+    "review_note": "Root reviewed overview. Hand/UI avoidance and weapon mechanical repairs preserved with failed history. Candidates pending user review."
+  },
+  "lumeng": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "lumeng-set/remake_20261019_013422_UTC+08/manifest.json",
+    "source_map": "lumeng-set/remake_20261019_013422_UTC+08/source-map.json",
+    "library_receipts": "lumeng-set/remake_20261019_013422_UTC+08/library-results.json",
+    "review_note": "Root reviewed overview. Hand/UI avoidance and weapon mechanical repairs preserved with failed history. Candidates pending user review."
+  },
+  "huanggai": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "huanggai-set/remake_20261019_014841_UTC+08/manifest.json",
+    "source_map": "huanggai-set/remake_20261019_014841_UTC+08/manifest.json",
+    "library_receipts": "huanggai-set/remake_20261019_014841_UTC+08/library-upload.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; overly realistic material treatment corrected. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "luxun": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "luxun-set/remake_20261019_014505_UTC+08/manifest.json",
+    "source_map": "luxun-set/remake_20261019_014505_UTC+08/manifest.json",
+    "library_receipts": "luxun-set/remake_20261019_014505_UTC+08/library-results.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; hand positions repaired to avoid UI; overly realistic failed versions retained as history. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "ganning": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "ganning-set/full-remake_20261019_014611_UTC+08/manifest.json",
+    "source_map": "ganning-set/full-remake_20261019_014611_UTC+08/manifest.json",
+    "library_receipts": "ganning-set/full-remake_20261019_014611_UTC+08/library-delivery.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; four cards revised from photographic appearance to animation style; earlier versions retained as history. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "taishici": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "taishici-set/remake_20261019_015620_UTC+08/manifest.json",
+    "source_map": "taishici-set/remake_20261019_015620_UTC+08/manifest.json",
+    "library_receipts": "taishici-set/remake_20261019_015620_UTC+08/library-delivery.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; Shenting foot combat is a disclosed action adaptation; Hefei defeat is not rewritten as a victory. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "sunshangxiang": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "sunshangxiang-set/remake_20261019_015400_UTC+08/manifest.json",
+    "source_map": "sunshangxiang-set/remake_20261019_015400_UTC+08/manifest.json",
+    "library_receipts": "sunshangxiang-set/remake_20261019_015400_UTC+08/library-results.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "lusu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "lusu-set/remake_20261019_015848_UTC+08/manifest.json",
+    "source_map": "lusu-set/remake_20261019_015848_UTC+08/manifest.json",
+    "library_receipts": "lusu-set/remake_20261019_015848_UTC+08/library-ids.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "lubu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "lubu-set/remake_20261019_020335_UTC+08/manifest.json",
+    "source_map": "lubu-set/remake_20261019_020335_UTC+08/manifest.json",
+    "library_receipts": "lubu-set/remake_20261019_020335_UTC+08/library-upload.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "zhangjiao": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "zhangjiao-set/remake_20261019_021005_UTC+08/manifest.json",
+    "source_map": "zhangjiao-set/remake_20261019_021005_UTC+08/manifest.json",
+    "library_receipts": "zhangjiao-set/remake_20261019_021005_UTC+08/library-upload.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "diaochan": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "diaochan-set/remake_20261019_020550_UTC+08/manifest.json",
+    "source_map": "diaochan-set/remake_20261019_020550_UTC+08/source-map.json",
+    "library_receipts": "diaochan-set/remake_20261019_020550_UTC+08/library-upload.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; Gold costume progression revision is current; gold and overview Library version 1. Other six images unchanged. Previous gold retained under revision_gold_20261019_022215/before as history only. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "huatuo": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "huatuo-set/remake_20261019_021550_UTC+08/manifest.json",
+    "source_map": "huatuo-set/remake_20261019_021550_UTC+08/source-map.json",
+    "library_receipts": "huatuo-set/remake_20261019_021550_UTC+08/delivery-library-ids.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; Root reviewed overview. Frozen manifest includes seven candidates, overview, original generation sources and Library IDs. Candidates awaiting user review. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  },
+  "dongzhuo": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "dongzhuo-set/remake_20261019_021620_UTC+08/manifest.json",
+    "source_map": "dongzhuo-set/remake_20261019_021620_UTC+08/manifest.json",
+    "library_receipts": "dongzhuo-set/remake_20261019_021620_UTC+08/library-delivery.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Dong Zhuo palace corrected to 嘉德殿; previous 崇德殿 brief is erroneous. Yuan Shao silver-to-gold progression corrections are current. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "yuanshao": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "yuanshao-set/remake_20261019_021817_UTC+08/manifest.json",
+    "source_map": "yuanshao-set/remake_20261019_021817_UTC+08/manifest.json",
+    "library_receipts": "yuanshao-set/remake_20261019_021817_UTC+08/library-results.json",
+    "review_note": "Root reviewed overview. Source, QA and failed history preserved. Dong Zhuo palace corrected to 嘉德殿; previous 崇德殿 brief is erroneous. Yuan Shao silver-to-gold progression corrections are current. Wei, Shu and Wu each have ten complete candidate sets; Qun production is not complete. Candidates pending user review."
+  },
+  "jiaxu": {
+    "status": "seven_new_candidates_pending_user_review",
+    "index": "jiaxu-set/remake_20261019_022520_UTC+08/manifest.json",
+    "source_map": "jiaxu-set/remake_20261019_022520_UTC+08/manifest.json",
+    "library_receipts": "jiaxu-set/remake_20261019_022520_UTC+08/library-ids.json",
+    "review_note": "Root reviewed seven-image overview. Root reviewed overview; Root reviewed overview. Frozen manifest includes seven candidates, overview, sources and Library IDs. Overhead web differs from ground-web draft; QA records it and character remains unobscured. Candidates awaiting user review. Earlier versions preserved. Seven candidates awaiting user review. Candidates awaiting user review."
+  }
+}
