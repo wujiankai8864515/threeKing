@@ -1,0 +1,1 @@
+首轮全套材质偏写实，保留material-realistic。风格纠正一度将两张传记坐骑误作白泽，wrong-mount拒绝；现已局部恢复白马。card02-stylefix1-rejected错误混入关羽参考场景，完全拒绝并回到原始单图纠正。story03-stylefix1-rejected未纠正材质但补齐步兵，保留后二次单图风格修正。card03-stylefix1-realistic补齐枪尾和银盔但材质仍写实，后续单图风格纠正。工具调用一次提示缺失错误无图产出，已重试完成。

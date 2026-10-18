@@ -1,0 +1,1 @@
+undefined Preserve mixed troop scene: add clear infantry ranks behind foreground beside cavalry, no readable text on tablet.

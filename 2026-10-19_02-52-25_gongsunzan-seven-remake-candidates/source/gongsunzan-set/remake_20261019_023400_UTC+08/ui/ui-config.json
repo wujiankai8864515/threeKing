@@ -1,0 +1,66 @@
+{
+  "iron": {
+    "country": "群",
+    "title": "公孙瓒",
+    "level": "1",
+    "advancement": "一",
+    "skills": [
+      {
+        "name": "整骑",
+        "level": "+1"
+      }
+    ],
+    "status": "公孙瓒技能草案，单关键效果，候选待审"
+  },
+  "bronze": {
+    "country": "群",
+    "title": "公孙瓒",
+    "level": "1",
+    "advancement": "二",
+    "skills": [
+      {
+        "name": "整骑",
+        "level": "+1"
+      }
+    ],
+    "status": "公孙瓒技能草案，单关键效果，候选待审"
+  },
+  "silver": {
+    "country": "群",
+    "title": "公孙瓒",
+    "level": "1",
+    "advancement": "三",
+    "skills": [
+      {
+        "name": "整骑",
+        "level": "+2"
+      },
+      {
+        "name": "引弦",
+        "level": "+2"
+      }
+    ],
+    "status": "公孙瓒技能草案，单关键效果，候选待审"
+  },
+  "gold": {
+    "country": "群",
+    "title": "公孙瓒",
+    "level": "1",
+    "advancement": "四",
+    "skills": [
+      {
+        "name": "整骑",
+        "level": "+3"
+      },
+      {
+        "name": "引弦",
+        "level": "+3"
+      },
+      {
+        "name": "复阵",
+        "level": "+3"
+      }
+    ],
+    "status": "公孙瓒技能草案，单关键效果，候选待审"
+  }
+}

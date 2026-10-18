@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "card01",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-0874801d-58d2-4f46-b78f-b3c2ca2e2abe.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card01.png"
+  },
+  {
+    "asset": "card02",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b74da0fc-f17d-47bb-bacd-6c7ae830df61.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card02.png"
+  },
+  {
+    "asset": "card03",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5fd9a959-02f8-48d8-a61a-27d4ee97b0f4.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card03.png"
+  },
+  {
+    "asset": "card04",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5aa491d9-39ef-425a-8821-511acdfb0df1.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card04.png"
+  },
+  {
+    "asset": "story01",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a1687fe5-1a59-484e-9e0d-b7ea12ea3ca7.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story01.png"
+  },
+  {
+    "asset": "story02",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c37615cd-7c93-4831-93fd-c5e02bb5920a.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story02.png"
+  },
+  {
+    "asset": "story03",
+    "built_in_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-cf75b09e-aaac-479e-8f76-e337df14b81e.png",
+    "retained_raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story03.png"
+  }
+]

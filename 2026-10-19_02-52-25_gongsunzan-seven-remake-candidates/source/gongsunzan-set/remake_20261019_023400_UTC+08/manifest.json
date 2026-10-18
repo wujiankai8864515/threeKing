@@ -1,0 +1,132 @@
+{
+  "hero": "公孙瓒",
+  "faction": "群",
+  "status": "候选待审，非用户通过",
+  "engine": "built-in image_gen",
+  "sources": [
+    "https://zh.wikisource.org/wiki/三國演義/第005回",
+    "https://zh.wikisource.org/wiki/三國演義/第007回",
+    "https://zh.wikisource.org/wiki/三國演義/第011回"
+  ],
+  "art_resampling": "none; cards1024x1536 at1:1 offset84,145 on1190x1786",
+  "assets": [
+    {
+      "id": "01-黑铁-北平赴盟",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/01-黑铁-北平赴盟.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "39f57328a53b50a84c90b4236a12d4302a10970dd83552ae3b9dda8a6079b969",
+      "target_card": null,
+      "library_file_id": "libfile_f2aeccfb67788191be228eb895b78901"
+    },
+    {
+      "id": "02-青铜-磐河问盟",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/02-青铜-磐河问盟.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "f758ebeb29f1e6f3ef561c696d0c3838ae574c911f49967b7a639b6a16166a43",
+      "target_card": null,
+      "library_file_id": "libfile_e65be9957fec8191938e1f1727de0315"
+    },
+    {
+      "id": "03-白银-白马回阵",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/03-白银-白马回阵.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "4d5e6c2e19a7addb1ad5b62b78b1bc27ee9a7691acbc21961db1f2d3a00b718a",
+      "target_card": null,
+      "library_file_id": "libfile_d13febea4948819191836c47a1d0c46a"
+    },
+    {
+      "id": "04-黄金-借兵济徐",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/card04.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/04-黄金-借兵济徐.png",
+      "native_size": [
+        1024,
+        1536
+      ],
+      "candidate_size": [
+        1190,
+        1786
+      ],
+      "sha256": "700538b5e5f27581d782094d8469498f2896ffa5e8b377c9b7e27a695d72ed05",
+      "target_card": null,
+      "library_file_id": "libfile_fe41e384c08c8191a51ea38b530ec135"
+    },
+    {
+      "id": "05-传记-桥上决裂",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story01.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/05-传记-桥上决裂.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "7e88f3aca3ada8210b6117b2aeb5968d97a3e5ec971fda1d7d9df5910884c69e",
+      "target_card": "card02",
+      "library_file_id": "libfile_3401205f201c819192654155c6cd5668"
+    },
+    {
+      "id": "06-传记-重整白骑",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story02.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/06-传记-重整白骑.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "52d344bd4ca5d7b7953b27a1cf34cd7f04b4be2bcaf986283b71cca7dad42881",
+      "target_card": "card03",
+      "library_file_id": "libfile_38c36982527c8191936409c1ed8e7deb"
+    },
+    {
+      "id": "07-传记-二千兵相助",
+      "raw": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/raw/story03.png",
+      "candidate": "/workspace/scratch/3f82ff2b3f81/gongsunzan-set/remake_20261019_023400_UTC+08/candidates/07-传记-二千兵相助.png",
+      "native_size": [
+        1536,
+        1024
+      ],
+      "candidate_size": [
+        1536,
+        1024
+      ],
+      "sha256": "9039022ce0c91cd59e3d3777260f31b1e1c52f13ed802db55b95092eea13857d",
+      "target_card": "card04",
+      "library_file_id": "libfile_2d8111a65e548191a25a82444b2e3386"
+    }
+  ],
+  "overview": {
+    "path": "gongsunzan-set/remake_20261019_023400_UTC+08/公孙瓒-四阶三传记-重做总览.png",
+    "library_file_id": "libfile_dadde30cc1148191be1a9b3211db6e87"
+  },
+  "frozen_at": "2026-10-18T18:51:20Z",
+  "qa_status": "candidate reviewed; not user approved"
+}
