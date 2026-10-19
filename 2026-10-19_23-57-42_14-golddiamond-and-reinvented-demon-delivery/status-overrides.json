@@ -1,0 +1,35 @@
+{
+  "recorded_at": "2026-10-19T23:57:42.288405+08:00",
+  "previous_status": "2026-10-19_23-54-30_research-informed-reinvented-demon-ten-ready/status-overrides.json",
+  "current_summary": "本轮14完整卡（研究启发新魔10与4张已选卡金钻/宽枪UI）及2总览已统一发送，三条服务accepted回执已记录。魔10、金钻框和宽枪新UI待选未批准。官方实际设计研究影响04/05/09三款重生成，原草稿保历史，引用的3张官方参考注明来源不冒称原创。10无框源、成卡、原生成与修订参数、UI独立层/配置、实际源映射、QA/SHA和Library回执齐。认可插画冻结不重画，无新增生产，配套未触发。",
+  "effective_source_map": "2026-10-19_23-57-42_14-golddiamond-and-reinvented-demon-delivery/effective-source-map.json",
+  "delivery": {
+    "receipts": [
+      {
+        "scope": "overviews2",
+        "message_id": "Sentinel_3aa19e236e208191859b49970124520b",
+        "timestamp": "2026-10-19T15:54:43.469659Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "demon01-10",
+        "message_id": "Sentinel_e5178f5b5348819181efc4d88f584c07",
+        "timestamp": "2026-10-19T15:54:50.580893Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "selected_four_UI",
+        "message_id": "Sentinel_8eb37915cc4c8191a40e8ea47417687f",
+        "timestamp": "2026-10-19T15:54:53.766382Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      }
+    ],
+    "complete_card_candidates": 14,
+    "overviews": 2,
+    "user_read_confirmed": false,
+    "user_final_approved": false
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "verified_asset_commit": "c13ef0606760f51570a482475101c0cef5ff98c5",
+  "independent_fetch": "PASS",
+  "new_lfs_fsck": "PASS",
+  "resolved_paths_verified": 12063,
+  "sequential_copy_sha256_checked": true
+}

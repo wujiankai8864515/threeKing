@@ -1,0 +1,29 @@
+{
+  "receipts": [
+    {
+      "scope": "overviews2",
+      "message_id": "Sentinel_3aa19e236e208191859b49970124520b",
+      "timestamp": "2026-10-19T15:54:43.469659Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "demon01-10",
+      "message_id": "Sentinel_e5178f5b5348819181efc4d88f584c07",
+      "timestamp": "2026-10-19T15:54:50.580893Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "selected_four_UI",
+      "message_id": "Sentinel_8eb37915cc4c8191a40e8ea47417687f",
+      "timestamp": "2026-10-19T15:54:53.766382Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    }
+  ],
+  "complete_card_candidates": 14,
+  "overviews": 2,
+  "user_read_confirmed": false,
+  "user_final_approved": false
+}

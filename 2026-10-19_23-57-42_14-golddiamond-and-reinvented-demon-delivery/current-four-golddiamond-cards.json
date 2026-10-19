@@ -1,0 +1,131 @@
+{
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/gold-diamond-wide-spear_20261019_234320_UTC+08/mecha5/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/assets/sha256/43be54cad6b5ad8ece4efeb49044df506a41f118b3c0ed9f3e9b4c684baf6588.png",
+      "sha256": "43be54cad6b5ad8ece4efeb49044df506a41f118b3c0ed9f3e9b4c684baf6588",
+      "original_sha256": "43be54cad6b5ad8ece4efeb49044df506a41f118b3c0ed9f3e9b4c684baf6588",
+      "bytes": 4205970,
+      "archived_at": "2026-10-19T23:46:11.008319+08:00",
+      "source_bytes_preserved": true,
+      "status": "service_accepted_pending_user_selection",
+      "supersedes": [],
+      "branch_id": "piloted-dragon-mecha",
+      "tier": 5,
+      "source": {
+        "original_path": "guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+        "original_name": "五星机甲关羽-青龙巨神-原图候选.png",
+        "repository_path": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/assets/sha256/0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5.png",
+        "sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+        "original_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+        "bytes": 3380469,
+        "archived_at": "2026-10-19T18:45:22.458957+08:00",
+        "source_bytes_preserved": true,
+        "status": "candidate_or_process_artifact_pending_user_review",
+        "supersedes": []
+      }
+    },
+    {
+      "original_path": "guanyu-advanced/gold-diamond-wide-spear_20261019_234320_UTC+08/heritage5/guanyu-heritage-water-command-5star.png",
+      "original_name": "guanyu-heritage-water-command-5star.png",
+      "repository_path": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/assets/sha256/8ea0448354aaff56dda4ec8d2a5f39b53cc76a67fb1be7485e5e3140718a728e.png",
+      "sha256": "8ea0448354aaff56dda4ec8d2a5f39b53cc76a67fb1be7485e5e3140718a728e",
+      "original_sha256": "8ea0448354aaff56dda4ec8d2a5f39b53cc76a67fb1be7485e5e3140718a728e",
+      "bytes": 4197826,
+      "archived_at": "2026-10-19T23:46:11.008319+08:00",
+      "source_bytes_preserved": true,
+      "status": "service_accepted_pending_user_selection",
+      "supersedes": [],
+      "branch_id": "heritage-water-command",
+      "tier": 5,
+      "source": {
+        "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+        "original_name": "heritage5-water-command-art.png",
+        "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a.png",
+        "sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+        "original_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+        "bytes": 3424387,
+        "archived_at": "2026-10-19T19:38:17.287179+08:00",
+        "source_bytes_preserved": true,
+        "status": "candidate_or_process_artifact_pending_user_review",
+        "supersedes": []
+      }
+    },
+    {
+      "original_path": "guanyu-advanced/gold-diamond-wide-spear_20261019_234320_UTC+08/divine5/guanyu-divine-refined-05-5star.png",
+      "original_name": "guanyu-divine-refined-05-5star.png",
+      "repository_path": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/assets/sha256/1c2fef8d5809b217a630890599851bbfc82f359b88836670991f5733f5da33ba.png",
+      "sha256": "1c2fef8d5809b217a630890599851bbfc82f359b88836670991f5733f5da33ba",
+      "original_sha256": "1c2fef8d5809b217a630890599851bbfc82f359b88836670991f5733f5da33ba",
+      "bytes": 4166938,
+      "archived_at": "2026-10-19T23:46:11.008319+08:00",
+      "source_bytes_preserved": true,
+      "status": "service_accepted_pending_user_selection",
+      "supersedes": [],
+      "branch_id": "divine-refined-05",
+      "tier": 5,
+      "source": {
+        "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+        "original_name": "05_source.png",
+        "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c.png",
+        "sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+        "original_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+        "bytes": 3370871,
+        "archived_at": "2026-10-19T22:25:10.673374+08:00",
+        "source_bytes_preserved": true,
+        "status": "candidate_or_process_artifact_pending_user_review",
+        "supersedes": []
+      }
+    },
+    {
+      "original_path": "guanyu-advanced/gold-diamond-wide-spear_20261019_234320_UTC+08/mecha6/guanyu-selected08-renamed-6star.png",
+      "original_name": "guanyu-selected08-renamed-6star.png",
+      "repository_path": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/assets/sha256/801c35ad2e9840d833edfd67c4ebba68a5eb5dc9d99cead12c6f8217ccd15093.png",
+      "sha256": "801c35ad2e9840d833edfd67c4ebba68a5eb5dc9d99cead12c6f8217ccd15093",
+      "original_sha256": "801c35ad2e9840d833edfd67c4ebba68a5eb5dc9d99cead12c6f8217ccd15093",
+      "bytes": 4102299,
+      "archived_at": "2026-10-19T23:46:11.008319+08:00",
+      "source_bytes_preserved": true,
+      "status": "service_accepted_pending_user_selection",
+      "supersedes": [],
+      "branch_id": "selected08-renamed",
+      "tier": 6,
+      "source": {
+        "original_path": "guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+        "original_name": "source.png",
+        "repository_path": "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready/assets/sha256/7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6.png",
+        "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+        "original_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+        "bytes": 3290066,
+        "archived_at": "2026-10-19T22:29:05.088526+08:00",
+        "source_bytes_preserved": true,
+        "status": "candidate_or_process_artifact_pending_user_review",
+        "supersedes": []
+      }
+    }
+  ],
+  "library_receipts_original_path": "guanyu-advanced/gold-diamond-wide-spear_20261019_234320_UTC+08/library-receipts.json",
+  "chat_delivered": true,
+  "latest_UI_approved": false,
+  "selected_illustrations": [
+    "mecha5",
+    "heritage5",
+    "divine_refined5_05",
+    "mecha20_08"
+  ],
+  "selected_sixstar_frame": "enhanced03_象牙金釉御铸",
+  "new_demon_fusion": "pending_user_review",
+  "sixstar_skill_names": {
+    "active": "龙御天穹",
+    "passives": [
+      "镇岳",
+      "逆鳞",
+      "天诛"
+    ],
+    "user_authorized_rewrite": true,
+    "individually_approved": false,
+    "mechanism": "defense_counterattack_unchanged"
+  },
+  "chat_delivery_status": "service_accepted_pending_user_selection"
+}
