@@ -1,0 +1,23 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "",
+  "branch_id": "piloted-dragon-mecha",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/ui-fix_20261019_185800_UTC+08",
+  "skills": [
+    {
+      "name": "蓄能",
+      "level": 1
+    },
+    {
+      "name": "龙息",
+      "level": 1
+    },
+    {
+      "name": "终结",
+      "level": 1
+    }
+  ]
+}

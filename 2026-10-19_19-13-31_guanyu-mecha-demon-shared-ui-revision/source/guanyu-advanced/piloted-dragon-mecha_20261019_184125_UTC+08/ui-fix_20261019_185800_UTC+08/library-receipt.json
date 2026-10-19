@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星机甲关羽-姓名与进阶UI修正.png",
+      "file_id": "file_00000000743481f99880e7994eb7bb56",
+      "library_file_id": "libfile_35b682810118819196323b2ba80a0077",
+      "file_name": "五星机甲关羽-姓名与进阶UI修正.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4248286,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

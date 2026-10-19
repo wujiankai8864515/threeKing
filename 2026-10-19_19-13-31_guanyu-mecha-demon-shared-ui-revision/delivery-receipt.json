@@ -1,0 +1,23 @@
+{
+  "batches": [
+    {
+      "message_id": "Sentinel_c6df54edbd5c8191a791f1ac914e5f21",
+      "sent_at": "2026-10-19T10:58:37Z",
+      "scope": "Initial demon card",
+      "status": "accepted_by_chat_service"
+    },
+    {
+      "message_id": "Sentinel_f2e482e3ef688191aa21118d759fbaf7",
+      "sent_at": "2026-10-19T11:01:49Z",
+      "scope": "Latest corrected mecha and demon cards",
+      "status": "accepted_by_chat_service"
+    },
+    {
+      "message_id": "Sentinel_bc000988a7ec81919ab5b5817a39b32c",
+      "sent_at": "2026-10-19T11:09:30Z",
+      "scope": "Latest final-UI mecha and revised three-face six-arm demon cards",
+      "status": "accepted_by_chat_service"
+    }
+  ],
+  "service_acceptance_is_not_user_final_approval": true
+}

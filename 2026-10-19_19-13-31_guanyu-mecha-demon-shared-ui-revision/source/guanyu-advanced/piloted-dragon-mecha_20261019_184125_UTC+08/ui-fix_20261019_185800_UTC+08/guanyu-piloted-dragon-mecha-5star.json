@@ -1,0 +1,126 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "",
+  "branch_id": "piloted-dragon-mecha",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/ui-fix_20261019_185800_UTC+08",
+  "skills": [
+    {
+      "name": "蓄能",
+      "level": 1
+    },
+    {
+      "name": "龙息",
+      "level": 1
+    },
+    {
+      "name": "终结",
+      "level": 1
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/ui-fix_20261019_185800_UTC+08/guanyu-piloted-dragon-mecha-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/ui-fix_20261019_185800_UTC+08/guanyu-piloted-dragon-mecha-5star-dynamic-ui.png",
+  "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+  "output_sha256": "be6cc5927ff3383463e022f05e0ad9e390bf7d3b3265732da583ff6fd3ae5624",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "机甲·关羽",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        234,
+        69
+      ]
+    },
+    {
+      "text": "",
+      "target_center": [
+        180.126953125,
+        1609.2604166666667
+      ],
+      "glyph_bbox": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "text": "蓄能 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "龙息 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "终结 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        50
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

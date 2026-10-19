@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/asset-index.json",
+  "asset_index": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "用户否决旧整批五星六星，原因是雷同；旧素材和交付包仅历史保留。关羽一至四星认可冻结。当前仅五星驾驶巨型青龙人形机甲关羽一张候选待审，早先非人形机械长龙被后续要求覆盖。",
-  "latest_delta": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate",
-  "current_status": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/status-overrides.json",
+  "note": "机甲方向认可但天字与枪头UI被否决待修；已交魔卡三面六臂造型及UI也被否决待重画。此批为截至11:09:30交付的完整历史记录，不作现行通过稿。右上统一分支·关羽；左下三合一进阶暂以天占位；右下仅枪头尖端，无文字无长杆，内部兵种仍长枪兵。魔卡最新三面六臂仰天怒吼，微小地面败亡远景；中间五手遮挡与出框版本仅过程历史。旧五星六星整批否决历史与所有局修旧版保留。",
+  "latest_delta": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision",
+  "current_status": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -89,7 +89,8 @@
     "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion",
     "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map",
     "2026-10-19_15-02-57_advanced-final-downloads-and-receipts",
-    "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate"
+    "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate",
+    "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -197,7 +198,8 @@
     "2026-10-19_15-02-57_advanced-final-downloads-and-receipts",
     "2026-10-19_15-04-44_scoped-skill-backup-verified",
     "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate",
-    "2026-10-19_18-46-57_scoped-skill-backup-verified"
+    "2026-10-19_18-46-57_scoped-skill-backup-verified",
+    "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -215,13 +217,13 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-19_18-46-57_scoped-skill-backup-verified/verification.json",
-  "effective_source_map": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/effective-source-map.json",
-  "production_progress": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/production-progress.json",
+  "effective_source_map": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/effective-source-map.json",
+  "production_progress": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
-  "current_guanyu_five_star": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/current-guanyu-five-star-candidate.json"
+  "current_guanyu_five_star": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/current-guanyu-five-star-candidates.json"
 }

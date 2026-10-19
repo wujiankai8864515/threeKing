@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/五星魔关羽-麦城阿修罗-原图候选.png",
+        "file_id": "file_00000000fb98820e8b745bc86d0140a2",
+        "library_file_id": "libfile_506e2cebf6c4819197b8e4a9ba8e7d3a",
+        "file_name": "五星魔关羽-麦城阿修罗-原图候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3493786,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/五星魔关羽-麦城阿修罗-成卡候选.png",
+        "file_id": "file_00000000766481f992003a468402f6dc",
+        "library_file_id": "libfile_10b3612d6020819198da30fcffdf9f59",
+        "file_name": "五星魔关羽-麦城阿修罗-成卡候选.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4311183,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

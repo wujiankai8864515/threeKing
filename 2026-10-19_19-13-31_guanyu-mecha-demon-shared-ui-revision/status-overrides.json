@@ -1,0 +1,30 @@
+{
+  "recorded_at": "2026-10-19T19:13:31.415625+08:00",
+  "previous_status": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/status-overrides.json",
+  "current_summary": "机甲方向认可但天字与枪头UI被否决待修；已交魔卡三面六臂造型及UI也被否决待重画。此批为截至11:09:30交付的完整历史记录，不作现行通过稿。右上统一分支·关羽；左下三合一进阶暂以天占位；右下仅枪头尖端，无文字无长杆，内部兵种仍长枪兵。魔卡最新三面六臂仰天怒吼，微小地面败亡远景；中间五手遮挡与出框版本仅过程历史。旧五星六星整批否决历史与所有局修旧版保留。",
+  "effective_source_map": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_c6df54edbd5c8191a791f1ac914e5f21",
+        "sent_at": "2026-10-19T10:58:37Z",
+        "scope": "Initial demon card",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_f2e482e3ef688191aa21118d759fbaf7",
+        "sent_at": "2026-10-19T11:01:49Z",
+        "scope": "Latest corrected mecha and demon cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_bc000988a7ec81919ab5b5817a39b32c",
+        "sent_at": "2026-10-19T11:09:30Z",
+        "scope": "Latest final-UI mecha and revised three-face six-arm demon cards",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_final_approval": true
+  },
+  "other_37": "paused_rejected_historical_only"
+}
