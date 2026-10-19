@@ -1,0 +1,135 @@
+{
+  "hero": "guanyu",
+  "name": "魔·关羽",
+  "branch": "天",
+  "branch_id": "demon-fusion-04",
+  "tier": 5,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/04-天临孤城-source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/card-04",
+  "skills": [
+    {
+      "name": "杀心",
+      "level": 2
+    },
+    {
+      "name": "噬魂",
+      "level": 2
+    },
+    {
+      "name": "复仇",
+      "level": 2
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/card-04/guanyu-demon-fusion-04-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/card-04/guanyu-demon-fusion-04-5star-dynamic-ui.png",
+  "source_sha256": "2055c22d5d5399a593ab1afaba66691aa8dbeb30430a1049cc6f2e06c51c9823",
+  "output_sha256": "e692500a3ed0d3a1ac499a40b48590bbc55b924555382f7a4bbdb588302dcc6e",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "魔",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        54,
+        68
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        764.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        699.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "杀心 +2",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        48
+      ]
+    },
+    {
+      "text": "噬魂 +2",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "复仇 +2",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

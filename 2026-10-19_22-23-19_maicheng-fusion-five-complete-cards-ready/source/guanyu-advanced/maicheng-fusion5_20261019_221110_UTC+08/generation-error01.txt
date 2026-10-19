@@ -1,0 +1,1 @@
+Original01 output rejected by image service: moderation_blocked violence; request ID 8433cb61-2ee2-45c6-8b50-4e356a1b5aae. Retry explicitly removes wounds/blood/bodily mutation/combat; uses clothing and mask transformation only.
