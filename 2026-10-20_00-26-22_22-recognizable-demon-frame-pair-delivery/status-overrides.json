@@ -1,0 +1,42 @@
+{
+  "recorded_at": "2026-10-20T00:26:22.986411+08:00",
+  "previous_status": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/status-overrides.json",
+  "current_summary": "本轮22完整候选（可辨关羽人马魔化20与五星真钻/六星赤金两框成卡）及4张总览对照已统一发送，四条服务accepted回执准确保存，全部已交待选，无新批准。保留20无字源、完整卡、独立UI层/config、实际参数参考、源版本映射、QA/SHA/23Library回执及反馈；两框的标准alpha与同图等级对照齐。旧泛怪物十款及所有失败/覆盖版本留历史，当前无新增生产。",
+  "effective_source_map": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/effective-source-map.json",
+  "delivery": {
+    "receipts": [
+      {
+        "scope": "overviews4",
+        "message_id": "Sentinel_e5de77bf2bd4819191d5f121642552ab",
+        "timestamp": "2026-10-19T16:23:42.500214Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "demon01-10",
+        "message_id": "Sentinel_af4c011826b08191889f3c7091d0bb28",
+        "timestamp": "2026-10-19T16:23:49.911678Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "demon11-20",
+        "message_id": "Sentinel_ce2b7aab6cf4819191996ecda034927a",
+        "timestamp": "2026-10-19T16:23:57.585100Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "five_six_frame_pair",
+        "message_id": "Sentinel_2568db2f34c08191a8bc0ef2769ef9ba",
+        "timestamp": "2026-10-19T16:24:01.495869Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      }
+    ],
+    "complete_card_candidates": 22,
+    "overviews": 4,
+    "user_read_confirmed": false,
+    "user_final_approved": false
+  }
+}

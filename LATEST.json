@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/asset-index.json",
+  "asset_index": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "可辨关羽人马统一魔化新20全部完整真钻五星卡已冻结，追加余11至20源及全部20成卡/UI配置/实际参考参数/QA/完整manifest/23项Library回执与SHA。保关羽辨识、人马一体魔化、霸气悲怆与真实方案差异，不沿旧泛怪物解禁。首10已备份原源未覆写；无框源、透明独立框引用、动态层/config、最终卡与总览都保留。本批与五星真钻/六星赤金两框共22候选READY，待统一发送回执，未用户批准。",
-  "latest_delta": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready",
-  "current_status": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/status-overrides.json",
+  "note": "本轮22完整候选（可辨关羽人马魔化20与五星真钻/六星赤金两框成卡）及4张总览对照已统一发送，四条服务accepted回执准确保存，全部已交待选，无新批准。保留20无字源、完整卡、独立UI层/config、实际参数参考、源版本映射、QA/SHA/23Library回执及反馈；两框的标准alpha与同图等级对照齐。旧泛怪物十款及所有失败/覆盖版本留历史，当前无新增生产。",
+  "latest_delta": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery",
+  "current_status": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -130,7 +130,8 @@
     "2026-10-20_00-03-01_recognizable-demon-twenty-feedback-scope",
     "2026-10-20_00-05-25_true-diamond-redgold-frame-pair-ready",
     "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources",
-    "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready"
+    "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready",
+    "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -280,7 +281,8 @@
     "2026-10-20_00-03-01_recognizable-demon-twenty-feedback-scope",
     "2026-10-20_00-05-25_true-diamond-redgold-frame-pair-ready",
     "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources",
-    "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready"
+    "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready",
+    "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -289,7 +291,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "963ba8c6b6edea2267a632bff4cffaf6ae2fd50e",
+  "remote_verified_commit": "fe14e53c1fd25250ce49727eb9fa7f1c17909077",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -297,12 +299,12 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/prior-remote-verification.json",
-  "effective_source_map": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/effective-source-map.json",
-  "production_progress": "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready/production-progress.json",
+  "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
+  "effective_source_map": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/effective-source-map.json",
+  "production_progress": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_23-57-42_14-golddiamond-and-reinvented-demon-delivery/delivery-receipt.json",
+  "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
