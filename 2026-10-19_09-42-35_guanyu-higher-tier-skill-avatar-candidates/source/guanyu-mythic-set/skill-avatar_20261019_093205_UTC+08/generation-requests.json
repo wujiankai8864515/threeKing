@@ -1,0 +1,65 @@
+[
+  {
+    "key": "bronze_cg",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+      ],
+      "prompt": "Use case stylized-concept, production transparent PNG battlefield ultimate-skill cut-in. Single landscape 1536x1024 composition, real alpha outside subject and controlled energy. Reference 1 locks this tier's Guan Yu face, long elegant black beard, physique, costume, illustrated mythic anime aesthetic; reference 2 only establishes genuine long rigid glaive proportions and broad crescent blade. BRONZE early sworn-brother warrior: reference 1 simple bronze lamellar armor, green cloth headwrap, long plain green robe white inner sleeves red sash. Relatively modest awakened power. Create a new explosive action pose, not a static character card, no frame/text. Three-quarter front standing low powerful stance, torso twisting as both hands drive a heavy diagonal descending glaive slash, robe and beard whipped left. A modest translucent jade dragon HEAD awakening behind shoulder, body mostly dissolving, a single controlled green blade crescent. Face is focused fierce but dignified, same narrow eyes arched heavy brows long nose and smooth warm reddish complexion, anatomically correct exactly two arms/two hands, fingers close around cylindrical shaft. Entire long steel shaft coaxial before/after hands, no gaps, no bending, no short sword grip. Weapon length at least hero standing height, crescent broad near front, robust neck and cutting edge. Cropping a weapon end naturally allowed; do not shrink weapon to fit. Keep face and blade exceptionally crisp. All rendering clean detailed stylized painted animation, no photoreal pores or oil smear. NO scenery, NO floor, NO box backdrop, NO black/white background, NO checkerboard. Preserve actual alpha with semi-transparent dragon and light. No glitter speckles, gold dust, floating random particles, metallic skin, duplicate people or weapons. Main hero greatest visual focus, dragon secondary. Skill visually expresses gathered strength released into one decisive cleaving blow. No written skill name."
+    }
+  },
+  {
+    "key": "bronze_avatar",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/bronze_tail_masked_20261018_233859_UTC+08/青铜-骑乘重建-尾杆共轴遮罩修复.png"
+      ],
+      "prompt": "Use case identity-preserve, single production square 1024x1024 transparent PNG head-and-shoulders avatar of Guan Yu. Reference locks approved handsome face, narrow phoenix eyes, strong arched brows, straight long nose, warm reddish clean skin, elegant long black beard, same age and identity. BRONZE early sworn-brother warrior: reference 1 simple bronze lamellar armor, green cloth headwrap, long plain green robe white inner sleeves red sash. Relatively modest awakened power. Center the head, whole headpiece in frame with padding, chest and distinctive shoulders visible. Three-quarter frontal looking toward viewer, controlled confident expression. Very sharp clean mythic anime character painting, bold readable shape at small UI size, carefully separated hair locks, broad soft light with clean shadow planes, not photoreal skin. True transparent alpha around silhouette, no scenic background, no square backdrop, no frame, no text, no star or badge. Simple unembellished green headwrap and bronze shoulder plates, almost no glow. No weapon across face, no horse, no dragon obscuring portrait. No scattered goldpowder or luminous dots; no bruised/puffy face. Highest clean detail, no blur, no plastic skin."
+    }
+  },
+  {
+    "key": "silver_cg",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-白银-刀型长杆局修-候选1.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+      ],
+      "prompt": "Use case stylized-concept, production transparent PNG battlefield ultimate-skill cut-in. Single landscape 1536x1024 composition, real alpha outside subject and controlled energy. Reference 1 locks this tier's Guan Yu face, long elegant black beard, physique, costume, illustrated mythic anime aesthetic; reference 2 only establishes genuine long rigid glaive proportions and broad crescent blade. SILVER celebrated warrior: reference 1 black-and-silver lamellar with ornate golden dragon shoulder, patterned green robes and ornate green headpiece, stronger jade-green dragon power. Create a new explosive action pose, not a static character card, no frame/text. Dramatic low-view three-quarter leftward lunging sweeping slash with widely spaced hands on long continuous shaft; torso and elbows convey weight, green robes flying. A large fierce emerald dragon head surges behind the slashing arc, white-green energy concentrated along blade. Face is focused fierce but dignified, same narrow eyes arched heavy brows long nose and smooth warm reddish complexion, anatomically correct exactly two arms/two hands, fingers close around cylindrical shaft. Entire long steel shaft coaxial before/after hands, no gaps, no bending, no short sword grip. Weapon length at least hero standing height, crescent broad near front, robust neck and cutting edge. Cropping a weapon end naturally allowed; do not shrink weapon to fit. Keep face and blade exceptionally crisp. All rendering clean detailed stylized painted animation, no photoreal pores or oil smear. NO scenery, NO floor, NO box backdrop, NO black/white background, NO checkerboard. Preserve actual alpha with semi-transparent dragon and light. No glitter speckles, gold dust, floating random particles, metallic skin, duplicate people or weapons. Main hero greatest visual focus, dragon secondary. Skill visually expresses gathered strength released into one decisive cleaving blow. No written skill name."
+    }
+  },
+  {
+    "key": "silver_avatar",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/silver_gold_weapon_localfix_2026-10-18_22-35-15_UTC+08/关羽-白银-刀型长杆局修-候选1.png"
+      ],
+      "prompt": "Use case identity-preserve, single production square 1024x1024 transparent PNG head-and-shoulders avatar of Guan Yu. Reference locks approved handsome face, narrow phoenix eyes, strong arched brows, straight long nose, warm reddish clean skin, elegant long black beard, same age and identity. SILVER celebrated warrior: reference 1 black-and-silver lamellar with ornate golden dragon shoulder, patterned green robes and ornate green headpiece, stronger jade-green dragon power. Center the head, whole headpiece in frame with padding, chest and distinctive shoulders visible. Three-quarter frontal looking toward viewer, controlled confident expression. Very sharp clean mythic anime character painting, bold readable shape at small UI size, carefully separated hair locks, broad soft light with clean shadow planes, not photoreal skin. True transparent alpha around silhouette, no scenic background, no square backdrop, no frame, no text, no star or badge. Elegant gilded green headpiece and dragon shoulder details, small controlled emerald edge glow. No weapon across face, no horse, no dragon obscuring portrait. No scattered goldpowder or luminous dots; no bruised/puffy face. Highest clean detail, no blur, no plastic skin."
+    }
+  },
+  {
+    "key": "gold_cg",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png"
+      ],
+      "prompt": "Use case stylized-concept, production transparent PNG battlefield ultimate-skill cut-in. Single landscape 1536x1024 composition, real alpha outside subject and controlled energy. Reference 1 locks this tier's Guan Yu face, long elegant black beard, physique, costume, illustrated mythic anime aesthetic; reference 2 only establishes genuine long rigid glaive proportions and broad crescent blade. GOLD mature martial demigod: reference 1 extremely ornate layered gold dragon armor, deep emerald cloak with gold embroidery, authoritative jeweled green headpiece, most majestic dragon power. Create a new explosive action pose, not a static character card, no frame/text. Three-quarter front dynamic mounted strike on Red Hare, powerful forward charge with only horse upper body/forelegs naturally composed; Guan Yu twists and executes downward finishing glaive strike, both hands correctly spaced. A colossal imposing emerald dragon head and broad mane follows his strike, most powerful shaped green energy ribbon, gold armor with broad clean highlights. Face is focused fierce but dignified, same narrow eyes arched heavy brows long nose and smooth warm reddish complexion, anatomically correct exactly two arms/two hands, fingers close around cylindrical shaft. Entire long steel shaft coaxial before/after hands, no gaps, no bending, no short sword grip. Weapon length at least hero standing height, crescent broad near front, robust neck and cutting edge. Cropping a weapon end naturally allowed; do not shrink weapon to fit. Keep face and blade exceptionally crisp. All rendering clean detailed stylized painted animation, no photoreal pores or oil smear. NO scenery, NO floor, NO box backdrop, NO black/white background, NO checkerboard. Preserve actual alpha with semi-transparent dragon and light. No glitter speckles, gold dust, floating random particles, metallic skin, duplicate people or weapons. Main hero greatest visual focus, dragon secondary. Skill visually expresses gathered strength released into one decisive cleaving blow. No written skill name."
+    }
+  },
+  {
+    "key": "gold_avatar",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png"
+      ],
+      "prompt": "Use case identity-preserve, single production square 1024x1024 transparent PNG head-and-shoulders avatar of Guan Yu. Reference locks approved handsome face, narrow phoenix eyes, strong arched brows, straight long nose, warm reddish clean skin, elegant long black beard, same age and identity. GOLD mature martial demigod: reference 1 extremely ornate layered gold dragon armor, deep emerald cloak with gold embroidery, authoritative jeweled green headpiece, most majestic dragon power. Center the head, whole headpiece in frame with padding, chest and distinctive shoulders visible. Three-quarter frontal looking toward viewer, controlled confident expression. Very sharp clean mythic anime character painting, bold readable shape at small UI size, carefully separated hair locks, broad soft light with clean shadow planes, not photoreal skin. True transparent alpha around silhouette, no scenic background, no square backdrop, no frame, no text, no star or badge. Most ornate sculpted gold dragon shoulders and gold-edged emerald headpiece, imperial martial splendor without changing face; refined stronger emerald edge aura, restrained enough for clear portrait. No weapon across face, no horse, no dragon obscuring portrait. No scattered goldpowder or luminous dots; no bruised/puffy face. Highest clean detail, no blur, no plastic skin."
+    }
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/bronze_cg.png",
+        "file_id": "file_000000009df081fb996bb9493a98940e",
+        "library_file_id": "libfile_899490f2f7cc8191a2c43f89b8cbe722",
+        "file_name": "bronze_cg.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3050538
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/bronze_avatar.png",
+        "file_id": "file_00000000d44481fba69ac9a3f602cebf",
+        "library_file_id": "libfile_1e12909aa8d48191bdcb12cd113ceb2c",
+        "file_name": "bronze_avatar.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2690142
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/silver_cg.png",
+        "file_id": "file_00000000a75881f5b5ebc3ed55be205b",
+        "library_file_id": "libfile_2d261717bdc881919b7af78e96a645f6",
+        "file_name": "silver_cg.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3243801
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/silver_avatar.png",
+        "file_id": "file_000000006e4881f5be92e50597b82fc4",
+        "library_file_id": "libfile_9e93f44de8f08191acd4498b381c1c04",
+        "file_name": "silver_avatar.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2913078
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/gold_cg.png",
+        "file_id": "file_000000007e3881f8b469976b20b78ae4",
+        "library_file_id": "libfile_0738c5fa1fc081918806d27604407c13",
+        "file_name": "gold_cg.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3312595
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/gold_avatar.png",
+        "file_id": "file_00000000a10881f5a00007cc206824cc",
+        "library_file_id": "libfile_b13ca9f181b88191a7c50df007192833",
+        "file_name": "gold_avatar.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2906320
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

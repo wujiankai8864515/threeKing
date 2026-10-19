@@ -1,0 +1,20 @@
+{
+  "status-overrides.json": "a808eef56c522a25d0bdd8c14d445e6fb03770542a0fa531fec5dcccb773849b",
+  "effective-source-map.json": "e2203bdc84db10301665caaa53175a7755150901ee2dce25d94ec826138e69c3",
+  "asset-index.json": "803be28d0911b3b7862245be83bde7d02a2c0a1e217fc5e62a68be7e65496a46",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "production-progress.json": "4933fa5a50fb5e84950a89236eba78e5bc8ae83e24d5dfc841caf7a4049b37f3",
+  "README.md": "677006f90e1f7459b60a2f0ffd0840ecf2dd0b2dfd3343e14fbf0d7a3a02105e",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/qa-light-dark.jpg": "c1ad5efb5b9ecee415cc470a3ffb7f1d8d84dd40f9efb65f42861cad2b8b96dc",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/library-results.json": "493c177529df6b09537295bd338fb8b1579a5019a12e1c5c1eedb238afef1c5c",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/DELIVERY_RECEIPT.json": "6293980262a27da36c17a130a2649a15231217e80e6b68b71edef84f0488907d",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/asset-manifest.json": "ed9653d704272c1dcdc3f1fe69c881ce93482b4018c908e43d205208306631fb",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/generation-requests.json": "c728619031255dcba9a6c68f1c3bc9ced0552b7f3442f8f93dd37c1bdbce355c",
+  "source/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/READY_FOR_BACKUP.md": "e5aedd0ddea30ec6ca98ff697607d8ea0c002c7b60422688ebdded2da0e57136",
+  "assets/sha256/913e319e6c3fd0d3be46e331654beee5e71aaa2a88968b7e133c70b18252cb33.png": "913e319e6c3fd0d3be46e331654beee5e71aaa2a88968b7e133c70b18252cb33",
+  "assets/sha256/f4abe1c77af82bbcafbbf3048cc4ebfa0ccbc16c77a819699bbdcfab8e3aabc1.png": "f4abe1c77af82bbcafbbf3048cc4ebfa0ccbc16c77a819699bbdcfab8e3aabc1",
+  "assets/sha256/c0bbe98ca81cdad945d11f69382f79f998dafdda2897b71673286af7343f6ef9.png": "c0bbe98ca81cdad945d11f69382f79f998dafdda2897b71673286af7343f6ef9",
+  "assets/sha256/5d038aeab01f9e0d1639b8d225af3a89f58e592b7db26c9d6c16bcaf85f5663d.png": "5d038aeab01f9e0d1639b8d225af3a89f58e592b7db26c9d6c16bcaf85f5663d",
+  "assets/sha256/2c3fc85f0f0fefb2f40c350c0fba31f9f824b2059f8f07f17779822ccfd44b08.png": "2c3fc85f0f0fefb2f40c350c0fba31f9f824b2059f8f07f17779822ccfd44b08",
+  "assets/sha256/57288c2dc8560af82e359f03fd65b27a04283d8976e2406191dd5f0f9a115dc3.png": "57288c2dc8560af82e359f03fd65b27a04283d8976e2406191dd5f0f9a115dc3"
+}

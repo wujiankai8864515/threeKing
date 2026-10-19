@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-19T09:42:35.422435+08:00",
+  "previous_status": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/status-overrides.json",
+  "current_summary": "刘关张四阶共24张透明技能CG与头像计划；关羽四阶透明8张已交付候选，其余张飞刘备16张制作中。其余37名英雄暂停，拒用候选留历史。",
+  "scope": "hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08",
+  "feedback": "guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08",
+  "effective_source_map": "2026-10-19_09-42-35_guanyu-higher-tier-skill-avatar-candidates/effective-source-map.json",
+  "delivery": {
+    "sent_at": "2026-10-19T01:41:58Z",
+    "message_id": "Sentinel_388641bca1108191aec6b7d587ecebb3",
+    "status": "accepted_by_chat_service",
+    "user_final_accepted": false,
+    "review_note": "铜银斜斩相似；黄金杆透视缩短；CG alpha最大254，均为待审候选。"
+  },
+  "preservation": "Original opaque first drafts preserved as superseded history; all approved sources unchanged"
+}
