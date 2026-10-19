@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-10-19T23:17:55.270880+08:00",
+  "user_instruction_time_UTC": "2026-10-19T15:16:00Z",
+  "time_precision": "minute_as_relayed",
+  "selected_set": "guanyu-divine-refined5/20261019_221530_UTC+08",
+  "selected_id": "05",
+  "selected_name": "义誓同天",
+  "user_instruction": "挺不错直接用",
+  "status": "user_selected_use_current_locked_no_redraw",
+  "source": {
+    "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+    "original_name": "05_source.png",
+    "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c.png",
+    "sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+    "original_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+    "bytes": 3370871,
+    "archived_at": "2026-10-19T22:25:10.673374+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "card": {
+    "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-05-5star.png",
+    "original_name": "guanyu-divine-refined-05-5star.png",
+    "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f.png",
+    "sha256": "e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f",
+    "original_sha256": "e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f",
+    "bytes": 4204131,
+    "archived_at": "2026-10-19T22:25:10.673374+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "library_file_id": "libfile_dd61f04f5cb48191909d6d74f08ddb76",
+  "not_old_twenty_05": true
+}
