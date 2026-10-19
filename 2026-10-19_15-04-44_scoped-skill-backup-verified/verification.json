@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-19T15:04:44.295879+08:00",
+  "verified_asset_commit": "9a8dc1da2b4472bcb3a6b31dcac0c8d97e461c91",
+  "independent_fetch": "PASS",
+  "new_lfs_objects_remote_fetched_and_fsck": "PASS",
+  "resolved_paths_verified": 10775,
+  "sequential_copy_sha256_checked": true,
+  "scope": "Three retained heroes: 120 native sources, 24 framed cards; final 120 image mapping; all prompts, references, skills, cultural sources, QA and history; 25 download packages (24 material plus 1 documentation) byte-identically rebuilt from independent remote resources. Chat accepted, user review pending.",
+  "user_final_accepted": false,
+  "download_packages_rebuilt": 25,
+  "material_packages": 24,
+  "documentation_packages": 1,
+  "final_images_verified": 120,
+  "source_images_verified": 120,
+  "framed_cards_verified": 24,
+  "original_zip_bytes_reproduced": true
+}
