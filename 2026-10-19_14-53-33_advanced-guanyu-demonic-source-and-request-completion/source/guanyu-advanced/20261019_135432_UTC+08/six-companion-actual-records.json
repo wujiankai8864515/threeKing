@@ -1,0 +1,158 @@
+[
+  {
+    "id": "divine6_story",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 unique SIX STAR ascension narrative 万庙同辉 original extension. Same sourcewhitejade/green divine robes and crown, standing foreground on actualtemplecourtyard raisedstep, Guan Yu lifts longglaive solemnly onehandpropergrip while otherhand opens to protect worshippers. Multiple distant grounded Chinese towns/shrines in valley reveal connecting smooth jade lightbands converging into ONE dragonHEAD and triplemandalaseals behindhero. No floatingheavencities. Dominant crisp face, small lowercontrast civilians, sacred scale beyond5. No combatarmy/flood no glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png"
+      ],
+      "transparent_background": false
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-f9ffb001-b225-4be2-b732-ea6a876c2bf0.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f9ffb001-b225-4be2-b732-ea6a876c2bf0.png",
+    "sha256": "7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db"
+  },
+  {
+    "id": "divine6_avatar",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square true transparent chest-up SIX STAR divine Guan avatar, exactly source's WHITE JADE and GREEN ceremonialrobe, layered gold shoulders and tallgreen crown, longblackbeard sharpredtanface. No fullbackground no mandala no dragon no weapon. Slight calmfrontgaze. PurealphaZEROoutsidebust.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-4cdb92c3-0145-40b0-b3e6-991c09c1967a.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4cdb92c3-0145-40b0-b3e6-991c09c1967a.png",
+    "sha256": "c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9"
+  },
+  {
+    "id": "divine6_cutin",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 true transparent SIX STAR divine skill burst fullbody. Same whitejade/green robes layeredgoldshoulders, Guan rotates and delivers a decisive longglaive downward diagonal cut LEFT, twoseparatedhandsgrip rigidshaft continuous through palms, longblade. Triplejade seal erupts behind and giant muscular green dragon HEAD above; broad sacred emerald column of bladeenergy no unrelatedterrain. Clear forceful anatomy, fierce focused face, no idleblessing. No opaque background, transparent between silhouettes, margin.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-6b646e49-d45a-4631-969d-e97621f6456d.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6b646e49-d45a-4631-969d-e97621f6456d.png",
+    "sha256": "4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393"
+  },
+  {
+    "id": "divine6_fx",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square true transparent independent SIX STAR sacred VFX only NO person physicalweaponhorse: three layered jade circular protectionseals with clean cloudmotifs, monumental Chinese emerald dragon HEAD with ivorybranchedantlers at top and strong central vertical whitegreen judgementbeam. Greaterscaleandlayeringthan5single seal. No readabletext no fakeletters, no powderdots no wholecanvasmist, alphaZEROnegative space.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-771e6ca0-8682-4ca0-b95f-25a3c302910f.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-771e6ca0-8682-4ca0-b95f-25a3c302910f.png",
+    "sha256": "486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587"
+  },
+  {
+    "id": "demon6_story",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 unique SIX STAR demon upgrade narrative 断锁归冥. Same sourceGuan face/beard and elaborate obsidianbone armor, stands center on solid earth below ruined gate, twohands on longglaive cutting one gigantic spectral chain into TWO segments. Intactbody no gore. Two broken chain ends recoil cleanly. Skeletal horse watches lowerleft and massive crowned spectral dragon HEAD empowersabove, blackstonegate opens to deepgreen/crimson otherworldlight. This is breaking bondage not repeatkneelingMaichengawakening, resolvevengeance. Mainhero sharp, backgrounds subordinate, no emberconfetti.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png"
+      ],
+      "transparent_background": false
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-6f0d077d-6c1f-4438-b9cb-4b9d7073fec7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6f0d077d-6c1f-4438-b9cb-4b9d7073fec7.png",
+    "sha256": "b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f"
+  },
+  {
+    "id": "demon6_avatar",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square true transparent isolated SIX STAR demon Guan bust exact sourceidentity, larger elaborate bone-dragon shoulder armor and armoredcollar than5, battle-tornblackgreenkerchief, fierce sharp intactredface, longbeautifulblackbeard. Subtle red-eye rim not biglaser. No horse no dragonbig no scenebackdrop no weapon. AlphaZEROoutside.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-b99d1679-6828-4481-8cea-0658c02683e3.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b99d1679-6828-4481-8cea-0658c02683e3.png",
+    "sha256": "7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258"
+  },
+  {
+    "id": "demon6_cutin",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 true transparent SIX STAR demon explosive cut-in. Same elaborateblackbonearmorsource, Guan airborne in a compact plausible descendingtwohand overhead cleave, knees tucked differentheights, torso aligned and twohandsseparatedon verylongstraightglaive; blade broadcrescent pointing downfront. Not anatomycontortion. Powerful skeletal dragon HEAD and broad crimsonedgeddarkgreen crescent roar behind, a few broken chainchunks not confetti. Intenserevengeeyesfaceclear. No scene no ground no opaquehaze. Entireweapon/facehands readable.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-81450281-3e5e-4407-8828-33e5a7e56918.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-81450281-3e5e-4407-8828-33e5a7e56918.png",
+    "sha256": "2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b"
+  },
+  {
+    "id": "demon6_fx",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square genuine transparent independent SIX STAR demon VFX nohumanweaponhorse: enormous crowned bone-spectral green DRAGON HEAD roars, two massive layered darkemerald/crimson crescent pressurewaves and four broad broken spectralchain segments. Stronger structuredthan5, not randomsparkles. No text no gore no background no tinyglitter. Transparentopennegative space aroundshape.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-253ced11-329f-4949-be64-c5d5fb5df2e1.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-253ced11-329f-4949-be64-c5d5fb5df2e1.png",
+    "sha256": "a8174ba9bd0d61acf2885aec76fe0c893a9f141dd36a702c8fa553052ad6f13c"
+  },
+  {
+    "id": "mecha6_story",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 unique SIX STAR technological upgrade 龙核合一. Exact source whitejade-green mechanical armorGuan face/beard, standing center on launchgantry, mechanical dragonHEAD descendsbehindshoulder and its long broad green energyconduit links to hero circularreactorcore, heroic neural synchronization not torture. One full-length plasma crescent glaive docked beside as physicalrigidlongpole. Several open reactor rings behind lowercontrastindustrialhangar, no writtenHUD. Heroopensonehand controlling link, faceidentitysharp, cinematicmechanicalgenesis. Different from five-star first consciousnessreconstruction.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png"
+      ],
+      "transparent_background": false
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-39e65370-b7da-47f0-be93-cf2e6be231ca.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-39e65370-b7da-47f0-be93-cf2e6be231ca.png",
+    "sha256": "53a9f1a87a07b3781af86b77a325d10654929ebf26cdd6a8af2a78f82db2fc0a"
+  },
+  {
+    "id": "mecha6_avatar",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square transparent SIX STAR MECHA Guan bust, exact source FACE greenheadwrap blackbeard and upgraded whitejade-titanium/emerald/gold thickmechanicalpauldrons, larger circularenergysternumcore. Human face no metalface, intricate cleanstructural panels. No backdropno dragon no weapon. AlphaZEROoutsidebust. More lavish thanfive greenblackarmor.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-6aabaf34-9bcb-4b4c-93cb-4dbf98d7c4f6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6aabaf34-9bcb-4b4c-93cb-4dbf98d7c4f6.png",
+    "sha256": "cc91d4f96a7e57823f0f5db7efabeec4acb17771d06e28f6d17f30d765597c7c"
+  },
+  {
+    "id": "mecha6_cutin",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Landscape3:2 transparent SIX STAR MECHA Guan explosive attack, exact whitejade/green mechanical armor. Fullbody propelled sideleft with bentpowerleg, TWO hands across verylongstraightplasma glaive swingwidehorizontalfinish, shoulderselbowsnatural. Giant mechanical dragon HEAD projectsbehind and two broad faceted emerald energyrailcrescent waves, sharpjointgeometry, noclothwaterbeast. Wholeisolatedsilhouette withinmargin; no hangarno groundnoopaque rectangle. Facevisible.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-5554918c-8c1a-43ad-bab8-5a4e5aa1af5c.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5554918c-8c1a-43ad-bab8-5a4e5aa1af5c.png",
+    "sha256": "04cfdb247bfff15a611e622749e69a79e3fc04e6310443ae04a6ee08167e2773"
+  },
+  {
+    "id": "mecha6_fx",
+    "args": {
+      "prompt": "ONE image only. Match reference Guan Yu recognizable mature handsome red-tan face, sharp phoenix eyes, long black beard, green kerchief; same polished clean stylized mythic Chinese game illustration, not photo/oil. Full anatomical correctness, TWO hands, long straight continuous rigid glaive shaft with broad crescent blade, weapon taller than man, no joints bending at grip; do not use sword grip for polearm. Highly clear subject, main face and hands away from extreme edges and lower-right20% UI-safe. Deliberate broad emerald energy edges, NO random gold powder, NO spark confetti, no skin metallic glare, no text/frame/UI/stars.Square true transparent independent SIX STAR MECHA VFX nohumanphysicalweaponhorse. Oversized faceted mechanical emerald dragon-head hologram with paired segmented orbital railrings and TWO layered angular plasma crescentenergy sheets, whitegreen corelines, technological deliberate geometry. More advanced than5singleblade. No lettersno UItext no particledust no wholecanvasglow, genuinealphaZEROopen negative space.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png"
+      ],
+      "transparent_background": true
+    },
+    "hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-368234ce-3695-43ab-aeb3-9759da25e4dc.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "raw_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-368234ce-3695-43ab-aeb3-9759da25e4dc.png",
+    "sha256": "9c27f7a5a9db354e4c286c1c72aab1689935d5c783ad7635cf0d5cc7caa416e7"
+  }
+]

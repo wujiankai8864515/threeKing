@@ -1,0 +1,1362 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_card_v2.png",
+    "file_id": "file_000000006c8081f5bc5b7e518465c4fb",
+    "library_file_id": "libfile_61070a768c688191acea67ad5b3c18bc",
+    "file_name": "heritage5_card_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3486655,
+    "external_connectors_accessed": false,
+    "sha256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_card_v2.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_card_v2.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_story.png",
+    "file_id": "file_00000000496c81f5a3ac4168177d6d60",
+    "library_file_id": "libfile_d660039c7410819189b0d30635f98b76",
+    "file_name": "heritage5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3450626,
+    "external_connectors_accessed": false,
+    "sha256": "4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_avatar.png",
+    "file_id": "file_00000000bbd881f5b349b7654f1c1386",
+    "library_file_id": "libfile_f2b95320fe988191a70161534ca33e67",
+    "file_name": "heritage5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2845872,
+    "external_connectors_accessed": false,
+    "sha256": "b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.24873260431054436,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_cutin.png",
+    "file_id": "file_00000000a26c81f5a32aead2d138fb74",
+    "library_file_id": "libfile_c5a99cc726bc8191a11a097a5208cd9c",
+    "file_name": "heritage5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3295595,
+    "external_connectors_accessed": false,
+    "sha256": "079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.23342323303222656,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_fx.png",
+    "file_id": "file_00000000d8c081f5865d033577530328",
+    "library_file_id": "libfile_d8ac3c7aa710819186859b020e8d70e1",
+    "file_name": "heritage5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2271834,
+    "external_connectors_accessed": false,
+    "sha256": "82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.44077134986225897,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_card.png",
+    "file_id": "file_00000000027081f58b68b2711ddb1656",
+    "library_file_id": "libfile_c7ed83db1094819185400fc3f83d589d",
+    "file_name": "heritage6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3423416,
+    "external_connectors_accessed": false,
+    "sha256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_story.png",
+    "file_id": "file_00000000b37c81f594475947fe81fc81",
+    "library_file_id": "libfile_c75b562580a48191bce460780e20fa37",
+    "file_name": "heritage6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3198691,
+    "external_connectors_accessed": false,
+    "sha256": "c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_avatar_v2.png",
+    "file_id": "file_00000000a9c481f59ca281dc2211231b",
+    "library_file_id": "libfile_bfead209b1ac8191bac76c16b29e4b39",
+    "file_name": "heritage6_avatar_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2742584,
+    "external_connectors_accessed": false,
+    "sha256": "c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2656996812751031,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_avatar_v2.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_avatar_v2.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_cutin.png",
+    "file_id": "file_000000007d40820e868d24af0f8dba1d",
+    "library_file_id": "libfile_300ab84d8ee08191a84f45f255b88ccb",
+    "file_name": "heritage6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3496101,
+    "external_connectors_accessed": false,
+    "sha256": "2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.20278485616048178,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_fx.png",
+    "file_id": "file_00000000152481f5a8d71101f0a03567",
+    "library_file_id": "libfile_487a58313cf881918c690401da19959e",
+    "file_name": "heritage6_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2699714,
+    "external_connectors_accessed": false,
+    "sha256": "685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.38569337291321676,
+    "branch": "heritage",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_card.png",
+    "file_id": "file_00000000832481f581451d54e6e8fe7d",
+    "library_file_id": "libfile_d9e46151cc70819183de4e96ba69eccd",
+    "file_name": "divine5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3230320,
+    "external_connectors_accessed": false,
+    "sha256": "96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_story.png",
+    "file_id": "file_00000000830081f5b1ce3094c8613c7c",
+    "library_file_id": "libfile_ddcc8c2b9ed48191bec8cd2b42e99e7a",
+    "file_name": "divine5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3347820,
+    "external_connectors_accessed": false,
+    "sha256": "ca96ef3429665b93432df52b4371b812cfa21ec453c66a64cee77801811041a2",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_avatar.png",
+    "file_id": "file_000000007fac81f5bdd83fbd585a38fe",
+    "library_file_id": "libfile_b9adcb7892788191b0d994c82304a6af",
+    "file_name": "divine5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2664799,
+    "external_connectors_accessed": false,
+    "sha256": "2e0eca492cc6d740074596a8ce11e8e79f9c088a8d0f93d58042ed868ef03f12",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3099338893849093,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_cutin.png",
+    "file_id": "file_0000000071f481f5b6706d3bd8d1823c",
+    "library_file_id": "libfile_f796835299508191b5d149b35b522ee9",
+    "file_name": "divine5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3384466,
+    "external_connectors_accessed": false,
+    "sha256": "85978b25190dd6a3a386e2b21017e581a6c300b11feef953de8f1c12d3414560",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.16590499877929688,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_fx.png",
+    "file_id": "file_00000000ac9881f5b192c4c0744ca49d",
+    "library_file_id": "libfile_36a09c8295b881918cb09687a26d390e",
+    "file_name": "divine5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2944398,
+    "external_connectors_accessed": false,
+    "sha256": "a323771dc474106d83d9c3d31e06d156d74a2f171a7e0b7367ca1954e73bde5d",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.26771873863286605,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine6_card.png",
+    "file_id": "file_00000000532481f5ba3dee30ba3952b5",
+    "library_file_id": "libfile_4af206bf704481919c0a988293a1eb7a",
+    "file_name": "divine6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3456699,
+    "external_connectors_accessed": false,
+    "sha256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine6_story.png",
+    "file_id": "file_000000001bd081f586aa0cc75e614f0d",
+    "library_file_id": "libfile_00cd8b0886088191853baa6f6afb3cbe",
+    "file_name": "divine6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3528273,
+    "external_connectors_accessed": false,
+    "sha256": "7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine6_avatar.png",
+    "file_id": "file_00000000594481f5b0394d41674069ac",
+    "library_file_id": "libfile_17182e505c14819185de21622e3dac3d",
+    "file_name": "divine6_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2756639,
+    "external_connectors_accessed": false,
+    "sha256": "c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3036980227864136,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine6_cutin.png",
+    "file_id": "file_00000000895c81f591947e5da387a3ce",
+    "library_file_id": "libfile_a3b673a56124819186e5ec5d153ee7ff",
+    "file_name": "divine6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3454959,
+    "external_connectors_accessed": false,
+    "sha256": "4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_fraction": 0.18574651082356772,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine6_fx.png",
+    "file_id": "file_00000000b9e081f5b7f0cfb1adca0c97",
+    "library_file_id": "libfile_66359525541081919d330c3e916efbc3",
+    "file_name": "divine6_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3146943,
+    "external_connectors_accessed": false,
+    "sha256": "486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.22397673537184995,
+    "branch": "divine",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_card.png",
+    "file_id": "file_0000000025ec81f59ff0247c6c6f8bf9",
+    "library_file_id": "libfile_e43bc984f37c8191aa79fb138b694149",
+    "file_name": "demon5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3328590,
+    "external_connectors_accessed": false,
+    "sha256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_story.png",
+    "file_id": "file_0000000059e481f5ae07140059f45cda",
+    "library_file_id": "libfile_3b11e90e375081918f6bc00712094f0a",
+    "file_name": "demon5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3254166,
+    "external_connectors_accessed": false,
+    "sha256": "be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_avatar.png",
+    "file_id": "file_00000000dcf481f5b9898c59fd67dea9",
+    "library_file_id": "libfile_26b361655c80819199abf7e3fddb2999",
+    "file_name": "demon5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3220733,
+    "external_connectors_accessed": false,
+    "sha256": "17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2256460347621264,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_cutin.png",
+    "file_id": "file_00000000750081f5af6a4ccd996dc24e",
+    "library_file_id": "libfile_da310d458a0c81919bd62d68cd01e5eb",
+    "file_name": "demon5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3368458,
+    "external_connectors_accessed": false,
+    "sha256": "b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.23503939310709634,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_fx.png",
+    "file_id": "file_00000000acf881f5b52e04f348781b3e",
+    "library_file_id": "libfile_b9c2c7884df08191971c4df2510960a4",
+    "file_name": "demon5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2720824,
+    "external_connectors_accessed": false,
+    "sha256": "90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3492517723190098,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_card.png",
+    "file_id": "file_000000007cd481f5847d6bc3469da8c0",
+    "library_file_id": "libfile_8d2c016987b88191aa44ea4d3fc44003",
+    "file_name": "demon6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3526636,
+    "external_connectors_accessed": false,
+    "sha256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_story.png",
+    "file_id": "file_00000000b5e081f5b28537389eaa834a",
+    "library_file_id": "libfile_da818f6c71888191a4d2ce857a04166b",
+    "file_name": "demon6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3605994,
+    "external_connectors_accessed": false,
+    "sha256": "b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_avatar.png",
+    "file_id": "file_000000009c0481f58eda021576714ffb",
+    "library_file_id": "libfile_6fb02c5d80008191a2c9dc309de0d85e",
+    "file_name": "demon6_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3079771,
+    "external_connectors_accessed": false,
+    "sha256": "7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2483173462146013,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_cutin.png",
+    "file_id": "file_000000004d7881f5b34784656050e29a",
+    "library_file_id": "libfile_eaf4ff0b785481918aee8f6f64182709",
+    "file_name": "demon6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3401087,
+    "external_connectors_accessed": false,
+    "sha256": "2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.24971135457356772,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_fx_v2.png",
+    "file_id": "file_00000000aae481f5b66d334dd4e53594",
+    "library_file_id": "libfile_d9a7a543fffc8191a0c95c09773cdb3e",
+    "file_name": "demon6_fx_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3017493,
+    "external_connectors_accessed": false,
+    "sha256": "84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.27288116623296677,
+    "branch": "demon",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_fx_v2.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_fx_v2.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_card.png",
+    "file_id": "file_00000000c7cc81f5851a56ab40271545",
+    "library_file_id": "libfile_8b00878647d881919d7950ddf105f7fa",
+    "file_name": "mecha5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3091531,
+    "external_connectors_accessed": false,
+    "sha256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_story.png",
+    "file_id": "file_00000000504c81f5b93867c1205118b8",
+    "library_file_id": "libfile_dd651031c5688191bca6774360fbb9f4",
+    "file_name": "mecha5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3310065,
+    "external_connectors_accessed": false,
+    "sha256": "7b15e446b4f17c9610b2720b1f2cc946964d6ec6b8715a1e9c5dcb56b89c4a9e",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_avatar.png",
+    "file_id": "file_000000004f2481f590fe4d981932b8e0",
+    "library_file_id": "libfile_243ae1d8c1948191976337c41b707b1e",
+    "file_name": "mecha5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2872756,
+    "external_connectors_accessed": false,
+    "sha256": "61db6d8aaa15840b7433f341230603ac05a14d3326800620397035046d6efd33",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.22485876137349317,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_cutin.png",
+    "file_id": "file_000000003f2481f588dbc5e8e3b90823",
+    "library_file_id": "libfile_9e82833d611081919309b80e0085d25b",
+    "file_name": "mecha5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3370013,
+    "external_connectors_accessed": false,
+    "sha256": "5fed75553655cd8e1df10fcb4e89f3c609655e816f917ba2af87cbe6324c57bd",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.1959692637125651,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_fx.png",
+    "file_id": "file_00000000ad0081f5b75ca1a3b12806b2",
+    "library_file_id": "libfile_24eedc892ed88191ad27ab1ba61a6cd0",
+    "file_name": "mecha5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2356009,
+    "external_connectors_accessed": false,
+    "sha256": "82409f050a6eb581c3b4b32c42f3d061cc6a372fa012262be6fe65011a7bbb6d",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.4048791872387944,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_card.png",
+    "file_id": "file_000000004bf481f58f51485c4a0af73a",
+    "library_file_id": "libfile_35d4b2de703c8191af64039c8450c8ff",
+    "file_name": "mecha6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3286870,
+    "external_connectors_accessed": false,
+    "sha256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_story.png",
+    "file_id": "file_000000002c6881f58cf8d76656edb350",
+    "library_file_id": "libfile_7479499abea88191ab4b9e7975619657",
+    "file_name": "mecha6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3399837,
+    "external_connectors_accessed": false,
+    "sha256": "53a9f1a87a07b3781af86b77a325d10654929ebf26cdd6a8af2a78f82db2fc0a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval",
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_story.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_story.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_avatar.png",
+    "file_id": "file_000000006d0c81f58471132e2c4e94a3",
+    "library_file_id": "libfile_b3845d62f53c8191a6de8e8677622a5d",
+    "file_name": "mecha6_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2751083,
+    "external_connectors_accessed": false,
+    "sha256": "cc91d4f96a7e57823f0f5db7efabeec4acb17771d06e28f6d17f30d765597c7c",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.302417908625413,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_cutin.png",
+    "file_id": "file_00000000949c81f5b2eb7e1a751a497f",
+    "library_file_id": "libfile_33d7e4d2f00c81919b557573a22c9ada",
+    "file_name": "mecha6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3047458,
+    "external_connectors_accessed": false,
+    "sha256": "04cfdb247bfff15a611e622749e69a79e3fc04e6310443ae04a6ee08167e2773",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.31427001953125,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.request.json"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_fx.png",
+    "file_id": "file_00000000557481f5bcf6a24dbe25d2c2",
+    "library_file_id": "libfile_4ac9e232066881919943f319b79830d9",
+    "file_name": "mecha6_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2966644,
+    "external_connectors_accessed": false,
+    "sha256": "9c27f7a5a9db354e4c286c1c72aab1689935d5c783ad7635cf0d5cc7caa416e7",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3029667106725782,
+    "branch": "mecha",
+    "absolute_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.png",
+    "request_file": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.request.json"
+  }
+]

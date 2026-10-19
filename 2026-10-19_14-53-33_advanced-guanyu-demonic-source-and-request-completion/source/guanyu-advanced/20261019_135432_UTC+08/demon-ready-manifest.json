@@ -1,0 +1,312 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_card.png",
+    "file_id": "file_0000000025ec81f59ff0247c6c6f8bf9",
+    "library_file_id": "libfile_e43bc984f37c8191aa79fb138b694149",
+    "file_name": "demon5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3328590,
+    "external_connectors_accessed": false,
+    "sha256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_story.png",
+    "file_id": "file_0000000059e481f5ae07140059f45cda",
+    "library_file_id": "libfile_3b11e90e375081918f6bc00712094f0a",
+    "file_name": "demon5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3254166,
+    "external_connectors_accessed": false,
+    "sha256": "be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_avatar.png",
+    "file_id": "file_00000000dcf481f5b9898c59fd67dea9",
+    "library_file_id": "libfile_26b361655c80819199abf7e3fddb2999",
+    "file_name": "demon5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3220733,
+    "external_connectors_accessed": false,
+    "sha256": "17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2256460347621264
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_cutin.png",
+    "file_id": "file_00000000750081f5af6a4ccd996dc24e",
+    "library_file_id": "libfile_da310d458a0c81919bd62d68cd01e5eb",
+    "file_name": "demon5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3368458,
+    "external_connectors_accessed": false,
+    "sha256": "b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.23503939310709634
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_fx.png",
+    "file_id": "file_00000000acf881f5b52e04f348781b3e",
+    "library_file_id": "libfile_b9c2c7884df08191971c4df2510960a4",
+    "file_name": "demon5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2720824,
+    "external_connectors_accessed": false,
+    "sha256": "90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3492517723190098
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_card.png",
+    "file_id": "file_000000007cd481f5847d6bc3469da8c0",
+    "library_file_id": "libfile_8d2c016987b88191aa44ea4d3fc44003",
+    "file_name": "demon6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3526636,
+    "external_connectors_accessed": false,
+    "sha256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_story.png",
+    "file_id": "file_00000000b5e081f5b28537389eaa834a",
+    "library_file_id": "libfile_da818f6c71888191a4d2ce857a04166b",
+    "file_name": "demon6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3605994,
+    "external_connectors_accessed": false,
+    "sha256": "b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_avatar.png",
+    "file_id": "file_000000009c0481f58eda021576714ffb",
+    "library_file_id": "libfile_6fb02c5d80008191a2c9dc309de0d85e",
+    "file_name": "demon6_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3079771,
+    "external_connectors_accessed": false,
+    "sha256": "7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2483173462146013
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_cutin.png",
+    "file_id": "file_000000004d7881f5b34784656050e29a",
+    "library_file_id": "libfile_eaf4ff0b785481918aee8f6f64182709",
+    "file_name": "demon6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3401087,
+    "external_connectors_accessed": false,
+    "sha256": "2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.24971135457356772
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon6_fx_v2.png",
+    "file_id": "file_00000000aae481f5b66d334dd4e53594",
+    "library_file_id": "libfile_d9a7a543fffc8191a0c95c09773cdb3e",
+    "file_name": "demon6_fx_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3017493,
+    "external_connectors_accessed": false,
+    "sha256": "84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.27288116623296677
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_card.png",
+    "file_id": "file_00000000c7cc81f5851a56ab40271545",
+    "library_file_id": "libfile_8b00878647d881919d7950ddf105f7fa",
+    "file_name": "mecha5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3091531,
+    "external_connectors_accessed": false,
+    "sha256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_story.png",
+    "file_id": "file_00000000504c81f5b93867c1205118b8",
+    "library_file_id": "libfile_dd651031c5688191bca6774360fbb9f4",
+    "file_name": "mecha5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3310065,
+    "external_connectors_accessed": false,
+    "sha256": "7b15e446b4f17c9610b2720b1f2cc946964d6ec6b8715a1e9c5dcb56b89c4a9e",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_avatar.png",
+    "file_id": "file_000000004f2481f590fe4d981932b8e0",
+    "library_file_id": "libfile_243ae1d8c1948191976337c41b707b1e",
+    "file_name": "mecha5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2872756,
+    "external_connectors_accessed": false,
+    "sha256": "61db6d8aaa15840b7433f341230603ac05a14d3326800620397035046d6efd33",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.22485876137349317
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_cutin.png",
+    "file_id": "file_000000003f2481f588dbc5e8e3b90823",
+    "library_file_id": "libfile_9e82833d611081919309b80e0085d25b",
+    "file_name": "mecha5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3370013,
+    "external_connectors_accessed": false,
+    "sha256": "5fed75553655cd8e1df10fcb4e89f3c609655e816f917ba2af87cbe6324c57bd",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.1959692637125651
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_fx.png",
+    "file_id": "file_00000000ad0081f5b75ca1a3b12806b2",
+    "library_file_id": "libfile_24eedc892ed88191ad27ab1ba61a6cd0",
+    "file_name": "mecha5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2356009,
+    "external_connectors_accessed": false,
+    "sha256": "82409f050a6eb581c3b4b32c42f3d061cc6a372fa012262be6fe65011a7bbb6d",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.4048791872387944
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_card.png",
+    "file_id": "file_000000004bf481f58f51485c4a0af73a",
+    "library_file_id": "libfile_35d4b2de703c8191af64039c8450c8ff",
+    "file_name": "mecha6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3286870,
+    "external_connectors_accessed": false,
+    "sha256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_story.png",
+    "file_id": "file_000000002c6881f58cf8d76656edb350",
+    "library_file_id": "libfile_7479499abea88191ab4b9e7975619657",
+    "file_name": "mecha6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3399837,
+    "external_connectors_accessed": false,
+    "sha256": "53a9f1a87a07b3781af86b77a325d10654929ebf26cdd6a8af2a78f82db2fc0a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_avatar.png",
+    "file_id": "file_000000006d0c81f58471132e2c4e94a3",
+    "library_file_id": "libfile_b3845d62f53c8191a6de8e8677622a5d",
+    "file_name": "mecha6_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2751083,
+    "external_connectors_accessed": false,
+    "sha256": "cc91d4f96a7e57823f0f5db7efabeec4acb17771d06e28f6d17f30d765597c7c",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.302417908625413
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_cutin.png",
+    "file_id": "file_00000000949c81f5b2eb7e1a751a497f",
+    "library_file_id": "libfile_33d7e4d2f00c81919b557573a22c9ada",
+    "file_name": "mecha6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3047458,
+    "external_connectors_accessed": false,
+    "sha256": "04cfdb247bfff15a611e622749e69a79e3fc04e6310443ae04a6ee08167e2773",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.31427001953125
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha6_fx.png",
+    "file_id": "file_00000000557481f5bcf6a24dbe25d2c2",
+    "library_file_id": "libfile_4ac9e232066881919943f319b79830d9",
+    "file_name": "mecha6_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2966644,
+    "external_connectors_accessed": false,
+    "sha256": "9c27f7a5a9db354e4c286c1c72aab1689935d5c783ad7635cf0d5cc7caa416e7",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.3029667106725782
+  }
+]

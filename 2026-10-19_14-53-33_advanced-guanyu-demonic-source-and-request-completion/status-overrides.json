@@ -1,0 +1,8 @@
+{
+  "recorded_at": "2026-10-19T14:53:33.682203+08:00",
+  "previous_status": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/status-overrides.json",
+  "current_summary": "关羽四分支40源全冻，魔6纯FX-v2及历史保留；累计112/120源与24装框候选，剩张飞机甲8配套待冻结，无用户验收。",
+  "scope": "hero-production-spec/advanced_three_hero_scope_2026-10-19_13-57-41_UTC+08",
+  "effective_source_map": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/effective-source-map.json",
+  "other_37": "paused_rejected_historical_only"
+}
