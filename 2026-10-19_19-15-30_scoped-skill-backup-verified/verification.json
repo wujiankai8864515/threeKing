@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-19T19:15:30.704206+08:00",
+  "verified_asset_commit": "1167717ecbddcd8e272b97309d3fd0ce9c648e38",
+  "independent_fetch": "PASS",
+  "new_lfs_objects_remote_fetched_and_fsck": "PASS",
+  "resolved_paths_verified": 10865,
+  "sequential_copy_sha256_checked": true,
+  "scope": "Delivered Guan Yu mecha UI and demon revision history through 2026-10-19T11:09:30Z: 73 new or changed resources, 28 new LFS objects independently fetched and verified. Current status: mecha direction accepted but UI rejected pending correction; demon art and UI rejected pending redraw. Earlier approved tiers and all histories preserved.",
+  "user_final_accepted": false
+}
