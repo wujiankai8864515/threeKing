@@ -1,0 +1,18 @@
+{
+  "highres_size": [
+    1254,
+    1254
+  ],
+  "alpha16_bbox": [
+    336,
+    12,
+    917,
+    1233
+  ],
+  "output_size": [
+    62,
+    130
+  ],
+  "preserve_height": 130,
+  "operation": "isotropic downsampling; newly designed broad blade, no horizontal stretch"
+}

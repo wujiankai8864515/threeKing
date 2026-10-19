@@ -1,0 +1,6 @@
+{
+  "recorded_at": "2026-10-19T23:46:11.008319+08:00",
+  "previous_status": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/status-overrides.json",
+  "current_summary": "已选4卡新UI批冻结：三五星改全材质金黄色钻石含内板星栏及少量五彩棱面折射，六星03象牙金釉框不变；枪头新造型加宽刃面肩部，同高不横拉，实际图标62×130。保留真实三次生成参数、高分辨源、独立透明框、renderer/动态层/config、逐像素QA/Library/SHA。旧细枪与旧五星框历史保留，已定插画不重画。4卡READY未交待新魔10统一，魔10仍在制作，当前新批总14。",
+  "effective_source_map": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/effective-source-map.json"
+}

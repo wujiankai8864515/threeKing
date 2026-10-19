@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/asset-index.json",
+  "asset_index": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "15:42UTC用户最新造型解禁：魔10完全大胆想象，不保任何旧造型甚至关羽旧样子，仅关羽复仇魔化状态核心；麦城可文化背景，非每图硬塞牌匾遗骸。先调研网上魔化人物实际设计，官方美术与实际图方法研究后影响最终选取或单张修订；旧在途图可为草稿，不另开重复十批。保存来源分析，其他金钻框/宽枪/完整成卡及认可插画冻结要求不变。此条覆盖此前外貌/每图符号限制，未称新图批准。",
-  "latest_delta": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope",
-  "current_status": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/status-overrides.json",
+  "note": "已选4卡新UI批冻结：三五星改全材质金黄色钻石含内板星栏及少量五彩棱面折射，六星03象牙金釉框不变；枪头新造型加宽刃面肩部，同高不横拉，实际图标62×130。保留真实三次生成参数、高分辨源、独立透明框、renderer/动态层/config、逐像素QA/Library/SHA。旧细枪与旧五星框历史保留，已定插画不重画。4卡READY未交待新魔10统一，魔10仍在制作，当前新批总14。",
+  "latest_delta": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready",
+  "current_status": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -122,7 +122,8 @@
     "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon",
     "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope",
     "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope",
-    "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope"
+    "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope",
+    "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -264,7 +265,8 @@
     "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon",
     "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope",
     "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope",
-    "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope"
+    "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope",
+    "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -273,7 +275,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "ecf18971bb7d67b586fadd98507151d877a90119",
+  "remote_verified_commit": "109087962aed6927aed04da3f2b957dbf428b2ab",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -281,9 +283,9 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/effective-source-map.json",
-  "production_progress": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/effective-source-map.json",
+  "production_progress": "2026-10-19_23-46-11_gold-diamond-wide-spear-four-ready/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/delivery-receipt.json",

@@ -1,0 +1,35 @@
+{
+  "frame_alpha_exact_match": true,
+  "icon_visible_dimensions": [
+    62,
+    130
+  ],
+  "icon_width_previous": 27,
+  "icon_height_unchanged": 130,
+  "illustration_checks": [
+    {
+      "card": "mecha5",
+      "changed": 0,
+      "checked": 1209452,
+      "source_sha": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5"
+    },
+    {
+      "card": "heritage5",
+      "changed": 0,
+      "checked": 1209452,
+      "source_sha": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a"
+    },
+    {
+      "card": "divine5",
+      "changed": 0,
+      "checked": 1209452,
+      "source_sha": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c"
+    },
+    {
+      "card": "mecha6",
+      "changed": 0,
+      "checked": 1199176,
+      "source_sha": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6"
+    }
+  ]
+}
