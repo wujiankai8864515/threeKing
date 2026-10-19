@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-19T09:27:02.583119+08:00",
+  "previous_status": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/status-overrides.json",
+  "current_summary": "刘关张保留，其余37名英雄候选用户否决，扩展暂停。本批关羽黑铁主动技能CG及方形头像已交付首稿，待用户评审。",
+  "scope": "仅关羽黑铁技能CG及头像",
+  "effective_source_map": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/effective-source-map.json",
+  "feedback": "hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08",
+  "delivery": {
+    "sent_at": "2026-10-19T01:25:08Z",
+    "message_id": "Sentinel_b8b2c5018be48191a8c2b03306d702ae",
+    "status": "accepted_by_chat_service",
+    "user_final_accepted": false,
+    "review_note": "青龙显现稍强待评审；主动技能机制未定。",
+    "library_ids": [
+      "libfile_5018cf7ce0c48191b30894fe30923e43",
+      "libfile_f238a046e328819196b65f9ea9f6b2fd"
+    ]
+  },
+  "known_review_point": "青龙稍显；主动技能机制未定",
+  "preservation": "All historical assets and approved original assets preserved unchanged"
+}

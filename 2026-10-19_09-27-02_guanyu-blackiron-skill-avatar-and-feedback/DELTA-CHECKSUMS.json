@@ -1,0 +1,17 @@
+{
+  "status-overrides.json": "e9ed50c8244743e67fa5bc3f1e670d11ee78b8fa97067aa63f85fa0338aca47a",
+  "effective-source-map.json": "c7378e80dc7090394ab1f3e2467562ffebd2c6e373d5c1980e6109b76325e3a8",
+  "asset-index.json": "84e3a4c1e1e152abbd9c318c01b54d02d2924b193c7c5a5708542e211140cb6c",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "production-progress.json": "835d891c93b47f2cfb60f575ca0c09dda61b2135f7fbfa00e133832dee6bceaf",
+  "README.md": "2a5eb9e652a68ec1907f538b3b65370fbfbc5955ffd811e5234fd1624c696d96",
+  "source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/SCOPE_AND_FEEDBACK.json": "ae5473cfb43eaec815c67cba9aa6febe0678775ab23a99a0270d5c4fb54115b1",
+  "source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/修改范围与反馈.md": "b1f6352a286f92293dcc08d95fc96065d9a1ec351968cfa0f931f54621c53620",
+  "source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/DELIVERY_RECEIPT.json": "c400b5a4aa427e46484b3ddab89b2b03fdef986cd5c953da697a726919147cd8",
+  "source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/READY_FOR_BACKUP.md": "e9ba468d6fc324f9e56f167a6ff4be5ea3cdc4ce011591c371e8eb1746767ba3",
+  "source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/manifest.json": "f98fe518d4c539655652fa770f6850ea1ea8ec20deccf6cbcab7cdc6c6c903ec",
+  "source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/prompts.json": "e18f8910d36b5bbe9ea07251676dc18b318680289d8891fc89c1da6212734a44",
+  "source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/generation-calls.json": "c862465f401693d926fbad6599d34b2f515e5490d17e40d38e00b1bc040e0a50",
+  "assets/sha256/54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0.png": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+  "assets/sha256/7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5.png": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5"
+}

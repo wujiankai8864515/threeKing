@@ -1,0 +1,38 @@
+{
+  "calls": [
+    {
+      "asset": "cg",
+      "tool": "image_gen__imagegen",
+      "actual_arguments": {
+        "prompt": "Use case: stylized-concept, identity-preserve reference. Create ONE new landscape widescreen battle active-skill cut-in CG of the exact black-iron Guan Yu in reference image. Use reference only to preserve his face, angular stern brows, almond eyes, warm reddish face, long elegant straight black beard, tall muscular physique, green cloth headwrap, shabby patched worn green robe with gray inner sleeve and rope sash. This is his early humble Zhuo county mungbean seller era before becoming armored general. The same established clean crisp anime-inspired mythic Three Kingdoms illustration rendering, NOT realistic oil painting.\nThe moment is an explosive personal martial power activation: low three-quarter cinematic camera, Guan Yu dominates center, grounded wide balanced stance, torso forcefully twisting, one clenched fist forward near his chest and the other drawn back beside hip, elbows and shoulders anatomically coherent, his shabby sleeves and long robe tails whip outward in a single powerful wind sweep. A broad controlled translucent jade-green aura surge hugs his shoulders and cloth silhouette, with subtle flowing directional strokes expressing momentary fighting-strength increase. Small-scale initial awakening, not godlike ultimate. Behind and above shoulder faint green dragon HEAD silhouette emerges and fades in cloudy atmosphere, mostly concealed body, no coiling snake. His mouth firm and eyes fierce focused, no distorted grimace. Face/hands/fabric seams extremely sharp, fully legible contours and clean broad shading, expressive explosive action and motion in cloth/energy only, not blurred hero. Dim subdued earth-ground early Han street/battlefield background loosely recalls town gate and dusty ground, occupying less visual attention. Wide framing 16:9 feeling, knees to head with flaring robe, no text, no UI, no card border, no weapons, no sword/glaive, no armor, no crown, no horse, no gold particles, no sparks, no confetti, no metallic skin, no glitter, no glowing flecks, no random speckled highlights. Keep same recognizable approved face not a younger replacement. Green effects clean and shaped, no huge overwhelming dragon.",
+        "referenced_image_paths": [
+          "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png"
+        ],
+        "transparent_background": false
+      },
+      "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8016135a-7ef3-4f8e-9b4e-93d0ef3bcc8e.png",
+      "project_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-主动爆发CG-候选1.png",
+      "copy_byte_identical": true,
+      "sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "library_file_id": "libfile_5018cf7ce0c48191b30894fe30923e43"
+    },
+    {
+      "asset": "avatar",
+      "tool": "image_gen__imagegen",
+      "actual_arguments": {
+        "prompt": "Use case: identity-preserve, stylized-concept. Create ONE square 1:1 game battle avatar portrait of the EXACT black-iron Guan Yu from reference. Identity lock: same angular stern eyebrows and almond eyes, warm reddish sculpted face, cheek and nose proportions, long elegant straight black mustache and beard, green tied cloth headwrap, shabby patched green robe with gray inner collar, adult mature powerful man. Centered face upper-mid square, head plus shoulders and visible long beard; attractive dignified resolute but calm expression, same gaze and style as original approved reference, not rage, not swollen/bruised or photorealistic. Preserve his simple civilian early mungbean seller-era appearance, no armor or crown, do not beautify into unrelated young hero. Crisp clean anime-inspired mythic Three Kingdoms illustration, hand-drawn clear silhouette and confident broad cel shading, extremely sharp eyes/hair/beard edges and restrained cloth folds. Background a simple dark muted moss green-to-charcoal painted gradient, quiet soft atmosphere, no dragon, no beans, no props, no text, no UI, no frame. High face readability at small icon scale. No gold dust, glitter, scattered luminous dots, metallic highlights, overbusy effects or photographic texture. Square high definition image.",
+        "referenced_image_paths": [
+          "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png"
+        ],
+        "transparent_background": false
+      },
+      "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a568e900-1b18-4a6c-9dfc-bf308aa22062.png",
+      "project_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-方形头像-候选1.png",
+      "copy_byte_identical": true,
+      "sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "library_file_id": "libfile_f238a046e328819196b65f9ea9f6b2fd"
+    }
+  ],
+  "execution": "two independent calls launched with Promise.all",
+  "postprocessing": "none; original PNG bytes copied into project directory"
+}

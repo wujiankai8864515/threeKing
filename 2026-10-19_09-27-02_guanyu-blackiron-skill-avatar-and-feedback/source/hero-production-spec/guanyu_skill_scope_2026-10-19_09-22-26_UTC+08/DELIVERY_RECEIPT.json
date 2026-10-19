@@ -1,0 +1,11 @@
+{
+  "sent_at": "2026-10-19T01:25:08Z",
+  "message_id": "Sentinel_b8b2c5018be48191a8c2b03306d702ae",
+  "status": "accepted_by_chat_service",
+  "user_final_accepted": false,
+  "review_note": "青龙显现稍强待评审；主动技能机制未定。",
+  "library_ids": [
+    "libfile_5018cf7ce0c48191b30894fe30923e43",
+    "libfile_f238a046e328819196b65f9ea9f6b2fd"
+  ]
+}

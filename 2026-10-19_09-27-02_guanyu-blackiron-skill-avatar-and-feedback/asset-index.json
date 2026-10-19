@@ -1,0 +1,137 @@
+{
+  "archived_at": "2026-10-19T09:27:02.583119+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/READY_FOR_BACKUP.md",
+      "original_name": "READY_FOR_BACKUP.md",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/READY_FOR_BACKUP.md",
+      "sha256": "e9ba468d6fc324f9e56f167a6ff4be5ea3cdc4ce011591c371e8eb1746767ba3",
+      "original_sha256": "e9ba468d6fc324f9e56f167a6ff4be5ea3cdc4ce011591c371e8eb1746767ba3",
+      "bytes": 1162,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/manifest.json",
+      "sha256": "f98fe518d4c539655652fa770f6850ea1ea8ec20deccf6cbcab7cdc6c6c903ec",
+      "original_sha256": "f98fe518d4c539655652fa770f6850ea1ea8ec20deccf6cbcab7cdc6c6c903ec",
+      "bytes": 1730,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/prompts.json",
+      "original_name": "prompts.json",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/prompts.json",
+      "sha256": "e18f8910d36b5bbe9ea07251676dc18b318680289d8891fc89c1da6212734a44",
+      "original_sha256": "e18f8910d36b5bbe9ea07251676dc18b318680289d8891fc89c1da6212734a44",
+      "bytes": 3495,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/generation-calls.json",
+      "original_name": "generation-calls.json",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/generation-calls.json",
+      "sha256": "c862465f401693d926fbad6599d34b2f515e5490d17e40d38e00b1bc040e0a50",
+      "original_sha256": "c862465f401693d926fbad6599d34b2f515e5490d17e40d38e00b1bc040e0a50",
+      "bytes": 5333,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-主动爆发CG-候选1.png",
+      "original_name": "黑铁关羽-主动爆发CG-候选1.png",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/assets/sha256/54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0.png",
+      "sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "original_sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "bytes": 2458763,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-方形头像-候选1.png",
+      "original_name": "黑铁关羽-方形头像-候选1.png",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/assets/sha256/7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5.png",
+      "sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "original_sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "bytes": 2326365,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/SCOPE_AND_FEEDBACK.json",
+      "original_name": "SCOPE_AND_FEEDBACK.json",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/SCOPE_AND_FEEDBACK.json",
+      "sha256": "ae5473cfb43eaec815c67cba9aa6febe0678775ab23a99a0270d5c4fb54115b1",
+      "original_sha256": "ae5473cfb43eaec815c67cba9aa6febe0678775ab23a99a0270d5c4fb54115b1",
+      "bytes": 696,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/修改范围与反馈.md",
+      "original_name": "修改范围与反馈.md",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/修改范围与反馈.md",
+      "sha256": "b1f6352a286f92293dcc08d95fc96065d9a1ec351968cfa0f931f54621c53620",
+      "original_sha256": "b1f6352a286f92293dcc08d95fc96065d9a1ec351968cfa0f931f54621c53620",
+      "bytes": 432,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/DELIVERY_RECEIPT.json",
+      "original_name": "DELIVERY_RECEIPT.json",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/source/hero-production-spec/guanyu_skill_scope_2026-10-19_09-22-26_UTC+08/DELIVERY_RECEIPT.json",
+      "sha256": "c400b5a4aa427e46484b3ddab89b2b03fdef986cd5c953da697a726919147cd8",
+      "original_sha256": "c400b5a4aa427e46484b3ddab89b2b03fdef986cd5c953da697a726919147cd8",
+      "bytes": 370,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-8016135a-7ef3-4f8e-9b4e-93d0ef3bcc8e.png",
+      "original_name": "exec-8016135a-7ef3-4f8e-9b4e-93d0ef3bcc8e.png",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/assets/sha256/54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0.png",
+      "sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "original_sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "bytes": 2458763,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-a568e900-1b18-4a6c-9dfc-bf308aa22062.png",
+      "original_name": "exec-a568e900-1b18-4a6c-9dfc-bf308aa22062.png",
+      "repository_path": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/assets/sha256/7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5.png",
+      "sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "original_sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "bytes": 2326365,
+      "archived_at": "2026-10-19T09:27:02.583119+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}

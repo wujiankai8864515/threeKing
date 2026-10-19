@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-10-19 09:24:25 UTC+08",
+  "status": "candidate pending user review",
+  "assets": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-主动爆发CG-候选1.png",
+      "pixels": [
+        1672,
+        941
+      ],
+      "sha256": "54e17b412164d38d2b6290cbfbf3186bd91eecceecb75a40fadfe2ea60bbb6e0",
+      "library_file_id": "libfile_5018cf7ce0c48191b30894fe30923e43"
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-方形头像-候选1.png",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "sha256": "7c3f1befb18093a63158e241cb42a585fe74bee2b3318783eb231a4f63cfd4f5",
+      "library_file_id": "libfile_f238a046e328819196b65f9ea9f6b2fd"
+    }
+  ],
+  "reference": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png",
+  "method": "builtin image_gen, two parallel reference-based images",
+  "qa": "Face, beard and shabby green civilian clothes recognizable. CG two anatomically coherent clenched fists, no weapon or armor; clean green self-strengthening aura. Avatar sharp centered face, quiet backdrop. CG dragon more explicit than requested faint early potential; user review needed. No random gold glitter; some grounded dust at base. Not mechanically finalized active skill; no named skill or effect text baked. Passive 蓄势 remains separate combat text/status.",
+  "delivery": {
+    "message_id": "Sentinel_b8b2c5018be48191a8c2b03306d702ae",
+    "accepted_at_utc": "2026-10-19T01:25:08Z",
+    "status": "root reported send accepted; not user approval"
+  }
+}

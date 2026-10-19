@@ -1,0 +1,17 @@
+{
+  "recorded_at": "2026-10-19T09:22:26.965926+08:00",
+  "scope": "关羽黑铁主动技能爆发 CG 与方形头像，仅此两项",
+  "feedback": {
+    "retained_heroes": [
+      "刘备",
+      "关羽",
+      "张飞"
+    ],
+    "other_37_hero_candidates": "用户否决；仅保留历史，不再作为认可成品",
+    "expansion": "暂停"
+  },
+  "asset_policy": "保留全部历史和已认可原图；本批新增文件，不删除、不覆盖",
+  "delivery_status": "制作中；等待本批成品和交付确认后备份",
+  "acceptance": "新图尚未交付或验收",
+  "backup_target": "公开仓库 wujiankai8864515/threeKing；仅项目素材、提示、反馈与过程文件"
+}
