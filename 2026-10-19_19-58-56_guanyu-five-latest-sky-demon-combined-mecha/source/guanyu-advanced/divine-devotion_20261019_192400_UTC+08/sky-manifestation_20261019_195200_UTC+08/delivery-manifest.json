@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-10-19T19:55:30+08:00",
+  "status": "candidate_pending_user_review",
+  "library_file_id": "libfile_42f6782da02881919fa27b7482b151c8",
+  "source": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/sky-manifestation_20261019_195200_UTC+08/神关羽-疏云显圣-刀内移.png",
+  "output": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/sky-manifestation_20261019_195200_UTC+08/final-card/guanyu-divine-devotion-5star.png",
+  "ui_script": "guanyu-advanced/ui-verified-glyph_20261019_195200_UTC+08/render.py",
+  "replaces": "golden-body_20261019_194405_UTC+08 seated armored rejected",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "final_size": [
+    1190,
+    1786
+  ]
+}

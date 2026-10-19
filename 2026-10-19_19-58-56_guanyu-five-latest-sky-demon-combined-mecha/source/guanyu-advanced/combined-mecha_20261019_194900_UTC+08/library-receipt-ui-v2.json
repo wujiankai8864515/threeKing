@@ -1,0 +1,36 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲·关羽-青龙合体-字形枪标修订.png",
+        "file_id": "file_00000000981481f9b1237fe9248c2533",
+        "library_file_id": "libfile_6f0f5b4414ec819184fb23b7a10c815a",
+        "file_name": "六星机甲·关羽-青龙合体-字形枪标修订.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4237337,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-19T19:58:56.974109+08:00",
+  "previous_status": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/status-overrides.json",
+  "current_summary": "本轮五图已交候选待审：四五星传承、天空悬立显圣神、焦甲残刃熔炭火马魔、驾驶式机甲，以及六星青龙合体机甲。共用真字体天/封侯mask金属斜面与透明枪头无盘UI。旧宇宙六星与坐姿金身神已被用户否决，仅历史；所有生成失败和局修版本完整保留。未整体艺术批准。",
+  "effective_source_map": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_98c07439c0848191bede56a497d9cd3d",
+        "sent_at": "2026-10-19T11:58:07Z",
+        "scope": "Five latest cards delivered: four five-star branches and combined-dragon six-star mecha",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_final_approval": true
+  },
+  "other_37": "paused_rejected_historical_only"
+}

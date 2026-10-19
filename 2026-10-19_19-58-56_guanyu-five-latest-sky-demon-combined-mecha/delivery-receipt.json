@@ -1,0 +1,11 @@
+{
+  "batches": [
+    {
+      "message_id": "Sentinel_98c07439c0848191bede56a497d9cd3d",
+      "sent_at": "2026-10-19T11:58:07Z",
+      "scope": "Five latest cards delivered: four five-star branches and combined-dragon six-star mecha",
+      "status": "accepted_by_chat_service"
+    }
+  ],
+  "service_acceptance_is_not_user_final_approval": true
+}

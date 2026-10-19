@@ -1,0 +1,36 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/神关羽-五星-云天显圣金身_20261019_195500_UTC+08.png",
+        "file_id": "file_00000000a93081f982a37590f859315d",
+        "library_file_id": "libfile_42f6782da02881919fa27b7482b151c8",
+        "file_name": "神关羽-五星-云天显圣金身_20261019_195500_UTC+08.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 3827397,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

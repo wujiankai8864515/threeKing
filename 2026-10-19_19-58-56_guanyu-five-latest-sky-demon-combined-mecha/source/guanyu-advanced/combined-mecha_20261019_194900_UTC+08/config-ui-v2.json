@@ -1,0 +1,23 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "combined-dragon-mecha",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/combined-mecha_20261019_194900_UTC+08/六星机甲关羽-青龙合体-原图.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/combined-mecha_20261019_194900_UTC+08/final-ui-v2",
+  "skills": [
+    {
+      "name": "重甲",
+      "level": 2
+    },
+    {
+      "name": "蓄能",
+      "level": 2
+    },
+    {
+      "name": "反制",
+      "level": 2
+    }
+  ]
+}
