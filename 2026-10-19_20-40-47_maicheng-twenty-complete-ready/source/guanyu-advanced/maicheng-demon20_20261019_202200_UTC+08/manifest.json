@@ -1,0 +1,262 @@
+[
+  {
+    "id": "01",
+    "name": "孤城裂甲",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/01-孤城裂甲.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-7ea16486-d22f-4f8d-8613-4b8ac55437a4.png",
+    "sha256": "2da2c0c375d2bd6c299e5250464c36d46d56d481fe6b1f5704fb6a3b6a8ebc58",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_0245668070948191be5058bf6a734639"
+  },
+  {
+    "id": "02",
+    "name": "断旗成王",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/02-断旗成王.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-dcd01593-ef52-4edc-9b0e-61729d92eb5a.png",
+    "sha256": "529a5ae33363cb0b2b89b409a64d065987b4e2a33a0b937f0e308d15a30d65eb",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_e14e8e0430648191886e19fe6e782f05"
+  },
+  {
+    "id": "03",
+    "name": "雨夜归魂",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/03-雨夜归魂.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-93e56dfd-8d47-4d8e-bce6-ec8cbee4903d.png",
+    "sha256": "69d637a01faecfc53e90e25079b1e738e3f16c55f6f733715aaa0ccd65fad7d0",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_933a9af3dfa481919677f63ca2ab5322"
+  },
+  {
+    "id": "04",
+    "name": "锁城破狱",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/04-锁城破狱.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-accbdf53-619e-43f8-832a-a7c65cc18959.png",
+    "sha256": "cc1bdad28c7f3f52bae9474e2df589756bd6f5131e9c60fc9757320639dc5829",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_f10295f25d388191a7ce8f2a9c66c989"
+  },
+  {
+    "id": "05",
+    "name": "残月祭刀",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/05-残月祭刀.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9588778b-1b5a-4017-b6bf-aac0be6c2db8.png",
+    "sha256": "cd37737cc3260abb4c6b711bd5e3a9836da8a8f2c348cdeefe7b1adefe200496",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_3fd330f2699481918db63c97c5e6ea64"
+  },
+  {
+    "id": "06",
+    "name": "亡军执旗",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/06-亡军执旗.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-bb647e55-c34d-487a-922e-2e18844f38ff.png",
+    "sha256": "b9db15204caf68e8730a75da72a9a054615ec85f96829aa2b2ccadf3fd48892d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_b71cf7b6e19481918f5541d070c2a1f1"
+  },
+  {
+    "id": "07",
+    "name": "灰烬复生",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/07-灰烬复生.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c589732a-1ecb-4259-bdc9-401dc29b9cc7.png",
+    "sha256": "63f0ed925f33204ea48a5b55d2d53edcdb8c829b487526763dd30dc1b0caf5de",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_ef3aa37a84388191b42579be9a33c850"
+  },
+  {
+    "id": "08",
+    "name": "城影吞天",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/08-城影吞天.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-16bfb013-89c1-42cc-b8fb-acbf4d6d3b8f.png",
+    "sha256": "0cb65a924ba5a680feb2311c6e0987ac764fc0c19104f9439449d93cf9961be8",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_6e7623f771508191af8f335109da7ca7"
+  },
+  {
+    "id": "09",
+    "name": "赤兔冥渡",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/09-赤兔冥渡.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ce4bb590-92d4-48d0-a7b7-1ef147e13a3a.png",
+    "sha256": "98ad04c6d43108c3685a93ca343eb88e890ccb2059e0d0cdc6cb3b990cf7b4ec",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_b37b31198fe48191a9b7e032c8417823"
+  },
+  {
+    "id": "10",
+    "name": "血誓孤灯",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/10-血誓孤灯.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c5ddf0b9-6eea-48f1-87ac-b954a8455745.png",
+    "sha256": "adef5387db5b444425003730435d4afc3833b81ebab8d378d2a5c5cb368a6eec",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_2d34f515350081919353e10452c091a3"
+  },
+  {
+    "id": "11",
+    "name": "败甲魔山",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/11-败甲魔山.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-db41ba7a-2115-41df-bb8b-2d1cdaf0038a.png",
+    "sha256": "60a945ac7e9d5e14268a40bbdfe4a3ac80ee9e94f28bf03e46030c896bc293f4",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_b1c36f96de3c8191ac791208f1489104"
+  },
+  {
+    "id": "12",
+    "name": "霜城怨将",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/12-霜城怨将.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d89ee907-7ae2-4698-95e8-820aca18963d.png",
+    "sha256": "1c3384899d10a97a891a267f8fed502e69bef11286777c9d946f399ebed723f4",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_0e5f2d681bb48191ba30021a43eaec65"
+  },
+  {
+    "id": "13",
+    "name": "镜裂双生",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/13-镜裂双生.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d5b2d781-522b-48ec-bc33-a177cb630c45.png",
+    "sha256": "6359637761e7fbb411b7629029facd3cb0a735447d0a76f88a85c7ff246b6bbe",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_3e2fad02be3c81918658de6fc6a4f940"
+  },
+  {
+    "id": "14",
+    "name": "逆命登城",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/14-逆命登城.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4480985b-ba1f-4b33-944a-b8d7e98d43c4.png",
+    "sha256": "1e2c5a3ebf95f2ef960121a358dded9bbe485dae02ffc187b146bc49981adca1",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_6a143d1199e48191bd56d64ec7f3c765"
+  },
+  {
+    "id": "15",
+    "name": "魂印裂地",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/15-魂印裂地.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-36c076f9-9715-4b52-bbed-1fae9200ce34.png",
+    "sha256": "0c709d0ab1cb4a2c6f6afd90073bf94aca8e45ea520d4faf63b83bae73585a3e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_413f4d63a4a48191b8cf6377683a092d"
+  },
+  {
+    "id": "16",
+    "name": "黑龙负城",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/16-黑龙负城.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3c01fe1c-669c-4564-a9c8-627d7fd6a632.png",
+    "sha256": "700bc6b699e048bae906d7bc88b90c56a5918d101f7c6f75bd02d81cc5363d4e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_4e05a62cf93c81919bcd00e380bccfa7"
+  },
+  {
+    "id": "17",
+    "name": "无声冥帅",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/17-无声冥帅.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-cd290054-5aa8-4a51-bde9-f90c6086353c.png",
+    "sha256": "d3807cd14e41622eb121dcec47fc65597b854348949f72d468fa2531af060da9",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_0a8691f210448191b9aa6c421421038d"
+  },
+  {
+    "id": "18",
+    "name": "破门修罗",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/18-破门修罗.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4531d6e9-375b-4cfc-9420-e4b3fdb0e07d.png",
+    "sha256": "da98b7ba3602f9e5f2b826f4b39913c0264e81d3482294f8ef512f7bf48e7b08",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_6fbd07292f888191b992719ae2462202"
+  },
+  {
+    "id": "19",
+    "name": "残城暮钟",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/19-残城暮钟.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-75f579ac-9cfe-4c93-ab72-08fca52a85c5.png",
+    "sha256": "8ae54ad5d557dcfa548fa678fc6c53c95330f2b69681cba84eca496b18fa286d",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_cb1a333059e88191bdc8a6cb1bfb3117"
+  },
+  {
+    "id": "20",
+    "name": "孤骑逆潮",
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/maicheng-demon20_20261019_202200_UTC+08/20-孤骑逆潮.png",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-dd993b62-e994-462a-a2f7-8d38801493e8.png",
+    "sha256": "d818f07f4f3808f30309d9616ebc082d53a1b32fc763e028adfe87f11ddd57f6",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "status": "candidate_pending_user_review",
+    "library_file_id": "libfile_f7de465aa69881919c055b9f329cf9d2"
+  }
+]
