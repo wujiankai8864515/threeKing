@@ -1,0 +1,137 @@
+{
+  "archived_at": "2026-10-19T09:34:24.694406+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/library-results.json",
+      "original_name": "library-results.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/library-results.json",
+      "sha256": "68469d150d7e3d6eed103fc52cb8b896fc14a4c7fb361f7dd09c3aac37137323",
+      "original_sha256": "68469d150d7e3d6eed103fc52cb8b896fc14a4c7fb361f7dd09c3aac37137323",
+      "bytes": 1716,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/黑铁关羽-主动爆发CG-透明候选2.png",
+      "original_name": "黑铁关羽-主动爆发CG-透明候选2.png",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/assets/sha256/18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22.png",
+      "sha256": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+      "original_sha256": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+      "bytes": 2363220,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/READY_FOR_BACKUP.md",
+      "original_name": "READY_FOR_BACKUP.md",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/READY_FOR_BACKUP.md",
+      "sha256": "e94478d70f0a29a69c47b399afc6d8577f99aa7ec77d9914cb4e10759354010a",
+      "original_sha256": "e94478d70f0a29a69c47b399afc6d8577f99aa7ec77d9914cb4e10759354010a",
+      "bytes": 477,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/黑铁关羽-头像-透明候选2.png",
+      "original_name": "黑铁关羽-头像-透明候选2.png",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/assets/sha256/a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0.png",
+      "sha256": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0",
+      "original_sha256": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0",
+      "bytes": 2183720,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/manifest.json",
+      "sha256": "ac29ed783bbb073fe0d4a707cc290cce662bf237a304eec9340dc6fcc8ffdc62",
+      "original_sha256": "ac29ed783bbb073fe0d4a707cc290cce662bf237a304eec9340dc6fcc8ffdc62",
+      "bytes": 2128,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/generation-calls.json",
+      "original_name": "generation-calls.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/generation-calls.json",
+      "sha256": "31dc72bac4b98374370a756daf809b0ce936f26819d9e521b570800cdc9ddf63",
+      "original_sha256": "31dc72bac4b98374370a756daf809b0ce936f26819d9e521b570800cdc9ddf63",
+      "bytes": 3632,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/FEEDBACK.json",
+      "original_name": "FEEDBACK.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/FEEDBACK.json",
+      "sha256": "4244f84f5881198f8261068e3e393133c76cab5ca0f1d5833c866d35d0d97cfa",
+      "original_sha256": "4244f84f5881198f8261068e3e393133c76cab5ca0f1d5833c866d35d0d97cfa",
+      "bytes": 394,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/DELIVERY_RECEIPT.json",
+      "original_name": "DELIVERY_RECEIPT.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/DELIVERY_RECEIPT.json",
+      "sha256": "0a2d99a48ce8f74f4e6fc25e7477d9223a8435abaa1007b99dd83d05b65fdfe7",
+      "original_sha256": "0a2d99a48ce8f74f4e6fc25e7477d9223a8435abaa1007b99dd83d05b65fdfe7",
+      "bytes": 391,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08/SCOPE_AND_REQUIREMENTS.json",
+      "original_name": "SCOPE_AND_REQUIREMENTS.json",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/source/hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08/SCOPE_AND_REQUIREMENTS.json",
+      "sha256": "85e75ffb8e7efb0f00fafb832c20ac1ac88099af27d8dfc61b072b123b21e051",
+      "original_sha256": "85e75ffb8e7efb0f00fafb832c20ac1ac88099af27d8dfc61b072b123b21e051",
+      "bytes": 1019,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-e0e3427f-9a8a-448d-a984-844b4ee58ef7.png",
+      "original_name": "exec-e0e3427f-9a8a-448d-a984-844b4ee58ef7.png",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/assets/sha256/18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22.png",
+      "sha256": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+      "original_sha256": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+      "bytes": 2363220,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-38377fbe-a4ba-4e94-b2ba-5a17eb8019f9.png",
+      "original_name": "exec-38377fbe-a4ba-4e94-b2ba-5a17eb8019f9.png",
+      "repository_path": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/assets/sha256/a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0.png",
+      "sha256": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0",
+      "original_sha256": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0",
+      "bytes": 2183720,
+      "archived_at": "2026-10-19T09:34:24.694406+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}

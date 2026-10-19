@@ -1,0 +1,11 @@
+{
+  "sent_at": "2026-10-19T01:33:39Z",
+  "message_id": "Sentinel_ca618baaee7c81919651edda58ab8de8",
+  "status": "accepted_by_chat_service",
+  "user_final_accepted": false,
+  "review_note": "真实RGBA外侧alpha0；人物alpha252–254，非严格255，不称完美。",
+  "library_ids": [
+    "libfile_554d366674188191ae11345fe027692a",
+    "libfile_0d9fc3aadd348191a86b9607a73008a1"
+  ]
+}

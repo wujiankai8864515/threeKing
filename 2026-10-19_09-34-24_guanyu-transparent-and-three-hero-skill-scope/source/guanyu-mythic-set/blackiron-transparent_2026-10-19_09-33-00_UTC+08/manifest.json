@@ -1,0 +1,52 @@
+{
+  "timestamp": "2026-10-19T09:33:00+08:00",
+  "request_message": "Sentinel_43dfb1c936f08191a45e3100e2b05ce9",
+  "request": "需要背景透明啊",
+  "source_directory": "blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08",
+  "files": [
+    {
+      "file": "黑铁关羽-主动爆发CG-透明候选2.png",
+      "library_file_id": "libfile_554d366674188191ae11345fe027692a",
+      "size": [
+        1672,
+        941
+      ],
+      "mode": "RGBA",
+      "sha256": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+      "alpha_zero_fraction": 0.31097173423366165,
+      "alpha_partial_fraction": 0.6888077175355547,
+      "alpha_255_fraction": 0.00022054823078370258,
+      "status": "candidate-awaiting-user-review"
+    },
+    {
+      "file": "黑铁关羽-头像-透明候选2.png",
+      "library_file_id": "libfile_0d9fc3aadd348191a86b9607a73008a1",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0",
+      "alpha_zero_fraction": 0.2877617779405742,
+      "alpha_partial_fraction": 0.7117619153000669,
+      "alpha_255_fraction": 0.0004763067593588873,
+      "status": "candidate-awaiting-user-review"
+    }
+  ],
+  "visual_QA": {
+    "transparent_exterior": true,
+    "no_baked_checkerboard": true,
+    "avatar_background_removed": true,
+    "CG_scenery_removed": true,
+    "CG_energy_and_dragon_retained": true,
+    "face_pose_costume_preservation": "Visually close to current delivered reference. Generated edit, not guaranteed pixel-identical preservation.",
+    "alpha_caveat": "Generator makes solid character interior mostly alpha252-254 (~99.2% opacity), not exact255. Face remains visually solid; root approved delivery of truthful RGBA candidate rather than regeneration for tiny alpha deviation.",
+    "postprocessing": "None. Original generated PNG copied byte-identically."
+  },
+  "delivery": {
+    "message_id": "Sentinel_ca618baaee7c81919651edda58ab8de8",
+    "time_utc": "2026-10-19T01:33:39Z",
+    "state": "accepted",
+    "note": "Acceptance is not user viewing or approval."
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "asset": "cg",
+    "tool": "image_gen__imagegen",
+    "arguments": {
+      "prompt": "Edit the provided existing illustration solely into a transparent-background game skill cut-in PNG. Keep Guan Yu's exact face, beard, headwrap, ragged green clothing, anatomy, clenched fists, pose, cloth sweep and composition as close as possible. Preserve the intentional jade-green flowing skill energy and faint green dragon head silhouette as isolated translucent effect elements. REMOVE all town buildings, gates, flags, sky, clouds as opaque scenery, earth, dust, debris, stones, foreground ground and entire scenic backdrop. All empty spaces between subject and energy must be fully transparent alpha. Character face and body remain fully opaque, sharp and colorful; only the energy and phantom dragon use soft partial transparency and fading clean edges. No rectangle, no colored background, no painted checkerboard, no white matte, no black matte, no drop shadow plate. Do not redesign face or clothing or add weapons. This is a clean cutout conversion of this exact image with character and skill VFX only. Preserve widescreen aspect.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-主动爆发CG-候选1.png"
+      ],
+      "transparent_background": true
+    },
+    "output_hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-e0e3427f-9a8a-448d-a984-844b4ee58ef7.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e0e3427f-9a8a-448d-a984-844b4ee58ef7.png"
+  },
+  {
+    "asset": "avatar",
+    "tool": "image_gen__imagegen",
+    "arguments": {
+      "prompt": "Edit this exact portrait only to REMOVE the dark green background and make it a true transparent-background PNG. Preserve exact Guan Yu face, expression, eyes, beard, headwrap, green ragged clothing, portrait crop, square composition, colors and rendering. Keep face/body/clothes fully opaque. Use clean accurate hair and beard alpha edges, including gaps between flying hair strands. Outside portrait silhouette must be zero alpha. No green background haze, no colored rectangle, no fake checkerboard, no white or black matte, no added border or effects. Do not change facial identity or invent new design. True RGBA transparent cutout square game avatar.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-skill-avatar_2026-10-19_09-22-15_UTC+08/黑铁关羽-方形头像-候选1.png"
+      ],
+      "transparent_background": true
+    },
+    "output_hint": "Generated images are saved to /workspace/scratch/3f82ff2b3f81/generated_images as /workspace/scratch/3f82ff2b3f81/generated_images/exec-38377fbe-a4ba-4e94-b2ba-5a17eb8019f9.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link.",
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-38377fbe-a4ba-4e94-b2ba-5a17eb8019f9.png"
+  }
+]

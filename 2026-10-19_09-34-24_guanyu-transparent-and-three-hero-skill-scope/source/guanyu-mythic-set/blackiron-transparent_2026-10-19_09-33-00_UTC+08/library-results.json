@@ -1,0 +1,55 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/黑铁关羽-主动爆发CG-透明候选2.png",
+        "file_id": "file_0000000001c88230a707d0e7464bfca2",
+        "library_file_id": "libfile_554d366674188191ae11345fe027692a",
+        "file_name": "黑铁关羽-主动爆发CG-透明候选2.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2363220
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/黑铁关羽-头像-透明候选2.png",
+        "file_id": "file_00000000aa3081f596b506f8bc01bcb2",
+        "library_file_id": "libfile_0d9fc3aadd348191a86b9607a73008a1",
+        "file_name": "黑铁关羽-头像-透明候选2.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2183720
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

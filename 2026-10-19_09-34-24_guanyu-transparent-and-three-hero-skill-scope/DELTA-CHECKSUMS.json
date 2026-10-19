@@ -1,0 +1,17 @@
+{
+  "status-overrides.json": "8c39e815139e18cb375154b83a57dc0861f44d55bf436673f59ad9d0cdf06620",
+  "effective-source-map.json": "f0af0968c4d1585487360820bdec70bc020822301a9d2a8372f584803aa943cb",
+  "asset-index.json": "844aa638c3da7d0e1aac2001351dd887f25a224c78fa4253f14b710950e9dea1",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "production-progress.json": "c195974669c3e5bc5431ebfee9889f5717c3c9fc40caf3c2e6e50a6b2eaf228d",
+  "README.md": "7a91346187aa22b2a9dd83bd8eac278ec4be3752740948b8fd0aa8b05e3e42c2",
+  "source/hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08/SCOPE_AND_REQUIREMENTS.json": "85e75ffb8e7efb0f00fafb832c20ac1ac88099af27d8dfc61b072b123b21e051",
+  "source/hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/FEEDBACK.json": "4244f84f5881198f8261068e3e393133c76cab5ca0f1d5833c866d35d0d97cfa",
+  "source/hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08/DELIVERY_RECEIPT.json": "0a2d99a48ce8f74f4e6fc25e7477d9223a8435abaa1007b99dd83d05b65fdfe7",
+  "source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/library-results.json": "68469d150d7e3d6eed103fc52cb8b896fc14a4c7fb361f7dd09c3aac37137323",
+  "source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/READY_FOR_BACKUP.md": "e94478d70f0a29a69c47b399afc6d8577f99aa7ec77d9914cb4e10759354010a",
+  "source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/manifest.json": "ac29ed783bbb073fe0d4a707cc290cce662bf237a304eec9340dc6fcc8ffdc62",
+  "source/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/generation-calls.json": "31dc72bac4b98374370a756daf809b0ce936f26819d9e521b570800cdc9ddf63",
+  "assets/sha256/18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22.png": "18b1c9e9c2ba81a6dc360e6407d946db272b381e16079a8b6d96a4ed6bb4fe22",
+  "assets/sha256/a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0.png": "a382f8c9122cd81e6e8a96515c29d4419a8b670cc22bda3ad895ea44576f0eb0"
+}

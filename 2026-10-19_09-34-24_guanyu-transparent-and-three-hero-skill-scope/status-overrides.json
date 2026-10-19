@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-19T09:34:24.694406+08:00",
+  "previous_status": "2026-10-19_09-27-02_guanyu-blackiron-skill-avatar-and-feedback/status-overrides.json",
+  "current_summary": "刘关张四阶共24张透明技能CG与头像计划；关羽黑铁透明2张已交付候选，其余22张制作中。其余37名英雄暂停，拒用候选留历史。",
+  "scope": "hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08",
+  "feedback": "hero-production-spec/guanyu_transparency_feedback_2026-10-19_09-30-02_UTC+08",
+  "effective_source_map": "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope/effective-source-map.json",
+  "delivery": {
+    "sent_at": "2026-10-19T01:33:39Z",
+    "message_id": "Sentinel_ca618baaee7c81919651edda58ab8de8",
+    "status": "accepted_by_chat_service",
+    "user_final_accepted": false,
+    "review_note": "真实RGBA外侧alpha0；人物alpha252–254，非严格255，不称完美。",
+    "library_ids": [
+      "libfile_554d366674188191ae11345fe027692a",
+      "libfile_0d9fc3aadd348191a86b9607a73008a1"
+    ]
+  },
+  "preservation": "Original opaque first drafts preserved as superseded history; all approved sources unchanged"
+}
