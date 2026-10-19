@@ -1,0 +1,129 @@
+{
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/09-焚心藏刃-source.png",
+      "original_name": "09-焚心藏刃-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/6cc0750467d9156c2818a8e95457eb801a4f02badf79b1787fdfeb99e5f94b0c.png",
+      "sha256": "6cc0750467d9156c2818a8e95457eb801a4f02badf79b1787fdfeb99e5f94b0c",
+      "original_sha256": "6cc0750467d9156c2818a8e95457eb801a4f02badf79b1787fdfeb99e5f94b0c",
+      "bytes": 2818130,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png",
+      "original_name": "07-踏阙逆天-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/a88ce631dfeae96fb5b08d88a1f6b6f2295f93dda3db2c3aec06bfdc026f231e.png",
+      "sha256": "a88ce631dfeae96fb5b08d88a1f6b6f2295f93dda3db2c3aec06bfdc026f231e",
+      "original_sha256": "a88ce631dfeae96fb5b08d88a1f6b6f2295f93dda3db2c3aec06bfdc026f231e",
+      "bytes": 2948403,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/04-霜狱怒侯-source.png",
+      "original_name": "04-霜狱怒侯-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/78ecd43d50d7042ca2d55ee79eed8ba0d9e6fa49dc20ce920cf4960cff74fe07.png",
+      "sha256": "78ecd43d50d7042ca2d55ee79eed8ba0d9e6fa49dc20ce920cf4960cff74fe07",
+      "original_sha256": "78ecd43d50d7042ca2d55ee79eed8ba0d9e6fa49dc20ce920cf4960cff74fe07",
+      "bytes": 3308295,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/03-白焰归来-source.png",
+      "original_name": "03-白焰归来-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/061b86313ca960b813e1fe3f34c401b2ede9bcaf4125e675f8a5ba8b37c52b4a.png",
+      "sha256": "061b86313ca960b813e1fe3f34c401b2ede9bcaf4125e675f8a5ba8b37c52b4a",
+      "original_sha256": "061b86313ca960b813e1fe3f34c401b2ede9bcaf4125e675f8a5ba8b37c52b4a",
+      "bytes": 3183108,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/08-断锁回眸-source.png",
+      "original_name": "08-断锁回眸-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/d3b88ee3f8d60779d67a4adaf2d136756dc7c5a185f5a6a3a702573358ee8da1.png",
+      "sha256": "d3b88ee3f8d60779d67a4adaf2d136756dc7c5a185f5a6a3a702573358ee8da1",
+      "original_sha256": "d3b88ee3f8d60779d67a4adaf2d136756dc7c5a185f5a6a3a702573358ee8da1",
+      "bytes": 2551462,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/02-怒玉破封-source.png",
+      "original_name": "02-怒玉破封-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/a55c21777d3e55d429fc62b8da53890b73e986db2594e038cdd87af4ef016ef5.png",
+      "sha256": "a55c21777d3e55d429fc62b8da53890b73e986db2594e038cdd87af4ef016ef5",
+      "original_sha256": "a55c21777d3e55d429fc62b8da53890b73e986db2594e038cdd87af4ef016ef5",
+      "bytes": 3063451,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/01-血镜誓仇-source.png",
+      "original_name": "01-血镜誓仇-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/40b6244a6ad9fbe85dd69505ce83c36846aa1aa738e5748562353581b5971dfb.png",
+      "sha256": "40b6244a6ad9fbe85dd69505ce83c36846aa1aa738e5748562353581b5971dfb",
+      "original_sha256": "40b6244a6ad9fbe85dd69505ce83c36846aa1aa738e5748562353581b5971dfb",
+      "bytes": 2731219,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/06-残旗魔誓-source.png",
+      "original_name": "06-残旗魔誓-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/1b180e107aa056c162bbdc56f8789a42bd813c92a8414d2beb514aa4e7271d82.png",
+      "sha256": "1b180e107aa056c162bbdc56f8789a42bd813c92a8414d2beb514aa4e7271d82",
+      "original_sha256": "1b180e107aa056c162bbdc56f8789a42bd813c92a8414d2beb514aa4e7271d82",
+      "bytes": 2606720,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/10-墨狱挥锋-source.png",
+      "original_name": "10-墨狱挥锋-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/d669181cbc86b782efa75d93c9739d568489bdf6fde528f65fed23ee08066c22.png",
+      "sha256": "d669181cbc86b782efa75d93c9739d568489bdf6fde528f65fed23ee08066c22",
+      "original_sha256": "d669181cbc86b782efa75d93c9739d568489bdf6fde528f65fed23ee08066c22",
+      "bytes": 3013882,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/05-赤骑复誓-source.png",
+      "original_name": "05-赤骑复誓-source.png",
+      "repository_path": "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources/assets/sha256/55d65d58aacc7c5f4abf274090e0bdf686a3bd623bfd65d0e1f7fd4ad9675901.png",
+      "sha256": "55d65d58aacc7c5f4abf274090e0bdf686a3bd623bfd65d0e1f7fd4ad9675901",
+      "original_sha256": "55d65d58aacc7c5f4abf274090e0bdf686a3bd623bfd65d0e1f7fd4ad9675901",
+      "bytes": 3203564,
+      "archived_at": "2026-10-20T00:13:18.009030+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ],
+  "target": 20,
+  "archived_stable_sources": 10,
+  "complete_cards_archived": 0,
+  "status": "partial_01_to10_sources_only_other_outputs_in_production",
+  "chat_delivered": false
+}

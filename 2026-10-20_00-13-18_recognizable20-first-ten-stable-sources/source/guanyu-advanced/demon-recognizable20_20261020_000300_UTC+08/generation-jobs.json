@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "血镜誓仇",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Tight three-quarter waist-up handsome stern Guan Yu, one palm holding an upright dark mirror that reflects his former defeated mortal self. His current face is sculptural crimson lacquer, long noble beard, swept loose hair not helmet. Continuous scarlet eye-fire drawn along his gaze into mirror. Great crescent guandao silhouette behind left shoulder. Restrained obsidian robes. Composition psychological intimate, not identical to reference.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 2,
+    "name": "怒玉破封",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Low-angle half-length Guan Yu breaking a single massive stone seal with both hands; long jade-black beard and red face unmistakable, broad human proportions. Smooth dark jade plates emerge like armor from robe folds, no hollow torso. One sweeping emerald wrath wave with red gaze streak. Huge diagonal seal and heroic expressive face dominate.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/01-玄玉裂瞳-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 3,
+    "name": "白焰归来",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Guan Yu strides towards viewer through black battlefield rain, handsome severe red human face fully readable beneath white fire hair and long white beard. Long flowing black-green robe edges become continuous ivory fire sheets. His huge guandao is held low in one hand with physically straight aligned shaft, blade near lower left. Beautiful terrifying vengeance, not white funeral ghost.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/02-白焰冥侯-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 4,
+    "name": "霜狱怒侯",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Side profile full torso Guan Yu, red-purple human face and recognizable long white beard, broad ice-black shoulder mantle transformed into two sweeping crystalline demonic horns behind shoulders. He wrenches a frost-bound crescent blade from a frozen battle standard. Eyes pour a concentrated violet flame ribbon, black frost waves, furious yet dignified, not generic ice knight.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/08-霜魄孤王-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 5,
+    "name": "赤骑复誓",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Dynamic three-quarter galloping red-horse Guan Yu, noble recognizable human face, long black beard streaming, no ugly alien face. BOTH rider and Red Hare transformed with matching broad black volcanic armor and flowing dark-red mane/robe ribbons, seamless clean material. Horse very powerful and supernatural glowing eyes, not corpse. Guandao pulled back for heavy chop, hands shaft anatomically aligned. A single broad scarlet slash and directed eye fire.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/10-雷狱赤骑-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 6,
+    "name": "残旗魔誓",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. High oblique waist-up shot Guan Yu grasping a huge torn green battle banner bearing one legible 关, wrapping it around his shoulders as a demonic cloak. Noble tragic long-bearded red face looks upward with burning crimson gaze streak. Blade held vertically behind him, straight shaft. Cloak spreads into two angular shadow wings. Charcoal and garnet material, broad graphic shapes.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 7,
+    "name": "踏阙逆天",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Extreme low-angle Guan Yu standing atop tiny defeated fortress parapet, one boot forward and crescent polearm grounded; large human heroic anatomy and long beard recognizable. His shadow rises behind him into a colossal identical wrathful Guan Yu visage, NOT separate generic monster. Red silk-like energy streams from eyes upward, black-red lacquer armament. Monumental vertical composition.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 8,
+    "name": "断锁回眸",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Back three-quarter torso shot Guan Yu turning his long-bearded red face sharply toward viewer, handsome wrath and grief. One fist clenches a single thick shattered chain, robe drapes in large dark jade folds. Two intact arms, no excessive shackles. Guandao tucked diagonally behind shoulder. Continuous emerald demonic breath and narrow red gaze toward right. Empty storm sky for strong silhouette.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/01-玄玉裂瞳-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 9,
+    "name": "焚心藏刃",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Frontal chest-up symmetrical Guan Yu with half-lowered eyelids murderous grief, long red-black beard. A smooth black armor breastplate has ONE broad glowing furnace opening symbolizing revenge, no flesh wound. His two hands rest correctly on straight guandao shaft across lower frame. Red continuous energy from heart merges with flowing beard. Quiet dangerous demonic power, black/garnet porcelain large surfaces.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 10,
+    "name": "墨狱挥锋",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Full action diagonal composition Guan Yu performing grounded two-handed guandao sweeping cut, physical hands and blade rigid. Red handsome warrior face, long black beard and green sash recognizable. Dark ink-like robe and liquid obsidian demon armor stretch into sweeping black calligraphic power sheet, one clean crimson blade edge and short eye flames. Pale storm backdrop, colored not black-white funeral.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/02-白焰冥侯-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 11,
+    "name": "赤月镇关",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Waist-up Guan Yu seated on ruined battlefield stone with one knee raised, leaning forward preparing revenge, never divine throne. Crimson moon enormous behind left shoulder. Red human face long beard, unbound hair, stern hateful stare casting two tapered crimson trails. Matte black broad armor and dark green torn scarf, enormous broad crescent weapon across shoulder. Tragic oppressive calm.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 12,
+    "name": "黑龙同怒",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Close heroic Guan Yu bust and one huge black dragon head emerging immediately over his shoulder roaring same direction; not fused human head on dragon. Both readable and angry, Guan Yu face dignified red and long beard. Dragon smooth obsidian plates with broad crimson veins, clean jaw teeth. Continuous crimson eye flame on both, black-green cloak. Dragon head support, Guan Yu main.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 13,
+    "name": "孤城回魂",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Guan Yu ghostly immense standing silhouette seen from slightly above a small ruined city, his human red face and long beard crisp upper center, ancient green cloak becomes translucent jade-black spectral planes below waist. Arms draw a giant guandao across body, physical shaft alignment. Clear directed pale-green eye wrath with red core. Spacious dark environment no same frontal gate composition.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/01-玄玉裂瞳-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 14,
+    "name": "白发裂天",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Upward-looking side portrait Guan Yu in despair becoming revenge demon, handsome weathered red face fierce open-mouth roar, long white beard and wild white hair in large sweeping strands. Two hands drive recognizable broad crescent guandao upward diagonally; shaft visible long straight, blade not tiny. One immense ivory-red sky rift echoes blade. Black robes little green, no helmet.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/02-白焰冥侯-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 15,
+    "name": "魔骑夜渡",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Low lateral panorama adapted tall portrait: supernatural red horse rears in foreground and recognizable Guan Yu in black-red armor leans forward gripping enormous guandao correctly; long beard and red face visible in profile. Rider and horse unified shadow-red glass material and smooth large armor, no skeleton. One continuous dark red trail on ground, crimson eye-flames. Tiny ruined camp behind, no water.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/10-雷狱赤骑-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 16,
+    "name": "逆鳞血誓",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Three-quarter midshot Guan Yu bracing one palm on massive broad crescent blade planted diagonally, recognizable red face white beard, eyes furious sharp red flames. Clean obsidian armor with five large icy jade blade-like shoulder fins, skin remains dignified human. Dark green ribbons, frozen air forms one sweeping dragon-shaped negative space not fish body. Emphasize broad readable material and sorrow.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/08-霜魄孤王-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 17,
+    "name": "双相归魔",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Frontal waist-up Guan Yu showing gradual left-to-right transition from exhausted red-faced mortal in simple green robe to smooth black crimson demonic armor, single coherent handsome long-bearded face not two pasted halves. Right eye casts strongest red flame streak, left eye retains human grief. Hands clasp a huge horizontal rigid guandao shaft. Behind him a broad sweeping shadow of vengeance, no overdecorated horns.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 18,
+    "name": "焰袍孤征",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Three-quarter walking Guan Yu nearly full figure, long black beard and handsome red face prominent, broad flowing crimson cloak edged with green turns into continuous white-hot blade-shaped wings. Not feather wings, no tiny particles. Heavy black lamellar armor simplified large plates, guandao carried over shoulder correctly. Vengeance dawn beyond ruined battlefield, eye flame short directed dark red.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/02-白焰冥侯-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 19,
+    "name": "怒刃照魂",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Extreme close-up Guan Yu face beside polished broad crescent guandao blade whose surface reflects a small defeated mortal Guan Yu. Deep red noble face, beautiful strong nose and angry narrow eyes emitting distinct continuous crimson energy streak across reflection, long beard and loose hair. Smooth garnet-black armor glimpse, dark green collar. Weapon as identity and revenge, no severed fragments.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/03-血镜魔君-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": 20,
+    "name": "万军孤煞",
+    "args": {
+      "prompt": "Use case: stylized-concept. Produce one premium Chinese mythology game card illustration, portrait 1024x1536, no frame, no UI, no typography unless explicitly requested. This is DEMON GUAN YU, recognizable through dignified red human-like face, long beautiful beard, green accents and/or crescent guandao; tragic vengeful corruption after defeat at Maicheng. Must look imposing and demonically transformed, never ugly deformed face, generic faceless monster, drowned/fish creature, Chinese funeral ghost or skeletal corpse. Reference is loose inspiration ONLY; new composition. Main subject sharp, very high detail, background subdued natural depth. Surfaces clean broad luxurious shading, NOT glitter, gold powder, random tiny red dots, specular beads or noisy pitting. Eye magic visibly directional continuous tapered energy, not round lightbulbs. No gore, open wounds or corpses. Anatomy hands faces correct, weapon rigid continuous straight shaft through grips. Important face/hand x200–750 y200–900; no important narrative in right lower x770–1024 y930–1210 (UI later). Story via storm and defeated banners optional, do not force gate/sign in every image. Elevated rear-side view Guan Yu mounted on massive red-black demonic Red Hare confronting tiny distant army; Guan Yu turns face three-quarter enough to see red heroic face long beard and murderous eye flame. Huge broad crescent guandao raised diagonally in correct two-handed grip. Rider and horse unified clean black-red armor with continuous luminous vein lines. Broad black shadow mantle spans sky, tragic solitary revenge. Not ordinary rider or generic monster.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-reinvent10_20261019_233930_UTC+08/10-雷狱赤骑-source.png"
+      ],
+      "transparent_background": false
+    }
+  }
+]
