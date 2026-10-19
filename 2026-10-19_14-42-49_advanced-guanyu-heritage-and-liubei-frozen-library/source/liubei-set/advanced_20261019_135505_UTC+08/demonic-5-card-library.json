@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "tool call error: failed to upload `/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png` for `file`: OpenAI file blob upload to sdmntprcentralus.oaiusercontent.com failed after 165125 ms (request, azure_client_request_id=4ec2fe2e-5748-480c-b207-09bbe3440873): error sending request"
+    }
+  ],
+  "isError": true
+}

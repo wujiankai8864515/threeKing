@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine-6-portrait.png",
+    "file_id": "file_00000000f3cc81f58817a17e6b7c7baa",
+    "library_file_id": "libfile_0aaf576ac58081918390e939a8180f44",
+    "file_name": "divine-6-portrait.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3133560,
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

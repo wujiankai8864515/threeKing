@@ -1,0 +1,170 @@
+[
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png",
+    "sha256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png",
+    "sha256": "a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-portrait.png",
+    "sha256": "369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 491976
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-cutin.png",
+    "sha256": "086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 367439
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-vfx.png",
+    "sha256": "e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 508186
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+    "sha256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-biography.png",
+    "sha256": "9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-portrait.png",
+    "sha256": "817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 319300
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-cutin.png",
+    "sha256": "f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 238768
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-vfx.png",
+    "sha256": "7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 320770
+  }
+]

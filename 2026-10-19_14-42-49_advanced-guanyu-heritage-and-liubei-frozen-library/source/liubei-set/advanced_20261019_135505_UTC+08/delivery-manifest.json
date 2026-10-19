@@ -1,0 +1,794 @@
+[
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-card.png",
+    "sha256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_2642b3477eb88191b8b9afa8c7915f6a",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-biography.png",
+    "sha256": "96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_0b335b1aaf5c8191b2720fc988d19d5b",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-portrait.png",
+    "sha256": "3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 578837,
+    "library_file_id": "libfile_0f0e1a5965088191a1b0e92deed17444",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-cutin.png",
+    "sha256": "8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 295518,
+    "library_file_id": "libfile_45f65442f9a48191b73d6da18a6cdad7",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-vfx.png",
+    "sha256": "afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 360583,
+    "library_file_id": "libfile_71ec8697cabc81919d636185468f8826",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+    "sha256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_8b2be6390bbc8191a67b3097d427fac8",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-biography.png",
+    "sha256": "f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_f47c75532d0881919d543d1825207a4b",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-portrait.png",
+    "sha256": "7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 453507,
+    "library_file_id": "libfile_a6f827b2cffc8191bb6abb0ba4fdcb1d",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-cutin.png",
+    "sha256": "936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 219027,
+    "library_file_id": "libfile_5bd69478ea5c8191b3579f4f4059235a",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-vfx.png",
+    "sha256": "cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 298213,
+    "library_file_id": "libfile_60921f9e628c8191bf2e54ac72bd5fc3",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png",
+    "sha256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_f7494f214e4c81919abbc55c2bcdf756",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png",
+    "sha256": "a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_4a48b821c40c81918c2477c462836feb",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-portrait.png",
+    "sha256": "369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 491976,
+    "library_file_id": "libfile_39745d03e7588191b1676b1fd8e00c99",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-cutin.png",
+    "sha256": "086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 367439,
+    "library_file_id": "libfile_18dc5502d33c81918f0e707d8a8a3601",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-vfx.png",
+    "sha256": "e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 508186,
+    "library_file_id": "libfile_416edb50a4348191bc3520070dab2c85",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+    "sha256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_db52ca0057ec8191b12c8278376608e1",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-biography.png",
+    "sha256": "9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_764812442f54819182adca95ecfeeabe",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-portrait.png",
+    "sha256": "817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 319300,
+    "library_file_id": "libfile_0aaf576ac58081918390e939a8180f44",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-cutin.png",
+    "sha256": "f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 238768,
+    "library_file_id": "libfile_443843bf412481918de822808b345733",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-vfx.png",
+    "sha256": "7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 320770,
+    "library_file_id": "libfile_10232711955881918242ac786849183c",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+    "sha256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_f8f606219be8819184c71dca8acec911",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-biography.png",
+    "sha256": "60276a3d829f5393126d676f2a3093b63ac3379d664f6edd9a3087e6b807f67e",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_f02ea69a5b7c8191b215e7e4754021f2",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-portrait.png",
+    "sha256": "377b76016cb93733737c61ce527f59137e524d5e7dbe8a420f1a396eb789ba51",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 395501,
+    "library_file_id": "libfile_0159491a2438819193be573ec9246144",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+    "sha256": "4e037dc02e832e98737bbf0e2b1e30d077284b24443fa65c19da733dd58d9765",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 385539,
+    "library_file_id": "libfile_4e42cd3a44748191a5256e87a42bf49b",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+    "sha256": "4166c510b5853851f061d04de0db18bd992f22b8e0805816d68b5007bb031d9a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 447014,
+    "library_file_id": "libfile_3d0ae2bab9f481918c037578c8b58e0a",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png",
+    "sha256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_050cec90611c8191b6958c465ed4ef8e",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+    "sha256": "56bca699ed5800bb1293698a9f79bc1949e872bf8e6b4846bd65d8844fc6f42a",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_883b57ae87c48191a505b55c71f90906",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+    "sha256": "a416f91c21864b5eb444cc7689dd4c105977640dc79f8e8acebec73cd3c8a589",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 328725,
+    "library_file_id": "libfile_f5673db0f3ec8191a344c320f59a354e",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+    "sha256": "f9382bb7ffe5d4bc91dbca38c68b32991734ec45246e34f7fe804d9aeb624208",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 248006,
+    "library_file_id": "libfile_d188db8853108191bc0842017d5db190",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+    "sha256": "aab1b708a21346dff29877688c011710c4f9accb023dc57c9fb3d43aec1b5a68",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 354234,
+    "library_file_id": "libfile_3a53cce7efc481919afa30ccd1dc7632",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png",
+    "sha256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_078c3c4f162881918684776b96da22dc",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-biography.png",
+    "sha256": "fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_284d6fb22be08191b50f26050b471856",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-portrait.png",
+    "sha256": "50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 458484,
+    "library_file_id": "libfile_ec414631a8a08191a98722ef73b45fed",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-cutin.png",
+    "sha256": "dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 306807,
+    "library_file_id": "libfile_1a4ba0946c7c8191b6fe51d9a572944a",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-vfx.png",
+    "sha256": "95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 541460,
+    "library_file_id": "libfile_eab6c2904a3881919048462e3245bf3b",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+    "sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_4d7fa0d0bdb081918555584f735160e8",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-biography.png",
+    "sha256": "18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0,
+    "library_file_id": "libfile_ef89b226d6088191acf4be0127eae117",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-portrait.png",
+    "sha256": "23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 371665,
+    "library_file_id": "libfile_8248ca10aef081919e43d16fcc901193",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-cutin.png",
+    "sha256": "5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 368766,
+    "library_file_id": "libfile_36715ffa5c248191aa105d0c8010be71",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png",
+    "sha256": "b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 599586,
+    "library_file_id": "libfile_22758ddab2f48191bdcecb8aa04b6570",
+    "library_status": "succeeded",
+    "review_status": "technical_qa_passed_user_review_pending"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demonic-6-card.png",
+    "file_id": "file_00000000e0f881f5aee11ea7e668f138",
+    "library_file_id": "libfile_050cec90611c8191b6958c465ed4ef8e",
+    "file_name": "demonic-6-card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3508909,
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

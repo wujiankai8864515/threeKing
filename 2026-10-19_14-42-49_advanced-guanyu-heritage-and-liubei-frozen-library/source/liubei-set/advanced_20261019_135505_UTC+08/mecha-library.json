@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "tool call error: failed to upload `/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png` for `files[0]`: OpenAI file blob upload to sdmntprcentralus.oaiusercontent.com failed after 222412 ms (request, azure_client_request_id=fbd02852-475f-4b36-ade8-3b4a54dbb415): error sending request"
+    }
+  ],
+  "isError": true
+}

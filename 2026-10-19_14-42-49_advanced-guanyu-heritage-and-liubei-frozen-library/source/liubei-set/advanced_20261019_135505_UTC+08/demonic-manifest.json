@@ -1,0 +1,170 @@
+[
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+    "sha256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-biography.png",
+    "sha256": "60276a3d829f5393126d676f2a3093b63ac3379d664f6edd9a3087e6b807f67e",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-portrait.png",
+    "sha256": "377b76016cb93733737c61ce527f59137e524d5e7dbe8a420f1a396eb789ba51",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 395501
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+    "sha256": "4e037dc02e832e98737bbf0e2b1e30d077284b24443fa65c19da733dd58d9765",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 385539
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+    "sha256": "4166c510b5853851f061d04de0db18bd992f22b8e0805816d68b5007bb031d9a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 447014
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png",
+    "sha256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+    "sha256": "56bca699ed5800bb1293698a9f79bc1949e872bf8e6b4846bd65d8844fc6f42a",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+    "sha256": "a416f91c21864b5eb444cc7689dd4c105977640dc79f8e8acebec73cd3c8a589",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 328725
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+    "sha256": "f9382bb7ffe5d4bc91dbca38c68b32991734ec45246e34f7fe804d9aeb624208",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 248006
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+    "sha256": "aab1b708a21346dff29877688c011710c4f9accb023dc57c9fb3d43aec1b5a68",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 354234
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "tool call error: failed to upload `/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png` for `files[1]`: OpenAI file blob upload to sdmntprcentralus.oaiusercontent.com failed after 209423 ms (request, azure_client_request_id=ca15ab96-0987-45b8-bd74-75a660d521a9): error sending request"
+    }
+  ],
+  "isError": true
+}

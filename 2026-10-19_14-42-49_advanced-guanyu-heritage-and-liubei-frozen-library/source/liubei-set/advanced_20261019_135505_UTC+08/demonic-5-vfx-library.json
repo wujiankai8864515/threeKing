@@ -1,0 +1,30 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demonic-5-vfx.png",
+    "file_id": "file_00000000c06481f59215ebb52bf08d94",
+    "library_file_id": "libfile_3d0ae2bab9f481918c037578c8b58e0a",
+    "file_name": "demonic-5-vfx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3160449,
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

@@ -1,0 +1,312 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_card_v2.png",
+    "file_id": "file_000000006c8081f5bc5b7e518465c4fb",
+    "library_file_id": "libfile_61070a768c688191acea67ad5b3c18bc",
+    "file_name": "heritage5_card_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3486655,
+    "external_connectors_accessed": false,
+    "sha256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_story.png",
+    "file_id": "file_00000000496c81f5a3ac4168177d6d60",
+    "library_file_id": "libfile_d660039c7410819189b0d30635f98b76",
+    "file_name": "heritage5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3450626,
+    "external_connectors_accessed": false,
+    "sha256": "4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_avatar.png",
+    "file_id": "file_00000000bbd881f5b349b7654f1c1386",
+    "library_file_id": "libfile_f2b95320fe988191a70161534ca33e67",
+    "file_name": "heritage5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2845872,
+    "external_connectors_accessed": false,
+    "sha256": "b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.24873260431054436
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_cutin.png",
+    "file_id": "file_00000000a26c81f5a32aead2d138fb74",
+    "library_file_id": "libfile_c5a99cc726bc8191a11a097a5208cd9c",
+    "file_name": "heritage5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3295595,
+    "external_connectors_accessed": false,
+    "sha256": "079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.23342323303222656
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage5_fx.png",
+    "file_id": "file_00000000d8c081f5865d033577530328",
+    "library_file_id": "libfile_d8ac3c7aa710819186859b020e8d70e1",
+    "file_name": "heritage5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2271834,
+    "external_connectors_accessed": false,
+    "sha256": "82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.44077134986225897
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_card.png",
+    "file_id": "file_00000000027081f58b68b2711ddb1656",
+    "library_file_id": "libfile_c7ed83db1094819185400fc3f83d589d",
+    "file_name": "heritage6_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3423416,
+    "external_connectors_accessed": false,
+    "sha256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_story.png",
+    "file_id": "file_00000000b37c81f594475947fe81fc81",
+    "library_file_id": "libfile_c75b562580a48191bce460780e20fa37",
+    "file_name": "heritage6_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3198691,
+    "external_connectors_accessed": false,
+    "sha256": "c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "review": "visually inspected; candidate awaiting user approval"
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_avatar_v2.png",
+    "file_id": "file_00000000a9c481f59ca281dc2211231b",
+    "library_file_id": "libfile_bfead209b1ac8191bac76c16b29e4b39",
+    "file_name": "heritage6_avatar_v2.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2742584,
+    "external_connectors_accessed": false,
+    "sha256": "c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.2656996812751031
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_cutin.png",
+    "file_id": "file_000000007d40820e868d24af0f8dba1d",
+    "library_file_id": "libfile_300ab84d8ee08191a84f45f255b88ccb",
+    "file_name": "heritage6_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3496101,
+    "external_connectors_accessed": false,
+    "sha256": "2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_fraction": 0.20278485616048178
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/heritage6_fx.png",
+    "file_id": "file_00000000152481f5a8d71101f0a03567",
+    "library_file_id": "libfile_487a58313cf881918c690401da19959e",
+    "file_name": "heritage6_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2699714,
+    "external_connectors_accessed": false,
+    "sha256": "685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "review": "visually inspected; candidate awaiting user approval",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_fraction": 0.38569337291321676
+  }
+]

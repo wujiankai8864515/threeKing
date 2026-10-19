@@ -1,0 +1,120 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-avatar.png",
+    "sha256": "8ebd4454198ba590451817d4607894ae8567b3d0cf5c7a3472d20138299133c5",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-bio.png",
+    "sha256": "aa06a92fb9b662c008c38148747a099c69675c2517f8279a6ba81f7dd154ec51",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png",
+    "sha256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-cast.png",
+    "sha256": "298b26bbe4e337967d36c78e0aa80e64dac01179399b8f428f316f43c271142b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ]
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-fx.png",
+    "sha256": "6346b47ba9a8b113a6376943804420c9e12e029a7a18fbbfa127d8146e5403cd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-avatar.png",
+    "sha256": "221830dc69c4b88ec4f6d85ca0e0144f8175809b237a2d4edb86554696381ddd",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-bio.png",
+    "sha256": "350938239018f5ec435ae8749368f7f7f6e22eea4daca5bfc0b5f11edebf2897",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png",
+    "sha256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-cast.png",
+    "sha256": "7a4c5e12d5a48bdfd32f8ae2450f631f11f47404f4a82ccab8f5459e49df9549",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ]
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-fx.png",
+    "sha256": "9f0cf922977d90f8ab4f7cad26d2ea13fb9e7309bd27553d28363c216421a00e",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  }
+]

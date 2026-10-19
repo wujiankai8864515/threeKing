@@ -1,0 +1,237 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine5-card.png",
+      "file_id": "file_0000000039c081f5a05dcad979deecc1",
+      "library_file_id": "libfile_2d4e67e15e948191b0b4f9a21cbabdef",
+      "file_name": "divine5-card.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3453393,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine5-bio.png",
+      "file_id": "file_00000000156081f59da93bdd7d23499a",
+      "library_file_id": "libfile_652a8cfa61488191b8a18e57178f027b",
+      "file_name": "divine5-bio.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3446857,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine5-avatar.png",
+      "file_id": "file_00000000a7f881f5b8f5929643919f7c",
+      "library_file_id": "libfile_c93646fa4cdc8191bf4143ac430f45a7",
+      "file_name": "divine5-avatar.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2917539,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine5-cast.png",
+      "file_id": "file_00000000ee2c81f597f6067065636cb7",
+      "library_file_id": "libfile_d0221ea2f0fc8191a03f45f9d7668162",
+      "file_name": "divine5-cast.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3245714,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine5-fx.png",
+      "file_id": "file_00000000fe7081f5bbdfe17ae4ffbf60",
+      "library_file_id": "libfile_284debe598b48191a3120dc028637a7b",
+      "file_name": "divine5-fx.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2525525,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine6-card.png",
+      "file_id": "file_000000000ff081f58428be56e9eabf76",
+      "library_file_id": "libfile_fe78f79444008191a21d0715c3d53fcb",
+      "file_name": "divine6-card.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3783931,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine6-bio.png",
+      "file_id": "file_0000000037a881f5a52caa95b7770859",
+      "library_file_id": "libfile_822a1dcb70a88191a435bdfa1a713372",
+      "file_name": "divine6-bio.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3894761,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine6-avatar.png",
+      "file_id": "file_000000009bc881f5bdff8477916ed24b",
+      "library_file_id": "libfile_c31fdf5183348191a363a28938340e6d",
+      "file_name": "divine6-avatar.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3239574,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine6-cast.png",
+      "file_id": "file_00000000c6ec820e9176070c4db7416f",
+      "library_file_id": "libfile_d3df2efbc77481918112e76eaa96c87a",
+      "file_name": "divine6-cast.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3477715,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine6-fx.png",
+      "file_id": "file_000000004bf481f5baac273c1b093a5a",
+      "library_file_id": "libfile_fb52a544fbb4819181942bdcd17a4724",
+      "file_name": "divine6-fx.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2645405,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/divine-qa.jpg",
+      "file_id": "file_00000000ba9881f5ac4ed010f0c4bc15",
+      "library_file_id": "libfile_017a1dded40881919f16d7a2cc191c62",
+      "file_name": "divine-qa.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 194522,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
