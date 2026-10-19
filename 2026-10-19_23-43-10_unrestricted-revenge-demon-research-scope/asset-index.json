@@ -1,0 +1,17 @@
+{
+  "archived_at": "2026-10-19T23:43:10.584739+08:00",
+  "entries": [
+    {
+      "original_path": "hero-production-spec/demon-unrestricted_20261019_234228_UTC+08/LATEST_REQUIREMENTS.md",
+      "original_name": "LATEST_REQUIREMENTS.md",
+      "repository_path": "2026-10-19_23-43-10_unrestricted-revenge-demon-research-scope/source/hero-production-spec/demon-unrestricted_20261019_234228_UTC+08/LATEST_REQUIREMENTS.md",
+      "sha256": "05407fde96ff261f13f924a58f39c7b81e5d78e71dcee2b7adb303e9cfe673a4",
+      "original_sha256": "05407fde96ff261f13f924a58f39c7b81e5d78e71dcee2b7adb303e9cfe673a4",
+      "bytes": 757,
+      "archived_at": "2026-10-19T23:43:10.584739+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}
