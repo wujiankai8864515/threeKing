@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-19T22:17:58.205135+08:00",
+  "summary": "最新覆盖：本轮及以后给用户看的一律完整卡牌，不仅插画。必须同时保留无框无字原插画、透明独立框、实际UI图层/配置、成卡与版本映射便于未来衍生；未承诺PSD。候选数量仍32，仅交付与保存结构扩展。新一轮并行32候选：魔20中的喜好元素重组5款、神20中的喜好元素重组5款、标准六星框03/04各1款更华丽、六星机甲关羽独立20新机体探索。两张满意五星机甲与传承插画冻结；旧魔20、神20及六星五框均无整图批准，只有局部元素喜好，保留全部历史。当前均在制，按实际冻结分批归档，不计完成或交付，最终交付回执完成后补。",
+  "scope_counts": {
+    "demon_recombinations": 5,
+    "divine_recombinations": 5,
+    "more_ornate_standard_frames_03_04": 2,
+    "new_sixstar_mecha_bodies": 20,
+    "total": 32
+  },
+  "locked_illustrations": [
+    "five_star_mecha",
+    "five_star_traditional"
+  ],
+  "guanyu_tiers_1_to_4": "approved_frozen",
+  "previous_demon20_divine20_frame5": "partial_element_preferences_only_no_full_candidate_approval",
+  "candidate_status": "in_production_not_ready_not_delivered",
+  "lessons_reference": "2026-10-19_22-16-39_recombined-concepts32-scope/latest-requirements-and-approval-state.json",
+  "archive_policy": "Only frozen project resources, prompts, actual arguments, references, QA, feedback and receipts; all history preserved"
+}
