@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-20T00:00:34.096497+08:00",
+  "user_feedback_time_UTC": "2026-10-19T15:59:00Z",
+  "summary": "15:59UTC用户认为五星金钻压过六星，要求五星恢复真正钻石且不得像白银，六星改更炫赤金橙红传统高阶，禁紫色紫晶。各做1版并排比较，保持标准UI与宽枪、已选插画冻结；用满意五星机甲与已选六机甲08成卡，内部同图及白银/黄金对照检验等级。仅两候选，不批量替其他卡、不续魔10。新框要求覆盖此前金钻与03框最终使用状态，旧框保历史；当前在制未交付未批准。",
+  "candidate_target": 2,
+  "five_star": "true_diamond_not_silver",
+  "six_star": "more_splendid_traditional_red_gold_orange_red_no_purple",
+  "locked_illustrations": [
+    "approved_mecha5",
+    "mecha20_08"
+  ],
+  "layout_and_wide_spear": "unchanged",
+  "other_card_rollout": false,
+  "new_demon_generation": false,
+  "production_status": "two_frame_candidates_in_production"
+}
