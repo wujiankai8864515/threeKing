@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星机甲关羽-金属书法天与长枪图标.png",
+      "file_id": "file_00000000e6fc81f9b68f01c42ca1e097",
+      "library_file_id": "libfile_873a843fe3688191b25e14565cc3244c",
+      "file_name": "五星机甲关羽-金属书法天与长枪图标.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4245695,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星魔关羽-金属书法天与长枪图标.png",
+      "file_id": "file_00000000d4c881f9a63d845ac15ab4e5",
+      "library_file_id": "libfile_2b71a9686dec8191b08642100657e985",
+      "file_name": "五星魔关羽-金属书法天与长枪图标.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4156173,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

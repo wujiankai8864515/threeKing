@@ -1,0 +1,277 @@
+[
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "天",
+    "branch_id": "piloted-dragon-mecha",
+    "tier": 5,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/mecha",
+    "skills": [
+      {
+        "name": "蓄能",
+        "level": 1
+      },
+      {
+        "name": "龙息",
+        "level": 1
+      },
+      {
+        "name": "终结",
+        "level": 1
+      }
+    ],
+    "troop_class": "长枪兵",
+    "advancement_placeholder": true,
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star-dynamic-ui.png",
+    "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+    "output_sha256": "d279989a7b5e5eed65ff4508db60c47ad29a4f09fa41c69d0f871c9d38354605",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "蓄能 +1",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "龙息 +1",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "终结 +1",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          50
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "compared_to": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/ui-final_20261019_190350_UTC+08/guanyu-piloted-dragon-mecha-5star.png",
+    "outside_two_UI_regions_changed": 0
+  },
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "maicheng-asura",
+    "tier": 5,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_190247_UTC+08/五星魔关羽-三面六臂-最终整合原图.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/demon",
+    "skills": [
+      {
+        "name": "怨怒",
+        "level": 1
+      },
+      {
+        "name": "血誓",
+        "level": 1
+      },
+      {
+        "name": "复仇",
+        "level": 1
+      }
+    ],
+    "advancement_placeholder": true,
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/demon/guanyu-maicheng-asura-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/demon/guanyu-maicheng-asura-5star-dynamic-ui.png",
+    "source_sha256": "0dfe1fb78b3acbe8058bfa98e33085e06f442283bf93545b06ac2de44a367df2",
+    "output_sha256": "fbe3d7facd2e9394511d1592fafb0db2efa76f32af7efe6ba357a917b33235cb",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "怨怒 +1",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "血誓 +1",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +1",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "compared_to": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_190247_UTC+08/cards/guanyu-maicheng-asura-5star.png",
+    "outside_two_UI_regions_changed": 0
+  }
+]

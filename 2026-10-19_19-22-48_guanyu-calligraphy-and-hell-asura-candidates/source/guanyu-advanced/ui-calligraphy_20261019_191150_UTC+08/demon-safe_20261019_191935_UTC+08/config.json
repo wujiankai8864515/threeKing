@@ -1,0 +1,24 @@
+{
+  "hero": "guanyu",
+  "name": "魔·关羽",
+  "branch": "天",
+  "branch_id": "maicheng-asura",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_191328_UTC+08/五星魔关羽-地狱阿修罗-安全构图原图.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/demon-safe_20261019_191935_UTC+08",
+  "skills": [
+    {
+      "name": "怨怒",
+      "level": 1
+    },
+    {
+      "name": "血誓",
+      "level": 1
+    },
+    {
+      "name": "复仇",
+      "level": 1
+    }
+  ],
+  "advancement_placeholder": true
+}

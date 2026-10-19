@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-19T19:22:48.202537+08:00",
+  "previous_status": "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision/status-overrides.json",
+  "current_summary": "最新两张已交候选待审：机甲插画冻结仅修UI；魔卡改为地狱骨骼火焰半身三头六臂、骨马与刀龙。实看用户原金卡后重做书法天与可读枪头；右上分支·关羽，左下天占位，右下枪头无字，内部兵种长枪兵。此前两次UI与魔造型被否决版本全部保留历史，不作已批准稿。",
+  "effective_source_map": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_f6502efdada481918ac6980230d854dc",
+        "sent_at": "2026-10-19T11:21:59Z",
+        "scope": "Latest calligraphy UI mecha and hell-asura demon candidates",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_final_approval": true
+  },
+  "other_37": "paused_rejected_historical_only"
+}

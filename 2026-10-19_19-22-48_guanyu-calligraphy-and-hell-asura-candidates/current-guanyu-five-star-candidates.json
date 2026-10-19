@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-10-19T19:22:48.202537+08:00",
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/assets/sha256/d279989a7b5e5eed65ff4508db60c47ad29a4f09fa41c69d0f871c9d38354605.png",
+      "sha256": "d279989a7b5e5eed65ff4508db60c47ad29a4f09fa41c69d0f871c9d38354605",
+      "original_sha256": "d279989a7b5e5eed65ff4508db60c47ad29a4f09fa41c69d0f871c9d38354605",
+      "bytes": 4245695,
+      "archived_at": "2026-10-19T19:22:48.202537+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "mecha",
+      "tier": 5,
+      "library_file_id": "libfile_873a843fe3688191b25e14565cc3244c"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-calligraphy_20261019_191150_UTC+08/demon-safe_20261019_191935_UTC+08/guanyu-maicheng-asura-5star.png",
+      "original_name": "guanyu-maicheng-asura-5star.png",
+      "repository_path": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/assets/sha256/35efdbcabee93f62f4c5a4b5c6fa455532d81ba2be3803f9afa9a23656c1162e.png",
+      "sha256": "35efdbcabee93f62f4c5a4b5c6fa455532d81ba2be3803f9afa9a23656c1162e",
+      "original_sha256": "35efdbcabee93f62f4c5a4b5c6fa455532d81ba2be3803f9afa9a23656c1162e",
+      "bytes": 3887772,
+      "archived_at": "2026-10-19T19:22:48.202537+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "demon",
+      "tier": 5,
+      "library_file_id": "libfile_11f1b4a63ed08191bbb8d010b3a5b060"
+    }
+  ],
+  "mecha_direction_user_accepted": true,
+  "all_outputs_final_approved": false
+}

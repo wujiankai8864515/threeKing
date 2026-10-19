@@ -1,0 +1,27 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星魔关羽-阿修罗与金属书法UI.png",
+      "file_id": "file_000000009f3081f9aaa50c02826efabb",
+      "library_file_id": "libfile_11f1b4a63ed08191bbb8d010b3a5b060",
+      "file_name": "五星魔关羽-阿修罗与金属书法UI.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3887772,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}
