@@ -1,0 +1,44 @@
+{
+  "receipts": [
+    {
+      "scope": "overviews",
+      "message_id": "Sentinel_416011142b2881918cd8ab862f74e223",
+      "timestamp": "2026-10-19T12:44:34Z",
+      "service_status": "accepted"
+    },
+    {
+      "scope": "demon01-10",
+      "message_id": "Sentinel_47b62a3515848191a09c47c71227a337",
+      "timestamp": "2026-10-19T12:44:38Z",
+      "service_status": "accepted"
+    },
+    {
+      "scope": "demon11-20",
+      "message_id": "Sentinel_173bdd105e0c81918e910bb418674d59",
+      "timestamp": "2026-10-19T12:44:43Z",
+      "service_status": "accepted"
+    },
+    {
+      "scope": "divine01-10",
+      "message_id": "Sentinel_17d1ad169dd48191a9b8ab6dfbc14915",
+      "timestamp": "2026-10-19T12:44:46Z",
+      "service_status": "accepted"
+    },
+    {
+      "scope": "divine11-20",
+      "message_id": "Sentinel_387662ef514c8191a1ce3587cb1e2178",
+      "timestamp": "2026-10-19T12:44:49Z",
+      "service_status": "accepted"
+    },
+    {
+      "scope": "five_standard_frames",
+      "message_id": "Sentinel_cc56b770c64c81918f18d493212ac84e",
+      "timestamp": "2026-10-19T12:44:51Z",
+      "service_status": "accepted"
+    }
+  ],
+  "delivered_candidates": 45,
+  "overview_images": 3,
+  "user_read_confirmed": false,
+  "user_final_accepted": false
+}

@@ -1,0 +1,13 @@
+{
+  "status": "READY_FOR_SELECTION",
+  "time_UTC08": "2026-10-19T20:43:30+08:00",
+  "originals": 20,
+  "native_dimensions": [
+    1024,
+    1536
+  ],
+  "overview_library_id": "libfile_0e85829ea60c8191bb0d4d11878e8d9c",
+  "library_uploaded": 23,
+  "git_uploaded": false,
+  "qa": "QA_20261019_204323_UTC+08.md"
+}

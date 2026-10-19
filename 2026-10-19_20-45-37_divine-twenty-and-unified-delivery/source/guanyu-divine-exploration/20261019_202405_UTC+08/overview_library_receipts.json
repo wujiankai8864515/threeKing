@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/神关羽20_overview_01-20.jpg",
+        "file_id": "file_0000000072a481f998639b2d7de56db1",
+        "library_file_id": "libfile_0e85829ea60c8191bb0d4d11878e8d9c",
+        "file_name": "神关羽20_overview_01-20.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1739451,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/神关羽20_review_01-10.jpg",
+        "file_id": "file_00000000a7f081f9b007dc87aaf554af",
+        "library_file_id": "libfile_fdd8057d60c4819187d5f27c1ba8f5d7",
+        "file_name": "神关羽20_review_01-10.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 870553,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/神关羽20_review_11-20.jpg",
+        "file_id": "file_00000000710081f9894911ce9303b1a3",
+        "library_file_id": "libfile_fc4ee4bf4824819189ae1b1b0df1cfd1",
+        "file_name": "神关羽20_review_11-20.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 860577,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

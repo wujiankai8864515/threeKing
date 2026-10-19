@@ -1,0 +1,435 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01_神关羽_义掌擎天.png",
+        "file_id": "file_00000000ade8820e96e9a56cf2048d20",
+        "library_file_id": "libfile_7c3506f59b008191ae70e38e01789e72",
+        "file_name": "01_神关羽_义掌擎天.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2863725,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02_神关羽_雪夜守义.png",
+        "file_id": "file_00000000701481f9b87fa9b793092898",
+        "library_file_id": "libfile_82842ff42e2081919fd8cc9bc9867a04",
+        "file_name": "02_神关羽_雪夜守义.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3225865,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03_神关羽_万灯归心.png",
+        "file_id": "file_000000001cf081f99826f00b3e567b3d",
+        "library_file_id": "libfile_08bb05ce5e18819180b8cb08e17159fc",
+        "file_name": "03_神关羽_万灯归心.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2955182,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04_神关羽_天关镇守.png",
+        "file_id": "file_00000000b38481f9a95cde3f95533eee",
+        "library_file_id": "libfile_accfc988b26c8191a5845356d316e9d9",
+        "file_name": "04_神关羽_天关镇守.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3194143,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05_神关羽_忠义星图.png",
+        "file_id": "file_00000000858881f9abca41dddd3beb9c",
+        "library_file_id": "libfile_33fd2e8c876c8191b69530e16d3646f0",
+        "file_name": "05_神关羽_忠义星图.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3097442,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/06_神关羽_春秋化圣.png",
+        "file_id": "file_00000000553081f995057ba0db150ece",
+        "library_file_id": "libfile_2d7301b0e0988191a9729c78304ededf",
+        "file_name": "06_神关羽_春秋化圣.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2862415,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/07_神关羽_义桥渡众.png",
+        "file_id": "file_00000000369481f98a36e8e55cbcd294",
+        "library_file_id": "libfile_add647867df88191af51e15c42f84700",
+        "file_name": "07_神关羽_义桥渡众.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3003879,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/08_神关羽_斩祟不伤生.png",
+        "file_id": "file_00000000b96c81f998f6749def4e1e60",
+        "library_file_id": "libfile_b4d08ff5e16c819190cf74f107ecaaa8",
+        "file_name": "08_神关羽_斩祟不伤生.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3091576,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/09_神关羽_香火成身.png",
+        "file_id": "file_0000000067d881f99a45813721097c8c",
+        "library_file_id": "libfile_6c218fd212e8819188421b1e60180c23",
+        "file_name": "09_神关羽_香火成身.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2614227,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/10_神关羽_苍玉武圣.png",
+        "file_id": "file_00000000e2f081f98e56c894b54b76ed",
+        "library_file_id": "libfile_5bae58f7a7d881919e3a08745ddf1010",
+        "file_name": "10_神关羽_苍玉武圣.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3123627,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/11_神关羽_海门护航.png",
+        "file_id": "file_00000000759c81f98d2ed95313e43a6e",
+        "library_file_id": "libfile_88def42ee6088191aa901b688b842b10",
+        "file_name": "11_神关羽_海门护航.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3436300,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/12_神关羽_破晓执炬.png",
+        "file_id": "file_00000000a6e081f987294661c3c61582",
+        "library_file_id": "libfile_4cd2db011f688191874311708e83841b",
+        "file_name": "12_神关羽_破晓执炬.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2846579,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/13_神关羽_金身垂慈.png",
+        "file_id": "file_0000000030fc81f9a8b28191dc2a73bf",
+        "library_file_id": "libfile_cdda1ff50c748191886ff72c4a9ef6c2",
+        "file_name": "13_神关羽_金身垂慈.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2836943,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/14_神关羽_千誓同袍.png",
+        "file_id": "file_00000000361481f986488f435975c0ba",
+        "library_file_id": "libfile_ac9d77847ea4819185679b8c6f9047c4",
+        "file_name": "14_神关羽_千誓同袍.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3019875,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/15_神关羽_雨泽归田.png",
+        "file_id": "file_00000000b37c81f9b35b8bf867a2fc84",
+        "library_file_id": "libfile_636d09082b448191967bc06216c37968",
+        "file_name": "15_神关羽_雨泽归田.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3350942,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/16_神关羽_义镜照心.png",
+        "file_id": "file_000000004a6c81f98d2c43572c289ded",
+        "library_file_id": "libfile_0c2e1b60ebb08191abfa2e7dbb5d6fa9",
+        "file_name": "16_神关羽_义镜照心.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2929943,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/17_神关羽_云刃为屏.png",
+        "file_id": "file_000000001d3c81f9befcac2f618077ad",
+        "library_file_id": "libfile_97a08ca9f68081918fce1e023bd3edaa",
+        "file_name": "17_神关羽_云刃为屏.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3121215,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/18_神关羽_赤诚归乡.png",
+        "file_id": "file_0000000062d881f982cf7c5f5ab43ac3",
+        "library_file_id": "libfile_946d411facf0819193b38ece02e1087d",
+        "file_name": "18_神关羽_赤诚归乡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2841548,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/19_神关羽_无声天秤.png",
+        "file_id": "file_0000000086a881f99b2b04eb0f6b8ed0",
+        "library_file_id": "libfile_5ebfbe6296388191948c724007a71f26",
+        "file_name": "19_神关羽_无声天秤.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2589797,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/20_神关羽_义薄云天.png",
+        "file_id": "file_000000003604820e8dcd6a2977314ed5",
+        "library_file_id": "libfile_e45f5c2120908191b81fe7f026e90534",
+        "file_name": "20_神关羽_义薄云天.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 2832016,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

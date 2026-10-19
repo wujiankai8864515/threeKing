@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-19T20:45:37.586314+08:00",
+  "previous_status": "2026-10-19_20-40-47_maicheng-twenty-complete-ready/status-overrides.json",
+  "current_summary": "全批45单图（麦城惨败根魔20、义薄云天神20、标准布局六星五材质框）及3总览已统一发送，服务accepted，等待用户选择与审阅。五框共用最新炮口安全区修订机甲源，不是五幅不同原画；实际材质参数和可复现脚本保留。五星机甲、传承满意锁插画，一至四星认可冻结；旧神魔及首魔10、旧外扩五框、旧宇宙六等保历史否决状态。没有新生产任务，不将发送等同批准。",
+  "effective_source_map": "2026-10-19_20-45-37_divine-twenty-and-unified-delivery/effective-source-map.json",
+  "delivery": {
+    "receipts": [
+      {
+        "scope": "overviews",
+        "message_id": "Sentinel_416011142b2881918cd8ab862f74e223",
+        "timestamp": "2026-10-19T12:44:34Z",
+        "service_status": "accepted"
+      },
+      {
+        "scope": "demon01-10",
+        "message_id": "Sentinel_47b62a3515848191a09c47c71227a337",
+        "timestamp": "2026-10-19T12:44:38Z",
+        "service_status": "accepted"
+      },
+      {
+        "scope": "demon11-20",
+        "message_id": "Sentinel_173bdd105e0c81918e910bb418674d59",
+        "timestamp": "2026-10-19T12:44:43Z",
+        "service_status": "accepted"
+      },
+      {
+        "scope": "divine01-10",
+        "message_id": "Sentinel_17d1ad169dd48191a9b8ab6dfbc14915",
+        "timestamp": "2026-10-19T12:44:46Z",
+        "service_status": "accepted"
+      },
+      {
+        "scope": "divine11-20",
+        "message_id": "Sentinel_387662ef514c8191a1ce3587cb1e2178",
+        "timestamp": "2026-10-19T12:44:49Z",
+        "service_status": "accepted"
+      },
+      {
+        "scope": "five_standard_frames",
+        "message_id": "Sentinel_cc56b770c64c81918f18d493212ac84e",
+        "timestamp": "2026-10-19T12:44:51Z",
+        "service_status": "accepted"
+      }
+    ],
+    "delivered_candidates": 45,
+    "overview_images": 3,
+    "user_read_confirmed": false,
+    "user_final_accepted": false
+  }
+}
