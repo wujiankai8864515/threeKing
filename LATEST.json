@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope/asset-index.json",
+  "asset_index": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "用户整体否决崩解魔：破甲碎光点、刀碎片、马尸、帽子不好看，眼部魔效不足；不要旧脸，明确授权10张新魔创意。保留麦城濒亡为复仇主动入魔文化根，采用干净大材质与明显定向魔眼，不强塞断刀马尸。枪图标高度已可但太瘦，重新加宽刃面与肩部轮廓，不横向拉伸、不增加高度；更新4张已选卡UI并供新魔10装卡，共14完整卡后续统一交。旧崩解稿及窄枪头仅历史，其他认可插画不改。新批在制，未Ready未交，配套未启动。",
-  "latest_delta": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope",
-  "current_status": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope/status-overrides.json",
+  "note": "15:40UTC追加五星框以金黄色钻石晶体为主、少量五彩棱面折射，承接四星黄金至五星金钻至六星03象牙金釉祥云。仅五星框内板/星栏等材质，原布局与已定插画像素冻结，六星03框不改。三定五星及魔10套新金钻框，六机甲仅新宽枪；总数仍14。宽枪重设计刃面肩部不横拉不加高；新魔10文化根及整体否决旧崩解要求不变。尚在制，最终完整层/源/config/QA冻结后收。",
+  "latest_delta": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope",
+  "current_status": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -120,7 +120,8 @@
     "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion",
     "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope",
     "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon",
-    "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope"
+    "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope",
+    "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -260,7 +261,8 @@
     "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion",
     "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope",
     "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon",
-    "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope"
+    "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope",
+    "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -269,7 +271,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "9bfaae809e03c9c265960995ede8643dbba61f37",
+  "remote_verified_commit": "ecf18971bb7d67b586fadd98507151d877a90119",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -277,9 +279,9 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope/effective-source-map.json",
-  "production_progress": "2026-10-19_23-40-28_new-demon10-and-broader-spearhead-scope/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/effective-source-map.json",
+  "production_progress": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/delivery-receipt.json",

@@ -1,0 +1,17 @@
+{
+  "archived_at": "2026-10-19T23:42:03.986245+08:00",
+  "entries": [
+    {
+      "original_path": "hero-production-spec/gold-diamond5_20261019_234121_UTC+08/LATEST_REQUIREMENTS.md",
+      "original_name": "LATEST_REQUIREMENTS.md",
+      "repository_path": "2026-10-19_23-42-03_gold-diamond-five-star-frame-scope/source/hero-production-spec/gold-diamond5_20261019_234121_UTC+08/LATEST_REQUIREMENTS.md",
+      "sha256": "9a7511a2f15fc5cb4752fff0929b36ed89280879ad7b3eab31985c807fdc3d5b",
+      "original_sha256": "9a7511a2f15fc5cb4752fff0929b36ed89280879ad7b3eab31985c807fdc3d5b",
+      "bytes": 810,
+      "archived_at": "2026-10-19T23:42:03.986245+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}
