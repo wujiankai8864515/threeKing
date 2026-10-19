@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星机甲关羽-青龙巨神-卡面候选.png",
+      "file_id": "file_00000000d4ec81f986a8faf0e979a65c",
+      "library_file_id": "libfile_7b6527f943ac8191ae86fcf313eea0d5",
+      "file_name": "五星机甲关羽-青龙巨神-卡面候选.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4250248,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/五星机甲关羽-青龙巨神-原图候选.png",
+      "file_id": "file_00000000c84c81f980b248e28559b3c4",
+      "library_file_id": "libfile_f3ee74a970cc8191aa9abdd8734c693f",
+      "file_name": "五星机甲关羽-青龙巨神-原图候选.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image_gen",
+      "file_size_bytes": 3380469,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

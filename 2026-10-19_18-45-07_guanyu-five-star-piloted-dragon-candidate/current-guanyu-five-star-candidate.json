@@ -1,0 +1,38 @@
+{
+  "recorded_at": "2026-10-19T18:45:22.458957+08:00",
+  "status": "candidate_pending_user_review",
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+      "original_name": "五星机甲关羽-青龙巨神-原图候选.png",
+      "repository_path": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/assets/sha256/0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5.png",
+      "sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+      "original_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+      "bytes": 3380469,
+      "archived_at": "2026-10-19T18:45:22.458957+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/cards/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/assets/sha256/83fe8f92d6a5a9ec417c486523c7dc185fbc52ca528de8f76a6703c65012b5ab.png",
+      "sha256": "83fe8f92d6a5a9ec417c486523c7dc185fbc52ca528de8f76a6703c65012b5ab",
+      "original_sha256": "83fe8f92d6a5a9ec417c486523c7dc185fbc52ca528de8f76a6703c65012b5ab",
+      "bytes": 4250248,
+      "archived_at": "2026-10-19T18:45:22.458957+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ],
+  "source_manifest": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/source/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/card-manifest.json",
+  "delivery_receipt": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/source/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/delivery-receipt.json",
+  "known_limitations": [
+    "Slight edge wear remains",
+    "Humanoid Guan Yu-like mecha head",
+    "Faction UI partially covers weapon tip",
+    "Three passive labels are placeholders, not approved game mechanics"
+  ]
+}

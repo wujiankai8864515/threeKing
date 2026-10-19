@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-19T18:45:22.458957+08:00",
+  "previous_status": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/status-overrides.json",
+  "current_summary": "用户否决旧整批五星六星，原因是雷同；旧素材和交付包仅历史保留。关羽一至四星认可冻结。当前仅五星驾驶巨型青龙人形机甲关羽一张候选待审，早先非人形机械长龙被后续要求覆盖。",
+  "effective_source_map": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/effective-source-map.json",
+  "user_final_accepted": false,
+  "delivery": {
+    "message_id": "Sentinel_b88ac5ed230881919c20be1dfee4344e",
+    "sent_utc": "2026-10-19T10:43:56Z",
+    "channel": "chatgpt",
+    "library_file_id": "libfile_7b6527f943ac8191ae86fcf313eea0d5",
+    "status": "accepted_reported_by_parent",
+    "note": "已说明仍有少量边缘旧化，候选待用户反馈。"
+  },
+  "other_37": "paused_rejected_historical_only"
+}
