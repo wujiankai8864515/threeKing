@@ -1,0 +1,22 @@
+{
+  "hero": "liubei",
+  "name": "刘备",
+  "branch": "传承",
+  "branch_id": "traditional",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+  "skills": [
+    {
+      "name": "仁德",
+      "level": 2
+    },
+    {
+      "name": "同袍",
+      "level": 2
+    },
+    {
+      "name": "龙佑",
+      "level": 2
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "hero": "zhangfei",
+  "name": "张飞",
+  "branch": "魔化",
+  "branch_id": "demonic",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png",
+  "skills": [
+    {
+      "name": "血恨",
+      "level": 2
+    },
+    {
+      "name": "惊魂",
+      "level": 2
+    },
+    {
+      "name": "不屈",
+      "level": 2
+    }
+  ]
+}

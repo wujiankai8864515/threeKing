@@ -1,0 +1,141 @@
+[
+  {
+    "id": "demonic-5-biography",
+    "arguments": {
+      "prompt": "NEW landscape biography for 5-star DEMONIC LIU BEI, not Guan Yu. 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Original fantasy transformation at Baidi deathbed chapter85: dying Liu Bei's recognizable face appears in rising spectral form above a dim royal bedside, Zhuge Liang small and subdued, remote Yiling burnt banners remembered through window, tragic gold-black dragon wakes to protect orphaned followers, no gore. Human Liu Bei central largest focus, no gore; no skeletal human face. Full scene with muted backgrounds. No frame no text. No metallic skin or goldpowder. Restrained first demonic awakening, room for stronger sixth-tier.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-745e12be-b96b-4779-b04c-0d3cfbadf862.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-biography.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-5-portrait",
+    "arguments": {
+      "prompt": "NEW square portrait for 5-star DEMONIC LIU BEI, not Guan Yu. 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Head and upper chest avatar, mourning proud fierce eyes, crown and shoulders fully contained. True transparent background NO scenery NO extra faces. No frame no text. No metallic skin or goldpowder. Restrained first demonic awakening, room for stronger sixth-tier.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3a52e947-8c8b-4c5f-b8b4-c35f395ba14b.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-portrait.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-5-cutin",
+    "arguments": {
+      "prompt": "NEW landscape cutin for 5-star DEMONIC LIU BEI, not Guan Yu. 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Explosive ACTIVE protection skill: Liu Bei lowers center of gravity and opens his arms as one straight sword sweeps sideways and left palm thrusts toward allies, crimson-black mantle flares, huge black dragon head with burnt-gold eyes erupts behind, spectral green-black protective waves radiate forward. Entire silhouette and weapons contained. Character sharp, no gore, true transparent background, NO ground or scenery. No frame no text. No metallic skin or goldpowder. Restrained first demonic awakening, room for stronger sixth-tier.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4b5a0404-fba9-404e-b617-6abd246b0bb1.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-5-vfx",
+    "arguments": {
+      "prompt": "NEW landscape vfx for 5-star DEMONIC LIU BEI, not Guan Yu. 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Standalone skill VFX only NO person: dark smoke dragon head with gold eyes forms a mourning emerald protective crescent and red-black energy ribbons. Broad coherent flames no random sparks, true transparent background, no floor or scene. No frame no text. No metallic skin or goldpowder. Restrained first demonic awakening, room for stronger sixth-tier.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4ee41bab-1d43-43b0-bdb2-35fc41285809.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-6-biography",
+    "arguments": {
+      "prompt": "NEW landscape biography for 6-star DEMONIC LIU BEI, not Guan Yu. 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Original further transformation: Liu Bei's ghostly emperor form kneels then rises on the grounded ashes of Yiling with spectral fallen army gathering under a great dark golden dragon canopy; revenge is grieving collective protection not mindless slaughter. Human Liu Bei central largest focus, no gore; no skeletal human face. Full scene with muted backgrounds. No frame no text. No metallic skin or goldpowder. Greatly stronger silhouette and layered effects than five-star.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c22c5c45-07d7-4fe0-bac8-929b65969c10.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-6-portrait",
+    "arguments": {
+      "prompt": "NEW square portrait for 6-star DEMONIC LIU BEI, not Guan Yu. 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Head and upper chest avatar, mourning proud fierce eyes, crown and shoulders fully contained. True transparent background NO scenery NO extra faces. No frame no text. No metallic skin or goldpowder. Greatly stronger silhouette and layered effects than five-star.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f5c69dd5-7052-4259-9788-55f71abd4b14.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-6-cutin",
+    "arguments": {
+      "prompt": "NEW landscape cutin for 6-star DEMONIC LIU BEI, not Guan Yu. 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Explosive ACTIVE protection skill: Liu Bei lowers center of gravity and opens his arms as two huge rigid straight swords cross outward in a violent protective sweep, crimson-black mantle flares, huge black dragon head with burnt-gold eyes erupts behind, spectral green-black protective waves radiate forward. Entire silhouette and weapons contained. Character sharp, no gore, true transparent background, NO ground or scenery. No frame no text. No metallic skin or goldpowder. Greatly stronger silhouette and layered effects than five-star.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-84ec74b2-508f-4d04-a770-aae45907373a.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-6-vfx",
+    "arguments": {
+      "prompt": "NEW landscape vfx for 6-star DEMONIC LIU BEI, not Guan Yu. 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Use reference exact human face, short pointed beard, obsidian emerald armor crimson-black mantle and distinct crown. Sharp clean mythic fantasy anime illustration, original tragic dark form. Standalone skill VFX only NO person: immense black dragon head with blazing gold eyes and three nested ghostly emerald-crimson shield arches sheltering an abstract phantom army emblem. Broad coherent flames no random sparks, true transparent background, no floor or scene. No frame no text. No metallic skin or goldpowder. Greatly stronger silhouette and layered effects than five-star.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-bed095b3-2a73-46b1-aa83-88b16d7cb0a4.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+    "note": "Card5 reference before hand-only repair, same identity. See history."
+  },
+  {
+    "id": "demonic-5-card-original",
+    "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Three-quarter forward stance, one rigid straight double-edged sword lowered, other raised defensively. Earthly ruined Baidi stone terrace, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+    "transparent_background": false,
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-529187d9-042a-4fb4-93b1-08af6ab794dd.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+  },
+  {
+    "id": "demonic-5-card-fixed",
+    "prompt": "Edit this Liu Bei demonic card branch: keep recognizable FACE, the sharp clean illustration style, and vertical portrait, but IMPORTANT make a clearly different demonic form not a king in torn clothes. Five star: armor becomes angular obsidian with restrained emerald inlays and red inner cloak, pale spectral crown, huge DARK SMOKE dragon with deep gold eyes replaces normal gold dragon. Hand reaching toward ghost comrades, grieving intense expression. Must still look Liu Bei short pointed beard/black hair/human face not Guan Yu. Skin healthy pale no bruises, no gore. Dark energy broad coherent flames not glitter. Face hands center80% avoid outsideedges. No frame no text.",
+    "transparent_background": false,
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a793d17b-6be7-462e-a825-546820fa8dfb.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-529187d9-042a-4fb4-93b1-08af6ab794dd.png"
+  },
+  {
+    "id": "demonic-6-card-original",
+    "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Three-quarter forward stance, one rigid straight double-edged sword lowered, other raised defensively. Earthly ruined Baidi stone terrace, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+    "transparent_background": false,
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ab198d21-25ce-4612-ade1-06ff4f68c352.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+  },
+  {
+    "id": "demonic-6-card-fixed",
+    "prompt": "Edit this Liu Bei demonic card branch: keep recognizable FACE, the sharp clean illustration style, and vertical portrait, but IMPORTANT make a clearly different demonic form not a king in torn clothes. Six star: dramatically larger supernatural jagged shoulder architecture, crown grows into tall black imperial silhouette, cloak becomes huge torn crimson-black spectral mantle, Liu Bei takes a new low dynamic forward stance with TWO swords crossed downward, giant black-and-burnt-gold phantom dragon head ROARS over him, translucent phantom army behind. Clearly greater shape and power than five-star. Must still look Liu Bei short pointed beard/black hair/human face not Guan Yu. Skin healthy pale no bruises, no gore. Dark energy broad coherent flames not glitter. Face hands center80% avoid outsideedges. No frame no text.",
+    "transparent_background": false,
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-54736b8b-f47b-43d5-b7f5-11f0983aeb03.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ab198d21-25ce-4612-ade1-06ff4f68c352.png"
+  },
+  {
+    "id": "demonic5-handfix",
+    "prompt": "Edit ONLY viewer-right extended arm/hand of this Liu Bei: bend elbow and bring open palm and all fingers inward so entire hand silhouette ends before image x800 in a 1024px wide image. Palm at approx x690,y730, no finger beyond x800. Keep character face, identity, all costume, dragon, scene, colors, and other hand exactly as reference. Natural arm anatomy five fingers. Need clean space rightmost220px for future card UI. No text no frame.",
+    "transparent_background": false,
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f9775d04-afce-4fe4-bdf9-c23b71c1b912.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a793d17b-6be7-462e-a825-546820fa8dfb.png"
+  }
+]

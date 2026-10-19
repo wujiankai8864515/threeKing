@@ -1,0 +1,22 @@
+{
+  "hero": "zhangfei",
+  "name": "张飞",
+  "branch": "神化",
+  "branch_id": "divine",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png",
+  "skills": [
+    {
+      "name": "桓威",
+      "level": 1
+    },
+    {
+      "name": "助风",
+      "level": 1
+    },
+    {
+      "name": "镇江",
+      "level": 1
+    }
+  ]
+}

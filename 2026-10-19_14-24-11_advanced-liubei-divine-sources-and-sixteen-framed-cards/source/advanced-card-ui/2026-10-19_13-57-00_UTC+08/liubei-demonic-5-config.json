@@ -1,0 +1,22 @@
+{
+  "hero": "liubei",
+  "name": "刘备",
+  "branch": "魔化",
+  "branch_id": "demonic",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+  "skills": [
+    {
+      "name": "遗恨",
+      "level": 1
+    },
+    {
+      "name": "孤誓",
+      "level": 1
+    },
+    {
+      "name": "护魂",
+      "level": 1
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "hero": "liubei",
+  "name": "刘备",
+  "branch": "机甲",
+  "branch_id": "mecha",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+  "skills": [
+    {
+      "name": "统链",
+      "level": 2
+    },
+    {
+      "name": "修复",
+      "level": 2
+    },
+    {
+      "name": "备援",
+      "level": 2
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-6star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-6star-dynamic-ui.png",
+  "source_sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+  "output_sha256": "5ee949acac880b8179bf5580d074346a790e3ddef7cfedc0200d20a51b0bfeb0",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": "design default of three, not a user-fixed count",
+  "stars": 6,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "刘备",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "机甲",
+      "target_center": [
+        180.126953125,
+        1609.2604166666667
+      ],
+      "glyph_bbox": [
+        0,
+        14,
+        102,
+        65
+      ]
+    },
+    {
+      "text": "统链 +2",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "修复 +2",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "备援 +2",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1199176,
+  "uncovered_art_pixels_changed": 0
+}

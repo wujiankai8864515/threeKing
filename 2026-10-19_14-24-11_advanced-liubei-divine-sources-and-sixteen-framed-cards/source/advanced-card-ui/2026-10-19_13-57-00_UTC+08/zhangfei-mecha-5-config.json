@@ -1,0 +1,22 @@
+{
+  "hero": "zhangfei",
+  "name": "张飞",
+  "branch": "机甲",
+  "branch_id": "mecha",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png",
+  "skills": [
+    {
+      "name": "共振",
+      "level": 1
+    },
+    {
+      "name": "震荡",
+      "level": 1
+    },
+    {
+      "name": "重构",
+      "level": 1
+    }
+  ]
+}

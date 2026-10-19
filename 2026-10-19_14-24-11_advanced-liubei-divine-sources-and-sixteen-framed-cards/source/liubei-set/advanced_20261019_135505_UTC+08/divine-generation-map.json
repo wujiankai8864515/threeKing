@@ -1,0 +1,130 @@
+[
+  {
+    "id": "divine-5-biography",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 biography for 5-star DIVINE Liu Bei, 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Later generations visiting a real earthly Han Zhaolie memorial temple: human worshippers small, central remembered Liu Bei steps out of a carved commemorative image as golden dragon light shelters people. Clearly fictional apotheosis from memorial reverence not a canonical religious deity. Liu Bei and guardian dragon largest strongest focus, full scene with natural depth and restrained secondary people. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fe98d4ce-2e70-49ac-acd1-ccfdee2f3829.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png",
+    "note": null
+  },
+  {
+    "id": "divine-5-portrait",
+    "arguments": {
+      "prompt": "Create NEW square 1024x1024 portrait for 5-star DIVINE Liu Bei, 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Chestup avatar. Peaceful protective sharp eyes, jade-green and ivory divine robe, ceremonial halo-crown fully visible. No dragon/no scenery/no lettering, true transparent background. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-db830d68-a563-40e0-9152-bd35681f7949.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-portrait.png",
+    "note": null
+  },
+  {
+    "id": "divine-5-cutin",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 cutin for 5-star DIVINE Liu Bei, 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Dynamic blessing skill burst: flowing robes and long sleeves sweep in opposite directions as Liu Bei steps forward and thrusts open palms outward, a broad gold dragon guardian head and one graceful circular sacred shield erupt behind him. Gesture shows active protection/restoration, not static portrait, no weapons required. Entire person and robe edges contained, true transparent background, no landscape or ground. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-26a57f59-a52f-40ba-ac27-25352196d63f.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-cutin.png",
+    "note": null
+  },
+  {
+    "id": "divine-5-vfx",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 vfx for 5-star DIVINE Liu Bei, 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Standalone VFX only no human: one jade-gold sacred protective ring with a gold Chinese dragon head above and soft green healing ribbon. Smooth shaped light masses with clear alpha fades; true transparent background, no scenery, no text. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3ed72b14-099e-4f3e-9c31-a8ed7971fce3.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-vfx.png",
+    "note": null
+  },
+  {
+    "id": "divine-6-biography",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 biography for 6-star DIVINE Liu Bei, 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Original divine upgrade: memorial votive ribbons from different generations become one immense protective golden dragon canopy, Liu Bei takes a step forward and opens hands to shelter families beneath, earthly temple courtyard remains recognizable. Liu Bei and guardian dragon largest strongest focus, full scene with natural depth and restrained secondary people. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-843ac61a-2c98-451c-9bbe-5604e5ab9077.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-biography.png",
+    "note": null
+  },
+  {
+    "id": "divine-6-portrait",
+    "arguments": {
+      "prompt": "Create NEW square 1024x1024 portrait for 6-star DIVINE Liu Bei, 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Chestup avatar. Peaceful protective sharp eyes, jade-green and ivory divine robe, ceremonial halo-crown fully visible. No dragon/no scenery/no lettering, true transparent background. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d964cdd3-055a-45f2-bc85-e72ec1447c5c.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-portrait.png",
+    "note": null
+  },
+  {
+    "id": "divine-6-cutin",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 cutin for 6-star DIVINE Liu Bei, 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Dynamic blessing skill burst: flowing robes and long sleeves sweep in opposite directions as Liu Bei steps forward and thrusts open palms outward, a broad gold dragon guardian head and three immense nested temple-shaped sacred shields erupt behind him. Gesture shows active protection/restoration, not static portrait, no weapons required. Entire person and robe edges contained, true transparent background, no landscape or ground. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f5670fd4-39fd-47b8-af47-bd408b89fe9f.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-cutin.png",
+    "note": null
+  },
+  {
+    "id": "divine-6-vfx",
+    "arguments": {
+      "prompt": "Create NEW landscape 1536x1024 vfx for 6-star DIVINE Liu Bei, 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Use reference EXACT human Liu Bei facial identity and branch costume, clean mythic cel-painted high-detail game illustration. Standalone VFX only no human: three layered enormous sacred jade-gold sanctuary arches with powerful golden dragon crown above, green-gold healing waves. Smooth shaped light masses with clear alpha fades; true transparent background, no scenery, no text. No random dots, goldpowder, noisy highlights or skin metal. No frame no text.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f38bac28-3f47-4efe-9d6f-b8a96836b929.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-vfx.png",
+    "note": null
+  },
+  {
+    "id": "divine-5-card",
+    "arguments": {
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Standing serenely with one open palm extending protective light. Earthly memorial courtyard, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a4ec15a9-9e62-4dc7-9546-7f633d034ab0.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png"
+  },
+  {
+    "id": "divine-6-card",
+    "arguments": {
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Standing serenely with one open palm extending protective light. Earthly memorial courtyard, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-2c0dfe76-267e-45b1-9d4d-67073d8dac37.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png"
+  }
+]
