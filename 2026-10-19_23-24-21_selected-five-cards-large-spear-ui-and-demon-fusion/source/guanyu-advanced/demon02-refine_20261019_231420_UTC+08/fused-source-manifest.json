@@ -1,0 +1,11 @@
+{
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon02-refine_20261019_231420_UTC+08/demon02-fused-final-source.png",
+  "sha256": "dc84a6dbfb15a21d18220130eaa98518321e88daf3a56754a42f02a5b2506f12",
+  "dimensions": [
+    1024,
+    1536
+  ],
+  "config": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon02-refine_20261019_231420_UTC+08/fused-card-config.json",
+  "status": "source_ready_for_new_ui",
+  "library_file_id": "libfile_e7316f374b44819180acc76dab49f7d4"
+}

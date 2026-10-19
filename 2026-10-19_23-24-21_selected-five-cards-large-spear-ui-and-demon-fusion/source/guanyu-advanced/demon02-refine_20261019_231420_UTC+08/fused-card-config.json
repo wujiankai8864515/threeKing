@@ -1,0 +1,24 @@
+{
+  "hero": "guanyu",
+  "name": "魔·关羽",
+  "branch": "天",
+  "branch_id": "demon02-fused",
+  "tier": 5,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon02-refine_20261019_231420_UTC+08/demon02-fused-final-source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon02-refine_20261019_231420_UTC+08/fused-complete-card",
+  "skills": [
+    {
+      "name": "杀心",
+      "level": 2
+    },
+    {
+      "name": "噬魂",
+      "level": 2
+    },
+    {
+      "name": "复仇",
+      "level": 2
+    }
+  ]
+}

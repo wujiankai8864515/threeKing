@@ -1,0 +1,141 @@
+{
+  "hero": "guanyu",
+  "name": "传承·关羽",
+  "branch": "天",
+  "branch_id": "heritage-water-command",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_232100_UTC+08/heritage5",
+  "skills": [
+    {
+      "name": "龙骧",
+      "level": 1
+    },
+    {
+      "name": "震夏",
+      "level": 1
+    },
+    {
+      "name": "武圣",
+      "level": 1
+    }
+  ],
+  "troop_class": "长枪兵",
+  "advancement_placeholder": true,
+  "skill_values_status": "draft_not_balanced",
+  "active_skill": {
+    "name": "水淹七军",
+    "status": "draft_no_fixed_values"
+  },
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_232100_UTC+08/heritage5/guanyu-heritage-water-command-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_232100_UTC+08/heritage5/guanyu-heritage-water-command-5star-dynamic-ui.png",
+  "source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+  "output_sha256": "7d829d1a382971faec525e6db816ac5e9e2431a785b7d3ef75207674fdad380a",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "传承",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        791.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "龙骧 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "震夏 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "武圣 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        50
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

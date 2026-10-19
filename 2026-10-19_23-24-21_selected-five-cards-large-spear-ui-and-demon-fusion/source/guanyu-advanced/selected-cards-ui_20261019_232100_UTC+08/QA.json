@@ -1,0 +1,67 @@
+[
+  {
+    "card": "mecha5",
+    "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+    "checked_uncovered_art": 1209452,
+    "changed_uncovered_art": 0,
+    "source_scale": 1,
+    "icon_center": [
+      1047.060546875,
+      1640.1276041666667
+    ],
+    "visible_icon_height_px": 130,
+    "no_icon_text": true
+  },
+  {
+    "card": "heritage5",
+    "source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+    "checked_uncovered_art": 1209452,
+    "changed_uncovered_art": 0,
+    "source_scale": 1,
+    "icon_center": [
+      1047.060546875,
+      1640.1276041666667
+    ],
+    "visible_icon_height_px": 130,
+    "no_icon_text": true
+  },
+  {
+    "card": "divine5",
+    "source_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+    "checked_uncovered_art": 1209452,
+    "changed_uncovered_art": 0,
+    "source_scale": 1,
+    "icon_center": [
+      1047.060546875,
+      1640.1276041666667
+    ],
+    "visible_icon_height_px": 130,
+    "no_icon_text": true
+  },
+  {
+    "card": "mecha6",
+    "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "checked_uncovered_art": 1199176,
+    "changed_uncovered_art": 0,
+    "source_scale": 1,
+    "icon_center": [
+      1047.060546875,
+      1640.1276041666667
+    ],
+    "visible_icon_height_px": 130,
+    "no_icon_text": true
+  },
+  {
+    "card": "demon5",
+    "source_sha256": "dc84a6dbfb15a21d18220130eaa98518321e88daf3a56754a42f02a5b2506f12",
+    "checked_uncovered_art": 1209452,
+    "changed_uncovered_art": 0,
+    "source_scale": 1,
+    "icon_center": [
+      1047.060546875,
+      1640.1276041666667
+    ],
+    "visible_icon_height_px": 130,
+    "no_icon_text": true
+  }
+]

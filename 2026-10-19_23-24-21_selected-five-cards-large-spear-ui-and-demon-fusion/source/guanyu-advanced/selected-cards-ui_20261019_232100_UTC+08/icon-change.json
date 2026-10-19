@@ -1,0 +1,29 @@
+{
+  "old_canvas": [
+    120,
+    120
+  ],
+  "old_alpha_bbox": [
+    24,
+    33,
+    80,
+    87
+  ],
+  "old_visible_alpha16_bbox": [
+    46,
+    35,
+    78,
+    85
+  ],
+  "removed_alpha_at_most": 16,
+  "new_visible_target_height": 130,
+  "new_canvas": [
+    83,
+    130
+  ],
+  "center_unchanged": [
+    1047.060546875,
+    1640.6549479166667
+  ],
+  "black_backplate": false
+}

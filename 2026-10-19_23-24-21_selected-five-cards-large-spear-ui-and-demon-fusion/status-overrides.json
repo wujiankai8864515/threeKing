@@ -1,0 +1,6 @@
+{
+  "recorded_at": "2026-10-19T23:24:21.101196+08:00",
+  "previous_status": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/status-overrides.json",
+  "current_summary": "五张选定关羽完整卡已按大枪头统一UI整合：五星机甲/传承、已选神新05、已选六机甲08配已选升级03象牙金釉御铸框、新魔人首龙身合体。枪可见图形基本填满圆内区、透明居中无黑底不裁尖，已有插画不重画。六机甲只改名称主动龙御天穹，被动镇岳/逆鳞/天诛，防反机制不变，逐词尚未用户批准。魔新合体源待评，分立修版与232000中间UI保历史，不作现行。真实参数/参考/源、renderer、独立层/config、SHA/QA/Library与反馈齐，本轮五卡已发送服务accepted，魔新稿、大枪UI与新技能名称仍待用户审阅。",
+  "effective_source_map": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/effective-source-map.json"
+}

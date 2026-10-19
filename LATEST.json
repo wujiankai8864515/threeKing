@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/asset-index.json",
+  "asset_index": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "15:19UTC用户选定最新升级六星03象牙金釉·御铸框，与已选机甲08空域护城配用。插画与该框均冻结不重画。用户认为当前主动/被动名称不够好，授权直接重拟一套并整合，不先审；只改技能名UI/config，防守反击机制不变。新名称与整合成卡正在制作，未交付；魔人首龙身合体继续在制，神新05锁定。",
-  "latest_delta": "2026-10-19_23-20-27_selected-frame03-skill-names-revision",
-  "current_status": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/status-overrides.json",
+  "note": "五张选定关羽完整卡已按大枪头统一UI整合：五星机甲/传承、已选神新05、已选六机甲08配已选升级03象牙金釉御铸框、新魔人首龙身合体。枪可见图形基本填满圆内区、透明居中无黑底不裁尖，已有插画不重画。六机甲只改名称主动龙御天穹，被动镇岳/逆鳞/天诛，防反机制不变，逐词尚未用户批准。魔新合体源待评，分立修版与232000中间UI保历史，不作现行。真实参数/参考/源、renderer、独立层/config、SHA/QA/Library与反馈齐，本轮五卡已发送服务accepted，魔新稿、大枪UI与新技能名称仍待用户审阅。",
+  "latest_delta": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion",
+  "current_status": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -116,7 +116,8 @@
     "2026-10-19_23-14-45_demon02-limited-revision-authorized",
     "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope",
     "2026-10-19_23-19-11_selected-mecha08-illustration-only",
-    "2026-10-19_23-20-27_selected-frame03-skill-names-revision"
+    "2026-10-19_23-20-27_selected-frame03-skill-names-revision",
+    "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -252,7 +253,8 @@
     "2026-10-19_23-14-45_demon02-limited-revision-authorized",
     "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope",
     "2026-10-19_23-19-11_selected-mecha08-illustration-only",
-    "2026-10-19_23-20-27_selected-frame03-skill-names-revision"
+    "2026-10-19_23-20-27_selected-frame03-skill-names-revision",
+    "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -261,7 +263,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "5d3664e46852f4d38e1456c5d3bcdb91b1f894f8",
+  "remote_verified_commit": "3750bff9c01aad1e24c23f70ac345e350b1d97ae",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -269,12 +271,12 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/effective-source-map.json",
-  "production_progress": "2026-10-19_23-20-27_selected-frame03-skill-names-revision/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/effective-source-map.json",
+  "production_progress": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_22-31-42_32-complete-card-delivery-receipts/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
