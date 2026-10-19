@@ -1,0 +1,52 @@
+{
+  "recorded_at": "2026-10-19T14:33:00.595051+08:00",
+  "previous_status": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/status-overrides.json",
+  "current_summary": "24装框候选齐，64源候选已归档。已交付刘关16原生成卡、刘张传承16配套源图、5张预览；预览和源图分别计数，未经用户验收。",
+  "scope": "hero-production-spec/advanced_three_hero_scope_2026-10-19_13-57-41_UTC+08",
+  "effective_source_map": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/effective-source-map.json",
+  "delivery": {
+    "user_final_accepted": false,
+    "batches": [
+      {
+        "message_id": "Sentinel_bbaeb02d469c8191a0845232e45cdf9b",
+        "sent_at": "2026-10-19T06:16:06Z",
+        "scope": "Liu divine pair and Zhang traditional pair previews",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_6de07b6797908191ad9b477d3b9a6d77",
+        "sent_at": "2026-10-19T06:28:22Z",
+        "scope": "Liu traditional eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "sent_at": "2026-10-19T06:35:08Z",
+        "scope": "Liu eight native framed cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "sent_at": "2026-10-19T06:35:19Z",
+        "scope": "Guan eight native framed cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_a51780135fdc8191aa68a438d2958bf8",
+        "sent_at": "2026-10-19T06:36:00Z",
+        "scope": "Zhang traditional eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_3b3a20dafde881919c4b10dfd6162915",
+        "sent_at": "2026-10-19T06:36:09Z",
+        "scope": "Liu divine demonic mecha three overview previews",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "source_images_delivered": 16,
+    "framed_cards_delivered": 16,
+    "preview_images_delivered": 5
+  },
+  "other_37": "paused_rejected_historical_only"
+}

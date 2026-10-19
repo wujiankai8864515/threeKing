@@ -1,0 +1,22 @@
+{
+  "hero": "guanyu",
+  "name": "关羽",
+  "branch": "机甲",
+  "branch_id": "mecha",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_card.png",
+  "skills": [
+    {
+      "name": "蓄能",
+      "level": 1
+    },
+    {
+      "name": "锁定",
+      "level": 1
+    },
+    {
+      "name": "终式",
+      "level": 1
+    }
+  ]
+}

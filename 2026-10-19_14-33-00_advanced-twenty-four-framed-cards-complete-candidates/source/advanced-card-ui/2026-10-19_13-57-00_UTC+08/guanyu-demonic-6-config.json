@@ -1,0 +1,22 @@
+{
+  "hero": "guanyu",
+  "name": "关羽",
+  "branch": "魔化",
+  "branch_id": "demonic",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png",
+  "skills": [
+    {
+      "name": "怨煞",
+      "level": 2
+    },
+    {
+      "name": "索命",
+      "level": 2
+    },
+    {
+      "name": "不屈",
+      "level": 2
+    }
+  ]
+}

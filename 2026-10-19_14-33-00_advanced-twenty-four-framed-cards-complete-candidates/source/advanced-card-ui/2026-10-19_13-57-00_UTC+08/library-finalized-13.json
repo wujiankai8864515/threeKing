@@ -1,0 +1,288 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-traditional-5star.png",
+        "file_id": "file_00000000704481f58d7f2cecba2b54b1",
+        "library_file_id": "libfile_0b2c0899b1b88191ad39c168cb8c96f1",
+        "file_name": "guanyu-traditional-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4249326,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-traditional-6star.png",
+        "file_id": "file_0000000022e481f5b7f96d8c8508ce74",
+        "library_file_id": "libfile_e4dc2280148c81919ae537e2fb19365f",
+        "file_name": "guanyu-traditional-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4287581,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-divine-5star.png",
+        "file_id": "file_0000000082a081f5b7eee17b772e0e90",
+        "library_file_id": "libfile_85e56d9a41d48191b65ad98c31484715",
+        "file_name": "guanyu-divine-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4127286,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-divine-6star.png",
+        "file_id": "file_000000009a0881f588a324b2593b5e38",
+        "library_file_id": "libfile_244a757dbe5081918fa46b5fb9ce59be",
+        "file_name": "guanyu-divine-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4267016,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-demonic-5star.png",
+        "file_id": "file_00000000e52881f5b113de9a0fd8d664",
+        "library_file_id": "libfile_75c521bb62a481918b7effbcf7b7c2bd",
+        "file_name": "guanyu-demonic-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4163863,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-demonic-6star.png",
+        "file_id": "file_00000000239081f598324a7dd97b55ef",
+        "library_file_id": "libfile_42e4bbcd7acc8191af428b6ed369100a",
+        "file_name": "guanyu-demonic-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4333323,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-mecha-5star.png",
+        "file_id": "file_00000000c6cc81f5879b4e8670df8e8d",
+        "library_file_id": "libfile_42db8212b69c819195c8db21bc97a062",
+        "file_name": "guanyu-mecha-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4029438,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-mecha-6star.png",
+        "file_id": "file_0000000000d881f583b5d4fa5bc2c90f",
+        "library_file_id": "libfile_2d45426afef08191b762c9c1e39dab2c",
+        "file_name": "guanyu-mecha-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4179314,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-demonic-5star.png",
+        "file_id": "file_00000000871881f59af6e85b2f1c18e4",
+        "library_file_id": "libfile_9a3268cd0ffc8191b39ba1d0f6531c3a",
+        "file_name": "liubei-demonic-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3996176,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-demonic-6star.png",
+        "file_id": "file_00000000c01c81f5b73a18fd880bdd9b",
+        "library_file_id": "libfile_391283b4460481918ae9fda9b55d1d50",
+        "file_name": "liubei-demonic-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4354128,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-mecha-5star.png",
+        "file_id": "file_000000004fc481f5b39a5001f8dc6153",
+        "library_file_id": "libfile_9a30a43a7a6881919ece462d95b56b6b",
+        "file_name": "liubei-mecha-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4011251,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-mecha-6star.png",
+        "file_id": "file_0000000023b081f5ac5d193db7054ac8",
+        "library_file_id": "libfile_0ef69411887c8191b4c40d186015d06a",
+        "file_name": "liubei-mecha-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4129134,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-divine-5star.png",
+        "file_id": "file_000000005c1481f5b947d8cb8c068136",
+        "library_file_id": "libfile_edd2c3c8b3548191981a92ed4420d914",
+        "file_name": "zhangfei-divine-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4289109,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

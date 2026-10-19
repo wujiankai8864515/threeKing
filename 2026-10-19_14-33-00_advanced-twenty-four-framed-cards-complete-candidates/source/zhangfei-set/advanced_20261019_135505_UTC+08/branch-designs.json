@@ -1,0 +1,34 @@
+{
+  "legacy": {
+    "name": "传承",
+    "look": "black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity",
+    "five": "Victorious Zhang Fei at Wakou mountain pass, mounted dark chestnut horse, spear diagonally upper left, tactical composure, distant mountainous walls",
+    "six": "Majestic low frontal Zhang Fei on mountain fortress terrace, one foot forward roaring, long spear braced horizontally at hip, dramatically layered black gold tiger armor and broad crimson war mantle, colossal black-crimson tiger head and two paws over mountain peaks, more heroic ornate than five star, not emperor",
+    "bio5": "Zhang Fei's Wakou tactical breakthrough: he leads cavalry through narrow mountain route beneath a towering red-black spirit tiger, abandoned enemy fortifications and tiny retreating enemy ranks, mature bravery and tactical victory. Main Zhang Fei clear, no blood",
+    "bio6": "Original mythic ascension, not literal novel: memories of Changban's bridge and Wakou mountain pass recede on opposite sides while mature Zhang Fei plants his spear on an earthly command terrace; the black-crimson tiger fuses into grand layered armor; army banners bow to shockwave, new mantle unfolds"
+  },
+  "divine": {
+    "name": "神",
+    "look": "sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown",
+    "five": "Zhang Fei as locally worshipped Huanhou protector above earthly Yangtze temple steps, calm fierce protector, broad shoulders, spear resting upright to left gripped naturally low, tiny votive boats below, white-red guardian tiger head in translucent wind-cloud",
+    "six": "Zhang Fei as grand river guardian with magnificent layered ivory black crimson temple-guardian armor, jade collar and wide red divine sash, hovering just above rocky riverbank, both hands supporting long spear diagonally, huge white tiger head with crimson sacred forehead and luminous contour, colossal directional river wind rings, no random dust",
+    "bio5": "Original mythic visualization of Yunyang local Huanhou worship: humble people and boatmen below Zhang Fei temple offering incense, enormous living Zhang Fei guardian manifests from carved doorway amid a white-red spirit tiger, river winds turn gentle and boats pass safely. Zhang Fei is main clear hero",
+    "bio6": "Original six-star guardian ascension: Zhang Fei stands between a raging river gorge and vulnerable tiny boats, raises spear and roars, white-red celestial tiger opens wind corridor through storm, new ivory-black sacred armor unfolds; earthly river temple remains distant, no heaven palace"
+  },
+  "demon": {
+    "name": "魔",
+    "look": "vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull",
+    "five": "Zhang Fei risen in vengeance from betrayal at Langzhong: standing in ruined military tent courtyard at night, grounded split stance, long spear held low in two hands, furious wide eyes, ghost tiger head and broken chains behind, ember-red structured energy, no gore",
+    "six": "Enormous armored Zhang Fei vengeance warlord riding dark skeletal armored warhorse, face human recognizably Zhang Fei, exaggerated black iron red abyssal tiger pauldrons and broad torn mourning mantle, long spear angled down left with genuine mounted two-hand grip, huge red-black bone-faced ghost tiger breaking chains overhead; no gore or bodily wounds",
+    "bio5": "Original mythic turn after Zhang Fei's tragic murder by subordinates: overturned wine vessel and abandoned mourning robes in dark Langzhong tent, no corpse or blood, living spectral Zhang Fei rises fully formed gripping long spear, two distant fleeing silhouettes tiny, gigantic ghost tiger tears through snapped symbolic chains, rage and betrayed loyalty",
+    "bio6": "Original six-star infernal ascent: Zhang Fei mounted on armored bone horse crosses shattered chain barrier with his long spear leading downward, gigantic ghost tiger devours shadow shackles, fractured mourning banner transforms into huge dark crimson mantle, monumental earthly Langzhong gate silhouette, no gore"
+  },
+  "mecha": {
+    "name": "机甲",
+    "look": "heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct",
+    "five": "Technological Zhang Fei consciousness embodied in broad black-crimson powered armor, grounded charging stance, both hands hold long straight powered snake-spear pointing up right, mechanical tiger holographic head behind, industrial terrestrial hangar, five star strong but compact",
+    "six": "Titanic six-star Zhang Fei advanced resonance mecha, huge segmented acoustic shoulder rings, layered black crimson armor with ivory articulated joints and tiny jade lights, human face beard clear open helmet, lunging downward left with massive continuous energy-edged long spear, gigantic mechanical tiger head projected by back array, clean bold structured sonic rings, extraordinary six-star silhouette",
+    "bio5": "Original futuristic civilization instantiates Zhang Fei's preserved personality into broad black crimson combat chassis in terrestrial fabrication hall, man-like open face helmet and flowing black beard visible, mechanical tiger intelligence lights up behind, an ancient snake spear silhouette and old campaign banner preserved in museum alcove; no text",
+    "bio6": "Original six-star technological upgrade: Zhang Fei's resonance armor synchronizes with colossal mechanical tiger in vast ground-level testing gorge, acoustic rings bend dust into clean bands, new segmented shoulder arrays unfold and a longer energy-edged spear powers up, tiny engineers distant for scale, no random particles"
+  }
+}

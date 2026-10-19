@@ -1,0 +1,130 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-avatar.png",
+    "sha256": "3573a193b726cda4c3998a2905006bdb8b85c1234a57f2493c955c8f4a093182",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-bio.png",
+    "sha256": "2c318b939973efa26cc18bffb346ac5b5aab08339a4e7dc797578d9ce67ae26f",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png",
+    "sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-cast.png",
+    "sha256": "305d9a31b324d37333fc3d871548f27884cd198b08d04835d79499cf5dfac0fe",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-fx.png",
+    "sha256": "3c69664eae42db78442fd35ed8abe4ff71ba14ecca1936dd4e8d5c50c87000a6",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-avatar.png",
+    "sha256": "9b200031ce41e2e40d3f537c0d3727a6fa07ad78e4296b20371c70bc9799bb56",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-bio.png",
+    "sha256": "c7d4d0362302267d6a9be6326a1e08df650aa745ef687e5f8ac2a474cbe9f965",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png",
+    "sha256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-cast.png",
+    "sha256": "830137eaa3caacb117d10fed66652a3d55600bfa3382047b1749a180d047200e",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "status": "candidate_visual_reviewed"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-fx.png",
+    "sha256": "60d71090549e2df7aaa68e87cd6d290b39d221a6d8ef864040b91bdf8fd4177b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "status": "candidate_visual_reviewed"
+  }
+]

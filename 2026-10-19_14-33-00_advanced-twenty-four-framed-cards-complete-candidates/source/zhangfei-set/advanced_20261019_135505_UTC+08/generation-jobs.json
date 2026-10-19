@@ -1,0 +1,322 @@
+[
+  {
+    "key": "legacy5-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Landscape 3:2 cinematic complete scene. Zhang Fei's Wakou tactical breakthrough: he leads cavalry through narrow mountain route beneath a towering red-black spirit tiger, abandoned enemy fortifications and tiny retreating enemy ranks, mature bravery and tactical victory. Main Zhang Fei clear, no blood. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "legacy5-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "legacy5-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. black crimson spirit tiger and bold thunder shockwave behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 5 is strong but clearly less elaborate than tier6.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "legacy5-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only black crimson mythic tiger roar with three broad red shockwave bands. Five-star compact one crest and limited arcs. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "legacy6-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Landscape 3:2 cinematic complete scene. Original mythic ascension, not literal novel: memories of Changban's bridge and Wakou mountain pass recede on opposite sides while mature Zhang Fei plants his spear on an earthly command terrace; the black-crimson tiger fuses into grand layered armor; army banners bow to shockwave, new mantle unfolds. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "legacy6-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "legacy6-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. black crimson spirit tiger and bold thunder shockwave behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 6 has monumental armor and larger stronger surge.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "legacy6-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 传承. black crimson gold tiger embossed layered war armor, jade-green belt, black-crimson thunder spirit tiger, human general heroic maturity. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only black crimson mythic tiger roar with three broad red shockwave bands. Six-star colossal layered double crest, extra broad outer resonance halo, clearly stronger. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine5-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Landscape 3:2 cinematic complete scene. Original mythic visualization of Yunyang local Huanhou worship: humble people and boatmen below Zhang Fei temple offering incense, enormous living Zhang Fei guardian manifests from carved doorway amid a white-red spirit tiger, river winds turn gentle and boats pass safely. Zhang Fei is main clear hero. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "divine5-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine5-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. White-red sacred tiger head and broad wind shockwave behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 5 is strong but clearly less elaborate than tier6.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine5-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only white-red guardian tiger head made of wind with ivory crescent shockwave. Five-star compact one crest and limited arcs. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine6-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Landscape 3:2 cinematic complete scene. Original six-star guardian ascension: Zhang Fei stands between a raging river gorge and vulnerable tiny boats, raises spear and roars, white-red celestial tiger opens wind corridor through storm, new ivory-black sacred armor unfolds; earthly river temple remains distant, no heaven palace. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "divine6-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine6-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. White-red sacred tiger head and broad wind shockwave behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 6 has monumental armor and larger stronger surge.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "divine6-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 神. sacred black vermilion ceremonial guardian armor with ivory jade relief and muted gold edging, green cords, storm-cloud white tiger with red sacred markings, no emperor crown. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only white-red guardian tiger head made of wind with ivory crescent shockwave. Six-star colossal layered double crest, extra broad outer resonance halo, clearly stronger. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon5-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Landscape 3:2 cinematic complete scene. Original mythic turn after Zhang Fei's tragic murder by subordinates: overturned wine vessel and abandoned mourning robes in dark Langzhong tent, no corpse or blood, living spectral Zhang Fei rises fully formed gripping long spear, two distant fleeing silhouettes tiny, gigantic ghost tiger tears through snapped symbolic chains, rage and betrayed loyalty. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "demon5-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon5-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. vengeful ghost tiger and snapped dark chains behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 5 is strong but clearly less elaborate than tier6.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon5-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only crimson black spectral tiger head roaring through broken dark chains. Five-star compact one crest and limited arcs. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon6-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Landscape 3:2 cinematic complete scene. Original six-star infernal ascent: Zhang Fei mounted on armored bone horse crosses shattered chain barrier with his long spear leading downward, gigantic ghost tiger devours shadow shackles, fractured mourning banner transforms into huge dark crimson mantle, monumental earthly Langzhong gate silhouette, no gore. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "demon6-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon6-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. vengeful ghost tiger and snapped dark chains behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 6 has monumental armor and larger stronger surge.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "demon6-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 魔. vengeful black iron jagged crimson armor, charred red cloth, broken mourning white ribbons, red-black ghost tiger with bone face accents, unmistakable human Zhang Fei face not skull. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only crimson black spectral tiger head roaring through broken dark chains. Six-star colossal layered double crest, extra broad outer resonance halo, clearly stronger. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha5-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Landscape 3:2 cinematic complete scene. Original futuristic civilization instantiates Zhang Fei's preserved personality into broad black crimson combat chassis in terrestrial fabrication hall, man-like open face helmet and flowing black beard visible, mechanical tiger intelligence lights up behind, an ancient snake spear silhouette and old campaign banner preserved in museum alcove; no text. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "mecha5-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha5-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. mechanical tiger head and segmented acoustic rings behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 5 is strong but clearly less elaborate than tier6.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha5-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 5, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only black red holographic mechanical tiger head with concentric segmented acoustic shock rings. Five-star compact one crest and limited arcs. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha6-bio",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Landscape 3:2 cinematic complete scene. Original six-star technological upgrade: Zhang Fei's resonance armor synchronizes with colossal mechanical tiger in vast ground-level testing gorge, acoustic rings bend dust into clean bands, new segmented shoulder arrays unfold and a longer energy-edged spear powers up, tiny engineers distant for scale, no random particles. More splendid six-star only if tier6. Keep hero main subject sharp secondary scene softer.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "key": "mecha6-avatar",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Square transparent head-and-shoulders portrait, match reference face hairstyle beard and EXACT tier armor; strong composed identity readable as small game avatar. NO tiger behind, no scenery, no weapon, no square backdrop. Clean alpha around hair and shoulder.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha6-cast",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Landscape 3:2 TRANSPARENT battle skill explosive cut-in. Full or three-quarter Zhang Fei lunges forward, mouth roaring, spear gripped correctly with widely separated hands, thrust forward left across screen; same exact tier armor and face as input. mechanical tiger head and segmented acoustic rings behind hero, but isolated transparent background, no ground or landscape. Complete spear shaft, visible hands, weapon long not dagger. Tier 6 has monumental armor and larger stronger surge.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png"
+      ],
+      "transparent_background": true
+    }
+  },
+  {
+    "key": "mecha6-fx",
+    "args": {
+      "prompt": "Original Chinese mythic Three Kingdoms premium game illustration, bold clean stylized anime-fantasy draftsmanship not photorealistic and not oily painting. Use reference ONLY for Zhang Fei identity: massive broad warrior, round fierce eyes, thick arched brows, wide nose, wild black beard, mane tied topknot, muscular broad shoulders. Preserve recognizable face, no warped facial anatomy. Main palette black and crimson with tiny jade-green sash. Much more ornate than 4star yet no gold dust, glitter grain or speckled skin. Strict correct two hands, rigid continuous long spear shaft no kinks or breaks behind hands, practical load-bearing grip; long snake spear with one deliberate broad blade and straight axial point. Main face and weapon sharp; secondary background subdued. No text, UI, frame, stars, lettering or watermark. Asset tier 6, 机甲. heavy black crimson mech armor with jade-green small identification lights, exposed piston joints and broad acoustic resonance shoulder rings, recognizable human face and beard inside open helmet, technological tiger construct. Square TRANSPARENT independent game skill effect, NO human NO horse NO weapon. Only black red holographic mechanical tiger head with concentric segmented acoustic shock rings. Six-star colossal layered double crest, extra broad outer resonance halo, clearly stronger. Highly polished readable VFX silhouette and smooth semi-transparent luminous edges, truly empty alpha outside. No opaque smoke cloud rectangular backdrop, no particles glitter.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png"
+      ],
+      "transparent_background": true
+    }
+  }
+]

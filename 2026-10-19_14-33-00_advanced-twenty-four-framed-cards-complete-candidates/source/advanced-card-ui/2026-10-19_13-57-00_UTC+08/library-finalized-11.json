@@ -1,0 +1,246 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-traditional-5star.png",
+        "file_id": "file_00000000769481f5846b1b57db9e99e4",
+        "library_file_id": "libfile_f7bb355e2f708191a872eb5ae7e9d63e",
+        "file_name": "liubei-traditional-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3842914,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-divine-6star.png",
+        "file_id": "file_0000000073d081f591cf3d848008f5d3",
+        "library_file_id": "libfile_7a3e43dda840819180ed926d528b1554",
+        "file_name": "zhangfei-divine-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4452947,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-demonic-pair.png",
+        "file_id": "file_00000000df5c81f5b7fe9bc59938a251",
+        "library_file_id": "libfile_84f1edc6669c8191a46deeaf5fe39468",
+        "file_name": "liubei-demonic-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1003332,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-mecha-pair.png",
+        "file_id": "file_000000006e3081f59af02e65726d5916",
+        "library_file_id": "libfile_5619568664648191ad3f8dc81b99fc89",
+        "file_name": "liubei-mecha-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 988356,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-traditional-pair.png",
+        "file_id": "file_0000000096c081f5be48eec3c261f902",
+        "library_file_id": "libfile_7f5f364568c481918a25d0fd134b1c46",
+        "file_name": "guanyu-traditional-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1017633,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-divine-pair.png",
+        "file_id": "file_00000000296c81f589833da9fa3b37f7",
+        "library_file_id": "libfile_5dacbfcfc920819191c7e626a49f7f41",
+        "file_name": "guanyu-divine-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1002757,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-demonic-pair.png",
+        "file_id": "file_00000000430881f580ab3fae6a80037f",
+        "library_file_id": "libfile_9e5706461a748191ada51494e9142603",
+        "file_name": "guanyu-demonic-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1005388,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/guanyu-mecha-pair.png",
+        "file_id": "file_00000000578881f5a2ff6af548fd567b",
+        "library_file_id": "libfile_527f68e6061c81918ba991f70b38f016",
+        "file_name": "guanyu-mecha-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 981349,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-divine-pair.png",
+        "file_id": "file_000000006ef481f5a6e0275a826ec383",
+        "library_file_id": "libfile_039078401dd48191aa326ed483f09d85",
+        "file_name": "zhangfei-divine-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1028882,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-demonic-pair.png",
+        "file_id": "file_0000000083f081f5946ce9ed747d393f",
+        "library_file_id": "libfile_e0f58ee4280081919f5958dd617ec5a1",
+        "file_name": "zhangfei-demonic-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1014887,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-mecha-pair.png",
+        "file_id": "file_000000003cc881f59f65dd4223d9937d",
+        "library_file_id": "libfile_154a42f28abc8191b57bdd764780eac2",
+        "file_name": "zhangfei-mecha-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 1006982,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

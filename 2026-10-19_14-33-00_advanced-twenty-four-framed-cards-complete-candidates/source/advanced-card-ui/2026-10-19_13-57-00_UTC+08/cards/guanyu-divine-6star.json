@@ -1,0 +1,125 @@
+{
+  "hero": "guanyu",
+  "name": "关羽",
+  "branch": "神化",
+  "branch_id": "divine",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png",
+  "skills": [
+    {
+      "name": "香火",
+      "level": 2
+    },
+    {
+      "name": "镇邪",
+      "level": 2
+    },
+    {
+      "name": "神裁",
+      "level": 2
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-6star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-6star-dynamic-ui.png",
+  "source_sha256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+  "output_sha256": "532afe9661ac0bf8bda2bb4e2c17f391d39fe37af07a14956bb1c63f00138a40",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": "design default of three, not a user-fixed count",
+  "stars": 6,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "神化",
+      "target_center": [
+        180.126953125,
+        1609.2604166666667
+      ],
+      "glyph_bbox": [
+        0,
+        15,
+        102,
+        64
+      ]
+    },
+    {
+      "text": "香火 +2",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "镇邪 +2",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        51
+      ]
+    },
+    {
+      "text": "神裁 +2",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        50
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1199176,
+  "uncovered_art_pixels_changed": 0
+}

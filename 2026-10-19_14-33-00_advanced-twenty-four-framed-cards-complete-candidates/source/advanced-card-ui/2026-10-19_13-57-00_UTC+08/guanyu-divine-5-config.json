@@ -1,0 +1,22 @@
+{
+  "hero": "guanyu",
+  "name": "关羽",
+  "branch": "神化",
+  "branch_id": "divine",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_card.png",
+  "skills": [
+    {
+      "name": "香火",
+      "level": 1
+    },
+    {
+      "name": "镇邪",
+      "level": 1
+    },
+    {
+      "name": "神裁",
+      "level": 1
+    }
+  ]
+}
