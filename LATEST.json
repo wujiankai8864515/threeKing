@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-12-39_selected-demon-fusion02-direction/asset-index.json",
+  "asset_index": "2026-10-19_23-14-45_demon02-limited-revision-authorized/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "用户选定本轮魔5重组的02锁城黑龙作为基础/插画方向，非旧20里的02。曾提出拼入03倒影脸与胡须，随后立即撤回，按原02保留，不重画不拼脸。此选择不代表所有UI和技能逐项批准；神5、六机甲20与两框仍待选。原图成卡SHA与Library映射已核对，所有历史保留。",
-  "latest_delta": "2026-10-19_23-12-39_selected-demon-fusion02-direction",
-  "current_status": "2026-10-19_23-12-39_selected-demon-fusion02-direction/status-overrides.json",
+  "note": "选中魔重组02后，用户追加仅此一张有限修订：白发白须蓬乱惨败、血红怒眼与狂怒气息、刻意折断偃月刀、完整无血腥赤兔尸体、麦城可读、黑龙更凶咆哮并修牙颌嘴。此追加覆盖先前不改图的执行限制；原02底稿保留，不拼03脸，不动其他待选项。新修订正在制作，未READY未交付，选底稿不等于每项UI技能批准。",
+  "latest_delta": "2026-10-19_23-14-45_demon02-limited-revision-authorized",
+  "current_status": "2026-10-19_23-14-45_demon02-limited-revision-authorized/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -112,7 +112,8 @@
     "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready",
     "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready",
     "2026-10-19_22-31-42_32-complete-card-delivery-receipts",
-    "2026-10-19_23-12-39_selected-demon-fusion02-direction"
+    "2026-10-19_23-12-39_selected-demon-fusion02-direction",
+    "2026-10-19_23-14-45_demon02-limited-revision-authorized"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -244,7 +245,8 @@
     "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready",
     "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready",
     "2026-10-19_22-31-42_32-complete-card-delivery-receipts",
-    "2026-10-19_23-12-39_selected-demon-fusion02-direction"
+    "2026-10-19_23-12-39_selected-demon-fusion02-direction",
+    "2026-10-19_23-14-45_demon02-limited-revision-authorized"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -253,7 +255,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "63b837c8b6dd17554ca9f107eadf86cd2da82e0a",
+  "remote_verified_commit": "98ffa9a3377848daf146739bdbfe897ffb8dca94",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -261,9 +263,9 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_23-12-39_selected-demon-fusion02-direction/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-12-39_selected-demon-fusion02-direction/effective-source-map.json",
-  "production_progress": "2026-10-19_23-12-39_selected-demon-fusion02-direction/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_23-14-45_demon02-limited-revision-authorized/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_23-14-45_demon02-limited-revision-authorized/effective-source-map.json",
+  "production_progress": "2026-10-19_23-14-45_demon02-limited-revision-authorized/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-19_22-31-42_32-complete-card-delivery-receipts/delivery-receipt.json",

@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-10-19T23:14:45.536252+08:00",
+  "previous_status": "2026-10-19_23-12-39_selected-demon-fusion02-direction/status-overrides.json",
+  "current_summary": "选中魔重组02后，用户追加仅此一张有限修订：白发白须蓬乱惨败、血红怒眼与狂怒气息、刻意折断偃月刀、完整无血腥赤兔尸体、麦城可读、黑龙更凶咆哮并修牙颌嘴。此追加覆盖先前不改图的执行限制；原02底稿保留，不拼03脸，不动其他待选项。新修订正在制作，未READY未交付，选底稿不等于每项UI技能批准。",
+  "selection": {
+    "recorded_at": "2026-10-19T23:14:45.536252+08:00",
+    "user_confirmation_message_id": "Sentinel_2dd1983b6c948191b6fc9bc25c136eaa",
+    "user_confirmation_at": "2026-10-19T15:11:55.769187Z",
+    "selected_set": "maicheng-fusion5_20261019_221110_UTC+08",
+    "selected_id": "02",
+    "selected_title": "锁城黑龙",
+    "selection_scope": "base_illustration_direction_selected_only",
+    "selected_source": {
+      "original_path": "guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/02-锁城黑龙-source.png",
+      "original_name": "02-锁城黑龙-source.png",
+      "repository_path": "2026-10-19_22-23-19_maicheng-fusion-five-complete-cards-ready/assets/sha256/8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd.png",
+      "sha256": "8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd",
+      "original_sha256": "8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd",
+      "bytes": 3006580,
+      "archived_at": "2026-10-19T22:23:19.841173+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    "selected_complete_card": {
+      "original_path": "guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/card-02/guanyu-demon-fusion-02-5star.png",
+      "original_name": "guanyu-demon-fusion-02-5star.png",
+      "repository_path": "2026-10-19_22-23-19_maicheng-fusion-five-complete-cards-ready/assets/sha256/761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d.png",
+      "sha256": "761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d",
+      "original_sha256": "761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d",
+      "bytes": 4022416,
+      "archived_at": "2026-10-19T22:23:19.841173+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    "library_file_id": "libfile_8f4b5a569210819189f77af604436311",
+    "ui_and_skills_individually_approved": false,
+    "face_beard_composite_from03": "idea_withdrawn_do_not_execute",
+    "new_generation_authorized": true,
+    "revision_scope": "Only selected fusion02: disheveled white hair and beard, blood-red angry eyes and wrath aura, deliberately broken guandao, intact non-gory dead Red Hare, readable Maicheng, more ferocious roaring black dragon with corrected teeth jaw mouth",
+    "original02_preserved": true,
+    "revision_status": "in_production_not_ready",
+    "other_sets": "divine5_mecha20_enhanced_frames2_pending_selection"
+  },
+  "effective_source_map": "2026-10-19_23-14-45_demon02-limited-revision-authorized/effective-source-map.json"
+}
