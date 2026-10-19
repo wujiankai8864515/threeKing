@@ -1,0 +1,12 @@
+{
+  "id": "12",
+  "name": "双龙背炉",
+  "args": {
+    "prompt": "Create one independent high-definition 2:3 portrait SIX STAR MECHA GUAN YU candidate illustration. No frame/UI/text/stars. Approved five-star reference is identity/material/scale baseline only; redesign silhouette and pose per candidate. This is still a HUMANOID green dragon mecha piloted by Guan Yu: regal crown, red face mechanical mask, black long beard silhouette, transparent chest cockpit containing recognizable human Guan Yu in green clothes. Vastly more imposing armored chassis than reference, ancient Chinese city towers tiny at ankles; hero fills frame, NOT small robot. Defense absorbs and stores power then counterattacks, visual logic clear. Emerald green black titanium and luminous polished gold, huge smooth lacquered armor plates with exquisite continuous edge reflections. Bright mythic sci-fi Chinese game illustration, crisp hero, softly receding cities. No random gold dust, speckles, stars, spark noise, pitting, chipped metal, texture grain; effects broad continuous energy surfaces. Clearly articulated grip, straight rigid weapon barrels/poles, intentionally valid anatomy. No Earth, no cosmos, no snake coils, no copied old six-star layout. Keep head/cockpit and key weapon at least 15% from right and top edges for later card UI.\nUnique candidate direction: Three-quarter low angle. Two dragon-head reactors rise from back like enormous armored fins, projecting a continuous shield canopy; giant long-handled guandao in both hands in believable ready-to-counter cut. Broad polished torso, twin reactors distinct, no serpentine dragons.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png"
+    ],
+    "transparent_background": false
+  },
+  "original_output": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-88023ec8-f9ee-4cd9-86d8-e0b819f24ee1.png"
+}

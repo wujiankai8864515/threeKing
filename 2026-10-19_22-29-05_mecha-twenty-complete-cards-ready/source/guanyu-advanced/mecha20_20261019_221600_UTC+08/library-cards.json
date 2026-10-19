@@ -1,0 +1,435 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-01-城阙重盾-完整卡.png",
+        "file_id": "file_00000000d754820e916bf876a0e1acc6",
+        "library_file_id": "libfile_0df88f06480c8191b382a9530a8f4a33",
+        "file_name": "六星机甲关羽-01-城阙重盾-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4006306,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-02-六翼反斩-完整卡.png",
+        "file_id": "file_00000000a22481f9b08f27eb8a9e7516",
+        "library_file_id": "libfile_b99a85630d208191805c5cff80fdd145",
+        "file_name": "六星机甲关羽-02-六翼反斩-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4107307,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-03-龙首肩炮-完整卡.png",
+        "file_id": "file_00000000f34881f9a17c68052c7dd739",
+        "library_file_id": "libfile_d375f6d2d9c881918cdf2ae0c44cc2dd",
+        "file_name": "六星机甲关羽-03-龙首肩炮-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4026819,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-04-浮盾列阵-完整卡.png",
+        "file_id": "file_00000000ed2481f9b05420557fa1547c",
+        "library_file_id": "libfile_7725077406e48191af9812583719e1c9",
+        "file_name": "六星机甲关羽-04-浮盾列阵-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4253490,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-05-双臂合炮-完整卡.png",
+        "file_id": "file_000000000f1881f9a948518a9ab167e6",
+        "library_file_id": "libfile_3fc8324150ec819187800cd2fae0493a",
+        "file_name": "六星机甲关羽-05-双臂合炮-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4115250,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-06-龙翼披甲-完整卡.png",
+        "file_id": "file_00000000b7a481f9885e057c9e587239",
+        "library_file_id": "libfile_2991c275dcfc81918d8bc5371426d86b",
+        "file_name": "六星机甲关羽-06-龙翼披甲-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4114704,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-07-山岳重装-完整卡.png",
+        "file_id": "file_00000000768481f9ab7b471982aeba66",
+        "library_file_id": "libfile_0a2f5f605ccc8191bd584d9dae6f3110",
+        "file_name": "六星机甲关羽-07-山岳重装-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4119851,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-08-空域护城-完整卡.png",
+        "file_id": "file_00000000d7b881f9922518c44c423735",
+        "library_file_id": "libfile_043b8dfbcd78819195143a870c1a0b1f",
+        "file_name": "六星机甲关羽-08-空域护城-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4094452,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-09-交叉龙盾-完整卡.png",
+        "file_id": "file_00000000ce8881f58cceb8eba42a8442",
+        "library_file_id": "libfile_e4be80df79c481918ef479c9b520fa44",
+        "file_name": "六星机甲关羽-09-交叉龙盾-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4035441,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-10-偃月巨弓-完整卡.png",
+        "file_id": "file_000000003788820e9df267116811aae8",
+        "library_file_id": "libfile_545bfed6c36c8191ac9b307b68e99a24",
+        "file_name": "六星机甲关羽-10-偃月巨弓-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4187395,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-11-四臂守御-完整卡.png",
+        "file_id": "file_000000004c5881f4b7139c9b0f8b2284",
+        "library_file_id": "libfile_c9dd5c5f34e481918bad98586038c5e1",
+        "file_name": "六星机甲关羽-11-四臂守御-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4179174,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-12-双龙背炉-完整卡.png",
+        "file_id": "file_00000000082081f9ac199e33effa7f49",
+        "library_file_id": "libfile_8be7170b928c8191adbac34c0e767595",
+        "file_name": "六星机甲关羽-12-双龙背炉-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4109688,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-13-天门壁垒-完整卡.png",
+        "file_id": "file_000000008ae081f9adcf0c77a735d4db",
+        "library_file_id": "libfile_cd37f0ab4f8881919fb666e877b3e105",
+        "file_name": "六星机甲关羽-13-天门壁垒-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4032776,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-14-金轮反照-完整卡.png",
+        "file_id": "file_00000000235881f993395bec8012ca6c",
+        "library_file_id": "libfile_a460d9092630819194f865ad676abc53",
+        "file_name": "六星机甲关羽-14-金轮反照-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4162883,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-15-飞盾冲阵-完整卡.png",
+        "file_id": "file_000000001f6881f9b593b8c451f3600d",
+        "library_file_id": "libfile_322316641ff08191bf10107595e443dc",
+        "file_name": "六星机甲关羽-15-飞盾冲阵-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4061571,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-16-龙甲展开-完整卡.png",
+        "file_id": "file_00000000b93481f99cf3d8dedf77822c",
+        "library_file_id": "libfile_0cc19b08e7b88191b271f42710316ec9",
+        "file_name": "六星机甲关羽-16-龙甲展开-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4090818,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-17-双刃重炮-完整卡.png",
+        "file_id": "file_000000008c0081f5aa6bdc71dd838ff2",
+        "library_file_id": "libfile_37aab2ec38b48191818658dfd110d21e",
+        "file_name": "六星机甲关羽-17-双刃重炮-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4054880,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-18-盘龙护阵-完整卡.png",
+        "file_id": "file_00000000c3ac820e96837a6603de69b3",
+        "library_file_id": "libfile_6ea9b736956c8191a3d47598bb160af0",
+        "file_name": "六星机甲关羽-18-盘龙护阵-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4163695,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-19-神机战垒-完整卡.png",
+        "file_id": "file_00000000449081f9a4411a45bfe43a94",
+        "library_file_id": "libfile_9a8cbfd38f1c8191886853d220b1fd8e",
+        "file_name": "六星机甲关羽-19-神机战垒-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4051881,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲关羽-20-青龙王座-完整卡.png",
+        "file_id": "file_00000000badc820e9d4321397e27ac03",
+        "library_file_id": "libfile_807b48f0493c81918e009065c41dcdeb",
+        "file_name": "六星机甲关羽-20-青龙王座-完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "other",
+        "file_size_bytes": 4101474,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

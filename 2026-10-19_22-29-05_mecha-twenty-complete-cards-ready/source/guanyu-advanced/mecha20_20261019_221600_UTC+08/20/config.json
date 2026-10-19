@@ -1,0 +1,24 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "explore-20",
+  "tier": 6,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/20/source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/20/card",
+  "skills": [
+    {
+      "name": "重甲",
+      "level": 2
+    },
+    {
+      "name": "蓄能",
+      "level": 2
+    },
+    {
+      "name": "反制",
+      "level": 2
+    }
+  ]
+}

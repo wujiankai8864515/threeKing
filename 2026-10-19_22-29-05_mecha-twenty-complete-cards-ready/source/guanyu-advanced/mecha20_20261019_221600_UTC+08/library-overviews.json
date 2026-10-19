@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲20候选-成卡总览01-10.jpg",
+        "file_id": "file_00000000d0b081f99c7e19a9ffacc539",
+        "library_file_id": "libfile_f93eab5ab5cc819198dbf9ba1715d9c8",
+        "file_name": "六星机甲20候选-成卡总览01-10.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "other",
+        "file_size_bytes": 1638290,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/六星机甲20候选-成卡总览11-20.jpg",
+        "file_id": "file_000000004a04820ea086d3a7d524902b",
+        "library_file_id": "libfile_0ab5dbc007208191ba8b5717d9e8305e",
+        "file_name": "六星机甲20候选-成卡总览11-20.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "other",
+        "file_size_bytes": 1637806,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

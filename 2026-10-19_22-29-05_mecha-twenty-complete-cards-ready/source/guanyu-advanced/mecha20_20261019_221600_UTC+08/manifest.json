@@ -1,0 +1,222 @@
+[
+  {
+    "id": "01",
+    "direction": "城阙重盾",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/01/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/01/card/guanyu-explore-01-6star.png",
+    "library_id": "libfile_0df88f06480c8191b382a9530a8f4a33",
+    "source_sha256": "d0ba6088875a06fd51a70cd09d557ec161e447a1d9ef3f14314d37af95c8a461",
+    "card_sha256": "a4a285239ea0b16a3d4aa088c0715147d1539ffe27b8ed1ae33c6e4ac3800747",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "02",
+    "direction": "六翼反斩",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/02/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/02/card/guanyu-explore-02-6star.png",
+    "library_id": "libfile_b99a85630d208191805c5cff80fdd145",
+    "source_sha256": "f85cb3c8d6b59aa8db616869d9cab02965b3866284b390759ac266089307dbca",
+    "card_sha256": "e105c98a86661973191dd092c228ed33f804f30d3ce682eef507cba1d550151f",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "03",
+    "direction": "龙首肩炮",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/03/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/03/card/guanyu-explore-03-6star.png",
+    "library_id": "libfile_d375f6d2d9c881918cdf2ae0c44cc2dd",
+    "source_sha256": "811415b978717f58e6cdd1b48d491b505853fa323ce343d7732f9633ef65a496",
+    "card_sha256": "657af1f3cd76b2b9633fff02a2cdb04a2e522cb5cc66585fd5032a0b1454fa93",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "04",
+    "direction": "浮盾列阵",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/04/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/04/card/guanyu-explore-04-6star.png",
+    "library_id": "libfile_7725077406e48191af9812583719e1c9",
+    "source_sha256": "e1212dea52e3ce9e73ce6cffc89408db129d3d41f9613f3f1e1d0b281904c2e0",
+    "card_sha256": "0d06f65bf25d4532f535819031ac2f37e83c32b62e7716d2634275470ddc2df5",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "05",
+    "direction": "双臂合炮",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/05/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/05/card/guanyu-explore-05-6star.png",
+    "library_id": "libfile_3fc8324150ec819187800cd2fae0493a",
+    "source_sha256": "7264a04a6c4968f4d7eab949ab64c7f3126bd6b46e8a954b9e1c7eb2633e3aea",
+    "card_sha256": "814c4baf33070b99471a4d4b58ff505b928892721bf6a560797e1a7a3b80a14f",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "06",
+    "direction": "龙翼披甲",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/06/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/06/card/guanyu-explore-06-6star.png",
+    "library_id": "libfile_2991c275dcfc81918d8bc5371426d86b",
+    "source_sha256": "552a726368e90be9fc3f547173265dd5c8e83d10f294da16dea88b23e72ed52b",
+    "card_sha256": "9217fbd8c80f71f63fc7236e562883b2adbe3a81cb156a4f7afb6f17d0c4e2eb",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "07",
+    "direction": "山岳重装",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/07/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/07/card/guanyu-explore-07-6star.png",
+    "library_id": "libfile_0a2f5f605ccc8191bd584d9dae6f3110",
+    "source_sha256": "b04a7e9012d18044f52484057ac46d1a7e170634bfaa528bb4957ef36325c78b",
+    "card_sha256": "0ff2f9a1e2a964c0fbefb92c1150d4e567791f69d892e2b4fb632ff67b5e3f75",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "08",
+    "direction": "空域护城",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/08/card/guanyu-explore-08-6star.png",
+    "library_id": "libfile_043b8dfbcd78819195143a870c1a0b1f",
+    "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "card_sha256": "1f9f11e99424cba672ce0615200ffdc079a29c261e3d7a5252d8e4a7b1b5151e",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "09",
+    "direction": "交叉龙盾",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/09/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/09/card/guanyu-explore-09-6star.png",
+    "library_id": "libfile_e4be80df79c481918ef479c9b520fa44",
+    "source_sha256": "3a30504ddcdc497ad9e3024d908947853ba8592ffe64f5b3004b531aa624910c",
+    "card_sha256": "7e4a8c271a381fee5aaad215e77cbd914fcf6df3315bca8b1b41644a7848b09f",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "10",
+    "direction": "偃月巨弓",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/10/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/10/card/guanyu-explore-10-6star.png",
+    "library_id": "libfile_545bfed6c36c8191ac9b307b68e99a24",
+    "source_sha256": "e2a52f692d1248d02576484bb3f948df40d4b6d5ad18f3b75ec63fa6d1a4cd70",
+    "card_sha256": "1005345e95b9f8a09fe3add58af63c8ce003af87cbb73cae634820ddf3dbb794",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "11",
+    "direction": "四臂守御",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/11/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/11/card/guanyu-explore-11-6star.png",
+    "library_id": "libfile_c9dd5c5f34e481918bad98586038c5e1",
+    "source_sha256": "99e6324d5a897130a7b49be545bff0f9fdd53e30e413a013e15329b3efd7518c",
+    "card_sha256": "85cffbd87850027d1b0034555765341763ba191ebc983296c76160b5bd121492",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "12",
+    "direction": "双龙背炉",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/12/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/12/card/guanyu-explore-12-6star.png",
+    "library_id": "libfile_8be7170b928c8191adbac34c0e767595",
+    "source_sha256": "bce10ad0698285d3a535645cd0c1da8cbee7f35649c3c2f5018453bddb977335",
+    "card_sha256": "73d4d9be7f752c368c7cbf3a4ada24e588d76a26a500553a8e145f3a163ddd15",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "13",
+    "direction": "天门壁垒",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/13/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/13/card/guanyu-explore-13-6star.png",
+    "library_id": "libfile_cd37f0ab4f8881919fb666e877b3e105",
+    "source_sha256": "4656619339054975e270fe7baac4bca0b67e850b989fb027462d4aca2c57f72c",
+    "card_sha256": "2511ba5d073fed84d856a8416694840073a767c6f69d772bd3aa16ac362769c4",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "14",
+    "direction": "金轮反照",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/14/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/14/card/guanyu-explore-14-6star.png",
+    "library_id": "libfile_a460d9092630819194f865ad676abc53",
+    "source_sha256": "b497b2d2a8f1241e4adcc6170b770f6eb2f1572db0203ed915b76e86e6c1d889",
+    "card_sha256": "16ba83668835681662ae1db0eb648df394d0c9920c82a2ca5185b00b607bfd8d",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "15",
+    "direction": "飞盾冲阵",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/15/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/15/card/guanyu-explore-15-6star.png",
+    "library_id": "libfile_322316641ff08191bf10107595e443dc",
+    "source_sha256": "21747c756e0b5e2426f4392c45bbf4cdee69eda88271f1ef6c10ad0b512e20ea",
+    "card_sha256": "e82f5ec44fb117ee14d0f583c8a788ff53da1c980623a4d9b18c633f3654268c",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "16",
+    "direction": "龙甲展开",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/16/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/16/card/guanyu-explore-16-6star.png",
+    "library_id": "libfile_0cc19b08e7b88191b271f42710316ec9",
+    "source_sha256": "df481c116895fa3fbf912243f70781f9b6a4ad3cb3bf4167f68172de1feaeb27",
+    "card_sha256": "e3167ab0e0778d8b10d072cf907d4bac05897b6267e06a54cd9794a5e465cb55",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "17",
+    "direction": "双刃重炮",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/17/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/17/card/guanyu-explore-17-6star.png",
+    "library_id": "libfile_37aab2ec38b48191818658dfd110d21e",
+    "source_sha256": "6b4d82559163a85cf99484857b88df615c541c7bc5f9d91c2fefa55ecb42298c",
+    "card_sha256": "1e3387d68293b9d9ef53378647f090e386fa1e11dfc17a53a40b52222a9ffd91",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "18",
+    "direction": "盘龙护阵",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/18/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/18/card/guanyu-explore-18-6star.png",
+    "library_id": "libfile_6ea9b736956c8191a3d47598bb160af0",
+    "source_sha256": "9eaa53a8f8bc82938b10978e4b03e663e98bf53c70a19af2b698824a37d0e815",
+    "card_sha256": "790c4cc13c398b0e2c3bcb2e11104d294f2112162f818d5a99ffc4b71e9eca6a",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "19",
+    "direction": "神机战垒",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/19/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/19/card/guanyu-explore-19-6star.png",
+    "library_id": "libfile_9a8cbfd38f1c8191886853d220b1fd8e",
+    "source_sha256": "d5899cfcef4798c4a19dd2ab6e8155c4e69ca41cafc99794df57172cc7b0f91f",
+    "card_sha256": "475276f4f971ac27bded34ffbe67580e0559237a517db6d8536b1ecd010b2875",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  },
+  {
+    "id": "20",
+    "direction": "青龙王座",
+    "source": "guanyu-advanced/mecha20_20261019_221600_UTC+08/20/source.png",
+    "card": "guanyu-advanced/mecha20_20261019_221600_UTC+08/20/card/guanyu-explore-20-6star.png",
+    "library_id": "libfile_807b48f0493c81918e009065c41dcdeb",
+    "source_sha256": "8e153f1352210d1f3537191b4043c5705a8fdacc48f726e409dd141cfc89c557",
+    "card_sha256": "42e372fefc9206d508e6cb782a8325576d496920a901ac9ef8727f50b326188f",
+    "qa": "脸/驾驶舱可见、古城巨型比例可读；候选待用户选型",
+    "pixels_changed": 0
+  }
+]

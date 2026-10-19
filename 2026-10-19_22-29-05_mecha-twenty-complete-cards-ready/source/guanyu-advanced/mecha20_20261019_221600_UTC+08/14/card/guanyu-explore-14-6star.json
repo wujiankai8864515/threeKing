@@ -1,0 +1,135 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "explore-14",
+  "tier": 6,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/14/source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/14/card",
+  "skills": [
+    {
+      "name": "重甲",
+      "level": 2
+    },
+    {
+      "name": "蓄能",
+      "level": 2
+    },
+    {
+      "name": "反制",
+      "level": 2
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/14/card/guanyu-explore-14-6star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/14/card/guanyu-explore-14-6star-dynamic-ui.png",
+  "source_sha256": "b497b2d2a8f1241e4adcc6170b770f6eb2f1572db0203ed915b76e86e6c1d889",
+  "output_sha256": "16ba83668835681662ae1db0eb648df394d0c9920c82a2ca5185b00b607bfd8d",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": "design default of three, not a user-fixed count",
+  "stars": 6,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "机甲",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        68
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        791.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "重甲 +2",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "蓄能 +2",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "反制 +2",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1199176,
+  "uncovered_art_pixels_changed": 0
+}
