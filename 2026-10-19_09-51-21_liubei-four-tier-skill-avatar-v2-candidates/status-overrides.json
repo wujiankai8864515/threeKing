@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-19T09:51:21.134117+08:00",
+  "previous_status": "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates/status-overrides.json",
+  "current_summary": "刘关张四阶共24张透明技能CG与头像计划；刘关张四阶透明24张候选全部已交付，尚未经用户验收。其余37名英雄暂停，拒用候选留历史。",
+  "scope": "hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08",
+  "feedback": "liubei-set/skill-avatar_20261019_093145_UTC+08",
+  "effective_source_map": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/effective-source-map.json",
+  "delivery": {
+    "status": "accepted_by_chat_service",
+    "user_final_accepted": false,
+    "batches": [
+      {
+        "sent_at": "2026-10-19T01:47:35Z",
+        "message_id": "Sentinel_f7f7f754204c8191bd86e0abaf6dcb1b",
+        "scope": "blackiron two images"
+      },
+      {
+        "sent_at": "2026-10-19T01:50:29Z",
+        "message_id": "Sentinel_623a7beae1c881918217b07129eff11f",
+        "scope": "bronze silver gold six images"
+      }
+    ],
+    "review_note": "v2透明候选为现行；v1背景雾浓版保留历史；未用户验收。"
+  },
+  "preservation": "Original opaque first drafts preserved as superseded history; all approved sources unchanged"
+}

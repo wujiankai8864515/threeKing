@@ -1,0 +1,130 @@
+[
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-头像.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.35466666157927806,
+    "alpha_partial": 0.6451762652971417,
+    "corners": [
+      0,
+      0,
+      245,
+      247
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-放招CG.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.13655726114908853,
+    "alpha_partial": 0.8634427388509115,
+    "corners": [
+      1,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-放招CG.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.12256304423014323,
+    "alpha_partial": 0.8774369557698568,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-头像.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.373123071561752,
+    "alpha_partial": 0.6268203312398729,
+    "corners": [
+      0,
+      0,
+      244,
+      249
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-放招CG.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.1614996592203776,
+    "alpha_partial": 0.8385003407796224,
+    "corners": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-头像.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.38632484502542425,
+    "alpha_partial": 0.6134207855436765,
+    "corners": [
+      0,
+      0,
+      250,
+      250
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-放招CG.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.26804542541503906,
+    "alpha_partial": 0.7319545745849609,
+    "corners": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "file": "liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-头像.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.3809659170399538,
+    "alpha_partial": 0.6188859127665474,
+    "corners": [
+      0,
+      0,
+      249,
+      252
+    ]
+  }
+]

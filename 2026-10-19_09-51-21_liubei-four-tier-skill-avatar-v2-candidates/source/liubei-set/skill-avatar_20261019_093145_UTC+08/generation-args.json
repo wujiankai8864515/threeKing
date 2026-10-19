@@ -1,0 +1,66 @@
+[
+  {
+    "name": "01-黑铁-放招CG",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/01-blackiron-v2.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Landscape 1536x1024 action skill cut-in. Three-quarter full figure Liu Bei steps forward protectively, right palm extended outward and left hand sweeping near chest in a coherent restorative burst. Worn patched dark-green cloth and offwhite underrobe, wooden hairpin and simple cloth belt exactly reference, no armor, no weapons. Robe hems and sleeves billow in one directional gust. Small elegant pale yellow-green restorative energy arcs flow out from palms toward unseen allies; a very faint yellow dragon HEAD outline awakens behind his shoulder, restrained early-stage potential. Dynamic but humble, sympathetic determined expression, NOT attack fist, NOT seated weaving. Energy occupies limited surrounding negative space, transparency clean."
+  },
+  {
+    "name": "01-黑铁-头像",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/01-blackiron-v2.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Square 1024x1024 bust avatar, head shoulders upper chest only centered, confident compassionate gaze three-quarter toward camera, neutral closed mouth. Same plain worn green/offwhite cloth and wooden hairpin as reference, neat beard, black hair. No hands, no dragon, no aura; tiny green ribbons only. Face dominates at small size. Shoulder silhouette fades nowhere; crisp opaque edge with transparent exterior."
+  },
+  {
+    "name": "02-青铜-放招CG",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/02-bronze-v3.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Landscape 1536x1024 action skill cut-in. Liu Bei young commander in reference green robe, bronze-black lamellar cuirass and restrained gilt shoulder plates, dynamic wide braced stance facing left-threequarter. Two straight swords one in each hand spread diagonally outward as he releases a rallying team-heal wave. Exactly two arms/hands, wrists align grips, each steel blade straight rigid continuous. Swept sleeves and ribbons, radiant pale golden green crescent of protection emerging from swords. Medium faint yellowdragon head and foreclaw phantom behind him larger than blackiron but not goldstage. Determined rallying expression, no enemies or troops. Frame whole long swords and body without shrinking head."
+  },
+  {
+    "name": "02-青铜-头像",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/02-bronze-v3.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Square 1024x1024 head-and-shoulders avatar of central Liu Bei only, reference exact bronze black lamellar armor and green-white embroidered robe, small topknot crown. Calm steadfast closed mouth, face centered and large, no other men, no hands or swords, no dragon or aura. Armor sophistication clearly one step above humble blackiron; retain same facial identity."
+  },
+  {
+    "name": "03-白银-放招CG",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/03-silver-v2.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Landscape 1536x1024 action skill cut-in. Liu Bei Xudu hidden-hero phase in reference rich green-white embroidered robe, gold clasp belt, modest small shoulder ornament, rolled inner sleeves, NOT king crown or full wararmor. Sweeping turning step toward right, one hand open releasing bright restorative stream, second hand held near heart. Intentional long coherent yellow-gold and jade energy ribbons arc outward as protective embrace; large powerful but translucent yellow dragon head and near forebody guarding behind him, lower body concealed in sparse mist that fades to alpha. Face dignified intense benevolence, sleeves flaring. More impressive than bronze, visibly less ornate than king. No hoe, scroll, scenery, other people."
+  },
+  {
+    "name": "03-白银-头像",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/03-silver-v2.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Square 1024x1024 large head-and-shoulders avatar of reference Liu Bei, same restrained wise face, richly patterned green robe with offwhite collar and small ornate golden shoulder clasp, modest topknot ornament not king's tall crown. No dirt on face, no bruises, gentle steady closedmouth. No dragon, props, hands, aura or background. More refined than bronze but less rich than king."
+  },
+  {
+    "name": "04-黄金-放招CG",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-gold-v1.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Landscape 1536x1024 supreme benevolent team-buff/heal skill cut-in. Liu Bei in EXACT reference magnificent deep-green dragon embroidered HanZhong king robe, elaborate sculpted gold shoulder ornaments and jade crown. He rises into wide standing stance, sweeping both open palms outward to release a grand sheltering golden-jade wave; dynamic billowing cloak, composed powerful commanding expression. Enormous majestic original Chinese yellow-gold five-clawed dragon HEAD and near forebody arches protectively above behind him, impressive brows antlers whiskers mane, no snake loops; dragon far grander than silver. Broad coherent light streams fan outward without particles, carefully kept away from face. No throne, palace, people, scenery, weapons, gold powder. Person main focus, elegant visible cloth not metallic skin. Transparent around complete cutout."
+  },
+  {
+    "name": "04-黄金-头像",
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-gold-v1.png"
+    ],
+    "prompt": "Use case: stylized-concept. Original mythic Three Kingdoms game art; match reference Liu Bei's exact facial identity: handsome mature Chinese man, angled thick black brows, long earlobes, narrow almond eyes, neat thin moustache and short pointed goatee, black topknot, green-white robe. Sharp clean illustrated planes and inkless cel-painted sculpting, NOT photographic, no grain. Maintain facial proportions and no bruises. True transparent RGBA background: isolate subject/effects only; no scenery, floor, sky rectangle, card frame, text, logos, border, particles, glitter or gold powder. Opaque face, hair and clothes, only supernatural effects have partial alpha. Clean readable silhouette, complete head and extremities inside safe margin. Ref is identity/clothing only, do NOT reproduce its backdrop. Square 1024x1024 head-and-shoulders avatar of exact reference Liu Bei king. Same face and beard, dignified calm closedmouth; intricate jade-gold crown, elaborate gold shoulder dragon ornaments, deep-green dragon embroidered robe and white inner collar. Most refined tier clearly beyond silver. Bright clean matte skin and polished controlled metal edge lighting, no glitter. No giant dragon/aura/scenery. Fully transparent outside head and shoulders, clean at tiny UI size."
+  }
+]

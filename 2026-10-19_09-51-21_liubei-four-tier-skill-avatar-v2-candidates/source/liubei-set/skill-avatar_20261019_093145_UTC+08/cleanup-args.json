@@ -1,0 +1,66 @@
+[
+  {
+    "name": "01-黑铁-放招CG",
+    "prompt": "Background extraction and clean transparent production cutout. Keep this exact existing Liu Bei character, clothes, face, hands, swords if present, pose, dragon and intentional crisp energy ribbons. Remove ALL diffuse yellow/green/brown atmospheric wash and blurred light fog between them. The entire exterior and gaps between separated shapes MUST be truly empty fully transparent pixels alpha=0. Only keep identifiable dragon linework and sharply defined decorative healing energy arcs; no rectangular cloud of glow. Make all face/hair/skin/cloth/swords solid opaque alpha=255. Dragon and crisp energy trails may have graduated alpha but no atmospheric colored backdrop. Preserve exact existing composition and identity. PNG RGBA. Do not add anything or change anatomy. No checkerboard painted into image.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-放招CG.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "01-黑铁-头像",
+    "prompt": "Background-extraction quality fix: preserve this exact Liu Bei avatar unchanged in pose, face and clothes. Fully opaque alpha255 face hair beard clothes throughout interior, antialiased outermost edges only, fully transparent alpha0 exterior. No face translucency, no black/white/color backdrop, no glow, no added design. Square PNG RGBA game avatar.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-头像.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "02-青铜-放招CG",
+    "prompt": "Background extraction and clean transparent production cutout. Keep this exact existing Liu Bei character, clothes, face, hands, swords if present, pose, dragon and intentional crisp energy ribbons. Remove ALL diffuse yellow/green/brown atmospheric wash and blurred light fog between them. The entire exterior and gaps between separated shapes MUST be truly empty fully transparent pixels alpha=0. Only keep identifiable dragon linework and sharply defined decorative healing energy arcs; no rectangular cloud of glow. Make all face/hair/skin/cloth/swords solid opaque alpha=255. Dragon and crisp energy trails may have graduated alpha but no atmospheric colored backdrop. Preserve exact existing composition and identity. PNG RGBA. Do not add anything or change anatomy. No checkerboard painted into image.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-放招CG.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "02-青铜-头像",
+    "prompt": "Background-extraction quality fix: preserve this exact Liu Bei avatar unchanged in pose, face and clothes. Fully opaque alpha255 face hair beard clothes throughout interior, antialiased outermost edges only, fully transparent alpha0 exterior. No face translucency, no black/white/color backdrop, no glow, no added design. Square PNG RGBA game avatar.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-头像.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "03-白银-放招CG",
+    "prompt": "Background extraction and clean transparent production cutout. Keep this exact existing Liu Bei character, clothes, face, hands, swords if present, pose, dragon and intentional crisp energy ribbons. Remove ALL diffuse yellow/green/brown atmospheric wash and blurred light fog between them. The entire exterior and gaps between separated shapes MUST be truly empty fully transparent pixels alpha=0. Only keep identifiable dragon linework and sharply defined decorative healing energy arcs; no rectangular cloud of glow. Make all face/hair/skin/cloth/swords solid opaque alpha=255. Dragon and crisp energy trails may have graduated alpha but no atmospheric colored backdrop. Preserve exact existing composition and identity. PNG RGBA. Do not add anything or change anatomy. No checkerboard painted into image.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-放招CG.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "03-白银-头像",
+    "prompt": "Background-extraction quality fix: preserve this exact Liu Bei avatar unchanged in pose, face and clothes. Fully opaque alpha255 face hair beard clothes throughout interior, antialiased outermost edges only, fully transparent alpha0 exterior. No face translucency, no black/white/color backdrop, no glow, no added design. Square PNG RGBA game avatar.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-头像.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "04-黄金-放招CG",
+    "prompt": "Background extraction and clean transparent production cutout. Keep this exact existing Liu Bei character, clothes, face, hands, swords if present, pose, dragon and intentional crisp energy ribbons. Remove ALL diffuse yellow/green/brown atmospheric wash and blurred light fog between them. The entire exterior and gaps between separated shapes MUST be truly empty fully transparent pixels alpha=0. Only keep identifiable dragon linework and sharply defined decorative healing energy arcs; no rectangular cloud of glow. Make all face/hair/skin/cloth/swords solid opaque alpha=255. Dragon and crisp energy trails may have graduated alpha but no atmospheric colored backdrop. Preserve exact existing composition and identity. PNG RGBA. Do not add anything or change anatomy. No checkerboard painted into image.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-放招CG.png"
+    ],
+    "transparent_background": true
+  },
+  {
+    "name": "04-黄金-头像",
+    "prompt": "Background-extraction quality fix: preserve this exact Liu Bei avatar unchanged in pose, face and clothes. Fully opaque alpha255 face hair beard clothes throughout interior, antialiased outermost edges only, fully transparent alpha0 exterior. No face translucency, no black/white/color backdrop, no glow, no added design. Square PNG RGBA game avatar.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-头像.png"
+    ],
+    "transparent_background": true
+  }
+]

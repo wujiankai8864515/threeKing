@@ -1,0 +1,17 @@
+{
+  "status": "accepted_by_chat_service",
+  "user_final_accepted": false,
+  "batches": [
+    {
+      "sent_at": "2026-10-19T01:47:35Z",
+      "message_id": "Sentinel_f7f7f754204c8191bd86e0abaf6dcb1b",
+      "scope": "blackiron two images"
+    },
+    {
+      "sent_at": "2026-10-19T01:50:29Z",
+      "message_id": "Sentinel_623a7beae1c881918217b07129eff11f",
+      "scope": "bronze silver gold six images"
+    }
+  ],
+  "review_note": "v2透明候选为现行；v1背景雾浓版保留历史；未用户验收。"
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-头像-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.37532018752114443,
+    "alpha_max": 255,
+    "sha256": "77c0ef74e6fa5b3b808f692f69c4d1c6c19b82047f5f376ab2d2d7f87ce09669"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/01-黑铁-放招CG-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.22143236796061197,
+    "alpha_max": 254,
+    "sha256": "1dbb043d39bc817aa83a82fb7e4bb57ef21678ed69ffe5f1beea5060c0ff3a14"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-头像-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.3486495526913558,
+    "alpha_max": 255,
+    "sha256": "6cbd98a80f4685025c616c475e11397449878640671b4d73b185b5dc92525b5b"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/02-青铜-放招CG-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.31288401285807294,
+    "alpha_max": 254,
+    "sha256": "27d12274d963baa06a7814b4aaafd15debbbb91c87b970da9f5f77f79721f261"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-头像-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.38593883941403456,
+    "alpha_max": 255,
+    "sha256": "65aa2e4eb208358ca87657c14e49e6ffc62d7f58dc27c243909851407b533123"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/03-白银-放招CG-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.1612981160481771,
+    "alpha_max": 254,
+    "sha256": "5cd92f94fb6d99e7c77623f59d768e7b084b477d05c0fb93e4a3d53d2bafdc1b"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-头像-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1254,
+      1254
+    ],
+    "alpha_zero": 0.37091196528366005,
+    "alpha_max": 255,
+    "sha256": "90489081a38819975946378900f330e81a7a52958994433ad2939fc4aad28e8c"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/skill-avatar_20261019_093145_UTC+08/04-黄金-放招CG-v2.png",
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_zero": 0.13097190856933594,
+    "alpha_max": 254,
+    "sha256": "ad3d92abb4dd60b8db0024b1914a4677c65df36bcd82cb03507354320b49aa3b"
+  }
+]
