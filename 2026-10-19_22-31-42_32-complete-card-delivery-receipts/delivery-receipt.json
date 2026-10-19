@@ -1,0 +1,50 @@
+{
+  "receipts": [
+    {
+      "scope": "overviews5",
+      "message_id": "Sentinel_149276497ae08191b97757600a5ebb33",
+      "timestamp": "2026-10-19T14:28:57.759974Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "demon5",
+      "message_id": "Sentinel_8114263a5aa08191999c1d4cfd23df9d",
+      "timestamp": "2026-10-19T14:29:00.736724Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "divine5",
+      "message_id": "Sentinel_b25e54c5982c81918c6993c0f7a77999",
+      "timestamp": "2026-10-19T14:29:02.908030Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "mecha01-10",
+      "message_id": "Sentinel_18a9ba96aa4c819186fc033915029582",
+      "timestamp": "2026-10-19T14:29:15.972433Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "mecha11-20",
+      "message_id": "Sentinel_1e746d6450008191be1b7374c407512b",
+      "timestamp": "2026-10-19T14:29:20.158188Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    },
+    {
+      "scope": "frames03-04",
+      "message_id": "Sentinel_54240e6b038881919fd9a79d8ee48e92",
+      "timestamp": "2026-10-19T14:29:21.280421Z",
+      "channel": "chatgpt",
+      "status": "accepted"
+    }
+  ],
+  "complete_card_candidates": 32,
+  "overviews": 5,
+  "user_read_confirmed": false,
+  "user_final_approved": false
+}

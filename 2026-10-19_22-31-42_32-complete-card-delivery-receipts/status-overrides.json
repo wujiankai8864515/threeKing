@@ -1,0 +1,56 @@
+{
+  "recorded_at": "2026-10-19T22:31:42.522219+08:00",
+  "previous_status": "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready/status-overrides.json",
+  "current_summary": "本轮32张完整卡（魔5、神5、标准六星03/04框2、新六星机甲20）及5总览已统一发至用户同一chatgpt会话，六次发送均服务accepted。候选已交待选，没有整图批准。两满意五星插画及认可一至四星冻结；旧候选仅局部喜好，否决或被覆盖版继续留历史。无框原画、透明框、实际UI层/配置、实际参数与参考、成卡及源版本映射、QA、失败记录均已归档；没有PSD承诺。当前无新生产。",
+  "effective_source_map": "2026-10-19_22-31-42_32-complete-card-delivery-receipts/effective-source-map.json",
+  "delivery": {
+    "receipts": [
+      {
+        "scope": "overviews5",
+        "message_id": "Sentinel_149276497ae08191b97757600a5ebb33",
+        "timestamp": "2026-10-19T14:28:57.759974Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "demon5",
+        "message_id": "Sentinel_8114263a5aa08191999c1d4cfd23df9d",
+        "timestamp": "2026-10-19T14:29:00.736724Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "divine5",
+        "message_id": "Sentinel_b25e54c5982c81918c6993c0f7a77999",
+        "timestamp": "2026-10-19T14:29:02.908030Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "mecha01-10",
+        "message_id": "Sentinel_18a9ba96aa4c819186fc033915029582",
+        "timestamp": "2026-10-19T14:29:15.972433Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "mecha11-20",
+        "message_id": "Sentinel_1e746d6450008191be1b7374c407512b",
+        "timestamp": "2026-10-19T14:29:20.158188Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      },
+      {
+        "scope": "frames03-04",
+        "message_id": "Sentinel_54240e6b038881919fd9a79d8ee48e92",
+        "timestamp": "2026-10-19T14:29:21.280421Z",
+        "channel": "chatgpt",
+        "status": "accepted"
+      }
+    ],
+    "complete_card_candidates": 32,
+    "overviews": 5,
+    "user_read_confirmed": false,
+    "user_final_approved": false
+  }
+}
