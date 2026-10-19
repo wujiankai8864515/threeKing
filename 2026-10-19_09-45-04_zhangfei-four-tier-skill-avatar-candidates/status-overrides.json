@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-19T09:45:04.928359+08:00",
+  "previous_status": "2026-10-19_09-42-35_guanyu-higher-tier-skill-avatar-candidates/status-overrides.json",
+  "current_summary": "刘关张四阶共24张透明技能CG与头像计划；关羽张飞四阶透明16张已交付候选，刘备8张制作中。其余37名英雄暂停，拒用候选留历史。",
+  "scope": "hero-production-spec/three_hero_skill_avatar_scope_2026-10-19_09-32-00_UTC+08",
+  "feedback": "zhangfei-set/skill-avatar_20261019_093124_UTC+08",
+  "effective_source_map": "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates/effective-source-map.json",
+  "delivery": {
+    "sent_at": "2026-10-19T01:43:45Z",
+    "message_id": "Sentinel_dafebc7a14188191a947519d4ef6a79e",
+    "status": "accepted_by_chat_service",
+    "user_final_accepted": false,
+    "review_note": "张飞四阶8张真实alpha候选；明暗底JPEG仅QA，详细限制见QA.md。"
+  },
+  "preservation": "Original opaque first drafts preserved as superseded history; all approved sources unchanged"
+}

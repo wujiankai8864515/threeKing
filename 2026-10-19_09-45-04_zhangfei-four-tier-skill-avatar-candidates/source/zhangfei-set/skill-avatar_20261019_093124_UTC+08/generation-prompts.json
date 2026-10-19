@@ -1,0 +1,82 @@
+[
+  {
+    "key": "1-CG",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png"
+      ],
+      "prompt": "Use case: stylized-concept. Input image is approved reference for this exact tier identity, clothing and style; create NEW game skill asset matching it, not a card or screenshot. Beautiful crisp high-detail East Asian mythic Three Kingdoms anime-game illustration, bold clean shapes, handsome rugged face, clear eyes and beard, no photoreal skin, no grain, no tiny gold speckles, no confetti particles, no goldpowder, no scenery. Blackiron early Zhang Fei before oath: exactly reference black rough robe with red inner collar, simple leather belt, small green waist tie, no armor/no spear. Muscular broad torso, fierce circular eyes, dense short black beard, black messy bun red ribbon. Explosive grounded step and powerful open-mouth shout, one clenched fist driven down beside hip and other open hand thrown outward; clothing snapping in a single restrained grey-red shockwave. Only extremely faint small tiger-head spirit behind one shoulder, no giant divine tiger. Starter power not ultimate. Output a wide landscape 1536x1024 transparent PNG skill activation character cut-in. ACTION EXPLOSION, coherent anatomy and balance, visible finger grasp and body mechanics. Whole principal silhouette including head hands weapon with 6% clean transparent safety margin. Genuine alpha background, retain ONLY character equipment and deliberate translucent energy/tiger. No floor, sky, architecture, troops, card frame, labels or text. Effect arcs clean and sparse, never hide face. No white rectangle or checkerboard painted into artwork."
+    }
+  },
+  {
+    "key": "1-头像",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png"
+      ],
+      "prompt": "Use case: identity-preserve, game character avatar. Create ONE square 1024x1024 transparent background PNG isolated head-and-shoulders portrait of Zhang Fei from this approved reference. Preserve exact distinctive broad rugged face, fierce round eyes under dense heavy brows, wide nose, thick short black beard and moustache, black bun with red ribbon, and same tier outfit/shoulder armor. Very simple worn black robe red collar small green accent, no armor. Match beautiful crisp mythic anime-game illustration style reference. Hero face forward slightly threequarter, centered, calm imposing alert expression, symmetric healthy anatomy, face very clear readable at small icon sizes. Head and full hair within bounds with transparent margin, chest ends naturally at bottom, no head crop. NO tiger, weapon, scenery, glowing dust, goldpowder, floating particles, card frame, name, badge, text or opaque background. Keep genuine alpha, not white background or fake checkerboard."
+    }
+  },
+  {
+    "key": "2-CG",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png"
+      ],
+      "prompt": "Use case: stylized-concept. Input image is approved reference for this exact tier identity, clothing and style; create NEW game skill asset matching it, not a card or screenshot. Beautiful crisp high-detail East Asian mythic Three Kingdoms anime-game illustration, bold clean shapes, handsome rugged face, clear eyes and beard, no photoreal skin, no grain, no tiny gold speckles, no confetti particles, no goldpowder, no scenery. Bronze after oath against Yellow Turbans: reference simple black lamellar armor bronze trim, red cloth and ribbon green waist accent. Feet planted dynamic sweeping low diagonal spear stance, TWO separated anatomically sound hands gripping a single long rigid straight dark pole, continuous coaxial shaft through both hands, distinctive wavy snake-shaped spearhead. One forceful shout and restrained red pressure wave, larger but faint translucent tiger head behind shoulder, upper silhouette only. No realistic tiger pet, no short toy pole. Output a wide landscape 1536x1024 transparent PNG skill activation character cut-in. ACTION EXPLOSION, coherent anatomy and balance, visible finger grasp and body mechanics. Whole principal silhouette including head hands weapon with 6% clean transparent safety margin. Genuine alpha background, retain ONLY character equipment and deliberate translucent energy/tiger. No floor, sky, architecture, troops, card frame, labels or text. Effect arcs clean and sparse, never hide face. No white rectangle or checkerboard painted into artwork."
+    }
+  },
+  {
+    "key": "2-头像",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png"
+      ],
+      "prompt": "Use case: identity-preserve, game character avatar. Create ONE square 1024x1024 transparent background PNG isolated head-and-shoulders portrait of Zhang Fei from this approved reference. Preserve exact distinctive broad rugged face, fierce round eyes under dense heavy brows, wide nose, thick short black beard and moustache, black bun with red ribbon, and same tier outfit/shoulder armor. Simple black bronze-edged lamellar armor red collar and headribbon. Match beautiful crisp mythic anime-game illustration style reference. Hero face forward slightly threequarter, centered, calm imposing alert expression, symmetric healthy anatomy, face very clear readable at small icon sizes. Head and full hair within bounds with transparent margin, chest ends naturally at bottom, no head crop. NO tiger, weapon, scenery, glowing dust, goldpowder, floating particles, card frame, name, badge, text or opaque background. Keep genuine alpha, not white background or fake checkerboard."
+    }
+  },
+  {
+    "key": "3-CG",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png"
+      ],
+      "prompt": "Use case: stylized-concept. Input image is approved reference for this exact tier identity, clothing and style; create NEW game skill asset matching it, not a card or screenshot. Beautiful crisp high-detail East Asian mythic Three Kingdoms anime-game illustration, bold clean shapes, handsome rugged face, clear eyes and beard, no photoreal skin, no grain, no tiny gold speckles, no confetti particles, no goldpowder, no scenery. Silver established tiger general: reference sculpted tiger shoulder pauldrons black layered armor and red cape with green waist accent. Threequarter forward driving long spear in a forceful diagonal thrust with both hands spaced correctly, solid straight continuous rigid pole, wavy snake spearhead. Open-mouth battle shout and pronounced red-black energy slash around spear tip, one powerful translucent dark red-striped tiger head behind him roaring, half-visible shoulders melting into alpha. More powerful than bronze but no gigantic gold ultimate cloud. Output a wide landscape 1536x1024 transparent PNG skill activation character cut-in. ACTION EXPLOSION, coherent anatomy and balance, visible finger grasp and body mechanics. Whole principal silhouette including head hands weapon with 6% clean transparent safety margin. Genuine alpha background, retain ONLY character equipment and deliberate translucent energy/tiger. No floor, sky, architecture, troops, card frame, labels or text. Effect arcs clean and sparse, never hide face. No white rectangle or checkerboard painted into artwork."
+    }
+  },
+  {
+    "key": "3-头像",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png"
+      ],
+      "prompt": "Use case: identity-preserve, game character avatar. Create ONE square 1024x1024 transparent background PNG isolated head-and-shoulders portrait of Zhang Fei from this approved reference. Preserve exact distinctive broad rugged face, fierce round eyes under dense heavy brows, wide nose, thick short black beard and moustache, black bun with red ribbon, and same tier outfit/shoulder armor. Ornate sculpted tiger-head black bronze shoulder armor, red collar. Match beautiful crisp mythic anime-game illustration style reference. Hero face forward slightly threequarter, centered, calm imposing alert expression, symmetric healthy anatomy, face very clear readable at small icon sizes. Head and full hair within bounds with transparent margin, chest ends naturally at bottom, no head crop. NO tiger, weapon, scenery, glowing dust, goldpowder, floating particles, card frame, name, badge, text or opaque background. Keep genuine alpha, not white background or fake checkerboard."
+    }
+  },
+  {
+    "key": "4-CG",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png"
+      ],
+      "prompt": "Use case: stylized-concept. Input image is approved reference for this exact tier identity, clothing and style; create NEW game skill asset matching it, not a card or screenshot. Beautiful crisp high-detail East Asian mythic Three Kingdoms anime-game illustration, bold clean shapes, handsome rugged face, clear eyes and beard, no photoreal skin, no grain, no tiny gold speckles, no confetti particles, no goldpowder, no scenery. Gold Changban ultimate: exact reference magnificent black-bronze tiger-head armor, layered armored skirt, red silk cape and small green waist accent. Dominant low angle threequarter character mid explosive roar, wide stable stance, arms apart grip a long SINGLE rigid STRAIGHT pole diagonally across torso with snake spearhead entirely visible. Huge formidable mythic black tiger with vivid red stripes ROARING behind and above him, luminous red pressure arcs attached to spear and outward roar wave. Most ornate strongest of four, clearly surpass silver. Tiger spirit only head and forequarters dissolve into alpha, no snake-like body. Output a wide landscape 1536x1024 transparent PNG skill activation character cut-in. ACTION EXPLOSION, coherent anatomy and balance, visible finger grasp and body mechanics. Whole principal silhouette including head hands weapon with 6% clean transparent safety margin. Genuine alpha background, retain ONLY character equipment and deliberate translucent energy/tiger. No floor, sky, architecture, troops, card frame, labels or text. Effect arcs clean and sparse, never hide face. No white rectangle or checkerboard painted into artwork."
+    }
+  },
+  {
+    "key": "4-头像",
+    "args": {
+      "transparent_background": true,
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png"
+      ],
+      "prompt": "Use case: identity-preserve, game character avatar. Create ONE square 1024x1024 transparent background PNG isolated head-and-shoulders portrait of Zhang Fei from this approved reference. Preserve exact distinctive broad rugged face, fierce round eyes under dense heavy brows, wide nose, thick short black beard and moustache, black bun with red ribbon, and same tier outfit/shoulder armor. Most magnificent layered tiger-head black bronze armor, rich red collar and cape, increased ornamental sophistication. Match beautiful crisp mythic anime-game illustration style reference. Hero face forward slightly threequarter, centered, calm imposing alert expression, symmetric healthy anatomy, face very clear readable at small icon sizes. Head and full hair within bounds with transparent margin, chest ends naturally at bottom, no head crop. NO tiger, weapon, scenery, glowing dust, goldpowder, floating particles, card frame, name, badge, text or opaque background. Keep genuine alpha, not white background or fake checkerboard."
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": "1-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-18a420f0-1b37-40e6-a721-5a89225526b6.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "1-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-774866b4-cb7a-46ff-8c26-66f3e1ec1d23.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "2-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1b35b2bc-d281-4afb-94d6-c38f8f7aaa2d.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "2-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-05c621a9-1995-48a7-a9c5-127eb017e0a0.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "3-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fc589db0-88bd-402b-94ef-867cd6ce003a.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "3-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-21f0d319-dbb1-49fe-be64-7048a568fb89.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "4-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-70d9873a-5a30-40a5-9a3f-9cbb71eb727d.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+    "status": "candidate_generated_not_user_approved"
+  },
+  {
+    "key": "4-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3aaf29f3-cd90-48c0-9660-038a98873551.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+    "status": "candidate_generated_not_user_approved"
+  }
+]

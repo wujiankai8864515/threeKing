@@ -1,0 +1,162 @@
+[
+  {
+    "key": "1-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-18a420f0-1b37-40e6-a721-5a89225526b6.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "06de5a8714c9e1ff5152815c948c97732290c5332fbb837a7bc9149fb103c17a",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_zero_fraction": 0.24209149678548178,
+    "library_file_id": "libfile_b6684a568e7881918ae3aa1f8fff5ce6",
+    "library_version": 0
+  },
+  {
+    "key": "1-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-774866b4-cb7a-46ff-8c26-66f3e1ec1d23.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/blackiron-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "4c813464cd8a4e7024c9fd38c7c3e53a49c1240a0a1ccaefce46e5e1afd9eea5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_zero_fraction": 0.3826212261115308,
+    "library_file_id": "libfile_321b840b9e708191a903fcd119913d57",
+    "library_version": 0
+  },
+  {
+    "key": "2-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1b35b2bc-d281-4afb-94d6-c38f8f7aaa2d.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "46101323aa6172a8a2f26bba5902e034ddaa29a0926df1b152d743798353f5ee",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_zero_fraction": 0.30765724182128906,
+    "library_file_id": "libfile_b1864f49479881919fcef3fbfd2037a7",
+    "library_version": 0
+  },
+  {
+    "key": "2-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-05c621a9-1995-48a7-a9c5-127eb017e0a0.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/card02-bronze.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "bd437e2381360505a422f611e0dd49c487c036e236c3b418825e3237aa6b0f70",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_zero_fraction": 0.264669485079961,
+    "library_file_id": "libfile_f497c66158b88191bd00b4f3a1a8b110",
+    "library_version": 0
+  },
+  {
+    "key": "3-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fc589db0-88bd-402b-94ef-867cd6ce003a.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "5b15953985274c562cbd7e335e05ca2ea4eb21f85a90efd114e48d9eb189e3c6",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_zero_fraction": 0.19547144571940103,
+    "library_file_id": "libfile_456863a544208191af46384b8bc506c8",
+    "library_version": 0
+  },
+  {
+    "key": "3-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-21f0d319-dbb1-49fe-be64-7048a568fb89.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/silver-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "4820982828167bd5dd1df2910369c7dedae41f595e2f8906e0465df643830919",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_zero_fraction": 0.3609934652493202,
+    "library_file_id": "libfile_9bad24c6a8c48191a3fc2d3bc4ec5fee",
+    "library_version": 0
+  },
+  {
+    "key": "4-CG",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-70d9873a-5a30-40a5-9a3f-9cbb71eb727d.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-CG.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "c7c5bad245e9125a25b71e01bceec1ec27f10909ebd40925dcbd4eff966620a1",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "alpha_zero_fraction": 0.19858805338541666,
+    "library_file_id": "libfile_4f0bbc2f59f88191ae1dca715ef6ae7a",
+    "library_version": 0
+  },
+  {
+    "key": "4-头像",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3aaf29f3-cd90-48c0-9660-038a98873551.png",
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-头像.png",
+    "reference": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/gold-final.png",
+    "status": "candidate_generated_not_user_approved",
+    "sha256": "8623583356b4e9f0e13bad1e54bf4dc6854e87eb006b5f513281e129ace5e0c7",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "alpha_zero_fraction": 0.24844707462435994,
+    "library_file_id": "libfile_69f644501e60819184e4c146b75ac1d9",
+    "library_version": 0
+  }
+]

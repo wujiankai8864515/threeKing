@@ -1,0 +1,192 @@
+{
+  "avatars": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "results": [
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/1-头像.png",
+          "file_id": "file_00000000494c81f5b42fac18c2ab8328",
+          "library_file_id": "libfile_321b840b9e708191a903fcd119913d57",
+          "file_name": "1-头像.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2022357
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/2-头像.png",
+          "file_id": "file_000000005408824386181d9d5bacb692",
+          "library_file_id": "libfile_f497c66158b88191bd00b4f3a1a8b110",
+          "file_name": "2-头像.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2533507
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/3-头像.png",
+          "file_id": "file_00000000ec8c81f89bbf27268cc81cd0",
+          "library_file_id": "libfile_9bad24c6a8c48191a3fc2d3bc4ec5fee",
+          "file_name": "3-头像.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2481752
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/4-头像.png",
+          "file_id": "file_000000009b7081f487e72ddc47777961",
+          "library_file_id": "libfile_69f644501e60819184e4c146b75ac1d9",
+          "file_name": "4-头像.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2966565
+        }
+      ],
+      "warnings": [],
+      "external_connectors_accessed": false
+    },
+    "isError": false
+  },
+  "cgs": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Action completed."
+      }
+    ],
+    "structuredContent": {
+      "results": [
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/1-CG.png",
+          "file_id": "file_00000000a1a081f4b03600f0bc19f5e0",
+          "library_file_id": "libfile_b6684a568e7881918ae3aa1f8fff5ce6",
+          "file_name": "1-CG.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2941186
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/2-CG.png",
+          "file_id": "file_000000003b3481f49dbf95a8c50b2d71",
+          "library_file_id": "libfile_b1864f49479881919fcef3fbfd2037a7",
+          "file_name": "2-CG.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 2853014
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/3-CG.png",
+          "file_id": "file_000000005f9481fbb17b36ff5d9a3d14",
+          "library_file_id": "libfile_456863a544208191af46384b8bc506c8",
+          "file_name": "3-CG.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 3031838
+        },
+        {
+          "operation": "create_library_file",
+          "status": "succeeded",
+          "path": "/4-CG.png",
+          "file_id": "file_00000000c3d081f59bfc3dfaff4d2fb6",
+          "library_file_id": "libfile_4f0bbc2f59f88191ae1dca715ef6ae7a",
+          "file_name": "4-CG.png",
+          "current_version_number": 0,
+          "restored_from_version_number": null,
+          "xattrs": [
+            {
+              "name": "user.library-file-version",
+              "value": "0"
+            }
+          ],
+          "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+          "mime_type": "image/png",
+          "library_artifact_type": "other",
+          "file_size_bytes": 3354475
+        }
+      ],
+      "warnings": [],
+      "external_connectors_accessed": false
+    },
+    "isError": false
+  }
+}
