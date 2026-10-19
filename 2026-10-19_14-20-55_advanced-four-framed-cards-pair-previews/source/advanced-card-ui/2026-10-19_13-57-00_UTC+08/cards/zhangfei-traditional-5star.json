@@ -1,0 +1,125 @@
+{
+  "hero": "zhangfei",
+  "name": "张飞",
+  "branch": "传承",
+  "branch_id": "traditional",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png",
+  "skills": [
+    {
+      "name": "胆略",
+      "level": 1
+    },
+    {
+      "name": "断喝",
+      "level": 1
+    },
+    {
+      "name": "当关",
+      "level": 1
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-5star-dynamic-ui.png",
+  "source_sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+  "output_sha256": "b4a3bf44cf59d9bc9e18a9f593df0fe444bb25a038914a86a80da5a277d1461b",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "张飞",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "传承",
+      "target_center": [
+        180.126953125,
+        1609.2604166666667
+      ],
+      "glyph_bbox": [
+        0,
+        15,
+        102,
+        65
+      ]
+    },
+    {
+      "text": "胆略 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "断喝 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "当关 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

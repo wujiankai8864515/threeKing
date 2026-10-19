@@ -1,0 +1,22 @@
+{
+  "hero": "zhangfei",
+  "name": "张飞",
+  "branch": "传承",
+  "branch_id": "traditional",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png",
+  "skills": [
+    {
+      "name": "胆略",
+      "level": 2
+    },
+    {
+      "name": "断喝",
+      "level": 2
+    },
+    {
+      "name": "当关",
+      "level": 2
+    }
+  ]
+}

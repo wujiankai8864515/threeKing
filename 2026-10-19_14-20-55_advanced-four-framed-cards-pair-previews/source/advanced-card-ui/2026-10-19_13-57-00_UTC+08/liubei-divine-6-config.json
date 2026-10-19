@@ -1,0 +1,22 @@
+{
+  "hero": "liubei",
+  "name": "刘备",
+  "branch": "神化",
+  "branch_id": "divine",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+  "skills": [
+    {
+      "name": "昭德",
+      "level": 2
+    },
+    {
+      "name": "香祚",
+      "level": 2
+    },
+    {
+      "name": "庇民",
+      "level": 2
+    }
+  ]
+}

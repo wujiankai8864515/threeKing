@@ -1,0 +1,75 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-divine-5star.png",
+        "file_id": "file_00000000ab148246b1b7de0029b02f50",
+        "library_file_id": "libfile_ecd72bd1c9a88191b1a579d445bce9d5",
+        "file_name": "liubei-divine-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3975517
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-divine-6star.png",
+        "file_id": "file_000000008b3c81f59d8554393d4d0fc4",
+        "library_file_id": "libfile_7c308caa6a688191a6c04fcc9bacd7c6",
+        "file_name": "liubei-divine-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4177110
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/liubei-divine-pair.png",
+        "file_id": "file_00000000046c81f5bce6b9a9091287e9",
+        "library_file_id": "libfile_5b5d0cb9349881918582c5ef7c1feb93",
+        "file_name": "liubei-divine-pair.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 978721
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

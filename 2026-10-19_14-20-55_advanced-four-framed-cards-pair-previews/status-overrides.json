@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-19T14:20:55.682157+08:00",
+  "previous_status": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/status-overrides.json",
+  "current_summary": "刘备神化及张飞传承五星六星共4装框候选已就绪，两张pair预览已交付；单张原生成卡未交，整分支其他资源未完成。此前刘备传承10源已备份。",
+  "scope": "hero-production-spec/advanced_three_hero_scope_2026-10-19_13-57-41_UTC+08",
+  "effective_source_map": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/effective-source-map.json",
+  "delivery": {
+    "message_id": "Sentinel_bbaeb02d469c8191a0845232e45cdf9b",
+    "sent_at": "2026-10-19T06:16:06Z",
+    "status": "accepted_by_chat_service",
+    "scope": "Liu Bei divine pair and Zhang Fei traditional pair previews only",
+    "native_cards_sent": false,
+    "user_final_accepted": false
+  },
+  "other_37": "paused_rejected_historical_only"
+}
