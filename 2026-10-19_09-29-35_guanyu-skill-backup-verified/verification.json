@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-10-19T09:29:35.110741+08:00",
+  "verified_asset_commit": "e38f0b84c000245ab797fee8463c635af89a37bc",
+  "independent_fetch": "PASS",
+  "new_lfs_objects_remote_fetched_and_fsck": "PASS",
+  "resolved_paths_verified": 10074,
+  "sequential_copy_sha256_checked": true,
+  "new_candidate_images": 2,
+  "user_final_accepted": false,
+  "scope": "Guan Yu blackiron skill CG and square avatar only; other 37 hero sets rejected as current candidates, retained as historical resources; expansion paused."
+}
