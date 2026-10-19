@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/asset-index.json",
+  "asset_index": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "关羽四分支40源全冻，魔6纯FX-v2及历史保留；累计112/120源与24装框候选，剩张飞机甲8配套待冻结，无用户验收。",
-  "latest_delta": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion",
-  "current_status": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/status-overrides.json",
+  "note": "刘关张高阶120源图和24装框全部候选就绪且归档；用户已收24装框＋96配套＝120最终素材。24无框卡源另保备份，不重复计交付。尚未用户验收。",
+  "latest_delta": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map",
+  "current_status": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -86,7 +86,8 @@
     "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library",
     "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates",
     "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates",
-    "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion"
+    "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion",
+    "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -189,7 +190,8 @@
     "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library",
     "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates",
     "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates",
-    "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion"
+    "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion",
+    "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -198,7 +200,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "f63ac9ba2d4da6ebb29fbdb235b7c285cbbd0896",
+  "remote_verified_commit": "00eed83dac8932fac03aeda76598622ae9e455cd",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -206,10 +208,11 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/effective-source-map.json",
-  "production_progress": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/effective-source-map.json",
+  "production_progress": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/delivery-receipt.json"
+  "delivery_receipt": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/delivery-receipt.json",
+  "current_advanced120": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/current-advanced-120-final-images.json"
 }

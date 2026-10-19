@@ -1,0 +1,180 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-avatar.png",
+    "sha256": "710bdbcb1c6b147e6714144ad543dd92bb4c92f7377fc80f6c871d3ae39ff273",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_5daa348e48b08191ac72c99d77bb50bc",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "avatar",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-bio.png",
+    "sha256": "dc733bc4d40f43b4882cd9b5d1583899b22ac7c2f912bc6a98b722ffa9ba88a7",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_5dba0410c0948191addff6b94f40b144",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "bio",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png",
+    "sha256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_7c6e3b2da9548191b27840f68ef72add",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-cast.png",
+    "sha256": "1815d1644630927c64ac8622168ee14c01f051fbf4b7e1ca017ace9b4a83a2a4",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ],
+    "library_file_id": "libfile_09cbcd67cc348191a2ada62a61ac9101",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "cast",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-fx.png",
+    "sha256": "12d1a7e042da6d22aed4662b6f3170ea294135394293117870c7997caec9ce0e",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_8f6589a002b08191a6a423233e3df152",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "fx",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-avatar.png",
+    "sha256": "760d2790719ae9d60d7ffe2b4c8748192f4c32b617b8fd2cfe86cd68d60ac747",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_3d2e288969e48191abe612c4bba684cf",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "avatar",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-bio.png",
+    "sha256": "e38d60baa80a85081d1dd5357708c07aa27f5023fc42564a936296933ee5bb82",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_7eff205bec6c819193fc6f5eca92ce7d",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "bio",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png",
+    "sha256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_209bb68151848191bc2626db54bce634",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-cast.png",
+    "sha256": "6648d19c5650ed1f661b1e8ff2d6719ba9f7982be8df24f6bce6a32b2d6ba447",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ],
+    "library_file_id": "libfile_6d6571361d24819195e723a9c66e135f",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "cast",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-fx.png",
+    "sha256": "aabf9f375c4ceaa0cf8455b71babfc251f30a4e17eb949ebd4f54e9de467bbb2",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_443e47b90f1881918f7dc846181a07bc",
+    "hero": "张飞",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "fx",
+    "status": "candidate_for_owner_review"
+  }
+]

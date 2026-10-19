@@ -1,0 +1,1 @@
+40 source images and per-branch Library/manifest, prompts, culture, skills, QA are frozen ready. Card framed outputs managed by build_advanced_card_frames. No old accepted art changed.

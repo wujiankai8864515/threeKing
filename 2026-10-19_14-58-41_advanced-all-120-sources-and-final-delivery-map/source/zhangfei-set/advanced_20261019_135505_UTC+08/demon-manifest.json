@@ -1,0 +1,180 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-avatar.png",
+    "sha256": "f08e08bb0acb095273d687528ba8007998b10548a1a3eaa85aa216962b48899a",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_860e36f09c248191a2ed4501e80c0370",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 5,
+    "kind": "avatar",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-bio.png",
+    "sha256": "11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_92a888332c788191a9a41363914d2b7a",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 5,
+    "kind": "bio",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png",
+    "sha256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_9ba6b448a6c08191bfda392069d673ad",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 5,
+    "kind": "card",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-cast.png",
+    "sha256": "35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ],
+    "library_file_id": "libfile_0853282694dc8191a9648cb955673ba0",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 5,
+    "kind": "cast",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-fx.png",
+    "sha256": "18345103d987ffc73f842f1d1bfabe5af66b814ed3e991afdb485ea97e991d3f",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_0ce744344fb881918330d09dadd25f2c",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 5,
+    "kind": "fx",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-avatar.png",
+    "sha256": "8ba3a24a1ad5cb9cca57acb2c56f9cf61cc2b1a17d46df29007ab1a001767e4a",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_08f670242f58819188e80d54337f2148",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 6,
+    "kind": "avatar",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-bio.png",
+    "sha256": "04d7f6466926977b999870850371bbbde3cca98bb921a70c208748a5791ac95b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_8c7bc329036081919e11f0a2f5c85ab3",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 6,
+    "kind": "bio",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png",
+    "sha256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha": null,
+    "library_file_id": "libfile_6997b72f4c6481918e0276012ce8bf59",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 6,
+    "kind": "card",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-cast.png",
+    "sha256": "dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      254
+    ],
+    "library_file_id": "libfile_890b26dde37c8191b350f3106cfb3747",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 6,
+    "kind": "cast",
+    "status": "candidate_for_owner_review"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-fx.png",
+    "sha256": "f717d76b46bc7bdeb962b0c7e8119cc8df275f87ed3b9bdeb1603a65e5889db0",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "library_file_id": "libfile_6107d0235d1c8191ba27d99d369db926",
+    "hero": "张飞",
+    "branch": "demon",
+    "tier": 6,
+    "kind": "fx",
+    "status": "candidate_for_owner_review"
+  }
+]
