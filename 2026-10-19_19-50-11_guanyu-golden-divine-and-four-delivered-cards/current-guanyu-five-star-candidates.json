@@ -1,0 +1,82 @@
+{
+  "recorded_at": "2026-10-19T19:50:11.221117+08:00",
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/cosmic-mecha_20261019_193900_UTC+08/final-card/guanyu-cosmic-dragon-mecha-6star.png",
+      "original_name": "guanyu-cosmic-dragon-mecha-6star.png",
+      "repository_path": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/assets/sha256/d3ce1ec930512917c8389c52485cc9d898728546bc6b113feeb1f64dfc3ccbb8.png",
+      "sha256": "d3ce1ec930512917c8389c52485cc9d898728546bc6b113feeb1f64dfc3ccbb8",
+      "original_sha256": "d3ce1ec930512917c8389c52485cc9d898728546bc6b113feeb1f64dfc3ccbb8",
+      "bytes": 3477401,
+      "archived_at": "2026-10-19T19:46:09.607125+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "mecha",
+      "tier": 6,
+      "library_file_id": "libfile_bf14ec7bd5b88191badd85426bc7b453"
+    },
+    {
+      "original_path": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/golden-body_20261019_194405_UTC+08/final-card/guanyu-divine-devotion-5star.png",
+      "original_name": "guanyu-divine-devotion-5star.png",
+      "repository_path": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/assets/sha256/a290258f3acd67ca17316f2108764021f2581043327f397596e43bcc770f8a41.png",
+      "sha256": "a290258f3acd67ca17316f2108764021f2581043327f397596e43bcc770f8a41",
+      "original_sha256": "a290258f3acd67ca17316f2108764021f2581043327f397596e43bcc770f8a41",
+      "bytes": 3920544,
+      "archived_at": "2026-10-19T19:50:11.221117+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "divine",
+      "tier": 5,
+      "library_file_id": "libfile_f352666104cc8191932ce2c03a335602"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-refined_20261019_194245_UTC+08/heritage/guanyu-heritage-water-command-5star.png",
+      "original_name": "guanyu-heritage-water-command-5star.png",
+      "repository_path": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/assets/sha256/2de52493c2f40fddeeb7a5970dbd7fe393ddf6fe12ae850ae2a3fba1e497039a.png",
+      "sha256": "2de52493c2f40fddeeb7a5970dbd7fe393ddf6fe12ae850ae2a3fba1e497039a",
+      "original_sha256": "2de52493c2f40fddeeb7a5970dbd7fe393ddf6fe12ae850ae2a3fba1e497039a",
+      "bytes": 4245014,
+      "archived_at": "2026-10-19T19:46:09.607125+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "traditional",
+      "tier": 5,
+      "library_file_id": "libfile_24d415b2c85481919127bcd40ef4c2bb"
+    },
+    {
+      "original_path": "guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_194054_UTC+08/cards/guanyu-maicheng-revenge-5star.png",
+      "original_name": "guanyu-maicheng-revenge-5star.png",
+      "repository_path": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/assets/sha256/e91386e0996efd40cf327efb20b717c9bcf9a0c8232b1598e567fed27da11276.png",
+      "sha256": "e91386e0996efd40cf327efb20b717c9bcf9a0c8232b1598e567fed27da11276",
+      "original_sha256": "e91386e0996efd40cf327efb20b717c9bcf9a0c8232b1598e567fed27da11276",
+      "bytes": 3882163,
+      "archived_at": "2026-10-19T19:46:09.607125+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "demon",
+      "tier": 5,
+      "library_file_id": "libfile_257108d66e3c8191be5c6a40eb8e6b2f"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-refined_20261019_194245_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/assets/sha256/e3426da416745c8fc0f24738ada125a063a37a9f26296f83024fd85d8472e01f.png",
+      "sha256": "e3426da416745c8fc0f24738ada125a063a37a9f26296f83024fd85d8472e01f",
+      "original_sha256": "e3426da416745c8fc0f24738ada125a063a37a9f26296f83024fd85d8472e01f",
+      "bytes": 4253205,
+      "archived_at": "2026-10-19T19:46:09.607125+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "mecha",
+      "tier": 5,
+      "library_file_id": "libfile_55a14d92867c8191b9e208af5372cb30"
+    }
+  ],
+  "mecha_direction_user_accepted": true,
+  "all_outputs_final_approved": false
+}

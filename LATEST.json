@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/asset-index.json",
+  "asset_index": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "六星深空机甲关羽已交候选待验收：机械青龙驾驶舱、宇宙龙息与小地球，封侯双字六星框、防守反击技能。新增精工UI及魔卡放大关羽、缩小吕蒙、火甲马收火和连续刀龙气修订已READY，但本快照尚未交用户；旧神UI仅历史，正在制作的全金身神图未收。保留所有此前版本。",
-  "latest_delta": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui",
-  "current_status": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/status-overrides.json",
+  "note": "最新四张五星已合交待用户审阅：神全金身、神龙、神兵和光轮一体；传承及机甲使用新精工天字与去黑底枪头；魔保留认可黑龙，关羽放大、吕蒙缩小，火甲马收火，连续刀龙气。本轮最新四五星及先交六星宇宙机甲共五张候选，均未整体艺术验收。此前被覆盖版保留历史。",
+  "latest_delta": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards",
+  "current_status": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -94,7 +94,8 @@
     "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates",
     "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates",
     "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water",
-    "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui"
+    "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui",
+    "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -209,7 +210,8 @@
     "2026-10-19_19-24-41_scoped-skill-backup-verified",
     "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates",
     "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water",
-    "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui"
+    "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui",
+    "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -218,7 +220,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "b9e28116f7774fdd3396381ee5db532bd4199153",
+  "remote_verified_commit": "9e4afb0053639efb45be5e8d1bdf4cf9cdb10e5a",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -226,14 +228,14 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/effective-source-map.json",
-  "production_progress": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/effective-source-map.json",
+  "production_progress": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
-  "current_guanyu_five_star": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/current-guanyu-five-star-candidates.json"
+  "current_guanyu_five_star": "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards/current-guanyu-five-star-candidates.json"
 }
