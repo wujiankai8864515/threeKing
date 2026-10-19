@@ -1,0 +1,237 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/00-六星卡框五款总览.png",
+      "file_id": "file_00000000978c81f988815c77a9747532",
+      "library_file_id": "libfile_88176e333e4c8191b76b153eb0dcd650",
+      "file_name": "00-六星卡框五款总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 1113026,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-白金帝阙-六星机甲关羽.png",
+      "file_id": "file_000000005e6081f9952176ad8ba246cc",
+      "library_file_id": "libfile_60b877bfb8448191877d404f6047c511",
+      "file_name": "01-白金帝阙-六星机甲关羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5743719,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-玄钢龙卫-六星机甲关羽.png",
+      "file_id": "file_00000000415c81f98b71a92841fbb62d",
+      "library_file_id": "libfile_3380fa0fd3188191bc4777a6f2854ccb",
+      "file_name": "02-玄钢龙卫-六星机甲关羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 6051810,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-象牙圣裁-六星机甲关羽.png",
+      "file_id": "file_00000000424c81f9bcb982a7dbf992ba",
+      "library_file_id": "libfile_692009e6afd48191877a3542e857f6af",
+      "file_name": "03-象牙圣裁-六星机甲关羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5636781,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-赤金战旌-六星机甲关羽.png",
+      "file_id": "file_00000000d05081f9abfa949645f6e8b3",
+      "library_file_id": "libfile_68a1719d4950819190a1568379a856aa",
+      "file_name": "04-赤金战旌-六星机甲关羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5611288,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-银曜天穹-六星机甲关羽.png",
+      "file_id": "file_00000000b23c81f9b9aa9a3c68dd08ca",
+      "library_file_id": "libfile_02a6ffadbbd88191be6c1baaf8331cfa",
+      "file_name": "05-银曜天穹-六星机甲关羽.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 5985596,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-frame-transparent.png",
+      "file_id": "file_000000007bf081f99f6331f71454f1f3",
+      "library_file_id": "libfile_b024783290248191bf3b42f2932f1cb6",
+      "file_name": "01-frame-transparent.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 2269930,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-frame-transparent.png",
+      "file_id": "file_000000006d70820e87775612dd512b8c",
+      "library_file_id": "libfile_c5546f89c86c8191958636559429231a",
+      "file_name": "02-frame-transparent.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 2664964,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-frame-transparent.png",
+      "file_id": "file_00000000e7e081f98f8c24237e9a18d3",
+      "library_file_id": "libfile_6ba8af881c3c81918dddfaadfc7d1113",
+      "file_name": "03-frame-transparent.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 2131736,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-frame-transparent.png",
+      "file_id": "file_0000000064ec81f9a0fe43608f548a87",
+      "library_file_id": "libfile_ef84abc68dc8819195a37525fb0ae16f",
+      "file_name": "04-frame-transparent.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 2144767,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-frame-transparent.png",
+      "file_id": "file_00000000f5d881f999a14ac68adb519d",
+      "library_file_id": "libfile_45b49382cb388191aa1c45af3360d705",
+      "file_name": "05-frame-transparent.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 2694583,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

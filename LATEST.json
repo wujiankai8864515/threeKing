@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/asset-index.json",
+  "asset_index": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "魔关羽10种全新创意原图及编号总览已完成Library保存，尚待统一交付，未选定方案；六星巨翼光盾偃月炮护身龙原图已完成待五款框统一合成。当前仅归档冻结原图、真实参数、源映射、QA、Library与要求，五框仍在QA上传不收未冻结文件。此前神与参考UI待交状态不变。",
-  "latest_delta": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source",
-  "current_status": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/status-overrides.json",
+  "note": "本批已统一交付：10魔开放创意候选、5款非紫晶六星框比较、天庭神及五星机甲/传承参考UI和两张总览。全部等待用户选择与艺术验收。五框共用同一1024×1536翼盾炮原图，1:1外扩至1536×2304，原画像素0改变；成卡画布增大不代表插画升清。透明框、实际参数、可复现脚本、QA及历史完整保留。",
+  "latest_delta": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery",
+  "current_status": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -99,7 +99,8 @@
     "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha",
     "2026-10-19_20-00-04_combined-mecha-actual-generation-record",
     "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready",
-    "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source"
+    "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source",
+    "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -218,7 +219,8 @@
     "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards",
     "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha",
     "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready",
-    "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source"
+    "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source",
+    "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -227,7 +229,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "38b38a7fb194230e97740eec9bf6c09c8326688b",
+  "remote_verified_commit": "2028a87207bf7f8e58c70bb0b292dd0aa1d8acb2",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -235,14 +237,14 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/effective-source-map.json",
-  "production_progress": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/effective-source-map.json",
+  "production_progress": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
-  "current_guanyu_five_star": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/current-guanyu-five-star-candidates.json"
+  "current_guanyu_five_star": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/current-guanyu-five-star-candidates.json"
 }

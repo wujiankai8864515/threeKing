@@ -1,0 +1,51 @@
+{
+  "tool": "image_gen.imagegen",
+  "note": "Actual calls from this thread. Five independent calls launched in parallel. Only prompt and transparent_background were passed; references and num_last_images_to_include omitted.",
+  "calls": [
+    {
+      "id": "01",
+      "name": "白金帝阙",
+      "args": {
+        "prompt": "Use case: ui-mockup. Generate one premium SIX STAR collectible hero card EMPTY FRAME asset only, portrait 2:3 ratio. Actual transparent RGBA background BOTH around frame and in the entire central picture opening. NO illustration, NO character, NO letters, NO stars, NO numbers, NO nameplates, NO icons; these will be independent deterministic UI. Design: Bright platinum and warm gold imperial architecture. Squared rectilinear Chinese palace gate shape, stepped pagoda lintel at top, restrained sculpted cloud corners, double beveled pillars. Primarily polished bright platinum with thick solid gold structural inlays. Frame edges only occupy outer 6 percent of left/right and 7 percent top/bottom, central 88 percent width and 86 percent height empty and absolutely transparent. Full continuous thin rectangular internal opening; external corner/crown ornament permitted but no protrusions inward that would cover art. Orthographic straight front view, perfectly symmetrical frame geometry. Ultra fine high-end fantasy strategy game frame, sculptural cast metal craftsmanship with real broad continuous highlights and thick bevel shadows; subtle engraved scroll design in large shapes. No random particles, no pointillist speckle, no pitted metal, no gold dust, no noisy glitter, no background plate, no purple gemstones, no plastic. One isolated frame, no sheet, no mockup wall, no glow filling center.",
+        "transparent_background": true
+      },
+      "reference_images": "omitted; new generation"
+    },
+    {
+      "id": "02",
+      "name": "玄钢龙卫",
+      "args": {
+        "prompt": "Use case: ui-mockup. Generate one premium SIX STAR collectible hero card EMPTY FRAME asset only, portrait 2:3 ratio. Actual transparent RGBA background BOTH around frame and in the entire central picture opening. NO illustration, NO character, NO letters, NO stars, NO numbers, NO nameplates, NO icons; these will be independent deterministic UI. Design: Dark gunmetal and bright palladium dragon-guard armor. Tall angular shield silhouette, dragon-jaw corners, broad chamfered plate edges, five disciplined structural ribs at each side, silver cutting edges. Heavy noble military engineering, NOT generic circuit board. Frame edges only occupy outer 6 percent of left/right and 7 percent top/bottom, central 88 percent width and 86 percent height empty and absolutely transparent. Full continuous thin rectangular internal opening; external corner/crown ornament permitted but no protrusions inward that would cover art. Orthographic straight front view, perfectly symmetrical frame geometry. Ultra fine high-end fantasy strategy game frame, sculptural cast metal craftsmanship with real broad continuous highlights and thick bevel shadows; subtle engraved scroll design in large shapes. No random particles, no pointillist speckle, no pitted metal, no gold dust, no noisy glitter, no background plate, no purple gemstones, no plastic. One isolated frame, no sheet, no mockup wall, no glow filling center.",
+        "transparent_background": true
+      },
+      "reference_images": "omitted; new generation"
+    },
+    {
+      "id": "03",
+      "name": "象牙圣裁",
+      "args": {
+        "prompt": "Use case: ui-mockup. Generate one premium SIX STAR collectible hero card EMPTY FRAME asset only, portrait 2:3 ratio. Actual transparent RGBA background BOTH around frame and in the entire central picture opening. NO illustration, NO character, NO letters, NO stars, NO numbers, NO nameplates, NO icons; these will be independent deterministic UI. Design: Ivory ceramic enamel and satin champagne gold. Refined slim arch crown above rectangular opening, asymmetrical sculpted feather-like architectural fins OUTSIDE corners, smoothly fluted long sides, quiet ceremonial luxury. Clearly ivory white ceramic with gold bevel seams, no gems. Frame edges only occupy outer 6 percent of left/right and 7 percent top/bottom, central 88 percent width and 86 percent height empty and absolutely transparent. Full continuous thin rectangular internal opening; external corner/crown ornament permitted but no protrusions inward that would cover art. Orthographic straight front view, perfectly symmetrical frame geometry. Ultra fine high-end fantasy strategy game frame, sculptural cast metal craftsmanship with real broad continuous highlights and thick bevel shadows; subtle engraved scroll design in large shapes. No random particles, no pointillist speckle, no pitted metal, no gold dust, no noisy glitter, no background plate, no purple gemstones, no plastic. One isolated frame, no sheet, no mockup wall, no glow filling center.",
+        "transparent_background": true
+      },
+      "reference_images": "omitted; new generation"
+    },
+    {
+      "id": "04",
+      "name": "赤金战旌",
+      "args": {
+        "prompt": "Use case: ui-mockup. Generate one premium SIX STAR collectible hero card EMPTY FRAME asset only, portrait 2:3 ratio. Actual transparent RGBA background BOTH around frame and in the entire central picture opening. NO illustration, NO character, NO letters, NO stars, NO numbers, NO nameplates, NO icons; these will be independent deterministic UI. Design: Burnished rose-copper and bright gold war-banner architecture. Strong angular spear-fin corner brackets, layered forged lamellar bronze ribs along outer vertical sides, a heroic symmetrical pennant-shaped pointed bottom crest, broad smooth metal panels. NOT rust, not ancient dirty corroded copper. Frame edges only occupy outer 6 percent of left/right and 7 percent top/bottom, central 88 percent width and 86 percent height empty and absolutely transparent. Full continuous thin rectangular internal opening; external corner/crown ornament permitted but no protrusions inward that would cover art. Orthographic straight front view, perfectly symmetrical frame geometry. Ultra fine high-end fantasy strategy game frame, sculptural cast metal craftsmanship with real broad continuous highlights and thick bevel shadows; subtle engraved scroll design in large shapes. No random particles, no pointillist speckle, no pitted metal, no gold dust, no noisy glitter, no background plate, no purple gemstones, no plastic. One isolated frame, no sheet, no mockup wall, no glow filling center.",
+        "transparent_background": true
+      },
+      "reference_images": "omitted; new generation"
+    },
+    {
+      "id": "05",
+      "name": "银曜天穹",
+      "args": {
+        "prompt": "Use case: ui-mockup. Generate one premium SIX STAR collectible hero card EMPTY FRAME asset only, portrait 2:3 ratio. Actual transparent RGBA background BOTH around frame and in the entire central picture opening. NO illustration, NO character, NO letters, NO stars, NO numbers, NO nameplates, NO icons; these will be independent deterministic UI. Design: Mirror silver and cool luminous enamel celestial astrolabe architecture. Very thin circular arc crown behind rectangular portrait frame, segmented orbital-metal side rails and interlocking geometric corner braces, large clean silver facets with narrow cyan-white controlled luminous inset. NOT purple, no crystal chunks, no speckles. Frame edges only occupy outer 6 percent of left/right and 7 percent top/bottom, central 88 percent width and 86 percent height empty and absolutely transparent. Full continuous thin rectangular internal opening; external corner/crown ornament permitted but no protrusions inward that would cover art. Orthographic straight front view, perfectly symmetrical frame geometry. Ultra fine high-end fantasy strategy game frame, sculptural cast metal craftsmanship with real broad continuous highlights and thick bevel shadows; subtle engraved scroll design in large shapes. No random particles, no pointillist speckle, no pitted metal, no gold dust, no noisy glitter, no background plate, no purple gemstones, no plastic. One isolated frame, no sheet, no mockup wall, no glow filling center.",
+        "transparent_background": true
+      },
+      "reference_images": "omitted; new generation"
+    }
+  ]
+}

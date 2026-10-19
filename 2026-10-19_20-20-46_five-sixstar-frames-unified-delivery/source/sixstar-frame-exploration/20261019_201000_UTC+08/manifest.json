@@ -1,0 +1,107 @@
+[
+  {
+    "id": "01",
+    "name": "白金帝阙",
+    "design": "Bright platinum and warm gold imperial architecture. Squared rectilinear Chinese palace gate shape, stepped pagoda lintel at top, restrained sculpted cloud corners, double beveled pillars. Primarily polished bright platinum with thick solid gold structural inlays.",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-0fc3b907-6dde-4c18-b7d6-1c8ec5e82924.png",
+    "art_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-mecha_20261019_200940_UTC+08/六星机甲关羽-巨翼光盾偃月炮-原图.png",
+    "art_offset": [
+      256,
+      350
+    ],
+    "art_scale": 1,
+    "canvas": [
+      1536,
+      2304
+    ],
+    "title": "机甲·关羽",
+    "rank": "封侯",
+    "star_count": 6,
+    "unit": "spearhead_icon_only",
+    "file": "01-白金帝阙-六星机甲关羽.png"
+  },
+  {
+    "id": "02",
+    "name": "玄钢龙卫",
+    "design": "Dark gunmetal and bright palladium dragon-guard armor. Tall angular shield silhouette, dragon-jaw corners, broad chamfered plate edges, five disciplined structural ribs at each side, silver cutting edges. Heavy noble military engineering, NOT generic circuit board.",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d432e5e0-8916-4768-bf7d-c1ad0f84c648.png",
+    "art_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-mecha_20261019_200940_UTC+08/六星机甲关羽-巨翼光盾偃月炮-原图.png",
+    "art_offset": [
+      256,
+      350
+    ],
+    "art_scale": 1,
+    "canvas": [
+      1536,
+      2304
+    ],
+    "title": "机甲·关羽",
+    "rank": "封侯",
+    "star_count": 6,
+    "unit": "spearhead_icon_only",
+    "file": "02-玄钢龙卫-六星机甲关羽.png"
+  },
+  {
+    "id": "03",
+    "name": "象牙圣裁",
+    "design": "Ivory ceramic enamel and satin champagne gold. Refined slim arch crown above rectangular opening, asymmetrical sculpted feather-like architectural fins OUTSIDE corners, smoothly fluted long sides, quiet ceremonial luxury. Clearly ivory white ceramic with gold bevel seams, no gems.",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-69ea4244-2413-4133-a40a-7b8a65db3754.png",
+    "art_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-mecha_20261019_200940_UTC+08/六星机甲关羽-巨翼光盾偃月炮-原图.png",
+    "art_offset": [
+      256,
+      350
+    ],
+    "art_scale": 1,
+    "canvas": [
+      1536,
+      2304
+    ],
+    "title": "机甲·关羽",
+    "rank": "封侯",
+    "star_count": 6,
+    "unit": "spearhead_icon_only",
+    "file": "03-象牙圣裁-六星机甲关羽.png"
+  },
+  {
+    "id": "04",
+    "name": "赤金战旌",
+    "design": "Burnished rose-copper and bright gold war-banner architecture. Strong angular spear-fin corner brackets, layered forged lamellar bronze ribs along outer vertical sides, a heroic symmetrical pennant-shaped pointed bottom crest, broad smooth metal panels. NOT rust, not ancient dirty corroded copper.",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-50cf97fb-f684-439d-b8b9-6e9db85cbc75.png",
+    "art_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-mecha_20261019_200940_UTC+08/六星机甲关羽-巨翼光盾偃月炮-原图.png",
+    "art_offset": [
+      256,
+      350
+    ],
+    "art_scale": 1,
+    "canvas": [
+      1536,
+      2304
+    ],
+    "title": "机甲·关羽",
+    "rank": "封侯",
+    "star_count": 6,
+    "unit": "spearhead_icon_only",
+    "file": "04-赤金战旌-六星机甲关羽.png"
+  },
+  {
+    "id": "05",
+    "name": "银曜天穹",
+    "design": "Mirror silver and cool luminous enamel celestial astrolabe architecture. Very thin circular arc crown behind rectangular portrait frame, segmented orbital-metal side rails and interlocking geometric corner braces, large clean silver facets with narrow cyan-white controlled luminous inset. NOT purple, no crystal chunks, no speckles.",
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ebf41e13-80de-40ed-8c14-b39dc7b6b036.png",
+    "art_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-mecha_20261019_200940_UTC+08/六星机甲关羽-巨翼光盾偃月炮-原图.png",
+    "art_offset": [
+      256,
+      350
+    ],
+    "art_scale": 1,
+    "canvas": [
+      1536,
+      2304
+    ],
+    "title": "机甲·关羽",
+    "rank": "封侯",
+    "star_count": 6,
+    "unit": "spearhead_icon_only",
+    "file": "05-银曜天穹-六星机甲关羽.png"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "batches": [
+    {
+      "message_id": "Sentinel_2bb351a82b7881918b9476cd2bc8fe9c",
+      "sent_at": "2026-10-19T12:18:45Z",
+      "scope": "Two overviews and heavenly-hall divine card",
+      "status": "accepted_by_chat_service"
+    },
+    {
+      "message_id": "Sentinel_2d189a4971108191b943e4b7b7eede71",
+      "sent_at": "2026-10-19T12:18:48Z",
+      "scope": "Ten demon concept originals",
+      "status": "accepted_by_chat_service"
+    },
+    {
+      "message_id": "Sentinel_416a708829148191b63e86f139ad1286",
+      "sent_at": "2026-10-19T12:18:51Z",
+      "scope": "Five six-star frame comparisons and updated five-star mecha/traditional UI",
+      "status": "accepted_by_chat_service"
+    }
+  ],
+  "service_acceptance_is_not_user_approval": true
+}

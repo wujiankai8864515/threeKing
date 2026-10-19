@@ -1,0 +1,29 @@
+{
+  "recorded_at": "2026-10-19T20:20:46.694559+08:00",
+  "previous_status": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/status-overrides.json",
+  "current_summary": "本批已统一交付：10魔开放创意候选、5款非紫晶六星框比较、天庭神及五星机甲/传承参考UI和两张总览。全部等待用户选择与艺术验收。五框共用同一1024×1536翼盾炮原图，1:1外扩至1536×2304，原画像素0改变；成卡画布增大不代表插画升清。透明框、实际参数、可复现脚本、QA及历史完整保留。",
+  "effective_source_map": "2026-10-19_20-20-46_five-sixstar-frames-unified-delivery/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_2bb351a82b7881918b9476cd2bc8fe9c",
+        "sent_at": "2026-10-19T12:18:45Z",
+        "scope": "Two overviews and heavenly-hall divine card",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_2d189a4971108191b943e4b7b7eede71",
+        "sent_at": "2026-10-19T12:18:48Z",
+        "scope": "Ten demon concept originals",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_416a708829148191b63e86f139ad1286",
+        "sent_at": "2026-10-19T12:18:51Z",
+        "scope": "Five six-star frame comparisons and updated five-star mecha/traditional UI",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_approval": true
+  }
+}

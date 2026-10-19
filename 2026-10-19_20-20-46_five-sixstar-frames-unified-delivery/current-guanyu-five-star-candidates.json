@@ -1,0 +1,52 @@
+{
+  "recorded_at": "2026-10-19T20:17:12.624053+08:00",
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/heavenly-hall_20261019_200300_UTC+08/final-card/guanyu-divine-devotion-5star.png",
+      "original_name": "guanyu-divine-devotion-5star.png",
+      "repository_path": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/assets/sha256/f452a17c121660fff08b286ea1c60a4aa4f2ad4f788211b4f5655d5871895a8b.png",
+      "sha256": "f452a17c121660fff08b286ea1c60a4aa4f2ad4f788211b4f5655d5871895a8b",
+      "original_sha256": "f452a17c121660fff08b286ea1c60a4aa4f2ad4f788211b4f5655d5871895a8b",
+      "bytes": 3952731,
+      "archived_at": "2026-10-19T20:10:54.314246+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "divine",
+      "tier": 5,
+      "library_file_id": "libfile_0342ca248888819182ceaf4a76dba28c"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-reference-fit_20261019_200600_UTC+08/heritage/guanyu-heritage-water-command-5star.png",
+      "original_name": "guanyu-heritage-water-command-5star.png",
+      "repository_path": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/assets/sha256/9a2f8bceb16a29f272fe14fea308a0bd9e5dac3206f49921281d9a80b87683b9.png",
+      "sha256": "9a2f8bceb16a29f272fe14fea308a0bd9e5dac3206f49921281d9a80b87683b9",
+      "original_sha256": "9a2f8bceb16a29f272fe14fea308a0bd9e5dac3206f49921281d9a80b87683b9",
+      "bytes": 4235326,
+      "archived_at": "2026-10-19T20:10:54.314246+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "traditional",
+      "tier": 5,
+      "library_file_id": "libfile_24b13fe270a88191b25b6b2ec53b0f99"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-reference-fit_20261019_200600_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/assets/sha256/ad0dc4df8b9c3f41ae995d709ff12520ca0a1ca9da22eae16e1e10f5ab921bad.png",
+      "sha256": "ad0dc4df8b9c3f41ae995d709ff12520ca0a1ca9da22eae16e1e10f5ab921bad",
+      "original_sha256": "ad0dc4df8b9c3f41ae995d709ff12520ca0a1ca9da22eae16e1e10f5ab921bad",
+      "bytes": 4243026,
+      "archived_at": "2026-10-19T20:10:54.314246+08:00",
+      "source_bytes_preserved": true,
+      "status": "delivered_candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "mecha",
+      "tier": 5,
+      "library_file_id": "libfile_4fcc0233a1508191b354f10ebc1c7ef5"
+    }
+  ],
+  "mecha_direction_user_accepted": true,
+  "all_outputs_final_approved": false
+}
