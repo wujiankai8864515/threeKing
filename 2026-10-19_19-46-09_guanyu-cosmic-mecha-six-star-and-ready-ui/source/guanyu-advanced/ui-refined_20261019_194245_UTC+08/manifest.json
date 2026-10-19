@@ -1,0 +1,420 @@
+[
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "天",
+    "branch_id": "piloted-dragon-mecha",
+    "tier": 5,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/mecha",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 1
+      },
+      {
+        "name": "蓄能",
+        "level": 1
+      },
+      {
+        "name": "反制",
+        "level": 1
+      }
+    ],
+    "troop_class": "长枪兵",
+    "advancement_placeholder": true,
+    "skill_values_status": "draft_not_balanced",
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star-dynamic-ui.png",
+    "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+    "output_sha256": "e3426da416745c8fc0f24738ada125a063a37a9f26296f83024fd85d8472e01f",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +1",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +1",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "反制 +1",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "outside_authorized_UI_changed": 0
+  },
+  {
+    "hero": "guanyu",
+    "name": "神·关羽",
+    "branch": "天",
+    "branch_id": "divine-devotion",
+    "tier": 5,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine-devotion_20261019_192400_UTC+08/神关羽-供奉金光-刀内移.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/divine",
+    "skills": [
+      {
+        "name": "义护",
+        "level": 1
+      },
+      {
+        "name": "同心",
+        "level": 1
+      },
+      {
+        "name": "佑众",
+        "level": 1
+      }
+    ],
+    "advancement_placeholder": true,
+    "troop_type": "长枪兵",
+    "troop_display": "icon_only",
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/divine/guanyu-divine-devotion-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/divine/guanyu-divine-devotion-5star-dynamic-ui.png",
+    "source_sha256": "eb182a150d81786682ef7d8924a9eb264eeded31af8dd07faf0fd76df3b63f79",
+    "output_sha256": "37d60543ab639cb15cde0f36cbb5bf70a1e8bfe48b7d7f2ca8d32c1ae8cce020",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "神",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "义护 +1",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "同心 +1",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          12,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "佑众 +1",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "outside_authorized_UI_changed": 0
+  },
+  {
+    "hero": "guanyu",
+    "name": "传承·关羽",
+    "branch": "天",
+    "branch_id": "heritage-water-command",
+    "tier": 5,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/heritage",
+    "skills": [
+      {
+        "name": "龙骧",
+        "level": 1
+      },
+      {
+        "name": "震夏",
+        "level": 1
+      },
+      {
+        "name": "武圣",
+        "level": 1
+      }
+    ],
+    "troop_class": "长枪兵",
+    "advancement_placeholder": true,
+    "skill_values_status": "draft_not_balanced",
+    "active_skill": {
+      "name": "水淹七军",
+      "status": "draft_no_fixed_values"
+    },
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/heritage/guanyu-heritage-water-command-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/heritage/guanyu-heritage-water-command-5star-dynamic-ui.png",
+    "source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+    "output_sha256": "2de52493c2f40fddeeb7a5970dbd7fe393ddf6fe12ae850ae2a3fba1e497039a",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "传承",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "龙骧 +1",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "震夏 +1",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          49
+        ]
+      },
+      {
+        "text": "武圣 +1",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          126,
+          50
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "outside_authorized_UI_changed": 0
+  }
+]

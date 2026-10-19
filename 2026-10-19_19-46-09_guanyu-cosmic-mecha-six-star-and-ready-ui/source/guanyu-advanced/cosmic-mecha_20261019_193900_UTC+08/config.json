@@ -1,0 +1,23 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "cosmic-dragon-mecha",
+  "tier": 6,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/cosmic-mecha_20261019_193900_UTC+08/六星机甲关羽-深空青龙-光洁修订.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/cosmic-mecha_20261019_193900_UTC+08/final-card",
+  "skills": [
+    {
+      "name": "重甲",
+      "level": 2
+    },
+    {
+      "name": "蓄能",
+      "level": 2
+    },
+    {
+      "name": "反制",
+      "level": 2
+    }
+  ]
+}

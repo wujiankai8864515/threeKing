@@ -1,0 +1,137 @@
+{
+  "hero": "guanyu",
+  "name": "魔·关羽",
+  "branch": "天",
+  "branch_id": "maicheng-revenge",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_194054_UTC+08/魔关羽-主体增强火甲马-原图.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_194054_UTC+08/cards",
+  "skills": [
+    {
+      "name": "嗜血",
+      "level": 1
+    },
+    {
+      "name": "戮魂",
+      "level": 1
+    },
+    {
+      "name": "追命",
+      "level": 1
+    }
+  ],
+  "troop_class": "长枪兵",
+  "advancement_placeholder": true,
+  "skill_values_status": "draft_not_balanced",
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_194054_UTC+08/cards/guanyu-maicheng-revenge-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_194054_UTC+08/cards/guanyu-maicheng-revenge-5star-dynamic-ui.png",
+  "source_sha256": "ccd76a09296ee0d1530cba2661e8065a6aa298db3cf673219b67e140e54cd307",
+  "output_sha256": "e91386e0996efd40cf327efb20b717c9bcf9a0c8232b1598e567fed27da11276",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "魔",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        54,
+        68
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        764.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        699.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "嗜血 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "戮魂 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        50
+      ]
+    },
+    {
+      "text": "追命 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

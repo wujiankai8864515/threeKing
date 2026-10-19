@@ -1,0 +1,26 @@
+{
+  "hero": "guanyu",
+  "name": "神·关羽",
+  "branch": "天",
+  "branch_id": "divine-devotion",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine-devotion_20261019_192400_UTC+08/神关羽-供奉金光-刀内移.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-refined_20261019_194245_UTC+08/divine",
+  "skills": [
+    {
+      "name": "义护",
+      "level": 1
+    },
+    {
+      "name": "同心",
+      "level": 1
+    },
+    {
+      "name": "佑众",
+      "level": 1
+    }
+  ],
+  "advancement_placeholder": true,
+  "troop_type": "长枪兵",
+  "troop_display": "icon_only"
+}

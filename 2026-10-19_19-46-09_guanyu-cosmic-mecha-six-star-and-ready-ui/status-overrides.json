@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-19T19:46:09.607125+08:00",
+  "previous_status": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/status-overrides.json",
+  "current_summary": "六星深空机甲关羽已交候选待验收：机械青龙驾驶舱、宇宙龙息与小地球，封侯双字六星框、防守反击技能。新增精工UI及魔卡放大关羽、缩小吕蒙、火甲马收火和连续刀龙气修订已READY，但本快照尚未交用户；旧神UI仅历史，正在制作的全金身神图未收。保留所有此前版本。",
+  "effective_source_map": "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_b16e81914e848191aa9a3f2273e6d75f",
+        "sent_at": "2026-10-19T11:44:24Z",
+        "scope": "Six-star cosmic dragon mecha Guan Yu; refined UI and demon revision archived ready but not yet delivered",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_final_approval": true
+  },
+  "other_37": "paused_rejected_historical_only"
+}
