@@ -1,0 +1,16 @@
+[
+  {
+    "tier": 5,
+    "alpha_exact": true,
+    "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+    "checked": 1209452,
+    "changed": 0
+  },
+  {
+    "tier": 6,
+    "alpha_exact": true,
+    "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "checked": 1199176,
+    "changed": 0
+  }
+]
