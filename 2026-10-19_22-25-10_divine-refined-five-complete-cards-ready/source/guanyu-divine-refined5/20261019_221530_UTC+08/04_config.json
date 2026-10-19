@@ -1,0 +1,24 @@
+{
+  "hero": "guanyu",
+  "name": "神·关羽",
+  "branch": "天",
+  "branch_id": "divine-refined-04",
+  "tier": 5,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/04_source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards",
+  "skills": [
+    {
+      "name": "忠义",
+      "level": 2
+    },
+    {
+      "name": "护佑",
+      "level": 2
+    },
+    {
+      "name": "显圣",
+      "level": 2
+    }
+  ]
+}

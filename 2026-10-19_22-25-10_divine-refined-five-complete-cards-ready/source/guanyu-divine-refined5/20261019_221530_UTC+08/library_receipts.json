@@ -1,0 +1,246 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01_神关羽_义照山河_五星完整卡.png",
+        "file_id": "file_00000000134481f4bd116791913a8b0a",
+        "library_file_id": "libfile_7036950f6d588191bd8439d6aff6504d",
+        "file_name": "01_神关羽_义照山河_五星完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3953334,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01_神关羽_义照山河_无框源.png",
+        "file_id": "file_000000007b5c81f9aa0cac36975e80a1",
+        "library_file_id": "libfile_758433400e6c819184e60cad6ab984e3",
+        "file_name": "01_神关羽_义照山河_无框源.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3050386,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02_神关羽_星垣护世_五星完整卡.png",
+        "file_id": "file_00000000a19081f980d2da53d48e924a",
+        "library_file_id": "libfile_82085b65052081918a626e4b0682a5bd",
+        "file_name": "02_神关羽_星垣护世_五星完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4285981,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02_神关羽_星垣护世_无框源.png",
+        "file_id": "file_000000002a1c81f9b3a469374877fb1f",
+        "library_file_id": "libfile_e00d331087b08191929117add0ecb9de",
+        "file_name": "02_神关羽_星垣护世_无框源.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3567487,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03_神关羽_春秋御天_五星完整卡.png",
+        "file_id": "file_0000000046d081f582d8a1c15728aa9b",
+        "library_file_id": "libfile_6ff8915c63ac8191bd0b89b5043ee65e",
+        "file_name": "03_神关羽_春秋御天_五星完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4226880,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03_神关羽_春秋御天_无框源.png",
+        "file_id": "file_00000000411481f994102baca0730f2a",
+        "library_file_id": "libfile_6f715639a6f88191a1549d803f70b6dd",
+        "file_name": "03_神关羽_春秋御天_无框源.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3370859,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04_神关羽_圣刃辟邪_五星完整卡.png",
+        "file_id": "file_00000000b52481f995332582f93268bd",
+        "library_file_id": "libfile_50ac5a2bd4f48191beb034b0cef3d891",
+        "file_name": "04_神关羽_圣刃辟邪_五星完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4289208,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04_神关羽_圣刃辟邪_无框源.png",
+        "file_id": "file_0000000024fc81f98403b1ec0b267be6",
+        "library_file_id": "libfile_50e7be997678819185ec4024bb4de6c3",
+        "file_name": "04_神关羽_圣刃辟邪_无框源.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3483369,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05_神关羽_义誓同天_五星完整卡.png",
+        "file_id": "file_000000003eb881f9994c69fc65d27f4f",
+        "library_file_id": "libfile_dd61f04f5cb48191909d6d74f08ddb76",
+        "file_name": "05_神关羽_义誓同天_五星完整卡.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4204131,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05_神关羽_义誓同天_无框源.png",
+        "file_id": "file_00000000523c81f9a6dd9effbdfb435f",
+        "library_file_id": "libfile_6f3c8caea4b48191968c13398f2b99d1",
+        "file_name": "05_神关羽_义誓同天_无框源.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image_gen",
+        "file_size_bytes": 3370871,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/神关羽新5_完整卡编号总览.jpg",
+        "file_id": "file_00000000b2f481f98a5666dfc52441aa",
+        "library_file_id": "libfile_cdde2af0ad888191b8b7eb58815495be",
+        "file_name": "神关羽新5_完整卡编号总览.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 777954,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}

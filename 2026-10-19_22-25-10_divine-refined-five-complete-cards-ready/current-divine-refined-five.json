@@ -1,0 +1,79 @@
+{
+  "assets": [
+    {
+      "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-01-5star.png",
+      "original_name": "guanyu-divine-refined-01-5star.png",
+      "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/3d0a7240562fe25ff04dc5a7b383849dbb23fdd229a18cc3047340ec6c55f87a.png",
+      "sha256": "3d0a7240562fe25ff04dc5a7b383849dbb23fdd229a18cc3047340ec6c55f87a",
+      "original_sha256": "3d0a7240562fe25ff04dc5a7b383849dbb23fdd229a18cc3047340ec6c55f87a",
+      "bytes": 3953334,
+      "archived_at": "2026-10-19T22:25:10.673374+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "concept_id": "01",
+      "library_file_id": "libfile_7036950f6d588191bd8439d6aff6504d"
+    },
+    {
+      "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-02-5star.png",
+      "original_name": "guanyu-divine-refined-02-5star.png",
+      "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/56f50b85b4c19c0690c400a7147d413e1e02933ccfda7ecea1e3d29786624dc8.png",
+      "sha256": "56f50b85b4c19c0690c400a7147d413e1e02933ccfda7ecea1e3d29786624dc8",
+      "original_sha256": "56f50b85b4c19c0690c400a7147d413e1e02933ccfda7ecea1e3d29786624dc8",
+      "bytes": 4285981,
+      "archived_at": "2026-10-19T22:25:10.673374+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "concept_id": "02",
+      "library_file_id": "libfile_82085b65052081918a626e4b0682a5bd"
+    },
+    {
+      "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-03-5star.png",
+      "original_name": "guanyu-divine-refined-03-5star.png",
+      "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/d94e52555ac1306fe9c142203e513b1ed888a47923cad64d6fb6be0aa5f0e3f0.png",
+      "sha256": "d94e52555ac1306fe9c142203e513b1ed888a47923cad64d6fb6be0aa5f0e3f0",
+      "original_sha256": "d94e52555ac1306fe9c142203e513b1ed888a47923cad64d6fb6be0aa5f0e3f0",
+      "bytes": 4226880,
+      "archived_at": "2026-10-19T22:25:10.673374+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "concept_id": "03",
+      "library_file_id": "libfile_6ff8915c63ac8191bd0b89b5043ee65e"
+    },
+    {
+      "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-04-5star.png",
+      "original_name": "guanyu-divine-refined-04-5star.png",
+      "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/5218ca5faa26640719446abc96c9b804f6554692c357dea196f48bcffa3d7e36.png",
+      "sha256": "5218ca5faa26640719446abc96c9b804f6554692c357dea196f48bcffa3d7e36",
+      "original_sha256": "5218ca5faa26640719446abc96c9b804f6554692c357dea196f48bcffa3d7e36",
+      "bytes": 4289208,
+      "archived_at": "2026-10-19T22:25:10.673374+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "concept_id": "04",
+      "library_file_id": "libfile_50ac5a2bd4f48191beb034b0cef3d891"
+    },
+    {
+      "original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-05-5star.png",
+      "original_name": "guanyu-divine-refined-05-5star.png",
+      "repository_path": "2026-10-19_22-25-10_divine-refined-five-complete-cards-ready/assets/sha256/e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f.png",
+      "sha256": "e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f",
+      "original_sha256": "e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f",
+      "bytes": 4204131,
+      "archived_at": "2026-10-19T22:25:10.673374+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "concept_id": "05",
+      "library_file_id": "libfile_dd61f04f5cb48191909d6d74f08ddb76"
+    }
+  ],
+  "manifest_original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/manifest.json",
+  "library_receipts_original_path": "guanyu-divine-refined5/20261019_221530_UTC+08/library_receipts.json",
+  "chat_delivered": false,
+  "user_final_accepted": false,
+  "previous_twenty_status": "partial_element_preferences_only_no_full_approval"
+}

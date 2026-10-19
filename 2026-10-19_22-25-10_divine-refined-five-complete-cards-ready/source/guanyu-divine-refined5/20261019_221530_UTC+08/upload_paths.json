@@ -1,0 +1,79 @@
+[
+  {
+    "file_name": "01_神关羽_义照山河_五星完整卡.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-01-5star.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image"
+  },
+  {
+    "file_name": "01_神关羽_义照山河_无框源.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/01_source.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image_gen"
+  },
+  {
+    "file_name": "02_神关羽_星垣护世_五星完整卡.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-02-5star.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image"
+  },
+  {
+    "file_name": "02_神关羽_星垣护世_无框源.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/02_source.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image_gen"
+  },
+  {
+    "file_name": "03_神关羽_春秋御天_五星完整卡.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-03-5star.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image"
+  },
+  {
+    "file_name": "03_神关羽_春秋御天_无框源.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/03_source.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image_gen"
+  },
+  {
+    "file_name": "04_神关羽_圣刃辟邪_五星完整卡.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-04-5star.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image"
+  },
+  {
+    "file_name": "04_神关羽_圣刃辟邪_无框源.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/04_source.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image_gen"
+  },
+  {
+    "file_name": "05_神关羽_义誓同天_五星完整卡.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-05-5star.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image"
+  },
+  {
+    "file_name": "05_神关羽_义誓同天_无框源.png",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+    "purpose": "create_library_file",
+    "mime_type": "image/png",
+    "library_artifact_type": "image_gen"
+  },
+  {
+    "file_name": "神关羽新5_完整卡编号总览.jpg",
+    "workspace_path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/overview_complete_cards_01-05.jpg",
+    "purpose": "create_library_file",
+    "mime_type": "image/jpeg",
+    "library_artifact_type": "image"
+  }
+]

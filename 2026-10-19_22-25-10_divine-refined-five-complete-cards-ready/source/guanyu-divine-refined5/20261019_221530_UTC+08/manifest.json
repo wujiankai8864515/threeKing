@@ -1,0 +1,84 @@
+[
+  {
+    "id": "01",
+    "name": "义照山河",
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/01_source.png",
+    "card": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-01-5star.png",
+    "source_sha256": "3ddfca7f2363f9fbd16326f0b77a2607c00f082ccdf280bbef93e91f83c64a15",
+    "card_sha256": "3d0a7240562fe25ff04dc5a7b383849dbb23fdd229a18cc3047340ec6c55f87a",
+    "references": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/01_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/03_divine_guanyu.png"
+    ],
+    "time_UTC08": "2026-10-19T22:23:00+08:00",
+    "status": "candidate_not_approved",
+    "card_library_file_id": "libfile_7036950f6d588191bd8439d6aff6504d",
+    "source_library_file_id": "libfile_758433400e6c819184e60cad6ab984e3"
+  },
+  {
+    "id": "02",
+    "name": "星垣护世",
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/02_source.png",
+    "card": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-02-5star.png",
+    "source_sha256": "3773e980d67a37f035f5e496a6f11a9823e148274a469f9d06a4a333a938eaf1",
+    "card_sha256": "56f50b85b4c19c0690c400a7147d413e1e02933ccfda7ecea1e3d29786624dc8",
+    "references": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/05_divine_guanyu.png"
+    ],
+    "time_UTC08": "2026-10-19T22:23:00+08:00",
+    "status": "candidate_not_approved",
+    "card_library_file_id": "libfile_82085b65052081918a626e4b0682a5bd",
+    "source_library_file_id": "libfile_e00d331087b08191929117add0ecb9de"
+  },
+  {
+    "id": "03",
+    "name": "春秋御天",
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/03_source.png",
+    "card": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-03-5star.png",
+    "source_sha256": "48c0bbdda1c1598cb738844841a9aa8ca4dd49c1f9600aa830faf73c33b3893e",
+    "card_sha256": "d94e52555ac1306fe9c142203e513b1ed888a47923cad64d6fb6be0aa5f0e3f0",
+    "references": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/06_divine_guanyu.png"
+    ],
+    "time_UTC08": "2026-10-19T22:23:00+08:00",
+    "status": "candidate_not_approved",
+    "card_library_file_id": "libfile_6ff8915c63ac8191bd0b89b5043ee65e",
+    "source_library_file_id": "libfile_6f715639a6f88191a1549d803f70b6dd"
+  },
+  {
+    "id": "04",
+    "name": "圣刃辟邪",
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/04_source.png",
+    "card": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-04-5star.png",
+    "source_sha256": "2b424742d3fa04a841c649a1eb5ef5ca8c697647f1fe514e637b0018f99548ab",
+    "card_sha256": "5218ca5faa26640719446abc96c9b804f6554692c357dea196f48bcffa3d7e36",
+    "references": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/08_divine_guanyu.png"
+    ],
+    "time_UTC08": "2026-10-19T22:23:00+08:00",
+    "status": "candidate_not_approved",
+    "card_library_file_id": "libfile_50ac5a2bd4f48191beb034b0cef3d891",
+    "source_library_file_id": "libfile_50e7be997678819185ec4024bb4de6c3"
+  },
+  {
+    "id": "05",
+    "name": "义誓同天",
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+    "card": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/cards/guanyu-divine-refined-05-5star.png",
+    "source_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+    "card_sha256": "e11efe18d61991adf33f65f3213ce8dc923ad88b0ba2b61a49c2190e5e520f2f",
+    "references": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/14_divine_guanyu.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/03_divine_guanyu.png"
+    ],
+    "time_UTC08": "2026-10-19T22:23:00+08:00",
+    "status": "candidate_not_approved",
+    "card_library_file_id": "libfile_dd61f04f5cb48191909d6d74f08ddb76",
+    "source_library_file_id": "libfile_6f3c8caea4b48191968c13398f2b99d1"
+  }
+]

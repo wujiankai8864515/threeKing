@@ -1,0 +1,69 @@
+[
+  {
+    "id": "01",
+    "name": "义照山河",
+    "args": {
+      "prompt": "Create one NEW complete vertical 2:3 high-definition premium Chinese mythic fantasy illustration, no frame/UI/text. Use the supplied reference16 ONLY the DIVINE GUAN YU INSIDE THE MIRROR: luminous calm phoenix eyes, handsome noble long beard, green wrapped crown with gold crest, refined green/ivory robes and broad sculptural golden dragon ornament, warm celestial radiant aura. Do NOT copy the dark foreground mortal or the mirror itself. Make deity unmistakably transcendent, compassionate and commanding, 義薄雲天, not an ordinary soldier recolored. Face and hands exceptionally sharp and anatomically coherent. Rich spectacular continuous broad luminous shapes, aura membranes and volumetric shafts, no glitter, no gold dust, no particle field, no pitted metal, no dense little clouds. Chinese aesthetic, no Western torch/angel wings. Face/hair/garment remain visible not blown out. No jade/ceramic skin, no white smoke body, no grotesque muscles. Preserve authentic long rigid straight guandao shaft and crescent blade if present. Distinct whole composition described below; references provide selected cues only, not copied layout. Original imagined divine scene, not asserted historical incident. Extreme low-angle monumental Guan Yu at the boundary of night and day, dominant head and torso upper center. Calm open palm lowered toward a tiny ancient Chinese city; hand proportion graceful not dominating face. His ivory-green sacred robes float as wide luminous canopy. A huge warm ivory-gold disc behind crown sends four broad rays across the valley, splitting oppressive dark storm at left from protected luminous villages at right. The entire divine silhouette edged by smooth gold light, robes appear woven from dawn light with tangible satin folds and ceremonial dragon shoulder details. Make LIGHT BROUGHT TO HUMAN WORLD the story, not a battle. Bottom fifth civilians tiny. No lantern rivers from03, borrow richness only. No giant foreground palm from01; original symmetric rising figure composition.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/01_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/03_divine_guanyu.png"
+      ],
+      "transparent_background": false
+    },
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b0276710-6d14-4c87-a4b9-75a31c2d69d8.png"
+  },
+  {
+    "id": "02",
+    "name": "星垣护世",
+    "args": {
+      "prompt": "Create one NEW complete vertical 2:3 high-definition premium Chinese mythic fantasy illustration, no frame/UI/text. Use the supplied reference16 ONLY the DIVINE GUAN YU INSIDE THE MIRROR: luminous calm phoenix eyes, handsome noble long beard, green wrapped crown with gold crest, refined green/ivory robes and broad sculptural golden dragon ornament, warm celestial radiant aura. Do NOT copy the dark foreground mortal or the mirror itself. Make deity unmistakably transcendent, compassionate and commanding, 義薄雲天, not an ordinary soldier recolored. Face and hands exceptionally sharp and anatomically coherent. Rich spectacular continuous broad luminous shapes, aura membranes and volumetric shafts, no glitter, no gold dust, no particle field, no pitted metal, no dense little clouds. Chinese aesthetic, no Western torch/angel wings. Face/hair/garment remain visible not blown out. No jade/ceramic skin, no white smoke body, no grotesque muscles. Preserve authentic long rigid straight guandao shaft and crescent blade if present. Distinct whole composition described below; references provide selected cues only, not copied layout. Original imagined divine scene, not asserted historical incident. Three-quarter close-up celestial Guan Yu at right, serene stern face large upper half, two hands hold straight long guandao diagonally across lowerbody with coherent grip. Behind left shoulder a majestic GREEN azure-dragon head formed from flowing jade-green celestial light, only head and a little neck. Exactly seven prominent star nodes joined by elegant smooth golden constellation lines run through dragon silhouette, with broad translucent green celestial ribbons under them. Vast midnight-indigo sky not densely speckled. A dome of clear gold-green divine energy over tiny Chinese settlements below. Warmgold circularheadhalo, bright sacred robe, cosmic protector not mecha, constellation and dragon relationship central.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/05_divine_guanyu.png"
+      ],
+      "transparent_background": false
+    },
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-86f044cf-6e8e-43a8-8a3f-2d2ea115325a.png"
+  },
+  {
+    "id": "03",
+    "name": "春秋御天",
+    "args": {
+      "prompt": "Create one NEW complete vertical 2:3 high-definition premium Chinese mythic fantasy illustration, no frame/UI/text. Use the supplied reference16 ONLY the DIVINE GUAN YU INSIDE THE MIRROR: luminous calm phoenix eyes, handsome noble long beard, green wrapped crown with gold crest, refined green/ivory robes and broad sculptural golden dragon ornament, warm celestial radiant aura. Do NOT copy the dark foreground mortal or the mirror itself. Make deity unmistakably transcendent, compassionate and commanding, 義薄雲天, not an ordinary soldier recolored. Face and hands exceptionally sharp and anatomically coherent. Rich spectacular continuous broad luminous shapes, aura membranes and volumetric shafts, no glitter, no gold dust, no particle field, no pitted metal, no dense little clouds. Chinese aesthetic, no Western torch/angel wings. Face/hair/garment remain visible not blown out. No jade/ceramic skin, no white smoke body, no grotesque muscles. Preserve authentic long rigid straight guandao shaft and crescent blade if present. Distinct whole composition described below; references provide selected cues only, not copied layout. Original imagined divine scene, not asserted historical incident. A sweeping diagonal giant OPEN BAMBOO SPRING-AND-AUTUMN SCROLL FLIES above mountains and villages, scroll curve occupies lower third. Guan Yu calmly seated sideways atop scroll with one knee raised in refined readable scholar posture, holding an open smaller book, gaze serene downward at book. Focus on divinity inside16: radiant golden crown, noble face, long beard, green-and-ivory ceremonial robes with carved broad golden shoulder dragon. Scroll edges create three wide ivory-gold flowing bands of light carrying him through open blue sky. Sacred circular halo behind his head, ethereal majestic green dragon HEAD lightly suggested within upper rear aura, not huge twisting body. Book and scroll readable as books but NO text or huge calligraphy at all, avoid broken glyph. Different from military poses; richly luminous scholarly saint.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/06_divine_guanyu.png"
+      ],
+      "transparent_background": false
+    },
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ae44f61c-73e2-43f9-a2c0-da4f9973b01c.png"
+  },
+  {
+    "id": "04",
+    "name": "圣刃辟邪",
+    "args": {
+      "prompt": "Create one NEW complete vertical 2:3 high-definition premium Chinese mythic fantasy illustration, no frame/UI/text. Use the supplied reference16 ONLY the DIVINE GUAN YU INSIDE THE MIRROR: luminous calm phoenix eyes, handsome noble long beard, green wrapped crown with gold crest, refined green/ivory robes and broad sculptural golden dragon ornament, warm celestial radiant aura. Do NOT copy the dark foreground mortal or the mirror itself. Make deity unmistakably transcendent, compassionate and commanding, 義薄雲天, not an ordinary soldier recolored. Face and hands exceptionally sharp and anatomically coherent. Rich spectacular continuous broad luminous shapes, aura membranes and volumetric shafts, no glitter, no gold dust, no particle field, no pitted metal, no dense little clouds. Chinese aesthetic, no Western torch/angel wings. Face/hair/garment remain visible not blown out. No jade/ceramic skin, no white smoke body, no grotesque muscles. Preserve authentic long rigid straight guandao shaft and crescent blade if present. Distinct whole composition described below; references provide selected cues only, not copied layout. Original imagined divine scene, not asserted historical incident. Dramatic diagonal action: divine Guan Yu dominates center foreground, robes and broad golden dragon shoulder ornaments retain16mirror divinity; calm fierce resolve not screaming. In balanced twisting stance with two anatomically accurate hands spaced along one straight rigid long guandao pole, he sweeps the broad crescent blade downward. A SINGLE immense smooth ivory-gold and emerald blade-wave cuts a black spectral evil mass at edge, pushing it away from a small ancient village sheltered below. Continuous luminous crescent and broad halo behind head create sacred justice. Evil only small marginal silhouettes, no gore, no corpses, no broken particles. Protective benevolent deity in action, no generic dark warrior. Strong clear weapon-length and hand positioning, no cropped blade tip.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/08_divine_guanyu.png"
+      ],
+      "transparent_background": false
+    },
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6a17b728-e06b-451c-a231-88be8c2d7d96.png"
+  },
+  {
+    "id": "05",
+    "name": "义誓同天",
+    "args": {
+      "prompt": "Create one NEW complete vertical 2:3 high-definition premium Chinese mythic fantasy illustration, no frame/UI/text. Use the supplied reference16 ONLY the DIVINE GUAN YU INSIDE THE MIRROR: luminous calm phoenix eyes, handsome noble long beard, green wrapped crown with gold crest, refined green/ivory robes and broad sculptural golden dragon ornament, warm celestial radiant aura. Do NOT copy the dark foreground mortal or the mirror itself. Make deity unmistakably transcendent, compassionate and commanding, 義薄雲天, not an ordinary soldier recolored. Face and hands exceptionally sharp and anatomically coherent. Rich spectacular continuous broad luminous shapes, aura membranes and volumetric shafts, no glitter, no gold dust, no particle field, no pitted metal, no dense little clouds. Chinese aesthetic, no Western torch/angel wings. Face/hair/garment remain visible not blown out. No jade/ceramic skin, no white smoke body, no grotesque muscles. Preserve authentic long rigid straight guandao shaft and crescent blade if present. Distinct whole composition described below; references provide selected cues only, not copied layout. Original imagined divine scene, not asserted historical incident. Frontal three-quarter waist-up giant divine Guan Yu with right palm over heart, other palm open to sheltered human allies below; no weapon necessary. A golden-ivory halo wraps his crowned head, exquisite green-and-ivory robes are deeply folded celestial satin with bold gold dragon collars, posture upright noble. Three great translucent jade-green and warm-white flowing oath banners stream behind him like a protective luminous roof; one broad crimson oath ribbon connects his wrist to a far smaller human camp in lower fifth. Dark distant army at edge is held beyond the radiant canopy. Vast serene divine face with compassionate stern eyes, luminous sculptural relief and expansive satin light rather than ordinary military armor. Make righteous protection and shared oath visibly divine; large smooth light sheets, not03lanternriver or14ordinaryrobe repetition.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/16_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/14_divine_guanyu.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-divine-exploration/20261019_202405_UTC+08/03_divine_guanyu.png"
+      ],
+      "transparent_background": false
+    },
+    "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-41e9fd20-9821-4956-a790-f2f3ce926db8.png"
+  }
+]
