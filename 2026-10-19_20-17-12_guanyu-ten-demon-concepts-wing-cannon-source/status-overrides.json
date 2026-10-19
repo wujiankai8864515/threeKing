@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-19T20:17:12.624053+08:00",
+  "previous_status": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/status-overrides.json",
+  "current_summary": "魔关羽10种全新创意原图及编号总览已完成Library保存，尚待统一交付，未选定方案；六星巨翼光盾偃月炮护身龙原图已完成待五款框统一合成。当前仅归档冻结原图、真实参数、源映射、QA、Library与要求，五框仍在QA上传不收未冻结文件。此前神与参考UI待交状态不变。",
+  "effective_source_map": "2026-10-19_20-17-12_guanyu-ten-demon-concepts-wing-cannon-source/effective-source-map.json",
+  "delivery": {
+    "status": "ready_not_delivered",
+    "prior_delivery_receipt": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/delivery-receipt.json",
+    "user_final_accepted": false
+  },
+  "other_37": "paused_rejected_historical_only"
+}

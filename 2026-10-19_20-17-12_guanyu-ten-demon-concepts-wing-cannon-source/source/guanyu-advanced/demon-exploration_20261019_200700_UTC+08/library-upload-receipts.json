@@ -1,0 +1,246 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/01-断誓之刃.png",
+        "file_id": "file_000000006f8081f9a51a5e15f9814030",
+        "library_file_id": "libfile_ecc5db6812208191b31e7e90cd02081e",
+        "file_name": "01-断誓之刃.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2598323,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/02-冥河渡主.png",
+        "file_id": "file_00000000bbe4820e882c0eaf3839f3e1",
+        "library_file_id": "libfile_c21375257b9881918588115928cce8d7",
+        "file_name": "02-冥河渡主.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2371512,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/03-焚天战魁.png",
+        "file_id": "file_0000000052a4820e9e60d8b906eea1d7",
+        "library_file_id": "libfile_3aeda701a290819181fe7ba63efb7509",
+        "file_name": "03-焚天战魁.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2828575,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/04-无面忠魂.png",
+        "file_id": "file_00000000afc481f9a57aac726a9932a3",
+        "library_file_id": "libfile_9076c4cedbd081919bece4e0c174c9ee",
+        "file_name": "04-无面忠魂.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2445524,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/05-黑日军王.png",
+        "file_id": "file_00000000fe0881f9b9803b33df7b56e0",
+        "library_file_id": "libfile_d0e992a2acfc81919a5dc36ed2afbaab",
+        "file_name": "05-黑日军王.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2798520,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/06-万刃归魂.png",
+        "file_id": "file_00000000158881f99d88fecf03da07e7",
+        "library_file_id": "libfile_1367badabaa08191bda0037a56c8321a",
+        "file_name": "06-万刃归魂.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2893906,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/07-魇龙共生.png",
+        "file_id": "file_00000000821c81f99dc35170f7e4ac9a",
+        "library_file_id": "libfile_0f7d446544d48191869b8f09aeca308d",
+        "file_name": "07-魇龙共生.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 3018033,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/08-血月追猎.png",
+        "file_id": "file_0000000071ac81f9aa8d389cec515c98",
+        "library_file_id": "libfile_b0e1e3a8dbb481919d76244dcaf68909",
+        "file_name": "08-血月追猎.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2453116,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/09-锁狱破誓.png",
+        "file_id": "file_0000000053a881f982dd666db2a0372e",
+        "library_file_id": "libfile_fbf1a0fe30888191b3f63efa25cb183e",
+        "file_name": "09-锁狱破誓.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2928639,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/10-墨海灾君.png",
+        "file_id": "file_00000000b93c81f9931230d4a4684ab3",
+        "library_file_id": "libfile_8b96cbeea6488191b6707d009758eab7",
+        "file_name": "10-墨海灾君.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 2785400,
+        "external_connectors_accessed": false
+      },
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/魔关羽10版-编号总览.jpg",
+        "file_id": "file_000000004b6481f9859966f0ccd8b5ca",
+        "library_file_id": "libfile_ee0d6f81377c81918a2939dc276641f3",
+        "file_name": "魔关羽10版-编号总览.jpg",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/jpeg",
+        "library_artifact_type": "image",
+        "file_size_bytes": 847235,
+        "external_connectors_accessed": false
+      }
+    ],
+    "warnings": [],
+    "external_connectors_accessed": false
+  },
+  "isError": false
+}
