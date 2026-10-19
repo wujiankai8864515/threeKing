@@ -1,0 +1,44 @@
+{
+  "recorded_at": "2026-10-19T23:12:39.951243+08:00",
+  "previous_status": "2026-10-19_22-31-42_32-complete-card-delivery-receipts/status-overrides.json",
+  "current_summary": "用户选定本轮魔5重组的02锁城黑龙作为基础/插画方向，非旧20里的02。曾提出拼入03倒影脸与胡须，随后立即撤回，按原02保留，不重画不拼脸。此选择不代表所有UI和技能逐项批准；神5、六机甲20与两框仍待选。原图成卡SHA与Library映射已核对，所有历史保留。",
+  "selection": {
+    "recorded_at": "2026-10-19T23:12:39.951243+08:00",
+    "user_confirmation_message_id": "Sentinel_2dd1983b6c948191b6fc9bc25c136eaa",
+    "user_confirmation_at": "2026-10-19T15:11:55.769187Z",
+    "selected_set": "maicheng-fusion5_20261019_221110_UTC+08",
+    "selected_id": "02",
+    "selected_title": "锁城黑龙",
+    "selection_scope": "base_illustration_direction_selected_only",
+    "selected_source": {
+      "original_path": "guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/02-锁城黑龙-source.png",
+      "original_name": "02-锁城黑龙-source.png",
+      "repository_path": "2026-10-19_22-23-19_maicheng-fusion-five-complete-cards-ready/assets/sha256/8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd.png",
+      "sha256": "8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd",
+      "original_sha256": "8491020304425228c6912e8235446116c284f4c87f645f6980a7311982a9eddd",
+      "bytes": 3006580,
+      "archived_at": "2026-10-19T22:23:19.841173+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    "selected_complete_card": {
+      "original_path": "guanyu-advanced/maicheng-fusion5_20261019_221110_UTC+08/card-02/guanyu-demon-fusion-02-5star.png",
+      "original_name": "guanyu-demon-fusion-02-5star.png",
+      "repository_path": "2026-10-19_22-23-19_maicheng-fusion-five-complete-cards-ready/assets/sha256/761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d.png",
+      "sha256": "761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d",
+      "original_sha256": "761116a19eacc1dd84f120014981eb73a7acc43b8825cd104f4fbeb3029eb29d",
+      "bytes": 4022416,
+      "archived_at": "2026-10-19T22:23:19.841173+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    "library_file_id": "libfile_8f4b5a569210819189f77af604436311",
+    "ui_and_skills_individually_approved": false,
+    "face_beard_composite_from03": "idea_withdrawn_do_not_execute",
+    "new_generation_authorized": false,
+    "other_sets": "divine5_mecha20_enhanced_frames2_pending_selection"
+  },
+  "effective_source_map": "2026-10-19_23-12-39_selected-demon-fusion02-direction/effective-source-map.json"
+}
