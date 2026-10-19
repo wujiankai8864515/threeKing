@@ -1,0 +1,22 @@
+{
+  "status-overrides.json": "e91d159b660a784fdc76d768d6602acb40321dc12516b7ce0a9bf0a61e17ac3f",
+  "effective-source-map.json": "27bfbb6f3b85a69e1dc729e079fe671c8318ff225577f276536a14cce4ff0d3f",
+  "asset-index.json": "bcdb1821ea512f2963dba46021c6b18305cbed572282d8cfa110a4e53c3724ac",
+  "scope-feedback.json": "241da6e51b3ca869e0b6ab32919a2d81c9c52e14fd6ed6e3afe40e7897a6e2d0",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "delivery-receipt.json": "46d3d018e8e8c0ccb696cf70a614346015dd936b6fe2cc8fce0358c45c396374",
+  "production-progress.json": "25c8cde16b8c314715adce0902fdc57705720540a5c068fcb4f0edd1cab82ccd",
+  "current-guanyu-five-star-candidates.json": "cc1c6ec497c676f0c35deab00d16b9311fe8cb721ecb65d9a6022b2160a1d186",
+  "README.md": "d3aebab2637dc86cec3ef9d30cd3bea2c8179eec90e5aa249b8912a8d251bbb4",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/generation-args.json": "a3f39ca826c1c5f78e8ac4d0a81324b14ef778afba35b91404c9f3b3fd213f45",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/config.json": "eedaa3ca42e493fdb8b8ccf223231424693f93402701b0c1b267abe99aa5ee8a",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/决策与验收.md": "12095380d02331943f3a00c3dff8b2232a8471e2a5951e3585398e11bd725233",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/library-receipt.json": "3f533f8989fd448e3249394b422a48a2d3895171bbc94e3647d28e7bced93f84",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/sha256.json": "9558c86e97e6cdaf41684b77dee19b2bb2eb2ff8109fcde06debe529a33bd6bb",
+  "source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star.json": "27ed0cf0dd918e6772163772a7d23dfbfa0e23f22012df4b18dd3497502bb28b",
+  "assets/sha256/2fe40e02a9fcc221e37c0a860776e7b9d748de2bad34f5db9ebac7a15f5e3ae9.png": "2fe40e02a9fcc221e37c0a860776e7b9d748de2bad34f5db9ebac7a15f5e3ae9",
+  "assets/sha256/b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a.png": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+  "assets/sha256/c7e98b66925f0e1def032b9cc7cf50dc546e204000dc025871e3aff23565923e.png": "c7e98b66925f0e1def032b9cc7cf50dc546e204000dc025871e3aff23565923e",
+  "assets/sha256/0359745f5c410f0fd446c19e385c77a10a1c13bc744a951238512491e049ab9b.png": "0359745f5c410f0fd446c19e385c77a10a1c13bc744a951238512491e049ab9b",
+  "prior-remote-verification.json": "f9958f1e5991e2b797b68980e626ef34993954b0dd43352b9fb6913cd5f2aa6e"
+}

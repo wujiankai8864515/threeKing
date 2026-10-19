@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-19T19:38:17.287179+08:00",
+  "previous_status": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/status-overrides.json",
+  "current_summary": "关羽本轮五星四分支卡面全部已交候选待审。新传承坐镇军中挥手，水龙洪涛翻曹军，沿用精工共用UI；神供奉辅助、魔人形火马黑龙极杀伐、机甲防反。六星和配套素材暂停；一至四星认可稿冻结。此前否决历史保留，不将本轮候选标为已批准。",
+  "effective_source_map": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/effective-source-map.json",
+  "delivery": {
+    "batches": [
+      {
+        "message_id": "Sentinel_e09fbf466d5881918f1ccd9bb360d4dc",
+        "sent_at": "2026-10-19T11:37:23Z",
+        "scope": "Traditional water-command Guan Yu candidate; all four current five-star branch cards now sent",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "service_acceptance_is_not_user_final_approval": true
+  },
+  "other_37": "paused_rejected_historical_only"
+}

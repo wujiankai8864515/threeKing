@@ -1,0 +1,137 @@
+{
+  "archived_at": "2026-10-19T19:38:17.287179+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/generation-args.json",
+      "original_name": "generation-args.json",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/generation-args.json",
+      "sha256": "a3f39ca826c1c5f78e8ac4d0a81324b14ef778afba35b91404c9f3b3fd213f45",
+      "original_sha256": "a3f39ca826c1c5f78e8ac4d0a81324b14ef778afba35b91404c9f3b3fd213f45",
+      "bytes": 3435,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/config.json",
+      "original_name": "config.json",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/config.json",
+      "sha256": "eedaa3ca42e493fdb8b8ccf223231424693f93402701b0c1b267abe99aa5ee8a",
+      "original_sha256": "eedaa3ca42e493fdb8b8ccf223231424693f93402701b0c1b267abe99aa5ee8a",
+      "bytes": 676,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/决策与验收.md",
+      "original_name": "决策与验收.md",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/决策与验收.md",
+      "sha256": "12095380d02331943f3a00c3dff8b2232a8471e2a5951e3585398e11bd725233",
+      "original_sha256": "12095380d02331943f3a00c3dff8b2232a8471e2a5951e3585398e11bd725233",
+      "bytes": 2399,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+      "original_name": "heritage5-water-command-art.png",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a.png",
+      "sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "original_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "bytes": 3424387,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/library-receipt.json",
+      "original_name": "library-receipt.json",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/library-receipt.json",
+      "sha256": "3f533f8989fd448e3249394b422a48a2d3895171bbc94e3647d28e7bced93f84",
+      "original_sha256": "3f533f8989fd448e3249394b422a48a2d3895171bbc94e3647d28e7bced93f84",
+      "bytes": 1028,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/sha256.json",
+      "original_name": "sha256.json",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/sha256.json",
+      "sha256": "9558c86e97e6cdaf41684b77dee19b2bb2eb2ff8109fcde06debe529a33bd6bb",
+      "original_sha256": "9558c86e97e6cdaf41684b77dee19b2bb2eb2ff8109fcde06debe529a33bd6bb",
+      "bytes": 988,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star.png",
+      "original_name": "guanyu-heritage-water-command-5star.png",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/2fe40e02a9fcc221e37c0a860776e7b9d748de2bad34f5db9ebac7a15f5e3ae9.png",
+      "sha256": "2fe40e02a9fcc221e37c0a860776e7b9d748de2bad34f5db9ebac7a15f5e3ae9",
+      "original_sha256": "2fe40e02a9fcc221e37c0a860776e7b9d748de2bad34f5db9ebac7a15f5e3ae9",
+      "bytes": 4227736,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star-preview.png",
+      "original_name": "guanyu-heritage-water-command-5star-preview.png",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/0359745f5c410f0fd446c19e385c77a10a1c13bc744a951238512491e049ab9b.png",
+      "sha256": "0359745f5c410f0fd446c19e385c77a10a1c13bc744a951238512491e049ab9b",
+      "original_sha256": "0359745f5c410f0fd446c19e385c77a10a1c13bc744a951238512491e049ab9b",
+      "bytes": 578419,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star.json",
+      "original_name": "guanyu-heritage-water-command-5star.json",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/source/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star.json",
+      "sha256": "27ed0cf0dd918e6772163772a7d23dfbfa0e23f22012df4b18dd3497502bb28b",
+      "original_sha256": "27ed0cf0dd918e6772163772a7d23dfbfa0e23f22012df4b18dd3497502bb28b",
+      "bytes": 2925,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card/guanyu-heritage-water-command-5star-dynamic-ui.png",
+      "original_name": "guanyu-heritage-water-command-5star-dynamic-ui.png",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/c7e98b66925f0e1def032b9cc7cf50dc546e204000dc025871e3aff23565923e.png",
+      "sha256": "c7e98b66925f0e1def032b9cc7cf50dc546e204000dc025871e3aff23565923e",
+      "original_sha256": "c7e98b66925f0e1def032b9cc7cf50dc546e204000dc025871e3aff23565923e",
+      "bytes": 91633,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "generated_images/exec-c7813bad-2aa6-4ff8-b574-030d83b8206f.png",
+      "original_name": "exec-c7813bad-2aa6-4ff8-b574-030d83b8206f.png",
+      "repository_path": "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water/assets/sha256/b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a.png",
+      "sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "original_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "bytes": 3424387,
+      "archived_at": "2026-10-19T19:38:17.287179+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "hero": "guanyu",
+  "name": "传承·关羽",
+  "branch": "天",
+  "branch_id": "heritage-water-command",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/final-card",
+  "skills": [
+    {
+      "name": "蓄势",
+      "level": 1
+    },
+    {
+      "name": "武勇",
+      "level": 1
+    },
+    {
+      "name": "断流",
+      "level": 1
+    }
+  ],
+  "troop_class": "长枪兵",
+  "advancement_placeholder": true,
+  "skill_values_status": "draft_not_balanced"
+}
