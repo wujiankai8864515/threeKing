@@ -196,7 +196,8 @@
     "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map",
     "2026-10-19_15-02-57_advanced-final-downloads-and-receipts",
     "2026-10-19_15-04-44_scoped-skill-backup-verified",
-    "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate"
+    "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate",
+    "2026-10-19_18-46-57_scoped-skill-backup-verified"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -205,7 +206,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "9a8dc1da2b4472bcb3a6b31dcac0c8d97e461c91",
+  "remote_verified_commit": "317542000f627fe2dd85c4b93f571526ae3f12db",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -213,7 +214,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_15-04-44_scoped-skill-backup-verified/verification.json",
+  "remote_verification_receipt": "2026-10-19_18-46-57_scoped-skill-backup-verified/verification.json",
   "effective_source_map": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/effective-source-map.json",
   "production_progress": "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
