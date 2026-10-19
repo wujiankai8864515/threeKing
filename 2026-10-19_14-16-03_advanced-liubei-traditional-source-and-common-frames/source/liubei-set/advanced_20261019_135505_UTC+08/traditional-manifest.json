@@ -1,0 +1,114 @@
+[
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-biography.png",
+    "sha256": "96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "status": "candidate"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-card.png",
+    "sha256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "status": "candidate"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-cutin.png",
+    "sha256": "8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.18788528442382812,
+    "alpha_nonopaque_fraction": 1.0
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-portrait.png",
+    "sha256": "3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.36809609568360513,
+    "alpha_nonopaque_fraction": 0.999907791081299
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-vfx.png",
+    "sha256": "afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.22925249735514322,
+    "alpha_nonopaque_fraction": 1.0
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-biography.png",
+    "sha256": "f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "status": "candidate"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+    "sha256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "status": "candidate"
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-cutin.png",
+    "sha256": "936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.1392536163330078,
+    "alpha_nonopaque_fraction": 1.0
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-portrait.png",
+    "sha256": "7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.2883957937470906,
+    "alpha_nonopaque_fraction": 0.9998600968130054
+  },
+  {
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-vfx.png",
+    "sha256": "cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "status": "candidate",
+    "alpha_zero_fraction": 0.18959871927897134,
+    "alpha_nonopaque_fraction": 1.0
+  }
+]

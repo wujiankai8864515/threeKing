@@ -1,0 +1,92 @@
+{
+  "traditional5": [
+    {
+      "b": "traditional",
+      "t": 5,
+      "kind": "biography",
+      "prompt": "Use case: stylized-concept. NEW landscape 1536x1024 asset for FIVE STAR traditional Liu Bei. Reference for exact recognizable face, ornate emerald-white king clothing, shoulder armor, dignified short pointed black beard. Crisp clean stylized mythic Three Kingdoms illustration, high detail main subject, not photographic. Hanzhong victory leads to kingship: Liu Bei stands prominently on an earthen proclamation platform with generals diminished in background, river and Shu mountains, receiving a king seal. Liu Bei largest central protagonist, king seal exchange obvious, huge majestic gold yellow guardian dragon appears from clouds. Background supporting characters smaller softer. No words no frame no UI."
+    },
+    {
+      "b": "traditional",
+      "t": 5,
+      "kind": "portrait",
+      "prompt": "Use case: stylized-concept. NEW square 1024x1024 asset for FIVE STAR traditional Liu Bei. Reference for exact recognizable face, ornate emerald-white king clothing, shoulder armor, dignified short pointed black beard. Crisp clean stylized mythic Three Kingdoms illustration, high detail main subject, not photographic. Clean head and upper chest portrait, composed compassionate determined gaze, full crown and shoulders contained, NO dragon, NO scenic background, no frame, no letters. True transparent background, smooth alpha silhouette, high-readability face."
+    },
+    {
+      "b": "traditional",
+      "t": 5,
+      "kind": "cutin",
+      "prompt": "Use case: stylized-concept. NEW landscape 1536x1024 asset for FIVE STAR traditional Liu Bei. Reference for exact recognizable face, ornate emerald-white king clothing, shoulder armor, dignified short pointed black beard. Crisp clean stylized mythic Three Kingdoms illustration, high detail main subject, not photographic. Explosive ACTIVE SKILL cut-in: Liu Bei lunges into forward commanding stance and sweeps TWO straight rigid double-edged swords outward to release a broad golden dragon protective healing wave. Clearly dynamic unfurled robe, physically plausible elbows/grips, primary face sharp. Include large majestic golden dragon head above trailing into energy, no snake loops. Hero dominates, whole figure and swords contained with margin. True transparent background, NO ground no landscape no opaque gradient. Skill is team buff and healing, not execution attack. No text."
+    },
+    {
+      "b": "traditional",
+      "t": 5,
+      "kind": "vfx",
+      "prompt": "Use case: stylized-concept. NEW landscape 1536x1024 asset for FIVE STAR traditional Liu Bei. Reference for exact recognizable face, ornate emerald-white king clothing, shoulder armor, dignified short pointed black beard. Crisp clean stylized mythic Three Kingdoms illustration, high detail main subject, not photographic. Standalone ACTIVE SKILL EFFECT overlay ONLY, NO human no letters no UI. A broad GOLDEN CHINESE DRAGON head with powerful horns above a green-gold protective healing semicircle and three subtle upward healing ribbons. Clean coherent energy ribbons not random spark confetti, no ground no scenic background, true transparent background. Five-star medium-power coherent effect, leave room for six-star upgrade."
+    }
+  ],
+  "traditional6": [
+    {
+      "b": "traditional",
+      "t": 6,
+      "kind": "biography",
+      "prompt": "Create NEW landscape 1536x1024 biography for SIX STAR traditional Liu Bei. Reference exact recognizable face, green-white imperial regalia, ornate dragon shoulder armor, short pointed black beard and jade crown. Preserve identity but use a new composition. Sharp clean cel-painted mythic fantasy, no photorealism, no oilgrain or goldpowder or randomdots. An original mythic interpretation of chapter 80 founding Shu-Han: standing Liu Bei solemnly raises the imperial seal before an earthly Chengdu palace, officials bow below, a giant golden dragon wakes overhead, no Guan Yu or Zhang Fei falsely present as living at ceremony. Liu Bei dominant main focus, grounded large palace terrace. Full scene natural depth, subdued background. No card frame or text."
+    },
+    {
+      "b": "traditional",
+      "t": 6,
+      "kind": "portrait",
+      "prompt": "Create NEW square 1024x1024 portrait for SIX STAR traditional Liu Bei. Reference exact recognizable face, green-white imperial regalia, ornate dragon shoulder armor, short pointed black beard and jade crown. Preserve identity but use a new composition. Sharp clean cel-painted mythic fantasy, no photorealism, no oilgrain or goldpowder or randomdots. Head-and-upperchest avatar, full ornate crown and layered shoulders contained, human face very sharp, calm magnificent emperor presence. No scene no dragon no lettering, genuine transparent background. No card frame or text."
+    },
+    {
+      "b": "traditional",
+      "t": 6,
+      "kind": "cutin",
+      "prompt": "Create NEW landscape 1536x1024 cutin for SIX STAR traditional Liu Bei. Reference exact recognizable face, green-white imperial regalia, ornate dragon shoulder armor, short pointed black beard and jade crown. Preserve identity but use a new composition. Sharp clean cel-painted mythic fantasy, no photorealism, no oilgrain or goldpowder or randomdots. Explosive heroic full-body skill cut-in: powerful twisting stance, both rigid straight swords thrown apart in a wide commanding double sweep, huge gold dragon head above and sweeping green-gold sanctuary wave bursts behind his flying robes. Blade axes continuous, genuine weapon grips. SIX star spectacle much greater than five; skill gives allies healing/protection. Whole figure swords contained, no stage no scenic background, genuine transparent background. No card frame or text."
+    },
+    {
+      "b": "traditional",
+      "t": 6,
+      "kind": "vfx",
+      "prompt": "Create NEW landscape 1536x1024 vfx for SIX STAR traditional Liu Bei. Reference exact recognizable face, green-white imperial regalia, ornate dragon shoulder armor, short pointed black beard and jade crown. Preserve identity but use a new composition. Sharp clean cel-painted mythic fantasy, no photorealism, no oilgrain or goldpowder or randomdots. Standalone skill VFX without human or scenery: enormous majestic FIVE-CLAW GOLD DRAGON head and upper chest forming a protective arch over THREE nested emerald-gold healing shield waves. Rich shaped coherent light ribbons, powerful broad antlered Chinese dragon not snake, no glitter or small particles. Genuine transparent background. No card frame or text."
+    }
+  ],
+  "cards": [
+    {
+      "b": "traditional",
+      "t": 6,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 章武帝业, more magnificent emerald-white emperor battle regalia, towering winglike ceremonial shoulders and imperial jade crown, two long straight swords, huge five-clawed golden dragon sheltering army. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Low-angle standing powerful front-threequarter imperial leader lifting straight sword, immense golden dragon head behind. Earthly Shu palace terrace, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "divine",
+      "t": 5,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 昭烈仁祠, original deified Liu Bei inspired by memorial reverence, flowing white-jade and emerald sacred robes, subtle temple-architecture crown, gold yellow guardian dragon and broad protective halos, open gentle palms, no aggressive warrior imitation. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Standing serenely with one open palm extending protective light. Earthly memorial courtyard, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "divine",
+      "t": 6,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 万民昭烈, far grander benevolent celestial sovereign in emerald-white structured sacred robes, floating jade seal, huge layered protective lotuslike golden dragon sanctuary arcs, powerful humane not monstrous. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Standing serenely with one open palm extending protective light. Earthly memorial courtyard, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "demonic",
+      "t": 5,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 白帝遗恨, original tragic dark Liu Bei after defeat and death, recognizable benevolent face now grieving and resolute, cracked emerald black armor and ragged white cloak with muted crimson underside, dark gold skeletal-wingless dragon soul shielding spectral comrades, no gore no skull-faced hero. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Three-quarter forward stance, one rigid straight double-edged sword lowered, other raised defensively. Earthly ruined Baidi stone terrace, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "demonic",
+      "t": 6,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 烬汉幽皇, grander tragic revenge emperor, obsidian emerald imperial armor jagged but refined silhouette, crimson inner cloak, luminous pale-gold woundless spirit seams, enormous fierce dark-gold ghost dragon guards phantom army, distinct from Guan Yu berserker. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Three-quarter forward stance, one rigid straight double-edged sword lowered, other raised defensively. Earthly ruined Baidi stone terrace, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "mecha",
+      "t": 5,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 龙枢统御, technology civilization reconstructs Liu Bei consciousness in emerald-white medical command exoskeleton, human face visible, short black beard, angular jade-gold chest core, articulated segmented gold dragon drone, twin rigid plasma swords and deployable shield projectors. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Leaning forward commanding drones with open left palm, right arm carries rigid straight energy sword. Earthly battlefield command platform, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    },
+    {
+      "b": "mecha",
+      "t": 6,
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 天汉龙枢, vastly grander sovereign command mecha, human Liu Bei face exposed in tall armored collar, emerald-white heavy floating medical command wings, gold dragon reactor and large segmented dragon escort drones, twin rigid energy swords, layered tactical protection field. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Leaning forward commanding drones with open left palm, right arm carries rigid straight energy sword. Earthly battlefield command platform, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels."
+    }
+  ],
+  "initial": "Use case: stylized-concept. Create a NEW portrait 2:3 high-detail game card illustration WITHOUT frame, stars, text or UI. Input is identity/style reference only: Liu Bei recognizable face, sharp eyebrows, neatly split moustache and short pointed beard, green-white garment lineage. Five-star TRADITIONAL Liu Bei, Han-Zhong king at height of military kingship, NOT a deity. Original mythic Romance of Three Kingdoms adaptation. Full powerful figure dominates central 70%, standing on a real Han palace terrace above receding Shu banners, one straight double-edged sword held diagonally lowered in right hand and the other sheathed at his hip. Ornate emerald robe with white collar, deep layered gold edged lamellar shoulder armor, dignified commander crown, mature confident compassionate expression. A majestic broad-headed GOLDEN yellow Chinese dragon shelters ranks in the sky, head visible, body mostly hidden by distant clouds. Crisp clean cel-painted fantasy illustration matching reference, elegant broad shapes not photoreal oil paint. Bright face, real metal edge highlights only, NO glitter, no tiny golden dust, no mottled skin. Natural depth muted background. Hands anatomically clear, sword rigid continuous straight blade. Keep subject head and hands away from outer 10% edges, lower right restrained background for future UI. Not sitting throne pose from reference; no frame or text."
+}

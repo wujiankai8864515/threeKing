@@ -1,0 +1,30 @@
+[
+  {
+    "tier": 5,
+    "path": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/frame-5star.png",
+    "library_file_id": "libfile_1d9843b4ab208191be43f550353f4154",
+    "sha256": "7cb04ea527731223bd3313bf763b39b38a0cfda74585815accc57352b4146bfe",
+    "mode": "RGBA",
+    "size": [
+      1190,
+      1786
+    ],
+    "alpha_zero_pixels": 1505729,
+    "center_alpha": 0,
+    "stars": 5
+  },
+  {
+    "tier": 6,
+    "path": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/frame-6star.png",
+    "library_file_id": "libfile_72f599bc80f081919ffccd399187c1a6",
+    "sha256": "6363a0db338f616b85d6ec63a0071c22d492fddd11fd975f3e506c133dacf667",
+    "mode": "RGBA",
+    "size": [
+      1190,
+      1786
+    ],
+    "alpha_zero_pixels": 1486702,
+    "center_alpha": 0,
+    "stars": 6
+  }
+]

@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/asset-index.json",
+  "asset_index": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "刘关张四阶共24张透明技能CG与头像计划；刘关张四阶透明24张候选全部已交付，尚未经用户验收。其余37名英雄暂停，拒用候选留历史。",
-  "latest_delta": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates",
-  "current_status": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/status-overrides.json",
+  "note": "刘关张高阶四分支五星六星制作，计划120源图及24装框。首批刘备传承10源候选与公共框已归档，未交付用户，装框修手及Library上传进行中。",
+  "latest_delta": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames",
+  "current_status": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -76,7 +76,8 @@
     "2026-10-19_09-34-24_guanyu-transparent-and-three-hero-skill-scope",
     "2026-10-19_09-42-35_guanyu-higher-tier-skill-avatar-candidates",
     "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates",
-    "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates"
+    "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates",
+    "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -169,7 +170,8 @@
     "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates",
     "2026-10-19_09-46-15_scoped-skill-backup-verified",
     "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates",
-    "2026-10-19_09-53-08_scoped-skill-backup-verified"
+    "2026-10-19_09-53-08_scoped-skill-backup-verified",
+    "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -187,8 +189,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-19_09-53-08_scoped-skill-backup-verified/verification.json",
-  "effective_source_map": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/production-progress.json",
+  "effective_source_map": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/effective-source-map.json",
+  "production_progress": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/source/liubei-set/skill-avatar_20261019_093145_UTC+08/DELIVERY_RECEIPT.json"

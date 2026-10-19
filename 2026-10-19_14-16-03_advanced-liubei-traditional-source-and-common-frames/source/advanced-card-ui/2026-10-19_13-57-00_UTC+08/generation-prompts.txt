@@ -1,0 +1,7 @@
+Reference: guanyu-mythic-set/ui-tail-approved_2026-10-18_21-07-54_UTC+08/gold-empty-generated-1024.png
+Builtin image_gen transparent_background=true.
+Create high-end Chinese mythical Three Kingdoms RPG collectible card FRAME ONLY no character no text. Reference overall structural heritage.
+Five: icy-clear brilliantly cut diamond crystal inlaid platinum, pearlescent facets, intricate silver relief. Exactly five separate beveled five-point stars.
+Six: deep saturated purple crystalline main structure, thick heavy beautifully engraved gilded gold bevels, layered amethyst facets, more lavish than diamond. Exactly six separate beveled five-point stars.
+Tall2:3 front orthographic. Background and center transparent. Fine metal only on rails no particle glitter. Top-left circular blank faction, top long title, top-right diamond level badge, bottom-left advancement circle, bottom-right troop circle. Three short compact horizontal blank passive plates straight connected right rail no seam/no hook. No writing.
+Outputs generated_images/exec-3dece649-271a-4d3b-8874-a32c6cacff48.png and exec-a34806ed-2c0f-4bb7-8832-02624a89f1ff.png.

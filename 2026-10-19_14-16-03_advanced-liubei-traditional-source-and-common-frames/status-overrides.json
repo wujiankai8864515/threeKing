@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-19T14:16:03.249697+08:00",
+  "previous_status": "2026-10-19_09-51-21_liubei-four-tier-skill-avatar-v2-candidates/status-overrides.json",
+  "current_summary": "刘关张高阶四分支五星六星制作，计划120源图及24装框。首批刘备传承10源候选与公共框已归档，未交付用户，装框修手及Library上传进行中。",
+  "scope": "hero-production-spec/advanced_three_hero_scope_2026-10-19_13-57-41_UTC+08",
+  "current_batch": "liubei-set/advanced_20261019_135505_UTC+08/traditional-manifest.json",
+  "common_frames": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/frame-manifest.json",
+  "effective_source_map": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/effective-source-map.json",
+  "other_37": "paused_rejected_historical_only",
+  "previous_24_transparent_images": "delivered_candidates_not_user_approved",
+  "source_preservation": "All existing approved and historical files retained unchanged; card-hand-blocked first version retained as history."
+}
