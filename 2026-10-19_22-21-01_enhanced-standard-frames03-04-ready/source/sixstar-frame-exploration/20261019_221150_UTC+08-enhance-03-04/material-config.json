@@ -1,0 +1,20 @@
+[
+  {
+    "id": "03",
+    "name": "象牙金釉·御铸",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/03-象牙金釉·御铸/frame-6star.png",
+    "alpha_identical": true,
+    "generated_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-c1a7a401-79c3-4017-ac37-bf0b90d0528b.png",
+    "material_method": "imagegen referenced-frame material/relief enhancement, normalized to exact original alpha",
+    "normalization": "resize generated texture to1190x1786; original frame alpha exact; nearest visible texture fill only where generated alpha differs"
+  },
+  {
+    "id": "04",
+    "name": "赤铜鎏银·天锻",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/04-赤铜鎏银·天锻/frame-6star.png",
+    "alpha_identical": true,
+    "generated_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f0f5d553-d1a0-47d7-95cb-bc2b54e51845.png",
+    "material_method": "imagegen referenced-frame material/relief enhancement, normalized to exact original alpha",
+    "normalization": "resize generated texture to1190x1786; original frame alpha exact; nearest visible texture fill only where generated alpha differs"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "original_path": "sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/03-象牙金釉·御铸/guanyu-03-6star.png",
+      "original_name": "guanyu-03-6star.png",
+      "repository_path": "2026-10-19_22-21-01_enhanced-standard-frames03-04-ready/assets/sha256/4f7b89175b6829bb66331678c416a1e4da300950f8bdf3b8b2705bcccb1b0ac7.png",
+      "sha256": "4f7b89175b6829bb66331678c416a1e4da300950f8bdf3b8b2705bcccb1b0ac7",
+      "original_sha256": "4f7b89175b6829bb66331678c416a1e4da300950f8bdf3b8b2705bcccb1b0ac7",
+      "bytes": 3866549,
+      "archived_at": "2026-10-19T22:21:01.327582+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "branch_id": "03"
+    },
+    {
+      "original_path": "sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/04-赤铜鎏银·天锻/guanyu-04-6star.png",
+      "original_name": "guanyu-04-6star.png",
+      "repository_path": "2026-10-19_22-21-01_enhanced-standard-frames03-04-ready/assets/sha256/314c1ef6d638258364b662166d8b7d2f44532bc1908fcbd96366b30e67bd00e9.png",
+      "sha256": "314c1ef6d638258364b662166d8b7d2f44532bc1908fcbd96366b30e67bd00e9",
+      "original_sha256": "314c1ef6d638258364b662166d8b7d2f44532bc1908fcbd96366b30e67bd00e9",
+      "bytes": 3873975,
+      "archived_at": "2026-10-19T22:21:01.327582+08:00",
+      "source_bytes_preserved": true,
+      "status": "ready_not_delivered_not_approved",
+      "supersedes": [],
+      "branch_id": "04"
+    }
+  ],
+  "manifest_original_path": "sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/manifest.json",
+  "library_receipts_original_path": "sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04/library-receipts.json",
+  "chat_delivered": false,
+  "user_final_accepted": false,
+  "historical_only": [
+    "procedural-rejected",
+    "materials-procedural-history.py",
+    "00-六星标准布局五材质总览.png"
+  ]
+}
