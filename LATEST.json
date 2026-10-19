@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/asset-index.json",
+  "asset_index": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "最新两张已交候选待审：机甲插画冻结仅修UI；魔卡改为地狱骨骼火焰半身三头六臂、骨马与刀龙。实看用户原金卡后重做书法天与可读枪头；右上分支·关羽，左下天占位，右下枪头无字，内部兵种长枪兵。此前两次UI与魔造型被否决版本全部保留历史，不作已批准稿。",
-  "latest_delta": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates",
-  "current_status": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/status-overrides.json",
+  "note": "神、魔、机甲三张新候选已交待审。神为金光供奉辅助；魔取消所有阿修罗骷髅，改正常人形白发破甲狂怒关羽骑纯火马，邪恶黑龙，刀托白衣吕蒙完整身体以非血腥方式表达，小麦城；机甲插画冻结，更新精工UI与防守反击技能草案。所有此前被否决造型与UI保留历史。传承坐镇水龙另在制作，未纳入本次完成数量。",
+  "latest_delta": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates",
+  "current_status": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -91,7 +91,8 @@
     "2026-10-19_15-02-57_advanced-final-downloads-and-receipts",
     "2026-10-19_18-45-07_guanyu-five-star-piloted-dragon-candidate",
     "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision",
-    "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates"
+    "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates",
+    "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -203,7 +204,8 @@
     "2026-10-19_19-13-31_guanyu-mecha-demon-shared-ui-revision",
     "2026-10-19_19-15-30_scoped-skill-backup-verified",
     "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates",
-    "2026-10-19_19-24-41_scoped-skill-backup-verified"
+    "2026-10-19_19-24-41_scoped-skill-backup-verified",
+    "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -221,13 +223,13 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-19_19-24-41_scoped-skill-backup-verified/verification.json",
-  "effective_source_map": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/effective-source-map.json",
-  "production_progress": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/production-progress.json",
+  "effective_source_map": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/effective-source-map.json",
+  "production_progress": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",
-  "current_guanyu_five_star": "2026-10-19_19-22-48_guanyu-calligraphy-and-hell-asura-candidates/current-guanyu-five-star-candidates.json"
+  "current_guanyu_five_star": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/current-guanyu-five-star-candidates.json"
 }

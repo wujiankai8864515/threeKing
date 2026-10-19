@@ -1,0 +1,22 @@
+{
+  "status": "candidate_names_and_mechanics_not_balanced",
+  "user_direction": "团队buff、辅助、护佑，体现义薄云天；不强制残血收割",
+  "active": {
+    "name": "义薄云天",
+    "effect": "为己方全队提供持续一段时间的护佑增益，提升存续能力。具体倍率与持续时间待战斗系统平衡。"
+  },
+  "passives": [
+    {
+      "name": "义护",
+      "effect": "提升全队防御。"
+    },
+    {
+      "name": "同心",
+      "effect": "提升全队武力。"
+    },
+    {
+      "name": "佑众",
+      "effect": "提升全队受到的治疗效果。"
+    }
+  ]
+}

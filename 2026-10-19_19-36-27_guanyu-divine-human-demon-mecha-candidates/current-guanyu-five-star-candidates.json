@@ -1,0 +1,52 @@
+{
+  "recorded_at": "2026-10-19T19:36:27.804660+08:00",
+  "assets": [
+    {
+      "original_path": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/final-card/guanyu-divine-devotion-5star.png",
+      "original_name": "guanyu-divine-devotion-5star.png",
+      "repository_path": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/assets/sha256/11e5f37f7555d5593fb8c891261ffef25c7b99b431bc9850539bc295dd0fafc2.png",
+      "sha256": "11e5f37f7555d5593fb8c891261ffef25c7b99b431bc9850539bc295dd0fafc2",
+      "original_sha256": "11e5f37f7555d5593fb8c891261ffef25c7b99b431bc9850539bc295dd0fafc2",
+      "bytes": 3948785,
+      "archived_at": "2026-10-19T19:36:27.804660+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "divine",
+      "tier": 5,
+      "library_file_id": "libfile_88050f3be1748191a54ab1d079bb7272"
+    },
+    {
+      "original_path": "guanyu-advanced/demon-asura_20261019_185502_UTC+08/revision_20261019_192623_UTC+08/cards/guanyu-maicheng-revenge-5star.png",
+      "original_name": "guanyu-maicheng-revenge-5star.png",
+      "repository_path": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/assets/sha256/df6e76a87aab047b2da582532cfecfb58147af545acfab3a60e0d761b19d40f4.png",
+      "sha256": "df6e76a87aab047b2da582532cfecfb58147af545acfab3a60e0d761b19d40f4",
+      "original_sha256": "df6e76a87aab047b2da582532cfecfb58147af545acfab3a60e0d761b19d40f4",
+      "bytes": 3648417,
+      "archived_at": "2026-10-19T19:36:27.804660+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "demon",
+      "tier": 5,
+      "library_file_id": "libfile_6a73851820dc81919df66e230a1f4420"
+    },
+    {
+      "original_path": "guanyu-advanced/ui-metal-assets_20261019_192445_UTC+08/mecha/guanyu-piloted-dragon-mecha-5star.png",
+      "original_name": "guanyu-piloted-dragon-mecha-5star.png",
+      "repository_path": "2026-10-19_19-36-27_guanyu-divine-human-demon-mecha-candidates/assets/sha256/899817d50b24af194358a9e6ad816488ac8be441de2b2d5265ed98e0de42962d.png",
+      "sha256": "899817d50b24af194358a9e6ad816488ac8be441de2b2d5265ed98e0de42962d",
+      "original_sha256": "899817d50b24af194358a9e6ad816488ac8be441de2b2d5265ed98e0de42962d",
+      "bytes": 4236455,
+      "archived_at": "2026-10-19T19:36:27.804660+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_pending_user_review",
+      "supersedes": [],
+      "branch": "mecha",
+      "tier": 5,
+      "library_file_id": "libfile_64900f9189c88191a8284824741aef36"
+    }
+  ],
+  "mecha_direction_user_accepted": true,
+  "all_outputs_final_approved": false
+}
