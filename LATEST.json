@@ -165,7 +165,8 @@
     "2026-10-19_09-36-09_scoped-skill-backup-verified",
     "2026-10-19_09-42-35_guanyu-higher-tier-skill-avatar-candidates",
     "2026-10-19_09-44-01_scoped-skill-backup-verified",
-    "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates"
+    "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates",
+    "2026-10-19_09-46-15_scoped-skill-backup-verified"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -174,7 +175,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "8511879505e26e030cbee37c4b1620cd80f3ce31",
+  "remote_verified_commit": "80aa83b216bf76ca16d6fbdbd2aff8a5ae1565e9",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -182,7 +183,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_09-44-01_scoped-skill-backup-verified/verification.json",
+  "remote_verification_receipt": "2026-10-19_09-46-15_scoped-skill-backup-verified/verification.json",
   "effective_source_map": "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates/effective-source-map.json",
   "production_progress": "2026-10-19_09-45-04_zhangfei-four-tier-skill-avatar-candidates/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
