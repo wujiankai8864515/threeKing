@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-19T23:20:27.706447+08:00",
+  "user_time_UTC": "2026-10-19T15:19:00Z",
+  "time_precision": "minute_as_relayed",
+  "selected_frame_set": "sixstar-frame-exploration/20261019_221150_UTC+08-enhance-03-04",
+  "selected_id": "03",
+  "selected_name": "象牙金釉·御铸",
+  "selected_illustration": "mecha20_08_空域护城",
+  "illustration_and_frame_locked": true,
+  "new_skill_names": "one_set_authorized_directly_without_pre_review",
+  "edit_scope": "names_UI_config_only",
+  "mechanic": "defense_counterattack_unchanged",
+  "production_status": "in_production_not_delivered"
+}
