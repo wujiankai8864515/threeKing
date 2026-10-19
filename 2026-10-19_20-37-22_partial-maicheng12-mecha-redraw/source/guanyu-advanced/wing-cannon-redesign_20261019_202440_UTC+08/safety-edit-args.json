@@ -1,0 +1,11 @@
+{
+  "tool": "image_gen.imagegen",
+  "arguments": {
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-巨翼盾炮重制-原图.png"
+    ],
+    "transparent_background": false,
+    "prompt": "Precise object edit of this exact 1024x1536 illustration. Preserve ALL existing design, Guan Yu mechanical face/crown/black beard, chest cockpit and pilot, huge mechanical wings, shield, armor body pose, legs, small cities, colors, scale and camera. Only reposition the large right-hand CRESCENT ENERGY CANNON to protect its muzzle from upcoming UI at the far upper right.\nRotate the rigid entire cannon from its rear near the right shoulder so its barrel now points almost vertically up with a slight lean left instead of diagonally right. Reposition the gun holding hand naturally on its dedicated rear grip and maintain continuous perfectly straight barrel and physically credible arm support. The cannon muzzle center MUST be around pixel x690 y215, its circular muzzle and whole crescent blade wholly between x560 and x770 and y120 to y320. Nothing important from the muzzle may lie right of x780. Bright coherent beam goes upward from this new muzzle into upper sky, NOT through the mech's face. The cannon must remain massive and long, do not shrink it into a pistol. Can overlap only a small part of background guardian dragon's lower jaw; preserve dragon head recognizable and mechanical wings. Restore clean sky/wing where original old muzzle occupied upper right. No duplicate gun or second muzzle. No text or frame. Do NOT zoom out, do not shrink mech, do not change face or body or cities. Preserve exquisite clean smooth emerald black gold surfaces and bright light, zero glitter or spark noise. This is a localized weapon-angle correction, not a new scene."
+  },
+  "output_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-78aa5478-9c31-49df-9a55-efbb66fa3b8c.png"
+}

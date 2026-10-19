@@ -1,0 +1,237 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/00-六星标准布局五材质总览.png",
+      "file_id": "file_0000000089f081f984d207bde62e9c4c",
+      "library_file_id": "libfile_771d7816506881918356fcd1f3afc0a2",
+      "file_name": "00-六星标准布局五材质总览.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 1059287,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-白金鎏金-六星机甲关羽-标准布局.png",
+      "file_id": "file_000000001b2c81f9b5b8dc3ca1303545",
+      "library_file_id": "libfile_d4ca029b87b48191b5867c8ffc16ae8b",
+      "file_name": "01-白金鎏金-六星机甲关羽-标准布局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 3658383,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-玄钛银刃-六星机甲关羽-标准布局.png",
+      "file_id": "file_00000000218881f994d826a48d7d27c7",
+      "library_file_id": "libfile_6b431f5eefd48191b2755f3b56457742",
+      "file_name": "02-玄钛银刃-六星机甲关羽-标准布局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 3615072,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-象牙金釉-六星机甲关羽-标准布局.png",
+      "file_id": "file_00000000da8c81f9813abf221d34fd85",
+      "library_file_id": "libfile_11d2b65f650081918b3efbf60a1511c2",
+      "file_name": "03-象牙金釉-六星机甲关羽-标准布局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 3655953,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-赤铜鎏银-六星机甲关羽-标准布局.png",
+      "file_id": "file_00000000d26081f9990f416836f6b347",
+      "library_file_id": "libfile_6d1ff334117c81919f9ca50a955452a7",
+      "file_name": "04-赤铜鎏银-六星机甲关羽-标准布局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 3623517,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-墨玉铂金-六星机甲关羽-标准布局.png",
+      "file_id": "file_00000000992081f9898b370eade869fe",
+      "library_file_id": "libfile_5ae0a3c15fec81918e645dc66e72b235",
+      "file_name": "05-墨玉铂金-六星机甲关羽-标准布局.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 3597929,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/01-白金鎏金-透明六星框.png",
+      "file_id": "file_00000000247081f9a92daebc7ba72067",
+      "library_file_id": "libfile_32e79beecc7c8191aaf456576e33864c",
+      "file_name": "01-白金鎏金-透明六星框.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 1030342,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/02-玄钛银刃-透明六星框.png",
+      "file_id": "file_00000000b75081f98d4ecd2f8610d3b3",
+      "library_file_id": "libfile_6b3c60ddb0248191b8853c5551ff77c7",
+      "file_name": "02-玄钛银刃-透明六星框.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 991487,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/03-象牙金釉-透明六星框.png",
+      "file_id": "file_000000002d74820ea00a49388a4c9aa4",
+      "library_file_id": "libfile_2befea30fc4c81919b5f33973471ee94",
+      "file_name": "03-象牙金釉-透明六星框.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 1027952,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/04-赤铜鎏银-透明六星框.png",
+      "file_id": "file_00000000d4c0820e960f8c58c74e8d10",
+      "library_file_id": "libfile_6338178b1b208191848319ffb18c042d",
+      "file_name": "04-赤铜鎏银-透明六星框.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 995748,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/05-墨玉铂金-透明六星框.png",
+      "file_id": "file_0000000036ec81f9a9aa200347ad9fc3",
+      "library_file_id": "libfile_f121a7f0e2b08191afa0e9731757d4ac",
+      "file_name": "05-墨玉铂金-透明六星框.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "other",
+      "file_size_bytes": 967936,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

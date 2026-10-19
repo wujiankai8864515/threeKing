@@ -1,0 +1,202 @@
+[
+  {
+    "id": "01",
+    "name": "白金鎏金",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/01-白金鎏金/frame-6star.png",
+    "material_base": [
+      [
+        70,
+        79,
+        84
+      ],
+      [
+        189,
+        201,
+        204
+      ],
+      [
+        255,
+        255,
+        250
+      ]
+    ],
+    "material_edge": [
+      [
+        67,
+        43,
+        16
+      ],
+      [
+        207,
+        157,
+        73
+      ],
+      [
+        255,
+        244,
+        197
+      ]
+    ],
+    "alpha_identical": true
+  },
+  {
+    "id": "02",
+    "name": "玄钛银刃",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/02-玄钛银刃/frame-6star.png",
+    "material_base": [
+      [
+        8,
+        15,
+        23
+      ],
+      [
+        43,
+        60,
+        74
+      ],
+      [
+        113,
+        139,
+        152
+      ]
+    ],
+    "material_edge": [
+      [
+        34,
+        48,
+        61
+      ],
+      [
+        172,
+        195,
+        207
+      ],
+      [
+        250,
+        255,
+        255
+      ]
+    ],
+    "alpha_identical": true
+  },
+  {
+    "id": "03",
+    "name": "象牙金釉",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/03-象牙金釉/frame-6star.png",
+    "material_base": [
+      [
+        110,
+        100,
+        78
+      ],
+      [
+        220,
+        217,
+        193
+      ],
+      [
+        255,
+        255,
+        236
+      ]
+    ],
+    "material_edge": [
+      [
+        61,
+        39,
+        15
+      ],
+      [
+        191,
+        142,
+        61
+      ],
+      [
+        255,
+        240,
+        174
+      ]
+    ],
+    "alpha_identical": true
+  },
+  {
+    "id": "04",
+    "name": "赤铜鎏银",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/04-赤铜鎏银/frame-6star.png",
+    "material_base": [
+      [
+        55,
+        20,
+        15
+      ],
+      [
+        169,
+        76,
+        43
+      ],
+      [
+        250,
+        174,
+        111
+      ]
+    ],
+    "material_edge": [
+      [
+        50,
+        48,
+        45
+      ],
+      [
+        180,
+        183,
+        180
+      ],
+      [
+        255,
+        255,
+        240
+      ]
+    ],
+    "alpha_identical": true
+  },
+  {
+    "id": "05",
+    "name": "墨玉铂金",
+    "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/05-墨玉铂金/frame-6star.png",
+    "material_base": [
+      [
+        5,
+        23,
+        24
+      ],
+      [
+        22,
+        74,
+        66
+      ],
+      [
+        86,
+        151,
+        126
+      ]
+    ],
+    "material_edge": [
+      [
+        45,
+        57,
+        58
+      ],
+      [
+        182,
+        204,
+        198
+      ],
+      [
+        250,
+        255,
+        249
+      ]
+    ],
+    "alpha_identical": true
+  }
+]

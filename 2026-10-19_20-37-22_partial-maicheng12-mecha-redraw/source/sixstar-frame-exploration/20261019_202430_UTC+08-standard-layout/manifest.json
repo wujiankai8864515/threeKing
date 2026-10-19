@@ -1,0 +1,877 @@
+[
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "封侯",
+    "branch_id": "01",
+    "tier": 6,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/01-白金鎏金",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 2
+      },
+      {
+        "name": "蓄能",
+        "level": 2
+      },
+      {
+        "name": "反制",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/01-白金鎏金/guanyu-01-6star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/01-白金鎏金/guanyu-01-6star-dynamic-ui.png",
+    "source_sha256": "4e5ab384b4dff000f717a8e123d4a3b3c3bfbb12ef3359c22e54f7a4335f90cb",
+    "output_sha256": "af6fea5fde080a9843c46de72d73af740ab00c1932bffe5160263718943e2421",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": "design default of three, not a user-fixed count",
+    "stars": 6,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "反制 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1199176,
+    "uncovered_art_pixels_changed": 0,
+    "frame_material": {
+      "id": "01",
+      "name": "白金鎏金",
+      "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/01-白金鎏金/frame-6star.png",
+      "material_base": [
+        [
+          70,
+          79,
+          84
+        ],
+        [
+          189,
+          201,
+          204
+        ],
+        [
+          255,
+          255,
+          250
+        ]
+      ],
+      "material_edge": [
+        [
+          67,
+          43,
+          16
+        ],
+        [
+          207,
+          157,
+          73
+        ],
+        [
+          255,
+          244,
+          197
+        ]
+      ],
+      "alpha_identical": true
+    }
+  },
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "封侯",
+    "branch_id": "02",
+    "tier": 6,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/02-玄钛银刃",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 2
+      },
+      {
+        "name": "蓄能",
+        "level": 2
+      },
+      {
+        "name": "反制",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/02-玄钛银刃/guanyu-02-6star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/02-玄钛银刃/guanyu-02-6star-dynamic-ui.png",
+    "source_sha256": "4e5ab384b4dff000f717a8e123d4a3b3c3bfbb12ef3359c22e54f7a4335f90cb",
+    "output_sha256": "147c0662656f70457d53266d09400ddb7df2d2cb07e808db0a48adae498ecdd2",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": "design default of three, not a user-fixed count",
+    "stars": 6,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "反制 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1199176,
+    "uncovered_art_pixels_changed": 0,
+    "frame_material": {
+      "id": "02",
+      "name": "玄钛银刃",
+      "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/02-玄钛银刃/frame-6star.png",
+      "material_base": [
+        [
+          8,
+          15,
+          23
+        ],
+        [
+          43,
+          60,
+          74
+        ],
+        [
+          113,
+          139,
+          152
+        ]
+      ],
+      "material_edge": [
+        [
+          34,
+          48,
+          61
+        ],
+        [
+          172,
+          195,
+          207
+        ],
+        [
+          250,
+          255,
+          255
+        ]
+      ],
+      "alpha_identical": true
+    }
+  },
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "封侯",
+    "branch_id": "03",
+    "tier": 6,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/03-象牙金釉",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 2
+      },
+      {
+        "name": "蓄能",
+        "level": 2
+      },
+      {
+        "name": "反制",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/03-象牙金釉/guanyu-03-6star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/03-象牙金釉/guanyu-03-6star-dynamic-ui.png",
+    "source_sha256": "4e5ab384b4dff000f717a8e123d4a3b3c3bfbb12ef3359c22e54f7a4335f90cb",
+    "output_sha256": "58d8ff015696badf50d6c2848a188bad3a60bbcd8bb236e40ec81cb7238b417e",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": "design default of three, not a user-fixed count",
+    "stars": 6,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "反制 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1199176,
+    "uncovered_art_pixels_changed": 0,
+    "frame_material": {
+      "id": "03",
+      "name": "象牙金釉",
+      "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/03-象牙金釉/frame-6star.png",
+      "material_base": [
+        [
+          110,
+          100,
+          78
+        ],
+        [
+          220,
+          217,
+          193
+        ],
+        [
+          255,
+          255,
+          236
+        ]
+      ],
+      "material_edge": [
+        [
+          61,
+          39,
+          15
+        ],
+        [
+          191,
+          142,
+          61
+        ],
+        [
+          255,
+          240,
+          174
+        ]
+      ],
+      "alpha_identical": true
+    }
+  },
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "封侯",
+    "branch_id": "04",
+    "tier": 6,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/04-赤铜鎏银",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 2
+      },
+      {
+        "name": "蓄能",
+        "level": 2
+      },
+      {
+        "name": "反制",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/04-赤铜鎏银/guanyu-04-6star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/04-赤铜鎏银/guanyu-04-6star-dynamic-ui.png",
+    "source_sha256": "4e5ab384b4dff000f717a8e123d4a3b3c3bfbb12ef3359c22e54f7a4335f90cb",
+    "output_sha256": "996bb4e52672e0c6f68e0723b2fe6a982fdc0532d81e1d78d896ab113ce27637",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": "design default of three, not a user-fixed count",
+    "stars": 6,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "反制 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1199176,
+    "uncovered_art_pixels_changed": 0,
+    "frame_material": {
+      "id": "04",
+      "name": "赤铜鎏银",
+      "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/04-赤铜鎏银/frame-6star.png",
+      "material_base": [
+        [
+          55,
+          20,
+          15
+        ],
+        [
+          169,
+          76,
+          43
+        ],
+        [
+          250,
+          174,
+          111
+        ]
+      ],
+      "material_edge": [
+        [
+          50,
+          48,
+          45
+        ],
+        [
+          180,
+          183,
+          180
+        ],
+        [
+          255,
+          255,
+          240
+        ]
+      ],
+      "alpha_identical": true
+    }
+  },
+  {
+    "hero": "guanyu",
+    "name": "机甲·关羽",
+    "branch": "封侯",
+    "branch_id": "05",
+    "tier": 6,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/05-墨玉铂金",
+    "skills": [
+      {
+        "name": "重甲",
+        "level": 2
+      },
+      {
+        "name": "蓄能",
+        "level": 2
+      },
+      {
+        "name": "反制",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/05-墨玉铂金/guanyu-05-6star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/05-墨玉铂金/guanyu-05-6star-dynamic-ui.png",
+    "source_sha256": "4e5ab384b4dff000f717a8e123d4a3b3c3bfbb12ef3359c22e54f7a4335f90cb",
+    "output_sha256": "4df01539dc058dd9056551969edbc32294cb6cbe0e14fe63303a1a62b0b14ac0",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": "design default of three, not a user-fixed count",
+    "stars": 6,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "机甲",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          791.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          726.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "重甲 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "蓄能 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "反制 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1199176,
+    "uncovered_art_pixels_changed": 0,
+    "frame_material": {
+      "id": "05",
+      "name": "墨玉铂金",
+      "frame": "/workspace/scratch/3f82ff2b3f81/sixstar-frame-exploration/20261019_202430_UTC+08-standard-layout/05-墨玉铂金/frame-6star.png",
+      "material_base": [
+        [
+          5,
+          23,
+          24
+        ],
+        [
+          22,
+          74,
+          66
+        ],
+        [
+          86,
+          151,
+          126
+        ]
+      ],
+      "material_edge": [
+        [
+          45,
+          57,
+          58
+        ],
+        [
+          182,
+          204,
+          198
+        ],
+        [
+          250,
+          255,
+          249
+        ]
+      ],
+      "alpha_identical": true
+    }
+  }
+]

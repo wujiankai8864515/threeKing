@@ -1,0 +1,9 @@
+{
+  "imagegen_calls": [],
+  "method": "deterministic material transform of standard six-star frame; exact renderer reuse",
+  "source_frame": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/frame-6star.png",
+  "source_renderer": "guanyu-advanced/ui-reference-fit_20261019_200600_UTC+08/render.py",
+  "material_parameters": "material-config.json; materials.py",
+  "composition_parameters": "manifest.json; compose.py",
+  "source_art": "guanyu-advanced/wing-cannon-redesign_20261019_202440_UTC+08/六星机甲关羽-炮口安全区修订.png"
+}
