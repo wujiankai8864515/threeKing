@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-20T00:03:01.352976+08:00",
+  "user_feedback_time_UTC": "2026-10-19T16:02:00Z",
+  "summary": "用户对reinvent10反馈：03相对最喜欢但未批准；01/02/08有感觉未满意；04/05认不出关羽否；06鱼形溺亡否；07黑白无常否；09否；10马帅但无魔化、人更丑。新授权再20魔，恢复关羽辨识，统一人马魔化、霸气悲怆而非乱丑，真实差异、无碎点；覆盖旧全解禁泛怪物方向。用正在制作的新真钻石五星框成完整卡与总览，与五星真钻/六星赤金各1框并行，总22候选，用户等待整批。新批在制未批准，已选其他插画不改。",
+  "demon_target": 20,
+  "frame_target": 2,
+  "candidate_total": 22,
+  "prior_reinvent10_feedback": {
+    "03": "relative_favorite_not_approved",
+    "01_02_08": "some_appeal_not_satisfied",
+    "04_05": "rejected_unrecognizable_guanyu",
+    "06": "rejected_fish_drowning_read",
+    "07": "rejected_black_white_impermanence_read",
+    "09": "rejected",
+    "10": "horse_appealing_but_not_demonic_person_uglier"
+  },
+  "new_direction": "recognizable_guanyu_and_horse_unified_demonization_majestic_tragic_not_chaotic_ugliness_no_speckles",
+  "supersedes": "unrestricted_generic_monster_appearance",
+  "production_status": "twenty_cards_and_two_frames_in_production"
+}
