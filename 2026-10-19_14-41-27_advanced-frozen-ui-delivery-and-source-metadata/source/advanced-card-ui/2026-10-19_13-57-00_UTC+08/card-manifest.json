@@ -1,0 +1,3228 @@
+{
+  "updated_utc": "2026-10-19T06:40:22Z",
+  "expected_cards": 24,
+  "assembled_cards": 24,
+  "review_status": "Candidates, not user approved",
+  "six_star_three_passives": "Design default, not explicitly fixed by user",
+  "cards": [
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_card.png",
+      "skills": [
+        {
+          "name": "怨煞",
+          "level": 1
+        },
+        {
+          "name": "索命",
+          "level": 1
+        },
+        {
+          "name": "不屈",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-5star-dynamic-ui.png",
+      "source_sha256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+      "output_sha256": "4af62c8de6b4a08b24a07cc02c2b27385c6f91d366293f130759a712dbacac66",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "怨煞 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            51
+          ]
+        },
+        {
+          "text": "索命 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            -2,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "不屈 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_75c521bb62a481918b7effbcf7b7c2bd",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png",
+      "skills": [
+        {
+          "name": "怨煞",
+          "level": 2
+        },
+        {
+          "name": "索命",
+          "level": 2
+        },
+        {
+          "name": "不屈",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-6star-dynamic-ui.png",
+      "source_sha256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+      "output_sha256": "daacea2ffe8b46e38c1d077832ab270c9d27daad1f0922a28fb1bc982c94de28",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "怨煞 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            51
+          ]
+        },
+        {
+          "text": "索命 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            -2,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "不屈 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_42e4bbcd7acc8191af428b6ed369100a",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_card.png",
+      "skills": [
+        {
+          "name": "香火",
+          "level": 1
+        },
+        {
+          "name": "镇邪",
+          "level": 1
+        },
+        {
+          "name": "神裁",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-5star-dynamic-ui.png",
+      "source_sha256": "96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15",
+      "output_sha256": "52a90412c3c2f1c19dfdf53438b3f714fee6143e1df76831519b0374aa8e4334",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "香火 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "镇邪 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            51
+          ]
+        },
+        {
+          "text": "神裁 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            50
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_85e56d9a41d48191b65ad98c31484715",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png",
+      "skills": [
+        {
+          "name": "香火",
+          "level": 2
+        },
+        {
+          "name": "镇邪",
+          "level": 2
+        },
+        {
+          "name": "神裁",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-6star-dynamic-ui.png",
+      "source_sha256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+      "output_sha256": "532afe9661ac0bf8bda2bb4e2c17f391d39fe37af07a14956bb1c63f00138a40",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "香火 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "镇邪 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            51
+          ]
+        },
+        {
+          "text": "神裁 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            50
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_244a757dbe5081918fa46b5fb9ce59be",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_card.png",
+      "skills": [
+        {
+          "name": "蓄能",
+          "level": 1
+        },
+        {
+          "name": "锁定",
+          "level": 1
+        },
+        {
+          "name": "终式",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-5star-dynamic-ui.png",
+      "source_sha256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+      "output_sha256": "78a1b89be826fd018e2ee1a2f4972b294fca7649efc4a1a4a9878ab439008de1",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "蓄能 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "锁定 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            50
+          ]
+        },
+        {
+          "text": "终式 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            50
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_42db8212b69c819195c8db21bc97a062",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png",
+      "skills": [
+        {
+          "name": "蓄能",
+          "level": 2
+        },
+        {
+          "name": "锁定",
+          "level": 2
+        },
+        {
+          "name": "终式",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-6star-dynamic-ui.png",
+      "source_sha256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+      "output_sha256": "5c7fcf068dc50fa0cd7fdb79b9ff28d3d6ccfba2f61f18b764812c0be7bd345a",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "蓄能 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "锁定 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            50
+          ]
+        },
+        {
+          "text": "终式 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            50
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_2d45426afef08191b762c9c1e39dab2c",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_card_v2.png",
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 1
+        },
+        {
+          "name": "武勇",
+          "level": 1
+        },
+        {
+          "name": "断流",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-5star-dynamic-ui.png",
+      "source_sha256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+      "output_sha256": "2b6178a7b6509ba5ee4f404c20d22262abc8b47667ae8a970d1ae1a3afd89b35",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "蓄势 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "武勇 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            50
+          ]
+        },
+        {
+          "text": "断流 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_0b2c0899b1b88191ad39c168cb8c96f1",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "guanyu",
+      "name": "关羽",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_card.png",
+      "skills": [
+        {
+          "name": "蓄势",
+          "level": 2
+        },
+        {
+          "name": "武勇",
+          "level": 2
+        },
+        {
+          "name": "断流",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-6star-dynamic-ui.png",
+      "source_sha256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+      "output_sha256": "8e99da8d4b5541ab0ad28fa156209cc6229d8e6be12036fe0cdc96f00ed2c650",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "关羽",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "蓄势 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "武勇 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            50
+          ]
+        },
+        {
+          "text": "断流 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_e4dc2280148c81919ae537e2fb19365f",
+      "accepted_delivery": {
+        "hero": "guanyu",
+        "count": 8,
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "accepted_utc": "2026-10-19T06:35:19Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+      "skills": [
+        {
+          "name": "遗恨",
+          "level": 1
+        },
+        {
+          "name": "孤誓",
+          "level": 1
+        },
+        {
+          "name": "护魂",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-5star-dynamic-ui.png",
+      "source_sha256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+      "output_sha256": "0e208a9983b581bed5409307e9f3cfb1951c52089c17962593785e7c24821260",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "遗恨 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "孤誓 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "护魂 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_9a3268cd0ffc8191b39ba1d0f6531c3a",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png",
+      "skills": [
+        {
+          "name": "遗恨",
+          "level": 2
+        },
+        {
+          "name": "孤誓",
+          "level": 2
+        },
+        {
+          "name": "护魂",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-6star-dynamic-ui.png",
+      "source_sha256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+      "output_sha256": "d8e61156c9a743eb908278219a5ab3fac821814ed49fb692a07e3925c0764aef",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "遗恨 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "孤誓 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "护魂 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_391283b4460481918ae9fda9b55d1d50",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png",
+      "skills": [
+        {
+          "name": "昭德",
+          "level": 1
+        },
+        {
+          "name": "香祚",
+          "level": 1
+        },
+        {
+          "name": "庇民",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-5star-dynamic-ui.png",
+      "source_sha256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+      "output_sha256": "0eb44cbe689d7be3a3fd102863c7e3aac59d187590129e72af42b29d88a1ed0c",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "昭德 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "香祚 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "庇民 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_ecd72bd1c9a88191b1a579d445bce9d5",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+      "skills": [
+        {
+          "name": "昭德",
+          "level": 2
+        },
+        {
+          "name": "香祚",
+          "level": 2
+        },
+        {
+          "name": "庇民",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-6star-dynamic-ui.png",
+      "source_sha256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+      "output_sha256": "bcaf23dda7305d99cf853f52f73434f952458f351185e756a73ede326fe82605",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "昭德 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "香祚 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "庇民 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_7c308caa6a688191a6c04fcc9bacd7c6",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png",
+      "skills": [
+        {
+          "name": "统链",
+          "level": 1
+        },
+        {
+          "name": "修复",
+          "level": 1
+        },
+        {
+          "name": "备援",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-5star-dynamic-ui.png",
+      "source_sha256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+      "output_sha256": "e6ae964a9e15c4acffb3a9fe5ac982a0f793d84c1658f7280218c30d3b2d8d3d",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "统链 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "修复 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "备援 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_9a30a43a7a6881919ece462d95b56b6b",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+      "skills": [
+        {
+          "name": "统链",
+          "level": 2
+        },
+        {
+          "name": "修复",
+          "level": 2
+        },
+        {
+          "name": "备援",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-6star-dynamic-ui.png",
+      "source_sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+      "output_sha256": "5ee949acac880b8179bf5580d074346a790e3ddef7cfedc0200d20a51b0bfeb0",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "统链 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "修复 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "备援 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_0ef69411887c8191b4c40d186015d06a",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-card.png",
+      "skills": [
+        {
+          "name": "仁德",
+          "level": 1
+        },
+        {
+          "name": "同袍",
+          "level": 1
+        },
+        {
+          "name": "龙佑",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-5star-dynamic-ui.png",
+      "source_sha256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+      "output_sha256": "9886a41c48f67f6225c0f0cfa139680f017ddbac13cfa62f1b0ecb8ec5c91417",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "仁德 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "同袍 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "龙佑 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_f7bb355e2f708191a872eb5ae7e9d63e",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "liubei",
+      "name": "刘备",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+      "skills": [
+        {
+          "name": "仁德",
+          "level": 2
+        },
+        {
+          "name": "同袍",
+          "level": 2
+        },
+        {
+          "name": "龙佑",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-6star-dynamic-ui.png",
+      "source_sha256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+      "output_sha256": "340b0105136d7aa2828afed72cb6dc060eb67ffd0ba958ade59f17e74e43ca11",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "刘备",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "仁德 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "同袍 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "龙佑 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_f448451cebe4819184f3c8aef5d21b5f",
+      "accepted_delivery": {
+        "hero": "liubei",
+        "count": 8,
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "accepted_utc": "2026-10-19T06:35:08Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png",
+      "skills": [
+        {
+          "name": "血恨",
+          "level": 1
+        },
+        {
+          "name": "惊魂",
+          "level": 1
+        },
+        {
+          "name": "不屈",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-5star-dynamic-ui.png",
+      "source_sha256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8",
+      "output_sha256": "f7703acf87f30ef1eb073ec8663c823ba95a44f5c99177068bb2432846e1153d",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "血恨 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "惊魂 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "不屈 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_e4e6369c35bc8191b271b6d9bb3e022c",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "魔化",
+      "branch_id": "demonic",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png",
+      "skills": [
+        {
+          "name": "血恨",
+          "level": 2
+        },
+        {
+          "name": "惊魂",
+          "level": 2
+        },
+        {
+          "name": "不屈",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-6star-dynamic-ui.png",
+      "source_sha256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581",
+      "output_sha256": "ecf9577c514bba161b0d1ff48a02155062b71310208259b8314f7a1ce1817311",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "魔化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "血恨 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "惊魂 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "不屈 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_91f8f6cd75048191baeb10947b48a1eb",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png",
+      "skills": [
+        {
+          "name": "桓威",
+          "level": 1
+        },
+        {
+          "name": "助风",
+          "level": 1
+        },
+        {
+          "name": "镇江",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-5star-dynamic-ui.png",
+      "source_sha256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3",
+      "output_sha256": "18bb19bbc516556ab7779ec580aff7ae6256b81e1a9abb5998f2f08fdf6f1df3",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "桓威 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            50
+          ]
+        },
+        {
+          "text": "助风 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "镇江 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            51
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_edd2c3c8b3548191981a92ed4420d914",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "神化",
+      "branch_id": "divine",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png",
+      "skills": [
+        {
+          "name": "桓威",
+          "level": 2
+        },
+        {
+          "name": "助风",
+          "level": 2
+        },
+        {
+          "name": "镇江",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-6star-dynamic-ui.png",
+      "source_sha256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52",
+      "output_sha256": "1859cd0b3e2845f26d7907fc5709d303c32d3ffb31cead171f2cd3e61ef887d4",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "神化",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            64
+          ]
+        },
+        {
+          "text": "桓威 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            50
+          ]
+        },
+        {
+          "text": "助风 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "镇江 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            51
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_7a3e43dda840819180ed926d528b1554",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png",
+      "skills": [
+        {
+          "name": "共振",
+          "level": 1
+        },
+        {
+          "name": "震荡",
+          "level": 1
+        },
+        {
+          "name": "重构",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-5star-dynamic-ui.png",
+      "source_sha256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a",
+      "output_sha256": "661e6251a6523c47b9b8ae75385e791b60d57c95d586682b2b49edba0122eb8e",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "共振 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            51
+          ]
+        },
+        {
+          "text": "震荡 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "重构 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_78315f0277dc8191a7386589f5107813",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "机甲",
+      "branch_id": "mecha",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png",
+      "skills": [
+        {
+          "name": "共振",
+          "level": 2
+        },
+        {
+          "name": "震荡",
+          "level": 2
+        },
+        {
+          "name": "重构",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-6star-dynamic-ui.png",
+      "source_sha256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e",
+      "output_sha256": "7a771ab360b9e9857518a6a4c5b023b323c42ce17bb7bf6a1cf7986b79ca6bbd",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "机甲",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            14,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "共振 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            51
+          ]
+        },
+        {
+          "text": "震荡 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "重构 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_48db21940d14819190b11ea263c37f84",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png",
+      "skills": [
+        {
+          "name": "胆略",
+          "level": 1
+        },
+        {
+          "name": "断喝",
+          "level": 1
+        },
+        {
+          "name": "当关",
+          "level": 1
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-5star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-5star-dynamic-ui.png",
+      "source_sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+      "output_sha256": "b4a3bf44cf59d9bc9e18a9f593df0fe444bb25a038914a86a80da5a277d1461b",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": null,
+      "stars": 5,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "胆略 +1",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "断喝 +1",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        },
+        {
+          "text": "当关 +1",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            126,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1209452,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_754adb4c3f8881919add05503c394717",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    },
+    {
+      "hero": "zhangfei",
+      "name": "张飞",
+      "branch": "传承",
+      "branch_id": "traditional",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png",
+      "skills": [
+        {
+          "name": "胆略",
+          "level": 2
+        },
+        {
+          "name": "断喝",
+          "level": 2
+        },
+        {
+          "name": "当关",
+          "level": 2
+        }
+      ],
+      "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-6star.png",
+      "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-6star-dynamic-ui.png",
+      "source_sha256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8",
+      "output_sha256": "6bedac095ee938df2ecd0e79fdaf866270308c3d68627aff070202b3c708b2d7",
+      "native_art_size": [
+        1024,
+        1536
+      ],
+      "canvas_size": [
+        1190,
+        1786
+      ],
+      "source_scale": 1,
+      "illustration_offset": [
+        84,
+        145
+      ],
+      "status": "candidate_pending_user_review",
+      "three_passives_bottom_anchored": true,
+      "six_star_passive_count": "design default of three, not a user-fixed count",
+      "stars": 6,
+      "glyph_centers": [
+        {
+          "text": "蜀",
+          "target_center": [
+            170.830078125,
+            154.64713541666669
+          ],
+          "glyph_bbox": [
+            0,
+            25,
+            81,
+            102
+          ]
+        },
+        {
+          "text": "张飞",
+          "target_center": [
+            726.318359375,
+            106.97395833333334
+          ],
+          "glyph_bbox": [
+            0,
+            16,
+            108,
+            69
+          ]
+        },
+        {
+          "text": "传承",
+          "target_center": [
+            180.126953125,
+            1609.2604166666667
+          ],
+          "glyph_bbox": [
+            0,
+            15,
+            102,
+            65
+          ]
+        },
+        {
+          "text": "胆略 +2",
+          "target_center": [
+            973.84765625,
+            1117.4127604166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "断喝 +2",
+          "target_center": [
+            973.84765625,
+            1215.0846354166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        },
+        {
+          "text": "当关 +2",
+          "target_center": [
+            973.84765625,
+            1312.7565104166667
+          ],
+          "glyph_bbox": [
+            0,
+            11,
+            131,
+            49
+          ]
+        }
+      ],
+      "uncovered_art_pixels_checked": 1199176,
+      "uncovered_art_pixels_changed": 0,
+      "qa_status": "pass_candidate",
+      "qa_note": "Face and hands visually checked clear; source rendered at 1:1, native illustration pixels not resampled.",
+      "library_file_id": "libfile_cff5fb4676288191b0a5c618f101f203",
+      "accepted_delivery": {
+        "hero": "zhangfei",
+        "count": 8,
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "accepted_utc": "2026-10-19T06:40:09Z"
+      }
+    }
+  ],
+  "library_successful_card_count": 24,
+  "accepted_user_delivery_card_count": 24,
+  "approved_by_user_count": 0
+}

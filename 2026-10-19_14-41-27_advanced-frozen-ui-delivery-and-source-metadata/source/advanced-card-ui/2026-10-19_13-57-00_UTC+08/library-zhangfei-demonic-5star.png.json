@@ -1,0 +1,27 @@
+{
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-demonic-5star.png",
+        "file_id": "file_00000000b7e081f5a52c37d89d8e7eac",
+        "library_file_id": "libfile_e4e6369c35bc8191b271b6d9bb3e022c",
+        "file_name": "zhangfei-demonic-5star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4167680,
+        "external_connectors_accessed": false
+      }
+    ]
+  }
+}

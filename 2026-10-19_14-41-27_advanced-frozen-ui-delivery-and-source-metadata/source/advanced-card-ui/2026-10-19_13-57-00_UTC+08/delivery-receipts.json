@@ -1,0 +1,36 @@
+{
+  "updated_utc": "2026-10-19T06:40:22Z",
+  "user_review_status": "candidate_not_approved",
+  "previews": [
+    {
+      "file": "liubei-divine-pair.png",
+      "library_file_id": "libfile_5b5d0cb9349881918582c5ef7c1feb93"
+    },
+    {
+      "file": "zhangfei-traditional-pair.png",
+      "library_file_id": "libfile_e34cad222d04819183cfc90016d77889"
+    }
+  ],
+  "message_id": "Sentinel_bbaeb02d469c8191a0845232e45cdf9b",
+  "message_status": "accepted",
+  "card_deliveries": [
+    {
+      "hero": "liubei",
+      "count": 8,
+      "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+      "accepted_utc": "2026-10-19T06:35:08Z"
+    },
+    {
+      "hero": "guanyu",
+      "count": 8,
+      "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+      "accepted_utc": "2026-10-19T06:35:19Z"
+    },
+    {
+      "hero": "zhangfei",
+      "count": 8,
+      "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+      "accepted_utc": "2026-10-19T06:40:09Z"
+    }
+  ]
+}

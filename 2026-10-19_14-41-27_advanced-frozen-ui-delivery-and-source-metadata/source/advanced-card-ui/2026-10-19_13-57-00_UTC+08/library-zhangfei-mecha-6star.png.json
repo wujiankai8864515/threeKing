@@ -1,0 +1,27 @@
+{
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-mecha-6star.png",
+        "file_id": "file_00000000563c81f59cf90d5794e25ba4",
+        "library_file_id": "libfile_48db21940d14819190b11ea263c37f84",
+        "file_name": "zhangfei-mecha-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4280622,
+        "external_connectors_accessed": false
+      }
+    ]
+  }
+}

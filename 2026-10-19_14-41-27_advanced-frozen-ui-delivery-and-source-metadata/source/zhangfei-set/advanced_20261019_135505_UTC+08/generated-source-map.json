@@ -1,0 +1,132 @@
+[
+  {
+    "asset": "mecha5-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ba25d2f3-c909-40b6-a95b-c97a5cdb101f.png",
+    "sha256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a"
+  },
+  {
+    "asset": "demon6-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-ad15f701-a1f1-4aa4-97f0-bae3c846c2fe.png",
+    "sha256": "dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683"
+  },
+  {
+    "asset": "legacy6-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-51c10c21-fd79-49e1-8aa7-31bcd464087b.png",
+    "sha256": "830137eaa3caacb117d10fed66652a3d55600bfa3382047b1749a180d047200e"
+  },
+  {
+    "asset": "divine5-bio.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-09c1ebb8-a48b-4e87-a54c-ccbd71f884ed.png",
+    "sha256": "aa06a92fb9b662c008c38148747a099c69675c2517f8279a6ba81f7dd154ec51"
+  },
+  {
+    "asset": "divine6-fx.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-303d3a07-bae3-4d58-8714-2e7cbba4f9bc.png",
+    "sha256": "9f0cf922977d90f8ab4f7cad26d2ea13fb9e7309bd27553d28363c216421a00e"
+  },
+  {
+    "asset": "legacy5-fx.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a44c4094-cb74-4a5a-b4b4-20d8e8154001.png",
+    "sha256": "3c69664eae42db78442fd35ed8abe4ff71ba14ecca1936dd4e8d5c50c87000a6"
+  },
+  {
+    "asset": "legacy5-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-58cd43b0-bf52-4813-a3b3-e9e25cd56876.png",
+    "sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e"
+  },
+  {
+    "asset": "divine6-avatar.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-60a9574c-3f5c-48d6-ab48-fdbb524a8724.png",
+    "sha256": "221830dc69c4b88ec4f6d85ca0e0144f8175809b237a2d4edb86554696381ddd"
+  },
+  {
+    "asset": "divine6-bio.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-8c56558d-7246-48a8-9358-fd609896e79d.png",
+    "sha256": "350938239018f5ec435ae8749368f7f7f6e22eea4daca5bfc0b5f11edebf2897"
+  },
+  {
+    "asset": "divine5-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9cb7f43a-3712-451c-b184-47cde0376c18.png",
+    "sha256": "298b26bbe4e337967d36c78e0aa80e64dac01179399b8f428f316f43c271142b"
+  },
+  {
+    "asset": "legacy6-avatar.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-506f3c5e-80ba-413c-8088-5cc20517bd9b.png",
+    "sha256": "9b200031ce41e2e40d3f537c0d3727a6fa07ad78e4296b20371c70bc9799bb56"
+  },
+  {
+    "asset": "legacy6-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-05a5dbf4-2f69-42b8-8854-bd02cbf0e4db.png",
+    "sha256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8"
+  },
+  {
+    "asset": "divine6-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-18968d5e-b366-455e-b0f3-571c5376b5ef.png",
+    "sha256": "7a4c5e12d5a48bdfd32f8ae2450f631f11f47404f4a82ccab8f5459e49df9549"
+  },
+  {
+    "asset": "legacy6-fx.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4517b307-34a9-4ef5-9d81-2ee1d7f4d06b.png",
+    "sha256": "60d71090549e2df7aaa68e87cd6d290b39d221a6d8ef864040b91bdf8fd4177b"
+  },
+  {
+    "asset": "legacy5-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-861eef94-91d3-4823-b3fb-204fdf026a2c.png",
+    "sha256": "305d9a31b324d37333fc3d871548f27884cd198b08d04835d79499cf5dfac0fe"
+  },
+  {
+    "asset": "legacy5-avatar.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3f18d678-eec6-4a8a-943e-bf08281187fb.png",
+    "sha256": "3573a193b726cda4c3998a2905006bdb8b85c1234a57f2493c955c8f4a093182"
+  },
+  {
+    "asset": "demon5-bio.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-49fdf167-05a2-4a9c-be4f-dcb1e36a9126.png",
+    "sha256": "11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49"
+  },
+  {
+    "asset": "demon5-cast.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fc3db6be-8b50-4fc2-b345-23a5efc9dac5.png",
+    "sha256": "35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a"
+  },
+  {
+    "asset": "mecha6-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d4848304-251f-4a99-aea4-008fd762de1f.png",
+    "sha256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e"
+  },
+  {
+    "asset": "demon5-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1a8fac00-3922-4e71-9130-cb1083446f5a.png",
+    "sha256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8"
+  },
+  {
+    "asset": "divine5-fx.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-cf81dd97-12c6-4a98-a5b1-a0dc21f6a83e.png",
+    "sha256": "6346b47ba9a8b113a6376943804420c9e12e029a7a18fbbfa127d8146e5403cd"
+  },
+  {
+    "asset": "divine5-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-19b1783a-5b87-4b84-9a09-b7c88dd02d4a.png",
+    "sha256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3"
+  },
+  {
+    "asset": "divine6-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-24f0eb03-397c-434b-9962-2a3dec830b00.png",
+    "sha256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52"
+  },
+  {
+    "asset": "legacy6-bio.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1b1d0a87-7e2d-43c8-8405-c772ef34e4e9.png",
+    "sha256": "c7d4d0362302267d6a9be6326a1e08df650aa745ef687e5f8ac2a474cbe9f965"
+  },
+  {
+    "asset": "demon6-card.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-9c273f44-2b5e-4529-8ded-0bfebf3e553e.png",
+    "sha256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581"
+  },
+  {
+    "asset": "legacy5-bio.png",
+    "original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1ad07213-21ce-402e-9063-c5b25c42df31.png",
+    "sha256": "2c318b939973efa26cc18bffb346ac5b5aab08339a4e7dc797578d9ce67ae26f"
+  }
+]

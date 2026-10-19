@@ -1,0 +1,18 @@
+{
+  "structuredContent": {
+    "results": [
+      {
+        "file_name": "zhangfei-traditional-pair.png",
+        "library_file_id": "libfile_e34cad222d04819183cfc90016d77889",
+        "status": "succeeded",
+        "source_receipt": "functions.wait cell25",
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

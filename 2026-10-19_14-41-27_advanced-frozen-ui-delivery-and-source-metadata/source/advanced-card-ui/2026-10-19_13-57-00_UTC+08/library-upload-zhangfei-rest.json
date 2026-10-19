@@ -1,0 +1,9 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "tool call error: failed to upload `/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-5star.png` for `files[4]`: OpenAI file blob upload to sdmntprcentralus.oaiusercontent.com failed after 250684 ms (request, azure_client_request_id=b990815e-634b-4e43-9445-936e597613c9): error sending request"
+    }
+  ],
+  "isError": true
+}

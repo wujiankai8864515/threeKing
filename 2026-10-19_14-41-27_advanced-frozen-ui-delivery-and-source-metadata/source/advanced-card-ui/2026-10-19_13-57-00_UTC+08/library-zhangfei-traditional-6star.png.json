@@ -1,0 +1,27 @@
+{
+  "structuredContent": {
+    "results": [
+      {
+        "operation": "create_library_file",
+        "status": "succeeded",
+        "path": "/zhangfei-traditional-6star.png",
+        "file_id": "file_00000000bd3481f5837ca1e21a4cb4b1",
+        "library_file_id": "libfile_cff5fb4676288191b0a5c618f101f203",
+        "file_name": "zhangfei-traditional-6star.png",
+        "current_version_number": 0,
+        "restored_from_version_number": null,
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ],
+        "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+        "mime_type": "image/png",
+        "library_artifact_type": "image",
+        "file_size_bytes": 4222961,
+        "external_connectors_accessed": false
+      }
+    ]
+  }
+}

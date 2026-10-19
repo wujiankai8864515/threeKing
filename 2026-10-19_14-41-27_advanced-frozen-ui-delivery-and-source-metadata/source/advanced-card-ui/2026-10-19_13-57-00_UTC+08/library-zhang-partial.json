@@ -1,0 +1,42 @@
+{
+  "structuredContent": {
+    "results": [
+      {
+        "file_name": "zhangfei-traditional-5star.png",
+        "library_file_id": "libfile_754adb4c3f8881919add05503c394717",
+        "status": "succeeded",
+        "source_receipt": "functions.exec asynchronous notify in cell47 or48",
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "file_name": "zhangfei-demonic-5star.png",
+        "library_file_id": "libfile_e4e6369c35bc8191b271b6d9bb3e022c",
+        "status": "succeeded",
+        "source_receipt": "functions.exec asynchronous notify in cell47 or48",
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "file_name": "zhangfei-demonic-6star.png",
+        "library_file_id": "libfile_91f8f6cd75048191baeb10947b48a1eb",
+        "status": "succeeded",
+        "source_receipt": "functions.exec asynchronous notify in cell47 or48",
+        "xattrs": [
+          {
+            "name": "user.library-file-version",
+            "value": "0"
+          }
+        ]
+      }
+    ]
+  }
+}

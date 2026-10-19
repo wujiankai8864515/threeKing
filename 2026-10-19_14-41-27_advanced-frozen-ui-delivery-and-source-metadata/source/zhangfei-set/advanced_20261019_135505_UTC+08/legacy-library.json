@@ -1,0 +1,216 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy5-card.png",
+      "file_id": "file_0000000018e081f584526e0a275b7bf5",
+      "library_file_id": "libfile_ed2f10e66fd88191b6f7ffdfc00270c8",
+      "file_name": "legacy5-card.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3266878,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy5-bio.png",
+      "file_id": "file_00000000ebb881f58d6696c78441b130",
+      "library_file_id": "libfile_572a188a879881918eda9fe971ba7e5e",
+      "file_name": "legacy5-bio.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3572717,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy5-avatar.png",
+      "file_id": "file_0000000023c881f59806d830c07f83f3",
+      "library_file_id": "libfile_1e73ff86e2908191a2778b9faa01cd81",
+      "file_name": "legacy5-avatar.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2921102,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy5-cast.png",
+      "file_id": "file_000000000cb481f5a753ae8d79bb7847",
+      "library_file_id": "libfile_c9d3e9e4e518819194493d66efd5b53e",
+      "file_name": "legacy5-cast.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2965058,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy5-fx.png",
+      "file_id": "file_000000000ad081f59c5a079f750bcee0",
+      "library_file_id": "libfile_11269ea69df48191821e868b4659e845",
+      "file_name": "legacy5-fx.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2423018,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy6-card.png",
+      "file_id": "file_0000000000a481f5ab818ba3c2023336",
+      "library_file_id": "libfile_665299e27a348191ac0f55dec9207765",
+      "file_name": "legacy6-card.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3321396,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy6-bio.png",
+      "file_id": "file_00000000f74081f5aaa26d9e2251ee5e",
+      "library_file_id": "libfile_4331816db0848191a5446510d096c7ae",
+      "file_name": "legacy6-bio.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3393199,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy6-avatar.png",
+      "file_id": "file_00000000553c81f5ba6ffe8debb0151d",
+      "library_file_id": "libfile_0f6a688aa3c08191b4279883de6e3b18",
+      "file_name": "legacy6-avatar.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3007519,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy6-cast.png",
+      "file_id": "file_000000009a3c81f5b5222febe7270e07",
+      "library_file_id": "libfile_10bdeacdbf38819180b19a563f2eb6b6",
+      "file_name": "legacy6-cast.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3292887,
+      "external_connectors_accessed": false
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/legacy6-fx.png",
+      "file_id": "file_00000000f24881f5a099d4148cb40f23",
+      "library_file_id": "libfile_c5a6836e1cd081918be28f422a8f4111",
+      "file_name": "legacy6-fx.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2504709,
+      "external_connectors_accessed": false
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

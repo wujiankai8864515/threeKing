@@ -1,0 +1,126 @@
+{
+  "hero": "layout-only",
+  "name": "关羽",
+  "branch": "传承",
+  "branch_id": "legacy",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/gold_oldsource_masked_shaft_2026-10-18_23-39-09_UTC+08/关羽-黄金-旧源长柄遮罩保真修复-候选3.png",
+  "skills": [
+    {
+      "name": "蓄势",
+      "level": 1
+    },
+    {
+      "name": "斩将",
+      "level": 1
+    },
+    {
+      "name": "武圣",
+      "level": 1
+    }
+  ],
+  "outdir": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/layout-tests",
+  "output": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/layout-tests/layout-only-legacy-5star.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/advanced-card-ui/2026-10-19_13-57-00_UTC+08/layout-tests/layout-only-legacy-5star-dynamic-ui.png",
+  "source_sha256": "1214392de32f5a48b4adf4f75c5b2095409c6e56d0cff3b610118e419b1a4ea7",
+  "output_sha256": "6afe4eb3c684ca18388c6dd7a0cce04e391334253ccd2480e00cfd2a0bbdf96b",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "传承",
+      "target_center": [
+        180.126953125,
+        1609.2604166666667
+      ],
+      "glyph_bbox": [
+        0,
+        15,
+        102,
+        65
+      ]
+    },
+    {
+      "text": "蓄势 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "斩将 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "武圣 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        50
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}
