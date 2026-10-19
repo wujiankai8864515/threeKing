@@ -1,0 +1,39 @@
+{
+  "recorded_at": "2026-10-19T23:19:11.366007+08:00",
+  "user_instruction_time_UTC": "2026-10-19T15:18:00Z",
+  "time_precision": "minute_as_relayed",
+  "selected_set": "guanyu-advanced/mecha20_20261019_221600_UTC+08",
+  "selected_id": "08",
+  "selected_name": "空域护城",
+  "user_instruction": "08空域护城直接用",
+  "ack_message_id": "Sentinel_59b98682ec388191a8d3b60e6e4b81c0",
+  "frame03_approved": false,
+  "extra_companion_assets_authorized": false,
+  "status": "user_selected_use_current_locked_no_redraw",
+  "source": {
+    "original_path": "guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+    "original_name": "source.png",
+    "repository_path": "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready/assets/sha256/7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6.png",
+    "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "original_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "bytes": 3290066,
+    "archived_at": "2026-10-19T22:29:05.088526+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "card": {
+    "original_path": "guanyu-advanced/mecha20_20261019_221600_UTC+08/08/card/guanyu-explore-08-6star.png",
+    "original_name": "guanyu-explore-08-6star.png",
+    "repository_path": "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready/assets/sha256/1f9f11e99424cba672ce0615200ffdc079a29c261e3d7a5252d8e4a7b1b5151e.png",
+    "sha256": "1f9f11e99424cba672ce0615200ffdc079a29c261e3d7a5252d8e4a7b1b5151e",
+    "original_sha256": "1f9f11e99424cba672ce0615200ffdc079a29c261e3d7a5252d8e4a7b1b5151e",
+    "bytes": 4094452,
+    "archived_at": "2026-10-19T22:29:05.088526+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "library_file_id": "libfile_043b8dfbcd78819195143a870c1a0b1f",
+  "frame_selection": "two_enhanced_frames_pending"
+}

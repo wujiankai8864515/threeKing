@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope/asset-index.json",
+  "asset_index": "2026-10-19_23-19-11_selected-mecha08-illustration-only/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "用户明确新神重组5中的05挺不错直接用，锁定现有源和成卡，不重画，不是旧20的05。魔02最新由分立修版改为人首龙身合体：白发白须血红怒眼、双臂仰天爆发、盘旋黑龙躯与连续血气；败走麦城濒亡为复仇主动入魔，麦城小远景、断刀、完整无血腥赤兔遗体保留。旧分立修版不交，如已产出仅历史；新合体在制，未Ready未交。机甲20和两框仍待选。",
-  "latest_delta": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope",
-  "current_status": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope/status-overrides.json",
+  "note": "用户追加选择六星机甲20中的08空域护城直接用，锁定插画，不默认批准所套03框，两款框仍待选，不扩配套。源和成卡SHA与Library核实。神新重组05已选定锁定不重画，魔02人首龙身合体修订继续在制。此前所有历史保留。",
+  "latest_delta": "2026-10-19_23-19-11_selected-mecha08-illustration-only",
+  "current_status": "2026-10-19_23-19-11_selected-mecha08-illustration-only/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -114,7 +114,8 @@
     "2026-10-19_22-31-42_32-complete-card-delivery-receipts",
     "2026-10-19_23-12-39_selected-demon-fusion02-direction",
     "2026-10-19_23-14-45_demon02-limited-revision-authorized",
-    "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope"
+    "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope",
+    "2026-10-19_23-19-11_selected-mecha08-illustration-only"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -248,7 +249,8 @@
     "2026-10-19_22-31-42_32-complete-card-delivery-receipts",
     "2026-10-19_23-12-39_selected-demon-fusion02-direction",
     "2026-10-19_23-14-45_demon02-limited-revision-authorized",
-    "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope"
+    "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope",
+    "2026-10-19_23-19-11_selected-mecha08-illustration-only"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -266,8 +268,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope/effective-source-map.json",
-  "production_progress": "2026-10-19_23-17-55_selected-divine05-demon-dragon-fusion-scope/production-progress.json",
+  "effective_source_map": "2026-10-19_23-19-11_selected-mecha08-illustration-only/effective-source-map.json",
+  "production_progress": "2026-10-19_23-19-11_selected-mecha08-illustration-only/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-19_22-31-42_32-complete-card-delivery-receipts/delivery-receipt.json",
