@@ -1,0 +1,18 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "evidence": "Exact tool call preserved in this worker conversation; prompt.txt saved directly from the same prompt variable after call completion.",
+  "arguments": {
+    "prompt": "Use case: stylized-concept. Create one pristine high-definition portrait 2:3 card ILLUSTRATION ONLY, no frame no text no stars no UI.\nReference is the approved five-star piloted Guan Yu humanoid green-dragon mech. Evolve that exact identity/material language into visibly more formidable SIX STAR combined green-dragon humanoid defense-counterattack mech. Retain crowned stern red Guan Yu face, long black mechanical beard silhouette, emerald chest cockpit with tiny human Guan Yu pilot inside. Enormous broad humanoid torso remains the primary focal point, close powerful low angle, asymmetrical dynamic braced stance. Rich emerald green, black titanium, precision gilded edges; much larger elegant polished armor plates, luxurious engineered geometry and clearly articulated load-bearing joints.\nMajor six-star upgrade: colossal Eastern mechanical-energy green dragon guardian manifestation rises behind the mech, several times its size: one huge regal dragon head above and behind, powerful short visible neck/foreclaw, remainder hidden in atmospheric light. Not a second humanoid. A solid dragon-head gigantic shoulder/forearm shield fuses into protagonist's left arm, layered dragon body forms massive dorsal armor. Transparent broad green scale-shaped energy shield planes deploy in a restrained coherent arc to absorb attacks. Show stored light conducting in large channels from shield into a gigantic rigid guandao counterstrike.\nThe main mech's right mechanical hand anatomically and mechanically correctly wraps a continuous long rigid straight pole. Giant crescent broad guandao blade sweeps diagonally upward at left, opening segmented frame around one continuous luminous green energy cutting edge. The pole remains visible on both sides of grip and collinear, NOT short sword. Pose displays defensive brace transitioning to powerful counter slash. Clear hand/fingers, no tangled limbs.\nScale must visibly exceed reference: ancient Chinese city towers now tiny at feet, small city walls and clustered rooftops occupy only bottom 10%, top of tall gate no higher than mech ankle. Same ancient earthly battlefield and mountains distant, NOT space, NO planet, NO Earth sphere. The mech must fill most picture height and width, never small or far away. Giant guardian dragon occupies upper background but never obscures crown, face, cockpit, shield, weapon; torso is distinct foreground.\nMaterials flawless clean broad enamel and machined metal reflections, crisp highlights along edges only. Absolutely NO glitter, gold dust, floating sparks, stippling, mottled texture, chipped paint, scratches, pits, tiny glowing dots, grain. Not photoreal historical armor: magnificent mythic sci-fi concept illustration with sharp beautiful protagonist, subdued distant scenery. Coherent dramatic daylight, smooth green energy surfaces, exquisite readable craftsmanship. Do not copy reference's incidental damage or clutter. Leave quiet narrow perimeter for separately composited card UI.",
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png"
+    ],
+    "transparent_background": false
+  },
+  "output_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d622b044-7deb-45a5-a858-cf637f4aa761.png",
+  "output_dimensions_observed": [
+    1024,
+    1536
+  ],
+  "note": "No size/quality/model arguments were passed. Portrait 2:3 and high definition were prompt instructions only."
+}

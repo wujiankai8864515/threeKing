@@ -1,0 +1,34 @@
+{
+  "archived_at": "2026-10-19T20:00:04.962034+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/combined-mecha_20261019_194900_UTC+08/actual-args.json",
+      "original_name": "actual-args.json",
+      "repository_path": "2026-10-19_20-00-04_combined-mecha-actual-generation-record/source/guanyu-advanced/combined-mecha_20261019_194900_UTC+08/actual-args.json",
+      "sha256": "50408cfd3b5af262fe141de25ea3d96af98fcb5666dcb7aa9ab6b6c71f381173",
+      "original_sha256": "50408cfd3b5af262fe141de25ea3d96af98fcb5666dcb7aa9ab6b6c71f381173",
+      "bytes": 3756,
+      "archived_at": "2026-10-19T20:00:04.962034+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/combined-mecha_20261019_194900_UTC+08/sha256.json",
+      "original_name": "sha256.json",
+      "repository_path": "2026-10-19_20-00-04_combined-mecha-actual-generation-record/source/guanyu-advanced/combined-mecha_20261019_194900_UTC+08/sha256.json",
+      "sha256": "034de5ca50a97434b681b4b755a1f981d5c433edcf50f43fb32af56978996fa1",
+      "original_sha256": "034de5ca50a97434b681b4b755a1f981d5c433edcf50f43fb32af56978996fa1",
+      "bytes": 1778,
+      "archived_at": "2026-10-19T20:00:04.962034+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_process_artifact_pending_user_review",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/source/guanyu-advanced/combined-mecha_20261019_194900_UTC+08/sha256.json",
+          "sha256": "57afb22757c176901f1dc8a6de0aa1ebc1f21ccc2a78255e490e361f96624abe"
+        }
+      ]
+    }
+  ]
+}

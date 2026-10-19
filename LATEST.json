@@ -1,9 +1,9 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/asset-index.json",
+  "asset_index": "2026-10-19_20-00-04_combined-mecha-actual-generation-record/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
   "note": "本轮五图已交候选待审：四五星传承、天空悬立显圣神、焦甲残刃熔炭火马魔、驾驶式机甲，以及六星青龙合体机甲。共用真字体天/封侯mask金属斜面与透明枪头无盘UI。旧宇宙六星与坐姿金身神已被用户否决，仅历史；所有生成失败和局修版本完整保留。未整体艺术批准。",
-  "latest_delta": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha",
+  "latest_delta": "2026-10-19_20-00-04_combined-mecha-actual-generation-record",
   "current_status": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
@@ -96,7 +96,8 @@
     "2026-10-19_19-38-17_guanyu-four-current-branches-heritage-water",
     "2026-10-19_19-46-09_guanyu-cosmic-mecha-six-star-and-ready-ui",
     "2026-10-19_19-50-11_guanyu-golden-divine-and-four-delivered-cards",
-    "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha"
+    "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha",
+    "2026-10-19_20-00-04_combined-mecha-actual-generation-record"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -222,7 +223,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "d20d7cf5ebfa838db465e79be06f4d7b2a981a45",
+  "remote_verified_commit": "9ccefbd50fc121bc083dfbf5a24665df37e0ce80",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -230,7 +231,7 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/prior-remote-verification.json",
+  "remote_verification_receipt": "2026-10-19_20-00-04_combined-mecha-actual-generation-record/prior-remote-verification.json",
   "effective_source_map": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/effective-source-map.json",
   "production_progress": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
