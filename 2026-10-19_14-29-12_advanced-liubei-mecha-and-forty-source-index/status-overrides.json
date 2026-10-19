@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-19T14:29:12.679020+08:00",
+  "previous_status": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/status-overrides.json",
+  "current_summary": "刘备四分支40源全部候选齐，另张飞8卡源和刘备张飞16装框已备份。机甲六星FX带人物失败稿保留历史，现行已去人物。刘备传承8配套已交，2成卡未交；无用户验收。",
+  "scope": "hero-production-spec/advanced_three_hero_scope_2026-10-19_13-57-41_UTC+08",
+  "effective_source_map": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/effective-source-map.json",
+  "delivery": {
+    "message_id": "Sentinel_6de07b6797908191ad9b477d3b9a6d77",
+    "sent_at": "2026-10-19T06:28:22Z",
+    "scope": "Liu Bei traditional 5/6 biography portrait cutin vfx, eight files",
+    "status": "accepted_by_chat_service",
+    "framed_cards_delivered": false,
+    "user_final_accepted": false
+  },
+  "other_37": "paused_rejected_historical_only"
+}

@@ -1,0 +1,9 @@
+{
+  "prompt": "Edit only to REMOVE the entire human Liu Bei figure including his face, crown, armor, limbs, feet, swords and clothing from the center. Deliver standalone transparent battle VFX ONLY: retain huge mechanical gold dragon head and the three emerald healing/shield ribbon layers and hovering emitter panels. Center must be empty transparent space for placing a game character later. No person, no humanoid, no torso, no weapons, no scene, no floor, no text. Preserve the clean crisp original dragon and ribbon style, genuine alpha transparency.",
+  "referenced_image_paths": [
+    "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png"
+  ],
+  "transparent_background": true,
+  "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e69fd3df-dc9f-43e8-b491-e6ca13d71a5a.png",
+  "note": "Reference before replacement = history/mecha-6-vfx-unwanted-human.png"
+}

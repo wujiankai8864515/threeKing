@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mecha-5-biography",
+    "arguments": {
+      "prompt": "NEW landscape biography, five-star MECHA Liu Bei. Reference face human skin black pointed beard, emerald-white-gold command armor articulated machinery. Futuristic Chinese mythic anime game illustration, sharp clean bold forms. Original future civilization identity reconstruction: Liu Bei's recognizable human face awakens inside an open emerald-white command armor cradle, faint historical green robe hologram becomes mechanical plates, a segmented golden dragon drone activates, clean high-tech hangar. Liu Bei large dominant, technicians and historical holograms subdued; no random sparks. No frame, no text, no confetti, no noise or goldpowder. Proper anatomy and rigid weapons. Preserve specific costume from reference.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-6e339124-0957-49c8-bd5d-e8a90784e961.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-biography.png",
+    "note": null
+  },
+  {
+    "id": "mecha-5-portrait",
+    "arguments": {
+      "prompt": "NEW square portrait, five-star MECHA Liu Bei. Reference face human skin black pointed beard, emerald-white-gold command armor articulated machinery. Futuristic Chinese mythic anime game illustration, sharp clean bold forms. Shoulders and head avatar on true transparent background. Fully show head and armor collar, human kind commanding face no opaque background no text. No frame, no text, no confetti, no noise or goldpowder. Proper anatomy and rigid weapons. Preserve specific costume from reference.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-87658805-aa2c-4df0-8fd8-2681db908540.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-portrait.png",
+    "note": null
+  },
+  {
+    "id": "mecha-5-cutin",
+    "arguments": {
+      "prompt": "NEW landscape cutin, five-star MECHA Liu Bei. Reference face human skin black pointed beard, emerald-white-gold command armor articulated machinery. Futuristic Chinese mythic anime game illustration, sharp clean bold forms. Explosive fullbody active skill cut-in, Liu Bei steps forward sharply and raises left palm, articulated drone shield wings deploy from back, right hand straight energy sword sweeping down to conduct broad medical green-gold wave. Three segmented dragon drones fly outward, whole figure contained. True transparent background, no ground or scene, no text. No frame, no text, no confetti, no noise or goldpowder. Proper anatomy and rigid weapons. Preserve specific costume from reference.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-42e931cd-3a37-47a3-83a7-9601835b81ca.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-cutin.png",
+    "note": null
+  },
+  {
+    "id": "mecha-5-vfx",
+    "arguments": {
+      "prompt": "NEW landscape vfx, five-star MECHA Liu Bei. Reference face human skin black pointed beard, emerald-white-gold command armor articulated machinery. Futuristic Chinese mythic anime game illustration, sharp clean bold forms. Standalone VFX without person: three mechanical golden dragon head medical drones project one translucent emerald hexagonal shield arc and three smooth green-gold restorative ribbons. No scenery no base no text, true transparent background. No frame, no text, no confetti, no noise or goldpowder. Proper anatomy and rigid weapons. Preserve specific costume from reference.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a7921339-80df-4c68-9b14-cbf587ff5314.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-vfx.png",
+    "note": null
+  },
+  {
+    "id": "mecha-6-biography",
+    "arguments": {
+      "prompt": "NEW landscape biography, SIX-star MECHA Liu Bei. Reference exact recognizable human face and advanced emerald-white-gold armor with giant dragon command wings. Sharp cel-painted mythic high-tech illustration. Original technology upgrade: Liu Bei in supreme command armor synchronizes a battlefield network of healing drones beneath an immense segmented golden mechanical dragon, grounded evacuation convoy and wounded soldiers safely sheltered in the background, heroic leader strongest visual. Liu Bei largest foreground commanding focus, no text or tiny glitters, background softer. No UI no cardframe no golddust no tiny particles. No all-green skin. Human remains recognizable.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-701efa6e-6e24-4320-9125-36bb067032aa.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-biography.png",
+    "note": "Reference card at generation time was pre-hand-localfix; same character design. Original reference generated path exec-e7bd6246-1bdb-48dc-b4ea-02ca1738b7af.png"
+  },
+  {
+    "id": "mecha-6-portrait",
+    "arguments": {
+      "prompt": "NEW square portrait, SIX-star MECHA Liu Bei. Reference exact recognizable human face and advanced emerald-white-gold armor with giant dragon command wings. Sharp cel-painted mythic high-tech illustration. Head and chest avatar, imposing white emerald command armor collar and crown visible, full head with clean margins, human face warm and sharp. True transparent background no scene. No UI no cardframe no golddust no tiny particles. No all-green skin. Human remains recognizable.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d2777bf4-a076-4700-b18c-740ee36a2fbc.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-portrait.png",
+    "note": "Reference card at generation time was pre-hand-localfix; same character design. Original reference generated path exec-e7bd6246-1bdb-48dc-b4ea-02ca1738b7af.png"
+  },
+  {
+    "id": "mecha-6-cutin",
+    "arguments": {
+      "prompt": "NEW landscape cutin, SIX-star MECHA Liu Bei. Reference exact recognizable human face and advanced emerald-white-gold armor with giant dragon command wings. Sharp cel-painted mythic high-tech illustration. Explosive dynamic ultimate skill cut-in: Liu Bei lunges toward camera with one robotic palm commanding forward, other grips one long straight energy sword thrust diagonally downward, gigantic floating geometric DRAGON-WING shield-projector array unfolds behind, massive segmented golden dragon head and broad emerald healing waves. All limbs weapons anatomically coherent, whole subject contained. SIX star more powerful than five, distinctly technological, no scene or floor, true transparent background. No UI no cardframe no golddust no tiny particles. No all-green skin. Human remains recognizable.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-542ca1a8-b2bf-4a37-b8ec-7ad43b6668f1.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-cutin.png",
+    "note": "Reference card at generation time was pre-hand-localfix; same character design. Original reference generated path exec-e7bd6246-1bdb-48dc-b4ea-02ca1738b7af.png"
+  },
+  {
+    "id": "mecha-6-vfx",
+    "arguments": {
+      "prompt": "NEW landscape vfx, SIX-star MECHA Liu Bei. Reference exact recognizable human face and advanced emerald-white-gold armor with giant dragon command wings. Sharp cel-painted mythic high-tech illustration. Standalone VFX only no humans: huge mechanical gold dragon head with articulated antlers, six shield-projector drones connected by clean emerald network beams, THREE nested hexagonal protective domes and broad ascending restorative green ribbons. True transparent background, no scene or text. No UI no cardframe no golddust no tiny particles. No all-green skin. Human remains recognizable.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+      ],
+      "transparent_background": true
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5b8ac247-e969-4c70-9639-b518d34f2bcc.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png",
+    "note": "Reference card at generation time was pre-hand-localfix; same character design. Original reference generated path exec-e7bd6246-1bdb-48dc-b4ea-02ca1738b7af.png"
+  },
+  {
+    "id": "mecha-5-card",
+    "arguments": {
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 5-star 龙枢统御, technology civilization reconstructs Liu Bei consciousness in emerald-white medical command exoskeleton, human face visible, short black beard, angular jade-gold chest core, articulated segmented gold dragon drone, twin rigid plasma swords and deployable shield projectors. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Leaning forward commanding drones with open left palm, right arm carries rigid straight energy sword. Earthly battlefield command platform, reduced distant detail. Five-star powerful but leave room for sixth-tier escalation. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-43943992-e51a-4fec-bc00-61ea1995dc2f.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png"
+  },
+  {
+    "id": "mecha-6-card",
+    "arguments": {
+      "prompt": "Use case: stylized-concept. NEW portrait 2:3 1024x1536 game card ILLUSTRATION no frame no text no UI. Reference only for Liu Bei's recognizable face, short pointed black beard and moustache, emerald-white clothing identity and crisp illustrated style. Depict 6-star 天汉龙枢, vastly grander sovereign command mecha, human Liu Bei face exposed in tall armored collar, emerald-white heavy floating medical command wings, gold dragon reactor and large segmented dragon escort drones, twin rigid energy swords, layered tactical protection field. Main figure dramatically dominant central 70%, DIFFERENT pose from seated reference. Leaning forward commanding drones with open left palm, right arm carries rigid straight energy sword. Earthly battlefield command platform, reduced distant detail. Clear sixth-tier silhouette amplification, much grander layered equipment and dragon, NOT merely recolor. Sharp natural anatomy and face, clean cel-painted mythic fantasy, NOT photo or oily realism. No speckle golddust, no particles on skin or fabric, no noise. Real rigid swords continuous axes. Face/hands inside central80%, avoid bottomleft future skill panels. Dragon broad majestic head not snake. No labels.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/revise_cards_20261018_231200_UTC+08/04-黄金-UI排版修复1190.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e7bd6246-1bdb-48dc-b4ea-02ca1738b7af.png",
+    "delivery_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+  },
+  {
+    "id": "mecha6-handfix",
+    "arguments": {
+      "prompt": "Edit ONLY viewer-right extended arm/hand of this Liu Bei: bend elbow and bring open palm and all fingers inward so entire hand silhouette ends before image x800 in a 1024px wide image. Palm at approx x690,y730, no finger beyond x800. Keep character face, identity, all costume, dragon, scene, colors, and other hand exactly as reference. Natural arm anatomy five fingers. Need clean space rightmost220px for future card UI. No text no frame.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png"
+      ],
+      "transparent_background": false
+    },
+    "original_generated_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-988fab00-2a29-491a-b547-18e824e960cc.png",
+    "note": "Reference at generation was original, history/mecha-6-card-handblocked.png"
+  }
+]

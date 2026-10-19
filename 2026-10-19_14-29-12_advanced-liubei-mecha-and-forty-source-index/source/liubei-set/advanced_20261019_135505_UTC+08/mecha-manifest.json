@@ -1,0 +1,170 @@
+[
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png",
+    "sha256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-biography.png",
+    "sha256": "fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db",
+    "size": [
+      1672,
+      941
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-portrait.png",
+    "sha256": "50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 458484
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-cutin.png",
+    "sha256": "dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 306807
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-vfx.png",
+    "sha256": "95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      253
+    ],
+    "transparent_pixels": 541460
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+    "sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "biography",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-biography.png",
+    "sha256": "18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_extrema": null,
+    "transparent_pixels": 0
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "portrait",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-portrait.png",
+    "sha256": "23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677",
+    "size": [
+      1254,
+      1254
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      255
+    ],
+    "transparent_pixels": 371665
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "cutin",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-cutin.png",
+    "sha256": "5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 368766
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "vfx",
+    "path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png",
+    "sha256": "b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "transparent_pixels": 599586
+  }
+]
