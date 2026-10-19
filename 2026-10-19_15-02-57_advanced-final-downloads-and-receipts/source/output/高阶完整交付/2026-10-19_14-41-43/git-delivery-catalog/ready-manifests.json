@@ -1,0 +1,30 @@
+[
+  {
+    "hero": "liubei",
+    "manifest": "liubei-set/advanced_20261019_135505_UTC+08/delivery-manifest.json"
+  },
+  {
+    "hero": "guanyu",
+    "branch": "traditional",
+    "manifest": "guanyu-advanced/20261019_135432_UTC+08/heritage-ready-manifest.json"
+  },
+  {
+    "hero": "guanyu",
+    "branch": "divine",
+    "manifest": "guanyu-advanced/20261019_135432_UTC+08/divine-ready-manifest.json"
+  },
+  {
+    "hero": "guanyu",
+    "branch": "demonic",
+    "manifest": "guanyu-advanced/20261019_135432_UTC+08/demon-ready-manifest.json"
+  },
+  {
+    "hero": "guanyu",
+    "branch": "mecha",
+    "manifest": "guanyu-advanced/20261019_135432_UTC+08/mecha-ready-manifest.json"
+  },
+  {
+    "hero": "zhangfei",
+    "manifest": "zhangfei-set/advanced_20261019_135505_UTC+08/manifest.json"
+  }
+]

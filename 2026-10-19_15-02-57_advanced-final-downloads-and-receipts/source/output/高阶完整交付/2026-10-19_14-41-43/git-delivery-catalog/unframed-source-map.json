@@ -1,0 +1,362 @@
+[
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-5-card.png",
+    "sha256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_2642b3477eb88191b8b9afa8c7915f6a",
+    "bytes": 2810674,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+    "sha256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_8b2be6390bbc8191a67b3097d427fac8",
+    "bytes": 3202519,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png",
+    "sha256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_f7494f214e4c81919abbc55c2bcdf756",
+    "bytes": 2961631,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+    "sha256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_db52ca0057ec8191b12c8278376608e1",
+    "bytes": 3297279,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+    "sha256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_f8f606219be8819184c71dca8acec911",
+    "bytes": 3059512,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png",
+    "sha256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_050cec90611c8191b6958c465ed4ef8e",
+    "bytes": 3508909,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png",
+    "sha256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_078c3c4f162881918684776b96da22dc",
+    "bytes": 3074366,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "liubei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+    "sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_4d7fa0d0bdb081918555584f735160e8",
+    "bytes": 3232403,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage5_card_v2.png",
+    "sha256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_61070a768c688191acea67ad5b3c18bc",
+    "bytes": 3486655,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/heritage6_card.png",
+    "sha256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_c7ed83db1094819185400fc3f83d589d",
+    "bytes": 3423416,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine5_card.png",
+    "sha256": "96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_d9e46151cc70819183de4e96ba69eccd",
+    "bytes": 3230320,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/divine6_card.png",
+    "sha256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_4af206bf704481919c0a988293a1eb7a",
+    "bytes": 3456699,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon5_card.png",
+    "sha256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_e43bc984f37c8191aa79fb138b694149",
+    "bytes": 3328590,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/demon6_card.png",
+    "sha256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_8d2c016987b88191aa44ea4d3fc44003",
+    "bytes": 3526636,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha5_card.png",
+    "sha256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_8b00878647d881919d7950ddf105f7fa",
+    "bytes": 3091531,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "guanyu",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png",
+    "sha256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_35d4b2de703c8191af64039c8450c8ff",
+    "bytes": 3286870,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "traditional",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png",
+    "sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_ed2f10e66fd88191b6f7ffdfc00270c8",
+    "bytes": 3266878,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "traditional",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png",
+    "sha256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_665299e27a348191ac0f55dec9207765",
+    "bytes": 3321396,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "divine",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png",
+    "sha256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_2d4e67e15e948191b0b4f9a21cbabdef",
+    "bytes": 3453393,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "divine",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png",
+    "sha256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_fe78f79444008191a21d0715c3d53fcb",
+    "bytes": 3783931,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "demonic",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png",
+    "sha256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_9ba6b448a6c08191bfda392069d673ad",
+    "bytes": 3255130,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "demonic",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png",
+    "sha256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_6997b72f4c6481918e0276012ce8bf59",
+    "bytes": 3579195,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "mecha",
+    "tier": 5,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png",
+    "sha256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_7c6e3b2da9548191b27840f68ef72add",
+    "bytes": 3236658,
+    "alpha_extrema": null
+  },
+  {
+    "hero": "zhangfei",
+    "branch": "mecha",
+    "tier": 6,
+    "kind": "card",
+    "source_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png",
+    "sha256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e",
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "library_file_id": "libfile_209bb68151848191bc2626db54bce634",
+    "bytes": 3428180,
+    "alpha_extrema": null
+  }
+]

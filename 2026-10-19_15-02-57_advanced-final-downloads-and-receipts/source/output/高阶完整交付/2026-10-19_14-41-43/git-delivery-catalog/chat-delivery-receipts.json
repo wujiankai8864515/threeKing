@@ -1,0 +1,33 @@
+{
+  "note": "Accepted tool response confirms accepted send, not user receipt/read or artwork final approval. Receipts relayed by primary agent.",
+  "receipts": [
+    {
+      "scope": "刘备8个形态ZIP",
+      "count": 8,
+      "status": "accepted",
+      "message_id": "Sentinel_f5bfab01042081919a864ac8c46c7c82",
+      "utc": "2026-10-19T06:45:07Z"
+    },
+    {
+      "scope": "关羽8个形态ZIP",
+      "count": 8,
+      "status": "accepted",
+      "message_id": "Sentinel_11174f144858819180d443adfeda2a4f",
+      "utc": "2026-10-19T06:54:34Z"
+    },
+    {
+      "scope": "张飞8个形态ZIP",
+      "count": 8,
+      "status": "accepted",
+      "message_id": "Sentinel_74d161c550288191859fab869df41e05",
+      "utc": "2026-10-19T06:58:12Z"
+    },
+    {
+      "scope": "README、120素材总清单、完整技能文化方案、说明ZIP",
+      "count": 4,
+      "status": "accepted",
+      "message_id": "Sentinel_64d161d5f584819182bb98668b815bc0",
+      "utc": "2026-10-19T06:59:20Z"
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+[
+  {
+    "英雄": "liubei",
+    "分支": "traditional",
+    "星级": 5,
+    "源文件名": "traditional-5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+    "LibraryID": "libfile_2642b3477eb88191b8b9afa8c7915f6a",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "traditional",
+    "星级": 6,
+    "源文件名": "traditional-6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+    "LibraryID": "libfile_8b2be6390bbc8191a67b3097d427fac8",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "divine",
+    "星级": 5,
+    "源文件名": "divine-5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+    "LibraryID": "libfile_f7494f214e4c81919abbc55c2bcdf756",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "divine",
+    "星级": 6,
+    "源文件名": "divine-6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+    "LibraryID": "libfile_db52ca0057ec8191b12c8278376608e1",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "demonic",
+    "星级": 5,
+    "源文件名": "demonic-5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+    "LibraryID": "libfile_f8f606219be8819184c71dca8acec911",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "demonic",
+    "星级": 6,
+    "源文件名": "demonic-6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+    "LibraryID": "libfile_050cec90611c8191b6958c465ed4ef8e",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "mecha",
+    "星级": 5,
+    "源文件名": "mecha-5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+    "LibraryID": "libfile_078c3c4f162881918684776b96da22dc",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "liubei",
+    "分支": "mecha",
+    "星级": 6,
+    "源文件名": "mecha-6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+    "LibraryID": "libfile_4d7fa0d0bdb081918555584f735160e8",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "traditional",
+    "星级": 5,
+    "源文件名": "heritage5_card_v2.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+    "LibraryID": "libfile_61070a768c688191acea67ad5b3c18bc",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "traditional",
+    "星级": 6,
+    "源文件名": "heritage6_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+    "LibraryID": "libfile_c7ed83db1094819185400fc3f83d589d",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "divine",
+    "星级": 5,
+    "源文件名": "divine5_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15",
+    "LibraryID": "libfile_d9e46151cc70819183de4e96ba69eccd",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "divine",
+    "星级": 6,
+    "源文件名": "divine6_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+    "LibraryID": "libfile_4af206bf704481919c0a988293a1eb7a",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "demonic",
+    "星级": 5,
+    "源文件名": "demon5_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+    "LibraryID": "libfile_e43bc984f37c8191aa79fb138b694149",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "demonic",
+    "星级": 6,
+    "源文件名": "demon6_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+    "LibraryID": "libfile_8d2c016987b88191aa44ea4d3fc44003",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "mecha",
+    "星级": 5,
+    "源文件名": "mecha5_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+    "LibraryID": "libfile_8b00878647d881919d7950ddf105f7fa",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "guanyu",
+    "分支": "mecha",
+    "星级": 6,
+    "源文件名": "mecha6_card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+    "LibraryID": "libfile_35d4b2de703c8191af64039c8450c8ff",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "traditional",
+    "星级": 5,
+    "源文件名": "legacy5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+    "LibraryID": "libfile_ed2f10e66fd88191b6f7ffdfc00270c8",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "traditional",
+    "星级": 6,
+    "源文件名": "legacy6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8",
+    "LibraryID": "libfile_665299e27a348191ac0f55dec9207765",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "divine",
+    "星级": 5,
+    "源文件名": "divine5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3",
+    "LibraryID": "libfile_2d4e67e15e948191b0b4f9a21cbabdef",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "divine",
+    "星级": 6,
+    "源文件名": "divine6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52",
+    "LibraryID": "libfile_fe78f79444008191a21d0715c3d53fcb",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "demonic",
+    "星级": 5,
+    "源文件名": "demon5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8",
+    "LibraryID": "libfile_9ba6b448a6c08191bfda392069d673ad",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "demonic",
+    "星级": 6,
+    "源文件名": "demon6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581",
+    "LibraryID": "libfile_6997b72f4c6481918e0276012ce8bf59",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "mecha",
+    "星级": 5,
+    "源文件名": "mecha5-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a",
+    "LibraryID": "libfile_7c6e3b2da9548191b27840f68ef72add",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  },
+  {
+    "英雄": "zhangfei",
+    "分支": "mecha",
+    "星级": 6,
+    "源文件名": "mecha6-card.png",
+    "尺寸": [
+      1024,
+      1536
+    ],
+    "SHA256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e",
+    "LibraryID": "libfile_209bb68151848191bc2626db54bce634",
+    "说明": "无框插画源，非装框卡，不计入120最终素材"
+  }
+]

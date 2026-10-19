@@ -1,0 +1,145 @@
+{
+  "recorded_at": "2026-10-19T15:02:57.996717+08:00",
+  "previous_status": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/status-overrides.json",
+  "current_summary": "刘关张高阶120源图和24装框已完整归档；120最终素材（24装框＋96配套）、24素材ZIP与4文档附件均获聊天服务accepted，尚待用户评审。全部25下载包可由Git逐图资源精确重建。其他37英雄暂停且保留拒用历史。",
+  "effective_source_map": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/effective-source-map.json",
+  "user_final_accepted": false,
+  "delivery": {
+    "user_final_accepted": false,
+    "batches": [
+      {
+        "message_id": "Sentinel_bbaeb02d469c8191a0845232e45cdf9b",
+        "sent_at": "2026-10-19T06:16:06Z",
+        "scope": "Liu divine pair and Zhang traditional pair previews",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_6de07b6797908191ad9b477d3b9a6d77",
+        "sent_at": "2026-10-19T06:28:22Z",
+        "scope": "Liu traditional eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_6fe058fbe20c8191bdbaa4be1eb3b367",
+        "sent_at": "2026-10-19T06:35:08Z",
+        "scope": "Liu eight native framed cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_a74e26e0c690819197482d92b6b4b053",
+        "sent_at": "2026-10-19T06:35:19Z",
+        "scope": "Guan eight native framed cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_a51780135fdc8191aa68a438d2958bf8",
+        "sent_at": "2026-10-19T06:36:00Z",
+        "scope": "Zhang traditional eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_3b3a20dafde881919c4b10dfd6162915",
+        "sent_at": "2026-10-19T06:36:09Z",
+        "scope": "Liu divine demonic mecha three overview previews",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_7702a7a18d508191bfc79f24f1a326c8",
+        "sent_at": "2026-10-19T06:40:09Z",
+        "scope": "Zhang Fei eight native framed cards",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_a32e2f553bbc819187c57e803d12b243",
+        "sent_at": "2026-10-19T06:42:04Z",
+        "scope": "Liu divine eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_c766c1f484908191a7443a9445e1c203",
+        "sent_at": "2026-10-19T06:42:07Z",
+        "scope": "Liu demonic eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_019bb74b048481919d0dc709352cdeab",
+        "sent_at": "2026-10-19T06:42:09Z",
+        "scope": "Liu mecha eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_1e06bf04f8148191a44b04debb29b37f",
+        "sent_at": "2026-10-19T06:42:41Z",
+        "scope": "Guan traditional eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_3f02f18cb82c8191b57074de0a4e7a3f",
+        "sent_at": "2026-10-19T06:42:45Z",
+        "scope": "Zhang divine eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_d92fdf7418c481918d1049ba7daa6d79",
+        "sent_at": "2026-10-19T06:47:08Z",
+        "scope": "Guan divine eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_f5bfab01042081919a864ac8c46c7c82",
+        "sent_at": "2026-10-19T06:45:07Z",
+        "scope": "Liu eight ZIP download copies",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_b8962342687481919fce61be87760c7c",
+        "sent_at": "2026-10-19T06:52:09Z",
+        "scope": "Zhang demonic eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_ace4592db5308191a5d6c48ea49020cb",
+        "sent_at": "2026-10-19T06:54:20Z",
+        "scope": "Guan demonic eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_394d04a45cbc81919d6104e82b15dc71",
+        "sent_at": "2026-10-19T06:54:22Z",
+        "scope": "Guan mecha eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_11174f144858819180d443adfeda2a4f",
+        "sent_at": "2026-10-19T06:54:34Z",
+        "scope": "Guan eight ZIP download copies",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_9eb2d3cf83f881919283733f4dbf9a2b",
+        "sent_at": "2026-10-19T06:57:24Z",
+        "scope": "Zhang mecha eight supporting source images",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_74d161c550288191859fab869df41e05",
+        "sent_at": "2026-10-19T06:58:12Z",
+        "scope": "Zhang eight ZIP download copies",
+        "status": "accepted_by_chat_service"
+      },
+      {
+        "message_id": "Sentinel_64d161d5f584819182bb98668b815bc0",
+        "sent_at": "2026-10-19T06:59:20Z",
+        "scope": "README, skill/culture document, complete index and document ZIP",
+        "status": "accepted_by_chat_service"
+      }
+    ],
+    "source_images_delivered": 96,
+    "framed_cards_delivered": 24,
+    "preview_images_delivered": 5,
+    "final_images_delivered": 120,
+    "planned_final_images": 120,
+    "download_material_zip_count": 24,
+    "final_document_attachments": 4
+  }
+}

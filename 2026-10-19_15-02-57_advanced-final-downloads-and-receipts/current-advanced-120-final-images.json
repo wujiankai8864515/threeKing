@@ -1,0 +1,2221 @@
+{
+  "recorded_at": "2026-10-19T15:02:57.996717+08:00",
+  "source_assets": [
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-card.png",
+      "sha256": "f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/f797ee513576ef84b1b5f5098585831adde5c0d72f1a2d7d178e051ede226a4c.png",
+      "library_file_id": "libfile_2642b3477eb88191b8b9afa8c7915f6a",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-biography.png",
+      "sha256": "96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca.png",
+      "library_file_id": "libfile_0b335b1aaf5c8191b2720fc988d19d5b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-portrait.png",
+      "sha256": "3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93.png",
+      "library_file_id": "libfile_0f0e1a5965088191a1b0e92deed17444",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-cutin.png",
+      "sha256": "8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829.png",
+      "library_file_id": "libfile_45f65442f9a48191b73d6da18a6cdad7",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-vfx.png",
+      "sha256": "afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1.png",
+      "library_file_id": "libfile_71ec8697cabc81919d636185468f8826",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-card.png",
+      "sha256": "476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/476a7981cb68bcce88e2ddb2e15bfd9fb7ca0d9248fab01541baca6908fa2f6a.png",
+      "library_file_id": "libfile_8b2be6390bbc8191a67b3097d427fac8",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-biography.png",
+      "sha256": "f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d.png",
+      "library_file_id": "libfile_f47c75532d0881919d543d1825207a4b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-portrait.png",
+      "sha256": "7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b.png",
+      "library_file_id": "libfile_a6f827b2cffc8191bb6abb0ba4fdcb1d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-cutin.png",
+      "sha256": "936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd.png",
+      "library_file_id": "libfile_5bd69478ea5c8191b3579f4f4059235a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-vfx.png",
+      "sha256": "cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4.png",
+      "library_file_id": "libfile_60921f9e628c8191bf2e54ac72bd5fc3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-card.png",
+      "sha256": "60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/60415eaf4c3d88f04d73970ab70b2d741e71efbaaa1a3a674e44dc89fd2d2b58.png",
+      "library_file_id": "libfile_f7494f214e4c81919abbc55c2bcdf756",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png",
+      "sha256": "a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6.png",
+      "library_file_id": "libfile_4a48b821c40c81918c2477c462836feb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-portrait.png",
+      "sha256": "369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049.png",
+      "library_file_id": "libfile_39745d03e7588191b1676b1fd8e00c99",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-cutin.png",
+      "sha256": "086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79.png",
+      "library_file_id": "libfile_18dc5502d33c81918f0e707d8a8a3601",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-vfx.png",
+      "sha256": "e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260.png",
+      "library_file_id": "libfile_416edb50a4348191bc3520070dab2c85",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-card.png",
+      "sha256": "2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/2ca3e151b9f2964654521f5d0b0e8ecad50a3707741f44a909991bf7eab475ed.png",
+      "library_file_id": "libfile_db52ca0057ec8191b12c8278376608e1",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-biography.png",
+      "sha256": "9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec.png",
+      "library_file_id": "libfile_764812442f54819182adca95ecfeeabe",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-portrait.png",
+      "sha256": "817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b.png",
+      "library_file_id": "libfile_0aaf576ac58081918390e939a8180f44",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-cutin.png",
+      "sha256": "f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735.png",
+      "library_file_id": "libfile_443843bf412481918de822808b345733",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-vfx.png",
+      "sha256": "7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9.png",
+      "library_file_id": "libfile_10232711955881918242ac786849183c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-card.png",
+      "sha256": "9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/9e75c122f2a80089a89ea92764093d27c656df552f6d1ebec46ad5082657c923.png",
+      "library_file_id": "libfile_f8f606219be8819184c71dca8acec911",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-biography.png",
+      "sha256": "60276a3d829f5393126d676f2a3093b63ac3379d664f6edd9a3087e6b807f67e",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/generated_images/exec-745e12be-b96b-4779-b04c-0d3cfbadf862.png",
+      "library_file_id": "libfile_f02ea69a5b7c8191b215e7e4754021f2",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-portrait.png",
+      "sha256": "377b76016cb93733737c61ce527f59137e524d5e7dbe8a420f1a396eb789ba51",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/generated_images/exec-3a52e947-8c8b-4c5f-b8b4-c35f395ba14b.png",
+      "library_file_id": "libfile_0159491a2438819193be573ec9246144",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+      "sha256": "4e037dc02e832e98737bbf0e2b1e30d077284b24443fa65c19da733dd58d9765",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+      "library_file_id": "libfile_4e42cd3a44748191a5256e87a42bf49b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+      "sha256": "4166c510b5853851f061d04de0db18bd992f22b8e0805816d68b5007bb031d9a",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+      "library_file_id": "libfile_3d0ae2bab9f481918c037578c8b58e0a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-card.png",
+      "sha256": "ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/ea193ce3a7262eae0f2549739f389268cf5284f18b1e146e331340ef34c09185.png",
+      "library_file_id": "libfile_050cec90611c8191b6958c465ed4ef8e",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+      "sha256": "56bca699ed5800bb1293698a9f79bc1949e872bf8e6b4846bd65d8844fc6f42a",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+      "library_file_id": "libfile_883b57ae87c48191a505b55c71f90906",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+      "sha256": "a416f91c21864b5eb444cc7689dd4c105977640dc79f8e8acebec73cd3c8a589",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+      "library_file_id": "libfile_f5673db0f3ec8191a344c320f59a354e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+      "sha256": "f9382bb7ffe5d4bc91dbca38c68b32991734ec45246e34f7fe804d9aeb624208",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+      "library_file_id": "libfile_d188db8853108191bc0842017d5db190",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+      "sha256": "aab1b708a21346dff29877688c011710c4f9accb023dc57c9fb3d43aec1b5a68",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+      "library_file_id": "libfile_3a53cce7efc481919afa30ccd1dc7632",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-card.png",
+      "sha256": "6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/6e927ffa2238dbc7a1bb5b5c9c5159d4f7cd771d9867a9ec82361f25dce79869.png",
+      "library_file_id": "libfile_078c3c4f162881918684776b96da22dc",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-biography.png",
+      "sha256": "fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db.png",
+      "library_file_id": "libfile_284d6fb22be08191b50f26050b471856",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-portrait.png",
+      "sha256": "50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e.png",
+      "library_file_id": "libfile_ec414631a8a08191a98722ef73b45fed",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-cutin.png",
+      "sha256": "dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b.png",
+      "library_file_id": "libfile_1a4ba0946c7c8191b6fe51d9a572944a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-vfx.png",
+      "sha256": "95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199.png",
+      "library_file_id": "libfile_eab6c2904a3881919048462e3245bf3b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-card.png",
+      "sha256": "6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/6ca6f1cec8929dad64356a678537b47b5c2039847998b08de57923d7feab67dc.png",
+      "library_file_id": "libfile_4d7fa0d0bdb081918555584f735160e8",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-biography.png",
+      "sha256": "18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7.png",
+      "library_file_id": "libfile_ef89b226d6088191acf4be0127eae117",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-portrait.png",
+      "sha256": "23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677.png",
+      "library_file_id": "libfile_8248ca10aef081919e43d16fcc901193",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-cutin.png",
+      "sha256": "5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a.png",
+      "library_file_id": "libfile_36715ffa5c248191aa105d0c8010be71",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png",
+      "sha256": "b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571.png",
+      "library_file_id": "libfile_22758ddab2f48191bdcecb8aa04b6570",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_card_v2.png",
+      "sha256": "0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/0861eccbc60fb62f3f523f940adc8f12a6469536488cb050d3b447b70197f71a.png",
+      "library_file_id": "libfile_61070a768c688191acea67ad5b3c18bc",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_story.png",
+      "sha256": "4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35.png",
+      "library_file_id": "libfile_d660039c7410819189b0d30635f98b76",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_avatar.png",
+      "sha256": "b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668.png",
+      "library_file_id": "libfile_f2b95320fe988191a70161534ca33e67",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_cutin.png",
+      "sha256": "079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896.png",
+      "library_file_id": "libfile_c5a99cc726bc8191a11a097a5208cd9c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_fx.png",
+      "sha256": "82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd.png",
+      "library_file_id": "libfile_d8ac3c7aa710819186859b020e8d70e1",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_card.png",
+      "sha256": "e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/e57cb10ce86226b8b87ef0c49880af343ec823d125eb027ec56fbd26757634cb.png",
+      "library_file_id": "libfile_c7ed83db1094819185400fc3f83d589d",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_story.png",
+      "sha256": "c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0.png",
+      "library_file_id": "libfile_c75b562580a48191bce460780e20fa37",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_avatar_v2.png",
+      "sha256": "c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809.png",
+      "library_file_id": "libfile_bfead209b1ac8191bac76c16b29e4b39",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_cutin.png",
+      "sha256": "2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8.png",
+      "library_file_id": "libfile_300ab84d8ee08191a84f45f255b88ccb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_fx.png",
+      "sha256": "685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876.png",
+      "library_file_id": "libfile_487a58313cf881918c690401da19959e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_card.png",
+      "sha256": "96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/96bb548574400d7e8e3b8965eede57a1232dbc6ce64a5c2401562ca492a55f15.png",
+      "library_file_id": "libfile_d9e46151cc70819183de4e96ba69eccd",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_story.png",
+      "sha256": "ca96ef3429665b93432df52b4371b812cfa21ec453c66a64cee77801811041a2",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/ca96ef3429665b93432df52b4371b812cfa21ec453c66a64cee77801811041a2.png",
+      "library_file_id": "libfile_ddcc8c2b9ed48191bec8cd2b42e99e7a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_avatar.png",
+      "sha256": "2e0eca492cc6d740074596a8ce11e8e79f9c088a8d0f93d58042ed868ef03f12",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/2e0eca492cc6d740074596a8ce11e8e79f9c088a8d0f93d58042ed868ef03f12.png",
+      "library_file_id": "libfile_b9adcb7892788191b0d994c82304a6af",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_cutin.png",
+      "sha256": "85978b25190dd6a3a386e2b21017e581a6c300b11feef953de8f1c12d3414560",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/85978b25190dd6a3a386e2b21017e581a6c300b11feef953de8f1c12d3414560.png",
+      "library_file_id": "libfile_f796835299508191b5d149b35b522ee9",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_fx.png",
+      "sha256": "a323771dc474106d83d9c3d31e06d156d74a2f171a7e0b7367ca1954e73bde5d",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/a323771dc474106d83d9c3d31e06d156d74a2f171a7e0b7367ca1954e73bde5d.png",
+      "library_file_id": "libfile_36a09c8295b881918cb09687a26d390e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_card.png",
+      "sha256": "3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/3821435fb85e549e59e92c3bf0653699bba63baa38df695b4b37796a03da8f55.png",
+      "library_file_id": "libfile_4af206bf704481919c0a988293a1eb7a",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_story.png",
+      "sha256": "7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db.png",
+      "library_file_id": "libfile_00cd8b0886088191853baa6f6afb3cbe",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_avatar.png",
+      "sha256": "c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9.png",
+      "library_file_id": "libfile_17182e505c14819185de21622e3dac3d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_cutin.png",
+      "sha256": "4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393.png",
+      "library_file_id": "libfile_a3b673a56124819186e5ec5d153ee7ff",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_fx.png",
+      "sha256": "486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587.png",
+      "library_file_id": "libfile_66359525541081919d330c3e916efbc3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_card.png",
+      "sha256": "6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/6e6d73b20fd1c6a715bb0df89c96f5551c136a3ec0a4aab9feb823b9a5f26168.png",
+      "library_file_id": "libfile_e43bc984f37c8191aa79fb138b694149",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_story.png",
+      "sha256": "be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7.png",
+      "library_file_id": "libfile_3b11e90e375081918f6bc00712094f0a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_avatar.png",
+      "sha256": "17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1.png",
+      "library_file_id": "libfile_26b361655c80819199abf7e3fddb2999",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_cutin.png",
+      "sha256": "b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03.png",
+      "library_file_id": "libfile_da310d458a0c81919bd62d68cd01e5eb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_fx.png",
+      "sha256": "90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5.png",
+      "library_file_id": "libfile_b9c2c7884df08191971c4df2510960a4",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_card.png",
+      "sha256": "8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/8a4e2cc5afcd33644b801ea7ea86d953837f08bac8d6dac08c44164a061b6842.png",
+      "library_file_id": "libfile_8d2c016987b88191aa44ea4d3fc44003",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_story.png",
+      "sha256": "b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f.png",
+      "library_file_id": "libfile_da818f6c71888191a4d2ce857a04166b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_avatar.png",
+      "sha256": "7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258.png",
+      "library_file_id": "libfile_6fb02c5d80008191a2c9dc309de0d85e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_cutin.png",
+      "sha256": "2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b.png",
+      "library_file_id": "libfile_eaf4ff0b785481918aee8f6f64182709",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_fx_v2.png",
+      "sha256": "84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18.png",
+      "library_file_id": "libfile_d9a7a543fffc8191a0c95c09773cdb3e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_card.png",
+      "sha256": "aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/aaa4ea04ae58081441da9989348bcee181796e3a98cc355314b99ffd2dfeefc6.png",
+      "library_file_id": "libfile_8b00878647d881919d7950ddf105f7fa",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_story.png",
+      "sha256": "7b15e446b4f17c9610b2720b1f2cc946964d6ec6b8715a1e9c5dcb56b89c4a9e",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_story.png",
+      "library_file_id": "libfile_dd651031c5688191bca6774360fbb9f4",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.png",
+      "sha256": "61db6d8aaa15840b7433f341230603ac05a14d3326800620397035046d6efd33",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.png",
+      "library_file_id": "libfile_243ae1d8c1948191976337c41b707b1e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.png",
+      "sha256": "5fed75553655cd8e1df10fcb4e89f3c609655e816f917ba2af87cbe6324c57bd",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.png",
+      "library_file_id": "libfile_9e82833d611081919309b80e0085d25b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.png",
+      "sha256": "82409f050a6eb581c3b4b32c42f3d061cc6a372fa012262be6fe65011a7bbb6d",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.png",
+      "library_file_id": "libfile_24eedc892ed88191ad27ab1ba61a6cd0",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_card.png",
+      "sha256": "7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/7b1a970b7c7bd810fd6099bea656c3925f3f1ec163eac12c673fe7e66941fd4c.png",
+      "library_file_id": "libfile_35d4b2de703c8191af64039c8450c8ff",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_story.png",
+      "sha256": "53a9f1a87a07b3781af86b77a325d10654929ebf26cdd6a8af2a78f82db2fc0a",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_story.png",
+      "library_file_id": "libfile_7479499abea88191ab4b9e7975619657",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.png",
+      "sha256": "cc91d4f96a7e57823f0f5db7efabeec4acb17771d06e28f6d17f30d765597c7c",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.png",
+      "library_file_id": "libfile_b3845d62f53c8191a6de8e8677622a5d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.png",
+      "sha256": "04cfdb247bfff15a611e622749e69a79e3fc04e6310443ae04a6ee08167e2773",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.png",
+      "library_file_id": "libfile_33d7e4d2f00c81919b557573a22c9ada",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.png",
+      "sha256": "9c27f7a5a9db354e4c286c1c72aab1689935d5c783ad7635cf0d5cc7caa416e7",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.png",
+      "library_file_id": "libfile_4ac9e232066881919943f319b79830d9",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-avatar.png",
+      "sha256": "3573a193b726cda4c3998a2905006bdb8b85c1234a57f2493c955c8f4a093182",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-avatar.png",
+      "library_file_id": "libfile_1e73ff86e2908191a2778b9faa01cd81",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-bio.png",
+      "sha256": "2c318b939973efa26cc18bffb346ac5b5aab08339a4e7dc797578d9ce67ae26f",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-bio.png",
+      "library_file_id": "libfile_572a188a879881918eda9fe971ba7e5e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-card.png",
+      "sha256": "d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/d7ce39a9b60ed583ca40e3bc58107069bc6cc5697067916a1f4f18dce1af841e.png",
+      "library_file_id": "libfile_ed2f10e66fd88191b6f7ffdfc00270c8",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-cast.png",
+      "sha256": "305d9a31b324d37333fc3d871548f27884cd198b08d04835d79499cf5dfac0fe",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-cast.png",
+      "library_file_id": "libfile_c9d3e9e4e518819194493d66efd5b53e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-fx.png",
+      "sha256": "3c69664eae42db78442fd35ed8abe4ff71ba14ecca1936dd4e8d5c50c87000a6",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-fx.png",
+      "library_file_id": "libfile_11269ea69df48191821e868b4659e845",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-avatar.png",
+      "sha256": "9b200031ce41e2e40d3f537c0d3727a6fa07ad78e4296b20371c70bc9799bb56",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-avatar.png",
+      "library_file_id": "libfile_0f6a688aa3c08191b4279883de6e3b18",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-bio.png",
+      "sha256": "c7d4d0362302267d6a9be6326a1e08df650aa745ef687e5f8ac2a474cbe9f965",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-bio.png",
+      "library_file_id": "libfile_4331816db0848191a5446510d096c7ae",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-card.png",
+      "sha256": "a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/a75687d978f0c1cfa1c92edb49c4c454fa48e13d13dbdce586ade73183c50dd8.png",
+      "library_file_id": "libfile_665299e27a348191ac0f55dec9207765",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-cast.png",
+      "sha256": "830137eaa3caacb117d10fed66652a3d55600bfa3382047b1749a180d047200e",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-cast.png",
+      "library_file_id": "libfile_10bdeacdbf38819180b19a563f2eb6b6",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-fx.png",
+      "sha256": "60d71090549e2df7aaa68e87cd6d290b39d221a6d8ef864040b91bdf8fd4177b",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-fx.png",
+      "library_file_id": "libfile_c5a6836e1cd081918be28f422a8f4111",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-avatar.png",
+      "sha256": "8ebd4454198ba590451817d4607894ae8567b3d0cf5c7a3472d20138299133c5",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-avatar.png",
+      "library_file_id": "libfile_c93646fa4cdc8191bf4143ac430f45a7",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-bio.png",
+      "sha256": "aa06a92fb9b662c008c38148747a099c69675c2517f8279a6ba81f7dd154ec51",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-bio.png",
+      "library_file_id": "libfile_652a8cfa61488191b8a18e57178f027b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-card.png",
+      "sha256": "980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/980c378166a3d78bef15737f541b83ff3666455cf07b9bfb1718f92acb2116c3.png",
+      "library_file_id": "libfile_2d4e67e15e948191b0b4f9a21cbabdef",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-cast.png",
+      "sha256": "298b26bbe4e337967d36c78e0aa80e64dac01179399b8f428f316f43c271142b",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-cast.png",
+      "library_file_id": "libfile_d0221ea2f0fc8191a03f45f9d7668162",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-fx.png",
+      "sha256": "6346b47ba9a8b113a6376943804420c9e12e029a7a18fbbfa127d8146e5403cd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-fx.png",
+      "library_file_id": "libfile_284debe598b48191a3120dc028637a7b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-avatar.png",
+      "sha256": "221830dc69c4b88ec4f6d85ca0e0144f8175809b237a2d4edb86554696381ddd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-avatar.png",
+      "library_file_id": "libfile_c31fdf5183348191a363a28938340e6d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-bio.png",
+      "sha256": "350938239018f5ec435ae8749368f7f7f6e22eea4daca5bfc0b5f11edebf2897",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-bio.png",
+      "library_file_id": "libfile_822a1dcb70a88191a435bdfa1a713372",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-card.png",
+      "sha256": "3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/3d0b7cd028ccccf057c0caffde54443c2faf3175e6b99a8293e9460ebd729c52.png",
+      "library_file_id": "libfile_fe78f79444008191a21d0715c3d53fcb",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-cast.png",
+      "sha256": "7a4c5e12d5a48bdfd32f8ae2450f631f11f47404f4a82ccab8f5459e49df9549",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-cast.png",
+      "library_file_id": "libfile_d3df2efbc77481918112e76eaa96c87a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-fx.png",
+      "sha256": "9f0cf922977d90f8ab4f7cad26d2ea13fb9e7309bd27553d28363c216421a00e",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-fx.png",
+      "library_file_id": "libfile_fb52a544fbb4819181942bdcd17a4724",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-avatar.png",
+      "sha256": "f08e08bb0acb095273d687528ba8007998b10548a1a3eaa85aa216962b48899a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/f08e08bb0acb095273d687528ba8007998b10548a1a3eaa85aa216962b48899a.png",
+      "library_file_id": "libfile_860e36f09c248191a2ed4501e80c0370",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-bio.png",
+      "sha256": "11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49.png",
+      "library_file_id": "libfile_92a888332c788191a9a41363914d2b7a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-card.png",
+      "sha256": "7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/7df4158fefcde5b3020ba3bcc98dc9effee340a31b5cd76e46154ab3030c82c8.png",
+      "library_file_id": "libfile_9ba6b448a6c08191bfda392069d673ad",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-cast.png",
+      "sha256": "35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a.png",
+      "library_file_id": "libfile_0853282694dc8191a9648cb955673ba0",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-fx.png",
+      "sha256": "18345103d987ffc73f842f1d1bfabe5af66b814ed3e991afdb485ea97e991d3f",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/18345103d987ffc73f842f1d1bfabe5af66b814ed3e991afdb485ea97e991d3f.png",
+      "library_file_id": "libfile_0ce744344fb881918330d09dadd25f2c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-avatar.png",
+      "sha256": "8ba3a24a1ad5cb9cca57acb2c56f9cf61cc2b1a17d46df29007ab1a001767e4a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/8ba3a24a1ad5cb9cca57acb2c56f9cf61cc2b1a17d46df29007ab1a001767e4a.png",
+      "library_file_id": "libfile_08f670242f58819188e80d54337f2148",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-bio.png",
+      "sha256": "04d7f6466926977b999870850371bbbde3cca98bb921a70c208748a5791ac95b",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/04d7f6466926977b999870850371bbbde3cca98bb921a70c208748a5791ac95b.png",
+      "library_file_id": "libfile_8c7bc329036081919e11f0a2f5c85ab3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-card.png",
+      "sha256": "d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/d65869eebb9d17c14412bf087220f6181990e06ba4951642d97aef6acb794581.png",
+      "library_file_id": "libfile_6997b72f4c6481918e0276012ce8bf59",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-cast.png",
+      "sha256": "dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683.png",
+      "library_file_id": "libfile_890b26dde37c8191b350f3106cfb3747",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-fx.png",
+      "sha256": "f717d76b46bc7bdeb962b0c7e8119cc8df275f87ed3b9bdeb1603a65e5889db0",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/f717d76b46bc7bdeb962b0c7e8119cc8df275f87ed3b9bdeb1603a65e5889db0.png",
+      "library_file_id": "libfile_6107d0235d1c8191ba27d99d369db926",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-avatar.png",
+      "sha256": "710bdbcb1c6b147e6714144ad543dd92bb4c92f7377fc80f6c871d3ae39ff273",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/710bdbcb1c6b147e6714144ad543dd92bb4c92f7377fc80f6c871d3ae39ff273.png",
+      "library_file_id": "libfile_5daa348e48b08191ac72c99d77bb50bc",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-bio.png",
+      "sha256": "dc733bc4d40f43b4882cd9b5d1583899b22ac7c2f912bc6a98b722ffa9ba88a7",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/dc733bc4d40f43b4882cd9b5d1583899b22ac7c2f912bc6a98b722ffa9ba88a7.png",
+      "library_file_id": "libfile_5dba0410c0948191addff6b94f40b144",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-card.png",
+      "sha256": "a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/a51c942d75f5ebf351d5021aa75b113c7d8d3fd40e8474a85365423a7823395a.png",
+      "library_file_id": "libfile_7c6e3b2da9548191b27840f68ef72add",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-cast.png",
+      "sha256": "1815d1644630927c64ac8622168ee14c01f051fbf4b7e1ca017ace9b4a83a2a4",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/1815d1644630927c64ac8622168ee14c01f051fbf4b7e1ca017ace9b4a83a2a4.png",
+      "library_file_id": "libfile_09cbcd67cc348191a2ada62a61ac9101",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-fx.png",
+      "sha256": "12d1a7e042da6d22aed4662b6f3170ea294135394293117870c7997caec9ce0e",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/12d1a7e042da6d22aed4662b6f3170ea294135394293117870c7997caec9ce0e.png",
+      "library_file_id": "libfile_8f6589a002b08191a6a423233e3df152",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-avatar.png",
+      "sha256": "760d2790719ae9d60d7ffe2b4c8748192f4c32b617b8fd2cfe86cd68d60ac747",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/760d2790719ae9d60d7ffe2b4c8748192f4c32b617b8fd2cfe86cd68d60ac747.png",
+      "library_file_id": "libfile_3d2e288969e48191abe612c4bba684cf",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-bio.png",
+      "sha256": "e38d60baa80a85081d1dd5357708c07aa27f5023fc42564a936296933ee5bb82",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/e38d60baa80a85081d1dd5357708c07aa27f5023fc42564a936296933ee5bb82.png",
+      "library_file_id": "libfile_7eff205bec6c819193fc6f5eca92ce7d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-card.png",
+      "sha256": "14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/14121e9bc21df770a969ea48a717721f444016f5fdf82ec1b2dea0bf8a24e89e.png",
+      "library_file_id": "libfile_209bb68151848191bc2626db54bce634",
+      "kind": "card_art",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-cast.png",
+      "sha256": "6648d19c5650ed1f661b1e8ff2d6719ba9f7982be8df24f6bce6a32b2d6ba447",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/6648d19c5650ed1f661b1e8ff2d6719ba9f7982be8df24f6bce6a32b2d6ba447.png",
+      "library_file_id": "libfile_6d6571361d24819195e723a9c66e135f",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-fx.png",
+      "sha256": "aabf9f375c4ceaa0cf8455b71babfc251f30a4e17eb949ebd4f54e9de467bbb2",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/aabf9f375c4ceaa0cf8455b71babfc251f30a4e17eb949ebd4f54e9de467bbb2.png",
+      "library_file_id": "libfile_443e47b90f1881918f7dc846181a07bc",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    }
+  ],
+  "final_images": [
+    {
+      "hero": "guanyu",
+      "branch": "demonic",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-5star.png",
+      "sha256": "4af62c8de6b4a08b24a07cc02c2b27385c6f91d366293f130759a712dbacac66",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/4af62c8de6b4a08b24a07cc02c2b27385c6f91d366293f130759a712dbacac66.png",
+      "library_file_id": "libfile_75c521bb62a481918b7effbcf7b7c2bd",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "demonic",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-demonic-6star.png",
+      "sha256": "daacea2ffe8b46e38c1d077832ab270c9d27daad1f0922a28fb1bc982c94de28",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/daacea2ffe8b46e38c1d077832ab270c9d27daad1f0922a28fb1bc982c94de28.png",
+      "library_file_id": "libfile_42e4bbcd7acc8191af428b6ed369100a",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "divine",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-5star.png",
+      "sha256": "52a90412c3c2f1c19dfdf53438b3f714fee6143e1df76831519b0374aa8e4334",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/52a90412c3c2f1c19dfdf53438b3f714fee6143e1df76831519b0374aa8e4334.png",
+      "library_file_id": "libfile_85e56d9a41d48191b65ad98c31484715",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "divine",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-divine-6star.png",
+      "sha256": "532afe9661ac0bf8bda2bb4e2c17f391d39fe37af07a14956bb1c63f00138a40",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/532afe9661ac0bf8bda2bb4e2c17f391d39fe37af07a14956bb1c63f00138a40.png",
+      "library_file_id": "libfile_244a757dbe5081918fa46b5fb9ce59be",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "mecha",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-5star.png",
+      "sha256": "78a1b89be826fd018e2ee1a2f4972b294fca7649efc4a1a4a9878ab439008de1",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/78a1b89be826fd018e2ee1a2f4972b294fca7649efc4a1a4a9878ab439008de1.png",
+      "library_file_id": "libfile_42db8212b69c819195c8db21bc97a062",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "mecha",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-mecha-6star.png",
+      "sha256": "5c7fcf068dc50fa0cd7fdb79b9ff28d3d6ccfba2f61f18b764812c0be7bd345a",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/5c7fcf068dc50fa0cd7fdb79b9ff28d3d6ccfba2f61f18b764812c0be7bd345a.png",
+      "library_file_id": "libfile_2d45426afef08191b762c9c1e39dab2c",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "traditional",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-5star.png",
+      "sha256": "2b6178a7b6509ba5ee4f404c20d22262abc8b47667ae8a970d1ae1a3afd89b35",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/2b6178a7b6509ba5ee4f404c20d22262abc8b47667ae8a970d1ae1a3afd89b35.png",
+      "library_file_id": "libfile_0b2c0899b1b88191ad39c168cb8c96f1",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "branch": "traditional",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/guanyu-traditional-6star.png",
+      "sha256": "8e99da8d4b5541ab0ad28fa156209cc6229d8e6be12036fe0cdc96f00ed2c650",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/assets/sha256/8e99da8d4b5541ab0ad28fa156209cc6229d8e6be12036fe0cdc96f00ed2c650.png",
+      "library_file_id": "libfile_e4dc2280148c81919ae537e2fb19365f",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "demonic",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-5star.png",
+      "sha256": "0e208a9983b581bed5409307e9f3cfb1951c52089c17962593785e7c24821260",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/0e208a9983b581bed5409307e9f3cfb1951c52089c17962593785e7c24821260.png",
+      "library_file_id": "libfile_9a3268cd0ffc8191b39ba1d0f6531c3a",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "demonic",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-demonic-6star.png",
+      "sha256": "d8e61156c9a743eb908278219a5ab3fac821814ed49fb692a07e3925c0764aef",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/d8e61156c9a743eb908278219a5ab3fac821814ed49fb692a07e3925c0764aef.png",
+      "library_file_id": "libfile_391283b4460481918ae9fda9b55d1d50",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "divine",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-5star.png",
+      "sha256": "0eb44cbe689d7be3a3fd102863c7e3aac59d187590129e72af42b29d88a1ed0c",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/0eb44cbe689d7be3a3fd102863c7e3aac59d187590129e72af42b29d88a1ed0c.png",
+      "library_file_id": "libfile_ecd72bd1c9a88191b1a579d445bce9d5",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "divine",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-divine-6star.png",
+      "sha256": "bcaf23dda7305d99cf853f52f73434f952458f351185e756a73ede326fe82605",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/bcaf23dda7305d99cf853f52f73434f952458f351185e756a73ede326fe82605.png",
+      "library_file_id": "libfile_7c308caa6a688191a6c04fcc9bacd7c6",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "mecha",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-5star.png",
+      "sha256": "e6ae964a9e15c4acffb3a9fe5ac982a0f793d84c1658f7280218c30d3b2d8d3d",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/e6ae964a9e15c4acffb3a9fe5ac982a0f793d84c1658f7280218c30d3b2d8d3d.png",
+      "library_file_id": "libfile_9a30a43a7a6881919ece462d95b56b6b",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "mecha",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-mecha-6star.png",
+      "sha256": "5ee949acac880b8179bf5580d074346a790e3ddef7cfedc0200d20a51b0bfeb0",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/5ee949acac880b8179bf5580d074346a790e3ddef7cfedc0200d20a51b0bfeb0.png",
+      "library_file_id": "libfile_0ef69411887c8191b4c40d186015d06a",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "traditional",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-5star.png",
+      "sha256": "9886a41c48f67f6225c0f0cfa139680f017ddbac13cfa62f1b0ecb8ec5c91417",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/9886a41c48f67f6225c0f0cfa139680f017ddbac13cfa62f1b0ecb8ec5c91417.png",
+      "library_file_id": "libfile_f7bb355e2f708191a872eb5ae7e9d63e",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "branch": "traditional",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/liubei-traditional-6star.png",
+      "sha256": "340b0105136d7aa2828afed72cb6dc060eb67ffd0ba958ade59f17e74e43ca11",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/340b0105136d7aa2828afed72cb6dc060eb67ffd0ba958ade59f17e74e43ca11.png",
+      "library_file_id": "libfile_f448451cebe4819184f3c8aef5d21b5f",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "demonic",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-5star.png",
+      "sha256": "f7703acf87f30ef1eb073ec8663c823ba95a44f5c99177068bb2432846e1153d",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/f7703acf87f30ef1eb073ec8663c823ba95a44f5c99177068bb2432846e1153d.png",
+      "library_file_id": "libfile_e4e6369c35bc8191b271b6d9bb3e022c",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "demonic",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-demonic-6star.png",
+      "sha256": "ecf9577c514bba161b0d1ff48a02155062b71310208259b8314f7a1ce1817311",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/ecf9577c514bba161b0d1ff48a02155062b71310208259b8314f7a1ce1817311.png",
+      "library_file_id": "libfile_91f8f6cd75048191baeb10947b48a1eb",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "divine",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-5star.png",
+      "sha256": "18bb19bbc516556ab7779ec580aff7ae6256b81e1a9abb5998f2f08fdf6f1df3",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/18bb19bbc516556ab7779ec580aff7ae6256b81e1a9abb5998f2f08fdf6f1df3.png",
+      "library_file_id": "libfile_edd2c3c8b3548191981a92ed4420d914",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "divine",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-divine-6star.png",
+      "sha256": "1859cd0b3e2845f26d7907fc5709d303c32d3ffb31cead171f2cd3e61ef887d4",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/1859cd0b3e2845f26d7907fc5709d303c32d3ffb31cead171f2cd3e61ef887d4.png",
+      "library_file_id": "libfile_7a3e43dda840819180ed926d528b1554",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "mecha",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-5star.png",
+      "sha256": "661e6251a6523c47b9b8ae75385e791b60d57c95d586682b2b49edba0122eb8e",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/661e6251a6523c47b9b8ae75385e791b60d57c95d586682b2b49edba0122eb8e.png",
+      "library_file_id": "libfile_78315f0277dc8191a7386589f5107813",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "mecha",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-mecha-6star.png",
+      "sha256": "7a771ab360b9e9857518a6a4c5b023b323c42ce17bb7bf6a1cf7986b79ca6bbd",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/7a771ab360b9e9857518a6a4c5b023b323c42ce17bb7bf6a1cf7986b79ca6bbd.png",
+      "library_file_id": "libfile_48db21940d14819190b11ea263c37f84",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "traditional",
+      "tier": 5,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-5star.png",
+      "sha256": "b4a3bf44cf59d9bc9e18a9f593df0fe444bb25a038914a86a80da5a277d1461b",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/b4a3bf44cf59d9bc9e18a9f593df0fe444bb25a038914a86a80da5a277d1461b.png",
+      "library_file_id": "libfile_754adb4c3f8881919add05503c394717",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "branch": "traditional",
+      "tier": 6,
+      "source_path": "advanced-card-ui/2026-10-19_13-57-00_UTC+08/cards/zhangfei-traditional-6star.png",
+      "sha256": "6bedac095ee938df2ecd0e79fdaf866270308c3d68627aff070202b3c708b2d7",
+      "repository_path": "2026-10-19_14-20-55_advanced-four-framed-cards-pair-previews/assets/sha256/6bedac095ee938df2ecd0e79fdaf866270308c3d68627aff070202b3c708b2d7.png",
+      "library_file_id": "libfile_cff5fb4676288191b0a5c618f101f203",
+      "kind": "framed_card",
+      "status": "delivered_candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-biography.png",
+      "sha256": "96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/96c0248985ceb2380427ebc2a326395a752020238d7b6ff7803e6624062aa1ca.png",
+      "library_file_id": "libfile_0b335b1aaf5c8191b2720fc988d19d5b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-portrait.png",
+      "sha256": "3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/3ad14e974a5972059123b4db589380b5046045d8a1c8596d0811badea1bbab93.png",
+      "library_file_id": "libfile_0f0e1a5965088191a1b0e92deed17444",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-cutin.png",
+      "sha256": "8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/8745878cd8e96f6286376e3c36d1d6ed6f8fd45603542c280de509a5f06af829.png",
+      "library_file_id": "libfile_45f65442f9a48191b73d6da18a6cdad7",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-5-vfx.png",
+      "sha256": "afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/afd1a07cc1df49779d5bf916e6fe00b47a05391653e2dc5359cbcc7a2a411db1.png",
+      "library_file_id": "libfile_71ec8697cabc81919d636185468f8826",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-biography.png",
+      "sha256": "f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/f2c51af0775f48aac0ed203ee1deee43234970e9177a2086a116ae5f0068d16d.png",
+      "library_file_id": "libfile_f47c75532d0881919d543d1825207a4b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-portrait.png",
+      "sha256": "7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/7239e2baf8b5d9b8e7f1c0ee6dc94cde1155730efa99f662225ff8c3c092f57b.png",
+      "library_file_id": "libfile_a6f827b2cffc8191bb6abb0ba4fdcb1d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-cutin.png",
+      "sha256": "936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/936e7f6aa5b193180aab3ed57b726e9a90367a4b7bfe1f7380768a0557f593fd.png",
+      "library_file_id": "libfile_5bd69478ea5c8191b3579f4f4059235a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/traditional-6-vfx.png",
+      "sha256": "cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4",
+      "repository_path": "2026-10-19_14-16-03_advanced-liubei-traditional-source-and-common-frames/assets/sha256/cde4568e58704e8981c7e809b23d794fe04ffce5a7fde0d3a0d29e70b8bf4cb4.png",
+      "library_file_id": "libfile_60921f9e628c8191bf2e54ac72bd5fc3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-biography.png",
+      "sha256": "a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/a3f8c40df0878409344518f7b7fe6a581981dcb71a10bb3088e765a549e24cb6.png",
+      "library_file_id": "libfile_4a48b821c40c81918c2477c462836feb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-portrait.png",
+      "sha256": "369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/369d6576ea2ac94b97dbdba6564218cbfc35930809f4c495fba12faea5734049.png",
+      "library_file_id": "libfile_39745d03e7588191b1676b1fd8e00c99",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-cutin.png",
+      "sha256": "086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/086015a5f87b626db2e6a9745239209dbbc0b661ecf374dd9aae90dd695aad79.png",
+      "library_file_id": "libfile_18dc5502d33c81918f0e707d8a8a3601",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-5-vfx.png",
+      "sha256": "e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/e7b4c03972c43e417032baadcfcf172e29030b055a106e55e989f14110759260.png",
+      "library_file_id": "libfile_416edb50a4348191bc3520070dab2c85",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-biography.png",
+      "sha256": "9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/9efc5a8269e5dbf1ac8001c082bb29653c0a76638a06d431a5c92c7db50693ec.png",
+      "library_file_id": "libfile_764812442f54819182adca95ecfeeabe",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-portrait.png",
+      "sha256": "817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/817e3afd5baccb09dabd9905f888a517267e8b4e6d42088e627abc1f4c800e4b.png",
+      "library_file_id": "libfile_0aaf576ac58081918390e939a8180f44",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-cutin.png",
+      "sha256": "f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/f238decbeefc475b09b832dac2777d45898939b8183394aff13cc2319f0b0735.png",
+      "library_file_id": "libfile_443843bf412481918de822808b345733",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/divine-6-vfx.png",
+      "sha256": "7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/assets/sha256/7d3e3ae4d2a4bd42f9c02da271783fdec4b114b239e9f0f162251e7ab0ac9cc9.png",
+      "library_file_id": "libfile_10232711955881918242ac786849183c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-biography.png",
+      "sha256": "60276a3d829f5393126d676f2a3093b63ac3379d664f6edd9a3087e6b807f67e",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/generated_images/exec-745e12be-b96b-4779-b04c-0d3cfbadf862.png",
+      "library_file_id": "libfile_f02ea69a5b7c8191b215e7e4754021f2",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-portrait.png",
+      "sha256": "377b76016cb93733737c61ce527f59137e524d5e7dbe8a420f1a396eb789ba51",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/generated_images/exec-3a52e947-8c8b-4c5f-b8b4-c35f395ba14b.png",
+      "library_file_id": "libfile_0159491a2438819193be573ec9246144",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+      "sha256": "4e037dc02e832e98737bbf0e2b1e30d077284b24443fa65c19da733dd58d9765",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-cutin.png",
+      "library_file_id": "libfile_4e42cd3a44748191a5256e87a42bf49b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+      "sha256": "4166c510b5853851f061d04de0db18bd992f22b8e0805816d68b5007bb031d9a",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-5-vfx.png",
+      "library_file_id": "libfile_3d0ae2bab9f481918c037578c8b58e0a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+      "sha256": "56bca699ed5800bb1293698a9f79bc1949e872bf8e6b4846bd65d8844fc6f42a",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-biography.png",
+      "library_file_id": "libfile_883b57ae87c48191a505b55c71f90906",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+      "sha256": "a416f91c21864b5eb444cc7689dd4c105977640dc79f8e8acebec73cd3c8a589",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-portrait.png",
+      "library_file_id": "libfile_f5673db0f3ec8191a344c320f59a354e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+      "sha256": "f9382bb7ffe5d4bc91dbca38c68b32991734ec45246e34f7fe804d9aeb624208",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-cutin.png",
+      "library_file_id": "libfile_d188db8853108191bc0842017d5db190",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+      "sha256": "aab1b708a21346dff29877688c011710c4f9accb023dc57c9fb3d43aec1b5a68",
+      "repository_path": "2026-10-19_14-24-11_advanced-liubei-divine-sources-and-sixteen-framed-cards/source/liubei-set/advanced_20261019_135505_UTC+08/demonic-6-vfx.png",
+      "library_file_id": "libfile_3a53cce7efc481919afa30ccd1dc7632",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-biography.png",
+      "sha256": "fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/fdb223e842cae7baea334aea24ba67c56136d5fe4a6a69e6009959a13f2529db.png",
+      "library_file_id": "libfile_284d6fb22be08191b50f26050b471856",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-portrait.png",
+      "sha256": "50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/50104011b778b4b2e3827aaa9bc5909dcf08e768e2f0308df663df6a6662db3e.png",
+      "library_file_id": "libfile_ec414631a8a08191a98722ef73b45fed",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-cutin.png",
+      "sha256": "dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/dcca350d14c06bd61cbe7ff3eccc823cbcac5033837d536f6cdd1f46259e620b.png",
+      "library_file_id": "libfile_1a4ba0946c7c8191b6fe51d9a572944a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-5-vfx.png",
+      "sha256": "95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/95561c1ebe0b28e850f7b7085119bd896822d385a79eb048726caaa2ed193199.png",
+      "library_file_id": "libfile_eab6c2904a3881919048462e3245bf3b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-biography.png",
+      "sha256": "18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/18ad7be38b38c529daef023191625b3806c06c4cf273a56bdd6443e5d6e201c7.png",
+      "library_file_id": "libfile_ef89b226d6088191acf4be0127eae117",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-portrait.png",
+      "sha256": "23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/23c55878a92b1f35fff5936d1bb999b0a5428e2af2e538a9f06af827e4e7b677.png",
+      "library_file_id": "libfile_8248ca10aef081919e43d16fcc901193",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-cutin.png",
+      "sha256": "5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/5826666d0e099021ea698a346464aaabf28687a4adf88d2ad3b29de4ce53121a.png",
+      "library_file_id": "libfile_36715ffa5c248191aa105d0c8010be71",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "liubei",
+      "source_path": "liubei-set/advanced_20261019_135505_UTC+08/mecha-6-vfx.png",
+      "sha256": "b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571",
+      "repository_path": "2026-10-19_14-29-12_advanced-liubei-mecha-and-forty-source-index/assets/sha256/b06abda1b64c156ec7e83b8a0871097c27372b9642cf5956d852427812e92571.png",
+      "library_file_id": "libfile_22758ddab2f48191bdcecb8aa04b6570",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_story.png",
+      "sha256": "4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/4140e1c2f566f2895fec8b069b1f55dd6e7b2da976b1f4a3298456287f0efa35.png",
+      "library_file_id": "libfile_d660039c7410819189b0d30635f98b76",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_avatar.png",
+      "sha256": "b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/b29c91873f727a09a4191b967da9f82f75ded7b56b5c7429ce16346d82401668.png",
+      "library_file_id": "libfile_f2b95320fe988191a70161534ca33e67",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_cutin.png",
+      "sha256": "079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/079a4c05ae6868f504b034438c09a74d77a21a1753a15c2639af2e64b2123896.png",
+      "library_file_id": "libfile_c5a99cc726bc8191a11a097a5208cd9c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage5_fx.png",
+      "sha256": "82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/82d2896b42cd9ff21365be085fca083a5f9577646af22594f052bdd498771edd.png",
+      "library_file_id": "libfile_d8ac3c7aa710819186859b020e8d70e1",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_story.png",
+      "sha256": "c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/c416b3bbdec46dfac252ca41adcd75af90f058d5b0f56e355d351801e1e1f3a0.png",
+      "library_file_id": "libfile_c75b562580a48191bce460780e20fa37",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_avatar_v2.png",
+      "sha256": "c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/c08e377e704a7772d6bf262526f131ba17f1b525c48e075cdb4826e275829809.png",
+      "library_file_id": "libfile_bfead209b1ac8191bac76c16b29e4b39",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_cutin.png",
+      "sha256": "2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/2ac00bee8bcc0fb24a7fa8137524779dd1c608511ee3783cdaeba28a7085bfe8.png",
+      "library_file_id": "libfile_300ab84d8ee08191a84f45f255b88ccb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/heritage6_fx.png",
+      "sha256": "685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/assets/sha256/685217f15dd92d58add8044d972e5acd536135387247871fd8acb9b09ff19876.png",
+      "library_file_id": "libfile_487a58313cf881918c690401da19959e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_story.png",
+      "sha256": "ca96ef3429665b93432df52b4371b812cfa21ec453c66a64cee77801811041a2",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/ca96ef3429665b93432df52b4371b812cfa21ec453c66a64cee77801811041a2.png",
+      "library_file_id": "libfile_ddcc8c2b9ed48191bec8cd2b42e99e7a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_avatar.png",
+      "sha256": "2e0eca492cc6d740074596a8ce11e8e79f9c088a8d0f93d58042ed868ef03f12",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/2e0eca492cc6d740074596a8ce11e8e79f9c088a8d0f93d58042ed868ef03f12.png",
+      "library_file_id": "libfile_b9adcb7892788191b0d994c82304a6af",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_cutin.png",
+      "sha256": "85978b25190dd6a3a386e2b21017e581a6c300b11feef953de8f1c12d3414560",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/85978b25190dd6a3a386e2b21017e581a6c300b11feef953de8f1c12d3414560.png",
+      "library_file_id": "libfile_f796835299508191b5d149b35b522ee9",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine5_fx.png",
+      "sha256": "a323771dc474106d83d9c3d31e06d156d74a2f171a7e0b7367ca1954e73bde5d",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/a323771dc474106d83d9c3d31e06d156d74a2f171a7e0b7367ca1954e73bde5d.png",
+      "library_file_id": "libfile_36a09c8295b881918cb09687a26d390e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_story.png",
+      "sha256": "7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/7e13ef2d96931d4dfd30db79217164e23dca78bc8259cb408ed63d4b5bdbf2db.png",
+      "library_file_id": "libfile_00cd8b0886088191853baa6f6afb3cbe",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_avatar.png",
+      "sha256": "c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/c196eb0716d2541d1414962fcd75b3b633921abd241e41e99d63ff00b4fef6e9.png",
+      "library_file_id": "libfile_17182e505c14819185de21622e3dac3d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_cutin.png",
+      "sha256": "4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/4049ae58ab48438740025c3828a355d3bc139babaf1ad5b2536bce7df5315393.png",
+      "library_file_id": "libfile_a3b673a56124819186e5ec5d153ee7ff",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/divine6_fx.png",
+      "sha256": "486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587",
+      "repository_path": "2026-10-19_14-47-38_advanced-guanyu-divine-ready-candidates/assets/sha256/486514fb496f98182d6e0124495efd2b6d8c49180b2938a12a086cc17c738587.png",
+      "library_file_id": "libfile_66359525541081919d330c3e916efbc3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_story.png",
+      "sha256": "be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/be12d09766afca4896901a3cae2e08d03356aacd460d61ecc88d87fd47ac56e7.png",
+      "library_file_id": "libfile_3b11e90e375081918f6bc00712094f0a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_avatar.png",
+      "sha256": "17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/17c7b6d9a507cab50af6c4e6eec27f02f2b56fae18172d2560e33c33e56dd4c1.png",
+      "library_file_id": "libfile_26b361655c80819199abf7e3fddb2999",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_cutin.png",
+      "sha256": "b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/b811541a4395cef67102de99d3199b9a93311a9fe35fd440abc87161b1defc03.png",
+      "library_file_id": "libfile_da310d458a0c81919bd62d68cd01e5eb",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon5_fx.png",
+      "sha256": "90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/90142a90ca25976e215e2993451d02f7195f07f48a2f216b617705876ee7b2b5.png",
+      "library_file_id": "libfile_b9c2c7884df08191971c4df2510960a4",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_story.png",
+      "sha256": "b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/b3b096adfc4d4aa85b9b53670b12525d7d33ae3adb85328ccbb3ae68c5d01b7f.png",
+      "library_file_id": "libfile_da818f6c71888191a4d2ce857a04166b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_avatar.png",
+      "sha256": "7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/7a75509b63d04c7954228f8c51701662376c3c39a7dbd4104a99b1434c546258.png",
+      "library_file_id": "libfile_6fb02c5d80008191a2c9dc309de0d85e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_cutin.png",
+      "sha256": "2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/2b979551d30afcbc1703f5fa2e3ab936ff51fef54f44b855968b5115cdfa697b.png",
+      "library_file_id": "libfile_eaf4ff0b785481918aee8f6f64182709",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/demon6_fx_v2.png",
+      "sha256": "84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/assets/sha256/84a100f5c247a4e2cde33c8ec42f64dfe46b9abe6f5a485eaba2eab11ac03b18.png",
+      "library_file_id": "libfile_d9a7a543fffc8191a0c95c09773cdb3e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_story.png",
+      "sha256": "7b15e446b4f17c9610b2720b1f2cc946964d6ec6b8715a1e9c5dcb56b89c4a9e",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_story.png",
+      "library_file_id": "libfile_dd651031c5688191bca6774360fbb9f4",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.png",
+      "sha256": "61db6d8aaa15840b7433f341230603ac05a14d3326800620397035046d6efd33",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_avatar.png",
+      "library_file_id": "libfile_243ae1d8c1948191976337c41b707b1e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.png",
+      "sha256": "5fed75553655cd8e1df10fcb4e89f3c609655e816f917ba2af87cbe6324c57bd",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_cutin.png",
+      "library_file_id": "libfile_9e82833d611081919309b80e0085d25b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.png",
+      "sha256": "82409f050a6eb581c3b4b32c42f3d061cc6a372fa012262be6fe65011a7bbb6d",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha5_fx.png",
+      "library_file_id": "libfile_24eedc892ed88191ad27ab1ba61a6cd0",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_story.png",
+      "sha256": "53a9f1a87a07b3781af86b77a325d10654929ebf26cdd6a8af2a78f82db2fc0a",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_story.png",
+      "library_file_id": "libfile_7479499abea88191ab4b9e7975619657",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.png",
+      "sha256": "cc91d4f96a7e57823f0f5db7efabeec4acb17771d06e28f6d17f30d765597c7c",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_avatar.png",
+      "library_file_id": "libfile_b3845d62f53c8191a6de8e8677622a5d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.png",
+      "sha256": "04cfdb247bfff15a611e622749e69a79e3fc04e6310443ae04a6ee08167e2773",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_cutin.png",
+      "library_file_id": "libfile_33d7e4d2f00c81919b557573a22c9ada",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "guanyu",
+      "source_path": "guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.png",
+      "sha256": "9c27f7a5a9db354e4c286c1c72aab1689935d5c783ad7635cf0d5cc7caa416e7",
+      "repository_path": "2026-10-19_14-53-33_advanced-guanyu-demonic-source-and-request-completion/source/guanyu-advanced/20261019_135432_UTC+08/mecha6_fx.png",
+      "library_file_id": "libfile_4ac9e232066881919943f319b79830d9",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-avatar.png",
+      "sha256": "3573a193b726cda4c3998a2905006bdb8b85c1234a57f2493c955c8f4a093182",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-avatar.png",
+      "library_file_id": "libfile_1e73ff86e2908191a2778b9faa01cd81",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-bio.png",
+      "sha256": "2c318b939973efa26cc18bffb346ac5b5aab08339a4e7dc797578d9ce67ae26f",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-bio.png",
+      "library_file_id": "libfile_572a188a879881918eda9fe971ba7e5e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-cast.png",
+      "sha256": "305d9a31b324d37333fc3d871548f27884cd198b08d04835d79499cf5dfac0fe",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-cast.png",
+      "library_file_id": "libfile_c9d3e9e4e518819194493d66efd5b53e",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-fx.png",
+      "sha256": "3c69664eae42db78442fd35ed8abe4ff71ba14ecca1936dd4e8d5c50c87000a6",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy5-fx.png",
+      "library_file_id": "libfile_11269ea69df48191821e868b4659e845",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-avatar.png",
+      "sha256": "9b200031ce41e2e40d3f537c0d3727a6fa07ad78e4296b20371c70bc9799bb56",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-avatar.png",
+      "library_file_id": "libfile_0f6a688aa3c08191b4279883de6e3b18",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-bio.png",
+      "sha256": "c7d4d0362302267d6a9be6326a1e08df650aa745ef687e5f8ac2a474cbe9f965",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-bio.png",
+      "library_file_id": "libfile_4331816db0848191a5446510d096c7ae",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-cast.png",
+      "sha256": "830137eaa3caacb117d10fed66652a3d55600bfa3382047b1749a180d047200e",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-cast.png",
+      "library_file_id": "libfile_10bdeacdbf38819180b19a563f2eb6b6",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-fx.png",
+      "sha256": "60d71090549e2df7aaa68e87cd6d290b39d221a6d8ef864040b91bdf8fd4177b",
+      "repository_path": "2026-10-19_14-33-00_advanced-twenty-four-framed-cards-complete-candidates/source/zhangfei-set/advanced_20261019_135505_UTC+08/legacy6-fx.png",
+      "library_file_id": "libfile_c5a6836e1cd081918be28f422a8f4111",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-avatar.png",
+      "sha256": "8ebd4454198ba590451817d4607894ae8567b3d0cf5c7a3472d20138299133c5",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-avatar.png",
+      "library_file_id": "libfile_c93646fa4cdc8191bf4143ac430f45a7",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-bio.png",
+      "sha256": "aa06a92fb9b662c008c38148747a099c69675c2517f8279a6ba81f7dd154ec51",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-bio.png",
+      "library_file_id": "libfile_652a8cfa61488191b8a18e57178f027b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-cast.png",
+      "sha256": "298b26bbe4e337967d36c78e0aa80e64dac01179399b8f428f316f43c271142b",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-cast.png",
+      "library_file_id": "libfile_d0221ea2f0fc8191a03f45f9d7668162",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine5-fx.png",
+      "sha256": "6346b47ba9a8b113a6376943804420c9e12e029a7a18fbbfa127d8146e5403cd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine5-fx.png",
+      "library_file_id": "libfile_284debe598b48191a3120dc028637a7b",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-avatar.png",
+      "sha256": "221830dc69c4b88ec4f6d85ca0e0144f8175809b237a2d4edb86554696381ddd",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-avatar.png",
+      "library_file_id": "libfile_c31fdf5183348191a363a28938340e6d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-bio.png",
+      "sha256": "350938239018f5ec435ae8749368f7f7f6e22eea4daca5bfc0b5f11edebf2897",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-bio.png",
+      "library_file_id": "libfile_822a1dcb70a88191a435bdfa1a713372",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-cast.png",
+      "sha256": "7a4c5e12d5a48bdfd32f8ae2450f631f11f47404f4a82ccab8f5459e49df9549",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-cast.png",
+      "library_file_id": "libfile_d3df2efbc77481918112e76eaa96c87a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/divine6-fx.png",
+      "sha256": "9f0cf922977d90f8ab4f7cad26d2ea13fb9e7309bd27553d28363c216421a00e",
+      "repository_path": "2026-10-19_14-42-49_advanced-guanyu-heritage-and-liubei-frozen-library/source/zhangfei-set/advanced_20261019_135505_UTC+08/divine6-fx.png",
+      "library_file_id": "libfile_fb52a544fbb4819181942bdcd17a4724",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-avatar.png",
+      "sha256": "f08e08bb0acb095273d687528ba8007998b10548a1a3eaa85aa216962b48899a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/f08e08bb0acb095273d687528ba8007998b10548a1a3eaa85aa216962b48899a.png",
+      "library_file_id": "libfile_860e36f09c248191a2ed4501e80c0370",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-bio.png",
+      "sha256": "11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/11cf20bbbc51a52a7d3cc0a5f22bc2cf5c361cd24dff7d893fc356bde1301e49.png",
+      "library_file_id": "libfile_92a888332c788191a9a41363914d2b7a",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-cast.png",
+      "sha256": "35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/35452dbfa620ca8bc5e474593b2ec749d200544016b83f2ba74ab0fdd1ba0f6a.png",
+      "library_file_id": "libfile_0853282694dc8191a9648cb955673ba0",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon5-fx.png",
+      "sha256": "18345103d987ffc73f842f1d1bfabe5af66b814ed3e991afdb485ea97e991d3f",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/18345103d987ffc73f842f1d1bfabe5af66b814ed3e991afdb485ea97e991d3f.png",
+      "library_file_id": "libfile_0ce744344fb881918330d09dadd25f2c",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-avatar.png",
+      "sha256": "8ba3a24a1ad5cb9cca57acb2c56f9cf61cc2b1a17d46df29007ab1a001767e4a",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/8ba3a24a1ad5cb9cca57acb2c56f9cf61cc2b1a17d46df29007ab1a001767e4a.png",
+      "library_file_id": "libfile_08f670242f58819188e80d54337f2148",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-bio.png",
+      "sha256": "04d7f6466926977b999870850371bbbde3cca98bb921a70c208748a5791ac95b",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/04d7f6466926977b999870850371bbbde3cca98bb921a70c208748a5791ac95b.png",
+      "library_file_id": "libfile_8c7bc329036081919e11f0a2f5c85ab3",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-cast.png",
+      "sha256": "dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/dfc77354de127055f874315a64f554ae9ad4e3b0e6773de5f4bb54c1ff53a683.png",
+      "library_file_id": "libfile_890b26dde37c8191b350f3106cfb3747",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/demon6-fx.png",
+      "sha256": "f717d76b46bc7bdeb962b0c7e8119cc8df275f87ed3b9bdeb1603a65e5889db0",
+      "repository_path": "2026-10-19_14-52-17_advanced-zhangfei-demonic-source-candidates/assets/sha256/f717d76b46bc7bdeb962b0c7e8119cc8df275f87ed3b9bdeb1603a65e5889db0.png",
+      "library_file_id": "libfile_6107d0235d1c8191ba27d99d369db926",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-avatar.png",
+      "sha256": "710bdbcb1c6b147e6714144ad543dd92bb4c92f7377fc80f6c871d3ae39ff273",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/710bdbcb1c6b147e6714144ad543dd92bb4c92f7377fc80f6c871d3ae39ff273.png",
+      "library_file_id": "libfile_5daa348e48b08191ac72c99d77bb50bc",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-bio.png",
+      "sha256": "dc733bc4d40f43b4882cd9b5d1583899b22ac7c2f912bc6a98b722ffa9ba88a7",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/dc733bc4d40f43b4882cd9b5d1583899b22ac7c2f912bc6a98b722ffa9ba88a7.png",
+      "library_file_id": "libfile_5dba0410c0948191addff6b94f40b144",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-cast.png",
+      "sha256": "1815d1644630927c64ac8622168ee14c01f051fbf4b7e1ca017ace9b4a83a2a4",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/1815d1644630927c64ac8622168ee14c01f051fbf4b7e1ca017ace9b4a83a2a4.png",
+      "library_file_id": "libfile_09cbcd67cc348191a2ada62a61ac9101",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha5-fx.png",
+      "sha256": "12d1a7e042da6d22aed4662b6f3170ea294135394293117870c7997caec9ce0e",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/12d1a7e042da6d22aed4662b6f3170ea294135394293117870c7997caec9ce0e.png",
+      "library_file_id": "libfile_8f6589a002b08191a6a423233e3df152",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-avatar.png",
+      "sha256": "760d2790719ae9d60d7ffe2b4c8748192f4c32b617b8fd2cfe86cd68d60ac747",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/760d2790719ae9d60d7ffe2b4c8748192f4c32b617b8fd2cfe86cd68d60ac747.png",
+      "library_file_id": "libfile_3d2e288969e48191abe612c4bba684cf",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-bio.png",
+      "sha256": "e38d60baa80a85081d1dd5357708c07aa27f5023fc42564a936296933ee5bb82",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/e38d60baa80a85081d1dd5357708c07aa27f5023fc42564a936296933ee5bb82.png",
+      "library_file_id": "libfile_7eff205bec6c819193fc6f5eca92ce7d",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-cast.png",
+      "sha256": "6648d19c5650ed1f661b1e8ff2d6719ba9f7982be8df24f6bce6a32b2d6ba447",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/6648d19c5650ed1f661b1e8ff2d6719ba9f7982be8df24f6bce6a32b2d6ba447.png",
+      "library_file_id": "libfile_6d6571361d24819195e723a9c66e135f",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    },
+    {
+      "hero": "zhangfei",
+      "source_path": "zhangfei-set/advanced_20261019_135505_UTC+08/mecha6-fx.png",
+      "sha256": "aabf9f375c4ceaa0cf8455b71babfc251f30a4e17eb949ebd4f54e9de467bbb2",
+      "repository_path": "2026-10-19_14-58-41_advanced-all-120-sources-and-final-delivery-map/assets/sha256/aabf9f375c4ceaa0cf8455b71babfc251f30a4e17eb949ebd4f54e9de467bbb2.png",
+      "library_file_id": "libfile_443e47b90f1881918f7dc846181a07bc",
+      "kind": "supporting",
+      "status": "candidate_not_user_accepted"
+    }
+  ],
+  "source_count": 120,
+  "framed_count": 24,
+  "final_delivery_count": 120,
+  "count_policy": "24 framed cards replace 24 unframed card artworks in final delivery; do not report 144 delivered images.",
+  "user_final_accepted": false,
+  "download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json"
+}
