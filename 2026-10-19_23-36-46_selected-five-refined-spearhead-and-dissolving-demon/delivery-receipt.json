@@ -1,0 +1,19 @@
+{
+  "receipts": [
+    {
+      "scope": "demon_new_fusion",
+      "message_id": "Sentinel_92bea14fa4b08191844243f58292f04c",
+      "timestamp": "2026-10-19T15:35:49.770720Z",
+      "library_file_id": "libfile_be4172dc80548191921ac767e1e5e29c",
+      "status": "accepted"
+    },
+    {
+      "scope": "mecha5_heritage5_divine05_mecha08",
+      "message_id": "Sentinel_fc86b478ad4c8191b2c14aae4c6724f5",
+      "timestamp": "2026-10-19T15:35:54.018727Z",
+      "status": "accepted"
+    }
+  ],
+  "user_read_confirmed": false,
+  "latest_UI_and_demon_approved": false
+}

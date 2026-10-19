@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope/asset-index.json",
+  "asset_index": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "15:28至15:29UTC最新反馈：魔人头硬接龙躯未批准，用户喜欢红天红光与白发白须，改为人形崩解黑龙成魔。人形上半身残袍下缘化黑红气流，黑龙在背后同向怒吼，不再人头接龙躯；凶狠杀气红短焰、不密碎点，仅宽腹偃月残刃不要完整柄，赤兔局部非血腥线索，麦城字置实际UI安全区无遮挡。只续修魔一张，配套仍待魔认可。放大旧枪图标因失真假被否决，独立重制高清精致枪头刃面/中脊/金属高光，保持大尺寸透明；五卡统一仅换icon层，其他认可插画不动。新源与图标在制，旧232100及硬接魔保历史。",
-  "latest_delta": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope",
-  "current_status": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope/status-overrides.json",
+  "note": "最新五卡已换独立生成高清精致枪头，刃面中脊金属高光、大尺寸透明；不采用已否决的放大旧图。魔改为人形上半身崩解黑红气流、黑龙背后同向怒吼，修正麦城牌匾到UI安全区，旧硬接龙身及遮字版保历史。五卡本轮两条消息服务accepted，魔新稿与高清枪头仍待用户认可，配套启动条件未触发。既有认可其他插画未重画；真实参数、原始生成源/局修、renderer/透明层/config、SHA/QA/Library均留存。",
+  "latest_delta": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon",
+  "current_status": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -118,7 +118,8 @@
     "2026-10-19_23-19-11_selected-mecha08-illustration-only",
     "2026-10-19_23-20-27_selected-frame03-skill-names-revision",
     "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion",
-    "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope"
+    "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope",
+    "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -256,7 +257,8 @@
     "2026-10-19_23-19-11_selected-mecha08-illustration-only",
     "2026-10-19_23-20-27_selected-frame03-skill-names-revision",
     "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion",
-    "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope"
+    "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope",
+    "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -265,7 +267,7 @@
   "current_asset_map": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-ASSET-MAP.json",
   "local_recovery_verification": "2026-10-18_21-14-17_local-recovery-verification/verification.json",
   "current_production_queue": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/CURRENT-PRODUCTION-QUEUE.json",
-  "remote_verified_commit": "5e977691e5ee9b885a7aca3b737f6507c29567ff",
+  "remote_verified_commit": "4e901761350b0f7c618f17f1d9a7068ec11b6979",
   "remote_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "research_status": "2026-10-18_20-42-29_eight-shu-production-and-26-hero-research/RESEARCH-STATUS.json",
   "current_delta_uploaded": false,
@@ -273,12 +275,12 @@
   "remote_latest_pushed_commit": "27cfbf418ed3b93004bbdaaa2635849a291b5ffb",
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
-  "remote_verification_receipt": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope/prior-remote-verification.json",
-  "effective_source_map": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope/effective-source-map.json",
-  "production_progress": "2026-10-19_23-30-20_demon-dissolving-human-and-refined-spearhead-scope/production-progress.json",
+  "remote_verification_receipt": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/prior-remote-verification.json",
+  "effective_source_map": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/effective-source-map.json",
+  "production_progress": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
-  "delivery_receipt": "2026-10-19_23-24-21_selected-five-cards-large-spear-ui-and-demon-fusion/delivery-receipt.json",
+  "delivery_receipt": "2026-10-19_23-36-46_selected-five-refined-spearhead-and-dissolving-demon/delivery-receipt.json",
   "historical_rejected_current_advanced120": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/current-advanced-120-final-images.json",
   "historical_rejected_advanced_download_catalog": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/CURRENT_ADVANCED.json",
   "historical_rejected_advanced_rebuild_script": "2026-10-19_15-02-57_advanced-final-downloads-and-receipts/source/output/高阶完整交付/2026-10-19_14-41-43/git-delivery-catalog/rebuild-downloads.py",

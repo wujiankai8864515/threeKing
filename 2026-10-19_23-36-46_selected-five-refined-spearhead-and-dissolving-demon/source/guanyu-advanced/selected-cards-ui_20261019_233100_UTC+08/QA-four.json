@@ -1,0 +1,22 @@
+[
+  {
+    "card": "mecha5",
+    "pixels_changed_outside_icon_region": 0,
+    "source_changed": false
+  },
+  {
+    "card": "heritage5",
+    "pixels_changed_outside_icon_region": 0,
+    "source_changed": false
+  },
+  {
+    "card": "divine5",
+    "pixels_changed_outside_icon_region": 0,
+    "source_changed": false
+  },
+  {
+    "card": "mecha6",
+    "pixels_changed_outside_icon_region": 0,
+    "source_changed": false
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "original_size": [
+    1254,
+    1254
+  ],
+  "alpha16_bbox": [
+    502,
+    13,
+    753,
+    1241
+  ],
+  "output_size": [
+    27,
+    130
+  ],
+  "mode": "isotropic_downsample_only",
+  "visible_height": 130,
+  "center": "standard unchanged"
+}

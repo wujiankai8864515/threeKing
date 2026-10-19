@@ -1,0 +1,45 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "selected08-renamed",
+  "tier": 6,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_233100_UTC+08/mecha6",
+  "skills": [
+    {
+      "name": "镇岳",
+      "level": 2
+    },
+    {
+      "name": "逆鳞",
+      "level": 2
+    },
+    {
+      "name": "天诛",
+      "level": 2
+    }
+  ],
+  "active_skill": {
+    "name": "龙御天穹",
+    "description": "沿用已定防御反击机制：防护、承受攻击蓄能、反击。此次只升级名称，不新增或更改数值、触发和机制。"
+  },
+  "passive_name_mapping": [
+    {
+      "old": "重甲",
+      "new": "镇岳",
+      "meaning": "重装防御，镇守如山。"
+    },
+    {
+      "old": "蓄能",
+      "new": "逆鳞",
+      "meaning": "承受攻击积蓄反击能量。"
+    },
+    {
+      "old": "反制",
+      "new": "天诛",
+      "meaning": "蓄势后以强力反击制敌。"
+    }
+  ]
+}
