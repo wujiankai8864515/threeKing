@@ -1,0 +1,26 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "天",
+  "branch_id": "piloted-dragon-mecha",
+  "tier": 5,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/ui-reference-fit_20261019_200600_UTC+08/mecha",
+  "skills": [
+    {
+      "name": "重甲",
+      "level": 1
+    },
+    {
+      "name": "蓄能",
+      "level": 1
+    },
+    {
+      "name": "反制",
+      "level": 1
+    }
+  ],
+  "troop_class": "长枪兵",
+  "advancement_placeholder": true,
+  "skill_values_status": "draft_not_balanced"
+}

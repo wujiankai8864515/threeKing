@@ -1,0 +1,14 @@
+{
+  "timestamp": "2026-10-19T20:09:40+08:00",
+  "status": "candidate_pending_user_review",
+  "library_file_id": "libfile_0342ca248888819182ceaf4a76dba28c",
+  "source": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/heavenly-hall_20261019_200300_UTC+08/神关羽-天庭鎏金坐像-整合原图.png",
+  "output": "guanyu-advanced/divine-devotion_20261019_192400_UTC+08/heavenly-hall_20261019_200300_UTC+08/final-card/guanyu-divine-devotion-5star.png",
+  "ui_script": "guanyu-advanced/ui-reference-fit_20261019_200600_UTC+08/render.py",
+  "supersedes_rejected": "sky-manifestation_20261019_195200_UTC+08",
+  "generated_sources": [
+    "exec-4220897a-cba2-40c6-a36b-1ff7e769cb4a.png",
+    "exec-4575c08b-1687-4ff1-8602-1da371a5d325.png",
+    "exec-3b73ee62-738b-4cb8-984f-f68d9a16648a.png"
+  ]
+}

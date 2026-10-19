@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-19T20:10:54.314246+08:00",
+  "previous_status": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/status-overrides.json",
+  "current_summary": "神天庭正堂高坐受香火新候选与原用户参考天字贴合UI已READY待交待审。第三方关帝坐像研究图仅参考，有来源，不宣称原创。旧天空神被否决；共用UI中的旧魔和六合体只历史。新授权魔10个无旧限制创意候选、六机甲巨翼光盾偃月炮护身龙、5种非紫晶结构材质六星框比选在制，未计完成。用户否决紫晶框，整批齐后再交，当前按完成批保存避免丢失。",
+  "effective_source_map": "2026-10-19_20-10-54_guanyu-heavenly-hall-reference-ui-ready/effective-source-map.json",
+  "delivery": {
+    "status": "ready_not_delivered",
+    "prior_delivery_receipt": "2026-10-19_19-58-56_guanyu-five-latest-sky-demon-combined-mecha/delivery-receipt.json",
+    "user_final_accepted": false
+  },
+  "other_37": "paused_rejected_historical_only"
+}
