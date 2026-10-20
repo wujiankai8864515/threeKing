@@ -1,0 +1,44 @@
+{
+  "archived_at": "2026-10-21T01:22:01.667367+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/manifest-batch1.json",
+      "original_name": "manifest-batch1.json",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/manifest-batch1.json",
+      "repository_path": "2026-10-21_01-22-01_zhangfei-heritage-five-six-biography-candidates/source/staged-production/zhangfei-bios_20261020_170400/manifest-batch1.json",
+      "sha256": "487f025b53d4349833f476fbf3436717183501f41179656627719af868d88a86",
+      "original_sha256": "487f025b53d4349833f476fbf3436717183501f41179656627719af868d88a86",
+      "bytes": 1373,
+      "archived_at": "2026-10-21T01:22:01.667367+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/heritage5-biography.png",
+      "original_name": "heritage5-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/heritage5-biography.png",
+      "repository_path": "2026-10-21_01-22-01_zhangfei-heritage-five-six-biography-candidates/assets/sha256/efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a.png",
+      "sha256": "efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a",
+      "original_sha256": "efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a",
+      "bytes": 2991462,
+      "archived_at": "2026-10-21T01:22:01.667367+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/heritage6-biography.png",
+      "original_name": "heritage6-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/heritage6-biography.png",
+      "repository_path": "2026-10-21_01-22-01_zhangfei-heritage-five-six-biography-candidates/assets/sha256/7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8.png",
+      "sha256": "7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8",
+      "original_sha256": "7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8",
+      "bytes": 3508436,
+      "archived_at": "2026-10-21T01:22:01.667367+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

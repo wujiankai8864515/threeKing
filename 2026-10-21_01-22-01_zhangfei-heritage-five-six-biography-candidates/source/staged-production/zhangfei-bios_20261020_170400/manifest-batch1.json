@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage5-biography.png",
+      "sha256": "efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a",
+      "status": "new_candidate_pending_review",
+      "title": "一声护归途",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage6-biography.png",
+      "sha256": "7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8",
+      "status": "new_candidate_pending_review",
+      "title": "群山借我一声",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。"
+    }
+  ]
+}
