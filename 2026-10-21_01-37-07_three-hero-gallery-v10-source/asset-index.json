@@ -1,0 +1,179 @@
+{
+  "archived_at": "2026-10-21T01:37:07.024263+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-demon6-attack_cg.webp",
+      "original_name": "liubei-demon6-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-demon6-attack_cg.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-demon6-attack_cg.webp",
+      "sha256": "be7a749e5a5e3178bc08f4972806c44fe0c1f2f319de3b0055f855b0b92d5d96",
+      "original_sha256": "be7a749e5a5e3178bc08f4972806c44fe0c1f2f319de3b0055f855b0b92d5d96",
+      "bytes": 879396,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-demon6-avatar.webp",
+      "original_name": "liubei-demon6-avatar.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-demon6-avatar.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-demon6-avatar.webp",
+      "sha256": "e2ca9dea088142529fab8767d9d87ee68109192d941e327679b4bac37dc7157a",
+      "original_sha256": "e2ca9dea088142529fab8767d9d87ee68109192d941e327679b4bac37dc7157a",
+      "bytes": 592220,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-divine6-attack_cg.webp",
+      "original_name": "liubei-divine6-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-divine6-attack_cg.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-divine6-attack_cg.webp",
+      "sha256": "60b667781c4720adbf7b641aca4b6798ff356ae1d1bd3845af6e32b70199cb18",
+      "original_sha256": "60b667781c4720adbf7b641aca4b6798ff356ae1d1bd3845af6e32b70199cb18",
+      "bytes": 799420,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-divine6-avatar.webp",
+      "original_name": "liubei-divine6-avatar.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-divine6-avatar.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-divine6-avatar.webp",
+      "sha256": "95a89d4fa67db14cbf7ecc1e3a93c59c77b4c73628cd24f95d4cf32a2d728472",
+      "original_sha256": "95a89d4fa67db14cbf7ecc1e3a93c59c77b4c73628cd24f95d4cf32a2d728472",
+      "bytes": 541284,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-divine6-biography.webp",
+      "original_name": "liubei-divine6-biography.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-divine6-biography.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-divine6-biography.webp",
+      "sha256": "c0b28d8e9dbf047d85e8f701e223151b21f69de2c7b14789d54bb0235ebc09c8",
+      "original_sha256": "c0b28d8e9dbf047d85e8f701e223151b21f69de2c7b14789d54bb0235ebc09c8",
+      "bytes": 570100,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-heritage6-biography.webp",
+      "original_name": "liubei-heritage6-biography.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-heritage6-biography.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-heritage6-biography.webp",
+      "sha256": "bc13930ea51c245a76fbfc97f83a64c100d2d22299f218c33f0d140ae4d51a45",
+      "original_sha256": "bc13930ea51c245a76fbfc97f83a64c100d2d22299f218c33f0d140ae4d51a45",
+      "bytes": 634866,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-mecha6-attack_cg.webp",
+      "original_name": "liubei-mecha6-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-mecha6-attack_cg.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-mecha6-attack_cg.webp",
+      "sha256": "8a7fb95fc3024d67b79baff9b1ef2b9120adb918d3787561ced8811ab252df1e",
+      "original_sha256": "8a7fb95fc3024d67b79baff9b1ef2b9120adb918d3787561ced8811ab252df1e",
+      "bytes": 794572,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/liubei-mecha6-avatar.webp",
+      "original_name": "liubei-mecha6-avatar.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/liubei-mecha6-avatar.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/liubei-mecha6-avatar.webp",
+      "sha256": "8c81415a07e3109356764ffc2624ea53d98106c8cf01e23afc79de8ea432f7b5",
+      "original_sha256": "8c81415a07e3109356764ffc2624ea53d98106c8cf01e23afc79de8ea432f7b5",
+      "bytes": 625020,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-divine5-attack_cg.webp",
+      "original_name": "zhangfei-divine5-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-divine5-attack_cg.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-divine5-attack_cg.webp",
+      "sha256": "bf6f5791d542a893be5b1b6f12d819589fe11a38eadaf0a4b8a4b1afe6291fde",
+      "original_sha256": "bf6f5791d542a893be5b1b6f12d819589fe11a38eadaf0a4b8a4b1afe6291fde",
+      "bytes": 515384,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-divine5-biography.webp",
+      "original_name": "zhangfei-divine5-biography.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-divine5-biography.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-divine5-biography.webp",
+      "sha256": "6b1cf6dbe086a506b92e59820bbf3a6f47fad9567171766cb51e1ce2348d2eee",
+      "original_sha256": "6b1cf6dbe086a506b92e59820bbf3a6f47fad9567171766cb51e1ce2348d2eee",
+      "bytes": 535304,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-divine6-attack_cg.webp",
+      "original_name": "zhangfei-divine6-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-divine6-attack_cg.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-divine6-attack_cg.webp",
+      "sha256": "7c4a646d663480d66e8c991ba6a2869f79523b2d4535e1bc5aa0dfac82f03787",
+      "original_sha256": "7c4a646d663480d66e8c991ba6a2869f79523b2d4535e1bc5aa0dfac82f03787",
+      "bytes": 578536,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-divine6-biography.webp",
+      "original_name": "zhangfei-divine6-biography.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-divine6-biography.webp",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-divine6-biography.webp",
+      "sha256": "89f3d12d9594f9e2ddc138b150ed78541b50cd5445085c947856b797c26a180b",
+      "original_sha256": "89f3d12d9594f9e2ddc138b150ed78541b50cd5445085c947856b797c26a180b",
+      "bytes": 558126,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/data.js",
+      "original_name": "data.js",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/data.js",
+      "repository_path": "2026-10-21_01-37-07_three-hero-gallery-v10-source/source/staged-production/threeheroes-gallery/dist/data.js",
+      "sha256": "eb2ac7295467287d5aa7fa0bf2401e5d7eaff91a755c893247f0d813f52ec4c0",
+      "original_sha256": "eb2ac7295467287d5aa7fa0bf2401e5d7eaff91a755c893247f0d813f52ec4c0",
+      "bytes": 45898,
+      "archived_at": "2026-10-21T01:37:07.024263+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_01-26-41_three-hero-gallery-v9-source/source/staged-production/threeheroes-gallery/dist/data.js",
+          "sha256": "bc2d12d602c9d3cb58d34be8229f02976e0bde22946e2e993f1211cfbb3ea19d"
+        }
+      ]
+    }
+  ]
+}
