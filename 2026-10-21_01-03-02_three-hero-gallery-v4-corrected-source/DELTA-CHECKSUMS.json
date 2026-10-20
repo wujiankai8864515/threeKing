@@ -1,0 +1,11 @@
+{
+  "README.md": "596ed898e447057bf3c0f703fbe257fa75a8702e6ad2c87c909a61ca9b5dfcdd",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "331b6ef533871584806e5498a5a2828180b8e816631c065a04c2d9375ebe9bba",
+  "production-progress.json": "0cb256296ba14de61828d4799183618653297adf48a452c14a7953ac41b1dbdd",
+  "effective-source-map.json": "3f13d42cc57f7e48a9494e76c981d24813d9215ef333219d8f65d5be17524d87",
+  "archive-scope.json": "042496a92ea60653d78227a977c851b2b829d9d158f2dae8900fa5536e20230f",
+  "asset-index.json": "ca77facc9481600cf3e3d5eae243050161cefd11a95f874814e19511127f0045",
+  "source/staged-production/threeheroes-gallery/dist/app.js": "78f2630be2f663d4039acf004c117af2df1e539078e5aeedf95316844f4b50fc",
+  "source/staged-production/threeheroes-gallery/dist/data.js": "192469dc72f5c1ce5be837876a557c4fbd340855b5c6ef04f1c0586719b423c3"
+}

@@ -1,0 +1,41 @@
+{
+  "archived_at": "2026-10-21T01:03:02.107575+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/app.js",
+      "original_name": "app.js",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/app.js",
+      "repository_path": "2026-10-21_01-03-02_three-hero-gallery-v4-corrected-source/source/staged-production/threeheroes-gallery/dist/app.js",
+      "sha256": "78f2630be2f663d4039acf004c117af2df1e539078e5aeedf95316844f4b50fc",
+      "original_sha256": "78f2630be2f663d4039acf004c117af2df1e539078e5aeedf95316844f4b50fc",
+      "bytes": 4997,
+      "archived_at": "2026-10-21T01:03:02.107575+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/source/staged-production/threeheroes-gallery/dist/app.js",
+          "sha256": "a65073fac3f68fa657f50750f21892252cc03fae1f1cf524f9ac4c4dfdc95629"
+        }
+      ]
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/data.js",
+      "original_name": "data.js",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/data.js",
+      "repository_path": "2026-10-21_01-03-02_three-hero-gallery-v4-corrected-source/source/staged-production/threeheroes-gallery/dist/data.js",
+      "sha256": "192469dc72f5c1ce5be837876a557c4fbd340855b5c6ef04f1c0586719b423c3",
+      "original_sha256": "192469dc72f5c1ce5be837876a557c4fbd340855b5c6ef04f1c0586719b423c3",
+      "bytes": 27683,
+      "archived_at": "2026-10-21T01:03:02.107575+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/source/staged-production/threeheroes-gallery/dist/data.js",
+          "sha256": "78eded44d0714f44e784847e015cbaee0c4bf015468b9ccaf3abeb1fa1e5c092"
+        }
+      ]
+    }
+  ]
+}
