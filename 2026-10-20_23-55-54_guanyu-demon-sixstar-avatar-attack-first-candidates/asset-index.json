@@ -1,0 +1,29 @@
+{
+  "archived_at": "2026-10-20T23:55:54.317537+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-attack-cg.png",
+      "original_name": "demon6-attack-cg.png",
+      "repository_path": "2026-10-20_23-55-54_guanyu-demon-sixstar-avatar-attack-first-candidates/assets/sha256/d763ae005eb9dce5f95db0be7ee2399ce7784c31e756cecf55bda49a1b216e8e.png",
+      "sha256": "d763ae005eb9dce5f95db0be7ee2399ce7784c31e756cecf55bda49a1b216e8e",
+      "original_sha256": "d763ae005eb9dce5f95db0be7ee2399ce7784c31e756cecf55bda49a1b216e8e",
+      "bytes": 3385039,
+      "archived_at": "2026-10-20T23:55:54.317537+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-avatar.png",
+      "original_name": "demon6-avatar.png",
+      "repository_path": "2026-10-20_23-55-54_guanyu-demon-sixstar-avatar-attack-first-candidates/assets/sha256/4350a06af8f1aa491a20cd598f82d239f35ffb565390f1b2b1cd89d6a4587f8d.png",
+      "sha256": "4350a06af8f1aa491a20cd598f82d239f35ffb565390f1b2b1cd89d6a4587f8d",
+      "original_sha256": "4350a06af8f1aa491a20cd598f82d239f35ffb565390f1b2b1cd89d6a4587f8d",
+      "bytes": 3203098,
+      "archived_at": "2026-10-20T23:55:54.317537+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    }
+  ]
+}
