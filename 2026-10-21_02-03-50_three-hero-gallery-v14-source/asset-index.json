@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-10-21T02:03:50.221523+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-demon5-attack_cg.webp",
+      "original_name": "zhangfei-demon5-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-demon5-attack_cg.webp",
+      "repository_path": "2026-10-21_02-03-50_three-hero-gallery-v14-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-demon5-attack_cg.webp",
+      "sha256": "4c97690c502104b216f1a414a0f163d1bef8a4b6c8bcaedaa98433f18b486a86",
+      "original_sha256": "4c97690c502104b216f1a414a0f163d1bef8a4b6c8bcaedaa98433f18b486a86",
+      "bytes": 807722,
+      "archived_at": "2026-10-21T02:03:50.221523+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/zhangfei-demon6-attack_cg.webp",
+      "original_name": "zhangfei-demon6-attack_cg.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/zhangfei-demon6-attack_cg.webp",
+      "repository_path": "2026-10-21_02-03-50_three-hero-gallery-v14-source/source/staged-production/threeheroes-gallery/dist/assets/zhangfei-demon6-attack_cg.webp",
+      "sha256": "0516fdc23153add39cc4b271c328587eaa64c1fd115e00f7780074baa71cd012",
+      "original_sha256": "0516fdc23153add39cc4b271c328587eaa64c1fd115e00f7780074baa71cd012",
+      "bytes": 690674,
+      "archived_at": "2026-10-21T02:03:50.221523+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/data.js",
+      "original_name": "data.js",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/data.js",
+      "repository_path": "2026-10-21_02-03-50_three-hero-gallery-v14-source/source/staged-production/threeheroes-gallery/dist/data.js",
+      "sha256": "95a4200c87ce478c383aaeca1a3578120af3d865defbc7c330380c6e94d23f41",
+      "original_sha256": "95a4200c87ce478c383aaeca1a3578120af3d865defbc7c330380c6e94d23f41",
+      "bytes": 50105,
+      "archived_at": "2026-10-21T02:03:50.221523+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_01-54-52_three-hero-gallery-v13-source/source/staged-production/threeheroes-gallery/dist/data.js",
+          "sha256": "11092e0cc20e7e85cca036ec3f3e04ead5250187d3d8743437616afffd52f3cf"
+        }
+      ]
+    }
+  ]
+}
