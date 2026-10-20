@@ -1,0 +1,61 @@
+{
+  "form": "divine5",
+  "status": "supporting_candidates_complete_pending_user_review",
+  "reference": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+  "reference_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+  "method": "builtin image_gen, three independent calls with approved source as reference; source unchanged",
+  "entries": [
+    {
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-传记.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5f60abcd-6a7a-4a6b-96f9-d4378453e054.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "f10227d488b1a22118ba8e7dd4a22a320fc8d362632b612d52eabdd64f62edd9",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review."
+    },
+    {
+      "kind": "skill-cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-放招-透明.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-be312507-df94-4f73-8b1b-b33923bbfce9.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "881dac8c17d2dbd7674ff30ca1623fbf99ed5b37a963ed8f7bc0b1cb9c7edb89",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review.",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "transparent_fraction": 0.13288116455078125,
+      "alpha_qa": "True alpha verified; skill CG also reviewed composited on neutral gray. No fake checkerboard backdrop.",
+      "framing_note": "Cinematic cropped upper-body effect; some cloth/halo/flag extends to canvas edges, not a full-body animation sprite."
+    },
+    {
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-头像-透明.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-e5353b35-bf37-4008-8cc8-6235c73fbe77.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "1e1eb871ccdc663f7176c425b054213ba2133326c6863dd7db82064b95a27198",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review.",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.32937534498854065,
+      "alpha_qa": "True alpha verified; skill CG also reviewed composited on neutral gray. No fake checkerboard backdrop."
+    }
+  ],
+  "text": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/biography-and-move.md",
+  "not_implemented": "Static PNG assets only; no runtime animation or new balance values.",
+  "prompt_record": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/prompts.json"
+}

@@ -1,0 +1,157 @@
+{
+  "tool": "builtin_imagegen",
+  "assets": [
+    {
+      "form": "mecha5",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-传记-青龙启甲.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-7cbe5f55-9a41-4324-8f22-cdc01c331b90.png",
+      "sha256": "6c2a315ef6984edafb17d4be4fecb2e5bed1e7c6c0de86675cb375c6ef392942",
+      "qa": {
+        "mode": "RGB",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha5",
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-放招-透明.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d03bf247-4e8e-4e32-b8d9-4a64cbce3ae4.png",
+      "sha256": "ecd005655386fdb1e5c18e23dbf585b960f0950375cd3d8ac1fc3f89cde810f4",
+      "qa": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "alpha_extrema": [
+          0,
+          254
+        ],
+        "transparent_pixels": 395140,
+        "partly_transparent_pixels": 1177724
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha5",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-头像-透明.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-a37c8fea-a87d-41bf-9c09-3a1c0e45c60d.png",
+      "sha256": "eeca2067cbaab288a165960f10552cd882b664e924775d76c3b15ff43350381b",
+      "qa": {
+        "mode": "RGBA",
+        "size": [
+          1254,
+          1254
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "transparent_pixels": 338258,
+        "partly_transparent_pixels": 1233966
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha6",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-传记-空域护城.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-75b88180-550a-4d3a-86e4-f598f3bcc95c.png",
+      "sha256": "2c2489d268813f3b6e99e4639b317a47a3e6fa4d611b3da6a7639651360a0767",
+      "qa": {
+        "mode": "RGB",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha6",
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-放招-透明.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-81ec9351-3cc7-44c6-abbf-8dbd3fb50d4a.png",
+      "sha256": "42ba53e5558902ba17c253b681146d405ec5ad0b0e66efb8af9cf6f9571befce",
+      "qa": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "alpha_extrema": [
+          0,
+          254
+        ],
+        "transparent_pixels": 440314,
+        "partly_transparent_pixels": 1132550
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha6",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-fae9baf4-42a1-4dbc-816b-68cef842281f.png",
+      "sha256": "39566f562a7aab5edf5380e108042ccb19b7ccaddfde7284ae62471bc4be86a5",
+      "qa": {
+        "mode": "RGBA",
+        "size": [
+          1254,
+          1254
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "transparent_pixels": 344114,
+        "partly_transparent_pixels": 1228197
+      },
+      "status": "candidate_pending_user_review"
+    }
+  ],
+  "references": {
+    "mecha5": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+      "sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5"
+    },
+    "mecha6": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+      "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6"
+    }
+  },
+  "scope": "两套配套静态美术，每套传记横图、透明放招CG、透明头像；原定卡面与立绘未修改。",
+  "quality_notes": [
+    "五星机甲保留重装龙肩、胸舱内人类驾驶员，未加入六星环形浮翼。",
+    "六星保留环形机械背轮、龙首翼片与胸舱驾驶员，技能画面表现防护蓄能反击。",
+    "头像为方形画布半身构图，肩部按头像构图触边；CG光效可能延伸到边缘，非独立可运行技能动画。"
+  ],
+  "narrative_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha-narratives.md",
+  "prompts_summary": {
+    "common": "Actual built-in imagegen with approved local source as reference. Preserve green-gold dragon armor, red face, black beard, clearly visible small human Guan Yu pilot in chest cockpit. No text, no UI. Biography landscape; skill CG transparent landscape; avatar transparent square.",
+    "mecha5_biography": "First awakening in open-sided mountain fortress foundry, guardian steps from gantry and blocks gate, small engineers and retreating civilians, no six-star halo or wings.",
+    "mecha5_cg": "Two-handed horizontal counterattack, grounded stance, stored green energy from chest through arms into rigid guandao; genuine transparent alpha.",
+    "mecha5_avatar": "Head shoulders chest with pilot, no halo or wings, transparent square.",
+    "mecha6_biography": "First aerial defense activation above city, mechanical ring and dragon-head wings project emerald shield canopy, intercept missiles outside city, protect citizens.",
+    "mecha6_cg": "Airborne guardian extends open palm for curved shield, incoming bolts caught, energy returned through halo to guandao for counterattack; transparent alpha.",
+    "mecha6_avatar": "Square head shoulders chest cockpit and signature ring plus dragon-head wing blades; genuine transparent alpha."
+  }
+}

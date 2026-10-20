@@ -1,0 +1,84 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-传记-青龙启甲.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-放招-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-头像-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-传记-江汉承威.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-放招-水淹七军-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-头像-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-传记.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-放招-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-头像-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-传记.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-放招-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-头像-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-传记-空域护城.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-放招-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image_gen"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/关羽全套配套-15图总览.jpg",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

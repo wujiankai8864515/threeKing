@@ -1,0 +1,61 @@
+{
+  "form": "demon5",
+  "status": "supporting_candidates_complete_pending_user_review",
+  "reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+  "reference_sha256": "fba0ab26b15a770693d8ccb78d7206e0feb054feb5b0ad2d695a583eb5035497",
+  "method": "builtin image_gen, three independent calls with approved source as reference; source unchanged",
+  "entries": [
+    {
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-传记.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-79cbbac8-6cbf-4fa0-a453-2da2f48d0e22.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "sha256": "60a2066b98c74c37125227e16e45d68148937025b7ebf445a648d7e83036c1c8",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review."
+    },
+    {
+      "kind": "skill-cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-放招-透明.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-69172774-9fba-4885-a8ed-03bf1afc699b.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "sha256": "e71d8931886756f8ef51e79b56be20eeabba9abd5b4e14fcaa494ed00bd1278b",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review.",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "transparent_fraction": 0.16721153259277344,
+      "alpha_qa": "True alpha verified; skill CG also reviewed composited on neutral gray. No fake checkerboard backdrop.",
+      "framing_note": "Cinematic cropped upper-body effect; some cloth/halo/flag extends to canvas edges, not a full-body animation sprite."
+    },
+    {
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-头像-透明.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-622ec61b-3c3a-42ce-bccc-0760ab550b48.png",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGBA",
+      "sha256": "a1489fe264ab30e13990f0eb0ecc91edf543fdd5ea075f33e5928ef5a60b8fe1",
+      "visual_qa": "Reviewed full image; approved reference identity, colors and selected form motifs remain coherent. Candidate pending user review.",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "transparent_fraction": 0.24518097113161327,
+      "alpha_qa": "True alpha verified; skill CG also reviewed composited on neutral gray. No fake checkerboard backdrop."
+    }
+  ],
+  "text": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/biography-and-move.md",
+  "not_implemented": "Static PNG assets only; no runtime animation or new balance values.",
+  "prompt_record": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/prompts.json"
+}

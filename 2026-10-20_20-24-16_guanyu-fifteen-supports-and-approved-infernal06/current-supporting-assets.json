@@ -1,0 +1,19 @@
+{
+  "manifest": {
+    "original_path": "guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/complete-supporting-manifest.json",
+    "original_name": "complete-supporting-manifest.json",
+    "repository_path": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06/source/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/complete-supporting-manifest.json",
+    "sha256": "48dd5d760e64300e80bcb7ad4d6fb6481a2aab21c132e461b135c702242b3a7f",
+    "original_sha256": "48dd5d760e64300e80bcb7ad4d6fb6481a2aab21c132e461b135c702242b3a7f",
+    "bytes": 11193,
+    "archived_at": "2026-10-20T20:24:16.656424+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "count": 15,
+  "status": "local_QA_complete_candidates_not_delivered_not_user_approved",
+  "library": "Blocked before upload; HTTP 403, no successful upload or delivery receipt.",
+  "original_images_unchanged": true,
+  "storage": "Content-addressed PNGs hardlinked after SHA256 validation; never edit in place."
+}

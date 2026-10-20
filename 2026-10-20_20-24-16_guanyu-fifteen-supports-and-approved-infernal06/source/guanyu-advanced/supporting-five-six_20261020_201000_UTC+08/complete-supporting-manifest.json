@@ -1,0 +1,279 @@
+{
+  "status": "local_complete_library_upload_blocked_not_delivered",
+  "count": 15,
+  "total_image_bytes": 49384024,
+  "scope": "Four selected five-star forms plus only six-star mech; each one scene biography, one static skill CG, one transparent avatar. No runtime animation.",
+  "new_frames": "Six-star redesign is separate and unselected; supporting art independent.",
+  "entries": [
+    {
+      "form": "mecha5",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-传记-青龙启甲.png",
+      "size_bytes": 3453545,
+      "sha256": "6c2a315ef6984edafb17d4be4fecb2e5bed1e7c6c0de86675cb375c6ef392942",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha5",
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-放招-透明.png",
+      "size_bytes": 3149750,
+      "sha256": "ecd005655386fdb1e5c18e23dbf585b960f0950375cd3d8ac1fc3f89cde810f4",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 395140
+    },
+    {
+      "form": "mecha5",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-头像-透明.png",
+      "size_bytes": 3046924,
+      "sha256": "eeca2067cbaab288a165960f10552cd882b664e924775d76c3b15ff43350381b",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "fully_transparent_pixels": 338258
+    },
+    {
+      "form": "heritage5",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-传记-江汉承威.png",
+      "size_bytes": 3699653,
+      "sha256": "5edd8b59fe285f88cc0ee601888bc154c62534091e32e0ded8dd8048a9188397",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "heritage5",
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-放招-水淹七军-透明.png",
+      "size_bytes": 3573233,
+      "sha256": "214759287d3ef77801611b21b2fc0e8fab745a381c21aa480abb6c229c6c1715",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 282223
+    },
+    {
+      "form": "heritage5",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-头像-透明.png",
+      "size_bytes": 2561896,
+      "sha256": "53539b78dfaeeaa0a2b3a0f69e1053be977e83b9a0cdfc6fa1838e20aec8ed46",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "fully_transparent_pixels": 530708
+    },
+    {
+      "form": "divine5",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-传记.png",
+      "size_bytes": 3414212,
+      "sha256": "f10227d488b1a22118ba8e7dd4a22a320fc8d362632b612d52eabdd64f62edd9",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "divine5",
+      "kind": "skill-cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-放招-透明.png",
+      "size_bytes": 3369318,
+      "sha256": "881dac8c17d2dbd7674ff30ca1623fbf99ed5b37a963ed8f7bc0b1cb9c7edb89",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 209004
+    },
+    {
+      "form": "divine5",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-头像-透明.png",
+      "size_bytes": 2781386,
+      "sha256": "1e1eb871ccdc663f7176c425b054213ba2133326c6863dd7db82064b95a27198",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "fully_transparent_pixels": 517948
+    },
+    {
+      "form": "demon5",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-传记.png",
+      "size_bytes": 3410413,
+      "sha256": "60a2066b98c74c37125227e16e45d68148937025b7ebf445a648d7e83036c1c8",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "demon5",
+      "kind": "skill-cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-放招-透明.png",
+      "size_bytes": 3549107,
+      "sha256": "e71d8931886756f8ef51e79b56be20eeabba9abd5b4e14fcaa494ed00bd1278b",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 263001
+    },
+    {
+      "form": "demon5",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-头像-透明.png",
+      "size_bytes": 3334721,
+      "sha256": "a1489fe264ab30e13990f0eb0ecc91edf543fdd5ea075f33e5928ef5a60b8fe1",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "fully_transparent_pixels": 385551
+    },
+    {
+      "form": "mecha6",
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-传记-空域护城.png",
+      "size_bytes": 3518623,
+      "sha256": "2c2489d268813f3b6e99e4639b317a47a3e6fa4d611b3da6a7639651360a0767",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "form": "mecha6",
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-放招-透明.png",
+      "size_bytes": 3283838,
+      "sha256": "42ba53e5558902ba17c253b681146d405ec5ad0b0e66efb8af9cf6f9571befce",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 440314
+    },
+    {
+      "form": "mecha6",
+      "kind": "avatar",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+      "size_bytes": 3237405,
+      "sha256": "39566f562a7aab5edf5380e108042ccb19b7ccaddfde7284ae62471bc4be86a5",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGBA",
+      "status": "candidate_pending_user_review",
+      "alpha_extrema": [
+        0,
+        255
+      ],
+      "fully_transparent_pixels": 344114
+    }
+  ],
+  "approved_source_references": [
+    {
+      "name": "机甲·关羽",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+      "source_sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5",
+      "prior_card_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_233100_UTC+08/mecha5/guanyu-piloted-dragon-mecha-5star.png"
+    },
+    {
+      "name": "传承·关羽",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+      "source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "prior_card_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_233100_UTC+08/heritage5/guanyu-heritage-water-command-5star.png"
+    },
+    {
+      "name": "神·关羽",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+      "source_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+      "prior_card_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_233100_UTC+08/divine5/guanyu-divine-refined-05-5star.png"
+    },
+    {
+      "name": "机甲·关羽",
+      "tier": 6,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+      "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+      "prior_card_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/selected-cards-ui_20261019_233100_UTC+08/mecha6/guanyu-selected08-renamed-6star.png"
+    },
+    {
+      "name": "魔·关羽",
+      "tier": 5,
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+      "prior_card_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/card-06/guanyu-infernal-06-5star.png",
+      "approval_record": "project-decisions/2026-10-20_20-07-43_UTC+08_infernal06-final-selection.json"
+    }
+  ],
+  "text_sources": [
+    "mecha-narratives.md",
+    "heritage5/biography-and-move.md",
+    "divine5/biography-and-move.md",
+    "demon5/biography-and-move.md"
+  ],
+  "library_status": {
+    "attempt": "Current official prepared-upload helper tools/list",
+    "outcome": "HTTP403 before prepare/transfer/finalize; no uploaded files",
+    "no_retry_without_material_change": true
+  },
+  "notes": "No originals changed; all generated originals, prompts and QA retained. Prior cards are references only and may have superseded UI frames; no old card frame promoted.",
+  "overview": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/关羽全套配套-15图总览.jpg",
+    "size_bytes": 1151116,
+    "sha256": "c1b1f0eba67d60d4936fcd5c2fc518915947557a9206611bcdfa667fcb7a2e38",
+    "generation": "Contact sheet of existing assets; originals unchanged; alpha displayed over middle gray."
+  }
+}

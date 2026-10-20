@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts/asset-index.json",
+  "asset_index": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "本轮极怒魔20和神圣六框10共30完整候选已统一发送，四条消息均服务accepted；不等于用户阅读或美术批准。魔07/09/11/20为最新citysafe修订，三张新总览取最终映射。五星已认可框不动，六框十候选与魔二十待选，所有被覆盖原稿和实际生成/参考/QA历史已留。当前生产及交付完成，等待用户评审，不自行扩展。",
-  "latest_delta": "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts",
-  "current_status": "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts/status-overrides.json",
+  "note": "关羽四种五星形态及六星机甲，共15张传记场景、静态放招CG与透明头像已完成本地QA，仍为待评审候选。Library上传在执行前HTTP403阻塞，未上传、未交付。最新极怒魔06握旗噬天为用户选定冻结稿，明确排除历史批次同号稿。六星20新布局独立制作，不提前记为完成或选定。原稿、提示词、文本、来源、哈希及历史保留，不重绘既有成稿。",
+  "latest_delta": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06",
+  "current_status": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -140,7 +140,8 @@
     "2026-10-20_10-17-24_infernal-first-five-and-sacred-frame-direction",
     "2026-10-20_10-57-12_sacred-sixstar-ten-ready",
     "2026-10-20_11-02-03_infernal-twenty-citysafe-ready",
-    "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts"
+    "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts",
+    "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -300,7 +301,8 @@
     "2026-10-20_10-17-24_infernal-first-five-and-sacred-frame-direction",
     "2026-10-20_10-57-12_sacred-sixstar-ten-ready",
     "2026-10-20_11-02-03_infernal-twenty-citysafe-ready",
-    "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts"
+    "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts",
+    "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -318,8 +320,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts/effective-source-map.json",
-  "production_progress": "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts/production-progress.json",
+  "effective_source_map": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06/effective-source-map.json",
+  "production_progress": "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
