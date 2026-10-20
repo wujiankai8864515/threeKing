@@ -1,0 +1,31 @@
+{
+  "archived_at": "2026-10-21T01:08:23.532641+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/early-text.json",
+      "original_name": "early-text.json",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/early-text.json",
+      "repository_path": "2026-10-21_01-08-23_zhangfei-twelve-form-story-and-skill-proposals/source/staged-production/zhangfei-complete_20261020_161000/early-text.json",
+      "sha256": "0fbbd5d7840ef6eeaf903372107d9ac5340d68cb62fcc60b86458bacbdee23e7",
+      "original_sha256": "0fbbd5d7840ef6eeaf903372107d9ac5340d68cb62fcc60b86458bacbdee23e7",
+      "bytes": 3038,
+      "archived_at": "2026-10-21T01:08:23.532641+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/张飞全形态-传记与招式提案.txt",
+      "original_name": "张飞全形态-传记与招式提案.txt",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/张飞全形态-传记与招式提案.txt",
+      "repository_path": "2026-10-21_01-08-23_zhangfei-twelve-form-story-and-skill-proposals/source/staged-production/zhangfei-complete_20261020_161000/张飞全形态-传记与招式提案.txt",
+      "sha256": "24464cc9ee371a48342d6fb6af38e4e6ea965c64f8dcdbdf188a3cf1ead3d727",
+      "original_sha256": "24464cc9ee371a48342d6fb6af38e4e6ea965c64f8dcdbdf188a3cf1ead3d727",
+      "bytes": 6698,
+      "archived_at": "2026-10-21T01:08:23.532641+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}
