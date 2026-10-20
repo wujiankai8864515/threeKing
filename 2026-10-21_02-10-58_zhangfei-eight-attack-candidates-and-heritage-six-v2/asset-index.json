@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-10-21T02:10:58.160015+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/manifest-all8.json",
+      "original_name": "manifest-all8.json",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/manifest-all8.json",
+      "repository_path": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/source/staged-production/zhangfei-attacks_20261020_170400/manifest-all8.json",
+      "sha256": "7e705ab9e51e1bf40ea662788ac896293f52573241050ce24b525be9ee21aa4a",
+      "original_sha256": "7e705ab9e51e1bf40ea662788ac896293f52573241050ce24b525be9ee21aa4a",
+      "bytes": 3384,
+      "archived_at": "2026-10-21T02:10:58.160015+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/manifest-batch5.json",
+      "original_name": "manifest-batch5.json",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/manifest-batch5.json",
+      "repository_path": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/source/staged-production/zhangfei-attacks_20261020_170400/manifest-batch5.json",
+      "sha256": "09c3b3425d6d5a79dac5bc0d68210600b93fc384e085487a8b67dd3a8815749a",
+      "original_sha256": "09c3b3425d6d5a79dac5bc0d68210600b93fc384e085487a8b67dd3a8815749a",
+      "bytes": 942,
+      "archived_at": "2026-10-21T02:10:58.160015+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/heritage6-attack-cg-v2.png",
+      "original_name": "heritage6-attack-cg-v2.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg-v2.png",
+      "repository_path": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/assets/sha256/8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797.png",
+      "sha256": "8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797",
+      "original_sha256": "8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797",
+      "bytes": 2413704,
+      "archived_at": "2026-10-21T02:10:58.160015+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/mecha6-alpha-qa.jpg",
+      "original_name": "mecha6-alpha-qa.jpg",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/mecha6-alpha-qa.jpg",
+      "repository_path": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/source/staged-production/zhangfei-attacks_20261020_170400/mecha6-alpha-qa.jpg",
+      "sha256": "e0f3d0f21f06607c6df53dfb29aa76d677efebe7c698506eeffc0a0fb9be1eb5",
+      "original_sha256": "e0f3d0f21f06607c6df53dfb29aa76d677efebe7c698506eeffc0a0fb9be1eb5",
+      "bytes": 119653,
+      "archived_at": "2026-10-21T02:10:58.160015+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/mecha6-attack-cg.png",
+      "original_name": "mecha6-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/mecha6-attack-cg.png",
+      "repository_path": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/assets/sha256/87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002.png",
+      "sha256": "87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002",
+      "original_sha256": "87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002",
+      "bytes": 3013616,
+      "archived_at": "2026-10-21T02:10:58.160015+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

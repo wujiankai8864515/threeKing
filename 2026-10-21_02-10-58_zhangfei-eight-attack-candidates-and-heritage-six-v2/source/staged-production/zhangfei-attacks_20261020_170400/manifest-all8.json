@@ -1,0 +1,84 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage5-attack-cg.png",
+      "sha256": "1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha and attack pose verified."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine5-attack-cg-v2.png",
+      "sha256": "4beeaee35e353a3ad589e00bebf351a31d73c8cf401d3cbb1a39ab702ec3a613",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine6-attack-cg.png",
+      "sha256": "7c4cd7cf748898c28241d9977ac7b6d6221d19846f50206218002f62aa938cff",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon5-attack-cg.png",
+      "sha256": "756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon6-attack-cg.png",
+      "sha256": "617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha5-attack-cg.png",
+      "sha256": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+      "status": "new_candidate_pending_review"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg-v2.png",
+      "sha256": "8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Extra paw removed; two visible feet, final anatomy review pending."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha6-attack-cg.png",
+      "sha256": "87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Four arms, four paws verified; alpha composited on grey confirms no backdrop despite RGB preview appearance."
+    }
+  ],
+  "generation_tool": "built-in image_gen"
+}

@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg-v2.png",
+      "sha256": "8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Extra paw removed; two visible feet, final anatomy review pending."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha6-attack-cg.png",
+      "sha256": "87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Four arms, four paws verified; alpha composited on grey confirms no backdrop despite RGB preview appearance."
+    }
+  ]
+}
