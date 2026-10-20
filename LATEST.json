@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt/asset-index.json",
+  "asset_index": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "三英雄同一预览站点v3部署成功，记录87图：关羽47、张飞20、刘备20。保持仅本人可访问；已做脚本语法与资源路径检查，未把部署成功冒称浏览器内容验收。v4源仍更新中。",
-  "latest_delta": "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt",
-  "current_status": "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt/status-overrides.json",
+  "note": "三人预览站v4完整发布源码与91张网页预览图；关羽47、张飞20、刘备24张。保留历史，所有新增美术仍为待评审候选。源版本 b10e4dce1f0e8c64b84bfe88edce52dd9fbcadff。",
+  "latest_delta": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images",
+  "current_status": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -154,7 +154,8 @@
     "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories",
     "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review",
     "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest",
-    "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt"
+    "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt",
+    "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -328,7 +329,8 @@
     "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories",
     "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review",
     "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest",
-    "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt"
+    "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt",
+    "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -346,8 +348,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt/effective-source-map.json",
-  "production_progress": "2026-10-21_00-46-27_three-hero-gallery-v3-deployment-receipt/production-progress.json",
+  "effective_source_map": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/effective-source-map.json",
+  "production_progress": "2026-10-21_00-50-02_three-hero-gallery-v4-source-91-images/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
