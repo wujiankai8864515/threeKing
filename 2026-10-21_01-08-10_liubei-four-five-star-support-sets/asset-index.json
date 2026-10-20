@@ -1,0 +1,153 @@
+{
+  "archived_at": "2026-10-21T01:08:10.041805+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "original_name": "advanced-support-manifest.json",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "sha256": "3440b6501e34dc59de2c96391851aac09b6dc0bef4e91eb22873fa844defa093",
+      "original_sha256": "3440b6501e34dc59de2c96391851aac09b6dc0bef4e91eb22873fa844defa093",
+      "bytes": 10249,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+          "sha256": "f1ea56f5914cc3f85bff62657dca07c2cc4c1596d75a80abac02cf9a7dd2ca0a"
+        }
+      ]
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/support5-batch-QA.jpg",
+      "original_name": "support5-batch-QA.jpg",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/support5-batch-QA.jpg",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/source/staged-production/liubei-complete_20261020_160600_UTC/support5-batch-QA.jpg",
+      "sha256": "b68723dbf89dab803549b1b83bc396ceb14c6590f1985833b5ad34deb244e25d",
+      "original_sha256": "b68723dbf89dab803549b1b83bc396ceb14c6590f1985833b5ad34deb244e25d",
+      "bytes": 277334,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/divine5-avatar.png",
+      "original_name": "divine5-avatar.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/divine5-avatar.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/2dab2a945c232dfad7792afeccbc68d7ee0640833a5fe07f9400526f0ffeda84.png",
+      "sha256": "2dab2a945c232dfad7792afeccbc68d7ee0640833a5fe07f9400526f0ffeda84",
+      "original_sha256": "2dab2a945c232dfad7792afeccbc68d7ee0640833a5fe07f9400526f0ffeda84",
+      "bytes": 2916307,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/divine5-attackCG.png",
+      "original_name": "divine5-attackCG.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/divine5-attackCG.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/8d0062e349519f8273469aa23d00dbc2734713163287934bfcaa7786e225b67f.png",
+      "sha256": "8d0062e349519f8273469aa23d00dbc2734713163287934bfcaa7786e225b67f",
+      "original_sha256": "8d0062e349519f8273469aa23d00dbc2734713163287934bfcaa7786e225b67f",
+      "bytes": 3086451,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/divine5-biography.png",
+      "original_name": "divine5-biography.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/divine5-biography.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/c8ee6b57e0fa4b1d967fb7ed49741f116cd6784cf6c1d8605ee4aa5741456d65.png",
+      "sha256": "c8ee6b57e0fa4b1d967fb7ed49741f116cd6784cf6c1d8605ee4aa5741456d65",
+      "original_sha256": "c8ee6b57e0fa4b1d967fb7ed49741f116cd6784cf6c1d8605ee4aa5741456d65",
+      "bytes": 3206209,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/demon5-avatar.png",
+      "original_name": "demon5-avatar.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/demon5-avatar.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/315f291c2345b9620b82b6531fa1c7e35d7905a136606be48695f55549c72cdd.png",
+      "sha256": "315f291c2345b9620b82b6531fa1c7e35d7905a136606be48695f55549c72cdd",
+      "original_sha256": "315f291c2345b9620b82b6531fa1c7e35d7905a136606be48695f55549c72cdd",
+      "bytes": 3000515,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/demon5-attackCG.png",
+      "original_name": "demon5-attackCG.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/demon5-attackCG.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/468c29f4bbabdb92d5bab6e305f056c37e973738c0451f588b23380e8c8ce19d.png",
+      "sha256": "468c29f4bbabdb92d5bab6e305f056c37e973738c0451f588b23380e8c8ce19d",
+      "original_sha256": "468c29f4bbabdb92d5bab6e305f056c37e973738c0451f588b23380e8c8ce19d",
+      "bytes": 3098629,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/demon5-biography.png",
+      "original_name": "demon5-biography.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/demon5-biography.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/0cb00d7f281946abad5f60452e37ce18dd950862feeef8e9e15cfd180f13c4de.png",
+      "sha256": "0cb00d7f281946abad5f60452e37ce18dd950862feeef8e9e15cfd180f13c4de",
+      "original_sha256": "0cb00d7f281946abad5f60452e37ce18dd950862feeef8e9e15cfd180f13c4de",
+      "bytes": 3274294,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/mecha5-avatar.png",
+      "original_name": "mecha5-avatar.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/mecha5-avatar.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/ef5e76fe01fc836643ea446a642f444fbf54f780087b0a63084be8690ed4893f.png",
+      "sha256": "ef5e76fe01fc836643ea446a642f444fbf54f780087b0a63084be8690ed4893f",
+      "original_sha256": "ef5e76fe01fc836643ea446a642f444fbf54f780087b0a63084be8690ed4893f",
+      "bytes": 3259599,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/mecha5-attackCG.png",
+      "original_name": "mecha5-attackCG.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/mecha5-attackCG.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/bbcc45ed1c220e0220693ca4345a623a0f8dc39bd47759f2f094fac3949c2c70.png",
+      "sha256": "bbcc45ed1c220e0220693ca4345a623a0f8dc39bd47759f2f094fac3949c2c70",
+      "original_sha256": "bbcc45ed1c220e0220693ca4345a623a0f8dc39bd47759f2f094fac3949c2c70",
+      "bytes": 3232535,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/mecha5-biography.png",
+      "original_name": "mecha5-biography.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/mecha5-biography.png",
+      "repository_path": "2026-10-21_01-08-10_liubei-four-five-star-support-sets/assets/sha256/3efe5eba7678dfa446546969dd86ed677d4212b7afa1f5a773bae265427c17a9.png",
+      "sha256": "3efe5eba7678dfa446546969dd86ed677d4212b7afa1f5a773bae265427c17a9",
+      "original_sha256": "3efe5eba7678dfa446546969dd86ed677d4212b7afa1f5a773bae265427c17a9",
+      "bytes": 3606833,
+      "archived_at": "2026-10-21T01:08:10.041805+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}
