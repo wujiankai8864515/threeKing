@@ -1,0 +1,76 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "dcaafee3467379d7c9ff46d7472b3992813f69a7eb7cdf6d58eb886aa0d41076"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "1abe9b7560250933d8ea927cea901eb404cc3f1eaa45543041352dc51e8e97a1"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "divine5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "a4ce6bd62b312caecc74e2f729dcb0dd79632a74f5246c6682e1ead8140c3e61"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "divine6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "6ec4d377a0f8f31d50c2092c790833fce48412de157b73826798a5d51f239f9e"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "demon5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "ba3faa388ac2e0ed0ebfd13cabab074ac0bf17b4ba872c35104f325e03e1ac30"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "demon6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "b6e29c2468eba71e69dee7e67b2990ddf862f41e863deb8175599ec5afc378d9"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "0f75683d245fbb723b12548f912238a730c03caeede92361d1e036808dea96a9"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "e4c19f66ce6399810a4daccf12bdccc5ce7998e15721f6fe6e9c2e84263d3951"
+    }
+  ]
+}
