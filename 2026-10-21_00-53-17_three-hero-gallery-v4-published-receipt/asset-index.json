@@ -1,0 +1,18 @@
+{
+  "archived_at": "2026-10-21T00:53:17.186024+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/threeheroes-site-delivery-v4.json",
+      "original_name": "threeheroes-site-delivery-v4.json",
+      "source_location_at_capture": "/tmp/threeheroes-site-delivery-v4.json",
+      "repository_path": "2026-10-21_00-53-17_three-hero-gallery-v4-published-receipt/source/staged-production/threeheroes-site-delivery-v4.json",
+      "sha256": "9b580bc7d50286a34ee0116c6e0f5968fcc4e8ece30aee27ef1347ded14a0377",
+      "original_sha256": "9b580bc7d50286a34ee0116c6e0f5968fcc4e8ece30aee27ef1347ded14a0377",
+      "bytes": 745,
+      "archived_at": "2026-10-21T00:53:17.186024+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}
