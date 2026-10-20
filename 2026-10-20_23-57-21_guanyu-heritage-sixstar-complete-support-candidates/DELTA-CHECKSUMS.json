@@ -1,0 +1,13 @@
+{
+  "status-overrides.json": "ddd2b0f4e9dadf6058a9bc62f7f47f0625e710dd0d2cdbc8b9b02ab3bae28d1c",
+  "archive-scope.json": "8b27f88b2058f392a17f003bfe5e86ed4babedb20b10d8f74c2f9eb083778a46",
+  "effective-source-map.json": "687bda5184db7ebec2d311edea22361a8655e5f50db436e6376d92c0dfde53e7",
+  "asset-index.json": "31766b0facb94d5df3a6e2b5b66ffc6b3a6ca8fef7a3229da51d67c87b979bcf",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "production-progress.json": "831eb7cc1394cca50df76fabb970734853532a19124dfe7d399147bda3fc130f",
+  "README.md": "01f912e7465fff342a09403df8cca168c5b17111ca22b93e92bc8c5bef0907ac",
+  "source/guanyu-advanced/heritage6-support_20261020_154200_UTC/prompts.txt": "7f1d359beaaac6e8f7e9342b8876570b15c2006dbc814cd03a6d2bbbe64292d2",
+  "source/guanyu-advanced/heritage6-support_20261020_154200_UTC/manifest.json": "45bb7a9779c272717d72d0d06e4c62b5964def1690679e2902b8b17d07e71522",
+  "source/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-story-skills.txt": "b4f20d593be468daba0d6ea12c5663cd361980e89a2d0dc044d0080299c0a7c7",
+  "assets/sha256/155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf.png": "155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf"
+}

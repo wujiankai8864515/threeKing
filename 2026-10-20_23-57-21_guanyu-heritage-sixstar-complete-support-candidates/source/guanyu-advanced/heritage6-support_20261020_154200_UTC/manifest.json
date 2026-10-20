@@ -1,0 +1,55 @@
+{
+  "method": "built-in image_gen",
+  "reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/heritage6-evolved-art.png",
+  "entries": [
+    {
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "avatar",
+      "title": "龙魂真身·头像",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-avatar.png",
+      "sha256": "e3c8872655f7d9c4063fcf4ef6a5de36211f9801a6f1e38eb7f73e7b8e637088",
+      "size": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "new_candidate_pending_user_confirmation"
+    },
+    {
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "title": "盘龙逆潮",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-attack.png",
+      "sha256": "f76375a95f9502e8e14453b3f6c126eacf9d1ce7d7fb5e721e7cfa2fc83d956b",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGBA",
+      "status": "new_candidate_pending_user_confirmation",
+      "alpha_extrema": [
+        0,
+        253
+      ],
+      "transparent_pixel_fraction": 0.20238939921061197
+    },
+    {
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "biography",
+      "title": "以身为堤",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-biography.png",
+      "sha256": "155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "status": "new_candidate_pending_user_confirmation"
+    }
+  ],
+  "text_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-story-skills.txt",
+  "qa": "Visually inspected all three outputs; coherent sixstar identity; attack PNG has alpha; narrative scene distinct from card. Existing passive names preserved; new active rules explicitly draft, not final."
+}

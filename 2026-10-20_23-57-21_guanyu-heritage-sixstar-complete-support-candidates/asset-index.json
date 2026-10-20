@@ -1,0 +1,53 @@
+{
+  "archived_at": "2026-10-20T23:57:21.722427+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/prompts.txt",
+      "original_name": "prompts.txt",
+      "repository_path": "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates/source/guanyu-advanced/heritage6-support_20261020_154200_UTC/prompts.txt",
+      "sha256": "7f1d359beaaac6e8f7e9342b8876570b15c2006dbc814cd03a6d2bbbe64292d2",
+      "original_sha256": "7f1d359beaaac6e8f7e9342b8876570b15c2006dbc814cd03a6d2bbbe64292d2",
+      "bytes": 1319,
+      "archived_at": "2026-10-20T23:57:21.722427+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates/source/guanyu-advanced/heritage6-support_20261020_154200_UTC/manifest.json",
+      "sha256": "45bb7a9779c272717d72d0d06e4c62b5964def1690679e2902b8b17d07e71522",
+      "original_sha256": "45bb7a9779c272717d72d0d06e4c62b5964def1690679e2902b8b17d07e71522",
+      "bytes": 2024,
+      "archived_at": "2026-10-20T23:57:21.722427+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-story-skills.txt",
+      "original_name": "heritage6-story-skills.txt",
+      "repository_path": "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates/source/guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-story-skills.txt",
+      "sha256": "b4f20d593be468daba0d6ea12c5663cd361980e89a2d0dc044d0080299c0a7c7",
+      "original_sha256": "b4f20d593be468daba0d6ea12c5663cd361980e89a2d0dc044d0080299c0a7c7",
+      "bytes": 1933,
+      "archived_at": "2026-10-20T23:57:21.722427+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-biography.png",
+      "original_name": "heritage6-biography.png",
+      "repository_path": "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates/assets/sha256/155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf.png",
+      "sha256": "155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf",
+      "original_sha256": "155622253cc79b3b32138f85620f5306ed9696da0dfd8362aa3c0f8c2d1667bf",
+      "bytes": 3694216,
+      "archived_at": "2026-10-20T23:57:21.722427+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    }
+  ]
+}
