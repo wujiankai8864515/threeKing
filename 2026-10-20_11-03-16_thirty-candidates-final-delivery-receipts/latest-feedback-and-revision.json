@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-10-20T11:03:16.805952+08:00",
+  "summary": "本轮极怒魔20和神圣六框10共30完整候选已统一发送，四条消息均服务accepted；不等于用户阅读或美术批准。魔07/09/11/20为最新citysafe修订，三张新总览取最终映射。五星已认可框不动，六框十候选与魔二十待选，所有被覆盖原稿和实际生成/参考/QA历史已留。当前生产及交付完成，等待用户评审，不自行扩展。",
+  "receipts": [
+    {
+      "message_id": "Sentinel_8685dd1eff0c8191944c31529b597343",
+      "timestamp_UTC": "2026-10-20T03:01:11.867415Z",
+      "contents": "three overviews",
+      "status": "accepted"
+    },
+    {
+      "message_id": "Sentinel_98691687e8a0819190a4552b1dacd75a",
+      "timestamp_UTC": "2026-10-20T03:01:29.885649Z",
+      "contents": "demon 01-10",
+      "status": "accepted"
+    },
+    {
+      "message_id": "Sentinel_50e48877008081919bddf9ba9117e5e5",
+      "timestamp_UTC": "2026-10-20T03:01:46.764849Z",
+      "contents": "demon 11-20",
+      "status": "accepted"
+    },
+    {
+      "message_id": "Sentinel_5d27620b911881918f7ed2839b44f897",
+      "timestamp_UTC": "2026-10-20T03:02:06.349452Z",
+      "contents": "sacred six-star frames 01-10",
+      "status": "accepted"
+    }
+  ],
+  "candidate_count": 30,
+  "demon_count": 20,
+  "sixstar_frame_count": 10,
+  "user_approved": false
+}
