@@ -1,0 +1,8 @@
+{
+  "summary": "三英雄同一预览站点v3部署成功，记录87图：关羽47、张飞20、刘备20。保持仅本人可访问；已做脚本语法与资源路径检查，未把部署成功冒称浏览器内容验收。v4源仍更新中。",
+  "new_entries": 1,
+  "resolved_paths": 13242,
+  "temporary_sources_restore_under": "staged-production/",
+  "status": "local_commit_is_not_remote_backup; remote verification required",
+  "original_images_immutable": true
+}
