@@ -1,0 +1,320 @@
+{
+  "status": "local_complete_upload_blocked",
+  "count": 20,
+  "source_illustration": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/source-08-unchanged.png",
+  "identity_note": "Generated layout concepts preserve recognizable selected character identity; they are not pixel-identical deterministic inserts.",
+  "method": "built-in imagegen",
+  "overview": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/00-六星全新构思20款总览.jpg",
+  "detail_overviews": [
+    "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/00A-六星全新构思01-10.jpg",
+    "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/00B-六星全新构思11-20.jpg"
+  ],
+  "variants": [
+    {
+      "id": "01",
+      "name": "玉玺天诏",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/01/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3641719,
+      "sha256": "254f2ec15d6826608266e01ad78642e8545e959567ab9b220134ab58e578fea4",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "02",
+      "name": "六曜星盘",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/02/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3855931,
+      "sha256": "d12219e899650b4dbafce5ce2c3e789e9e831ad257fe46044ee4bd62793a77c8",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "03",
+      "name": "晶翼破界",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/03/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3868787,
+      "sha256": "affb339a736d2cf187fe9d9fb4bb26ddf9dccd74b189ff014af2800de37b9d11",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "04",
+      "name": "双阙封侯",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/04/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3670168,
+      "sha256": "e3436481ed0aa681f1d224d93aad9351b2c816936102d3a8ae8fcd7389467d44",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "05",
+      "name": "圣谕长卷",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/05/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3347452,
+      "sha256": "59a6001f17ed854051659893f02b09ed7f1f76937a53b8f1b6daa7a0e7b8bd32",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "06",
+      "name": "侯印悬章",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/06/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3583788,
+      "sha256": "b547f45f4b21fbd0ee889e0752f9e11fab960f01e36619d709004ed2b308d23e",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "07",
+      "name": "玄晶碑铭",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/07/card.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3839405,
+      "sha256": "caff43049d2e58aeaade47441774f6f678abdfb8b36a93bd704b582aa101e2d4",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "08",
+      "name": "龙鳞战旗",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/08/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3307940,
+      "sha256": "77c12add8d8a29ddce1ca3e9c3948b342f2929e60e14f39854155b2ef7240b8f",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "09",
+      "name": "天书折页",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/09/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3676193,
+      "sha256": "24b42ae76df1bb66ad4c9e45a605a3b78e648fb4a8ddfccfceb94ed341e79ae9",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "10",
+      "name": "天穹棱镜",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/10/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3470080,
+      "sha256": "0fb4306f4c17dc8534fb5aeba7e1f9ba1d9d15dbd7312ad9d9c72579890d1e3d",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "11",
+      "name": "星阶神座",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/11/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3713344,
+      "sha256": "cc640ef53e0d92099d820332e941a1c1efb26eb5bcf1401b408b0a266c2e1139",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "12",
+      "name": "圣莲琉璃",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/12/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3516788,
+      "sha256": "905b8d4e0d7d81b5ad0872cef5d9dd2385e8406e2a568b4dcf237de0e8ba7eaf",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "13",
+      "name": "侯爵册封令",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/13/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3551599,
+      "sha256": "d80ab2dbf5d020b660db796e3a15e6ef0071ea57ebbff3b0ea92fb9d7fa81302",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "14",
+      "name": "乾坤双环",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/14/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3665739,
+      "sha256": "269797c6004d266f569ea7f4f8d3878247842fa332643ac9ea3ddd117be17e19",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "15",
+      "name": "破晓晶舰",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/15/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3467119,
+      "sha256": "7ab033ee43800fe630f25c0a6bc5358ff60dd3f4aedad4a7d56f235536a81e31",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "16",
+      "name": "浮空六曜",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/16/final.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3465387,
+      "sha256": "bf61b7c7081d885b653df3deba0135b3fe26fd788ada7f7beec10481a3436ad1",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "17",
+      "name": "天命折扇",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/17/final.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3805174,
+      "sha256": "1d6580912c39599fb9d18c56db1151795cd43c6295c357d732e9142056b5f5cf",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "18",
+      "name": "封禅玉璧",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/18/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3635926,
+      "sha256": "2ae1a287c7d9634e36d97d17888439ec099e3bc8d55ea69e46de908ffab3334a",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "19",
+      "name": "神域界门",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/19/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3522185,
+      "sha256": "832d5ada38313e193ad74d35ee37fb208e6ad7a0b9fef4c9ea023f78c508d5c8",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    },
+    {
+      "id": "20",
+      "name": "无界神藏",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/20/native.png",
+      "size": [
+        1024,
+        1536
+      ],
+      "bytes": 3435850,
+      "sha256": "86738117ef4cfbfef40df374f42f6316c77d6f75593c05f12025314a08809248",
+      "six_stars_visually_checked": true,
+      "all_required_semantic_fields_present": true,
+      "status": "candidate_pending_user_review",
+      "typography_note": "Some calligraphic traditional Chinese glyphs are retained."
+    }
+  ],
+  "library_status": "not_uploaded; Library upload blocked by HTTP403 before upload",
+  "corrections": {
+    "05": "Initial seven-star candidate retained; card.png is corrected six-star final.",
+    "16": "native.png incorrect first passive glyph; final.png correct 镇岳, repaired bottom passive panel.",
+    "17": "native.png and three edit attempts have five stars; final.png regenerated fan layout with six stars in horizontal middle rating rail."
+  }
+}

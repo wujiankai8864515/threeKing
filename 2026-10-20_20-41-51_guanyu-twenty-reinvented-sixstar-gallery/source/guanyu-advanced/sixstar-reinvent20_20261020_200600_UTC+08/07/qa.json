@@ -1,0 +1,14 @@
+{
+  "variant": "07",
+  "title": "玄晶碑铭",
+  "method": "built-in imagegen; original native PNG persisted via hardlink",
+  "size": [
+    1024,
+    1536
+  ],
+  "five_point_stars": 6,
+  "star_count_visually_verified": true,
+  "identity": "Recognizable red-faced, long-bearded Guan Yu in green/gold mechanical armor, ring shield, guandao, sky and castle scene retained; generative rendition, not pixel-identical insert.",
+  "labels": "All eleven requested label contents visibly present and readable. Calligraphic rendering includes some traditional glyph variants (e.g. 鱗 rather than 鳞); not guaranteed exact simplified Chinese glyph compliance.",
+  "qa_notes": []
+}

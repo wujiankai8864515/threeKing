@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "original_path": "guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/manifest.json",
+    "original_name": "manifest.json",
+    "repository_path": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery/source/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/manifest.json",
+    "sha256": "84b5b7c3366d790536756671a125c8d00e46f8aa63535b42b6ca6a19689ce4cf",
+    "original_sha256": "84b5b7c3366d790536756671a125c8d00e46f8aa63535b42b6ca6a19689ce4cf",
+    "bytes": 12701,
+    "archived_at": "2026-10-20T20:41:51.901509+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "status": "local_complete_pending_user_review_not_library_delivered",
+  "count": 20,
+  "reference_identity": "generative_reference_based_not_pixel_identical",
+  "corrections": {
+    "05": "Initial seven-star candidate retained; card.png is corrected six-star final.",
+    "16": "native.png incorrect first passive glyph; final.png correct 镇岳, repaired bottom passive panel.",
+    "17": "native.png and three edit attempts have five stars; final.png regenerated fan layout with six stars in horizontal middle rating rail."
+  }
+}

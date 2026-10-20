@@ -1,0 +1,22 @@
+{
+  "16": {
+    "final": "final.png",
+    "final_generated_source": "exec-aeab4ae5-3d22-4afa-a1e3-d270081bdbe2.png",
+    "history": [
+      "native.png",
+      "edit1-failed.png"
+    ],
+    "correction": "Rebuilt only lower passive panel after incorrect first glyph; final 镇岳 readable."
+  },
+  "17": {
+    "final": "final.png",
+    "final_generated_source": "exec-6646646b-fda7-4664-92f8-6304ab063550.png",
+    "history": [
+      "native.png",
+      "edit1-five-stars.png",
+      "edit2-five-stars.png",
+      "edit3-five-stars.png"
+    ],
+    "correction": "Three targeted edits still returned five stars. Regenerated fan layout with exactly six stars in a middle horizontal rail; all required labels retained."
+  }
+}
