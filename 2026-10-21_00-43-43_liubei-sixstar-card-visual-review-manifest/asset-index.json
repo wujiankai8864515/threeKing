@@ -1,0 +1,31 @@
+{
+  "archived_at": "2026-10-21T00:43:43.774491+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/six-star-cards-manifest.json",
+      "original_name": "six-star-cards-manifest.json",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/six-star-cards-manifest.json",
+      "repository_path": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/source/staged-production/liubei-complete_20261020_160600_UTC/six-star-cards-manifest.json",
+      "sha256": "68544eaa8fdceb4e4d97fadc5cace308b7ad66c47dc7eabd1d5173742ea0df8e",
+      "original_sha256": "68544eaa8fdceb4e4d97fadc5cace308b7ad66c47dc7eabd1d5173742ea0df8e",
+      "bytes": 2405,
+      "archived_at": "2026-10-21T00:43:43.774491+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/sixstar-card-QA.jpg",
+      "original_name": "sixstar-card-QA.jpg",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/sixstar-card-QA.jpg",
+      "repository_path": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/source/staged-production/liubei-complete_20261020_160600_UTC/sixstar-card-QA.jpg",
+      "sha256": "9ac45e4667abf1e4ebcc3bf7cc5bc94ddfede898c2363bdc4279b7a72e1d2c98",
+      "original_sha256": "9ac45e4667abf1e4ebcc3bf7cc5bc94ddfede898c2363bdc4279b7a72e1d2c98",
+      "bytes": 151658,
+      "archived_at": "2026-10-21T00:43:43.774491+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

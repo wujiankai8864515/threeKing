@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review/asset-index.json",
+  "asset_index": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "刘备四张六星完整卡已落盘且PNG可解码，先保留原字节与SHA。尚待制作目视QA和最终映射，不将文件存在等同美术通过，源插画及五星版本均保留。",
-  "latest_delta": "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review",
-  "current_status": "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review/status-overrides.json",
+  "note": "刘备四张六星完整卡已完成制作目视检查，补入最终源映射及QA总览；仍为待用户评审候选，不代表用户批准。此前原图、源插画和未核验捕获记录保留。",
+  "latest_delta": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest",
+  "current_status": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -152,7 +152,8 @@
     "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts",
     "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates",
     "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories",
-    "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review"
+    "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review",
+    "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -324,7 +325,8 @@
     "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts",
     "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates",
     "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories",
-    "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review"
+    "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review",
+    "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -342,8 +344,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review/effective-source-map.json",
-  "production_progress": "2026-10-21_00-42-35_liubei-four-sixstar-cards-awaiting-review/production-progress.json",
+  "effective_source_map": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/effective-source-map.json",
+  "production_progress": "2026-10-21_00-43-43_liubei-sixstar-card-visual-review-manifest/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
