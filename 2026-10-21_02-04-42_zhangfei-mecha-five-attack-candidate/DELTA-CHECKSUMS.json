@@ -1,0 +1,11 @@
+{
+  "README.md": "446086b419f7af1abdf53f5f7bf81dc26f556c2ca2b2be8313bc8feadba8e5dd",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "88c2ca18b13a46792900505fc1b2f5c2f707ce6e703174cee8ccd87982cf1e6a",
+  "production-progress.json": "724823715fe38a6e36fd8da7befe2fe7bcff69f1b9e8e92fe9669b28bbfdada7",
+  "effective-source-map.json": "a12e490045b587137464d0bfbead3356e5d5926ad8641439b7c64bea7bd141c7",
+  "archive-scope.json": "1f6c07d0e939da81c7fe88bfece35d33740a466793cf98dda57d09a5fe9099d7",
+  "asset-index.json": "5e16cff5039e57d02834a739b5daea4a7b08c86e0a5798725ba444082c520fbd",
+  "assets/sha256/850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14.png": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+  "source/staged-production/zhangfei-attacks_20261020_170400/manifest-batch4.json": "65a17b9885a20fca9e459e63b79d848f579cbf31040ecb5d7a4486e9eefab6da"
+}

@@ -1,0 +1,31 @@
+{
+  "archived_at": "2026-10-21T02:04:42.484753+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/manifest-batch4.json",
+      "original_name": "manifest-batch4.json",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/manifest-batch4.json",
+      "repository_path": "2026-10-21_02-04-42_zhangfei-mecha-five-attack-candidate/source/staged-production/zhangfei-attacks_20261020_170400/manifest-batch4.json",
+      "sha256": "65a17b9885a20fca9e459e63b79d848f579cbf31040ecb5d7a4486e9eefab6da",
+      "original_sha256": "65a17b9885a20fca9e459e63b79d848f579cbf31040ecb5d7a4486e9eefab6da",
+      "bytes": 341,
+      "archived_at": "2026-10-21T02:04:42.484753+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/mecha5-attack-cg.png",
+      "original_name": "mecha5-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/mecha5-attack-cg.png",
+      "repository_path": "2026-10-21_02-04-42_zhangfei-mecha-five-attack-candidate/assets/sha256/850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14.png",
+      "sha256": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+      "original_sha256": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+      "bytes": 2782869,
+      "archived_at": "2026-10-21T02:04:42.484753+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

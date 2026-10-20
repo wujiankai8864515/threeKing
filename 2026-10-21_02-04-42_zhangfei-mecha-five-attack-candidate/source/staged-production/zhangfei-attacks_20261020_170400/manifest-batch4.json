@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha5-attack-cg.png",
+      "sha256": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+      "status": "new_candidate_pending_review"
+    }
+  ]
+}
