@@ -1,0 +1,44 @@
+{
+  "archived_at": "2026-10-21T01:17:13.968664+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/manifest-batch1.json",
+      "original_name": "manifest-batch1.json",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/manifest-batch1.json",
+      "repository_path": "2026-10-21_01-17-13_zhangfei-heritage-five-six-attack-candidates/source/staged-production/zhangfei-attacks_20261020_170400/manifest-batch1.json",
+      "sha256": "d64c87edc4afa6f56921c4db580d5be12040a19231254564a29f294e3e5599b3",
+      "original_sha256": "d64c87edc4afa6f56921c4db580d5be12040a19231254564a29f294e3e5599b3",
+      "bytes": 861,
+      "archived_at": "2026-10-21T01:17:13.968664+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/heritage6-attack-cg.png",
+      "original_name": "heritage6-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg.png",
+      "repository_path": "2026-10-21_01-17-13_zhangfei-heritage-five-six-attack-candidates/assets/sha256/59550059fb043e4c1faba89be3bea57d7245db0eb9b509437a538907fc6e3572.png",
+      "sha256": "59550059fb043e4c1faba89be3bea57d7245db0eb9b509437a538907fc6e3572",
+      "original_sha256": "59550059fb043e4c1faba89be3bea57d7245db0eb9b509437a538907fc6e3572",
+      "bytes": 2505507,
+      "archived_at": "2026-10-21T01:17:13.968664+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/heritage5-attack-cg.png",
+      "original_name": "heritage5-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/heritage5-attack-cg.png",
+      "repository_path": "2026-10-21_01-17-13_zhangfei-heritage-five-six-attack-candidates/assets/sha256/1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909.png",
+      "sha256": "1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909",
+      "original_sha256": "1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909",
+      "bytes": 2854028,
+      "archived_at": "2026-10-21T01:17:13.968664+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

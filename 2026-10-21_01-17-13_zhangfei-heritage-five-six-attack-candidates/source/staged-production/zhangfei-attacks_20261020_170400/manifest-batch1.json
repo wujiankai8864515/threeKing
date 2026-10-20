@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage5-attack-cg.png",
+      "sha256": "1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha and attack pose verified."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg.png",
+      "sha256": "59550059fb043e4c1faba89be3bea57d7245db0eb9b509437a538907fc6e3572",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified; heritage6 anatomy requires final reviewer attention to rear paw silhouette."
+    }
+  ]
+}
