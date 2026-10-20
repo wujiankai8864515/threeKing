@@ -1,0 +1,49 @@
+{
+  "entries": [
+    {
+      "form": "heritage6",
+      "path": "/tmp/liubei-complete_20261020_160600_UTC/heritage6-card.png",
+      "sha256": "564a9157938720e5bf3e08f76a4de95238734bb76f64f9cdf6245a73ab62f075",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "persisted_candidate_visual_QA_pending"
+    },
+    {
+      "form": "divine6",
+      "path": "/tmp/liubei-complete_20261020_160600_UTC/divine6-card.png",
+      "sha256": "a8d471dd5b67c7fe366aacd7c20ff2931e477c3e966df4b4524c295a4ac69c4f",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "persisted_candidate_visual_QA_pending"
+    },
+    {
+      "form": "demon6",
+      "path": "/tmp/liubei-complete_20261020_160600_UTC/demon6-card.png",
+      "sha256": "c5680daacbe783f5d210a38382b79463ed60466ba335929b0ecc8ade28a12b1d",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "persisted_candidate_visual_QA_pending"
+    },
+    {
+      "form": "mecha6",
+      "path": "/tmp/liubei-complete_20261020_160600_UTC/mecha6-card.png",
+      "sha256": "ca0859b574f16ec4caf4c190cc65c0c8bed8fd103128bc49162ce3260fc53c24",
+      "size": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "persisted_candidate_visual_QA_pending"
+    }
+  ],
+  "note": "Original production review and final selection not inferred from file presence."
+}
