@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/asset-index.json",
+  "asset_index": "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "张飞八形态透明出招候选齐备，补入机甲六星与传承六星新v2；传承六星最终结构审阅仍待完成，不作用户认可声明。异常旧版完整保留。",
-  "latest_delta": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2",
-  "current_status": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/status-overrides.json",
+  "note": "三人画廊v15完整源码：关羽、张飞、刘备各48张资源图，共144图和36形态传记招式。张飞传承六星出招v2已完成结构检查，均仍为美术候选而非用户验收。 原站源码版本 b4f9a9ec1d6894383c47f4ffaa1f68c0dbb6c72c。",
+  "latest_delta": "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source",
+  "current_status": "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -192,7 +192,8 @@
     "2026-10-21_02-03-50_three-hero-gallery-v14-source",
     "2026-10-21_02-03-51_three-hero-gallery-v14-published-receipt",
     "2026-10-21_02-04-42_zhangfei-mecha-five-attack-candidate",
-    "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2"
+    "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2",
+    "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -404,7 +405,8 @@
     "2026-10-21_02-03-50_three-hero-gallery-v14-source",
     "2026-10-21_02-03-51_three-hero-gallery-v14-published-receipt",
     "2026-10-21_02-04-42_zhangfei-mecha-five-attack-candidate",
-    "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2"
+    "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2",
+    "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -422,8 +424,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/effective-source-map.json",
-  "production_progress": "2026-10-21_02-10-58_zhangfei-eight-attack-candidates-and-heritage-six-v2/production-progress.json",
+  "effective_source_map": "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source/effective-source-map.json",
+  "production_progress": "2026-10-21_02-15-26_three-hero-gallery-v15-complete-144-source/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
