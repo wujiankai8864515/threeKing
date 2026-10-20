@@ -1,0 +1,18 @@
+{
+  "archived_at": "2026-10-21T02:15:44.885137+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/manifest-all48-current.json",
+      "original_name": "manifest-all48-current.json",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/manifest-all48-current.json",
+      "repository_path": "2026-10-21_02-15-44_zhangfei-current-48-resource-map/source/staged-production/zhangfei-complete_20261020_161000/manifest-all48-current.json",
+      "sha256": "a0cb64da86e56bc6e5461c09f82226ab05cea05032f0c2f949af85b7668b9fac",
+      "original_sha256": "a0cb64da86e56bc6e5461c09f82226ab05cea05032f0c2f949af85b7668b9fac",
+      "bytes": 25037,
+      "archived_at": "2026-10-21T02:15:44.885137+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "hero": "zhangfei",
+  "expected_count": 48,
+  "ready_count": 48,
+  "pending": [],
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/01-黑铁-UI排版修复1190.png",
+      "status": "local_revision_candidate",
+      "sha256": "266ff437583140ca14ca0e9a16e28f1cf32b6f8c5c3d8d95d37421a07deb5f22"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 2,
+      "form": "bronze",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/02-青铜-UI排版修复1190.png",
+      "status": "local_revision_candidate",
+      "sha256": "95bed7e63b98f0bc318f04abc34a6ed32ef832229f3d536ac445a52c71dde701"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 3,
+      "form": "silver",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/03-白银-UI排版修复1190.png",
+      "status": "local_revision_candidate",
+      "sha256": "08c4c3e8396e91e01b1ce34e1ec552ee6451b5d2a097aa5b184083aff2c978e2"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 4,
+      "form": "gold",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/ui/04-黄金-UI排版修复1190.png",
+      "status": "local_revision_candidate",
+      "sha256": "f128d3fc3f71d0d7999b03941f063b329e992dd2a6899ca3154c15def6bf37df"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 2,
+      "form": "bronze",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio02-rally.png",
+      "status": "frozen_accepted",
+      "sha256": "a038af50244f6e8cb90ab1ea45b24fe0a625c72d53075b846fe9dffb19cbb3e8"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 3,
+      "form": "silver",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/scoped-revision_2026-10-18_22-51-10_UTC+08/bio03-hulao.png",
+      "status": "frozen_accepted",
+      "sha256": "49ffed11354cfba89a40077c213b620152c38e51de22b0f4465420cc65f511a0"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 4,
+      "form": "gold",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/local-patches_2026-10-18_23-39-10_UTC+08/bio03-final.png",
+      "status": "local_revision_candidate",
+      "sha256": "4d511c52bbfc6da5d3adec98741d26a3cbfd12de9ac303202d7d2cef14f58821"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-CG.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "06de5a8714c9e1ff5152815c948c97732290c5332fbb837a7bc9149fb103c17a"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/1-头像.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "4c813464cd8a4e7024c9fd38c7c3e53a49c1240a0a1ccaefce46e5e1afd9eea5"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 2,
+      "form": "bronze",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-CG.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "46101323aa6172a8a2f26bba5902e034ddaa29a0926df1b152d743798353f5ee"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 2,
+      "form": "bronze",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/2-头像.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "bd437e2381360505a422f611e0dd49c487c036e236c3b418825e3237aa6b0f70"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 3,
+      "form": "silver",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-CG.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "5b15953985274c562cbd7e335e05ca2ea4eb21f85a90efd114e48d9eb189e3c6"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 3,
+      "form": "silver",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/3-头像.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "4820982828167bd5dd1df2910369c7dedae41f595e2f8906e0465df643830919"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 4,
+      "form": "gold",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-CG.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "c7c5bad245e9125a25b71e01bceec1ec27f10909ebd40925dcbd4eff966620a1"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 4,
+      "form": "gold",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/zhangfei-set/skill-avatar_20261019_093124_UTC+08/4-头像.png",
+      "status": "current_candidate_pending_review",
+      "sha256": "8623583356b4e9f0e13bad1e54bf4dc6854e87eb006b5f513281e129ace5e0c7"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/blackiron-biography.png",
+      "title": "解囊起义",
+      "status": "new_candidate_pending_review",
+      "sha256": "015ca7ce5b6b30b36b1c5df845f6d93f3c6c531df331b67b7477a7e453811806",
+      "story": "涿郡的市井尚未听见战鼓，流民已经走到了张飞的门前。他放下屠刀，打开粮仓，把原本留作买卖的粮食分给饥民。门边的长矛与行囊，是他为自己留下的另一条路：世道既不能让人安生，便提矛护住眼前的人。此为游戏原创的起始故事，不作史实断言。"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage5-card.png",
+      "title": "长坂怒将",
+      "status": "new_candidate_pending_review",
+      "sha256": "9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。",
+      "move": "断桥惊雷：低身跨步，以蛇矛横扫前方；一条凝实虎形声浪沿地面推开敌阵。",
+      "biography_title": "一声护归途"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage6-card.png",
+      "title": "虎魄镇关",
+      "status": "new_candidate_pending_review",
+      "sha256": "e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。",
+      "move": "虎魄裂霆：虎爪蹬空，双臂逆拧蛇矛后向下贯击；成块的蓝白雷弧随虎形脊背掠出。",
+      "biography_title": "群山借我一声"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "divine5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine5-card-v2.png",
+      "title": "金阙镇岳",
+      "status": "new_candidate_pending_review",
+      "sha256": "03f7c025233b5bd8407798028847fe38c450d333e58676d6090977173e6e0157",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。",
+      "move": "金阙镇岳：侧身踏空，双掌错开长矛，以环形金色山岳法印镇住前方。",
+      "biography_title": "庙门不闭"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "divine6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine6-card-v2.png",
+      "title": "四臂镇天尊",
+      "status": "new_candidate_pending_review",
+      "sha256": "e15a39cdf9c618f89d587eacb379cdc8cc6535b65e3892fcd4b90be608244da0",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。",
+      "move": "四极擎天：四臂交错展开，双手横矛、双手压下完整巨型玉印光盘，形成清晰四向冲击。",
+      "biography_title": "替人间撑天"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "demon5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon5-card-v2.png",
+      "title": "血誓不眠",
+      "status": "new_candidate_pending_review",
+      "sha256": "b8287760e19689f7b619f5191faa8cf3409414d38ae2acc3c37da049b59652f6",
+      "story": "梦里没有庆功的酒，只有骤然熄灭的灯与未能说完的嘱托。张飞在黑暗里握紧蛇矛，把背叛留下的恐惧一寸寸折成锁链。他不肯让怒火吞掉自己的姓名，于是先锁住心中的猛虎，再向漫长的夜走去。此为虚构魔化支线，不作真实死因重演。",
+      "move": "断链噬夜：半空扭身反刺，左臂甩开断链，黑虎轮廓沿蛇矛突进，红色脉冲以宽环扩散。",
+      "biography_title": "帐中未尽的怒火"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "demon6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon6-card.png",
+      "title": "冥虎裂界",
+      "status": "new_candidate_pending_review",
+      "sha256": "85c2b58ded71f7f7e63d14594a70d758e66f1346994e777857723b889b2effdb",
+      "story": "那只猛虎终于挣断了梦中的锁链，却没有扑向无辜的人。张飞将自己的意识埋进它的脊骨，让每一寸利爪都记得该守住什么。冥夜因他裂开一道缝；从缝里走出的不再是旧日武将，却依然是那个肯为同伴挡在前面的人。此为幻想进阶故事。",
+      "move": "冥虎裂界：虎躯低伏后纵跃，双爪与蛇矛一同划出三道宽阔裂隙，拒绝细碎光点。",
+      "biography_title": "怒火的缰绳"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha5-card-v2.png",
+      "title": "虎贲重装",
+      "status": "new_candidate_pending_review",
+      "sha256": "4586b72525e8506aad7a7f07472ec4368a1960daed95ea80b0c75ca714f5e748",
+      "story": "旧城门被撞裂的那一夜，工匠没有再赶造一扇更厚的门。他们把青铜虎首、承重机关与未冷却的甲片送到张飞面前。张飞站在吊架中央，让一副能替百姓挡住冲撞的钢铁骨架合拢。最后装上的不是铠甲，而是那柄仍由他亲手掌握的蛇矛。此为幻想机甲支线。",
+      "move": "虎贲崩山：屈膝跃进，整副重甲旋转，以机械蛇矛斜向下贯砸，推力结构清楚可见。",
+      "biography_title": "百锻为骨"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha6-card-v2.png",
+      "title": "玄虎机神",
+      "status": "new_candidate_pending_review",
+      "sha256": "3a89d65f4249591e745af2a57b307d251ac6e44538c3a62207aea91f2490017b",
+      "story": "机关甲本该在最后一次冲撞后停下，张飞却把蛇矛插进城基，让尚未熄灭的炉心与整座城的守备机关相连。四足支起新的门洞，四臂托住倾斜的城墙。撤离的人从他身下经过时，听见的不是齿轮，而是一句熟悉的吼声：往前走。此为幻想进阶故事。",
+      "move": "玄虎踏关：四足机躯腾跃，两臂以矛前刺，另外两臂展开完整大型护甲盾；不画敌方光束。",
+      "biography_title": "此身即城门"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "dcaafee3467379d7c9ff46d7472b3992813f69a7eb7cdf6d58eb886aa0d41076"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "1abe9b7560250933d8ea927cea901eb404cc3f1eaa45543041352dc51e8e97a1"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "divine5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "a4ce6bd62b312caecc74e2f729dcb0dd79632a74f5246c6682e1ead8140c3e61"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "divine6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "6ec4d377a0f8f31d50c2092c790833fce48412de157b73826798a5d51f239f9e"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "demon5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "ba3faa388ac2e0ed0ebfd13cabab074ac0bf17b4ba872c35104f325e03e1ac30"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "demon6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "b6e29c2468eba71e69dee7e67b2990ddf862f41e863deb8175599ec5afc378d9"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha5-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "0f75683d245fbb723b12548f912238a730c03caeede92361d1e036808dea96a9"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "avatar",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha6-avatar.png",
+      "status": "new_candidate_pending_review",
+      "sha256": "e4c19f66ce6399810a4daccf12bdccc5ce7998e15721f6fe6e9c2e84263d3951"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage5-biography.png",
+      "sha256": "efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a",
+      "status": "new_candidate_pending_review",
+      "title": "一声护归途",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage6-biography.png",
+      "sha256": "7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8",
+      "status": "new_candidate_pending_review",
+      "title": "群山借我一声",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine5-biography.png",
+      "sha256": "be6ffc4b857c3abc83414ee50013fc52e79bbfbc0f2e7b7ea377f992c06c6989",
+      "status": "new_candidate_pending_review",
+      "title": "庙门不闭",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine6-biography.png",
+      "sha256": "85e0bb004641e505664db88496e5e9515ac5be24f282794d75db70c9f486270a",
+      "status": "new_candidate_pending_review",
+      "title": "替人间撑天",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon5-biography.png",
+      "sha256": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+      "status": "new_candidate_pending_review",
+      "title": "帐中未尽的怒火",
+      "story": "梦里没有庆功的酒，只有骤然熄灭的灯与未能说完的嘱托。张飞在黑暗里握紧蛇矛，把背叛留下的恐惧一寸寸折成锁链。他不肯让怒火吞掉自己的姓名，于是先锁住心中的猛虎，再向漫长的夜走去。此为虚构魔化支线，不作真实死因重演。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon6-biography.png",
+      "sha256": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+      "status": "new_candidate_pending_review",
+      "title": "怒火的缰绳",
+      "story": "那只猛虎终于挣断了梦中的锁链，却没有扑向无辜的人。张飞将自己的意识埋进它的脊骨，让每一寸利爪都记得该守住什么。冥夜因他裂开一道缝；从缝里走出的不再是旧日武将，却依然是那个肯为同伴挡在前面的人。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha5-biography.png",
+      "sha256": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+      "status": "new_candidate_pending_review",
+      "title": "百锻为骨",
+      "story": "旧城门被撞裂的那一夜，工匠没有再赶造一扇更厚的门。他们把青铜虎首、承重机关与未冷却的甲片送到张飞面前。张飞站在吊架中央，让一副能替百姓挡住冲撞的钢铁骨架合拢。最后装上的不是铠甲，而是那柄仍由他亲手掌握的蛇矛。此为幻想机甲支线。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha6-biography.png",
+      "sha256": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+      "status": "new_candidate_pending_review",
+      "title": "此身即城门",
+      "story": "机关甲本该在最后一次冲撞后停下，张飞却把蛇矛插进城基，让尚未熄灭的炉心与整座城的守备机关相连。四足支起新的门洞，四臂托住倾斜的城墙。撤离的人从他身下经过时，听见的不是齿轮，而是一句熟悉的吼声：往前走。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage5-attack-cg.png",
+      "sha256": "1f0f2240700acd6ced4bf54dd5869bcb2b61e0175d8d6b01ce3f0bd266016909",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha and attack pose verified."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/heritage6-attack-cg-v2.png",
+      "sha256": "8c75f2090a47db0ae63af773372f69eb75fc951b863cfa31c60d62d9d3889797",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Extra paw removed; two visible feet, final anatomy review pending."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine5-attack-cg-v2.png",
+      "sha256": "4beeaee35e353a3ad589e00bebf351a31d73c8cf401d3cbb1a39ab702ec3a613",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine6-attack-cg.png",
+      "sha256": "7c4cd7cf748898c28241d9977ac7b6d6221d19846f50206218002f62aa938cff",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon5-attack-cg.png",
+      "sha256": "756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon6-attack-cg.png",
+      "sha256": "617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha5-attack-cg.png",
+      "sha256": "850c226fdb3c01c26dd3a3ba6b379dbcdcb3eca7bea417c4760f65ea6b59cb14",
+      "status": "new_candidate_pending_review"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/mecha6-attack-cg.png",
+      "sha256": "87c1ca1b4be210a59695b2b03fe5c75400cd590a7013f9a606c2477bdbfb4002",
+      "status": "new_candidate_pending_review",
+      "qa_note": "Transparent alpha verified. Four arms, four paws verified; alpha composited on grey confirms no backdrop despite RGB preview appearance."
+    }
+  ],
+  "text_paths": [
+    "/tmp/zhangfei-complete_20261020_161000/early-text.json",
+    "/tmp/zhangfei-complete_20261020_161000/张飞全形态-传记与招式提案.txt"
+  ],
+  "review_status": "New assets remain candidates, not user approved"
+}
