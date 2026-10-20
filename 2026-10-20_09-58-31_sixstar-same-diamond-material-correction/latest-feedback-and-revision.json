@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-20T09:58:31.341568+08:00",
+  "summary": "最新用户覆盖：五星通透钻石材质和基础样式保留。六星必须在同一五星钻石基础上升级，继承真实晶层透明折光，不可独立铂金墨青画风；此前宝物框仅结构认可，材质仍需改，不能标最终冻结。冠饰、护角及少量悬浮层叠结构可保留，已选08插画与UI冻结。正在制作1张钻石升级六卡，尚未完成或交付。复仇魔5已交待审无定稿，暂不配套。",
+  "five_star_clear_diamond": "approved",
+  "sixstar_treasure_structure": "approved_structure_only",
+  "sixstar_platinum_dark_teal_material": "superseded_requires_same_diamond_upgrade",
+  "new_candidate_target": 1,
+  "new_candidate_ready": 0,
+  "demon_betrayal5": "delivered_pending_review"
+}
