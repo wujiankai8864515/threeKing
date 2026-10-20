@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-10-21T00:53:31.561962+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "original_name": "advanced-support-manifest.json",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json",
+      "sha256": "f1ea56f5914cc3f85bff62657dca07c2cc4c1596d75a80abac02cf9a7dd2ca0a",
+      "original_sha256": "f1ea56f5914cc3f85bff62657dca07c2cc4c1596d75a80abac02cf9a7dd2ca0a",
+      "bytes": 2653,
+      "archived_at": "2026-10-21T00:53:31.561962+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/advanced-support-texts.json",
+      "original_name": "advanced-support-texts.json",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/advanced-support-texts.json",
+      "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-texts.json",
+      "sha256": "2f47682f5ac8cf378b6cea855570a41b27cef157fdb7da9371eb055892dc122f",
+      "original_sha256": "2f47682f5ac8cf378b6cea855570a41b27cef157fdb7da9371eb055892dc122f",
+      "bytes": 4270,
+      "archived_at": "2026-10-21T00:53:31.561962+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/heritage5-avatar.png",
+      "original_name": "heritage5-avatar.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-avatar.png",
+      "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/assets/sha256/8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb.png",
+      "sha256": "8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb",
+      "original_sha256": "8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb",
+      "bytes": 2905554,
+      "archived_at": "2026-10-21T00:53:31.561962+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/heritage5-attackCG.png",
+      "original_name": "heritage5-attackCG.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-attackCG.png",
+      "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/assets/sha256/6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d.png",
+      "sha256": "6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d",
+      "original_sha256": "6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d",
+      "bytes": 3043087,
+      "archived_at": "2026-10-21T00:53:31.561962+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/heritage5-biography.png",
+      "original_name": "heritage5-biography.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-biography.png",
+      "repository_path": "2026-10-21_00-53-31_liubei-heritage-five-supports-and-eight-form-texts/assets/sha256/190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf.png",
+      "sha256": "190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf",
+      "original_sha256": "190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf",
+      "bytes": 3189309,
+      "archived_at": "2026-10-21T00:53:31.561962+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

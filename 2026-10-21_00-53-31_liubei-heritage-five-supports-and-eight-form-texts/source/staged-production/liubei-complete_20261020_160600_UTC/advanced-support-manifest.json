@@ -1,0 +1,58 @@
+{
+  "entries": [
+    {
+      "hero": "liubei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "avatar",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-avatar.png",
+      "status": "candidate_pending_review",
+      "sha256": "8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alpha_extrema": null,
+      "title": "渡江不弃",
+      "story": "江水上涨时，队伍已经走远，刘备却勒住了白马。渡口还有老者未能登船，他把双剑收回鞘中，踏进水里伸出了手。传承不是冠冕上的金纹，而是危急时仍不肯放开的那个人。这一渡，也将少时许下的同行之诺交给了后来者。",
+      "move": "同舟双斩：腾身交错双剑，以翠金剑弧截断敌势，形成护送友军的通路。"
+    },
+    {
+      "hero": "liubei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "attackCG",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-attackCG.png",
+      "status": "candidate_pending_review",
+      "sha256": "6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "title": "渡江不弃",
+      "story": "江水上涨时，队伍已经走远，刘备却勒住了白马。渡口还有老者未能登船，他把双剑收回鞘中，踏进水里伸出了手。传承不是冠冕上的金纹，而是危急时仍不肯放开的那个人。这一渡，也将少时许下的同行之诺交给了后来者。",
+      "move": "同舟双斩：腾身交错双剑，以翠金剑弧截断敌势，形成护送友军的通路。"
+    },
+    {
+      "hero": "liubei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/heritage5-biography.png",
+      "status": "candidate_pending_review",
+      "sha256": "190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "alpha_extrema": null,
+      "title": "渡江不弃",
+      "story": "江水上涨时，队伍已经走远，刘备却勒住了白马。渡口还有老者未能登船，他把双剑收回鞘中，踏进水里伸出了手。传承不是冠冕上的金纹，而是危急时仍不肯放开的那个人。这一渡，也将少时许下的同行之诺交给了后来者。",
+      "move": "同舟双斩：腾身交错双剑，以翠金剑弧截断敌势，形成护送友军的通路。"
+    }
+  ]
+}

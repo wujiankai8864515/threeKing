@@ -1,0 +1,14 @@
+{
+  "README.md": "b7d0dbc406ebdabc5f62fe277e62514c5188677e65738573bac602a08c084c6e",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "5c874af67266237f85c42efa4a8a22a26a705d7d7aba47f12ce2ad51ac526447",
+  "production-progress.json": "d150fe79ea1ac90c5591386bf094e68b9bc8ea268e36def7ac8f8f875c8fecc9",
+  "effective-source-map.json": "b767cf3bdf9e51d96646ea4c9803f0ff70d31121b18bffebec17035456ebd0cf",
+  "archive-scope.json": "49fc27d2d92a29f78c27a8679bddb5605269b8b22f12a7fe4e3467d5c0d33858",
+  "asset-index.json": "634f72e81f70c797fb6a58dfff324efb24e45c17c8a2bf3fe0ddfd33d70c0287",
+  "assets/sha256/190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf.png": "190d2ec5cc7d577ea5e69bd15e9bc7a9039b17381224ac4506204229f4a42dbf",
+  "assets/sha256/6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d.png": "6f03a31614ab6605452ea7ccab73dd63a6e6086fddbc44c240f595869bc92c5d",
+  "assets/sha256/8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb.png": "8f4c021590da5d0d2ead3c273d58b57793463de8ae34bea263e2ad6bd67a56cb",
+  "source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-texts.json": "2f47682f5ac8cf378b6cea855570a41b27cef157fdb7da9371eb055892dc122f",
+  "source/staged-production/liubei-complete_20261020_160600_UTC/advanced-support-manifest.json": "f1ea56f5914cc3f85bff62657dca07c2cc4c1596d75a80abac02cf9a7dd2ca0a"
+}
