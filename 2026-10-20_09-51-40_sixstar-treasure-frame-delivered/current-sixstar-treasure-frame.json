@@ -1,0 +1,59 @@
+{
+  "asset": {
+    "original_path": "guanyu-advanced/sixstar-treasure_20261020_094300_UTC+08/六星机甲关羽-立体宝物框.png",
+    "original_name": "六星机甲关羽-立体宝物框.png",
+    "repository_path": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/assets/sha256/69c314dc5b6d8e569882a1cfa4a19abad6cc7bf4b6837e19941cb062a8e2f5f8.png",
+    "sha256": "69c314dc5b6d8e569882a1cfa4a19abad6cc7bf4b6837e19941cb062a8e2f5f8",
+    "original_sha256": "69c314dc5b6d8e569882a1cfa4a19abad6cc7bf4b6837e19941cb062a8e2f5f8",
+    "bytes": 5002105,
+    "archived_at": "2026-10-20T09:51:40.023988+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "source": {
+    "original_path": "guanyu-advanced/sixstar-treasure_20261020_094300_UTC+08/source-08-unchanged.png",
+    "original_name": "source-08-unchanged.png",
+    "repository_path": "2026-10-19_22-29-05_mecha-twenty-complete-cards-ready/assets/sha256/7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6.png",
+    "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "original_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "bytes": 3290066,
+    "archived_at": "2026-10-20T09:51:40.023988+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "frame": {
+    "original_path": "guanyu-advanced/sixstar-treasure_20261020_094300_UTC+08/frame-6star-expanded.png",
+    "original_name": "frame-6star-expanded.png",
+    "repository_path": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/assets/sha256/7ab3cadefa524cfb06699af15a0d70e255e58bb79d633d8b8b605395cee99deb.png",
+    "sha256": "7ab3cadefa524cfb06699af15a0d70e255e58bb79d633d8b8b605395cee99deb",
+    "original_sha256": "7ab3cadefa524cfb06699af15a0d70e255e58bb79d633d8b8b605395cee99deb",
+    "bytes": 2355936,
+    "archived_at": "2026-10-20T09:51:40.023988+08:00",
+    "source_bytes_preserved": true,
+    "status": "candidate_or_process_artifact_pending_user_review",
+    "supersedes": []
+  },
+  "library": [
+    {
+      "file_name": "六星机甲关羽-立体宝物框.png",
+      "library_file_id": "libfile_2dbf051afc548191893660baaa110a8e",
+      "file_id": "file_00000000bf3881f5841864e206c3cb9c"
+    },
+    {
+      "file_name": "frame-6star-expanded.png",
+      "library_file_id": "libfile_68f296de4e308191a876dfc82f00b378",
+      "file_id": "file_00000000c45c81f5895bef43639926b2"
+    }
+  ],
+  "delivery": {
+    "message_id": "Sentinel_ca586fbeabbc81919746160fc897feac",
+    "timestamp_UTC": "2026-10-20T01:50:52.387628Z",
+    "service_status": "accepted",
+    "user_approval": false
+  },
+  "status": "delivered_candidate_pending_user_review",
+  "manifest_hash_note": "final_card_sha256 identifies expanded final card; output_sha256 is retained core intermediate hash",
+  "candidate_count": 1
+}

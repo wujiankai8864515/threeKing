@@ -1,0 +1,52 @@
+{
+  "status": "visually_checked_candidate_for_user_review",
+  "full_card_size": [
+    1310,
+    1966
+  ],
+  "source_size": [
+    1024,
+    1536
+  ],
+  "source_unchanged": true,
+  "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+  "standard_core_canvas": [
+    1190,
+    1786
+  ],
+  "presentation_padding": {
+    "left": 60,
+    "top": 140,
+    "right": 60,
+    "bottom": 40
+  },
+  "illustration_offset_in_core": [
+    84,
+    145
+  ],
+  "illustration_offset_in_expanded_canvas": [
+    144,
+    285
+  ],
+  "illustration_scale": 1,
+  "dynamic_glyph_anchors_match_previous_standard": true,
+  "uncovered_art_pixels_checked": 1133401,
+  "uncovered_art_pixels_changed": 0,
+  "visual_checks": [
+    "姓名、蜀、LV和等级均清晰且在标准动态锚点",
+    "六颗星完整清楚",
+    "镇岳+2、逆鳞+2、天诛+2无阻挡",
+    "左下封侯、右下62×130宽枪图标完整",
+    "顶冠和叠层护角未裁切",
+    "两枚大型悬浮纹章，无碎光点",
+    "未改五星框资源"
+  ],
+  "generated_frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_fit_resample": "1024×1536生成源等比例适配到1310×1966；非原生4K",
+  "generated_background": "transparent alpha; low-opacity dust normalized",
+  "active_skill_name": "龙御天穹",
+  "active_skill_display": "仍按标准卡面不额外新增主动技能栏；名称保存在配置与映射中"
+}

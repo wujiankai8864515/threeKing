@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope/asset-index.json",
+  "asset_index": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "最新五星通透钻石框获认可。六星赤金橙红框因太俗被否决，重做1张宝物立体框：保持标准布局与已选机甲08空域护城原图，采用冠饰、浮雕及少量悬浮层叠结构，高级克制配色，禁紫。魔20未定稿，只偏好07/06/09及14白须挑战天氛围；重组新5张完整卡，表现被出卖后的复仇、麦城惨败，白衣渡江舟影或白衣潜兵作为次要线索，白发白须凌乱悲壮，禁止细碎光点、鱼形/溺亡/黑白无常。全部完整卡并保留独立原图及分层配置，暂不制作配套。满意五星机甲/传承、神05和六机甲08插画维持冻结。本轮6候选正在制作，尚未完成或交付。",
-  "latest_delta": "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope",
-  "current_status": "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope/status-overrides.json",
+  "note": "六星宝物立体框1张完整候选已冻结并发送accepted，待用户审阅。最终采用铂金精工、深墨青珐琅、少量玉石、双龙冠饰及叠层护角；已选08插画未覆盖区域逐像素变化0。真实生成源1024×1536，最终外扩画布1310×1966不宣称原生4K；card目录为核心UI中间版，不计第二候选。全部参数参考、透明框、UI配置、QA及历史完整保存。五星通透钻石框维持认可；新5魔仍在制，整批未完成。",
+  "latest_delta": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered",
+  "current_status": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -132,7 +132,8 @@
     "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources",
     "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready",
     "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery",
-    "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope"
+    "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope",
+    "2026-10-20_09-51-40_sixstar-treasure-frame-delivered"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -284,7 +285,8 @@
     "2026-10-20_00-13-18_recognizable20-first-ten-stable-sources",
     "2026-10-20_00-23-41_recognizable-demon-twenty-complete-ready",
     "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery",
-    "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope"
+    "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope",
+    "2026-10-20_09-51-40_sixstar-treasure-frame-delivered"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -302,8 +304,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope/effective-source-map.json",
-  "production_progress": "2026-10-20_09-46-13_treasure-sixstar-revenge-five-scope/production-progress.json",
+  "effective_source_map": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/effective-source-map.json",
+  "production_progress": "2026-10-20_09-51-40_sixstar-treasure-frame-delivered/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
