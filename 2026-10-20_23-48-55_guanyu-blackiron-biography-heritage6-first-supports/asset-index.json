@@ -1,0 +1,53 @@
+{
+  "archived_at": "2026-10-20T23:48:55.488792+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/early-tier-completion_20261020_154700_UTC/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/source/guanyu-advanced/early-tier-completion_20261020_154700_UTC/manifest.json",
+      "sha256": "b62c244683359f184ef4c51a4d8cc98435ad839464bc1c91875904418d37d309",
+      "original_sha256": "b62c244683359f184ef4c51a4d8cc98435ad839464bc1c91875904418d37d309",
+      "bytes": 552,
+      "archived_at": "2026-10-20T23:48:55.488792+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/early-tier-completion_20261020_154700_UTC/blackiron-biography.png",
+      "original_name": "blackiron-biography.png",
+      "repository_path": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/assets/sha256/87c867c5d8e8e942c655e011efc99554c75a3812f2727d37f184fb16a581691d.png",
+      "sha256": "87c867c5d8e8e942c655e011efc99554c75a3812f2727d37f184fb16a581691d",
+      "original_sha256": "87c867c5d8e8e942c655e011efc99554c75a3812f2727d37f184fb16a581691d",
+      "bytes": 2817135,
+      "archived_at": "2026-10-20T23:48:55.488792+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-avatar.png",
+      "original_name": "heritage6-avatar.png",
+      "repository_path": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/assets/sha256/e3c8872655f7d9c4063fcf4ef6a5de36211f9801a6f1e38eb7f73e7b8e637088.png",
+      "sha256": "e3c8872655f7d9c4063fcf4ef6a5de36211f9801a6f1e38eb7f73e7b8e637088",
+      "original_sha256": "e3c8872655f7d9c4063fcf4ef6a5de36211f9801a6f1e38eb7f73e7b8e637088",
+      "bytes": 3002989,
+      "archived_at": "2026-10-20T23:48:55.488792+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/heritage6-support_20261020_154200_UTC/heritage6-attack.png",
+      "original_name": "heritage6-attack.png",
+      "repository_path": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/assets/sha256/f76375a95f9502e8e14453b3f6c126eacf9d1ce7d7fb5e721e7cfa2fc83d956b.png",
+      "sha256": "f76375a95f9502e8e14453b3f6c126eacf9d1ce7d7fb5e721e7cfa2fc83d956b",
+      "original_sha256": "f76375a95f9502e8e14453b3f6c126eacf9d1ce7d7fb5e721e7cfa2fc83d956b",
+      "bytes": 3550045,
+      "archived_at": "2026-10-20T23:48:55.488792+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    }
+  ]
+}
