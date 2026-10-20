@@ -1,0 +1,51 @@
+{
+  "entries": [
+    {
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/mecha6-nontext-seal.png",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha-sixstar-fivestar-restore_20261020_132900_UTC/六星机甲关羽-五星版式-侯印召天光.png",
+      "sha256": "c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc",
+      "status": "candidate_pending_review",
+      "method": "built-in image_gen precise-object-edit",
+      "qa": "Visually inspected: lower-left contains pictorial gold dragon knob jade seal, no 封侯 characters; hero/body, frame, six stars, name, skill labels and Tyndall composition retained. Image editing can introduce pixel-level differences outside target; not claimed pixel-identical."
+    },
+    {
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/heritage6-nontext-seal.png",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/传承关羽-六星封侯-龙魂真身-重制候选.png",
+      "sha256": "4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b",
+      "status": "candidate_pending_review",
+      "method": "built-in image_gen precise-object-edit",
+      "qa": "Visually inspected: lower-left contains pictorial gold dragon knob jade seal, no 封侯 characters; hero/body, frame, six stars, name, skill labels and Tyndall composition retained. Image editing can introduce pixel-level differences outside target; not claimed pixel-identical."
+    },
+    {
+      "form": "divine6",
+      "tier": 6,
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/divine6-nontext-seal.png",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/神关羽-六星封侯-六臂帝君-重制候选.png",
+      "sha256": "ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a",
+      "status": "candidate_pending_review",
+      "method": "built-in image_gen precise-object-edit",
+      "qa": "Visually inspected: lower-left contains pictorial gold dragon knob jade seal, no 封侯 characters; hero/body, frame, six stars, name, skill labels and Tyndall composition retained. Image editing can introduce pixel-level differences outside target; not claimed pixel-identical."
+    },
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/demon6-nontext-seal.png",
+      "source_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/魔关羽-六星封侯-冥龙魔君-重制候选.png",
+      "sha256": "cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70",
+      "status": "candidate_pending_review",
+      "method": "built-in image_gen precise-object-edit",
+      "qa": "Visually inspected: lower-left contains pictorial gold dragon knob jade seal, no 封侯 characters; hero/body, frame, six stars, name, skill labels and Tyndall composition retained. Image editing can introduce pixel-level differences outside target; not claimed pixel-identical."
+    }
+  ],
+  "instruction": "Replace lower-left textual 封侯 emblem with non-text pictorial marquis seal only. Preserve other card content.",
+  "original_files_preserved": true,
+  "github_uploaded": false
+}

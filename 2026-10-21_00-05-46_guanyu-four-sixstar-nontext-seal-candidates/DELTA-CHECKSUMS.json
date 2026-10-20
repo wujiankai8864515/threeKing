@@ -1,0 +1,14 @@
+{
+  "status-overrides.json": "3835442dab7921051af7ff79b91c4dbab00470e1100693a9bc3b3fe21ccc82d1",
+  "archive-scope.json": "6a7826f91780925fae3f4af9bcd642772a9182ff90585b37adc18753c7326e00",
+  "effective-source-map.json": "278adf64ede9b211e97b6f543965fafca95b07b03656960bcf9729517b7e5b4b",
+  "asset-index.json": "4eb19f559816cab2dfd5aceee7e6571512dff02f5ac7590222d4c6c700563993",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "production-progress.json": "7e21e6a3a89f3c5ef59fa5aaf92b00eab6ca36a6bcaa9dbf6c6629caa862ff72",
+  "README.md": "8e3e1f1cbfcc3849876f7c7f1c5758eca22507758a46904af9f63de49a3c3e17",
+  "source/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/manifest.json": "bae5b64cb5ff43e8be2d7698dee032c05a60c973da2eafa5e095fd0b7f2099aa",
+  "assets/sha256/c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc.png": "c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc",
+  "assets/sha256/4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b.png": "4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b",
+  "assets/sha256/cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70.png": "cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70",
+  "assets/sha256/ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a.png": "ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a"
+}

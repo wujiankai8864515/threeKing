@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-10-21T00:05:46.924700+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/demon6-nontext-seal.png",
+      "original_name": "demon6-nontext-seal.png",
+      "repository_path": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/assets/sha256/cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70.png",
+      "sha256": "cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70",
+      "original_sha256": "cfebacb80d578a4962c218906247c9196e9520e33478219e0a774a33e29dde70",
+      "bytes": 2990562,
+      "archived_at": "2026-10-21T00:05:46.924700+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/mecha6-nontext-seal.png",
+      "original_name": "mecha6-nontext-seal.png",
+      "repository_path": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/assets/sha256/c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc.png",
+      "sha256": "c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc",
+      "original_sha256": "c225c140ee83a7bdb96a51ae444076fd630f05bf32a4077740a70c24187edacc",
+      "bytes": 2846771,
+      "archived_at": "2026-10-21T00:05:46.924700+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/heritage6-nontext-seal.png",
+      "original_name": "heritage6-nontext-seal.png",
+      "repository_path": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/assets/sha256/4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b.png",
+      "sha256": "4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b",
+      "original_sha256": "4f069dcfc1d61b6e0088a9f39fadf74e3cd9be3f31580d4ad06f076c8e8ab65b",
+      "bytes": 3089922,
+      "archived_at": "2026-10-21T00:05:46.924700+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/divine6-nontext-seal.png",
+      "original_name": "divine6-nontext-seal.png",
+      "repository_path": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/assets/sha256/ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a.png",
+      "sha256": "ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a",
+      "original_sha256": "ecc7ec0f2aba8b7df2ebf0f723484f7023e986554ff76dffb51e412f1e3f538a",
+      "bytes": 2909986,
+      "archived_at": "2026-10-21T00:05:46.924700+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/source/guanyu-advanced/sixstar-nontext-seals_20261020_155400_UTC/manifest.json",
+      "sha256": "bae5b64cb5ff43e8be2d7698dee032c05a60c973da2eafa5e095fd0b7f2099aa",
+      "original_sha256": "bae5b64cb5ff43e8be2d7698dee032c05a60c973da2eafa5e095fd0b7f2099aa",
+      "bytes": 3688,
+      "archived_at": "2026-10-21T00:05:46.924700+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    }
+  ]
+}
