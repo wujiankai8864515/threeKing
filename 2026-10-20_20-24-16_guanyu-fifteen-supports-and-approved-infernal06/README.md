@@ -6,6 +6,11 @@
 
 魔形态沿用用户已选定的最新极怒魔06「握旗噬天」作为参考；本批新增配套图本身尚未批准。六星20种新卡框为另一个独立批次。
 
+
+[阅读全部五篇传记与招式说明](source/guanyu-advanced/supporting-five-six_20261020_201000_UTC%2B08/%E5%85%B3%E7%BE%BD%E9%85%8D%E5%A5%97-%E4%BA%94%E7%AF%87%E4%BC%A0%E8%AE%B0%E4%B8%8E%E6%8B%9B%E5%BC%8F%E8%AF%B4%E6%98%8E.txt) · [机甲形态传记](source/guanyu-advanced/supporting-five-six_20261020_201000_UTC%2B08/mecha-narratives.md)
+
+![15图总览](source/guanyu-advanced/supporting-five-six_20261020_201000_UTC%2B08/%E5%85%B3%E7%BE%BD%E5%85%A8%E5%A5%97%E9%85%8D%E5%A5%97-15%E5%9B%BE%E6%80%BB%E8%A7%88.jpg)
+
 ## 传承关羽（五星）
 
 ### 传记场景
