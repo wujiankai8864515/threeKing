@@ -1,0 +1,8 @@
+{
+  "summary": "三人画廊v6源码增量：36张完整卡候选与99张预览图，纳入张飞八卡修订及刘备首批配套。 原站源码版本 250766c616709a54f84d7ef1c1b45d4c7788c84f。",
+  "new_entries": 10,
+  "resolved_paths": 13370,
+  "temporary_sources_restore_under": "staged-production/",
+  "status": "local_commit_is_not_remote_backup; remote verification required",
+  "original_images_immutable": true
+}
