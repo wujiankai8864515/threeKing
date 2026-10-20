@@ -1,0 +1,109 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage5-card.png",
+      "title": "长坂怒将",
+      "status": "new_candidate_pending_review",
+      "sha256": "9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。",
+      "move": "断桥惊雷：低身跨步，以蛇矛横扫前方；一条凝实虎形声浪沿地面推开敌阵。",
+      "biography_title": "一声护归途"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage6-card.png",
+      "title": "虎魄镇关",
+      "status": "new_candidate_pending_review",
+      "sha256": "e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。",
+      "move": "虎魄裂霆：虎爪蹬空，双臂逆拧蛇矛后向下贯击；成块的蓝白雷弧随虎形脊背掠出。",
+      "biography_title": "群山借我一声"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "divine5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine5-card-v2.png",
+      "title": "金阙镇岳",
+      "status": "new_candidate_pending_review",
+      "sha256": "03f7c025233b5bd8407798028847fe38c450d333e58676d6090977173e6e0157",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。",
+      "move": "金阙镇岳：侧身踏空，双掌错开长矛，以环形金色山岳法印镇住前方。",
+      "biography_title": "庙门不闭"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "divine6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine6-card-v2.png",
+      "title": "四臂镇天尊",
+      "status": "new_candidate_pending_review",
+      "sha256": "e15a39cdf9c618f89d587eacb379cdc8cc6535b65e3892fcd4b90be608244da0",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。",
+      "move": "四极擎天：四臂交错展开，双手横矛、双手压下完整巨型玉印光盘，形成清晰四向冲击。",
+      "biography_title": "替人间撑天"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "demon5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon5-card-v2.png",
+      "title": "血誓不眠",
+      "status": "new_candidate_pending_review",
+      "sha256": "b8287760e19689f7b619f5191faa8cf3409414d38ae2acc3c37da049b59652f6",
+      "story": "梦里没有庆功的酒，只有骤然熄灭的灯与未能说完的嘱托。张飞在黑暗里握紧蛇矛，把背叛留下的恐惧一寸寸折成锁链。他不肯让怒火吞掉自己的姓名，于是先锁住心中的猛虎，再向漫长的夜走去。此为虚构魔化支线，不作真实死因重演。",
+      "move": "断链噬夜：半空扭身反刺，左臂甩开断链，黑虎轮廓沿蛇矛突进，红色脉冲以宽环扩散。",
+      "biography_title": "帐中未尽的怒火"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "demon6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/demon6-card.png",
+      "title": "冥虎裂界",
+      "status": "new_candidate_pending_review",
+      "sha256": "85c2b58ded71f7f7e63d14594a70d758e66f1346994e777857723b889b2effdb",
+      "story": "那只猛虎终于挣断了梦中的锁链，却没有扑向无辜的人。张飞将自己的意识埋进它的脊骨，让每一寸利爪都记得该守住什么。冥夜因他裂开一道缝；从缝里走出的不再是旧日武将，却依然是那个肯为同伴挡在前面的人。此为幻想进阶故事。",
+      "move": "冥虎裂界：虎躯低伏后纵跃，双爪与蛇矛一同划出三道宽阔裂隙，拒绝细碎光点。",
+      "biography_title": "怒火的缰绳"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha5-card-v2.png",
+      "title": "虎贲重装",
+      "status": "new_candidate_pending_review",
+      "sha256": "4586b72525e8506aad7a7f07472ec4368a1960daed95ea80b0c75ca714f5e748",
+      "story": "旧城门被撞裂的那一夜，工匠没有再赶造一扇更厚的门。他们把青铜虎首、承重机关与未冷却的甲片送到张飞面前。张飞站在吊架中央，让一副能替百姓挡住冲撞的钢铁骨架合拢。最后装上的不是铠甲，而是那柄仍由他亲手掌握的蛇矛。此为幻想机甲支线。",
+      "move": "虎贲崩山：屈膝跃进，整副重甲旋转，以机械蛇矛斜向下贯砸，推力结构清楚可见。",
+      "biography_title": "百锻为骨"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/mecha6-card-v2.png",
+      "title": "玄虎机神",
+      "status": "new_candidate_pending_review",
+      "sha256": "3a89d65f4249591e745af2a57b307d251ac6e44538c3a62207aea91f2490017b",
+      "story": "机关甲本该在最后一次冲撞后停下，张飞却把蛇矛插进城基，让尚未熄灭的炉心与整座城的守备机关相连。四足支起新的门洞，四臂托住倾斜的城墙。撤离的人从他身下经过时，听见的不是齿轮，而是一句熟悉的吼声：往前走。此为幻想进阶故事。",
+      "move": "玄虎踏关：四足机躯腾跃，两臂以矛前刺，另外两臂展开完整大型护甲盾；不画敌方光束。",
+      "biography_title": "此身即城门"
+    }
+  ],
+  "note": "supersedes batch1 divine cards, all are review candidates not approved"
+}
