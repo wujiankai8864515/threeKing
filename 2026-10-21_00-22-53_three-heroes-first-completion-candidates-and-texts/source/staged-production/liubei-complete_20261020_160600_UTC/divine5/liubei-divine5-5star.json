@@ -1,0 +1,135 @@
+{
+  "hero": "liubei",
+  "name": "神·刘备",
+  "tier": 5,
+  "branch_id": "divine5",
+  "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3f0c61d0-bb8c-4976-aabb-b5446099e06a.png",
+  "outdir": "/tmp/liubei-complete_20261020_160600_UTC/divine5",
+  "skills": [
+    {
+      "name": "慈照",
+      "level": 1
+    },
+    {
+      "name": "玉佑",
+      "level": 1
+    },
+    {
+      "name": "济世",
+      "level": 1
+    }
+  ],
+  "skill_values_status": "draft_not_balanced",
+  "troop_class": "长枪兵",
+  "output": "/tmp/liubei-complete_20261020_160600_UTC/divine5/liubei-divine5-5star.png",
+  "text_layer": "/tmp/liubei-complete_20261020_160600_UTC/divine5/liubei-divine5-5star-dynamic-ui.png",
+  "source_sha256": "27ad863206d87c938dd5daa3ca92a37276b2008e561aa141ba78e010c33856d8",
+  "output_sha256": "5047f1368ca47c1c9bcf423dd4884b4383bea8b66ca18ec97f5ff884d78933c8",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1190,
+    1786
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    84,
+    145
+  ],
+  "status": "candidate_pending_user_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": null,
+  "stars": 5,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "神",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        54,
+        68
+      ]
+    },
+    {
+      "text": "刘备",
+      "target_center": [
+        764.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        699.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "慈照 +1",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        51
+      ]
+    },
+    {
+      "text": "玉佑 +1",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    },
+    {
+      "text": "济世 +1",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        126,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1209452,
+  "uncovered_art_pixels_changed": 0
+}

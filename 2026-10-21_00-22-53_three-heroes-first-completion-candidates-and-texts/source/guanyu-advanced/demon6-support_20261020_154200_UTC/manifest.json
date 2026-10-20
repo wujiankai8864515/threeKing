@@ -1,0 +1,27 @@
+{
+  "form": "demon6",
+  "entries": [
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "avatar",
+      "title": "冥龙凝视",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-avatar.png",
+      "sha256": "4350a06af8f1aa491a20cd598f82d239f35ffb565390f1b2b1cd89d6a4587f8d",
+      "status": "review_candidate"
+    },
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "title": "冥龙断狱",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-attack-cg.png",
+      "sha256": "d763ae005eb9dce5f95db0be7ee2399ce7784c31e756cecf55bda49a1b216e8e",
+      "status": "review_candidate"
+    }
+  ],
+  "text_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-story-and-skill.txt",
+  "pending": [
+    "biography"
+  ]
+}

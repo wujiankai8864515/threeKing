@@ -1,0 +1,15 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/blackiron-biography.png",
+      "title": "解囊起义",
+      "status": "new_candidate_pending_review",
+      "sha256": "015ca7ce5b6b30b36b1c5df845f6d93f3c6c531df331b67b7477a7e453811806",
+      "story": "涿郡的市井尚未听见战鼓，流民已经走到了张飞的门前。他放下屠刀，打开粮仓，把原本留作买卖的粮食分给饥民。门边的长矛与行囊，是他为自己留下的另一条路：世道既不能让人安生，便提矛护住眼前的人。此为游戏原创的起始故事，不作史实断言。"
+    }
+  ]
+}

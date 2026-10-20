@@ -1,0 +1,64 @@
+{
+  "entries": [
+    {
+      "hero": "liubei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "card",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/heritage5/liubei-heritage5-5star.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-308be7be-096d-4c60-86a2-0ce69934dd10.png",
+      "status": "candidate_pending_review",
+      "qa": "uncovered source pixels unchanged",
+      "passives": [
+        "仁德",
+        "同袍",
+        "匡汉"
+      ]
+    },
+    {
+      "hero": "liubei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "card",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/divine5/liubei-divine5-5star.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3f0c61d0-bb8c-4976-aabb-b5446099e06a.png",
+      "status": "candidate_pending_review",
+      "qa": "uncovered source pixels unchanged",
+      "passives": [
+        "慈照",
+        "玉佑",
+        "济世"
+      ]
+    },
+    {
+      "hero": "liubei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "card",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/demon5/liubei-demon5-5star.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-20890c90-25b2-469c-a9a7-da78b0caf133.png",
+      "status": "candidate_pending_review",
+      "qa": "uncovered source pixels unchanged",
+      "passives": [
+        "孤誓",
+        "冥护",
+        "返魂"
+      ]
+    },
+    {
+      "hero": "liubei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "card",
+      "local_path": "/tmp/liubei-complete_20261020_160600_UTC/mecha5/liubei-mecha5-5star.png",
+      "source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b5f63696-5310-4f2d-aa6d-f0a0cd4f08c8.png",
+      "status": "candidate_pending_review",
+      "qa": "uncovered source pixels unchanged",
+      "passives": [
+        "双驱",
+        "玉核",
+        "城卫"
+      ]
+    }
+  ]
+}

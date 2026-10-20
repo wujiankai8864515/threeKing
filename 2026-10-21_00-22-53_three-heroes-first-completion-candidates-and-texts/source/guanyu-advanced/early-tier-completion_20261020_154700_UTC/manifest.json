@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "form": "blackiron",
+      "tier": 1,
+      "kind": "biography",
+      "title": "市井义骨",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/early-tier-completion_20261020_154700_UTC/blackiron-biography.png",
+      "sha256": "87c867c5d8e8e942c655e011efc99554c75a3812f2727d37f184fb16a581691d",
+      "status": "new_candidate_pending_user_confirmation",
+      "source_reference": "guanyu-mythic-set/targeted_material_fix_20261018_184220_UTC+08/blackiron-local-material-20261018_184509.png"
+    }
+  ],
+  "text_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/early-tier-completion_20261020_154700_UTC/early-tier-text.json",
+  "text_document": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/early-tier-completion_20261020_154700_UTC/关羽一至四星-传记与招式设计.txt"
+}

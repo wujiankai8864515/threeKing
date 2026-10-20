@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/asset-index.json",
+  "asset_index": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "四形态六星卡左下非文字封侯印玺修订已稳定保存，均为待评审候选。旧文字版保留；生成式修改不声称目标外像素完全不变。本地保存不等于已远端备份或用户验收。",
-  "latest_delta": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates",
-  "current_status": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/status-overrides.json",
+  "note": "刘备首批四形态五星完整卡与来源、张飞黑铁传记图和故事、关羽新增早期文案及魔六星阶段清单增量保存。均为待评审候选，其余资源仍在制作，网站更新与远端上传分别核验。",
+  "latest_delta": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts",
+  "current_status": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -148,7 +148,8 @@
     "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates",
     "2026-10-20_23-55-54_guanyu-demon-sixstar-avatar-attack-first-candidates",
     "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates",
-    "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates"
+    "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates",
+    "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -316,7 +317,8 @@
     "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates",
     "2026-10-20_23-55-54_guanyu-demon-sixstar-avatar-attack-first-candidates",
     "2026-10-20_23-57-21_guanyu-heritage-sixstar-complete-support-candidates",
-    "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates"
+    "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates",
+    "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -334,8 +336,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/effective-source-map.json",
-  "production_progress": "2026-10-21_00-05-46_guanyu-four-sixstar-nontext-seal-candidates/production-progress.json",
+  "effective_source_map": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts/effective-source-map.json",
+  "production_progress": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",
