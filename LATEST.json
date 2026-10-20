@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/asset-index.json",
+  "asset_index": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "黑铁传记图、传承六星头像和放招静态图已稳定保存；均为新增待评审候选。配文、其余缺口及四形态非文字封侯印玺仍制作中，将继续增量归档。网站尚待本轮更新，备份不等于用户验收。",
-  "latest_delta": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports",
-  "current_status": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/status-overrides.json",
+  "note": "神六星传记、静态放招、头像与配文已稳定保存为待评审候选。当前头像为RGB而非透明资产，后续修订独立保留；其他缺口和印玺仍在制作，网站待更新。",
+  "latest_delta": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates",
+  "current_status": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -144,7 +144,8 @@
     "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06",
     "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery",
     "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment",
-    "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports"
+    "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports",
+    "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -308,7 +309,8 @@
     "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06",
     "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery",
     "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment",
-    "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports"
+    "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports",
+    "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -326,8 +328,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/effective-source-map.json",
-  "production_progress": "2026-10-20_23-48-55_guanyu-blackiron-biography-heritage6-first-supports/production-progress.json",
+  "effective_source_map": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/effective-source-map.json",
+  "production_progress": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",

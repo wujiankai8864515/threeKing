@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-10-20T23:49:43.217367+08:00",
+  "entries": [
+    {
+      "original_path": "guanyu-advanced/divine6-support_20261020_154200_UTC/神关羽六星-传记与招式.txt",
+      "original_name": "神关羽六星-传记与招式.txt",
+      "repository_path": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/source/guanyu-advanced/divine6-support_20261020_154200_UTC/神关羽六星-传记与招式.txt",
+      "sha256": "4cc951cb0b143cf5ca07885d9d80ac797308147730027be7e8f02cb7f900b09b",
+      "original_sha256": "4cc951cb0b143cf5ca07885d9d80ac797308147730027be7e8f02cb7f900b09b",
+      "bytes": 1631,
+      "archived_at": "2026-10-20T23:49:43.217367+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-avatar.png",
+      "original_name": "divine6-avatar.png",
+      "repository_path": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/assets/sha256/6f552a56db30e57a0c1f2baf0b056d6d1e8daa82f8ab6c86c4e9ace60003510a.png",
+      "sha256": "6f552a56db30e57a0c1f2baf0b056d6d1e8daa82f8ab6c86c4e9ace60003510a",
+      "original_sha256": "6f552a56db30e57a0c1f2baf0b056d6d1e8daa82f8ab6c86c4e9ace60003510a",
+      "bytes": 3351189,
+      "archived_at": "2026-10-20T23:49:43.217367+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-biography.png",
+      "original_name": "divine6-biography.png",
+      "repository_path": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/assets/sha256/1dc86c7e0984f7243458429d5e7e10e6f4fdca6df23113c0afd3317c44765567.png",
+      "sha256": "1dc86c7e0984f7243458429d5e7e10e6f4fdca6df23113c0afd3317c44765567",
+      "original_sha256": "1dc86c7e0984f7243458429d5e7e10e6f4fdca6df23113c0afd3317c44765567",
+      "bytes": 3451325,
+      "archived_at": "2026-10-20T23:49:43.217367+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/divine6-support_20261020_154200_UTC/manifest.json",
+      "original_name": "manifest.json",
+      "repository_path": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/source/guanyu-advanced/divine6-support_20261020_154200_UTC/manifest.json",
+      "sha256": "9d4d432f3cd5418122773d20f69ef47006bb38c575431849fe57e6c175f1923c",
+      "original_sha256": "9d4d432f3cd5418122773d20f69ef47006bb38c575431849fe57e6c175f1923c",
+      "bytes": 2798,
+      "archived_at": "2026-10-20T23:49:43.217367+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    },
+    {
+      "original_path": "guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-attack.png",
+      "original_name": "divine6-attack.png",
+      "repository_path": "2026-10-20_23-49-43_guanyu-divine-sixstar-supports-ready-candidates/assets/sha256/368c00e85893966a1a4ccdbe29b82f66ede44d97f522ea41e87ed37a74174635.png",
+      "sha256": "368c00e85893966a1a4ccdbe29b82f66ede44d97f522ea41e87ed37a74174635",
+      "original_sha256": "368c00e85893966a1a4ccdbe29b82f66ede44d97f522ea41e87ed37a74174635",
+      "bytes": 3199785,
+      "archived_at": "2026-10-20T23:49:43.217367+08:00",
+      "source_bytes_preserved": true,
+      "status": "project_artifact_current_or_history_see_current_manifest",
+      "supersedes": []
+    }
+  ]
+}

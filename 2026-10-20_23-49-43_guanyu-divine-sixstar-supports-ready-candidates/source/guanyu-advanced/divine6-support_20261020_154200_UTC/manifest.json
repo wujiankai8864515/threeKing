@@ -1,0 +1,63 @@
+{
+  "entries": [
+    {
+      "tier": 6,
+      "form": "divine6",
+      "kind": "avatar",
+      "title": "六臂帝君·神冠头像",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-avatar.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "6f552a56db30e57a0c1f2baf0b056d6d1e8daa82f8ab6c86c4e9ace60003510a",
+      "status": "new_candidate_pending_user_review",
+      "generation": "built-in image_gen",
+      "reference": "guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-evolved-art.png"
+    },
+    {
+      "tier": 6,
+      "form": "divine6",
+      "kind": "attack_cg",
+      "title": "六仪镇厄",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-attack.png",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "sha256": "368c00e85893966a1a4ccdbe29b82f66ede44d97f522ea41e87ed37a74174635",
+      "status": "new_candidate_pending_user_review",
+      "generation": "built-in image_gen",
+      "reference": "guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-evolved-art.png"
+    },
+    {
+      "tier": 6,
+      "form": "divine6",
+      "kind": "biography",
+      "title": "万灯成誓",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine6-support_20261020_154200_UTC/divine6-biography.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGB",
+      "sha256": "1dc86c7e0984f7243458429d5e7e10e6f4fdca6df23113c0afd3317c44765567",
+      "status": "new_candidate_pending_user_review",
+      "generation": "built-in image_gen",
+      "reference": "guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-evolved-art.png"
+    }
+  ],
+  "text_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/divine6-support_20261020_154200_UTC/神关羽六星-传记与招式.txt",
+  "qa": {
+    "visual_review": "all three images inspected",
+    "attack_alpha_zero_pixels": 414099,
+    "attack_alpha_total_pixels": 1572864,
+    "attack_corner_alpha": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "prompts": {
+    "avatar": "Independent close portrait, red face black beard emerald crown ivory gold armor, broad sacred halo, no UI/frame. Reference identity only.",
+    "attack": "Six-arm divine Guan Yu twisting diagonal downward slash with emerald gold poleblade, other arms casting seal and broad protective ring, dragon-cloud lowerbody, true transparent background, no UI/enemies.",
+    "biography": "Wide narrative: refugees sheltering in ancient mountain temple after storm, shared candlelight vows awaken six-arm Guan Yu deity above gates; marquis seal invokes coherent celestial light, god reaches down to people. Not historical claim."
+  }
+}
