@@ -1,0 +1,63 @@
+[
+  {
+    "id": "01",
+    "name": "孤城逆天",
+    "args": {
+      "prompt": "Create ONE new premium Chinese myth game illustration portrait1024x1536, no cardframe/UI (added later). References are aesthetic preferences not approved final; compose new artwork. Core story fictional demon awakening after Guan Yu's defeat at Maicheng: dying cause betrayed, grief/defiance becoming revenge. White-clothed crossing is background military stratagem, NOT an invented private betrayal allegation. Must recognizable GUAN YU red dignified humanlike face, beautiful long white beard, green accents, crescent guandao. No generic monster, no fish, no drowned form, no Chinese funeral officials. Main hero sharp and enormous, background naturally lowcontrast, isolated dramatic continuous energy. NO dense tiny gold/red specks, sparks, random glints, shiny beads, stipple or pittedmetal; armor large smooth dark surfaces and broad edge highlights, robe structural tears not scatteredholes. No gore, corpse or cutbody. Eye power clearly tapered directional energy not roundbulbs. Anatomically correct hands face, rigid weapon shaft no discontinuity at hand, broad crescent blade not sword. UI later covers source x770–1024 y930–1210 and edges, so keep essential face/hands center x200–750 y200–900 and 麦城 text within x150–650 y1150–1280 unless otherwise specified. Strong extreme low-angle Guan Yu standing on the shattered parapet of Maicheng, foreground human body dominant, a colossal spectral wrathful version of his SAME face rises behind him into red storm. Face in upper middle tilted up challenging heaven, mouth fierce mournful roar, wild unbound WHITE hair and WHITE long beard blown upwards asymmetrically. Lowered broad crescent guandao in right hand long straight shaft. Lower left secondary ruined gateway with clear 麦城 plaque at x250 y1200. In low-contrast left middle distant river a few boats and white-robed infiltrators on shore, visibly actual people/boats, only8%image. Hero black-red armor, torn green banner, gigantic dark-crimson sweeping spirit silhouette.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "02",
+    "name": "残旗问天",
+    "args": {
+      "prompt": "Create ONE new premium Chinese myth game illustration portrait1024x1536, no cardframe/UI (added later). References are aesthetic preferences not approved final; compose new artwork. Core story fictional demon awakening after Guan Yu's defeat at Maicheng: dying cause betrayed, grief/defiance becoming revenge. White-clothed crossing is background military stratagem, NOT an invented private betrayal allegation. Must recognizable GUAN YU red dignified humanlike face, beautiful long white beard, green accents, crescent guandao. No generic monster, no fish, no drowned form, no Chinese funeral officials. Main hero sharp and enormous, background naturally lowcontrast, isolated dramatic continuous energy. NO dense tiny gold/red specks, sparks, random glints, shiny beads, stipple or pittedmetal; armor large smooth dark surfaces and broad edge highlights, robe structural tears not scatteredholes. No gore, corpse or cutbody. Eye power clearly tapered directional energy not roundbulbs. Anatomically correct hands face, rigid weapon shaft no discontinuity at hand, broad crescent blade not sword. UI later covers source x770–1024 y930–1210 and edges, so keep essential face/hands center x200–750 y200–900 and 麦城 text within x150–650 y1150–1280 unless otherwise specified. Intimate three-quarter waist-up Guan Yu clutching his huge torn green 关 battle banner to heart in left hand; right hand holds vertical rigid guandao beside shoulder. His grief hardens into demonic revenge: noble red face, knitted eyebrows, wet angry eyes with clear crimson fire trailing toward sky. Huge unruly WHITE beard and loose WHITE hair, some locks across face, not neat, aged exhausted tragic yet heroic. One broad continuous black-red cloak curl encircles him. Background left a narrow river strip with small white-clothed infiltrators stepping from boats, defeated city wall with 麦城 at x220 y1240, subdued. Face dominates, banner tactile plain large folds not random spots.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/06-残旗魔誓-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "03",
+    "name": "焚心立誓",
+    "args": {
+      "prompt": "Create ONE new premium Chinese myth game illustration portrait1024x1536, no cardframe/UI (added later). References are aesthetic preferences not approved final; compose new artwork. Core story fictional demon awakening after Guan Yu's defeat at Maicheng: dying cause betrayed, grief/defiance becoming revenge. White-clothed crossing is background military stratagem, NOT an invented private betrayal allegation. Must recognizable GUAN YU red dignified humanlike face, beautiful long white beard, green accents, crescent guandao. No generic monster, no fish, no drowned form, no Chinese funeral officials. Main hero sharp and enormous, background naturally lowcontrast, isolated dramatic continuous energy. NO dense tiny gold/red specks, sparks, random glints, shiny beads, stipple or pittedmetal; armor large smooth dark surfaces and broad edge highlights, robe structural tears not scatteredholes. No gore, corpse or cutbody. Eye power clearly tapered directional energy not roundbulbs. Anatomically correct hands face, rigid weapon shaft no discontinuity at hand, broad crescent blade not sword. UI later covers source x770–1024 y930–1210 and edges, so keep essential face/hands center x200–750 y200–900 and 麦城 text within x150–650 y1150–1280 unless otherwise specified. Frontal chest-up fiercely tragic Guan Yu, weathered dignified red face and long tangled WHITE beard, unbound WHITE hair no crown. He grips one horizontal long rigid guandao shaft with two believable hands. Smooth dark armor has single broad crimson spirit furnace in chest, symbolic revenge not flesh wound. Narrow eyes emit directed continuous scarlet flame; tears and grief in brow, explosive black-red aura rising like one enormous blade-shadow. Behind left shoulder distant city wall bears 麦城 within x180 y500; behind right upper shoulder small river boats with white-robed soldiers hiding their armor, lowcontrast, no overlay collage. Torso/face80%visual focus.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/09-焚心藏刃-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "04",
+    "name": "白发裂霄",
+    "args": {
+      "prompt": "Create ONE new premium Chinese myth game illustration portrait1024x1536, no cardframe/UI (added later). References are aesthetic preferences not approved final; compose new artwork. Core story fictional demon awakening after Guan Yu's defeat at Maicheng: dying cause betrayed, grief/defiance becoming revenge. White-clothed crossing is background military stratagem, NOT an invented private betrayal allegation. Must recognizable GUAN YU red dignified humanlike face, beautiful long white beard, green accents, crescent guandao. No generic monster, no fish, no drowned form, no Chinese funeral officials. Main hero sharp and enormous, background naturally lowcontrast, isolated dramatic continuous energy. NO dense tiny gold/red specks, sparks, random glints, shiny beads, stipple or pittedmetal; armor large smooth dark surfaces and broad edge highlights, robe structural tears not scatteredholes. No gore, corpse or cutbody. Eye power clearly tapered directional energy not roundbulbs. Anatomically correct hands face, rigid weapon shaft no discontinuity at hand, broad crescent blade not sword. UI later covers source x770–1024 y930–1210 and edges, so keep essential face/hands center x200–750 y200–900 and 麦城 text within x150–650 y1150–1280 unless otherwise specified. Dynamic side-view diagonal composition from ground level: Guan Yu raises huge broad crescent guandao two-handed to split storm heavens. Arms correctly spaced along one long straight continuous pole. His red face in profile looks up screaming grief and defiance, unruly WHITE hair and long WHITE beard tangled into large dramatic strands, unmistakable Guan Yu. Former defeated mortal transforming: lower robe worn dark-green cloth, upper shoulders smooth black-red demonic armor growing in large shapes. One huge crimson sky-rift, continuous eye-flame aimed upward. Below left small ruined Maicheng gate plaque 麦城 at x250 y1240; further behind it low-contrast river white-robed infiltrators in boats. Not drowning; hero on dry shattered battlement.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "05",
+    "name": "回望绝路",
+    "args": {
+      "prompt": "Create ONE new premium Chinese myth game illustration portrait1024x1536, no cardframe/UI (added later). References are aesthetic preferences not approved final; compose new artwork. Core story fictional demon awakening after Guan Yu's defeat at Maicheng: dying cause betrayed, grief/defiance becoming revenge. White-clothed crossing is background military stratagem, NOT an invented private betrayal allegation. Must recognizable GUAN YU red dignified humanlike face, beautiful long white beard, green accents, crescent guandao. No generic monster, no fish, no drowned form, no Chinese funeral officials. Main hero sharp and enormous, background naturally lowcontrast, isolated dramatic continuous energy. NO dense tiny gold/red specks, sparks, random glints, shiny beads, stipple or pittedmetal; armor large smooth dark surfaces and broad edge highlights, robe structural tears not scatteredholes. No gore, corpse or cutbody. Eye power clearly tapered directional energy not roundbulbs. Anatomically correct hands face, rigid weapon shaft no discontinuity at hand, broad crescent blade not sword. UI later covers source x770–1024 y930–1210 and edges, so keep essential face/hands center x200–750 y200–900 and 麦城 text within x150–650 y1150–1280 unless otherwise specified. Distinct elevated rear-three-quarter view: Guan Yu immense in foreground turns his upper torso and red long-bearded face toward us over shoulder, his eyes look past viewer in rage at betrayal while one hand clenches torn 关 banner and other carries long guandao across shoulder with physical grip. Unbound WHITE hair and WHITE beard extremely wind-tangled and sorrowful. His human cloak becomes one vast dark-red demon shadow rising above him, shaped like his own furious visage, not horns-only monster. Below at left the trapped small city 麦城 and severed retreat roads, plaque at x250 y1180. Along distant river center-left identifiable white-robed troops disembark small boats in a silent flanking advance, subdued. Broad black-crimson surfaces, no glitter; isolated hero trapped by armies then choosing vengeance.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/06-残旗魔誓-source.png",
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+      ],
+      "transparent_background": false
+    }
+  }
+]

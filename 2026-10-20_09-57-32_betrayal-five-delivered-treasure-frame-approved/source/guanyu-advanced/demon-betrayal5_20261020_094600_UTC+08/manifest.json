@@ -1,0 +1,713 @@
+[
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "betrayal-01",
+    "tier": 5,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/01-孤城逆天-source.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-01",
+    "skills": [
+      {
+        "name": "杀心",
+        "level": 2
+      },
+      {
+        "name": "噬魂",
+        "level": 2
+      },
+      {
+        "name": "复仇",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-01/guanyu-betrayal-01-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-01/guanyu-betrayal-01-5star-dynamic-ui.png",
+    "source_sha256": "2126365b04661645f9d18b0f9c1e6c2a5fb9690570ec17288d25781d784f6c6d",
+    "output_sha256": "271e85929495d55ccf511f742a73a6c9be3a29d88eba92347d936b2dea78309d",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "杀心 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          48
+        ]
+      },
+      {
+        "text": "噬魂 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "id": "01",
+    "concept": "孤城逆天",
+    "actual_reference": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+    ],
+    "library_file_id": "libfile_b1d9dc5a3328819184e1ef31f5f71676"
+  },
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "betrayal-02",
+    "tier": 5,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/02-残旗问天-source.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-02",
+    "skills": [
+      {
+        "name": "杀心",
+        "level": 2
+      },
+      {
+        "name": "噬魂",
+        "level": 2
+      },
+      {
+        "name": "复仇",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-02/guanyu-betrayal-02-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-02/guanyu-betrayal-02-5star-dynamic-ui.png",
+    "source_sha256": "905d0594e06666ee34f9e459fd65cfc73d2eedd61a1885ef27d642b0de741264",
+    "output_sha256": "224d9835d6ec2a6f564fd758ca556933e30ccc37e681dd356ad5ab15975d5371",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "杀心 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          48
+        ]
+      },
+      {
+        "text": "噬魂 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "id": "02",
+    "concept": "残旗问天",
+    "actual_reference": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/06-残旗魔誓-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+    ],
+    "library_file_id": "libfile_48c86d18b0ec8191a8ef780ed216a8ac"
+  },
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "betrayal-03",
+    "tier": 5,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/03-焚心立誓-source.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-03",
+    "skills": [
+      {
+        "name": "杀心",
+        "level": 2
+      },
+      {
+        "name": "噬魂",
+        "level": 2
+      },
+      {
+        "name": "复仇",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-03/guanyu-betrayal-03-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-03/guanyu-betrayal-03-5star-dynamic-ui.png",
+    "source_sha256": "5c6a8125a91bff0be870309a156735c395e9e3cd2b9da21a2f6f3eb5025db8ad",
+    "output_sha256": "62db20b0ae523438fe00a507cdb0873e5bb3001394cb718ceb6954be06ac4d39",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "杀心 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          48
+        ]
+      },
+      {
+        "text": "噬魂 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "id": "03",
+    "concept": "焚心立誓",
+    "actual_reference": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/09-焚心藏刃-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png"
+    ],
+    "library_file_id": "libfile_a89814a534008191a3464c0713fa79aa"
+  },
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "betrayal-04",
+    "tier": 5,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/04-白发裂霄-source.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-04",
+    "skills": [
+      {
+        "name": "杀心",
+        "level": 2
+      },
+      {
+        "name": "噬魂",
+        "level": 2
+      },
+      {
+        "name": "复仇",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-04/guanyu-betrayal-04-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-04/guanyu-betrayal-04-5star-dynamic-ui.png",
+    "source_sha256": "11bfc84f33c508fd70810e81e8eb90af7142a868fe36383415c2e201d8b38b12",
+    "output_sha256": "17d6e98e2688e9bac951707cb97df69349d705f276c7a44e9674529e27b1c5ce",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "杀心 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          48
+        ]
+      },
+      {
+        "text": "噬魂 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "id": "04",
+    "concept": "白发裂霄",
+    "actual_reference": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png"
+    ],
+    "library_file_id": "libfile_e86d5543f9788191ad5558e0ef194cf2"
+  },
+  {
+    "hero": "guanyu",
+    "name": "魔·关羽",
+    "branch": "天",
+    "branch_id": "betrayal-05",
+    "tier": 5,
+    "level": 1,
+    "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/05-回望绝路-source.png",
+    "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-05",
+    "skills": [
+      {
+        "name": "杀心",
+        "level": 2
+      },
+      {
+        "name": "噬魂",
+        "level": 2
+      },
+      {
+        "name": "复仇",
+        "level": 2
+      }
+    ],
+    "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-05/guanyu-betrayal-05-5star.png",
+    "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-betrayal5_20261020_094600_UTC+08/card-05/guanyu-betrayal-05-5star-dynamic-ui.png",
+    "source_sha256": "971450533c62ee34065730609dc30fc845f0124dbd310fb92fc2e56d94000a69",
+    "output_sha256": "b25661e9eee9f54b71c32141e4d9f596a2202e3379cb34f83e1019a0cecaeb4e",
+    "native_art_size": [
+      1024,
+      1536
+    ],
+    "canvas_size": [
+      1190,
+      1786
+    ],
+    "source_scale": 1,
+    "illustration_offset": [
+      84,
+      145
+    ],
+    "status": "candidate_pending_user_review",
+    "three_passives_bottom_anchored": true,
+    "six_star_passive_count": null,
+    "stars": 5,
+    "glyph_centers": [
+      {
+        "text": "蜀",
+        "target_center": [
+          170.830078125,
+          154.64713541666669
+        ],
+        "glyph_bbox": [
+          0,
+          25,
+          81,
+          102
+        ]
+      },
+      {
+        "text": "魔",
+        "target_center": [
+          661.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          54,
+          68
+        ]
+      },
+      {
+        "text": "关羽",
+        "target_center": [
+          764.318359375,
+          106.97395833333334
+        ],
+        "glyph_bbox": [
+          0,
+          16,
+          108,
+          69
+        ]
+      },
+      {
+        "text": "·",
+        "target_center": [
+          699.318359375,
+          106.97395833333334
+        ],
+        "geometric_centered": true
+      },
+      {
+        "text": "杀心 +2",
+        "target_center": [
+          973.84765625,
+          1117.4127604166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          48
+        ]
+      },
+      {
+        "text": "噬魂 +2",
+        "target_center": [
+          973.84765625,
+          1215.0846354166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      },
+      {
+        "text": "复仇 +2",
+        "target_center": [
+          973.84765625,
+          1312.7565104166667
+        ],
+        "glyph_bbox": [
+          0,
+          11,
+          131,
+          49
+        ]
+      }
+    ],
+    "uncovered_art_pixels_checked": 1209452,
+    "uncovered_art_pixels_changed": 0,
+    "id": "05",
+    "concept": "回望绝路",
+    "actual_reference": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/07-踏阙逆天-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/06-残旗魔誓-source.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-recognizable20_20261020_000300_UTC+08/14-白发裂天-source.png"
+    ],
+    "library_file_id": "libfile_c240cf6d63f08191a169f2b1f4e5fb51"
+  }
+]

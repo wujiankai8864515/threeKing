@@ -1,0 +1,122 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-betrayal-01-5star.png",
+    "file_id": "file_0000000037cc81f6951120fa1a08da45",
+    "library_file_id": "libfile_b1d9dc5a3328819184e1ef31f5f71676",
+    "file_name": "guanyu-betrayal-01-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4180623
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-betrayal-02-5star.png",
+    "file_id": "file_00000000290c81fd866c916361009e1a",
+    "library_file_id": "libfile_48c86d18b0ec8191a8ef780ed216a8ac",
+    "file_name": "guanyu-betrayal-02-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3987760
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-betrayal-03-5star.png",
+    "file_id": "file_00000000a804824681d337aadc469e84",
+    "library_file_id": "libfile_a89814a534008191a3464c0713fa79aa",
+    "file_name": "guanyu-betrayal-03-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4168720
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-betrayal-04-5star.png",
+    "file_id": "file_000000009bfc820ea2f0c0ee8da4fff4",
+    "library_file_id": "libfile_e86d5543f9788191ad5558e0ef194cf2",
+    "file_name": "guanyu-betrayal-04-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4093197
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-betrayal-05-5star.png",
+    "file_id": "file_00000000f86c820cbed34b21e3adf8ff",
+    "library_file_id": "libfile_c240cf6d63f08191a169f2b1f4e5fb51",
+    "file_name": "guanyu-betrayal-05-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4178108
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/overview-01-05.jpg",
+    "file_id": "file_00000000f1e4820cb5a508730d80b422",
+    "library_file_id": "libfile_d5af9488448c8191841fa8678fa390a7",
+    "file_name": "overview-01-05.jpg",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/jpeg",
+    "library_artifact_type": "other",
+    "file_size_bytes": 623364
+  }
+]
