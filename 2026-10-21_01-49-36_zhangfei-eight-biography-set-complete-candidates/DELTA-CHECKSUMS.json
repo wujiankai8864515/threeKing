@@ -1,0 +1,13 @@
+{
+  "README.md": "7bfa2894b9269f178fc21f839750dcc0344d7de428e405564342951d244ffe48",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "77a691ae61b89d271468aaca499e220dbebe80355285d5368b2db4671936886c",
+  "production-progress.json": "d68b0722a2e3f9ee564068fa4e4386261992afb78e0935a31e87dcc9ed2d91ef",
+  "effective-source-map.json": "ffb5edff0871a702eb3ba7aa92457148e8857d7763f6853787463e6756d2a4ae",
+  "archive-scope.json": "8c38de3747da420f7c4f87e0f2d2996261adee09edf7e35283c352c2498ca68d",
+  "asset-index.json": "f881a1021ad6de6407f86bd5420e0d69cb6b2ef0d522b95d8c426438168deac4",
+  "assets/sha256/dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5.png": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+  "assets/sha256/d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40.png": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+  "source/staged-production/zhangfei-bios_20261020_170400/manifest-batch4.json": "1fbabf8bafcc65d0f6b8c8d94b5cad329e63ee60e37a3f37c016ed098e690230",
+  "source/staged-production/zhangfei-bios_20261020_170400/manifest-biographies-all8.json": "5616cf9eef54c71664261c9b82a0486ea35f0b5eb470841ac7f46c3375c4904a"
+}

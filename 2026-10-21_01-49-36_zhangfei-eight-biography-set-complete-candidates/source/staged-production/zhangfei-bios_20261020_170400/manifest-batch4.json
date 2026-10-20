@@ -1,0 +1,34 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha5-biography.png",
+      "sha256": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+      "status": "new_candidate_pending_review",
+      "title": "百锻为骨",
+      "story": "旧城门被撞裂的那一夜，工匠没有再赶造一扇更厚的门。他们把青铜虎首、承重机关与未冷却的甲片送到张飞面前。张飞站在吊架中央，让一副能替百姓挡住冲撞的钢铁骨架合拢。最后装上的不是铠甲，而是那柄仍由他亲手掌握的蛇矛。此为幻想机甲支线。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha6-biography.png",
+      "sha256": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+      "status": "new_candidate_pending_review",
+      "title": "此身即城门",
+      "story": "机关甲本该在最后一次冲撞后停下，张飞却把蛇矛插进城基，让尚未熄灭的炉心与整座城的守备机关相连。四足支起新的门洞，四臂托住倾斜的城墙。撤离的人从他身下经过时，听见的不是齿轮，而是一句熟悉的吼声：往前走。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}

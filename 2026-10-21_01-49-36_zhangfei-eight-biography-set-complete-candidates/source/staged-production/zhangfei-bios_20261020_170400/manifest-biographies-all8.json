@@ -1,0 +1,125 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "heritage5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage5-biography.png",
+      "sha256": "efae16733985ffe17a9cdbf1f9bf1d8d02fadb9b3c2300c7cbfd1552b50c579a",
+      "status": "new_candidate_pending_review",
+      "title": "一声护归途",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "heritage6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/heritage6-biography.png",
+      "sha256": "7032f7f6dc99f78c9e5acd36231a13f25a2dd6a71e469083ba8d9b81025300d8",
+      "status": "new_candidate_pending_review",
+      "title": "群山借我一声",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine5-biography.png",
+      "sha256": "be6ffc4b857c3abc83414ee50013fc52e79bbfbc0f2e7b7ea377f992c06c6989",
+      "status": "new_candidate_pending_review",
+      "title": "庙门不闭",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine6-biography.png",
+      "sha256": "85e0bb004641e505664db88496e5e9515ac5be24f282794d75db70c9f486270a",
+      "status": "new_candidate_pending_review",
+      "title": "替人间撑天",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon5-biography.png",
+      "sha256": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+      "status": "new_candidate_pending_review",
+      "title": "帐中未尽的怒火",
+      "story": "梦里没有庆功的酒，只有骤然熄灭的灯与未能说完的嘱托。张飞在黑暗里握紧蛇矛，把背叛留下的恐惧一寸寸折成锁链。他不肯让怒火吞掉自己的姓名，于是先锁住心中的猛虎，再向漫长的夜走去。此为虚构魔化支线，不作真实死因重演。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon6-biography.png",
+      "sha256": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+      "status": "new_candidate_pending_review",
+      "title": "怒火的缰绳",
+      "story": "那只猛虎终于挣断了梦中的锁链，却没有扑向无辜的人。张飞将自己的意识埋进它的脊骨，让每一寸利爪都记得该守住什么。冥夜因他裂开一道缝；从缝里走出的不再是旧日武将，却依然是那个肯为同伴挡在前面的人。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha5-biography.png",
+      "sha256": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+      "status": "new_candidate_pending_review",
+      "title": "百锻为骨",
+      "story": "旧城门被撞裂的那一夜，工匠没有再赶造一扇更厚的门。他们把青铜虎首、承重机关与未冷却的甲片送到张飞面前。张飞站在吊架中央，让一副能替百姓挡住冲撞的钢铁骨架合拢。最后装上的不是铠甲，而是那柄仍由他亲手掌握的蛇矛。此为幻想机甲支线。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "hero": "zhangfei",
+      "form": "mecha6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/mecha6-biography.png",
+      "sha256": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+      "status": "new_candidate_pending_review",
+      "title": "此身即城门",
+      "story": "机关甲本该在最后一次冲撞后停下，张飞却把蛇矛插进城基，让尚未熄灭的炉心与整座城的守备机关相连。四足支起新的门洞，四臂托住倾斜的城墙。撤离的人从他身下经过时，听见的不是齿轮，而是一句熟悉的吼声：往前走。此为幻想进阶故事。",
+      "dimensions": [
+        1536,
+        1024
+      ]
+    }
+  ],
+  "note": "Eight independent built-in image generation story candidates; visual QA completed; no user approval implied."
+}

@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-10-21T01:49:36.980311+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/manifest-biographies-all8.json",
+      "original_name": "manifest-biographies-all8.json",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/manifest-biographies-all8.json",
+      "repository_path": "2026-10-21_01-49-36_zhangfei-eight-biography-set-complete-candidates/source/staged-production/zhangfei-bios_20261020_170400/manifest-biographies-all8.json",
+      "sha256": "5616cf9eef54c71664261c9b82a0486ea35f0b5eb470841ac7f46c3375c4904a",
+      "original_sha256": "5616cf9eef54c71664261c9b82a0486ea35f0b5eb470841ac7f46c3375c4904a",
+      "bytes": 6073,
+      "archived_at": "2026-10-21T01:49:36.980311+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/manifest-batch4.json",
+      "original_name": "manifest-batch4.json",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/manifest-batch4.json",
+      "repository_path": "2026-10-21_01-49-36_zhangfei-eight-biography-set-complete-candidates/source/staged-production/zhangfei-bios_20261020_170400/manifest-batch4.json",
+      "sha256": "1fbabf8bafcc65d0f6b8c8d94b5cad329e63ee60e37a3f37c016ed098e690230",
+      "original_sha256": "1fbabf8bafcc65d0f6b8c8d94b5cad329e63ee60e37a3f37c016ed098e690230",
+      "bytes": 1540,
+      "archived_at": "2026-10-21T01:49:36.980311+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/mecha6-biography.png",
+      "original_name": "mecha6-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/mecha6-biography.png",
+      "repository_path": "2026-10-21_01-49-36_zhangfei-eight-biography-set-complete-candidates/assets/sha256/d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40.png",
+      "sha256": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+      "original_sha256": "d918214e5d49ffe29eeeb0aa9ca426d79151d196b9d2e7975c12e17e2c4e8a40",
+      "bytes": 3582106,
+      "archived_at": "2026-10-21T01:49:36.980311+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/mecha5-biography.png",
+      "original_name": "mecha5-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/mecha5-biography.png",
+      "repository_path": "2026-10-21_01-49-36_zhangfei-eight-biography-set-complete-candidates/assets/sha256/dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5.png",
+      "sha256": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+      "original_sha256": "dac5c12634f742a24063b00a417b349f0b26d70ec99d84d31687bbda7811f0c5",
+      "bytes": 3264347,
+      "archived_at": "2026-10-21T01:49:36.980311+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}
