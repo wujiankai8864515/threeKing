@@ -1,0 +1,36 @@
+{
+  "archived_at": "2026-10-21T01:03:10.575970+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/assets/guanyu-demon6-biography.webp",
+      "original_name": "guanyu-demon6-biography.webp",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/assets/guanyu-demon6-biography.webp",
+      "repository_path": "2026-10-21_01-03-10_three-hero-gallery-v5-complete-guanyu-source/source/staged-production/threeheroes-gallery/dist/assets/guanyu-demon6-biography.webp",
+      "sha256": "20a037c6539142d22eb901a9792bd825ead9839fe70b6487a393c2b0d69bba3d",
+      "original_sha256": "20a037c6539142d22eb901a9792bd825ead9839fe70b6487a393c2b0d69bba3d",
+      "bytes": 647124,
+      "archived_at": "2026-10-21T01:03:10.575970+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/threeheroes-gallery/dist/data.js",
+      "original_name": "data.js",
+      "source_location_at_capture": "/tmp/threeheroes-gallery/dist/data.js",
+      "repository_path": "2026-10-21_01-03-10_three-hero-gallery-v5-complete-guanyu-source/source/staged-production/threeheroes-gallery/dist/data.js",
+      "sha256": "6295275cf0d6a218d2cc4083f9f3af8935e06918b018e22992617ad587850fbe",
+      "original_sha256": "6295275cf0d6a218d2cc4083f9f3af8935e06918b018e22992617ad587850fbe",
+      "bytes": 31255,
+      "archived_at": "2026-10-21T01:03:10.575970+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": [
+        {
+          "repository_path": "2026-10-21_01-03-02_three-hero-gallery-v4-corrected-source/source/staged-production/threeheroes-gallery/dist/data.js",
+          "sha256": "192469dc72f5c1ce5be837876a557c4fbd340855b5c6ef04f1c0586719b423c3"
+        }
+      ]
+    }
+  ]
+}
