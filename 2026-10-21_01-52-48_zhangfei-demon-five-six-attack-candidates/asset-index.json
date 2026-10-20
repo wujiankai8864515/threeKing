@@ -1,0 +1,44 @@
+{
+  "archived_at": "2026-10-21T01:52:48.585300+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/manifest-batch3.json",
+      "original_name": "manifest-batch3.json",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/manifest-batch3.json",
+      "repository_path": "2026-10-21_01-52-48_zhangfei-demon-five-six-attack-candidates/source/staged-production/zhangfei-attacks_20261020_170400/manifest-batch3.json",
+      "sha256": "965f9dd8c53799420dd2eef64d1b0acc990c4e2ec28a10b0cdc799fe398a3a48",
+      "original_sha256": "965f9dd8c53799420dd2eef64d1b0acc990c4e2ec28a10b0cdc799fe398a3a48",
+      "bytes": 865,
+      "archived_at": "2026-10-21T01:52:48.585300+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/demon6-attack-cg.png",
+      "original_name": "demon6-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/demon6-attack-cg.png",
+      "repository_path": "2026-10-21_01-52-48_zhangfei-demon-five-six-attack-candidates/assets/sha256/617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e.png",
+      "sha256": "617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e",
+      "original_sha256": "617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e",
+      "bytes": 2839723,
+      "archived_at": "2026-10-21T01:52:48.585300+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-attacks_20261020_170400/demon5-attack-cg.png",
+      "original_name": "demon5-attack-cg.png",
+      "source_location_at_capture": "/tmp/zhangfei-attacks_20261020_170400/demon5-attack-cg.png",
+      "repository_path": "2026-10-21_01-52-48_zhangfei-demon-five-six-attack-candidates/assets/sha256/756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299.png",
+      "sha256": "756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299",
+      "original_sha256": "756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299",
+      "bytes": 3098197,
+      "archived_at": "2026-10-21T01:52:48.585300+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

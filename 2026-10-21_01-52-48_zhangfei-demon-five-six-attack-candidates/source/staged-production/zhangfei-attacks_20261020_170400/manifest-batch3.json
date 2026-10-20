@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon5-attack-cg.png",
+      "sha256": "756686adcd3432cbd6d7a4787250fb7a0325564963b148fd877601eea9d96299",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/demon6-attack-cg.png",
+      "sha256": "617c94872739ffd7a56dc1e52f9427bd637bd9ebbb5e05f17391c41b8d718a1e",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified, two arms two legs, new attack pose, narrow wavy snake spear."
+    }
+  ]
+}
