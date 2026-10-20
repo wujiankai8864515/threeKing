@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/六星机甲关羽-钻石立体宝物框.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000d45081f5b7b7a1947ad66bc3",
+      "library_file_id": "libfile_acc6bad4bea08191b987aa443f7fbca7",
+      "file_name": "六星机甲关羽-钻石立体宝物框.png",
+      "local_metadata_applied": true,
+      "path": "/六星机甲关羽-钻石立体宝物框.png",
+      "current_version_number": 0
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/frame-6star-expanded.png",
+      "purpose": "create_library_file",
+      "status": "succeeded",
+      "file_id": "file_00000000649881f59eb4e3ed73ec805a",
+      "library_file_id": "libfile_1e236d0d26148191bda635c6bed2667b",
+      "file_name": "frame-6star-expanded(1).png",
+      "local_metadata_applied": true,
+      "path": "/frame-6star-expanded(1).png",
+      "current_version_number": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uploads": [
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/六星机甲关羽-钻石立体宝物框.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    },
+    {
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/frame-6star-expanded.png",
+      "purpose": "create_library_file",
+      "library_artifact_type": "image"
+    }
+  ]
+}

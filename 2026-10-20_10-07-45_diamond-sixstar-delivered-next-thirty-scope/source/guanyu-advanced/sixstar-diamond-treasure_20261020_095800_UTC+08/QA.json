@@ -1,0 +1,53 @@
+{
+  "status": "visually_checked_candidate_for_user_review",
+  "full_card_size": [
+    1310,
+    1966
+  ],
+  "source_size": [
+    1024,
+    1536
+  ],
+  "source_unchanged": true,
+  "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+  "five_star_unmodified": true,
+  "five_star_sha256_before_and_after": "9c046c5bcd0f537e1c6ce55e6030b8ca6522f902066240313b855d960b91a206",
+  "approved_structure_alpha_exact": true,
+  "standard_core_canvas": [
+    1190,
+    1786
+  ],
+  "presentation_padding": {
+    "left": 60,
+    "top": 140,
+    "right": 60,
+    "bottom": 40
+  },
+  "illustration_offset_in_core": [
+    84,
+    145
+  ],
+  "illustration_offset_in_expanded_canvas": [
+    144,
+    285
+  ],
+  "illustration_scale": 1,
+  "dynamic_glyph_anchors_match_previous_standard": true,
+  "uncovered_art_pixels_checked": 1133401,
+  "uncovered_art_pixels_changed": 0,
+  "visual_checks": [
+    "实际查看最新五星通透钻石材质参考后重制",
+    "六星与五星同系列透明晶体、冰青折射、厚切面",
+    "冠饰/护角/悬浮结构保留，独立墨青金属及绿宝石材质已替换",
+    "姓名、蜀、LV和等级、六颗星、三被动、封侯、宽枪均清晰完整",
+    "没有紫晶或赤金橙红主调，没有密集碎光点",
+    "局部反射亮点来自清晰大切面，不加整体曝光或后期泛光"
+  ],
+  "generated_frame_native_size": [
+    1024,
+    1536
+  ],
+  "frame_fit_resample": "1024×1536生成源适配1310×1966，使用获认可结构原alpha保持覆盖范围；非原生4K",
+  "active_skill_name": "龙御天穹",
+  "active_skill_display": "不新增主动技能栏，名称保存在配置与映射中"
+}

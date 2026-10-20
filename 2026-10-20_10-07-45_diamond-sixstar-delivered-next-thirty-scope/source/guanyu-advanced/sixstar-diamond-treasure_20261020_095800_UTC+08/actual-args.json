@@ -1,0 +1,23 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "args": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/reference-approved-structure-neutral.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond-treasure_20261020_095800_UTC+08/reference-approved-5star-diamond-neutral.png"
+    ],
+    "prompt": "MATERIAL-ONLY EDIT of IMAGE 1, using IMAGE 2 as the mandatory material-and-lighting reference. One single final SIX-STAR card-frame asset, not a set. Image 1 provides the EXACT APPROVED STRUCTURE and exact pixel layout: preserve its full silhouette, twin-dragon sculptural crown, layered corner guards, two detached floating heraldic ornaments, all inner openings, clean long top nameplate, circular faction medallion top left, top-right diamond level plate, SIX five-point stars in one right column, three lower-right passive plaques, two lower round medallions. Do not move, widen, shrink, add or delete any of these. NO text or illustration. Image 2 is the user's approved FIVE-STAR TRANSPARENT DIAMOND aesthetic; the output MUST obviously belong to this same diamond series and be its sixth-tier upgraded version. Replace ALL of image 1's opaque platinum surfaces, ivory faces, dark enamel, green jade gems and heavy metal with the unmistakably clear thick-cut DIAMOND material of image 2: colorless transparent optical crystal, pale icy cyan refractive edges, visible large geometric gemstone facets, brilliant clean internal refraction, layered transparent crystalline depth, see-through stacked light-transmitting crystal rather than silver metal. Preserve depth by alternating clear bright diamond facets with deep teal/blue internal optical reflections, exactly like image 2. Limited very fine white-platinum setting lines may outline the crystal, but at least 90 percent of the entire frame must read as DIAMOND, not opaque metal. Convert the crown's twin dragons and their scales into beautifully sculpted faceted transparent crystal; crown center and all formerly green round stones become large brilliant-cut clear diamonds with icy cyan inner light. Six stars are clear-cut diamond stars, clean distinct six, each set in fine restrained rims. Crystal fins and guard plates should have visibly greater THICKNESS, larger precision facets and more stacked crystal layers than the five-star example, establishing a strong sixth-tier evolution while matching that exact base style. Nameplate, level medallion, bottom round medallions and three passive plaques all inherit the diamond faceted material from reference 2; keep the text-face surfaces calm enough to read over later. Carefully controlled broad reflected-light ridges and physically convincing prismatic internal reflections, not just added exposure. Bright sparkling jewel presence through large facets and light transmission, NOT a uniform icy white solid and NOT chrome. Absolutely no purple/violet/amethyst color, no red, no orange-gold, no yellow-gold overall, no emerald/jade green stones, no dark navy enamel panels remaining. No glitter dust, scattered sparks, particles, starbursts, giant glows, lens flare, fog, bloom or overexposure. Keep sharp high-definition microbevels with broad legible facets, elegant premium game UI finish. Remove the grey presentation background: central window, openwork and outer background all truly transparent alpha. Preserve image 1's exact full canvas composition and geometry. Deliver only the complete transparent six-star diamond frame at the highest available detail."
+  },
+  "actual_output": {
+    "native_resolution": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "source_original_generation": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-565fd3b7-9cd9-4c14-ba6d-55dfc2b39c63.png",
+    "persisted_source": "generated-frame-source.png",
+    "frame_normalization": "compose.py",
+    "generation_calls": 1
+  }
+}
