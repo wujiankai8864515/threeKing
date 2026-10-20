@@ -1,0 +1,48 @@
+{
+  "form": "demon6",
+  "entries": [
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "avatar",
+      "title": "冥龙凝视",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-avatar.png",
+      "sha256": "4350a06af8f1aa491a20cd598f82d239f35ffb565390f1b2b1cd89d6a4587f8d",
+      "status": "review_candidate"
+    },
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "title": "冥龙断狱",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-attack-cg.png",
+      "sha256": "d763ae005eb9dce5f95db0be7ee2399ce7784c31e756cecf55bda49a1b216e8e",
+      "status": "review_candidate"
+    },
+    {
+      "form": "demon6",
+      "tier": 6,
+      "kind": "biography",
+      "title": "断锁归冥",
+      "local_path": "/tmp/guanyu-demon6-biography_20261020_1648UTC/demon6-biography.png",
+      "sha256": "804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051",
+      "dimensions": [
+        1536,
+        1024
+      ],
+      "status": "review_candidate",
+      "generation_method": "built-in image_gen; explicit lossless PNG persistence",
+      "prompt_path": "/tmp/guanyu-demon6-biography_20261020_1648UTC/generation-prompt.txt"
+    }
+  ],
+  "text_path": "/tmp/guanyu-demon6-biography_20261020_1648UTC/demon6-story-and-skill.txt",
+  "pending": [],
+  "status": "complete_review_candidates",
+  "source_partial_manifest": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon6-support_20261020_154200_UTC/manifest.json",
+  "qa": {
+    "identity": "Red face, white beard/hair, black-gold horns, dragon-scaled body, huge wings, dragon feet, green banner maintained.",
+    "narrative": "Distinct landscape narrative: broken chain foreground, liberated soldier spirits at open flooded fortress gate, guandao lowered after the cut. Not standing card pose.",
+    "integrity": "PNG verified with PIL; SHA-256 recorded. Own intermediate base64 deleted after verification.",
+    "prior_result": "Earlier direct tool biography was never persisted; this controlled replacement is the delivered candidate."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "README.md": "8cae9fd63232597ce3b5ef0b7c0023914b0c017b9fee8c8a193e18b1c3297746",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "0ca83d4437402177923033d6bc5e0002121103a152ebde20864334eee787bfad",
+  "production-progress.json": "40b94c7e6d600bbf6799080dfcca7dae1d7a62b749d6d2651044818de9aa75cf",
+  "effective-source-map.json": "2d9fe75b635ce13eb1d081378e0dc4ee036c423b95152b483ce810a5c883eba9",
+  "archive-scope.json": "e9269c27eaab10565d62a24721d82c9553156c75bf8a5271a5ab33f4550edbeb",
+  "asset-index.json": "dc62dba6786c741ae550b19996101fa0b5edb2079f901b87395473f3699d6cf3",
+  "assets/sha256/804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051.png": "804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051",
+  "source/staged-production/guanyu-demon6-biography_20261020_1648UTC/generation-prompt.txt": "1f4544ea33e803970017636f65c69d2b21f46a6b470eae1c732599f5f220c6d3",
+  "source/staged-production/guanyu-demon6-biography_20261020_1648UTC/manifest.json": "3f9170d86dd80860df87bb602e097e357cdb82ef8e679985b195c0f5d5d8b00c"
+}

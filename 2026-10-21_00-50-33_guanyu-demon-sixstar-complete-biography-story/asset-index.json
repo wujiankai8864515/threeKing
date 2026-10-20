@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-10-21T00:50:33.005183+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/guanyu-demon6-biography_20261020_1648UTC/manifest.json",
+      "original_name": "manifest.json",
+      "source_location_at_capture": "/tmp/guanyu-demon6-biography_20261020_1648UTC/manifest.json",
+      "repository_path": "2026-10-21_00-50-33_guanyu-demon-sixstar-complete-biography-story/source/staged-production/guanyu-demon6-biography_20261020_1648UTC/manifest.json",
+      "sha256": "3f9170d86dd80860df87bb602e097e357cdb82ef8e679985b195c0f5d5d8b00c",
+      "original_sha256": "3f9170d86dd80860df87bb602e097e357cdb82ef8e679985b195c0f5d5d8b00c",
+      "bytes": 2164,
+      "archived_at": "2026-10-21T00:50:33.005183+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/guanyu-demon6-biography_20261020_1648UTC/demon6-story-and-skill.txt",
+      "original_name": "demon6-story-and-skill.txt",
+      "source_location_at_capture": "/tmp/guanyu-demon6-biography_20261020_1648UTC/demon6-story-and-skill.txt",
+      "repository_path": "2026-10-21_00-22-53_three-heroes-first-completion-candidates-and-texts/source/guanyu-advanced/demon6-support_20261020_154200_UTC/demon6-story-and-skill.txt",
+      "sha256": "ae8daf00f0e47c37ec49eaf96f4e6803cfa51e94478ff00841cdd4adec271a57",
+      "original_sha256": "ae8daf00f0e47c37ec49eaf96f4e6803cfa51e94478ff00841cdd4adec271a57",
+      "bytes": 1913,
+      "archived_at": "2026-10-21T00:50:33.005183+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/guanyu-demon6-biography_20261020_1648UTC/demon6-biography.png",
+      "original_name": "demon6-biography.png",
+      "source_location_at_capture": "/tmp/guanyu-demon6-biography_20261020_1648UTC/demon6-biography.png",
+      "repository_path": "2026-10-21_00-50-33_guanyu-demon-sixstar-complete-biography-story/assets/sha256/804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051.png",
+      "sha256": "804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051",
+      "original_sha256": "804fa859afc61dfd218f0a598e6e8a830290b7f3f56a09e8333f8d39ab090051",
+      "bytes": 3729609,
+      "archived_at": "2026-10-21T00:50:33.005183+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/guanyu-demon6-biography_20261020_1648UTC/generation-prompt.txt",
+      "original_name": "generation-prompt.txt",
+      "source_location_at_capture": "/tmp/guanyu-demon6-biography_20261020_1648UTC/generation-prompt.txt",
+      "repository_path": "2026-10-21_00-50-33_guanyu-demon-sixstar-complete-biography-story/source/staged-production/guanyu-demon6-biography_20261020_1648UTC/generation-prompt.txt",
+      "sha256": "1f4544ea33e803970017636f65c69d2b21f46a6b470eae1c732599f5f220c6d3",
+      "original_sha256": "1f4544ea33e803970017636f65c69d2b21f46a6b470eae1c732599f5f220c6d3",
+      "bytes": 1846,
+      "archived_at": "2026-10-21T00:50:33.005183+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}
