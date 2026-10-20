@@ -1,0 +1,33 @@
+{
+  "variant": "08",
+  "revision": "holy_material_vfx_user_latest",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-2b4b4599-8471-4359-a448-503a1c1382c2.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/08/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2496258,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "blue_dominant_material": false,
+    "notes": "Cloud-scroll structure retained with broad organized pearlescent light ribbons along crown and rails. Six stars and three plaques. No obvious solid ornament clipping or central glow flooding. Warm gold edges with pearl/opal surfaces; strongest coherent ribbon treatment.",
+    "slot_geometry": "Distinct structure retained; parent handles exact pixel alignment.",
+    "center_alpha": 0,
+    "zero_alpha_fraction": 0.36950111389160156,
+    "central_interior_max_alpha": 252,
+    "central_interior_alpha_gt_10_fraction": 0.007927819548872181,
+    "visible_bbox_alpha_gt_127": [
+      13,
+      17,
+      1021,
+      1512
+    ],
+    "right_edge_alpha_gt_127_count": 0,
+    "right_edge_alpha_gt_127_y_range": null,
+    "preview_note": "Warm gold background gradient is mostly hidden RGB in zero-alpha pixels; center alpha is zero. Very faint residual alpha 1 exists in some outer corners."
+  }
+}

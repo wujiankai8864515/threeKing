@@ -1,0 +1,172 @@
+{
+  "hero": "guanyu",
+  "name": "机甲·关羽",
+  "branch": "封侯",
+  "branch_id": "diamond-explore-04",
+  "tier": 6,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/source-08-unchanged.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/04/card",
+  "skills": [
+    {
+      "name": "镇岳",
+      "level": 2
+    },
+    {
+      "name": "逆鳞",
+      "level": 2
+    },
+    {
+      "name": "天诛",
+      "level": 2
+    }
+  ],
+  "active_skill": {
+    "name": "龙御天穹",
+    "description": "沿用已定防御反击机制：防护、承受攻击蓄能、反击。此次只升级名称，不新增或更改数值、触发和机制。"
+  },
+  "passive_name_mapping": [
+    {
+      "old": "重甲",
+      "new": "镇岳",
+      "meaning": "重装防御，镇守如山。"
+    },
+    {
+      "old": "蓄能",
+      "new": "逆鳞",
+      "meaning": "承受攻击积蓄反击能量。"
+    },
+    {
+      "old": "反制",
+      "new": "天诛",
+      "meaning": "蓄势后以强力反击制敌。"
+    }
+  ],
+  "output": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/04/04-九霄晶阙-六星机甲关羽.png",
+  "text_layer": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/04/dynamic-ui-expanded.png",
+  "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+  "output_sha256": "d46cb5a2ecb913d37b9924fdaace87d46e5df42e3e27526a68e760d1ab90fcd9",
+  "native_art_size": [
+    1024,
+    1536
+  ],
+  "canvas_size": [
+    1310,
+    1966
+  ],
+  "source_scale": 1,
+  "illustration_offset": [
+    144,
+    285
+  ],
+  "status": "composed_pending_visual_review",
+  "three_passives_bottom_anchored": true,
+  "six_star_passive_count": "design default of three, not a user-fixed count",
+  "stars": 6,
+  "glyph_centers": [
+    {
+      "text": "蜀",
+      "target_center": [
+        170.830078125,
+        154.64713541666669
+      ],
+      "glyph_bbox": [
+        0,
+        25,
+        81,
+        102
+      ]
+    },
+    {
+      "text": "机甲",
+      "target_center": [
+        661.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        68
+      ]
+    },
+    {
+      "text": "关羽",
+      "target_center": [
+        791.318359375,
+        106.97395833333334
+      ],
+      "glyph_bbox": [
+        0,
+        16,
+        108,
+        69
+      ]
+    },
+    {
+      "text": "·",
+      "target_center": [
+        726.318359375,
+        106.97395833333334
+      ],
+      "geometric_centered": true
+    },
+    {
+      "text": "镇岳 +2",
+      "target_center": [
+        973.84765625,
+        1117.4127604166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        51
+      ]
+    },
+    {
+      "text": "逆鳞 +2",
+      "target_center": [
+        973.84765625,
+        1215.0846354166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    },
+    {
+      "text": "天诛 +2",
+      "target_center": [
+        973.84765625,
+        1312.7565104166667
+      ],
+      "glyph_bbox": [
+        0,
+        11,
+        131,
+        49
+      ]
+    }
+  ],
+  "uncovered_art_pixels_checked": 1097391,
+  "uncovered_art_pixels_changed": 0,
+  "variant_id": "04",
+  "variant_name": "九霄晶阙",
+  "frame": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/04/frame-6star-expanded.png",
+  "core_canvas_size": [
+    1190,
+    1786
+  ],
+  "core_offset": [
+    60,
+    140
+  ],
+  "dynamic_glyph_anchors_match_standard": true,
+  "native_frame_size": [
+    1024,
+    1536
+  ]
+}

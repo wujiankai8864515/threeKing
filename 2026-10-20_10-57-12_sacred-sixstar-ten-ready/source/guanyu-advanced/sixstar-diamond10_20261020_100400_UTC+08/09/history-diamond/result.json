@@ -1,0 +1,28 @@
+{
+  "variant": "09",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1b1aac15-b84e-4fe8-82f9-73148614cce5.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/09/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2408576,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "notes": "Palace crown and stepped eave brackets are clearly distinct. Six stars and three passive plaques visible. No obvious clipping; a few additional hanging pendants are present. Fine eave detailing is denser than the other variants.",
+    "slot_geometry": "Approximate layout retained; exact slot alignment requires parent pixel QA.",
+    "transparent_center": true,
+    "transparent_corners": false,
+    "zero_alpha_fraction": 0.5299530029296875,
+    "visible_bbox_alpha_gt_127": [
+      13,
+      9,
+      1013,
+      1518
+    ],
+    "preview_note": "Some viewers show gray/cyan hidden RGB in transparent areas; center and exterior corners have zero alpha."
+  }
+}

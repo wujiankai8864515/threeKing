@@ -1,0 +1,14 @@
+{
+  "tool": "image_gen.imagegen",
+  "mode": "built-in",
+  "variant": "01",
+  "name": "凌霄晶翎",
+  "args": {
+    "transparent_background": true,
+    "referenced_image_paths": [
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/reference-sixstar-diamond.png",
+      "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/reference-approved-five.png"
+    ],
+    "prompt": "Edit IMAGE 1 as one complete SIX-STAR Chinese strategy-game card frame. IMAGE 1 locks the exact standard UI geometry; IMAGE 2 is the approved FIVE-STAR DIAMOND material reference. Inherit the SAME true transparent diamond facets, ice-cyan refraction, crystal thickness and luminous optical character, clearly a sixth-tier upgraded member of that series. Preserve exact positions/sizes of central art opening, top-left circular faction medallion, long top nameplate, top-right level diamond, exactly SIX stars vertically down right rail, exactly THREE lower-right horizontal passive plaques, bottom-left round rank and bottom-right round weapon medallions. Do not move any UI slot. Keep faces blank, no text, characters or illustration. Keep entire canvas and core scale from image 1; ornamentation stays within its existing outer crown/corner margins, never obscuring any UI slot. DISTINCT STRUCTURAL VARIATION: A grand symmetrical three-tier imperial FAN crown of broad thick transparent crystal blades, fanning upward like Chinese ceremonial feathers; corner guards repeat stepped fan-blade layers, two substantial floating fan-shaped crystal seals. Large negative spaces between blade tiers. No dragon figures. All broad rails, panels, stars, medallions and ornaments unmistakably transparent optical DIAMOND, never opaque silver/chrome or dark enamel. Increase depth through thick stacked transmissive crystal layers and larger brilliant-cut bevels, not increased exposure. Colorless luminous crystal, pale icy cyan edges, clean sapphire-blue internal reflections, restrained multicolor dispersion on a few large clean edges in pale yellow/cyan/lime/warm pearl; no purple/amethyst, no broad red or gold. Fine platinum setting lines only minor. Bright luminous glass-clear diamond with rich dark-to-light optical contrast, no blown white areas. Broad controlled edge radiance, believable internal refraction, high-definition facets. No haze, bloom, particles, glitter dust, scattered light speckles, lens flare or opaque plastic. Structural design must be genuinely different following the variation, not a recolor. Keep the approved Chinese diamond card family and all UI geometry. Preserve true transparent center, outside and openwork alpha. Highest available detail; intact frame with no clipping."
+  }
+}

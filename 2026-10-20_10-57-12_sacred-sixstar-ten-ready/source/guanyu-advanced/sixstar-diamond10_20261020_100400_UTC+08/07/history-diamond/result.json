@@ -1,0 +1,28 @@
+{
+  "variant": "07",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-04377ec4-951b-44ee-becf-8600d22cd2c4.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/07/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2448846,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "notes": "Celestial compass crown and angular corner guards are distinct. Six stars and three passive plaques visible. No obvious clipping; crown tip is very close to top boundary. Star rail and medallions retain approximate layout.",
+    "slot_geometry": "Approximate layout retained; exact slot alignment requires parent pixel QA.",
+    "transparent_center": true,
+    "transparent_corners": true,
+    "zero_alpha_fraction": 0.5310649871826172,
+    "visible_bbox_alpha_gt_127": [
+      15,
+      7,
+      1015,
+      1518
+    ],
+    "preview_note": "Some viewers show gray/cyan hidden RGB in transparent areas; center and exterior corners have zero alpha."
+  }
+}

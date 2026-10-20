@@ -1,0 +1,33 @@
+{
+  "variant": "06",
+  "revision": "holy_material_vfx_user_latest",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-b17af4a1-8ad1-4ec6-a659-73f470b48bd7.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/06/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2486485,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "blue_dominant_material": false,
+    "notes": "Lotus structure retained; warm pearl/opal petals with fine gold settings and nested curved sacred halo accents. Six stars and three plaques. No visible clipped solid ornaments. Gold is richer than pale champagne; highlights remain mostly readable.",
+    "slot_geometry": "Distinct structure retained; parent handles exact pixel alignment.",
+    "center_alpha": 0,
+    "zero_alpha_fraction": 0.3455251057942708,
+    "central_interior_max_alpha": 223,
+    "central_interior_alpha_gt_10_fraction": 0.0030375939849624062,
+    "visible_bbox_alpha_gt_127": [
+      14,
+      15,
+      1014,
+      1519
+    ],
+    "right_edge_alpha_gt_127_count": 0,
+    "right_edge_alpha_gt_127_y_range": null,
+    "preview_note": "Warm gold background gradient is mostly hidden RGB in zero-alpha pixels; center alpha is zero. Very faint residual alpha 1 exists in some outer corners."
+  }
+}

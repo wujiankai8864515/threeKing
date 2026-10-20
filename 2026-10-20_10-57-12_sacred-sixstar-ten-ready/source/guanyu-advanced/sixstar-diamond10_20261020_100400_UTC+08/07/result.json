@@ -1,0 +1,36 @@
+{
+  "variant": "07",
+  "revision": "holy_material_vfx_user_latest",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4c3fc8e8-3eab-4c17-873e-1b4b7aed6a1a.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/07/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2450816,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "blue_dominant_material": false,
+    "notes": "Compass structure retained; a strong circular aureole behind crown. Six stars and three plaques. Thin horizontal seam/line crosses upper opening below nameplate, inherited from structure reference. Right floating-seal outer glow reaches right canvas edge. Solid gold stars; finish is warmer and more saturated than pale champagne.",
+    "slot_geometry": "Distinct structure retained; parent handles exact pixel alignment.",
+    "center_alpha": 0,
+    "zero_alpha_fraction": 0.3936716715494792,
+    "central_interior_max_alpha": 60,
+    "central_interior_alpha_gt_10_fraction": 0.00031278195488721806,
+    "visible_bbox_alpha_gt_127": [
+      11,
+      5,
+      1024,
+      1521
+    ],
+    "right_edge_alpha_gt_127_count": 23,
+    "right_edge_alpha_gt_127_y_range": [
+      548,
+      570
+    ],
+    "preview_note": "Warm gold background gradient is mostly hidden RGB in zero-alpha pixels; center alpha is zero. Very faint residual alpha 1 exists in some outer corners."
+  }
+}

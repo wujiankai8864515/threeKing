@@ -1,0 +1,28 @@
+{
+  "variant": "06",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-2eb720a0-6f60-4818-b30f-224e78754557.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/06/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2387967,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "notes": "Lotus crown and layered lotus corner guards are distinct. Six stars and three passive plaques visible. No obvious clipped ornament; near-top apex margin. Crystal treatment matches family; some bright white edge highlights.",
+    "slot_geometry": "Approximate layout retained; exact slot alignment requires parent pixel QA.",
+    "transparent_center": true,
+    "transparent_corners": false,
+    "zero_alpha_fraction": 0.5370744069417318,
+    "visible_bbox_alpha_gt_127": [
+      15,
+      14,
+      1015,
+      1515
+    ],
+    "preview_note": "Some viewers show gray/cyan hidden RGB in transparent areas; center and exterior corners have zero alpha."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "variant": "10",
+  "source_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-adb06729-1ea5-491d-9b92-cdc4e6f3915d.png",
+  "saved_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-diamond10_20261020_100400_UTC+08/10/generated-frame-source.png",
+  "native_size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "bytes": 2449557,
+  "hardlinked": true,
+  "visual_qa": {
+    "six_stars": true,
+    "three_passive_plaques": true,
+    "notes": "Hexagonal crown, seals and angular guards are distinct. Six stars and three passive plaques visible. No obvious clipping. Some large triangular corner shards accompany hexagonal shields. Crystal treatment matches family.",
+    "slot_geometry": "Approximate layout retained; exact slot alignment requires parent pixel QA.",
+    "transparent_center": true,
+    "transparent_corners": true,
+    "zero_alpha_fraction": 0.5283025105794271,
+    "visible_bbox_alpha_gt_127": [
+      13,
+      7,
+      1017,
+      1517
+    ],
+    "preview_note": "Some viewers show gray/cyan hidden RGB in transparent areas; center and exterior corners have zero alpha."
+  }
+}

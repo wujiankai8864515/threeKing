@@ -1,0 +1,112 @@
+{
+  "checked_at_utc": "2026-10-20T02:36:23.092095+00:00",
+  "source_sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+  "five_star_unchanged_sha256": "9c046c5bcd0f537e1c6ce55e6030b8ca6522f902066240313b855d960b91a206",
+  "source_native_size": [
+    1024,
+    1536
+  ],
+  "art_scale": 1,
+  "final_canvas_size": [
+    1310,
+    1966
+  ],
+  "native_generated_frame_size": [
+    1024,
+    1536
+  ],
+  "native_4k_claim": false,
+  "all_dynamic_ui_layers_identical": true,
+  "dynamic_ui_sha256": "32c2217524b15184902a1c8e2b675c49eceb70281dcf085cc5fd4ec5e27cead8",
+  "total_uncovered_art_pixels_checked": 10322961,
+  "total_pixels_changed": 0,
+  "checks": [
+    {
+      "id": "01",
+      "pixels_checked": 1041847,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "02",
+      "pixels_checked": 1061098,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "03",
+      "pixels_checked": 1005683,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "04",
+      "pixels_checked": 1014372,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "05",
+      "pixels_checked": 1049114,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "06",
+      "pixels_checked": 1036315,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "07",
+      "pixels_checked": 1051392,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "08",
+      "pixels_checked": 1029912,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "09",
+      "pixels_checked": 975701,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    },
+    {
+      "id": "10",
+      "pixels_checked": 1057527,
+      "pixels_changed": 0,
+      "glyph_anchors_match": true,
+      "visual_review_passed": true
+    }
+  ],
+  "notes": [
+    "Pixel comparison excludes pixels intentionally covered by frame, glow, UI, or original art-slot mask.",
+    "07 generated construction line removed only from frame alpha opening; no illustration pixels edited.",
+    "Stronger sacred halos intentionally overlie a small part of the illustration. The native source illustration remains byte-identical.",
+    "Visual review covers both full-card sheets and enlarged title, stars, passives and medallions."
+  ],
+  "independent_final_visual_review": {
+    "variants": [
+      "02",
+      "03",
+      "04",
+      "05",
+      "09"
+    ],
+    "passed": true,
+    "must_fix_issues": []
+  }
+}
