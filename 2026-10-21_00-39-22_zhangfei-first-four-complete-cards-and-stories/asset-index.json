@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-10-21T00:39:22.044968+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/manifest-batch1.json",
+      "original_name": "manifest-batch1.json",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/manifest-batch1.json",
+      "repository_path": "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories/source/staged-production/zhangfei-complete_20261020_161000/manifest-batch1.json",
+      "sha256": "da8ca8cfc1786af93115f27004e6b17ef1d60c017215bd8e769a4ec73288f970",
+      "original_sha256": "da8ca8cfc1786af93115f27004e6b17ef1d60c017215bd8e769a4ec73288f970",
+      "bytes": 4059,
+      "archived_at": "2026-10-21T00:39:22.044968+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/heritage5-card.png",
+      "original_name": "heritage5-card.png",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/heritage5-card.png",
+      "repository_path": "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories/assets/sha256/9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07.png",
+      "sha256": "9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07",
+      "original_sha256": "9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07",
+      "bytes": 3383139,
+      "archived_at": "2026-10-21T00:39:22.044968+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/heritage6-card.png",
+      "original_name": "heritage6-card.png",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/heritage6-card.png",
+      "repository_path": "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories/assets/sha256/e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd.png",
+      "sha256": "e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd",
+      "original_sha256": "e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd",
+      "bytes": 3597184,
+      "archived_at": "2026-10-21T00:39:22.044968+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/divine5-card.png",
+      "original_name": "divine5-card.png",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/divine5-card.png",
+      "repository_path": "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories/assets/sha256/d9ab263b96b059978be3a94631e689ea1509a35b46e1913b8ac5132e96336da0.png",
+      "sha256": "d9ab263b96b059978be3a94631e689ea1509a35b46e1913b8ac5132e96336da0",
+      "original_sha256": "d9ab263b96b059978be3a94631e689ea1509a35b46e1913b8ac5132e96336da0",
+      "bytes": 3544367,
+      "archived_at": "2026-10-21T00:39:22.044968+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-complete_20261020_161000/divine6-card.png",
+      "original_name": "divine6-card.png",
+      "source_location_at_capture": "/tmp/zhangfei-complete_20261020_161000/divine6-card.png",
+      "repository_path": "2026-10-21_00-39-22_zhangfei-first-four-complete-cards-and-stories/assets/sha256/52c3483d563cb6f292f6ca96968abb027acb3c5f584180b990bdf3e1a4d3d6d0.png",
+      "sha256": "52c3483d563cb6f292f6ca96968abb027acb3c5f584180b990bdf3e1a4d3d6d0",
+      "original_sha256": "52c3483d563cb6f292f6ca96968abb027acb3c5f584180b990bdf3e1a4d3d6d0",
+      "bytes": 3542783,
+      "archived_at": "2026-10-21T00:39:22.044968+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

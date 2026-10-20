@@ -1,0 +1,67 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/blackiron-biography.png",
+      "title": "解囊起义",
+      "status": "new_candidate_pending_review",
+      "sha256": "015ca7ce5b6b30b36b1c5df845f6d93f3c6c531df331b67b7477a7e453811806",
+      "story": "涿郡的市井尚未听见战鼓，流民已经走到了张飞的门前。他放下屠刀，打开粮仓，把原本留作买卖的粮食分给饥民。门边的长矛与行囊，是他为自己留下的另一条路：世道既不能让人安生，便提矛护住眼前的人。此为游戏原创的起始故事，不作史实断言。"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage5-card.png",
+      "title": "长坂怒将",
+      "status": "new_candidate_pending_review",
+      "sha256": "9ed098a4c9faeb19db32207cb81c2d200ddb26230000829d0c85bb799c60ee07",
+      "story": "桥后的车辙里还有孩子的哭声，追兵的旗影却已漫过坡顶。张飞让最后一辆车先走，独自横矛桥头。众人只记得那一声怒喝，却很少有人看见他始终没有回头：他怕自己一回头，身后的人便以为他也在害怕。此篇为基于长坂传说的游戏化演绎。",
+      "move": "断桥惊雷：低身跨步，以蛇矛横扫前方；一条凝实虎形声浪沿地面推开敌阵。",
+      "biography_title": "一声护归途"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/heritage6-card.png",
+      "title": "虎魄镇关",
+      "status": "new_candidate_pending_review",
+      "sha256": "e25fe7389afb1bd6219c40dda6dd57826ea0c61d0254cbb68b0c8413c2183dfd",
+      "story": "人间的嗓音总会嘶哑，守关的誓言却未曾停息。山川记住长坂桥头的怒喝，将沉睡的虎魄交给张飞。他不再只是持矛的武将：筋骨化作雷霆，双足踏住险关，成为百姓退路上不会后退的山。此为幻想进阶故事。",
+      "move": "虎魄裂霆：虎爪蹬空，双臂逆拧蛇矛后向下贯击；成块的蓝白雷弧随虎形脊背掠出。",
+      "biography_title": "群山借我一声"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 5,
+      "form": "divine5",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine5-card.png",
+      "title": "金阙镇岳",
+      "status": "new_candidate_pending_review",
+      "sha256": "d9ab263b96b059978be3a94631e689ea1509a35b46e1913b8ac5132e96336da0",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。",
+      "move": "金阙镇岳：侧身踏空，双掌错开长矛，以环形金色山岳法印镇住前方。",
+      "biography_title": "庙门不闭"
+    },
+    {
+      "hero": "zhangfei",
+      "tier": 6,
+      "form": "divine6",
+      "kind": "card",
+      "local_path": "/tmp/zhangfei-complete_20261020_161000/divine6-card.png",
+      "title": "四臂镇天尊",
+      "status": "new_candidate_pending_review",
+      "sha256": "52c3483d563cb6f292f6ca96968abb027acb3c5f584180b990bdf3e1a4d3d6d0",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。",
+      "move": "四极擎天：四臂交错展开，双手横矛、双手压下完整巨型玉印光盘，形成清晰四向冲击。",
+      "biography_title": "替人间撑天"
+    }
+  ]
+}
