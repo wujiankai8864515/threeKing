@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine5-attack-cg-v2.png",
+      "sha256": "4beeaee35e353a3ad589e00bebf351a31d73c8cf401d3cbb1a39ab702ec3a613",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "attack_cg",
+      "local_path": "/tmp/zhangfei-attacks_20261020_170400/divine6-attack-cg.png",
+      "sha256": "7c4cd7cf748898c28241d9977ac7b6d6221d19846f50206218002f62aa938cff",
+      "status": "new_candidate_pending_review",
+      "qa_note": "True alpha verified; dynamic attack pose; divine5 two arms, divine6 four arms."
+    }
+  ]
+}

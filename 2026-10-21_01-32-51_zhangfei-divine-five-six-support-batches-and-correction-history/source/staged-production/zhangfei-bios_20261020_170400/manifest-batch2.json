@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "divine5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine5-biography.png",
+      "sha256": "be6ffc4b857c3abc83414ee50013fc52e79bbfbc0f2e7b7ea377f992c06c6989",
+      "status": "new_candidate_pending_review",
+      "title": "庙门不闭",
+      "story": "山洪过后，百姓把无家可归的人迎进张飞祠。长明灯下，一尊怒目的神像忽然俯下身，将倒塌的门梁托起。供奉他的不是金玉，而是人们愿意为陌生人留出的一席安稳；于是守门的将军，成了护城的神。此为游戏原创神话。"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "divine6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/divine6-biography.png",
+      "sha256": "85e0bb004641e505664db88496e5e9515ac5be24f282794d75db70c9f486270a",
+      "status": "new_candidate_pending_review",
+      "title": "替人间撑天",
+      "story": "雷云压低到城墙时，祭坛上的灯一盏盏灭去。张飞却听见黑暗里仍有人安慰孩子。他化出四臂，把倾覆的苍穹向两侧推开；一双手执矛拒灾，一双手托住人间。神威不是让人跪下，而是让他们能够重新站起。此为幻想进阶故事。"
+    }
+  ]
+}
