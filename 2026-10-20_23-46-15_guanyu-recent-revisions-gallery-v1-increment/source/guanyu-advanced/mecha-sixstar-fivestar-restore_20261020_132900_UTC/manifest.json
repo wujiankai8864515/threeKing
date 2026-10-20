@@ -1,0 +1,82 @@
+{
+  "status": "candidate_pending_user_review",
+  "created_utc": "2026-10-20T13:29:00Z",
+  "scope": "Only six-star mech Guan Yu card. No other form modified. No upload in this generation stage.",
+  "method": "Built-in image_gen edit; two actual calls; no programmatic image edits or composition.",
+  "final_png": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha-sixstar-fivestar-restore_20261020_132900_UTC/六星机甲关羽-五星版式-侯印召天光.png",
+  "bytes": 3297998,
+  "size": [
+    1024,
+    1536
+  ],
+  "mode": "RGBA",
+  "sha256": "005fdf7e2489d8e857f43b151166eabde074aab72e76e3e29d9bb0a398a9052e",
+  "base_five_star_card": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/frame-hierarchy_20261020_000010_UTC+08/mecha5/guanyu-piloted-dragon-mecha-5star.png",
+    "sha256": "5ff620be5f62d9c1281a85285133ab7f02cb571c7b55998ec5de10418401ec31"
+  },
+  "base_five_star_frame": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/frame-hierarchy_20261020_000010_UTC+08/frame-5star.png",
+    "approved_evidence": "sixstar-diamond10_20261020_100400_UTC+08/README.md explicitly records approved five-star frame SHA 9c046c5bcd0f537e1c6ce55e6030b8ca6522f902066240313b855d960b91a206"
+  },
+  "selected_six_star_art": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+    "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+    "identity_preservation": "Generative recognizable preservation, not pixel identity."
+  },
+  "layout": {
+    "preserved_organization": [
+      "top-left circular Shu faction",
+      "top-center mech Guan Yu name",
+      "top-right LV1 diamond",
+      "right vertical six-star rail",
+      "three lower-right passive plaques",
+      "bottom-left rank medallion with new marquis seal",
+      "bottom-right broad spearhead medallion"
+    ],
+    "no_new_active_skill_icon": true,
+    "no_new_active_skill_text_or_panel": true,
+    "no_new06_reorganized_frame": true,
+    "pixel_identical_geometry": false,
+    "limitation": "The overall card is approximately 3–4 percent more inset than the five-star reference after canvas normalization. Semantic layout is preserved, but absolute anchor positions and frame pixels are not exact."
+  },
+  "qa": {
+    "visually_reviewed": true,
+    "star_count": 6,
+    "star_count_verified": true,
+    "tyndall_light": "Clearly visible descending warm heavenly shafts illuminate hero and lower-left seal, with lit atmosphere and dark gaps; seal is an energy resonance anchor. Not merely border glow or scattered sparkles.",
+    "face_and_pilot_readable": true,
+    "seal_position_safe": true,
+    "no_covering_name_stats_face_pilot": true,
+    "required_information_visible": [
+      "蜀",
+      "机甲·关羽",
+      "LV 1",
+      "镇岳 +2 / 鎮岳 +2",
+      "逆鳞 +2 / 逆鱗 +2",
+      "天诛 +2 / 天誅 +2",
+      "封侯"
+    ],
+    "glyph_note": "Passive labels rendered partly in traditional glyphs; semantic names retained; no exact simplified-character claim.",
+    "no_frame_or_major_information_cutoff": true,
+    "original_files_unchanged": true,
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "fully_transparent_pixels": 273617,
+    "near_opaque_pixels": 1255231
+  },
+  "history": [
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha-sixstar-fivestar-restore_20261020_132900_UTC/history/v1-wrong-five-stars.png",
+      "selected": false,
+      "reason": "Only five stars; corrected in final with one localized imagegen edit."
+    },
+    {
+      "path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-98518069-c4b7-47d5-8fbd-9763204ac102.png",
+      "selected": true,
+      "reason": "Six stars visually verified; original five-star semantic layout and selected mech identity retained."
+    }
+  ]
+}

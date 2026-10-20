@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery/asset-index.json",
+  "asset_index": "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "六星20种全新布局完整候选已完成本地检查，均待用户评审，并非已批准。05修正星数，16修正被动名称，17重做六星扇形布局；此前失败版本保留。人物为同参考的生成式构图，不是原插画像素完全不变。Library上传前HTTP403，未通过聊天附件交付。",
-  "latest_delta": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery",
-  "current_status": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery/status-overrides.json",
+  "note": "关羽已完成的近期修订、原稿历史及网站v1源追加归档；新增美术仍为待评审候选。黑铁传记等缺口与四张六星非文字印玺正在制作，本快照不冒称完成；后续稳定一批即增量同步。网站发布状态以交付记录为准，备份不等于用户验收。",
+  "latest_delta": "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment",
+  "current_status": "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -142,7 +142,8 @@
     "2026-10-20_11-02-03_infernal-twenty-citysafe-ready",
     "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts",
     "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06",
-    "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery"
+    "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery",
+    "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -304,7 +305,8 @@
     "2026-10-20_11-02-03_infernal-twenty-citysafe-ready",
     "2026-10-20_11-03-16_thirty-candidates-final-delivery-receipts",
     "2026-10-20_20-24-16_guanyu-fifteen-supports-and-approved-infernal06",
-    "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery"
+    "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery",
+    "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -322,8 +324,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery/effective-source-map.json",
-  "production_progress": "2026-10-20_20-41-51_guanyu-twenty-reinvented-sixstar-gallery/production-progress.json",
+  "effective_source_map": "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment/effective-source-map.json",
+  "production_progress": "2026-10-20_23-46-15_guanyu-recent-revisions-gallery-v1-increment/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",

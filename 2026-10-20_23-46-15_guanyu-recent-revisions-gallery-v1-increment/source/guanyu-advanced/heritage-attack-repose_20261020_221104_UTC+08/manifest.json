@@ -1,0 +1,38 @@
+{
+  "asset_type": "static_skill_cg",
+  "character": "传承关羽",
+  "tier": 5,
+  "skill_name": "水淹七军",
+  "scope": "仅重制五星传承关羽静态放招 CG；卡面、头像、原图及已完成的一刀分沧海传记不变。",
+  "depiction": "腾空拧身，双手分握青龙偃月刀回旋横斩，一腿屈膝、一腿伸展；青碧水刃沿刀锋形成连续弧线，一条金角青龙随水势向前。",
+  "output": "guanyu-advanced/heritage-attack-repose_20261020_221104_UTC+08/传承关羽-放招-水淹七军-腾空回斩-透明.png",
+  "source_identity": "guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+  "prior_cg_reference": "guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-放招-水淹七军-透明.png",
+  "generated_first": "generated_images/exec-862a65db-8105-4c20-8f63-0eddbd81110b.png",
+  "generated_selected": "generated_images/exec-129e6309-9033-4990-bd46-205733ada0a1.png",
+  "generation_mode": "built-in image_gen; transparent_background=true; one pose generation plus one targeted framing/transparency refinement",
+  "size": [
+    1536,
+    1024
+  ],
+  "mode": "RGBA",
+  "sha256": "4ec51b4ac64ca99b303f89256b7e3adb6bb0d854483c1c740ac419343261a6e2",
+  "alpha": {
+    "min": 0,
+    "max": 254,
+    "fully_transparent_percent": 33.629,
+    "visible_bbox_alpha_ge_8": [
+      71,
+      42,
+      1475,
+      987
+    ],
+    "all_four_corners_zero": true
+  },
+  "final_storage": "Hard link to selected generated PNG; no duplicate image bytes, no original removed.",
+  "qa_status": "accepted_after_white_and_dark_composite_inspection",
+  "qa_note": "Full body, both boots, hands, weapon and coherent water-dragon visible. Visible content clear of every edge. Exact requested numeric safe margin was not fully achieved; visible margins approximately 4%. Alpha=1 traces at left edge are visually imperceptible, not content clipping.",
+  "prompt": "Use case: stylized-concept, identity-preserving new combat pose.\nAsset type: one premium fantasy Three Kingdoms game STATIC ultimate-skill CG, a complete isolated transparent cutout, landscape exactly 1536x1024.\nInput image 1 is ONLY the approved five-star Heritage Guan Yu identity, costume, guandao and emerald water-dragon design reference. Do NOT copy its seated composition or command gesture. Create an entirely new innovative spectacular attack pose.\nSubject: the SAME stern red-tan-faced human Guan Yu, flowing very long black beard, green headcloth and gold coronet, emerald brocade battle robe with white lining, gold dragon-head shoulder armor, black-and-gold lamellar armor, armored boots. Preserve recognizable face, costume and ornate Qinglong guandao. Five-star human warrior: two normal human legs, not transformed, not fused with a dragon.\nPose: a decisive airborne twisting reverse sweep, like a master martial artist spinning through the crest of a wave. His shoulders counter-rotate strongly against his hips, torso pitched dynamically, one knee sharply raised and the other leg extended down-left. Both hands visibly grip the same long guandao shaft with purposeful wide spacing, powerful readable contact and correct anatomy. Face turned toward the attack with a fierce focused gaze. Robe and beard stream behind the rotation. The complete guandao, from butt cap through continuous straight shaft to its large curved Qinglong blade, must fit within the image.\nComposition: a bold diagonal full-body hero centered slightly left. The sweeping blade projects toward screen-right and produces ONE broad, coherent turquoise water crescent. ONE emerald Chinese water-dragon with golden antlers follows that blade trajectory, curling behind Guan Yu and surging outward to the right in a clean continuous S-curve. Dragon is an independent summoned water spirit, not attached to his anatomy. Dragon head, blade edge and Guan Yu's face all remain clearly separated and readable. Strong sculptural masses and continuous flowing water sheets rather than noisy particles. Use deep emerald, turquoise-white water highlights and restrained warm gold armor. Painterly high-end epic game splash art, crisp material separation, beautiful gold carving, intense controlled motion.\nBackground: genuine transparent RGBA outside the bounded character and water-dragon skill effect. No painted backdrop, no rectangular glow or vignette, no gray/green background, no checkerboard. Small restrained splashes only inside the finite silhouette. Leave real empty transparent space and at least 6% clear margins around all outermost parts.\nConstraints: show the whole human body, both boots, both hands, full weapon and full dragon-effect silhouette without cropping. This must visibly read as an attacking midair two-handed sword/polearm SWEEP, not sitting, standing upright, pointing, open-palm command, or holding the weapon at rest. No throne, no battlefield, no river surface or floor plane, no soldiers, no architecture, no banners, no card frame, no title, no text, no UI, no watermarks, no particles/confetti obscuring the silhouette. Only one static transparent skill illustration.",
+  "refinement_prompt": "Use case: precise-object-edit / transparent game asset cleanup.\nEdit the provided static skill CG, keep the SAME artwork, exact two-handed airborne twisting attack pose, character face, emerald robe, gold dragon shoulder armor, two human legs, full Qinglong guandao, single water dragon, and all compositional relationships. This is only a final framing/transparency refinement, not a character redesign.\nCanvas remains landscape 1536x1024. Make the entire existing character + weapon + dragon + water crescent group about 82% of the current scale, centered on the SAME canvas, so there is a genuine blank TRANSPARENT safe border of at least 90 pixels top/bottom and 125 pixels left/right. The outermost horns, whiskers, tassel, blade, boots and water splashes must all fit INSIDE that safe area. Do not crop anything. Maintain fine detail and sharp face/weapon readability.\nRemove every bit of background-colored haze, diffuse glow, vignette and background fill. Outside the finite solid subject and coherent water-effect silhouette, alpha must be zero. The empty safe border must be fully transparent. Keep translucent water only as intentional bounded curved water sheets. Reduce stray droplets beyond the main silhouette, preserving the one continuous crescent and dragon shape. No checkerboard pattern, no gradient or colored matte painted into the image, no floor, no sky, no scene, no frame, no text. Output a real transparent RGBA PNG, preserving the approved revised attack artwork and its rich painterly detail.",
+  "github": "Not uploaded; parent will deliver native attachment."
+}

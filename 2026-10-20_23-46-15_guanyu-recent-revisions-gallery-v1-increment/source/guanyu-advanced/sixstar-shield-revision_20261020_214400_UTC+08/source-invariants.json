@@ -1,0 +1,18 @@
+{
+  "approved_character": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+    "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6"
+  },
+  "original_avatar": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+    "sha256": "39566f562a7aab5edf5380e108042ccb19b7ccaddfde7284ae62471bc4be86a5"
+  },
+  "previous_biography": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-传记-空域护城.png",
+    "sha256": "2c2489d268813f3b6e99e4639b317a47a3e6fa4d611b3da6a7639651360a0767"
+  },
+  "previous_skill": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-放招-透明.png",
+    "sha256": "42ba53e5558902ba17c253b681146d405ec5ad0b0e66efb8af9cf6f9571befce"
+  }
+}

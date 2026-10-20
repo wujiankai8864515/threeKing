@@ -1,0 +1,110 @@
+{
+  "status": "independently_passed_new_lifeform_candidates_pending_user_review",
+  "count": 3,
+  "prior_batch_status": "rejected_by_user_insufficient_morphological_evolution",
+  "generation_method": "built_in_imagegen only for both new art and final card compositing; no programmatic art repair or frame renderer",
+  "frame_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/frame-hierarchy_20261020_000010_UTC+08/mecha5/guanyu-piloted-dragon-mecha-5star.png",
+  "layout": "approved five-star diamond layout hierarchy with six vertical stars, in-card lower-left marquis seal, no added active icon/text/bar",
+  "tier": 6,
+  "branch": "封侯",
+  "originals_modified": false,
+  "github_uploads": false,
+  "upload_status": "not_attempted_in_this_generation_stage",
+  "entries": [
+    {
+      "form": "heritage6",
+      "name": "传承·关羽",
+      "concept": "龙魂真身",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/传承关羽-六星封侯-龙魂真身-重制候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-f40c4eed-f357-47ef-94ad-79d10a32c91b.png",
+      "evolved_art_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/heritage6-evolved-art.png",
+      "approved_fivestar_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+      "approved_source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "sha256": "546bbe8f59dfd9c108af1da79f0b1d5028ecd3422bd4f3a0c2b2583e9a4dc371",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "size_bytes": 3599749,
+      "status": "new_lifeform_remake_candidate_pending_review",
+      "skills": [
+        "龙骧 +1",
+        "震夏 +1",
+        "武圣 +1"
+      ],
+      "active_ui_displayed": false,
+      "card_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/heritage6-card-prompt.txt",
+      "art_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/heritage6-prompt.txt",
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "form": "divine6",
+      "name": "神·关羽",
+      "concept": "六臂帝君",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/神关羽-六星封侯-六臂帝君-重制候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-184e6bcb-7ba9-48f5-8ed1-be8918d1d92a.png",
+      "evolved_art_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-evolved-art.png",
+      "approved_fivestar_source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+      "approved_source_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+      "sha256": "15ccd4a6419507ac893b7d6b1e0ddb1e2fbf3904fd0f7546cb5cc14cf1cc9b90",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "size_bytes": 3437676,
+      "status": "new_lifeform_remake_candidate_pending_review",
+      "skills": [
+        "忠义 +2",
+        "护佑 +2",
+        "显圣 +2"
+      ],
+      "active_ui_displayed": false,
+      "card_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-card-prompt.txt",
+      "art_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/divine6-prompt.txt",
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    },
+    {
+      "form": "demon6",
+      "name": "魔·关羽",
+      "concept": "冥龙魔君",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/魔关羽-六星封侯-冥龙魔君-重制候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d278d839-d5f8-45d6-9e92-c9bb022546f6.png",
+      "evolved_art_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/demon6-evolved-art.png",
+      "approved_fivestar_source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+      "approved_source_sha256": "fba0ab26b15a770693d8ccb78d7206e0feb054feb5b0ad2d695a583eb5035497",
+      "sha256": "4193e30d7ad61e785ed78616e15f7ffd11476b323edcf414fe01319413ad7beb",
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGBA",
+      "size_bytes": 3513543,
+      "status": "new_lifeform_remake_candidate_pending_review",
+      "skills": [
+        "杀心 +2",
+        "噬魂 +2",
+        "复仇 +2"
+      ],
+      "active_ui_displayed": false,
+      "card_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/demon6-card-prompt.txt",
+      "art_prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/demon6-prompt.txt",
+      "alpha_extrema": [
+        0,
+        254
+      ]
+    }
+  ],
+  "overview": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/关羽三形态-六星生命进化重制-总览.jpg",
+    "size_bytes": 573890
+  },
+  "qa_comparison": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/QA-五星到六星形态对照.jpg",
+    "purpose": "Internal QA only, arranged original-five/new-six-art/final-card; sources unchanged."
+  },
+  "skill_status": "Retain existing passive names/levels; no new statistics or mechanics; no active shown in restored UI.",
+  "qa_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/QA.json",
+  "qa_conclusion": "Body-plan upgrades, six-star counts, restored UI hierarchy and passive text passed; no material display blocker."
+}

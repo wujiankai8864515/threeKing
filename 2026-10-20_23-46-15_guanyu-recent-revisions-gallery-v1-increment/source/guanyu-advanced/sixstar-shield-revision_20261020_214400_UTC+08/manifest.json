@@ -1,0 +1,97 @@
+{
+  "tool": "builtin_imagegen",
+  "assets": [
+    {
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/六星机甲关羽-传记-擎天护城.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/call_786d54dc019e4ee9a3ad4df650e3dbd1.png",
+      "storage": "hardlink; no duplicate image bytes",
+      "sha256": "157738e2ba38c8aa8aa11ef1f0008fcebd1e43c78e88349d1f818e3ec964f79b",
+      "bytes": 3534040,
+      "qa": {
+        "mode": "RGB",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "approved_identity_preserved": true,
+        "enemy_beams_absent": true,
+        "upper_dark_lower_bright": true,
+        "people_and_city_visibly_sheltered": true,
+        "both_arms_raise_canopy": true,
+        "new_composition_not_card_clone": true,
+        "upgrade_origin_absent": true
+      },
+      "status": "candidate_pending_user_review"
+    },
+    {
+      "kind": "skill_cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/六星机甲关羽-放招-擎天巨盾-透明.png",
+      "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/call_0fee75716be44eba84da7266dec4f961.png",
+      "storage": "hardlink; no duplicate image bytes",
+      "sha256": "1699c7f66af38b2f008931016c42a62afe5421c518b507394e42f80c574402e0",
+      "bytes": 3050205,
+      "qa": {
+        "mode": "RGBA",
+        "size": [
+          1536,
+          1024
+        ],
+        "visual_inspected": true,
+        "static_image_not_animation": true,
+        "approved_identity_preserved": true,
+        "enemy_beams_absent": true,
+        "alpha_extrema": [
+          0,
+          254
+        ],
+        "fully_transparent_pixels": 628684,
+        "fully_transparent_fraction": 0.39970652262369794,
+        "corners_alpha": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "opaque_background_absent": true,
+        "shield_complete_not_crescent": true,
+        "edge_note": "Minor local glow/weapon-tip alpha touches left edge; full shield and body remain visible. No painted checkerboard or environmental backdrop."
+      },
+      "status": "candidate_pending_user_review"
+    }
+  ],
+  "approved_source_and_original_files": {
+    "approved_character": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha20_20261019_221600_UTC+08/08/source.png",
+      "sha256": "7792f1f0b3a0a7099a5dadd8b8881ceb82f10d9751fa2afab36858d490df6bd6",
+      "unchanged_verified": true
+    },
+    "original_avatar": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+      "sha256": "39566f562a7aab5edf5380e108042ccb19b7ccaddfde7284ae62471bc4be86a5",
+      "unchanged_verified": true
+    },
+    "previous_biography": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-传记-空域护城.png",
+      "sha256": "2c2489d268813f3b6e99e4639b317a47a3e6fa4d611b3da6a7639651360a0767",
+      "unchanged_verified": true
+    },
+    "previous_skill": {
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-放招-透明.png",
+      "sha256": "42ba53e5558902ba17c253b681146d405ec5ad0b0e66efb8af9cf6f9571befce",
+      "unchanged_verified": true
+    }
+  },
+  "scope": "Only revised biography and static transparent skill CG. Approved card, avatar, source images and earlier versions unchanged. No GitHub upload.",
+  "narrative_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/六星机甲关羽-传记与招式.txt",
+  "prompts_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/prompts.json",
+  "qa_notes": [
+    "Biography: dark oppressive storm above a city-scale emerald canopy; warm city and protected people below. No upgrade story.",
+    "Skill: broad continuous substantial emerald-and-gold dragon tower shield; no crescent or incoming beams.",
+    "Output is a static illustration, not an implemented animation.",
+    "Transparent PNG alpha is genuine: exterior and four corners include alpha 0; semi-transparent glow remains local."
+  ],
+  "completed_at_utc": "2026-10-20T14:15:00Z"
+}

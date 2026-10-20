@@ -1,0 +1,65 @@
+{
+  "status": "in_progress",
+  "count": 3,
+  "tier": 6,
+  "branch": "封侯",
+  "layout_status": "06 framed revision candidate pending review, not approved final",
+  "faction": "蜀",
+  "troop": "枪兵",
+  "display_level": 1,
+  "stars": 6,
+  "output_count": "3 full cards plus lightweight overview only",
+  "new_story_status": "original fantasy branch evolution candidates, not historical claims",
+  "no_github_upload": true,
+  "originals_modified": false,
+  "items": [
+    {
+      "form": "heritage6",
+      "name": "传承·关羽",
+      "concept": "汉水龙旌",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+      "active": "水淹七军",
+      "passives": [
+        "龙骧 I",
+        "震夏 I",
+        "武圣 I"
+      ],
+      "story": "由军民信赖凝聚青龙军魂；从城头号水升级为统御江河与龙旌军魂的封侯统帅。保持人间武将身份，不改机械，不做与神分支相同的巨型法相。",
+      "skill_status": "Retain latest names. No new numeric balance or mechanism proposals."
+    },
+    {
+      "form": "divine6",
+      "name": "神·关羽",
+      "concept": "万庙同辉",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+      "active": "义薄云天",
+      "passives": [
+        "忠义 II",
+        "护佑 II",
+        "显圣 II"
+      ],
+      "story": "众人护佑誓愿、庙祀香火连成神域；从一地显圣升级为护住群城万军的帝君法相。胸前誓手与外伸护佑之掌保留，战斗仍以团队保护鼓舞为主。",
+      "skill_status": "Retain latest names. No new numeric balance or mechanism proposals."
+    },
+    {
+      "form": "demon6",
+      "name": "魔·关羽",
+      "concept": "断锁归冥",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+      "active": "冥龙索命",
+      "passives": [
+        "杀心 II",
+        "噬魂 II",
+        "复仇 II"
+      ],
+      "story": "承接麦城握旗噬天；保持白发白须、赤眼红面、破绿旗、黑龙赤焰。冥锁断裂，黑龙环绕复仇统御者而不是继续困住他；不表现伤口、残肢。",
+      "skill_status": "Active name 冥龙索命 is carried from the earlier unapproved draft and remains a naming proposal pending user review. Passives retained from latest selected card. No new numeric balance or mechanism proposals."
+    }
+  ],
+  "text_sources": [
+    "guanyu-advanced/20261019_135432_UTC+08/BRIEF.md",
+    "guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/biography-and-move.md",
+    "guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/biography-and-move.md",
+    "guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/biography-and-move.md"
+  ]
+}

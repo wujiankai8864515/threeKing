@@ -1,0 +1,43 @@
+{
+  "review": "primary visual inspection of all 3 native images plus overview",
+  "status": "candidate_ready_for_user_review_not_final_approved",
+  "structural_checks": {
+    "all_dimensions": [
+      1024,
+      1536
+    ],
+    "six_stars_each": true,
+    "fully_visible_four_corners": true,
+    "connected_gold_jade_perimeter": true,
+    "top_bottom_rails_inside_canvas": true,
+    "seal_fully_contained": true,
+    "all_required_field_categories_present": true,
+    "active_plus_three_passives_each": true,
+    "no_mech_contamination": true
+  },
+  "source_integrity": {
+    "heritage6": true,
+    "divine6": true,
+    "demon6": true
+  },
+  "visual_progression": {
+    "heritage6": "Standing command-prow Guan Yu replaces seated command pose; ordered navy, elevated dragon standard, controlled river water-dragon army-spirit. Original face, black beard, green cloth crown and gold-green armor retained.",
+    "divine6": "Oath-hand, open protecting palm, red ribbons and recognizable face retained; many luminous temples and collective city-scale halo amplify protective deity narrative.",
+    "demon6": "Latest white hair/beard, red eyes, red face, torn green flag and black dragon retained; broken chains, obsidian armor and underworld gate establish ascended command rather than only larger flames."
+  },
+  "known_caveats": [
+    "Heritage passive 龙骧 is rendered with traditional/complex 驤 glyph. Meaning is unchanged but exact simplified-glyph uniformity is not complete.",
+    "Troop plaque uses vertical 兵种枪兵 typography without a visible middle dot. Field remains unambiguous.",
+    "Demon active 冥龙索命 is a naming proposal carried from the older draft, not user-approved.",
+    "These are new visual and story candidates. No stat/skill-mechanism changes or balance claims were made.",
+    "The 06 frame is a candidate refinement, not a user-approved final template."
+  ],
+  "library": "No upload attempted in this generation stage.",
+  "github": "No upload or mutation.",
+  "independent_review": {
+    "status": "passed_as_review_candidates",
+    "reviewer": "verify_three_guanyu_cards",
+    "result": "All 3 exactly six stars, complete connected frame and four corners, readable required fields, recognizable evolved identities. No critical anatomy, clipping or layout defects identified. Overview matches. Heritage 龙驤 I traditional glyph caveat and demon draft naming caveat confirmed.",
+    "read_only": true
+  }
+}

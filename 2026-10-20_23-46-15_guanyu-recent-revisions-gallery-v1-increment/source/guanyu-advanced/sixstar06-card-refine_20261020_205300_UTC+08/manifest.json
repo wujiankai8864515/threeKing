@@ -1,0 +1,62 @@
+{
+  "status": "candidate_pending_user_review",
+  "name": "06 侯印悬章 · 完整卡框修订",
+  "method": "built-in imagegen edit",
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-reinvent20_20261020_200600_UTC+08/06/card.png",
+  "final_candidate": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar06-card-refine_20261020_205300_UTC+08/card.png",
+  "preview": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar06-card-refine_20261020_205300_UTC+08/preview.jpg",
+  "size": [
+    1024,
+    1536
+  ],
+  "bytes": 3672900,
+  "sha256": "ccbd04a5f18e25191ca0b95d588111a91c7fe7dbee8a8c90feddb81ed4d142e5",
+  "retained": [
+    "Selected mech Guan Yu red face, beard, emerald-gold armor, energy ring and guandao identity",
+    "Large red dragon-topped marquis seal at lower left",
+    "Blue sky and castle",
+    "All source semantic fields",
+    "Exactly six five-point stars"
+  ],
+  "changes": [
+    "Continuous thick gold/emerald rectangular frame with all four corners visible",
+    "Integrated top stars and name",
+    "Red seal and ribbons completely inside card perimeter",
+    "Unified lower-right skill panel",
+    "Safe inset padding"
+  ],
+  "qa": {
+    "card_silhouette": "Complete 2:3 portrait collectible card with visible perimeter and corners",
+    "star_count": 6,
+    "star_count_visually_verified": true,
+    "no_unintended_ui_crop": true,
+    "required_semantic_fields_present": [
+      "阵营·蜀",
+      "等级 1",
+      "机甲·关羽",
+      "兵种·枪兵",
+      "封侯",
+      "主动·龙御天穹",
+      "被动技能",
+      "镇岳 II",
+      "逆鳞 II",
+      "天诛 II"
+    ],
+    "font_note": "Some calligraphic glyphs remain traditional, notably 鎮 and 鱗. Semantics correct; exact simplified-glyph compliance is not claimed.",
+    "identity_note": "Recognizable generative preservation, not pixel-identical original art."
+  },
+  "iteration_history": [
+    {
+      "file": "native-v1.png",
+      "selected": true,
+      "reason": "Strong card structure and rich original concept preservation"
+    },
+    {
+      "file": "textfix-v2-not-selected.png",
+      "selected": false,
+      "reason": "Targeted simplified-text edit did not reliably change traditional glyphs and softened some art details; no more typography-only redraws per parent direction"
+    }
+  ],
+  "approval": "Not final-approved. No GitHub upload performed.",
+  "library_upload": "Not attempted in this generation stage."
+}

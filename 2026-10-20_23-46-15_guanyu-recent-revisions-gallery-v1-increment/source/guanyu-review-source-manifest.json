@@ -1,0 +1,278 @@
+{
+  "site_id": "appgprj_6ad7879aa6088191ae5dc4147a6ed7c6",
+  "url": "https://guanyu-complete-card-gallery.wujiankai886451590.chatgpt.site",
+  "state": "v1_snapshot_pending_v2",
+  "entries": [
+    {
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/黑铁关羽-主动爆发CG-透明候选2.png",
+      "library_file_id": "libfile_554d366674188191ae11345fe027692a"
+    },
+    {
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/blackiron-transparent_2026-10-19_09-33-00_UTC+08/黑铁关羽-头像-透明候选2.png",
+      "library_file_id": "libfile_0d9fc3aadd348191a86b9607a73008a1"
+    },
+    {
+      "tier": 1,
+      "form": "blackiron",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/01-黑铁-UI排版修复1190.png",
+      "library_file_id": "libfile_ac208953d6688191a8a9e9b16b51374a"
+    },
+    {
+      "tier": 2,
+      "form": "bronze",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/bronze_cg.png",
+      "library_file_id": "libfile_899490f2f7cc8191a2c43f89b8cbe722"
+    },
+    {
+      "tier": 2,
+      "form": "bronze",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/bronze_avatar.png",
+      "library_file_id": "libfile_1e12909aa8d48191bdcb12cd113ceb2c"
+    },
+    {
+      "tier": 2,
+      "form": "bronze",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_peach_wine_20261018_183105_UTC+08/桃园结义-v11-神话源重绘候选.png",
+      "library_file_id": "libfile_d0d5af63a1f08191a98ab8895f6cb8aa"
+    },
+    {
+      "tier": 2,
+      "form": "bronze",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/02-青铜-UI排版修复1190.png",
+      "library_file_id": "libfile_d62950cd812881919aab0ad2bc4a0513"
+    },
+    {
+      "tier": 3,
+      "form": "silver",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/silver_cg.png",
+      "library_file_id": "libfile_2d261717bdc881919b7af78e96a645f6"
+    },
+    {
+      "tier": 3,
+      "form": "silver",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/silver_avatar.png",
+      "library_file_id": "libfile_9e93f44de8f08191acd4498b381c1c04"
+    },
+    {
+      "tier": 3,
+      "form": "silver",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/wine_maskcomposite_20261018_233916_UTC+08/温酒请战-v17-原图冻结-武器局部合成.png",
+      "library_file_id": "libfile_00b61d8cfcb88191b4df35128b362ce2"
+    },
+    {
+      "tier": 3,
+      "form": "silver",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/03-白银-UI排版修复1190.png",
+      "library_file_id": "libfile_9856e9c09050819183032e73e043a7da"
+    },
+    {
+      "tier": 4,
+      "form": "gold",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/gold_cg.png",
+      "library_file_id": "libfile_0738c5fa1fc081918806d27604407c13"
+    },
+    {
+      "tier": 4,
+      "form": "gold",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/skill-avatar_20261019_093205_UTC+08/gold_avatar.png",
+      "library_file_id": "libfile_b13ca9f181b88191a7c50df007192833"
+    },
+    {
+      "tier": 4,
+      "form": "gold",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/rebuild_clean_20261018_181840_UTC+08/千里护行-神话源重绘-直杆修复.png",
+      "library_file_id": "libfile_a7413186b4d4819198c2756c536786ff"
+    },
+    {
+      "tier": 4,
+      "form": "gold",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-mythic-set/ui-local-composite-candidates_2026-10-18_23-55-42_UTC+08/04-黄金-UI排版修复1190.png",
+      "library_file_id": "libfile_f238992edcdc81919b49cb47b597102e"
+    },
+    {
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-头像-透明.png",
+      "library_file_id": "libfile_de99f55132388191bf584713b11d3d8f"
+    },
+    {
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/heritage5/传承关羽-头像-透明.png",
+      "library_file_id": "libfile_c64d157318d08191b145e3a1d3c69e13"
+    },
+    {
+      "tier": 5,
+      "form": "divine5",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-头像-透明.png",
+      "library_file_id": "libfile_35698986a4a08191a48149f2ebae5478"
+    },
+    {
+      "tier": 5,
+      "form": "demon5",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-头像-透明.png",
+      "library_file_id": "libfile_f07490f6f0c881919913ac9b98972252"
+    },
+    {
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "avatar",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha6/六星机甲关羽-头像-透明.png",
+      "library_file_id": "libfile_d8f158f84d208191b6d27203c9e5760c"
+    },
+    {
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/frame-hierarchy_20261020_000010_UTC+08/mecha5/guanyu-piloted-dragon-mecha-5star.png",
+      "library_file_id": "libfile_4874b7fe78f08191aa3914c396f28b7a"
+    },
+    {
+      "tier": 5,
+      "form": "demon5",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/card-06/guanyu-infernal-06-5star.png",
+      "library_file_id": "libfile_60ca630c44f48191b776d82a681f8c16"
+    },
+    {
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-biography-assembly_20261020_212600_UTC+08/五星机甲关羽-传记-青龙启甲-古代工坊组装重绘.png",
+      "library_file_id": "libfile_e16c39692b648191b424f23cf5230234"
+    },
+    {
+      "tier": 5,
+      "form": "mecha5",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-attack-repose_20261020_212930_UTC+08/五星机甲关羽-放招-腾跃斜劈-透明.png",
+      "library_file_id": "libfile_7b3d0671ba4481918867cb7ee6efe57d"
+    },
+    {
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-bio-parting_20261020_212926_UTC+08/传承关羽-传记-一刀分沧海.png",
+      "library_file_id": "libfile_5604dfaab3d881919f8fe98a1bf99960"
+    },
+    {
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-attack-repose_20261020_221104_UTC+08/传承关羽-放招-水淹七军-腾空回斩-透明.png",
+      "library_file_id": "libfile_ae672a0e60b88191b4e103455df06b97"
+    },
+    {
+      "tier": 5,
+      "form": "divine5",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/神关羽-传记-千秋共仰.png",
+      "library_file_id": "libfile_bc46e6ab353081919c0484a511d6ff81"
+    },
+    {
+      "tier": 5,
+      "form": "divine5",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/神关羽-放招-义薄云天-透明.png",
+      "library_file_id": "libfile_646c43df62d48191a7d6b4b76a26be89"
+    },
+    {
+      "tier": 5,
+      "form": "demon5",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon5-biography-imagined-revenge_20261020_214800_UTC+08/魔关羽-传记-麦城未醒.png",
+      "library_file_id": "libfile_904c57411e488191b013da017f862388"
+    },
+    {
+      "tier": 5,
+      "form": "demon5",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/demon5/魔关羽-放招-透明.png",
+      "library_file_id": "libfile_f0850df6457c8191a4928116c33c960f"
+    },
+    {
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha-sixstar-fivestar-restore_20261020_132900_UTC/六星机甲关羽-五星版式-侯印召天光.png",
+      "library_file_id": "libfile_e4e810e661488191ac22c3b969437b47"
+    },
+    {
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "biography",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/六星机甲关羽-传记-擎天护城.png",
+      "library_file_id": "libfile_1ad46b54948c819197b92aff335abf26"
+    },
+    {
+      "tier": 6,
+      "form": "mecha6",
+      "kind": "attack_cg",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-shield-revision_20261020_214400_UTC+08/六星机甲关羽-放招-擎天巨盾-透明.png",
+      "library_file_id": "libfile_38e3e6716bd88191b1dd4ad9e8de9d53"
+    },
+    {
+      "tier": 6,
+      "form": "heritage6",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/传承关羽-六星封侯-龙魂真身-重制候选.png",
+      "library_file_id": "libfile_c4659146b8a481918565e2938e4d8617"
+    },
+    {
+      "tier": 6,
+      "form": "divine6",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/神关羽-六星封侯-六臂帝君-重制候选.png",
+      "library_file_id": "libfile_5447530b56f881918fbfc938b6199663"
+    },
+    {
+      "tier": 6,
+      "form": "demon6",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-lifeform-remake_20261020_212600_UTC+08/魔关羽-六星封侯-冥龙魔君-重制候选.png",
+      "library_file_id": "libfile_fd2602a001fc81918a218a47b43f31ad"
+    },
+    {
+      "tier": null,
+      "form": "shared_5_and_mecha6",
+      "kind": "biographies_and_moves_text",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/关羽配套-五篇传记与招式说明-修订版.txt",
+      "library_file_id": "libfile_2dc4b833f67c81919b238a7b8c167faa"
+    },
+    {
+      "tier": 5,
+      "form": "heritage5",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/complete-five-star-cards_20261020_152400_UTC/heritage5/guanyu-heritage-water-command-5star.png"
+    },
+    {
+      "tier": 5,
+      "form": "divine5",
+      "kind": "card",
+      "local_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/complete-five-star-cards_20261020_152400_UTC/divine5/guanyu-divine-refined-05-5star.png"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "scope": "Incremental snapshot of completed recent Guan Yu revisions and existing v1 gallery. Missing-slot production and four graphical non-text six-star seals are still in progress; not included until stable.",
+  "excluded": "Git internals, credentials, internal orchestration brief and caches.",
+  "immutable_png_storage": "SHA-addressed hardlinks; originals must never be edited in place.",
+  "site_recovery": "Run restore-all.py --output fresh_directory to reconstruct original relative site paths, then serve guanyu-review-site/dist.",
+  "resolved_paths": 13170
+}

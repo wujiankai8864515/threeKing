@@ -1,0 +1,16 @@
+{
+  "project_id": "appgprj_6ad7879aa6088191ae5dc4147a6ed7c6",
+  "url": "https://guanyu-complete-card-gallery.wujiankai886451590.chatgpt.site",
+  "deployment_id": "appgdep_6ad788aef1948191b59a75b3f6386451",
+  "version_id": "appgprj_6ad7879aa6088191ae5dc4147a6ed7c6~appgver_21cda61d8edc81918260df2b35110919",
+  "commit_sha": "1806dd5263229b8b90e76341d0f4e87cd5e54ab5",
+  "status": "succeeded",
+  "access": "owner-private",
+  "assets": {
+    "complete_cards": 12,
+    "attack_cg": 9,
+    "avatars": 9,
+    "biographies": 8
+  },
+  "verification": "JS syntax and all image paths checked; hosted URL private sign-in gate verified; visual contents not browser-verified"
+}

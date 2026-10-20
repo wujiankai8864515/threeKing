@@ -1,0 +1,317 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_card.png",
+    "file_id": "file_00000000832481f581451d54e6e8fe7d",
+    "library_file_id": "libfile_d9e46151cc70819183de4e96ba69eccd",
+    "file_name": "divine5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3230320,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_story.png",
+    "file_id": "file_00000000830081f5b1ce3094c8613c7c",
+    "library_file_id": "libfile_ddcc8c2b9ed48191bec8cd2b42e99e7a",
+    "file_name": "divine5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3347820,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_avatar.png",
+    "file_id": "file_000000007fac81f5bdd83fbd585a38fe",
+    "library_file_id": "libfile_b9adcb7892788191b0d994c82304a6af",
+    "file_name": "divine5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2664799,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_cutin.png",
+    "file_id": "file_0000000071f481f5b6706d3bd8d1823c",
+    "library_file_id": "libfile_f796835299508191b5d149b35b522ee9",
+    "file_name": "divine5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3384466,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/divine5_fx.png",
+    "file_id": "file_00000000ac9881f5b192c4c0744ca49d",
+    "library_file_id": "libfile_36a09c8295b881918cb09687a26d390e",
+    "file_name": "divine5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2944398,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_card.png",
+    "file_id": "file_0000000025ec81f59ff0247c6c6f8bf9",
+    "library_file_id": "libfile_e43bc984f37c8191aa79fb138b694149",
+    "file_name": "demon5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3328590,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_story.png",
+    "file_id": "file_0000000059e481f5ae07140059f45cda",
+    "library_file_id": "libfile_3b11e90e375081918f6bc00712094f0a",
+    "file_name": "demon5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3254166,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_avatar.png",
+    "file_id": "file_00000000dcf481f5b9898c59fd67dea9",
+    "library_file_id": "libfile_26b361655c80819199abf7e3fddb2999",
+    "file_name": "demon5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3220733,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_cutin.png",
+    "file_id": "file_00000000750081f5af6a4ccd996dc24e",
+    "library_file_id": "libfile_da310d458a0c81919bd62d68cd01e5eb",
+    "file_name": "demon5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3368458,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/demon5_fx.png",
+    "file_id": "file_00000000acf881f5b52e04f348781b3e",
+    "library_file_id": "libfile_b9c2c7884df08191971c4df2510960a4",
+    "file_name": "demon5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2720824,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_card.png",
+    "file_id": "file_00000000c7cc81f5851a56ab40271545",
+    "library_file_id": "libfile_8b00878647d881919d7950ddf105f7fa",
+    "file_name": "mecha5_card.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3091531,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_story.png",
+    "file_id": "file_00000000504c81f5b93867c1205118b8",
+    "library_file_id": "libfile_dd651031c5688191bca6774360fbb9f4",
+    "file_name": "mecha5_story.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3310065,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_avatar.png",
+    "file_id": "file_000000004f2481f590fe4d981932b8e0",
+    "library_file_id": "libfile_243ae1d8c1948191976337c41b707b1e",
+    "file_name": "mecha5_avatar.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2872756,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_cutin.png",
+    "file_id": "file_000000003f2481f588dbc5e8e3b90823",
+    "library_file_id": "libfile_9e82833d611081919309b80e0085d25b",
+    "file_name": "mecha5_cutin.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 3370013,
+    "external_connectors_accessed": false
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/mecha5_fx.png",
+    "file_id": "file_00000000ad0081f5b75ca1a3b12806b2",
+    "library_file_id": "libfile_24eedc892ed88191ad27ab1ba61a6cd0",
+    "file_name": "mecha5_fx.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "image",
+    "file_size_bytes": 2356009,
+    "external_connectors_accessed": false
+  }
+]

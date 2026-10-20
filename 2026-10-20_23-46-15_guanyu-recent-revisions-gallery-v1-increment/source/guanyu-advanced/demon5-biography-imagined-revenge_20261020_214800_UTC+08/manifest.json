@@ -1,0 +1,24 @@
+{
+  "asset": "demon5-biography-imagined-revenge",
+  "title": "麦城未醒",
+  "status": "complete_pending_user_review",
+  "method": "built-in image_gen; one generation using approved demon06 as identity reference",
+  "created_utc": "2026-10-20T14:15:39Z",
+  "reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+  "reference_sha256": "fba0ab26b15a770693d8ccb78d7206e0feb054feb5b0ad2d695a583eb5035497",
+  "final_png": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon5-biography-imagined-revenge_20261020_214800_UTC+08/魔关羽-传记-麦城未醒.png",
+  "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-3b34024e-ca7e-458e-8ee6-a9ec30fd4874.png",
+  "storage": "Final named path is a hard link to the generated source, with no duplicate image data and no deletion.",
+  "size": [
+    1536,
+    1024
+  ],
+  "mode": "RGB",
+  "bytes": 3590329,
+  "sha256": "8d4a2e9343b93d6f75b54970f5d1497ba39102e233073d79ac8a0f31f872a896",
+  "story": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon5-biography-imagined-revenge_20261020_214800_UTC+08/魔关羽-传记文字.txt",
+  "prompt": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon5-biography-imagined-revenge_20261020_214800_UTC+08/generation-prompt.txt",
+  "qa": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon5-biography-imagined-revenge_20261020_214800_UTC+08/QA.json",
+  "fiction_notice": "Upper revenge scene is Guan Yu’s imagined vision before execution, not literal historical transformation or revenge.",
+  "unchanged": "Prior biography, skill CG, avatar, card reference and GitHub remain untouched."
+}

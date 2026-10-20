@@ -1,0 +1,52 @@
+{
+  "status": "independently_passed_as_user_review_candidates",
+  "purpose": "Address explicit rejection of cosmetic five-to-six-star changes; prioritize evolved life-form silhouettes.",
+  "morphology": {
+    "heritage6": {
+      "pass": true,
+      "evidence": "Waist continuously transitions into huge emerald river-dragon lower body with visible coils; no ordinary human legs. Human Guan Yu face, long black beard, guandao and green-gold lineage remain."
+    },
+    "divine6": {
+      "pass": true,
+      "evidence": "Six distinct arms visible: guandao and jade tablet top pair, open middle blessing pair, heart-vow and protection front pair; crown, luminous jade-gold body and floating cloud-dragon lower form differ from two-arm five-star body."
+    },
+    "demon6": {
+      "pass": true,
+      "evidence": "New fused black-dragon body with tall horns, attached bone-membrane wings, giant taloned arm, scaled draconic feet/legs. White beard/hair, red face/eyes and held torn green flag remain."
+    }
+  },
+  "ui": {
+    "style": "True approved five-star diamond/crystal hierarchy restored by imagegen; not rejected 06 thick green frame.",
+    "six_vertical_stars_each": true,
+    "faction_name_level_present": true,
+    "three_passives_each": true,
+    "spear_troop_icon_lower_right": true,
+    "seal_lower_left_inside_card": true,
+    "no_new_active_icon_bar_or_text": true,
+    "fully_visible_connected_outline_and_corners": true
+  },
+  "lighting": {
+    "overhead_tyndall_visible_each": true,
+    "notes": "Overhead god rays illuminate each hero. Lower-left seals are illuminated; explicit down-to-seal beam is most visible in demon. Not used as substitute for morphological evolution."
+  },
+  "known_caveats": [
+    "Three generated seal objects differ slightly in shape while sharing the original lower-left advancement anchor.",
+    "Divine right middle blessing hand is partly near/behind the right star rail; six-arm topology remains visibly countable.",
+    "All three are new concepts pending user selection, not user-approved forms or balance decisions.",
+    "Frame hierarchy is regenerated to match the approved layout, not pixel-identical reuse of the old frame."
+  ],
+  "unchanged_sources": true,
+  "no_github_upload": true,
+  "generation": "Built-in imagegen for art and final cards. No programmatic repair, raster paint or renderer fallback.",
+  "packaging_only": "Pillow used only for read-only contact sheets, no changes to art/card pixels.",
+  "text_check_correction": "Independent enlarged inspection confirms heritage reads simplified 龙骧 +1. Earlier primary thumbnail concern was mistaken and withdrawn.",
+  "independent_review": {
+    "status": "passed",
+    "body_plan_changes_confirmed_all_three": true,
+    "six_stars_each": true,
+    "passive_names_and_levels_correct": true,
+    "divine_right_middle_hand": "Partially near/behind star rail but recognizable and six arms countable.",
+    "lighting": "Overhead celestial rays visible in all three.",
+    "material_blockers": []
+  }
+}

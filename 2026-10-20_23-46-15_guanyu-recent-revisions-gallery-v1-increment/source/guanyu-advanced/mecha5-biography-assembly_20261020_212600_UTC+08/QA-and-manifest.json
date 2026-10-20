@@ -1,0 +1,43 @@
+{
+  "asset": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-biography-assembly_20261020_212600_UTC+08/五星机甲关羽-传记-青龙启甲-古代工坊组装重绘.png",
+  "status": "candidate_pending_user_review",
+  "tool": "builtin_imagegen",
+  "dimensions": [
+    1536,
+    1024
+  ],
+  "mode": "RGB",
+  "format": "PNG",
+  "bytes": 3422630,
+  "sha256": "bb45a1758f718575e2e353a3554815b4064f5f68f2fefe629e34c71afe90f9a3",
+  "visually_inspected": true,
+  "checks": {
+    "wide_1536x1024": true,
+    "human_GuanYu_visible_in_central_open_cockpit": true,
+    "detached_mech_head_chest_arms_legs_with_readable_gaps": true,
+    "ancient_Chinese_timber_bronze_furnace_hoist_artisans": true,
+    "mechanical_red_hare_mid_assembly_same_scene": true,
+    "qinglong_blade_on_work_jig_awaiting_mech_hand_attachment": true,
+    "not_finished_mech_card_pose": true,
+    "no_halo_wings_or_sixstar_equipment": true,
+    "no_text_UI_card_frame": true
+  },
+  "visual_notes": [
+    "刀刃与长柄在成图中基本结合，整体处于工装校准、待装入机械手的状态；配文按实际画面同步。",
+    "机械赤兔有外甲及部分腿部已安装，但可见空置接点、裸露传动和独立待装部件，属于组装中。",
+    "本图为静态传记插画，不是组装动画。"
+  ],
+  "narrative_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-biography-assembly_20261020_212600_UTC+08/五星机甲关羽-传记-青龙启甲-重绘配文.txt",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+    "sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5"
+  },
+  "prior_biography_preserved": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-传记-青龙启甲.png",
+    "sha256": "6c2a315ef6984edafb17d4be4fecb2e5bed1e7c6c0de86675cb375c6ef392942",
+    "expected_sha256": "6c2a315ef6984edafb17d4be4fecb2e5bed1e7c6c0de86675cb375c6ef392942"
+  },
+  "scope": "仅五星机甲传记重绘及对应故事改写；原卡面、放招、头像、原传记均保留不改。",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-biography-assembly_20261020_212600_UTC+08/generation-prompt.txt",
+  "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-d568712c-0ad6-4d30-bfe1-9666a22a9189.png"
+}

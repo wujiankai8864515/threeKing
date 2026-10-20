@@ -1,0 +1,52 @@
+{
+  "asset_type": "five_star_mecha_guanyu_static_attack_cg",
+  "status": "candidate_ready_for_user_review",
+  "created_at_utc": "2026-10-20T13:30:00Z",
+  "tool": "builtin_imagegen",
+  "transparent_background": true,
+  "final_png": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-attack-repose_20261020_212930_UTC+08/五星机甲关羽-放招-腾跃斜劈-透明.png",
+  "sha256": "a60d4f05fd899a862fb383814862ed9185104888df1256651c39ee978862ebc4",
+  "bytes": 2871919,
+  "generation_source": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-1b77a080-174d-4136-8062-17f7ac3b899d.png",
+  "placement": "hardlink to generated original; no duplicate PNG data",
+  "reference_mapping": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha-supporting-manifest.json",
+  "reference": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/piloted-dragon-mecha_20261019_184125_UTC+08/五星机甲关羽-青龙巨神-原图候选.png",
+    "sha256": "0b3a3b14da2998a4990f6d278a73d73df6f2cccf2c9ad1f5ec23b6ab9db1b2b5"
+  },
+  "prior_attack_unchanged": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-放招-透明.png",
+    "sha256": "ecd005655386fdb1e5c18e23dbf585b960f0950375cd3d8ac1fc3f89cde810f4"
+  },
+  "avatar_unchanged": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/mecha5/五星机甲关羽-头像-透明.png",
+    "sha256": "eeca2067cbaab288a165960f10552cd882b664e924775d76c3b15ff43350381b"
+  },
+  "move_description_zh": "腾跃拧身，屈膝收腿，双手分点握刀向左下方斜劈；重装惯性由长髯、披布与红缨的反向拖曳表现。",
+  "qa": {
+    "mode": "RGBA",
+    "size": [
+      1536,
+      1024
+    ],
+    "alpha_extrema": [
+      0,
+      254
+    ],
+    "fully_transparent_pixels": 641460,
+    "partially_transparent_pixels": 931404,
+    "fully_opaque_pixels": 0,
+    "visual_inspected": true,
+    "pose_distinct_from_approved_card": true,
+    "full_blade_and_both_feet_visible": true,
+    "pilot_in_chest_visible": true,
+    "no_six_star_wheel_or_wings": true,
+    "card_and_avatar_modified": false,
+    "note": "All character geometry is inside canvas. Faint peripheral glow can touch canvas edge; no claim of complete 5 percent energy margin."
+  },
+  "qa_preview": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-attack-repose_20261020_212930_UTC+08/qa-pose-and-alpha.jpg",
+  "qa_notes": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-attack-repose_20261020_212930_UTC+08/QA.md",
+  "prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/mecha5-attack-repose_20261020_212930_UTC+08/prompt.txt",
+  "final_png_postprocessing": "none; original generated alpha preserved",
+  "github_operations": "none"
+}

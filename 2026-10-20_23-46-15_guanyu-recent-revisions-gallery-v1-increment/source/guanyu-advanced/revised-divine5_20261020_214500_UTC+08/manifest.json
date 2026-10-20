@@ -1,0 +1,61 @@
+{
+  "form": "divine5",
+  "status": "revised_candidates_complete_pending_user_review",
+  "method": "Two built-in image_gen calls; true transparent_background=true for skill CG. Output aliases are hard links to generated originals to avoid duplicate disk usage. No original image or approved avatar changed.",
+  "approved_card": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+    "sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+    "unchanged": true
+  },
+  "approved_avatar": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/supporting-five-six_20261020_201000_UTC+08/divine5/神关羽-头像-透明.png",
+    "sha256": "1e1eb871ccdc663f7176c425b054213ba2133326c6863dd7db82064b95a27198",
+    "unchanged": true
+  },
+  "entries": [
+    {
+      "kind": "biography",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/神关羽-传记-千秋共仰.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5269db4e-2b14-42ea-91e5-376d172d1fd0.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGB",
+      "bytes": 3388654,
+      "sha256": "249a58be95671f06d3edefccbe5ca25433908d8d3380d435b07879e314465258",
+      "visual_qa": "Reviewed generated 1536x1024 image. Distinct seated sanctuary deity, nested temple courtyards, differently dressed later-imperial ceremonial figures and ordinary worshippers; human ritual dominates lower scene. Broad incense light ribbons, no scattered sparkle noise. Cross-era symbolic montage, not a claim all emperors personally worshipped Guan Yu."
+    },
+    {
+      "kind": "skill-cg",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/神关羽-放招-义薄云天-透明.png",
+      "generated_original": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-5840e912-caf6-42b5-8010-d60dd86347b9.png",
+      "size": [
+        1536,
+        1024
+      ],
+      "mode": "RGBA",
+      "bytes": 3015166,
+      "sha256": "347f82a98e3cc0072e6905dcb36d5c091cf52606ebc65831d60aefdda42741be",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "transparent_fraction": 0.301205317179362,
+      "nearly_transparent_fraction": 0.3416608174641927,
+      "corner_alpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "visual_qa": "Reviewed generated output and a neutral-gray composite. True transparent regions, no baked checkerboard or rectangular backdrop. One head and two arms; airborne twisted knee-up lunge, two-hand overhead seal, tall gold-jade crown and sun halo, three broad curved jade-gold shield panels. No weapon or generic standing palm-out pose. Core body and feet fit; outer robe/ribbon tips graze canvas margins.",
+      "alpha_qa": "Native generated alpha preserved without masking or opacity changes. Maximum alpha 254 is native to output; corners are all 0."
+    }
+  ],
+  "story_and_move": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/biography-and-move.md",
+  "prompt_record": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/prompts.json",
+  "qa_preview": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/revised-divine5_20261020_214500_UTC+08/qa-skill-on-gray.jpg",
+  "not_implemented": "Static PNG assets only; no runtime animation, balance changes, main card edits, or avatar edits.",
+  "historical_framing": "A symbolic cross-era montage of later-imperial worship; no Qin ruler, and no assertion that every ruler or all post-Han emperors personally worshipped Guan Yu."
+}

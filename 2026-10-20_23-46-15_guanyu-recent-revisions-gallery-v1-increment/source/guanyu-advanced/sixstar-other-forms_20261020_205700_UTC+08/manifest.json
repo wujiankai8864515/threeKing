@@ -1,0 +1,98 @@
+{
+  "status": "rejected_by_user_insufficient_lifeform_evolution",
+  "count": 3,
+  "layout_reference": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar06-card-refine_20261020_205300_UTC+08/native-v1.png",
+  "layout_status": "same 06 full-frame candidate geometry; not final approved standard",
+  "originals_modified": false,
+  "github_uploads": false,
+  "stars_per_card": 6,
+  "entries": [
+    {
+      "form": "heritage6",
+      "name": "传承·关羽",
+      "concept": "汉水龙旌",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/heritage-water-command_20261019_193312_UTC+08/heritage5-water-command-art.png",
+      "active": "水淹七军",
+      "passives": [
+        "龙骧 I",
+        "震夏 I",
+        "武圣 I"
+      ],
+      "story": "由军民信赖凝聚青龙军魂；从城头号水升级为统御江河与龙旌军魂的封侯统帅。保持人间武将身份，不改机械，不做与神分支相同的巨型法相。",
+      "skill_status": "Retain latest names. No new numeric balance or mechanism proposals.",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/传承关羽-六星封侯-汉水龙旌-候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-4b94aa6c-61c4-4b4c-907f-66330f645a06.png",
+      "source_sha256": "b4a9cc260f6869a3ce642e8c877e2a977bfeda8b9631217650f44baecdff160a",
+      "sha256": "e00622be2ecca6cf20167af21231c8ec67075dd3b10ab0febbcb9833e5f9f7d7",
+      "size_bytes": 3683827,
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "status": "rejected_by_user_insufficient_lifeform_evolution",
+      "generation_method": "built_in_imagegen",
+      "prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/heritage6-prompt.txt"
+    },
+    {
+      "form": "divine6",
+      "name": "神·关羽",
+      "concept": "万庙同辉",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-divine-refined5/20261019_221530_UTC+08/05_source.png",
+      "active": "义薄云天",
+      "passives": [
+        "忠义 II",
+        "护佑 II",
+        "显圣 II"
+      ],
+      "story": "众人护佑誓愿、庙祀香火连成神域；从一地显圣升级为护住群城万军的帝君法相。胸前誓手与外伸护佑之掌保留，战斗仍以团队保护鼓舞为主。",
+      "skill_status": "Retain latest names. No new numeric balance or mechanism proposals.",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/神关羽-六星封侯-万庙同辉-候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-bcb7ee2d-d0cc-43ea-88fc-97ea4947cf2a.png",
+      "source_sha256": "17f39b2fd9b917b750da837affe82da4f95fcba0c7c82a0630483a6bf7ce9c4c",
+      "sha256": "4a7f1b9dc2398f9eb4a3645d25fd3e3a0138acb4c9f141f3ca0b71719b78f541",
+      "size_bytes": 3602846,
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "status": "rejected_by_user_insufficient_lifeform_evolution",
+      "generation_method": "built_in_imagegen",
+      "prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/divine6-prompt.txt"
+    },
+    {
+      "form": "demon6",
+      "name": "魔·关羽",
+      "concept": "断锁归冥",
+      "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/06-握旗噬天-source.png",
+      "active": "冥龙索命",
+      "passives": [
+        "杀心 II",
+        "噬魂 II",
+        "复仇 II"
+      ],
+      "story": "承接麦城握旗噬天；保持白发白须、赤眼红面、破绿旗、黑龙赤焰。冥锁断裂，黑龙环绕复仇统御者而不是继续困住他；不表现伤口、残肢。",
+      "skill_status": "Active name 冥龙索命 is carried from the earlier unapproved draft and remains a naming proposal pending user review. Passives retained from latest selected card. No new numeric balance or mechanism proposals.",
+      "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/魔关羽-六星封侯-断锁归冥-候选.png",
+      "native_path": "/workspace/scratch/3f82ff2b3f81/generated_images/exec-978727ef-06b5-49bf-ba9b-10292742596f.png",
+      "source_sha256": "fba0ab26b15a770693d8ccb78d7206e0feb054feb5b0ad2d695a583eb5035497",
+      "sha256": "04aee54bf02443b0813709896836a3855dbd6898d51806479c3c6bbb4530b371",
+      "size_bytes": 3520602,
+      "width": 1024,
+      "height": 1536,
+      "mode": "RGB",
+      "status": "rejected_by_user_insufficient_lifeform_evolution",
+      "generation_method": "built_in_imagegen",
+      "prompt_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/demon6-prompt.txt"
+    }
+  ],
+  "overview": {
+    "path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/传承神魔关羽-六星封侯-三卡总览.jpg",
+    "size_bytes": 679619,
+    "width": 1548,
+    "height": 850
+  },
+  "generation_method": "built_in_imagegen; one call per form; approved five-star identity plus refined 06 card-layout references",
+  "skill_balance_status": "No new numerical values or mechanics. Existing passive levels retained. Demon active name is draft proposal, not user approval.",
+  "parent_delivery_note": "Parent will handle current authorized multi-file Library flow. Child performed no upload and did not retry blocked helper.",
+  "qa_path": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/sixstar-other-forms_20261020_205700_UTC+08/QA.json",
+  "source_integrity_all_match": true,
+  "rejection_reason": "User states forms essentially reuse five-star appearances; remake requested with genuine life-form/silhouette change."
+}
