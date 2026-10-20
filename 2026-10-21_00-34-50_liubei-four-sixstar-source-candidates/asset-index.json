@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-10-21T00:34:50.586126+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/heritage6-source.png",
+      "original_name": "heritage6-source.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/heritage6-source.png",
+      "repository_path": "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates/assets/sha256/1c59a2af7b4530f16fa736f6a82a8b27cbd7dd3c7da45952a605c3b0b6da8fe2.png",
+      "sha256": "1c59a2af7b4530f16fa736f6a82a8b27cbd7dd3c7da45952a605c3b0b6da8fe2",
+      "original_sha256": "1c59a2af7b4530f16fa736f6a82a8b27cbd7dd3c7da45952a605c3b0b6da8fe2",
+      "bytes": 3418693,
+      "archived_at": "2026-10-21T00:34:50.586126+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/divine6-source.png",
+      "original_name": "divine6-source.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/divine6-source.png",
+      "repository_path": "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates/assets/sha256/6bac400ae65dd2b7d5db3b5471df23e9585a3b756b732637707c26c1f1916b66.png",
+      "sha256": "6bac400ae65dd2b7d5db3b5471df23e9585a3b756b732637707c26c1f1916b66",
+      "original_sha256": "6bac400ae65dd2b7d5db3b5471df23e9585a3b756b732637707c26c1f1916b66",
+      "bytes": 3232256,
+      "archived_at": "2026-10-21T00:34:50.586126+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/demon6-source.png",
+      "original_name": "demon6-source.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/demon6-source.png",
+      "repository_path": "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates/assets/sha256/c91c2f7d62b0610045142f4d060a582ba7d60f0777f2bda3d48fed03da829008.png",
+      "sha256": "c91c2f7d62b0610045142f4d060a582ba7d60f0777f2bda3d48fed03da829008",
+      "original_sha256": "c91c2f7d62b0610045142f4d060a582ba7d60f0777f2bda3d48fed03da829008",
+      "bytes": 3341062,
+      "archived_at": "2026-10-21T00:34:50.586126+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/mecha6-source.png",
+      "original_name": "mecha6-source.png",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/mecha6-source.png",
+      "repository_path": "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates/assets/sha256/37ddda07f09cfacd3fd57db2f2421e99361eb58a5e43fb90be49b1eb6b6a367e.png",
+      "sha256": "37ddda07f09cfacd3fd57db2f2421e99361eb58a5e43fb90be49b1eb6b6a367e",
+      "original_sha256": "37ddda07f09cfacd3fd57db2f2421e99361eb58a5e43fb90be49b1eb6b6a367e",
+      "bytes": 3524185,
+      "archived_at": "2026-10-21T00:34:50.586126+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/liubei-complete_20261020_160600_UTC/six-star-source-QA.jpg",
+      "original_name": "six-star-source-QA.jpg",
+      "source_location_at_capture": "/tmp/liubei-complete_20261020_160600_UTC/six-star-source-QA.jpg",
+      "repository_path": "2026-10-21_00-34-50_liubei-four-sixstar-source-candidates/source/staged-production/liubei-complete_20261020_160600_UTC/six-star-source-QA.jpg",
+      "sha256": "f62872adede20867814bbcdb4f6e448d96b2884e9f513730952ce61c56284090",
+      "original_sha256": "f62872adede20867814bbcdb4f6e448d96b2884e9f513730952ce61c56284090",
+      "bytes": 86445,
+      "archived_at": "2026-10-21T00:34:50.586126+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

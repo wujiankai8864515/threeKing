@@ -1,0 +1,14 @@
+{
+  "README.md": "5a3628e34ae316b2a0fb8ad381842a3fc67660aac78e6874981f5c2d3ca7006d",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "c21e30d2afcef655b3e4fee2986ceba5e12dc2da5e25f95be318e5bb7a6f8179",
+  "production-progress.json": "cbf6ae9bf29cc884a69082a0b60cca632d1634e691b0b3668f45f841ee2a8e8f",
+  "effective-source-map.json": "b120aad24ba808bd264feaaf596eff4beeae93ff4d3988b799b3dd9d4c8bbaac",
+  "archive-scope.json": "9c0c2b473566345098ee32340f6135be72986c104759d8757597fb6b5216d4ff",
+  "asset-index.json": "46ccd6efd98637e0346bde476e2d749929c092f38a2dacfd01cbdbdec5b5932d",
+  "source/staged-production/liubei-complete_20261020_160600_UTC/six-star-source-QA.jpg": "f62872adede20867814bbcdb4f6e448d96b2884e9f513730952ce61c56284090",
+  "assets/sha256/37ddda07f09cfacd3fd57db2f2421e99361eb58a5e43fb90be49b1eb6b6a367e.png": "37ddda07f09cfacd3fd57db2f2421e99361eb58a5e43fb90be49b1eb6b6a367e",
+  "assets/sha256/c91c2f7d62b0610045142f4d060a582ba7d60f0777f2bda3d48fed03da829008.png": "c91c2f7d62b0610045142f4d060a582ba7d60f0777f2bda3d48fed03da829008",
+  "assets/sha256/6bac400ae65dd2b7d5db3b5471df23e9585a3b756b732637707c26c1f1916b66.png": "6bac400ae65dd2b7d5db3b5471df23e9585a3b756b732637707c26c1f1916b66",
+  "assets/sha256/1c59a2af7b4530f16fa736f6a82a8b27cbd7dd3c7da45952a605c3b0b6da8fe2.png": "1c59a2af7b4530f16fa736f6a82a8b27cbd7dd3c7da45952a605c3b0b6da8fe2"
+}
