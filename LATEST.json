@@ -1,10 +1,10 @@
 {
   "snapshot": "2026-10-18_15-47-40_guanyu-art-snapshot",
-  "asset_index": "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt/asset-index.json",
+  "asset_index": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/asset-index.json",
   "approved_and_pending": "2026-10-18_15-47-40_guanyu-art-snapshot/docs/STATUS.md",
-  "note": "三人私有预览站v11发布成功回执，关羽与刘备各48图齐，张飞继续补全。发布不等于美术验收或GitHub同步。",
-  "latest_delta": "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt",
-  "current_status": "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt/status-overrides.json",
+  "note": "张飞魔五星与魔六星独立叙事传记候选，已本地质量检查，待用户审阅。",
+  "latest_delta": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates",
+  "current_status": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/status-overrides.json",
   "previous_status_delta": "2026-10-18_15-49-47_approval-feedback-delta",
   "asset_deltas": [
     "2026-10-18_16-00-02_green-dragon-art-delta",
@@ -181,7 +181,8 @@
     "2026-10-21_01-37-07_three-hero-gallery-v10-source",
     "2026-10-21_01-37-09_three-hero-gallery-v10-published-receipt",
     "2026-10-21_01-40-44_three-hero-gallery-v11-source",
-    "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt"
+    "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt",
+    "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates"
   ],
   "status_deltas": [
     "2026-10-18_15-49-47_approval-feedback-delta",
@@ -382,7 +383,8 @@
     "2026-10-21_01-37-07_three-hero-gallery-v10-source",
     "2026-10-21_01-37-09_three-hero-gallery-v10-published-receipt",
     "2026-10-21_01-40-44_three-hero-gallery-v11-source",
-    "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt"
+    "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt",
+    "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates"
   ],
   "backup_verification": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/REMOTE-BASELINE-RECEIPT.json",
   "feedback_log": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/FEEDBACK-LOG.json",
@@ -400,8 +402,8 @@
   "remote_latest_pushed_verification": "independent_download_LFS_and_2950_copy_sha256_pass",
   "library_preparation_status": "2026-10-18_21-12-39_shu-closure-and-wei-production-candidates/LIBRARY-PREPARATION-STATUS.json",
   "remote_verification_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/prior-remote-verification.json",
-  "effective_source_map": "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt/effective-source-map.json",
-  "production_progress": "2026-10-21_01-40-46_three-hero-gallery-v11-published-receipt/production-progress.json",
+  "effective_source_map": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/effective-source-map.json",
+  "production_progress": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/production-progress.json",
   "historical_current40": "2026-10-19_02-59-43_CURRENT40-smallpack-delivery-catalog/source/output/完整交付/2026-10-19_02-36-06/small-pack_2026-10-19_02-55-37/git-smallpack-catalog/CURRENT40.json",
   "historical_delivery_receipt": "2026-10-19_03-01-41_CURRENT40-smallpack-delivery-accepted-verified/delivery-receipt.json",
   "delivery_receipt": "2026-10-20_00-26-22_22-recognizable-demon-frame-pair-delivery/delivery-receipt.json",

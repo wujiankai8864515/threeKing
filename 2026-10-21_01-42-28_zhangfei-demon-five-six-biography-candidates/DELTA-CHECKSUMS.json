@@ -1,0 +1,12 @@
+{
+  "README.md": "2e2f14f929e94b2b548ab99f2f71285acb64c93b01714246b80a4bb78b7d8408",
+  "restore-all.py": "620e188d02f3f4fad1a4b76983aab1b8c77aa3588b07d3ad39de87f3493da207",
+  "status-overrides.json": "8ab867c8163e544747168186a83acb2e785a3da9aa4e6648739d1ec5b3fd418b",
+  "production-progress.json": "7f79dbed36aae1502de10515cc437d2d8b8814ea46f23c1497238de7d8597b83",
+  "effective-source-map.json": "814a71cd4364080f0fd6163b8ca65dfe353c1d9293297f3e21d9247632480841",
+  "archive-scope.json": "a01efcf1f41a606145825b52d71f04eca8fbcf25b8e80d15733f2770d1a50ce8",
+  "asset-index.json": "f35a82b693b7b76e35228c0bf1d75202e0cdf082409a599b1ef378c21d3d00bc",
+  "assets/sha256/ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669.png": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+  "assets/sha256/3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8.png": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+  "source/staged-production/zhangfei-bios_20261020_170400/manifest-batch3.json": "9bb71299d405e218faaff5db9a9560d20c82efb96396065ba7d1faa6671985f5"
+}

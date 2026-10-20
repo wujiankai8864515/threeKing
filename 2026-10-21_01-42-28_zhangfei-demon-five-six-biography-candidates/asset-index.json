@@ -1,0 +1,44 @@
+{
+  "archived_at": "2026-10-21T01:42:28.080561+08:00",
+  "entries": [
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/manifest-batch3.json",
+      "original_name": "manifest-batch3.json",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/manifest-batch3.json",
+      "repository_path": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/source/staged-production/zhangfei-bios_20261020_170400/manifest-batch3.json",
+      "sha256": "9bb71299d405e218faaff5db9a9560d20c82efb96396065ba7d1faa6671985f5",
+      "original_sha256": "9bb71299d405e218faaff5db9a9560d20c82efb96396065ba7d1faa6671985f5",
+      "bytes": 1397,
+      "archived_at": "2026-10-21T01:42:28.080561+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/demon5-biography.png",
+      "original_name": "demon5-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/demon5-biography.png",
+      "repository_path": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/assets/sha256/3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8.png",
+      "sha256": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+      "original_sha256": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+      "bytes": 2744261,
+      "archived_at": "2026-10-21T01:42:28.080561+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    },
+    {
+      "original_path": "staged-production/zhangfei-bios_20261020_170400/demon6-biography.png",
+      "original_name": "demon6-biography.png",
+      "source_location_at_capture": "/tmp/zhangfei-bios_20261020_170400/demon6-biography.png",
+      "repository_path": "2026-10-21_01-42-28_zhangfei-demon-five-six-biography-candidates/assets/sha256/ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669.png",
+      "sha256": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+      "original_sha256": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+      "bytes": 3427154,
+      "archived_at": "2026-10-21T01:42:28.080561+08:00",
+      "source_bytes_preserved": true,
+      "status": "candidate_or_production_artifact_not_user_accepted",
+      "supersedes": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "entries": [
+    {
+      "hero": "zhangfei",
+      "form": "demon5",
+      "tier": 5,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon5-biography.png",
+      "sha256": "3430e6103d00f90a0a98d9cfda1b176a7da4e37fae1f46c4c6ecaed9eed204e8",
+      "status": "new_candidate_pending_review",
+      "title": "帐中未尽的怒火",
+      "story": "梦里没有庆功的酒，只有骤然熄灭的灯与未能说完的嘱托。张飞在黑暗里握紧蛇矛，把背叛留下的恐惧一寸寸折成锁链。他不肯让怒火吞掉自己的姓名，于是先锁住心中的猛虎，再向漫长的夜走去。此为虚构魔化支线，不作真实死因重演。"
+    },
+    {
+      "hero": "zhangfei",
+      "form": "demon6",
+      "tier": 6,
+      "kind": "biography",
+      "local_path": "/tmp/zhangfei-bios_20261020_170400/demon6-biography.png",
+      "sha256": "ab22ac2a0580e1ba7c3c0e490419f431195094e492d5f4cd3f9537bdeca2c669",
+      "status": "new_candidate_pending_review",
+      "title": "怒火的缰绳",
+      "story": "那只猛虎终于挣断了梦中的锁链，却没有扑向无辜的人。张飞将自己的意识埋进它的脊骨，让每一寸利爪都记得该守住什么。冥夜因他裂开一道缝；从缝里走出的不再是旧日武将，却依然是那个肯为同伴挡在前面的人。此为幻想进阶故事。"
+    }
+  ]
+}
