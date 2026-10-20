@@ -1,0 +1,46 @@
+[
+  {
+    "id": "07",
+    "name": "龙甲裂变",
+    "args": {
+      "prompt": "Precise local edit ONLY. Preserve entire Guan Yu face, hair, beard, body, hands, banner, magic, weapon, pose, lighting and composition exactly. Modify ONLY the distant city name plaque/banner near RIGHT edge: remove current horizontal 麦城 lettering and restore its natural stone background. Place a narrow vertical cloth city banner with both characters 麦 above 城 clearly legible fully inside x760 to x870, y180 to y360 on a nearby distant wall in upper-right background. For lower-right existing sign, remove that old sign lettering too. This avoids later UI at x>915 and y>930. The banner is small distant weathered beige with dark ink, subordinate but readable, no black rectangular overlay. Do not move or regenerate Guan Yu; no change to 关 banner. Output same1024x1536. Everything outside small city-sign/background area unchanged.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/07-龙甲裂变-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "09",
+    "name": "血刃魔身",
+    "args": {
+      "prompt": "Precise local edit ONLY. Preserve entire Guan Yu face, hair, beard, body, hands, banner, magic, weapon, pose, lighting and composition exactly. Modify ONLY the distant city name plaque/banner near RIGHT edge: remove current horizontal 麦城 lettering and restore its natural stone background. Place a narrow vertical cloth city banner with both characters 麦 above 城 clearly legible fully inside x760 to x870, y180 to y360 on a nearby distant wall in upper-right background. For lower-right existing sign, remove that old sign lettering too. This avoids later UI at x>915 and y>930. The banner is small distant weathered beige with dark ink, subordinate but readable, no black rectangular overlay. Do not move or regenerate Guan Yu; no change to 关 banner. Output same1024x1536. Everything outside small city-sign/background area unchanged.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/09-血刃魔身-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "11",
+    "name": "双臂镇狱",
+    "args": {
+      "prompt": "Precise local edit ONLY. Preserve entire Guan Yu face, hair, beard, body, hands, banner, magic, weapon, pose, lighting and composition exactly. Modify ONLY the distant city name plaque/banner near RIGHT edge: remove current horizontal 麦城 lettering and restore its natural stone background. Place a narrow vertical cloth city banner with both characters 麦 above 城 clearly legible fully inside x760 to x870, y180 to y360 on a nearby distant wall in upper-right background. For lower-right existing sign, remove that old sign lettering too. This avoids later UI at x>915 and y>930. The banner is small distant weathered beige with dark ink, subordinate but readable, no black rectangular overlay. Do not move or regenerate Guan Yu; no change to 关 banner. Output same1024x1536. Everything outside small city-sign/background area unchanged.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/11-双臂镇狱-source.png"
+      ],
+      "transparent_background": false
+    }
+  },
+  {
+    "id": "20",
+    "name": "炼狱孤王",
+    "args": {
+      "prompt": "Precise tiny local edit only. Preserve Guan Yu, hair, beard, face, body, hands, cloak, 关 flag, all magic, lighting and composition exactly. The lower-right distant city has a narrow vertical 麦城 banner too far right and low. Move ONLY this small city banner to x840–895, y800–900, on the same distant city wall, both characters 麦 above 城 fully within this area. Remove the old lettering and restore natural wall where it was. Do not add a city banner in the upper sky or change the large 关 flag. Small distant weathered cloth with dark readable ink, subordinate. No other alteration. Output 1024x1536.",
+      "referenced_image_paths": [
+        "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/20-炼狱孤王-source.png"
+      ],
+      "transparent_background": false
+    }
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "recorded_at": "2026-10-20T11:02:03.590123+08:00",
+  "previous_status": "2026-10-20_10-57-12_sacred-sixstar-ten-ready/status-overrides.json",
+  "current_summary": "新极怒魔20完整候选已全部冻结，当前07/09/11采用citysafe、20采用citysafe-v2；旧遮麦城版本和20首修失败完整保留历史。全部实际源/参数/参考、UI配置分层、QA、Library映射及三张新citysafe总览已收，其他16图不变。与10神圣六框合计30候选制作齐，等待统一发送和用户选择；五星认可框不动，不提前称已交或批准。六框当前以神圣光泽质感方向为准，蓝钻/铂金墨青旧材质只历史。",
+  "effective_source_map": "2026-10-20_11-02-03_infernal-twenty-citysafe-ready/effective-source-map.json"
+}

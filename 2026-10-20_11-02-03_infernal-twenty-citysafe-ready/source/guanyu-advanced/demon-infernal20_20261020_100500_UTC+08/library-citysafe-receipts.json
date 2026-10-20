@@ -1,0 +1,146 @@
+{
+  "results": [
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/guanyu-infernal-07-citysafe-5star.png",
+      "file_id": "file_00000000712c81fda9684dd4f8f2effe",
+      "library_file_id": "libfile_49e918b2c1c08191b65a8d977a4244d9",
+      "file_name": "guanyu-infernal-07-citysafe-5star.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3871725
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/guanyu-infernal-09-citysafe-5star.png",
+      "file_id": "file_00000000a8e081f4ba965cff84b8f359",
+      "library_file_id": "libfile_06aa9857767481919af6d2ca559cdea6",
+      "file_name": "guanyu-infernal-09-citysafe-5star.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4122988
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/guanyu-infernal-11-citysafe-5star.png",
+      "file_id": "file_0000000011dc81fd9b1d1bc072715875",
+      "library_file_id": "libfile_413dce68f1d881918849541a1eca8f71",
+      "file_name": "guanyu-infernal-11-citysafe-5star.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 3707643
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/guanyu-infernal-20-citysafe-v2-5star.png",
+      "file_id": "file_0000000051b881fd9b2c140b71da6526",
+      "library_file_id": "libfile_ccb4a9e8f1888191a9a4e5707cb93245",
+      "file_name": "guanyu-infernal-20-citysafe-v2-5star.png",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/png",
+      "library_artifact_type": "image",
+      "file_size_bytes": 4063727
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/overview-citysafe-01-10.jpg",
+      "file_id": "file_000000000c1081f4a9ae30595d84b476",
+      "library_file_id": "libfile_c1837218b7108191bba4b26fcb0bee9e",
+      "file_name": "overview-citysafe-01-10.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 1279904
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/overview-citysafe-11-20.jpg",
+      "file_id": "file_00000000855881fda60e1a7b057b773b",
+      "library_file_id": "libfile_6575b003f9548191a31c3009eefd9e9e",
+      "file_name": "overview-citysafe-11-20.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 1278777
+    },
+    {
+      "operation": "create_library_file",
+      "status": "succeeded",
+      "path": "/overview-citysafe-01-20.jpg",
+      "file_id": "file_0000000010d081fd9df09c6b7d1e5e7a",
+      "library_file_id": "libfile_33ecc35828e48191b51c464007cd60de",
+      "file_name": "overview-citysafe-01-20.jpg",
+      "current_version_number": 0,
+      "restored_from_version_number": null,
+      "xattrs": [
+        {
+          "name": "user.library-file-version",
+          "value": "0"
+        }
+      ],
+      "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+      "mime_type": "image/jpeg",
+      "library_artifact_type": "image",
+      "file_size_bytes": 2552989
+    }
+  ],
+  "warnings": [],
+  "external_connectors_accessed": false
+}

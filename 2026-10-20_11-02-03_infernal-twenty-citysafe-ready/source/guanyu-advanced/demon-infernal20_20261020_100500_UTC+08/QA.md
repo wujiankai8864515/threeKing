@@ -1,0 +1,13 @@
+# Candidate QA 2026-10-20 10:27 UTC+08
+Twenty independent new reference-based calls completed; actual prior02/03 viewed. No inherited approval. All20sources and complete diamond cards present. Actual visual review: two numbered10-card sheets plus02/08/11/14 full-size. Standard frame alpha/anchors unchanged;1190×1786 card and1024×1536 native art.
+
+Design: recognizable Guan Yu, bare white wild hair/beard, prominent关banners, angry red directedeye power. Physical forms include blackdragon armorskin, volcanicbody, fuseddragonarm, membranewings, demonhorse, giantclaws, exoskeleton, livingblade, infernalstride, riftopeninghands, innerfire, dragonforearm, chains and clawfeet. No giant human face in sky.
+
+Story Maicheng and whiteclothed boat/infiltration appear as subordinate background; this is fictional revenge response to military defeat, not fabricated private betrayal fact. City typography is secondary; some citylabels near right edge are partly cropped by standard star strip. Banners generally readable,05/14 onhorses are coherent humanhorse mutation family.
+
+Limitations: candidate exploration not approved final. Overall redblackwhitegreen palette deliberately shared; several busts/dragonarm variants are related, not20unrelatedgenres. Local generated clothweathering, volcanic detail and ground debris still have smalltexture points despite no intentional sparkfield; do not claim everypixel free of flecks. Main forms are more demonic than previous ordinary armor, but degree of metamorphosis varies. UI may cover lower-side weapon ends, face unobscured. Future selectedimage fine QA should correct any residual microtexture or exactcity label placement. No further unsolicited rerender performed.
+
+All fixedUI skills existingpreview names/levels, no new balance approval. All20remain candidate_pending_user_review. No otherhero or previously approvedillustration changed.
+
+
+2026-10-20 11:00 UTC+08 city safety revision: 07,09,11 had city lettering partly occluded by stars;20 by passive strip. Four imagegen local background sign edits made.20 first edit failed placement and was retained, second edit passed. All four complete cards visually checked: 麦城 legible and unobscured. Character compositions preserved visually, not asserted pixel-identical. The other16 artworks/cards remain unchanged. Prior source/cards/Library receipts retained as unissued history; current manifest chooses citysafe variants. Full imagegen parameters and returned paths are city-safety-fix-jobs.json and citysafe-result*.json. Final overviews are overview-citysafe-*; old overviews are historical. This resolves text masking, not a claim of zero art flaws or user approval.

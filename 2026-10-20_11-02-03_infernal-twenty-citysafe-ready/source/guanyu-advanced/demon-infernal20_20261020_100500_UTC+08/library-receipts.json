@@ -1,0 +1,462 @@
+[
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-01-5star.png",
+    "file_id": "file_00000000d22c81f899378c8c6f62d67f",
+    "library_file_id": "libfile_4d6353e128048191a97ba3780cf0c24d",
+    "file_name": "guanyu-infernal-01-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4084751
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-02-5star.png",
+    "file_id": "file_0000000084e081fdb54886c485de6b37",
+    "library_file_id": "libfile_cc8d627720b881919f57497c14653a22",
+    "file_name": "guanyu-infernal-02-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4067975
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-03-5star.png",
+    "file_id": "file_00000000183081fd86dceecf48de8182",
+    "library_file_id": "libfile_dee8ce507f9c8191b34eac172d5d09db",
+    "file_name": "guanyu-infernal-03-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3979138
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-04-5star.png",
+    "file_id": "file_00000000f4ac81f5aa1a752a3d091f2a",
+    "library_file_id": "libfile_e495ad67648c81919812a07363cf0278",
+    "file_name": "guanyu-infernal-04-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4230122
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-05-5star.png",
+    "file_id": "file_00000000082481f8b3c9e4d67f351214",
+    "library_file_id": "libfile_399650f0b39c81919837d6a08e18c3b2",
+    "file_name": "guanyu-infernal-05-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4024394
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-06-5star.png",
+    "file_id": "file_00000000355882469803669837475df5",
+    "library_file_id": "libfile_60ca630c44f48191b776d82a681f8c16",
+    "file_name": "guanyu-infernal-06-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4180190
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-07-5star.png",
+    "file_id": "file_00000000fc0881fdb293e72ffbe64fa3",
+    "library_file_id": "libfile_8ad24295d6bc819190219b81d1f2559b",
+    "file_name": "guanyu-infernal-07-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4113424
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-08-5star.png",
+    "file_id": "file_0000000002c481fd95b9821add78fb79",
+    "library_file_id": "libfile_bc14bd8ae4688191b4e309e8b98c2556",
+    "file_name": "guanyu-infernal-08-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4180057
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-09-5star.png",
+    "file_id": "file_00000000fc9481f59d67811d51a4b244",
+    "library_file_id": "libfile_aa324c74afd08191b755ac558701d484",
+    "file_name": "guanyu-infernal-09-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4233867
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-10-5star.png",
+    "file_id": "file_000000008e24820c8bb1b586cb233b74",
+    "library_file_id": "libfile_4d76262204388191b474b4f4b7ab43f6",
+    "file_name": "guanyu-infernal-10-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3995722
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-11-5star.png",
+    "file_id": "file_0000000030008230a242c004380546ab",
+    "library_file_id": "libfile_8f8357f1dca081918993f6f510b52a3c",
+    "file_name": "guanyu-infernal-11-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4006982
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-12-5star.png",
+    "file_id": "file_00000000c6b482308b7a8b165b061c9f",
+    "library_file_id": "libfile_48f3e8bbe9b88191a4365006f2ea070e",
+    "file_name": "guanyu-infernal-12-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4206879
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-13-5star.png",
+    "file_id": "file_00000000d38c8230bd82f73fb025b98a",
+    "library_file_id": "libfile_0fd229ca015c819189d61b22b2026142",
+    "file_name": "guanyu-infernal-13-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4135241
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-14-5star.png",
+    "file_id": "file_00000000efbc82309d1553c927c816a7",
+    "library_file_id": "libfile_574d3b8732e081919e56fd54f81266ee",
+    "file_name": "guanyu-infernal-14-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 3999793
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-15-5star.png",
+    "file_id": "file_00000000ba2c81fd85f252826e3849c7",
+    "library_file_id": "libfile_28511edac28081918cb1039cdd881644",
+    "file_name": "guanyu-infernal-15-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4039570
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-16-5star.png",
+    "file_id": "file_0000000062e08243ab253ebf1cfb2562",
+    "library_file_id": "libfile_34fb13da04548191aa7d61fcb7a031d7",
+    "file_name": "guanyu-infernal-16-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4132872
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-17-5star.png",
+    "file_id": "file_00000000e9c881f58e36c073d8fc55a2",
+    "library_file_id": "libfile_73b526380f4c81918c189592943d8347",
+    "file_name": "guanyu-infernal-17-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4067503
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-18-5star.png",
+    "file_id": "file_00000000fee481f4b209e5babd890d8e",
+    "library_file_id": "libfile_a83298b6d20c81919ac2ee8270486221",
+    "file_name": "guanyu-infernal-18-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4010537
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-19-5star.png",
+    "file_id": "file_00000000583481fdb7fbc2a6f0beb711",
+    "library_file_id": "libfile_75a85aea78f08191a05acc585bd9cf14",
+    "file_name": "guanyu-infernal-19-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4026977
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/guanyu-infernal-20-5star.png",
+    "file_id": "file_000000003f5081f4ae71f46dc4acd107",
+    "library_file_id": "libfile_42dfba1cb7248191b22f5923966635e2",
+    "file_name": "guanyu-infernal-20-5star.png",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/png",
+    "library_artifact_type": "other",
+    "file_size_bytes": 4272430
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/overview-01-10(1).jpg",
+    "file_id": "file_00000000f0fc81f495be208321cf9ab8",
+    "library_file_id": "libfile_6205aedc3d0c81919c153b885be525c4",
+    "file_name": "overview-01-10(1).jpg",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/jpeg",
+    "library_artifact_type": "other",
+    "file_size_bytes": 1282138
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/overview-11-20(1).jpg",
+    "file_id": "file_00000000277481f4b547404a6dd4a721",
+    "library_file_id": "libfile_39d8522c1bb4819196cb8c9adc46e544",
+    "file_name": "overview-11-20(1).jpg",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/jpeg",
+    "library_artifact_type": "other",
+    "file_size_bytes": 1280463
+  },
+  {
+    "operation": "create_library_file",
+    "status": "succeeded",
+    "path": "/overview-01-20(1).jpg",
+    "file_id": "file_000000000f2c820db530cedd9eac2603",
+    "library_file_id": "libfile_7e98649553608191a66a0f937bc25c90",
+    "file_name": "overview-01-20(1).jpg",
+    "current_version_number": 0,
+    "restored_from_version_number": null,
+    "xattrs": [
+      {
+        "name": "user.library-file-version",
+        "value": "0"
+      }
+    ],
+    "directory_id": "libdir_64986e0773f481919ab1e992ad46ea43",
+    "mime_type": "image/jpeg",
+    "library_artifact_type": "other",
+    "file_size_bytes": 2556890
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "hero": "guanyu",
+  "name": "魔·关羽",
+  "branch": "天",
+  "branch_id": "infernal-15",
+  "tier": 5,
+  "level": 1,
+  "source": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/15-裂地鬼侯-source.png",
+  "outdir": "/workspace/scratch/3f82ff2b3f81/guanyu-advanced/demon-infernal20_20261020_100500_UTC+08/card-15",
+  "skills": [
+    {
+      "name": "杀心",
+      "level": 2
+    },
+    {
+      "name": "噬魂",
+      "level": 2
+    },
+    {
+      "name": "复仇",
+      "level": 2
+    }
+  ]
+}
